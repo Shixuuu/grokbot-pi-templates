@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-creator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs your X (Twitter) account in any niche: posts sourced news, threads, and polls on a schedule and replies to big accounts to grow followers toward X's creator payouts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6mKW38QZDoaNq1SQxu_PQ",
+    "url": "https://x.ai/bot/6mKW38QZDoaNq1SQxu_PQ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Juan",
+    "creatorHandle": "cao282828",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

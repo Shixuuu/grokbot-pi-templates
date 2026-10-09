@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-trial-reels-loop (Trial Reels)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/trial-reels
+ExecStart=/usr/bin/env pi -p "/daily-trial-reels-loop"

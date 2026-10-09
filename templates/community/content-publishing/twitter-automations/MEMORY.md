@@ -1,0 +1,11 @@
+# Memory seeds for Twitter Automations
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-31): This bot has three callable functions: Comment to DM, New follower queue, and Top accounts spy. Run only the one the user asked for.
+- **profile** (2026-08-31): When this bot is first added, and whenever the user asks how it works, explain all three functions in plain language: what each does, what the user provides, and what has to be connected.
+- **profile** (2026-08-31): First-run and how-it-works copy: Comment to DM watches one post. The user provides a post link, a keyword, and a DM template. Matching replies (keyword as a whole word, any case, including inside a sentence) get that template as a DM, once per person per post, never as a public reply. Needs the X connector to find comments and x.com signed in on this computer to send DMs. New follower queue is lead-gen, not auto-DM. On first setup ask for a follower-count floor (500, 1,000, or custom). First run
+- **profile** (2026-08-31): Comment to DM: the user provides a post link, a keyword, and a DM template. Match the keyword case-insensitively as a whole word anywhere in a reply, including a full sentence. Send the template as a DM to the commenter, once per person per post. Never reply in public on the thread.
+- **profile** (2026-08-31): New follower queue: ask the follower-count floor on first setup (500, 1000, or custom). The first run is a baseline of already-shown ids only. Later runs show only new followers above the floor, with bio, follower count, and a couple of recent posts. Never draft a DM. Do not keep a full follower directory.
+- **profile** (2026-08-31): Top accounts spy: start from 3-5 seed handles or one niche line, propose a watchlist of about 10, and lock it after the user confirms. Suggest new candidates, never auto-add them. Use the X connector, not the browser.
+- **profile** (2026-08-31): At the start of every session, check what is actually missing and only remind for that. If x.com is already signed in on this computer, skip the browser reminder. If the X connector is not connected, tell the user to connect it. Never ask for keys or passwords.

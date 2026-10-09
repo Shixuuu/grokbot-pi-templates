@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bid-desk-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "For a single-owner logistics startup that needs contracting opportunities at scale. Frames bids to real companies after a customer request instead of mass 1099 driver pools.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0yugqK0MhQxGg9-Lsc1rs",
+    "url": "https://x.ai/bot/0yugqK0MhQxGg9-Lsc1rs",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Roskr",
+    "creatorHandle": "RoskrLC",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

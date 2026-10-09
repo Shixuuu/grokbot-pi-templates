@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-farm-boss",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A regenerative food-forest and farm planting assistant: guild design, organic orchard care, seasonal plant reminders, and botanically accurate teaching sheets for USDA-zone growers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IxiohUGV-_bzX4rw-35lR",
+    "url": "https://x.ai/bot/IxiohUGV-_bzX4rw-35lR",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Maine Coon Breeder",
+    "creatorHandle": "WhiskerWorksTN",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

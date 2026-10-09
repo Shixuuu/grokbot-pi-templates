@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-the-table",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Solo TTRPG with a real party of bots — GM + players with secret deals, hidden hooks, rule arguments, and real dice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MCbora5cfpxh0qvCQkABU",
+    "url": "https://x.ai/bot/MCbora5cfpxh0qvCQkABU",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Markus Johnson",
+    "creatorHandle": "Markus",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

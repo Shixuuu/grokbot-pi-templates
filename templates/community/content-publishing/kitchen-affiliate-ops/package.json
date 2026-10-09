@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-kitchen-affiliate-ops",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Installable Ops desk for US Associates kitchen decision guides: Research→Coder→Verifier→deploy with hard honesty gates. Clone this — don’t rebuild the crew.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SD3AtfO9y4ndQ1wk1Z9Cq",
+    "url": "https://x.ai/bot/SD3AtfO9y4ndQ1wk1Z9Cq",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Good Peeps",
+    "creatorHandle": "Chebino",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

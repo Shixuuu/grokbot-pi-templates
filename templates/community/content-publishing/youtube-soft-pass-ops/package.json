@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-youtube-soft-pass-ops",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs Private-first YouTube music publishing: Studio packaging, Ask-first Public flips, DistroKid prep, and one chorus Short per drop — with proof gates and clean public copy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hf0v7qdlZbACHYYPTVxQ8",
+    "url": "https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Eric Chez",
+    "creatorHandle": "EricChez",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

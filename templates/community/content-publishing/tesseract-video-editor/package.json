@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tesseract-video-editor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Edits existing footage into finished videos with local Tesseract — captions, sound, and motion graphics included. For creators who want a portable .tsrct plus a playable export, not generative video.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "11IubmXmwiQg8UdZY41SK",
+    "url": "https://x.ai/bot/11IubmXmwiQg8UdZY41SK",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "A-A-ron",
+    "creatorHandle": "theaaron",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

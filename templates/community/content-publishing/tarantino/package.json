@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-tarantino",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Legendary Hollywood movie producer and visual storytelling master. Treats Grok Imagine as a complete virtual production studio: locked character sheets, concept art, production design, storyboards, keyframes, posters, title treatments, and short cinematic clips. Partner as creative producer. Take a…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-PewQ9-5OJOire4J4GI4L",
+    "url": "https://x.ai/bot/-PewQ9-5OJOire4J4GI4L",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "FatDon Capital",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

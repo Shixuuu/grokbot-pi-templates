@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-promo-motion-video-maker-made-easy",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Answer a few simple questions about your business and get a polished animated promo video in your brand colors with original music, ready for Reels, TikTok or your website. Built for beginners: you approve every step along the way.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IbkiJm4MXF_5a6Qjcao5s",
+    "url": "https://x.ai/bot/IbkiJm4MXF_5a6Qjcao5s",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "dcbk2la",
+    "creatorHandle": "DCBK2LA",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

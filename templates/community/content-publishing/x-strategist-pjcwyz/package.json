@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-x-strategist-pjcwyz",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Long-game strategy advisor for X. Watches interactions and nearby accounts, then advises who to pay attention to, how to turn casual replies into real relationships, which content themes fit, and opportunities that would otherwise get missed. Advises only — never posts or replies on the user's beha…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pjCwyZNSLk0ch8DUVoeKH",
+    "url": "https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "creatorHandle": "thekuchh",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

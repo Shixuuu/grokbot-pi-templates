@@ -1,0 +1,3 @@
+# Routine "Signal radar" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9,12,15,18 * * 1-5 cd /path/to/bones-desk-os && pi -p "/8731d6ee-67f7-5dcd-acec-66c9ad0fd0d2"

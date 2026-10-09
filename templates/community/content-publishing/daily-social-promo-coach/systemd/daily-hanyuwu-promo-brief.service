@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-hanyuwu-promo-brief (Daily Social Promo Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/daily-social-promo-coach
+ExecStart=/usr/bin/env pi -p "/daily-hanyuwu-promo-brief"

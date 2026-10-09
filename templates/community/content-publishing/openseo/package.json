@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-openseo",
+  "version": "1.0.2",
+  "private": true,
+  "description": "SEO specialist powered by OpenSEO: keyword research, competitive analysis, site audits, local SEO, and content briefs. One job at a time, then stop and report.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8yZv2AeUvBcOFoFRVZfhU",
+    "url": "https://x.ai/bot/8yZv2AeUvBcOFoFRVZfhU",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Graham Calder",
+    "creatorHandle": "BlissNomad",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

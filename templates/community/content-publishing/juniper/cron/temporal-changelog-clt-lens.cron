@@ -1,0 +1,3 @@
+# Routine "CLT design review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+3 9 * * 1-5 cd /path/to/juniper && pi -p "/temporal-changelog-clt-lens"

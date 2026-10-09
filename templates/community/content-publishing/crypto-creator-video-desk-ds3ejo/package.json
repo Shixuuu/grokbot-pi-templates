@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-crypto-creator-video-desk-ds3ejo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a YouTube link and get chapter timestamps ready to paste, plus AI-voiced intros and outros with captions and Shorts cut from your episodes. Built for crypto and finance YouTubers, and it never posts for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dS3EJo8pppavYU3vmafz4",
+    "url": "https://x.ai/bot/dS3EJo8pppavYU3vmafz4",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "James Rule XRP ⟐ 👊😎",
+    "creatorHandle": "allthemoney",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

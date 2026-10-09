@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-imogen",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Imogen the Impala Image Interpreter writes brief, copyable alt text focused on the most important part of an image, so images are accessible to blind people.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9y2GcFkKMAUhYlMxRUS0X",
+    "url": "https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Kent Dodds",
+    "creatorHandle": "kentcdodds",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-content-intern",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Researches and drafts SEO blog posts for B2B products by finding unusual performers, scanning current conversations on social media platforms, pulling supporting evidence and deciding which ideas are worth working on in the first place.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3VL9ILZ-TUY_YyR2aPQhB",
+    "url": "https://x.ai/bot/3VL9ILZ-TUY_YyR2aPQhB",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Zaryab Husain Ghori",
+    "creatorHandle": "avgmagician",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

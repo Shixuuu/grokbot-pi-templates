@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-prototype-designer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Right-fidelity prototypes and a prototype.md for Cursor/Codex builds. Grounded in NN/g learning goals, GOV.UK Prototype Kit practice, and DDaT interaction design.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_b0wyYKwherAZJdyL0HGG",
+    "url": "https://x.ai/bot/_b0wyYKwherAZJdyL0HGG",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ucdops",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

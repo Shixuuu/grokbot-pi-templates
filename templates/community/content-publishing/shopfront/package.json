@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-shopfront",
+  "version": "1.0.6",
+  "private": true,
+  "description": "ShopFront builds a simple one-page website from a short questionnaire. You fill in the business name, what you do, city, phone, and three services. ShopFront publishes a link you can open on your phone. After that it asks what you want next: edit the page, add photos, make the form email you, or pu…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "L6N9ujxhoOOugsju42J9S",
+    "url": "https://x.ai/bot/L6N9ujxhoOOugsju42J9S",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "tyler patrick",
+    "creatorHandle": "tyler patrick",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

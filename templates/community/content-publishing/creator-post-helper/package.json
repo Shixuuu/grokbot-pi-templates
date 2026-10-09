@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-creator-post-helper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns the day's real tech and gaming news into X post drafts in your voice, each with a source. Learns your niche and posting times, can send 3 drafts daily, and follows X best practices. Drafts only; you post.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "onlabyqxzixgbzjgdz18u",
+    "url": "https://x.ai/bot/onlabyqxzixgbzjgdz18u",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Pixel & Pivot Studios",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fitboard",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tap five questions (property, budget, rooms, style, country) and Fitboard searches a real store, reads real product-page prices, and delivers a priced shortlist table plus a one-page PDF. For anyone furnishing a home or room.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rkHdbyaGbAbfAKO3ax7ID",
+    "url": "https://x.ai/bot/rkHdbyaGbAbfAKO3ax7ID",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "etoo etoobitz",
+    "creatorHandle": "e2bitz_83",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

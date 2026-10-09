@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-post-verdict-for-wrapmoney (X Creator Pulse Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-creator-pulse-bot
+ExecStart=/usr/bin/env pi -p "/daily-post-verdict-for-wrapmoney"

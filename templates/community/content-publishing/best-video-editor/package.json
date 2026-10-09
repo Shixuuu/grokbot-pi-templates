@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-best-video-editor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Cuts, recuts, shot notes, and edit help from official or owner footage. Diagnoses the treatment first, then finishes a review-ready master. Never auto-posts or overwrites sources.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Do4CujP_kqnnc1KYnpOfI",
+    "url": "https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "X Freeze",
+    "creatorHandle": "XFreeze",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

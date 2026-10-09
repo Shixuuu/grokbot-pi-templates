@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-organic-ai-digest (SERP Watch Team)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/serp-watch-team
+ExecStart=/usr/bin/env pi -p "/weekly-organic-ai-digest"

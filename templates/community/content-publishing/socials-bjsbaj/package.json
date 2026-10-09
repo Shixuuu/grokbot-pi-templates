@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-socials-bjsbaj",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A content scout that finds filmable AI and tech stories and AI-vs-AI game video formats, then sends ready-to-film short-form kits to your chat a few times a day.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bjsbaj_a2ds2pQY1YiXqE",
+    "url": "https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "ashen one",
+    "creatorHandle": "ashen_one",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

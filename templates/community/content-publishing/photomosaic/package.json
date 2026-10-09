@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-photomosaic",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds 3-panel X photomosaics in Figma from a reference post plus background and hero assets. On-demand design ops — drop a post and get export-ready panels.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dYpPe1PCZv2WJDVTYDwhc",
+    "url": "https://x.ai/bot/dYpPe1PCZv2WJDVTYDwhc",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Matt Palmer",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

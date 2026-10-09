@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine pulse-8-05-delivery-watchdog
+
+[Timer]
+OnCalendar=*-*-* 08:06:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-refresh-decay-scan (AEO/SEO Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aeo-seo-bot
+ExecStart=/usr/bin/env pi -p "/weekly-refresh-decay-scan"

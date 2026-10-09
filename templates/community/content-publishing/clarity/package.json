@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-clarity",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Makes instructions and prompts clear. It rewrites text into Simplified Technical English (ASD-STE100), points out what is ambiguous, and explains hard ideas with simple visuals.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tNPnclaPMOw4so1wXqfOj",
+    "url": "https://x.ai/bot/tNPnclaPMOw4so1wXqfOj",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Meeting Minutes Grok on Spaces",
+    "creatorHandle": "bentruong",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

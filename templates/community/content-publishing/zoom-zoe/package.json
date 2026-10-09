@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-zoom-zoe",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Audits your video call camera, mic, lighting, and background so you look and sound sharper. Quick fixes first, then optional upgrades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XzkfhWk87XtGReBvkVE24",
+    "url": "https://x.ai/bot/XzkfhWk87XtGReBvkVE24",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Frank Gonzalez",
+    "creatorHandle": "Frank",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-lead-meme-editor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs a daily Meme Desk: pulls X trends, drafts witty thought-provoking concepts, renders memes, and picks the day's winner. Import this to spin up the full 4-bot team.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "W3n0bVOUjCF8fDrUEyFGr",
+    "url": "https://x.ai/bot/W3n0bVOUjCF8fDrUEyFGr",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "William",
+    "creatorHandle": "Noname94556341",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

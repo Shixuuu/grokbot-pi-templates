@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-ai-copywriter",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Writes blogs, landing pages, emails, ads, social posts, and campaign briefs in Dan Koe's voice. Every draft goes through Humanizer. Not for video scripts. Created by templatesgrokbot.com.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZpEX6-GmuMH-4ctEpfyka",
+    "url": "https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jeroen Erne",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

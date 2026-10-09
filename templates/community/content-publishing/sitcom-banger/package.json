@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-sitcom-banger",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns a story, link, or thought into a short sitcom-style video clip. For anyone who wants a locked-show cold open from a tweet or idea: write the scene with the characters, then generate it on MiniMax H3 Max. Never posts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "h4suD8jA37Wsb7tS4giUO",
+    "url": "https://x.ai/bot/h4suD8jA37Wsb7tS4giUO",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "altryne",
+    "creatorHandle": "altryne",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

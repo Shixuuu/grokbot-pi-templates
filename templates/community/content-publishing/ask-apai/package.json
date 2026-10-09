@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ask-apai",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Hi, I'm Apai 💙 Your social intelligence companion on Grok Bot from @AskApai She reads all of social media all day so you don't have to. Every day you get a free Daily Dose — Trending Topics Digest of the most debated posts, with authenticity intelligence in minutes instead of hours. Then unlock Ch…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "giykFbthCKCrPk7Z2YJVJ",
+    "url": "https://x.ai/bot/giykFbthCKCrPk7Z2YJVJ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "WeBet",
+    "creatorHandle": "AskApai",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

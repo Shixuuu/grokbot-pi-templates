@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-star-reply",
+  "version": "1.0.1",
+  "private": true,
+  "description": "For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them. Paste a Google, Yelp, or Facebook review plus the business name and type; get the public reply ready to post. Draft only.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SxlztEUtDeUXOiP26dyDb",
+    "url": "https://x.ai/bot/SxlztEUtDeUXOiP26dyDb",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Sol Wright",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

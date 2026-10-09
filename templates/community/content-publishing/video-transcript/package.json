@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-video-transcript",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Paste a YouTube video URL. This bot downloads the audio, transcribes it, and returns a short summary plus a full translation in your language, with the original transcript. Thin chat, personal memo use. Does not fetch X/Twitter media.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Al7SlxN5w6wFUUAxummZP",
+    "url": "https://x.ai/bot/Al7SlxN5w6wFUUAxummZP",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Kaninomizoshiru",
+    "creatorHandle": "kaninomiz0shiru",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

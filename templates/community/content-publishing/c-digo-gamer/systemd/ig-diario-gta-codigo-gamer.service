@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ig-diario-gta-codigo-gamer (Código.Gamer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/c-digo-gamer
+ExecStart=/usr/bin/env pi -p "/ig-diario-gta-codigo-gamer"

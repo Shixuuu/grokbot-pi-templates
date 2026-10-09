@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-news-posts-tesla-games-consoles-electronics (X Creator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-creator
+ExecStart=/usr/bin/env pi -p "/x-news-posts-tesla-games-consoles-electronics"

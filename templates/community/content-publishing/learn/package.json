@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-learn",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Teacher that builds first-principles lessons and educational videos on math, ML, and technical subjects. Does not publish or post. Lesson films are drawn in matplotlib, locked to one coordinate system, voiced with Eve TTS, and never Imagine stills or Ken Burns.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s5JszATSty0w-uDTw_NzK",
+    "url": "https://x.ai/bot/s5JszATSty0w-uDTw_NzK",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jeffrey Lind",
+    "creatorHandle": "JeffreyLind",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

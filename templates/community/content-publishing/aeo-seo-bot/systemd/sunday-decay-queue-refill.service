@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-decay-queue-refill (AEO/SEO Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aeo-seo-bot
+ExecStart=/usr/bin/env pi -p "/sunday-decay-queue-refill"

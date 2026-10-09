@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine b68815a6-adf3-5bd8-a41a-4b56e3c0a746 (DJ Grok Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dj-grok-bot
+ExecStart=/usr/bin/env pi -p "/b68815a6-adf3-5bd8-a41a-4b56e3c0a746"

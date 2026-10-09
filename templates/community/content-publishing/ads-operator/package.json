@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ads-operator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds practical Google Search (and Meta) campaign plans for local home-service trades: keywords, geo, ad copy, landing-page briefs, budget split, and conversion tracking. Planning only until you say go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zj8VKu1CnqkHCM4Na1zex",
+    "url": "https://x.ai/bot/zj8VKu1CnqkHCM4Na1zex",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Tyler",
+    "creatorHandle": "wells1226",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

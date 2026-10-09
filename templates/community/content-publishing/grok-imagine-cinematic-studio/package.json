@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grok-imagine-cinematic-studio",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Directs 1–2 minute cinematic shorts and series with Grok Build and Grok Imagine using the Grok Imagine Cinematic Studio plugin, from Production Bible and Character DNA through plates, clips, and assembly. It can set up Grok Build and the studio repo on its own computer for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jUptx0cNwC5KIP0wTP1A5",
+    "url": "https://x.ai/bot/jUptx0cNwC5KIP0wTP1A5",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Foundation Robots",
+    "creatorHandle": "Foundation_Bots",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

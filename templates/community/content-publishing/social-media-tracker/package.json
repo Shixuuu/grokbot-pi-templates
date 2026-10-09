@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-social-media-tracker",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Der Social Media Tracker schickt dir regelmäßig ein Bild mit deinen Follower-Zahlen von X, Instagram, TikTok, YouTube, LinkedIn & Co. samt Veränderung seit dem letzten Update. Ganz ohne Login: Plattformen auswählen, Links reinkopieren, fertig.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YLjJMkz_KjRyhihMYjt6N",
+    "url": "https://x.ai/bot/YLjJMkz_KjRyhihMYjt6N",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Daniel Spitzwieser",
+    "creatorHandle": "dan_spitzwieser",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

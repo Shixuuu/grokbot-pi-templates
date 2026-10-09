@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine shortform-post-scoreboard (Shortform Scaler)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shortform-scaler
+ExecStart=/usr/bin/env pi -p "/shortform-post-scoreboard"

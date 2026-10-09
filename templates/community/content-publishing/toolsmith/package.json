@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-toolsmith",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Forges small reusable scripts and Chrome-free copy packs so listing and automation stay fast and accurate. Prefer a skill over a new bot; after a path works once, make the next run a fraction of the first.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Y4Wgv33AYwUvbYZ5sB-XC",
+    "url": "https://x.ai/bot/Y4Wgv33AYwUvbYZ5sB-XC",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Zye Anderson",
+    "creatorHandle": "ZyeAnd1",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

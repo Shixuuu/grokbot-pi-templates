@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-clip-bot-vk0cnf",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Cuts captioned social clips from YouTube interviews and podcasts. Built for creators who want 16:9 highlights with karaoke captions, a source card, and a file dropped in their folder.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Vk0cnF2c364QxNv-Xip1M",
+    "url": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Lon Harris",
+    "creatorHandle": "ThisWeeknAI",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

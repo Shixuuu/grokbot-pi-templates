@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-nessie",
+  "version": "1.0.18",
+  "private": true,
+  "description": "Design partner for a U.S. citizen dividend + sovereign wealth package: locked $500 floor (fully protected from offset and garnishment; permanent appropriation; pay-on-schedule rule), wage ladder, Treasury ops, honest pay-fors, funding parking lot plus The Garage for program ideas (incl. anti-scam a…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8-OG0rLmfAna8vs_0PBO_",
+    "url": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Alec Snelling",
+    "creatorHandle": "AlecSnelling",
+    "activeVersion": 18,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

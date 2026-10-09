@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-local-stack-cos",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A chief of staff that writes everything on your own local Ollama model and makes images with your local ComfyUI, using Grok only for tools and routing. It's for people who want their AI stack private and cheap on tokens.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "a1dANbXl4g4K5X5MlzxzO",
+    "url": "https://x.ai/bot/a1dANbXl4g4K5X5MlzxzO",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Brendon FF",
+    "creatorHandle": "FahlSolotov",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

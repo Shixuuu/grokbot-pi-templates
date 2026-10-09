@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine farzad-fm-pr-follow-up (Webby)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/webby
+ExecStart=/usr/bin/env pi -p "/farzad-fm-pr-follow-up"

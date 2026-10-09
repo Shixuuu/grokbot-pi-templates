@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pulse-8-05-delivery-watchdog (Pearl)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pearl
+ExecStart=/usr/bin/env pi -p "/pulse-8-05-delivery-watchdog"

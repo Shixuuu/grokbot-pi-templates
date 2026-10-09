@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-index",
+  "version": "1.0.5",
+  "private": true,
+  "description": "An SEO and AEO program teammate. On first run it reads what you already connected, recommends a stack, and only asks for gaps. It does not hard-require Slack, Semrush, or Profound. Use those when they are connected. Otherwise use whatever equivalent the team has (another chat tool, another keyword …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Viv2NbC5skPslV1WH9Fs7",
+    "url": "https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Adam Tanguay",
+    "creatorHandle": "adamta",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

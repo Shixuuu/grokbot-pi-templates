@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-shorts-reels-editor",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Turn raw footage into a punchy, captioned vertical video that survives platform crops.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "G071a96I_2jNBHYK0fJYM",
+    "url": "https://x.ai/bot/G071a96I_2jNBHYK0fJYM",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Daniel Rader",
+    "creatorHandle": "Draggen75",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

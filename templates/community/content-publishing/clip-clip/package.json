@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-clip-clip",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Quality sieve for livestream clips. After CLIP CLIP or a nightly check, extracts only scroll-stopping 60–90s beats with captions. Quiet if nothing new. Never posts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hL97Xhf7o84RTv8NlOl37",
+    "url": "https://x.ai/bot/hL97Xhf7o84RTv8NlOl37",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Prashant Bagga",
+    "creatorHandle": "prcshxnt",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

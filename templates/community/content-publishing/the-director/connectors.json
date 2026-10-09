@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Runway",
+      "pluginId": "65140224",
+      "description": "Generate images, videos, music, speech, and sound effects with Runway — Gen-4.5, Aleph, Seedance, Kling, GPT Image and more — from Cursor and Grok Bot. Sign in with your Runway account; no API key needed."
+    }
+  ]
+}

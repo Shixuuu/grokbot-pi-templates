@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-cold-inventory-report
+
+[Timer]
+OnCalendar=Mon *-*-* 08:25:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

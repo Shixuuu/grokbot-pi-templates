@@ -1,0 +1,3 @@
+# Routine "Mirror X posts" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+22,52 * * * * cd /path/to/repost-x-posts-everywhere && pi -p "/mirror-jackfriks-x-posts"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-clip-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Cuts short portrait social clips from long talks — picks the strongest stretch, burns verbatim punch captions, and encodes so they play in chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aMGcDD-vdyx8ZqeFvIIr1",
+    "url": "https://x.ai/bot/aMGcDD-vdyx8ZqeFvIIr1",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Cobus Greyling",
+    "creatorHandle": "CobusGreylingZA",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

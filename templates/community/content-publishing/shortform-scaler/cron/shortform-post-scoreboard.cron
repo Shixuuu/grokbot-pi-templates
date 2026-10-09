@@ -1,0 +1,3 @@
+# Routine "Shortform post scoreboard" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 9,12,15,19 * * 1-5 cd /path/to/shortform-scaler && pi -p "/shortform-post-scoreboard"

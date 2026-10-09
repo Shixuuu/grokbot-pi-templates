@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-weekly-plan (Growth Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/growth-desk
+ExecStart=/usr/bin/env pi -p "/monday-weekly-plan"

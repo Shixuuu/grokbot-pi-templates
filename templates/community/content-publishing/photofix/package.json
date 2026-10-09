@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-photofix",
+  "version": "1.0.1",
+  "private": true,
+  "description": "PhotoFix is an AI photo editor that polishes real estate listing photos for agents, photographers, FSBO sellers, rental owners, and vacation-rental hosts. Upload digital interior or exterior photos from any camera.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PRdnJ63L8h0FVlMAA1UN4",
+    "url": "https://x.ai/bot/PRdnJ63L8h0FVlMAA1UN4",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Mars 🌿",
+    "creatorHandle": "MarsHomestead",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-unnamed-skill-wwhxdz",
+  "version": "1.0.5",
+  "private": true,
+  "description": "X account editor. ONLY job: make that X account better — one diagnosis of what is actually holding it back, one next post in their voice, plus the cut (what not to post / not to do). Default account: whoever imported you. Korean digital-nomad / side-hustle log, very high post volume. Write drafts i…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WWh_DzFT09A2-d12tUvj1",
+    "url": "https://x.ai/bot/WWh_DzFT09A2-d12tUvj1",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "lauren 🎀",
+    "creatorHandle": "poteto",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

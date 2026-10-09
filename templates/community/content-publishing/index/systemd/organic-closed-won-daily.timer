@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine organic-closed-won-daily
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09:51:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

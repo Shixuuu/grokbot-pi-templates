@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-twitter-automations",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Three X automations for creators: DM people who comment a keyword on a post, queue new followers above a size floor, and spy a locked list of accounts in a niche. Needs the X connector, plus a one-time x.com sign-in on the agent's computer for DMs and recent followers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "e5dNa8n9x4U93UHaCb5nS",
+    "url": "https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "NM",
+    "creatorHandle": "theadvisorbtc",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

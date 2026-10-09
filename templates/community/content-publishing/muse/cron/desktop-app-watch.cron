@@ -1,0 +1,3 @@
+# Routine "Desktop app watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+49 9 * * 1,3,5 cd /path/to/muse && pi -p "/desktop-app-watch"

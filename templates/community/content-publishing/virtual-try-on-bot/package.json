@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-virtual-try-on-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Turns clothes you like into a Grok Imagine video of you wearing them, built from your own Character reference. When you like a look, it sends the item links to your shopping bot marked want or don't want.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8Cc1RovyoLulOn9SLY5UR",
+    "url": "https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "paranoidream ♡︎",
+    "creatorHandle": "paranoidream",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

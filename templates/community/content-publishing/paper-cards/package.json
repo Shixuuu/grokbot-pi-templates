@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-paper-cards",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Turn a transcript into short, high-value quotes and Q&As — clean readable text first (no long takeaways), then choose: a few SVG card examples in chat, or all four social sizes in Paper. Black background, white bold Inter. Paste, upload, or pull from Restream. Paper needs Desktop open with a file.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aj9SRmKmqgJOoYM-Gzdi_",
+    "url": "https://x.ai/bot/aj9SRmKmqgJOoYM-Gzdi_",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Restream",
+    "creatorHandle": "Restreamio",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

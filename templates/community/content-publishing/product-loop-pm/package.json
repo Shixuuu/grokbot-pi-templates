@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-product-loop-pm",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs Discover → Define → Design for Launch. Keeps STATUS in sync, refuses to skip gates, and hands off to Engineering or Business Loop when Design is done.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eb1UwzjTfdNsYRfUh599j",
+    "url": "https://x.ai/bot/eb1UwzjTfdNsYRfUh599j",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Ash Naik",
+    "creatorHandle": "ashvinn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

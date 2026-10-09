@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hard-gate-channel-reminder (Brand Constraint)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/brand-constraint
+ExecStart=/usr/bin/env pi -p "/hard-gate-channel-reminder"

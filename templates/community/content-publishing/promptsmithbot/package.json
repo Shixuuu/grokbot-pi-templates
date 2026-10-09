@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-promptsmithbot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Helps anyone write effective prompts for Anthropic's Claude Opus 5.5, asking only the questions that matter and returning a paste-ready prompt. It can also check Anthropic's official prompting guides every week and report changes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Y88UF-JhSZfG5q_L05XnQ",
+    "url": "https://x.ai/bot/Y88UF-JhSZfG5q_L05XnQ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "cokeandrice.akita.algo | Folks Finance",
+    "creatorHandle": "semiproblems1",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

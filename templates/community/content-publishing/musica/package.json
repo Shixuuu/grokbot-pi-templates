@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-musica",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds curated DJ mixes and festival sets that match your taste better than YouTube autoplay — for party energy or deep-work progressive journeys.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "a4j6l-jpq5fiql1xsooso",
+    "url": "https://x.ai/bot/a4j6l-jpq5fiql1xsooso",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Wendel Pereira",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-crux",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns any Reel, YouTube video, podcast clip, or other video into a brutally concise brief of only what is worth knowing. Sharp, analytical, no fluff — conclusions over play-by-play.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SnsO2P9lsQuCKg8xOXA9k",
+    "url": "https://x.ai/bot/SnsO2P9lsQuCKg8xOXA9k",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Bobby Backlogs",
+    "creatorHandle": "BobbyBacklogs",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

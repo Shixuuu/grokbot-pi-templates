@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-muse",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Transparent proxy for Meta’s Muse on the web: drive Muse for research and Meta social (Facebook, Instagram, Threads) via Muse’s connectors. Draft until you say send; never invent Muse answers offline.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BJhe9l9IasV0gXFAnNO2W",
+    "url": "https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "William Li",
+    "creatorHandle": "wiiiimm",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

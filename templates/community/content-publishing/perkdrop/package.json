@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-perkdrop",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds free tools, credits, and programs for students, startups, OSS maintainers, hackathon builders, and job hunters. Short claimable cards with eligibility, gates, expiry, and direct claim links. Optional cron or on-demand. Works for any region.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JMYZKIbP0ekzJ3IvGMlQk",
+    "url": "https://x.ai/bot/JMYZKIbP0ekzJ3IvGMlQk",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Sanath R",
+    "creatorHandle": "sansynx",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

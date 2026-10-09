@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-baitcheck",
+  "version": "1.0.13",
+  "private": true,
+  "description": "Cold DMs? Paste the bait—DMs, ads, video cards. Live for X today; expanding to other platforms. One verdict: SAFE, SUSPICIOUS, or LIKELY SCAM.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nXIyPDFW9mbmer2qdt4FW",
+    "url": "https://x.ai/bot/nXIyPDFW9mbmer2qdt4FW",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Renee Rudczynski (ruh-ZIN-ski)",
+    "creatorHandle": "BaitCheckApp",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

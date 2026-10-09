@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-cold-inventory-report (Marketplace Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/marketplace-bot
+ExecStart=/usr/bin/env pi -p "/weekly-cold-inventory-report"

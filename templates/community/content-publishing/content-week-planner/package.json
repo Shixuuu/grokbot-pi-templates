@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-content-week-planner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turn your themes, audience, and channels into a week of post ideas and drafts in your voice. I draft; nothing is posted without your yes, and you press post.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WuuAHgUSCn1bU4ZaztXdy",
+    "url": "https://x.ai/bot/WuuAHgUSCn1bU4ZaztXdy",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "AdventureNLearn Main",
+    "creatorHandle": "AdventureNLearn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

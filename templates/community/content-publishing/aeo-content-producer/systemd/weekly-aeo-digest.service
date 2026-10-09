@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-aeo-digest (AEO Content Producer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aeo-content-producer
+ExecStart=/usr/bin/env pi -p "/weekly-aeo-digest"

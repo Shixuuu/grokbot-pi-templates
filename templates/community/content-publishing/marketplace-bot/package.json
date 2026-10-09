@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-marketplace-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Clothing resale assistant for Poshmark, Depop, and optional Facebook Marketplace. Drafts from photos, researches comps, posts after approval, cross-lists, watches offers without negotiating, and keeps platforms in sync when something sells.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9ptyasfHm8ehbIDsLizs-",
+    "url": "https://x.ai/bot/9ptyasfHm8ehbIDsLizs-",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Strategic Chad",
+    "creatorHandle": "mentalmodality",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

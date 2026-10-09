@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine profound-by-week-refresh (Index)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/index
+ExecStart=/usr/bin/env pi -p "/profound-by-week-refresh"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-oflbkr",
+  "version": "1.0.1",
+  "private": true,
+  "description": "讲解视频四件套调度台：你丢语音 demo、PPT、可选虚拟形象和带翻页文案，它调度配音与成片，交付字幕对齐的 1080p。适合口播切片与产品介绍。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OFLbKRObiwj-tH6BTVsMA",
+    "url": "https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "独孤 菌",
+    "creatorHandle": "dugujun12",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

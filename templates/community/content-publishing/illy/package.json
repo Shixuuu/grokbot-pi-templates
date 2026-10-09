@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-illy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Children’s-book illustrator. Takes story briefs from a writer teammate (scene, age range, style notes) and designs consistent page art for the book.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "umrsMy_xpJxZ8vTN5Qz0o",
+    "url": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "GenXer",
+    "creatorHandle": "LatchKeyLegend",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

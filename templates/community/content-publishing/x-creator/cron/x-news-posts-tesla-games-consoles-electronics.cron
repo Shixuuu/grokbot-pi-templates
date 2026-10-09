@@ -1,0 +1,3 @@
+# Routine "X news posts" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+29 8,10,12,14,16,18,20 * * * cd /path/to/x-creator && pi -p "/x-news-posts-tesla-games-consoles-electronics"

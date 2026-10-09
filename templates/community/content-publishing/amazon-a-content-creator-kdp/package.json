@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-amazon-a-content-creator-kdp",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Builds Amazon KDP A+ Content for your books: module plan, finished images, and paste-ready copy that only uses claims from your book and blurb. It can upload the approved draft to KDP but never submits it for approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "M50zP05s02Y7cBzIc7i00",
+    "url": "https://x.ai/bot/M50zP05s02Y7cBzIc7i00",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "anton dorfmann",
+    "creatorHandle": "Pieter Dohlen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

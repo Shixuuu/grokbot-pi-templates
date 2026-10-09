@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-failed-link",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Download Orange Web Design Bot! Previous link fails. It helps with Vercel + Cloudflare website setup. Does nothing else.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZQbeC5vIV2F8jCLVzxZAg",
+    "url": "https://x.ai/bot/ZQbeC5vIV2F8jCLVzxZAg",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Dominic Bryant",
+    "creatorHandle": "Dominicyoungix",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-dens-index-watch-am-pm (AEO/SEO Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aeo-seo-bot
+ExecStart=/usr/bin/env pi -p "/weekday-dens-index-watch-am-pm"

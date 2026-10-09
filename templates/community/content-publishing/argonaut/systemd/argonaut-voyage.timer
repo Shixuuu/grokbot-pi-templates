@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine argonaut-voyage
+
+[Timer]
+OnCalendar=*-*-* 10,18:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-social-supervisor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday X digests, raised-hand reply flags, and draft-only posts for founders running a brand account plus a product account. Never posts without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IRLoWA2QOfhsBQtQ1d79Z",
+    "url": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Growth CRO",
+    "creatorHandle": "fxopsAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

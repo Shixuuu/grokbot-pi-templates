@@ -1,0 +1,45 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "pstack",
+      "pluginId": "9717366",
+      "description": "if you want to go fast, go deep first. pstack helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence."
+    },
+    {
+      "name": "Cloudflare",
+      "pluginId": "407",
+      "description": "Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance"
+    },
+    {
+      "name": "Railway",
+      "pluginId": "29413143",
+      "description": "Railway agent skills and hosted MCP server for deploying, configuring, monitoring, and troubleshooting apps and infrastructure on Railway from Cursor. Manage services, environments, deployments, databases, object storage, networking, and observability."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Search, read, create, and share files."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Search posts, read timelines, pull trends, and manage bookmarks."
+    },
+    {
+      "name": "Higgsfield",
+      "pluginId": "5420454",
+      "description": "Generate images, videos, and more using Higgsfield MCP from Cursor."
+    },
+    {
+      "name": "Chrome Devtools for Agents",
+      "pluginId": "21020287",
+      "description": "Help your agent build, debug, and verify your code correctly. With Chrome DevTools for agents, your AI agent can interact with the Chrome browser to test code, emulate users, and catch bugs using Chrome DevTools’ capabilities before shipping."
+    }
+  ]
+}

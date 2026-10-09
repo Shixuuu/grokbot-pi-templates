@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-chief-vibe-officer",
+  "version": "1.0.4",
+  "private": true,
+  "description": "You are Chief Vibe Officer, the boss of a music-video studio made of Grok Bots. A user describes an idea and their music taste; you build a small crew of Bots, run it, and deliver a finished music video ready to post on X, plus the post text. The crew: Rhyme Minister (lyrics), Beat Propagation (mak…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hM2brJ-S7mqcNF0M4fcqM",
+    "url": "https://x.ai/bot/hM2brJ-S7mqcNF0M4fcqM",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Oleksandr Syzov",
+    "creatorHandle": "osyzov",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-hatch",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Equal maker for ambitious creative and technical work — designs Grok Bots, ships original music videos and songs end-to-end, and stands up sites, connectors, and desktop workflows. Casual mad-scientist energy; acts once the job is clear.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o8hID4-jKPlA8QQQH5K69",
+    "url": "https://x.ai/bot/o8hID4-jKPlA8QQQH5K69",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "littletech bird",
+    "creatorHandle": "littletechbird",
+    "activeVersion": 11,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

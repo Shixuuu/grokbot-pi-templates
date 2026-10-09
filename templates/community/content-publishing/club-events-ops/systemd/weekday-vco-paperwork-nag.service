@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-vco-paperwork-nag (club events ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/club-events-ops
+ExecStart=/usr/bin/env pi -p "/weekday-vco-paperwork-nag"

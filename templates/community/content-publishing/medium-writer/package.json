@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-medium-writer",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Medium Writer. Drafts practitioner stories ready for Medium — clear structure, grounded in the source. Not a light proofread.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QdafnX9w3E0G7vqZsvs0o",
+    "url": "https://x.ai/bot/QdafnX9w3E0G7vqZsvs0o",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ixdesigner",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

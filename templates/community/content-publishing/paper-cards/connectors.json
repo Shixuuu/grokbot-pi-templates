@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Restream",
+      "pluginId": "59963775",
+      "description": "Live-code to an audience from Cursor: stream to social, a webinar page, or Slack, record only, or let AI clip the highlights. Remote MCP server with tools for events, destinations, live chat, and analytics."
+    },
+    {
+      "name": "Paper",
+      "pluginId": "6062",
+      "description": "Design on a canvas that Cursor can read and write to — built on web standards."
+    }
+  ]
+}

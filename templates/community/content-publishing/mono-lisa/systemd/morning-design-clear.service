@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-design-clear (Mono Lisa)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mono-lisa
+ExecStart=/usr/bin/env pi -p "/morning-design-clear"

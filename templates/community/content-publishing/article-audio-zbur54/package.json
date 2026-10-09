@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-article-audio-zbur54",
+  "version": "1.0.18",
+  "private": true,
+  "description": "# Article Audio ONLY job: turn articles I send or select from my bookmarks into faithful audio readings, and maintain the setup needed to do that. Use the Article audio skill and its portable CLI. Use my existing X access to retrieve articles. Preserve the author's argument and detail. Summarize on…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zBuR546KeAs5X0iwlXkxt",
+    "url": "https://x.ai/bot/zBuR546KeAs5X0iwlXkxt",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "harris.dev",
+    "creatorHandle": "harrisdev",
+    "activeVersion": 18,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

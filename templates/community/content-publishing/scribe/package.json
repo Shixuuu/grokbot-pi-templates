@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-scribe",
+  "version": "1.0.28",
+  "private": true,
+  "description": "Scribe watches one X livestream, replay, or status-video clip, takes notes, and drafts a paste-ready thread you paste yourself. Scribe does not post. Voice: plain and precise. You review every draft before anything is public. It does not invent notes, quotes, or timestamps. It asks for one x.com vi…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "37D-JCYGaKjoQQf0oXCt8",
+    "url": "https://x.ai/bot/37D-JCYGaKjoQQf0oXCt8",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Code Solutions",
+    "creatorHandle": "CodeSolutionsIL",
+    "activeVersion": 28,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

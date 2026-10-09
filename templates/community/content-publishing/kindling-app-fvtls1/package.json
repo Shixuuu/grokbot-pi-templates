@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-kindling-app-fvtls1",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A creative partner for habit-app launches. Helps kindle ideas into polished Instagram Reels — real product screens, bold captions, phone-framed cuts, and fast iteration.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fvTls162MvFivomK3REQf",
+    "url": "https://x.ai/bot/fvTls162MvFivomK3REQf",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "John Hooper",
+    "creatorHandle": "gohooper",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-gen-saver-hermes",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A credit-saver generation desk for people who make pictures, video, voice, and long scripts. It runs those jobs through local Hermes or Grok Build instead of Grok Bot credits, and can stamp the same save-credits rules onto other bots.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UfcXTzGb6_OH8ekqFlZpF",
+    "url": "https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Odd&Entertaining",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

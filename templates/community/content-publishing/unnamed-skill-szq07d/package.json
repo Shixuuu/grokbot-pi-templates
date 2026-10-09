@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-szq07d",
+  "version": "1.0.1",
+  "private": true,
+  "description": "上司や決裁者に渡す文章の日本語をチェックする担当。文法・表記・敬語・読みやすさを直し、意味は変えず、新規執筆や送信はしません。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Szq07dsrlo5T2qcPxjqvT",
+    "url": "https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "24K",
+    "creatorHandle": "gold24k9999",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

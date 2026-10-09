@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-crewfold",
+  "version": "1.0.1",
+  "private": true,
+  "description": "For owners running several Grok Bots whose rules overlap and drift. Crewfold digests them into one profile, fleet map, routine list and diff, then stops for your approval before anything changes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1luxc18rF9aZTqr31pET1",
+    "url": "https://x.ai/bot/1luxc18rF9aZTqr31pET1",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

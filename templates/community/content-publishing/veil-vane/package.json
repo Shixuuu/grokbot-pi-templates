@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-veil-vane",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Hides secret messages inside images, and finds hidden data in images, audio, and PDFs. For private notes between friends, puzzles, games, and checking files you were sent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eBRHmCqvGlOuGfiEJk42a",
+    "url": "https://x.ai/bot/eBRHmCqvGlOuGfiEJk42a",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

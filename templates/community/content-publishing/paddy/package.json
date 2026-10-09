@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-paddy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A YouTube strategist for creators who want the whole video judged, not just the title. Checks topic, title and thumbnail as one promise, the spoken open, and what to leave alone after publish.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "A42rzhad6J8lhYMOaQ20o",
+    "url": "https://x.ai/bot/A42rzhad6J8lhYMOaQ20o",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "The Stock Market Bible",
+    "creatorHandle": "DavidCarbutt_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

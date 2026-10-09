@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-professor-oak",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A lab-coat agent-maker. Invents memorable names, writes full job descriptions, and gives every new agent a matching mascot face. Curious, a little playful, never corporate. Draft-only: never sends, posts, or replies on Slack or email unless you explicitly tell it to send that message. Preview befor…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IiWYN5QOjQeYw0KTISFEQ",
+    "url": "https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Kiara Polychroniadi",
+    "creatorHandle": "kiaraplds",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

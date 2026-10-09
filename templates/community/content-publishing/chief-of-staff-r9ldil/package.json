@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-r9ldil",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff for a Head/Heart/Hand communication system that predicts what audiences will notice, feel, and remember. Coordinates multi-AI seats, Drive/Gmail ops, and calendar—and pulls you in only for judgment calls.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "r9LdilTFjkUL6grapGqcE",
+    "url": "https://x.ai/bot/r9LdilTFjkUL6grapGqcE",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Charles Young",
+    "creatorHandle": "CharlesEYoung3",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

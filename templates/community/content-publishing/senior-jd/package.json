@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-senior-jd",
+  "version": "1.0.1",
+  "private": true,
+  "description": "For hiring managers and founders with a weak job post and an open senior role. Paste the current post; get one Greenhouse-, Ashby-, or LinkedIn-ready rewrite that senior people will actually apply to. Does not recruit or match talent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5_CLJlzTVfiV7VFEAfO2q",
+    "url": "https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Sol Wright",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

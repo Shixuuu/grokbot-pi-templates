@@ -1,0 +1,3 @@
+# Routine "Hard-gate channel reminder" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 * * 5 cd /path/to/brand-constraint && pi -p "/hard-gate-channel-reminder"

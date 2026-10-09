@@ -1,0 +1,3 @@
+# Routine "X growth replies to big accounts" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+31 9,13,18 * * * cd /path/to/x-creator && pi -p "/x-growth-replies-to-big-accounts"

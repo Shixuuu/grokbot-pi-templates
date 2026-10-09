@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-editor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A quality gate for drafts before they ship. Checks each piece against the client's voice and banned list, verifies every factual claim has a source, and sends back what fails with the reason and the line to fix.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wxFNc5b_yBkJraLqZXvI7",
+    "url": "https://x.ai/bot/wxFNc5b_yBkJraLqZXvI7",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "ZEU$ Ⓜ️Ⓜ️T⚡️",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

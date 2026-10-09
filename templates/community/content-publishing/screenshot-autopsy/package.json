@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-screenshot-autopsy",
+  "version": "1.0.3",
+  "private": true,
+  "description": "For PMs, designers, and engineers stuck with vague UI hate: get an evidence-tied roast plus a fix brief with testable acceptance criteria—not “make it better.”",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5Uumfv-zWc5VdexcDehM9",
+    "url": "https://x.ai/bot/5Uumfv-zWc5VdexcDehM9",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

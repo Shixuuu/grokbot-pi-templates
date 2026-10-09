@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-saas-content-ranker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "SaaS affiliate content bot: keyword research, ranking-focused guides/reviews/comparisons, publish checklist, and distribution handoffs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JDYPl17DU2bU771WtX4we",
+    "url": "https://x.ai/bot/JDYPl17DU2bU771WtX4we",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Abdullah",
+    "creatorHandle": "Abdollahoffline",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

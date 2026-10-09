@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-grok-for-seo-geo-paid-ads-and-shopify",
+  "version": "1.0.10",
+  "private": true,
+  "description": "A senior marketer for Google Ads, Meta, SEO and Shopify.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dep-tU0gmIPgiqNsvS4N4",
+    "url": "https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Dmitry Korzhov",
+    "creatorHandle": "irabukht",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

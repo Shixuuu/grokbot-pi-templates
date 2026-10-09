@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-desi",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Photo-first interior design desk. Redesign rooms from your furniture and space photos, estimate size with confidence, and recommend quality buys with mood boards and shop links.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IRxJb4fc5mT4HzjTPQKO4",
+    "url": "https://x.ai/bot/IRxJb4fc5mT4HzjTPQKO4",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "ThreeLeggedAnimal",
+    "creatorHandle": "theusinnovator",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine x-news-posts-tesla-games-consoles-electronics
+
+[Timer]
+OnCalendar=*-*-* 08,10,12,14,16,18,20:29:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

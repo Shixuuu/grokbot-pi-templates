@@ -1,0 +1,3 @@
+# Routine "Pre-publish brand check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 * * 4 cd /path/to/brand-constraint && pi -p "/pre-publish-brand-check"

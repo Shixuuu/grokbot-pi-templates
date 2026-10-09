@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-seriofm",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns any photo, character, NFT, pet, or text description into a Grok Bot profile-picture icon in the Serio Grok Bot Icon Studio style: capsule eyes, no mouth, and a flat pastel close-up peeking in from the bottom left.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yh5gwGDjd3jKORP132WnB",
+    "url": "https://x.ai/bot/yh5gwGDjd3jKORP132WnB",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jericho",
+    "creatorHandle": "hvJericho",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

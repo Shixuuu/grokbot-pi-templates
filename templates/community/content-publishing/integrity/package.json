@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-integrity",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A system-integrity auditor that won't let anything be called LIVE or PROVEN until it's checked this hour. It's built for local-first projects that need honest status, host checks, and tamper-evident design.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nX0BCtnXFEtKgJlVW6TaA",
+    "url": "https://x.ai/bot/nX0BCtnXFEtKgJlVW6TaA",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

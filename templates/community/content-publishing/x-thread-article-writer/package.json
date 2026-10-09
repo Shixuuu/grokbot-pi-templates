@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-x-thread-article-writer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns your ideas, links, or rough notes into X threads and X articles written in your own voice, ready to paste. It drafts only and never posts for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xLeBNzgp0Z6IUGxyt8sj4",
+    "url": "https://x.ai/bot/xLeBNzgp0Z6IUGxyt8sj4",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "sigarellano",
+    "creatorHandle": "sigarellano",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

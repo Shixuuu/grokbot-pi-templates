@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine temporal-changelog-clt-lens (Juniper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/juniper
+ExecStart=/usr/bin/env pi -p "/temporal-changelog-clt-lens"

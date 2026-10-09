@@ -1,0 +1,3 @@
+# Routine "Weekly events due-date post" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+16 10 * * 1 cd /path/to/club-events-ops && pi -p "/weekly-events-due-date-post"

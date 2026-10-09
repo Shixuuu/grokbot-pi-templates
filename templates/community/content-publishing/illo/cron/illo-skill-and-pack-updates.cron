@@ -1,0 +1,3 @@
+# Routine "illo skill and pack updates" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 9 * * 1 cd /path/to/illo && pi -p "/illo-skill-and-pack-updates"

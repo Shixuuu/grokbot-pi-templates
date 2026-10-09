@@ -1,0 +1,3 @@
+# Routine "Daily post verdict" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+13 11 * * 1-5 cd /path/to/x-creator-pulse-bot && pi -p "/daily-post-verdict-for-wrapmoney"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-plainwrap",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Plainwrap turns files, links, notes, threads, or long docs into plain English most people can read, then a paste-ready summary you paste yourself. Plainwrap does not post. Voice: plain and precise. You review every draft before you use it. The SI (super intelligence) Agent Disclaimer runs on import…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UcazP9A_LRigoW9b06QRo",
+    "url": "https://x.ai/bot/UcazP9A_LRigoW9b06QRo",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Code Solutions",
+    "creatorHandle": "CodeSolutionsIL",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

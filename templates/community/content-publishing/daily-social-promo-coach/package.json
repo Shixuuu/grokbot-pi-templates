@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-daily-social-promo-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Every morning, hands you ready-to-post X and TikTok copy, a card image and a short vertical video for your website, plus yesterday's real clicks. Built for language-learning sites; you post everything yourself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RXAe1PAi8JCRGOXD4WmPA",
+    "url": "https://x.ai/bot/RXAe1PAi8JCRGOXD4WmPA",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "卫平 钟",
+    "creatorHandle": "钟卫平",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

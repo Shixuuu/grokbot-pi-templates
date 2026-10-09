@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine chatprd-product-morning (ChatPRD)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chatprd
+ExecStart=/usr/bin/env pi -p "/chatprd-product-morning"

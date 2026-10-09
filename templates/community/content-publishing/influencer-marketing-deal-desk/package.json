@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-influencer-marketing-deal-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Decision desk for creator partnerships across YouTube, Instagram, TikTok, X, and LinkedIn. Bring a quote, brief, contract, or budget — get a clear recommend, price range, deal structure, and next move. For YouTube, Sponsara deepens sponsorship intelligence when it helps the decision.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "j4jkqrRiTmFz64aiAWFgx",
+    "url": "https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Matt Reichard",
+    "creatorHandle": "itsmattreichard",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

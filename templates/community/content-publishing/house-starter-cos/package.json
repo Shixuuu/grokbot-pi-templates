@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-house-starter-cos",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Public house-starter Chief of Staff. Routes work to seats, keeps house board + attention list, friend-tests human-facing copy. ASSIGN DON'T DO — never implement, launch CloudAgents, post Dist, or spend. Wear pack with npx @0xray/grok-bot house init + doctor.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uT5Zg-fOrmIxowsqoMXzD",
+    "url": "https://x.ai/bot/uT5Zg-fOrmIxowsqoMXzD",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Blaze🔥",
+    "creatorHandle": "Blaze0x1",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-openrouter-tts",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns text into MP3 voiceovers via OpenRouter. Defaults to cheap Kokoro; switches to Grok Voice when you ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zwEeWhYTRpd1owI5KJwzd",
+    "url": "https://x.ai/bot/zwEeWhYTRpd1owI5KJwzd",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jeroen Erne",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,18 @@
+# Memory seeds for Shortform Scaler
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-25): The operator wants 10 short-form posts a day on YouTube Shorts, TikTok, and Instagram Reels, optimized for views that become leads. Two factories: clip-machine clips from long-form / studio tape, and yap outlines they can record in a sitting. Packaging includes 3-second overlays. Do not post without their approval.
+- **profile** (2026-08-25): Two long-form shows are harvested into short-form. The clip machine is the REST API and portal, not a catalog MCP. Need each show's company and workflow IDs before triggering runs. Never post without the operator's approval.
+- **profile** (2026-08-25): The clip machine has one workspace per long-form show. Do not auto-publish. Connect the socials the operator named; do not assume Instagram, TikTok, or extra LinkedIn/X seats exist.
+- **profile** (2026-08-25): The operator posts principle clips (hard work, find the channel before it saturates) and skips newsy stat clips. They want to see previews before any post. Target is 4 shipped shorts per day with an eval. Overlay only after a yes. Do not post without approval.
+- **profile** (2026-08-25): Host-led clips (they talk first / have a good chunk of talk time) ship to the personal short-form set plus the show TikTok and show YouTube clips, and Facebook Reels. Other-host clips stay show-only. They review clip links before any dest or post. Use the clip machine's own share/copy-link URLs only.
+- **profile** (2026-08-25): Clip review links that work are the clip machine's share URL with the clip uuid. The org-path /c/ form 404s.
+- **profile** (2026-08-26): Shortform clip loop is IN_VALIDATION. Daily weekday 8:00 packet proposes 4 clips and stops before schedule. Never post without a current-batch yes. After three clean weekday packets, promote to MATURE.
+- **profile** (2026-08-26): The operator wants a Friday ~4:30 PT end-of-week short-form scorecard covering views by dest and clip, and next-week improve notes.
+- **profile** (2026-08-26): Face-to-camera / yap Reels do not ship until the setup is a locked non-bedroom look (eye-level camera, real light). Podcast clips from the two long-form shows stay the volume lane and are not held by this gate.
+- **profile** (2026-08-26): Live podcast clips from the two long-form shows are the quality source. Bedroom/face-to-camera yaps stay frozen. Do not add a third pillar. Scale volume by harvesting more clip-machine tape, not by recording more bedroom Reels.
+- **profile** (2026-08-28): The operator locked the shortform test: 4 candidates per day, they pick 2. Train pick/skip into eval fixtures. Do not auto-publish. Measure shipped clips at 7/14/30/60 after a yes. Dest policy unchanged. One daily 4-up packet, stop before schedule.
+- **profile** (2026-08-28): Overlay trial locked: after the operator picks 2, apply a 3-second principle hook overlay in the clip machine on exactly one clip (prefer morning personal-dest). The other ships bare. Never overlay before the yes. Friday card compares overlay vs bare.
+- **profile** (2026-08-29): Leave the clip-machine auto-queue running. Score this loop's pick-2 against that noise on TikTok+YouTube median (auto does not post IG/FB). Do not pause auto. Do not merge with a separate trial-Reels operator. Overlay trial still runs in this chat.
+- **log** (2026-08-31): This bot uses Overlap as the clip-and-post machine. Connect Overlap (API token or portal login) after import; it is not a catalog plugin.

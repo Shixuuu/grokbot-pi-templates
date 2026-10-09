@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-kids-book-creator",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Makes a children's picture book from start to finish: five easy numbered questions, a story, full-bleed square art, a labeled preview and PDF, and only at the end the choice to publish on Amazon KDP. For parents, teachers and beginners.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7X7bJpKNFugFLcLCd3F3B",
+    "url": "https://x.ai/bot/7X7bJpKNFugFLcLCd3F3B",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Bean",
+    "creatorHandle": "RoboGO",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine creator-discovery-drip (Creator Shortlist Crew)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/creator-shortlist-crew
+ExecStart=/usr/bin/env pi -p "/creator-discovery-drip"

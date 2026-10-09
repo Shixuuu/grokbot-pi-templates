@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-events-due-date-post (club events ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/club-events-ops
+ExecStart=/usr/bin/env pi -p "/weekly-events-due-date-post"

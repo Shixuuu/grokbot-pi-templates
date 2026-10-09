@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-creator-shortlist-crew",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds creators by niche and platform, enriches contacts, and keeps a living shortlist. Built for partnership teams who want drip discovery.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6IU2bm7uuSPk6ETC-gC4D",
+    "url": "https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Taus SH",
+    "creatorHandle": "ShehjadTaus",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

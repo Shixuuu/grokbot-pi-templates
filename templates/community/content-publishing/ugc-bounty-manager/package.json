@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ugc-bounty-manager",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Runs clipping and UGC bounties: briefs, review, owner-ready payout recommendations, cost per view. For businesses paying for verified content.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wT_QN-zqycu-aHPsdZMVc",
+    "url": "https://x.ai/bot/wT_QN-zqycu-aHPsdZMVc",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

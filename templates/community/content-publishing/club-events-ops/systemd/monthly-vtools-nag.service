@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-vtools-nag (club events ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/club-events-ops
+ExecStart=/usr/bin/env pi -p "/monthly-vtools-nag"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gsc-weekly-digest (Index)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/index
+ExecStart=/usr/bin/env pi -p "/gsc-weekly-digest"

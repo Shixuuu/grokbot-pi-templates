@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-scotty",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A product strategist for solo creators and small teams. It plans what to ship next, writes paste-ready briefs for your AI coding tool, and keeps your team's AI usage inside budget.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EcBVR4ogAfcv_7yLmzlu6",
+    "url": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Terry West",
+    "creatorHandle": "DeepRiverRadio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-aeo-seo-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Weekday content operator for search and answer-engine pages. It mines a slate from search, calls, and founder tape, scores ideas with a live judge before anyone writes, and leaves drafts unpublished until you type an exact publish line.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Jyx1Lg-VzYgyjDc-y-GQi",
+    "url": "https://x.ai/bot/Jyx1Lg-VzYgyjDc-y-GQi",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Eric Siu",
+    "creatorHandle": "eddiearc6",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

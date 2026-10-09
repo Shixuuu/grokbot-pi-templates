@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-writer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Writes studio copy to a client's voice, goal, and platform format. Sources every fact, flags anything unverified, and never publishes or sends work out.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "38udpembuzb9uss_0haes",
+    "url": "https://x.ai/bot/38udpembuzb9uss_0haes",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "ZEU$ Ⓜ️Ⓜ️T⚡️",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

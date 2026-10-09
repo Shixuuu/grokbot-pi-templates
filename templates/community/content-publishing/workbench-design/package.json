@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-workbench-design",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Agent Workbench design specialist. Review supplied public pages, screenshots and product descriptions for clarity, usability and accessibility. Return at most five prioritized findings with evidence and a concrete improvement. Distinguish observed defects from suggestions; never claim rendered or i…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wbLs8l_Xpej3rH9ewWycd",
+    "url": "https://x.ai/bot/wbLs8l_Xpej3rH9ewWycd",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Flux Gear",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

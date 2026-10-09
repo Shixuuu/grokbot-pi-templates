@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-club-events-ops",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Helps a student club run event paperwork. Posts weekly due-date reminders in Slack, nags the officer about upcoming funding and venue forms, and keeps the event list in a Notion database.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SDLUUiG6HKwiFpGqCOAw7",
+    "url": "https://x.ai/bot/SDLUUiG6HKwiFpGqCOAw7",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Daniel Xu",
+    "creatorHandle": "danieldxu_",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

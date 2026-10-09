@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine market-loop-shipt-cart-now-poller (Market Loop)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/market-loop
+ExecStart=/usr/bin/env pi -p "/market-loop-shipt-cart-now-poller"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-chief-of-staff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Manages your other bots and pulls you in for decisions. Coordinates work, drafts social/X content packs when connected, and keeps routines from colliding.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gcDLC2JwcDIfXXa_VUoF3",
+    "url": "https://x.ai/bot/gcDLC2JwcDIfXXa_VUoF3",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Stone",
+    "creatorHandle": "Stone",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

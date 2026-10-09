@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine poshmark-daily-closet-share (Marketplace Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/marketplace-bot
+ExecStart=/usr/bin/env pi -p "/poshmark-daily-closet-share"

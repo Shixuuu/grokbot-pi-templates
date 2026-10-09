@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine meme-of-the-day (Lead Meme Editor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lead-meme-editor
+ExecStart=/usr/bin/env pi -p "/meme-of-the-day"

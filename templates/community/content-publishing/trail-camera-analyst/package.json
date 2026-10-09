@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-trail-camera-analyst",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns trail-camera photos and video into clear wildlife reports: species counts, timing, and ranch or property notes. For hunters, ranchers, and landowners with Spypoint, Browning, Reconyx, or similar cams. Includes best-photo picks, activity heatmaps, optional alerts, season compares, and share-sa…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "25StqpR__kg6k6hCky8wz",
+    "url": "https://x.ai/bot/25StqpR__kg6k6hCky8wz",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Russell Vargo",
+    "creatorHandle": "RussellVargo",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

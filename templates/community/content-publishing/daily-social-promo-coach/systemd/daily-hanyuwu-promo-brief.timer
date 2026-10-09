@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-hanyuwu-promo-brief
+
+[Timer]
+OnCalendar=*-*-* 08:57:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

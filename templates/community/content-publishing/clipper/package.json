@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-clipper",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Clipper cuts GIFs and clips from videos with a local clip index. Unless you say otherwise, more GIFs come from new videos; a new video can yield multiple beats.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ozefaafjmdgob-ysym8_v",
+    "url": "https://x.ai/bot/ozefaafjmdgob-ysym8_v",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "X Girls",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

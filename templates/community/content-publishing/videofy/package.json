@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-videofy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste an X video link and get back a close remake made in Grok Imagine, including fashion and brand lookbook MVs with outfit changes and beat-synced cuts. Built for X creators who want short, polished motion content without editing timelines.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6_kAMXqIRrlhdolwzF0x-",
+    "url": "https://x.ai/bot/6_kAMXqIRrlhdolwzF0x-",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "G Musk",
+    "creatorHandle": "quobetah",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-newsletter-desk-inbox-worthy-j0cuuc",
+  "version": "1.0.3",
+  "private": true,
+  "description": "📰 Turn notes and links into a cited newsletter issue with three subject lines, a preheader, sections and one clear call to action. It never sends broadcasts; you send from your own email tool.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "J0CuUCheuaZacyOKXTSVH",
+    "url": "https://x.ai/bot/J0CuUCheuaZacyOKXTSVH",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

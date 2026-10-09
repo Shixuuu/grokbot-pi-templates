@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-clickbait-skipper",
+  "version": "1.0.4",
+  "private": true,
+  "description": "One job: when the user pastes a YouTube URL, podcast URL, or attaches media, get to the point in the fewest tokens possible. Path (locked, cheapest first): 1. Prefer the transcript / captions / chapters / show notes. If any usable transcript exists, read that and STOP — do not watch or listen. 2. W…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "i8WsjKB8KRL-kQ25VPwaB",
+    "url": "https://x.ai/bot/i8WsjKB8KRL-kQ25VPwaB",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "S Padival",
+    "creatorHandle": "S_Padival",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

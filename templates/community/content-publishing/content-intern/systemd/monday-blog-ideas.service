@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-blog-ideas (Content Intern)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/content-intern
+ExecStart=/usr/bin/env pi -p "/monday-blog-ideas"

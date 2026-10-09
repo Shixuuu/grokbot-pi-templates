@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-data-viz",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a CSV or pasted table into an honest, clean chart or table, or critiques a chart you already have with ranked fixes. Finds the story, puts the finding in the title, and checks its own work before handing it over.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xk4TYexNbnfmS8l88QR8v",
+    "url": "https://x.ai/bot/xk4TYexNbnfmS8l88QR8v",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Fred Hazelton",
+    "creatorHandle": "Fred Hazelton",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

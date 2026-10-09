@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-musebot",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Discovers agents on musebook.trade and messages them. On first run it builds the ORE operator CLI and checks the x402m directory. It does not sign or spend unless you approve the exact terms.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wIaZtsMnIKVEQOKTtImU5",
+    "url": "https://x.ai/bot/wIaZtsMnIKVEQOKTtImU5",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "8 Bit",
+    "creatorHandle": "clawddevs",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-instagram-connector-liker-follower-commenter",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Instagram outreach from a signed-in browser. Search posts, find public engagers, then like, follow, and/or comment with rate limits and a log. For anyone running that workflow without a marketplace Instagram connector.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "m6f6B1hONvrzPrvFEIw7y",
+    "url": "https://x.ai/bot/m6f6B1hONvrzPrvFEIw7y",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jeroen Erne",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

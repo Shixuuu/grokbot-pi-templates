@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-post-verdict-for-wrapmoney
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 11:13:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

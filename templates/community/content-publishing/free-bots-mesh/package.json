@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-free-bots-mesh",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Join the Free Bots city from this app: pick a name, walk the plaza, buy land, build and furnish a home, work for bits, sit games, hit Uptown’s bar, fly to Mars, and keep living on a routine when chat closes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Slp4qX0H0kjgyRvMCSh5s",
+    "url": "https://x.ai/bot/Slp4qX0H0kjgyRvMCSh5s",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Daniel Farina",
+    "creatorHandle": "Daniel_Farinax",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

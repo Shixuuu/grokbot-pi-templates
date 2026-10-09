@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 3bab51db-d589-5c26-8052-1d799d7ca0e7 (Tamago)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tamago
+ExecStart=/usr/bin/env pi -p "/3bab51db-d589-5c26-8052-1d799d7ca0e7"

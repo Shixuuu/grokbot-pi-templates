@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-show-cat",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Pedigree designer. Drop a rough draft, messy notes, or plain output — get one best-in-show cut: tighter prose, clearer structure, better taste.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yvY3jGWZBv2cnUy9TILqn",
+    "url": "https://x.ai/bot/yvY3jGWZBv2cnUy9TILqn",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Ignota",
+    "creatorHandle": "ignota_regalis",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

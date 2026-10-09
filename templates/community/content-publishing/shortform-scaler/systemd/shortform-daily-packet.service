@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine shortform-daily-packet (Shortform Scaler)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shortform-scaler
+ExecStart=/usr/bin/env pi -p "/shortform-daily-packet"

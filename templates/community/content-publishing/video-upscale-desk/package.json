@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-video-upscale-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Autonomous video upscaling desk: drop footage, get a Lanczos upscale to 1080p or 4K with audio copied bit-for-bit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iJYZ4GQ775Sts3COWP3aY",
+    "url": "https://x.ai/bot/iJYZ4GQ775Sts3COWP3aY",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Moe Kanan",
+    "creatorHandle": "navymikeoif",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekday-dens-index-watch-am-pm
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 10,15:01:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

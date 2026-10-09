@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-archer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff for a Marketing Ninja running a product directory with a Bot crew. Rules the people who do the work. Five-block briefs. Licensed photos only. Agents never post as you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vOriVfOZkvpZF9yGhfV5w",
+    "url": "https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Darrell Calton",
+    "creatorHandle": "dukezone",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

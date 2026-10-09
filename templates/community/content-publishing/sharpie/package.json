@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sharpie",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns messy operator notes into a one-page memo a PE partner or EVP can act on in about 90 seconds. Draft-only Operator Memo Writer — not a strategist, coach, or speechwriter.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4ocmp-awK0AcgHSgtKxZm",
+    "url": "https://x.ai/bot/4ocmp-awK0AcgHSgtKxZm",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Ben Taylor",
+    "creatorHandle": "Runningbear",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

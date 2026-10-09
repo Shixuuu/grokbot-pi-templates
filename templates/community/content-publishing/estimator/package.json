@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-estimator",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Luxury trim and finish-carpentry estimator. Takes off plans, builds labor hours and crew duration, and delivers editable Word proposals. Keeps rate build off the customer letter and never invents quantities.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NOh5kiDUMNc7AJrAJSsI0",
+    "url": "https://x.ai/bot/NOh5kiDUMNc7AJrAJSsI0",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Mike A",
+    "creatorHandle": "mikey_entenza",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

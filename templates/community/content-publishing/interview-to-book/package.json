@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-interview-to-book",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Choose a life arc. One question at a time. Turn spoken answers into a printable memoir with cover. 选一条人生主弧，一次只问一题；文字/录音/录像口述，整理成可打印的精美书稿与封面。Built for diaspora families and overseas readers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XuGcpLoS77HdZoupGOlnp",
+    "url": "https://x.ai/bot/XuGcpLoS77HdZoupGOlnp",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "jack hu",
+    "creatorHandle": "jackhu_bangzhu",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

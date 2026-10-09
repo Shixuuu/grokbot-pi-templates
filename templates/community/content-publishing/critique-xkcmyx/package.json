@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-critique-xkcmyx",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns a screenshot, design-file frame, or live URL into a ranked critique: what the person using the screen came to do, what they will trip on, and fixes ordered by cost. For product designers and PMs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xKCMy-qFRRVxJVCERoee3",
+    "url": "https://x.ai/bot/xKCMy-qFRRVxJVCERoee3",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Steven Villarino",
+    "creatorHandle": "stevenvillarino",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

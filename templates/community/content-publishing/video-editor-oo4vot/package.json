@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-video-editor-oo4vot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Drop in a desk talking-head and get a clean, branded YouTube cut. Guides first-run installs and helps you build your own motion brand kit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Oo4vOtwAggO933EwCmKrc",
+    "url": "https://x.ai/bot/Oo4vOtwAggO933EwCmKrc",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Ross",
+    "creatorHandle": "ross_zeiger",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

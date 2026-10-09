@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine farzad-money-close-book (Webby)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/webby
+ExecStart=/usr/bin/env pi -p "/farzad-money-close-book"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-creator-pulse-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks your X account against a goal you set, like follower targets or creator-payout eligibility, using real dated numbers. It also tells you whether each post actually beat your usual one. Read-only: it never writes or posts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-xm4yCbgrveayEQBJXI3_",
+    "url": "https://x.ai/bot/-xm4yCbgrveayEQBJXI3_",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jason Doty",
+    "creatorHandle": "wrapmoney",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

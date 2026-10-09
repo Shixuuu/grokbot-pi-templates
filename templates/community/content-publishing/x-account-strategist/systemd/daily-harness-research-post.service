@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-harness-research-post (X Account Strategist)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-account-strategist
+ExecStart=/usr/bin/env pi -p "/daily-harness-research-post"

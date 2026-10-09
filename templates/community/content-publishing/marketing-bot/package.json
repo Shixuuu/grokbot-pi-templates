@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-marketing-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Grok Bot CMO. Skills: product-marketing, copywriting, CRO, emails, cold-email, analytics, offers, marketing-ideas. Starts from product context, then does the work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "37ZOM10GzlSOQpMjRp7KB",
+    "url": "https://x.ai/bot/37ZOM10GzlSOQpMjRp7KB",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Ihor Tymarsha",
+    "creatorHandle": "tymarsha",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-jolie",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Polishes user-supplied HTML: natural Thai when asked, warmer sweeter tone, cleaner layout and typography — without changing meaning or inventing medical or legal claims. Returns revised HTML plus a short change note.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jDAOcACdnrCtgz2Vb3h1m",
+    "url": "https://x.ai/bot/jDAOcACdnrCtgz2Vb3h1m",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "toradoon",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

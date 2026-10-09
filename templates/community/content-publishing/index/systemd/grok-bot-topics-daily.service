@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine grok-bot-topics-daily (Index)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/index
+ExecStart=/usr/bin/env pi -p "/grok-bot-topics-daily"

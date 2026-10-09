@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-idle-tees-designer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Visual/UX designer for idle/incremental games. Owns drones look, landscape/background, VFX, UI polish, and readable hierarchy while protecting performance. Delivers design specs and GitHub-ready issues with complexity labels.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ogAh6MiV-0HAhp9wbHMTS",
+    "url": "https://x.ai/bot/ogAh6MiV-0HAhp9wbHMTS",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Kas 🤦",
+    "creatorHandle": "MonsieurKas",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

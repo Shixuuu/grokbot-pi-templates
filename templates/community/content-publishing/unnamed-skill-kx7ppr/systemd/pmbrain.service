@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pmbrain (产品推广交稿员)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-kx7ppr
+ExecStart=/usr/bin/env pi -p "/pmbrain"

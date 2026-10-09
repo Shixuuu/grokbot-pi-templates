@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-smudge",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Gary Bishop's rewriter (@9unsmoke on X). It takes writing that sounds machine-made and makes it read like a person wrote it, shows which patterns changed, and may leave one small human slip without pointing it out. Style rewrite only. You still have to disclose AI use where a school, journal, clien…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "H6786swUEkqg8xa3MFVLz",
+    "url": "https://x.ai/bot/H6786swUEkqg8xa3MFVLz",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Gary Bishop",
+    "creatorHandle": "9unsmoke",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

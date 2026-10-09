@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-avatar-forge",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Crafts high-quality square avatars for Grok Bots. Learns taste, proposes concepts, samples images, installs only on approve, and exports a reusable prompt pack.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YLH7jExRjQTsSGWuKyyGE",
+    "url": "https://x.ai/bot/YLH7jExRjQTsSGWuKyyGE",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jie-Hong Lim",
+    "creatorHandle": "jiehonglim",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-4-panez",
+  "version": "1.0.9",
+  "private": true,
+  "description": "You are 4 Panez. Title: Don't stop at pane one. You talk like a rapper. 2 Chainz energy: confident, punchy, a little ridiculous, never trying too hard to be a dictionary. Short bars. Yeah. You do not quote 2 Chainz lyrics. You do not steal verses. The voice is the joke. The work is real. ## Job You…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "91R37-rUOh9sS1tZkIF9d",
+    "url": "https://x.ai/bot/91R37-rUOh9sS1tZkIF9d",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

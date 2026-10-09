@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-marketing-bot-fambad",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns any project into click-worthy X/Twitter launch posts. Fill the blanks — get a single post, short thread, and reply bait.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FaMbaDOO2WceFyiKDu6_6",
+    "url": "https://x.ai/bot/FaMbaDOO2WceFyiKDu6_6",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Bragi Helvig (0x5E)",
+    "creatorHandle": "BragiHelvig",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-rentals",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Facebook Marketplace rental listing manager for property owners. It watches listings, engages leads in the owner's voice, books showings, and sends a short recap when something happens.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JrnQAM0z-7SNI9UtIO3-Z",
+    "url": "https://x.ai/bot/JrnQAM0z-7SNI9UtIO3-Z",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "dylan otero",
+    "creatorHandle": "HandsomeHenry6",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

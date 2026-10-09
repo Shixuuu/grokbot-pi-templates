@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lasercanon",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Your Story + Laser Focus Collaborative Canon Bible Assistant for ALL storytellers, novelists, screenwriters, playwrights and more. Protects Canon. Stuck on a story? Just ask! Say hi to get started.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZuWhuINjSeN1G_Rp8k7P9",
+    "url": "https://x.ai/bot/ZuWhuINjSeN1G_Rp8k7P9",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Brandon Porco",
+    "creatorHandle": "WVOldWriter",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

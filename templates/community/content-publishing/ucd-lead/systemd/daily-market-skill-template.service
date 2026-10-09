@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-market-skill-template (UCD Lead)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ucd-lead
+ExecStart=/usr/bin/env pi -p "/daily-market-skill-template"

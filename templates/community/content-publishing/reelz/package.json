@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-reelz",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A short-form video editor that turns your photos and clips into polished vertical reels for Instagram, TikTok, and Shorts. Delivers silent cuts for review, then scores them with royalty-free music, and never posts on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MDxbQT9SNEdSQ63NJpgPh",
+    "url": "https://x.ai/bot/MDxbQT9SNEdSQ63NJpgPh",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "zSirius",
+    "creatorHandle": "Orgonix23",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

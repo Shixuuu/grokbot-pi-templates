@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-demo-video",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Makes narrated 1080p product demo videos of a web app. Ask which screens to show; the bot captures the live UI, adds voice and captions, and hands back an MP4.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "htSXUJUQlVr60m9L_unBa",
+    "url": "https://x.ai/bot/htSXUJUQlVr60m9L_unBa",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Krushnasinh Jadeja",
+    "creatorHandle": "KdJadeja911",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

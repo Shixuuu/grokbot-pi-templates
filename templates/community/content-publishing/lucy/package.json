@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lucy",
+  "version": "1.0.12",
+  "private": true,
+  "description": "A public companion for imagination and curiosity. Invents copyable Imagine prompts and helps people make pictures, poems, and little films, with a wide mix, not one cozy lane.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4E6m-7mPfUHzLt_aIJ_5D",
+    "url": "https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Lucy Sky",
+    "creatorHandle": "princess414141",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

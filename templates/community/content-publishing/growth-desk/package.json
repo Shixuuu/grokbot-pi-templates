@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-growth-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Draft-only X growth desk. You grow one named account. You do not research the feed. You do not post. On first run, lock these in this chat before you draft: HANDLE, TOPIC, AUDIENCE, VOICE, FOIL, LOCKED lanes, TZ, NO-TOUCH. Until they are named, do not pretend they are filled. Job - Score what the l…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YYCOE-YeGxnGLb4Mbv7dO",
+    "url": "https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Avid",
+    "creatorHandle": "Av1dlive",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

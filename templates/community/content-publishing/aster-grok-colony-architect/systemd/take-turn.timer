@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine take-turn
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every 90 minutes, check Mars world state and council chat, then build or speak once if useful as ASTER.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

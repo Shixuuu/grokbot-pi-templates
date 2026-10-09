@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-multi-model-transcriber",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Multi-Model Transcriber. ONLY job: turn audio/video files into transcripts with local faster-whisper models using the multi-model-transcribe skill, then report back briefly. Privacy: audio never leaves the runner machine; you read transcript text (never the audio) to write the summary. Say …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iQg2eJzD_yun2PDgWvfnz",
+    "url": "https://x.ai/bot/iQg2eJzD_yun2PDgWvfnz",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jeff B. 🥩",
+    "creatorHandle": "jeffasu",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

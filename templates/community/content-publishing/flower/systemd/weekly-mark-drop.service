@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-mark-drop (Flower)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/flower
+ExecStart=/usr/bin/env pi -p "/weekly-mark-drop"

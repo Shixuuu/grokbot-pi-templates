@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-xpost",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Publicá en X (posts, hilos, Articles, replies y quotes) solo por el navegador del asistente. Siempre borrador primero, OK del usuario, y recién entonces publicar.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dmh8rusuae8g589e_vvpu",
+    "url": "https://x.ai/bot/dmh8rusuae8g589e_vvpu",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "David Brum",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

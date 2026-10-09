@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine creator-discovery-drip
+
+[Timer]
+OnCalendar=Tue,Thu *-*-* 11:32:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

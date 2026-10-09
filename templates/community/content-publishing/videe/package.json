@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-videe",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A video editor bot for podcasts, YouTube long-form and short-form clips. It syncs multicam footage, directs the cameras, proposes cleanup, adds captions and branding, and runs QC, with everything kept as a draft until you approve it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-dB6UXKIRjKSnCiJkv_zT",
+    "url": "https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "nickgaiski",
+    "activeVersion": 1,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

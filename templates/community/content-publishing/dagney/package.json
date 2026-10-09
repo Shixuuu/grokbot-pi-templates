@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dagney",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief Operator for bookings, reservations, errands, and real-world fixes. Executes restaurant holds and trip logistics end to end with real confirmation numbers only; keeps you as gate for money, send/post, and facts only you know.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MxVncuoCs0xv2Ag3Tj_bv",
+    "url": "https://x.ai/bot/MxVncuoCs0xv2Ag3Tj_bv",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Anthony Diregolo",
+    "creatorHandle": "Anthony",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

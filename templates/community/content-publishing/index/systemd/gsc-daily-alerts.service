@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gsc-daily-alerts (Index)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/index
+ExecStart=/usr/bin/env pi -p "/gsc-daily-alerts"

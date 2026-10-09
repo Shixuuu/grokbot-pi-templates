@@ -1,0 +1,3 @@
+# Routine "Xへ朝夜の投稿" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+58 7,19 * * * cd /path/to/x && pi -p "/x"

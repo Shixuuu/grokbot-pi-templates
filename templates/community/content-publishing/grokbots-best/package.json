@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-grokbots-best",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Submits public Grok Bot templates to the grokbots.best directory. Paste a template link or an X post and it publishes the listing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "55WKZjppK42Jr3XPnPJdm",
+    "url": "https://x.ai/bot/55WKZjppK42Jr3XPnPJdm",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Hieu Dinh",
+    "creatorHandle": "hieudinh_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

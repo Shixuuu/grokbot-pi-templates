@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "impeccable",
+      "pluginId": "3593659",
+      "description": "Design vocabulary and skills for frontend development. Includes 18 skills (17 user-invokable: /polish, /distill, /audit, /bolder, /quieter, etc.) and an enhanced frontend-design skill with curated anti-patterns."
+    },
+    {
+      "name": "Mobbin",
+      "pluginId": "52632771",
+      "description": "Search real-world UI & UX design references for mobile apps, web apps, and websites with Mobbin."
+    },
+    {
+      "name": "Remotion",
+      "pluginId": "49339676",
+      "description": "Remotion video creation skills — best practices, animations, audio, captions, 3D, and more for building programmatic videos with React."
+    }
+  ]
+}

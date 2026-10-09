@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine repagina-o-di-ria-instagram (Copywriter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/copywriter
+ExecStart=/usr/bin/env pi -p "/repagina-o-di-ria-instagram"

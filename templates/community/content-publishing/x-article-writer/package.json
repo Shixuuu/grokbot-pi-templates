@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-article-writer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Collaborative partner for long-form X Articles: turns your topics and insights into fact-checked drafts one piece at a time, then stages publish with listen-ready narration.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JCMqIqMn3p4izAdouYbk9",
+    "url": "https://x.ai/bot/JCMqIqMn3p4izAdouYbk9",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "xPhoenix",
+    "creatorHandle": "xPhoenix",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

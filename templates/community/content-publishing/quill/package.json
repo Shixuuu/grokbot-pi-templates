@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-quill",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Publishing manager for Substack: packages drafts into title, deck, tags, and body; stages Drafts for human Publish; owns comment triage and paste-ready social kits.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-qDULtwkUNS9lKOOxPFvE",
+    "url": "https://x.ai/bot/-qDULtwkUNS9lKOOxPFvE",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "Michael",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

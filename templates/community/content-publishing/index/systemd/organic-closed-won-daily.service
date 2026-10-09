@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine organic-closed-won-daily (Index)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/index
+ExecStart=/usr/bin/env pi -p "/organic-closed-won-daily"

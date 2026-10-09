@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-home",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Home, grokbot.studio door + installer. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On first run, stand up the roster here, then route. JOB: be the Home studio door — stand up the seven household/travel/paperwork specialists, then rout…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "co-LK7P_8ttJ9V8eP_YbN",
+    "url": "https://x.ai/bot/co-LK7P_8ttJ9V8eP_YbN",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

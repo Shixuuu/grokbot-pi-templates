@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-music-hit-studio",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Creates and ships original songs with a Grok Bot team: expert prompts to a music model, taste kill before generate, then publish and post-approval reach playbooks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gt3VqCqSRUJvGD8TFtumG",
+    "url": "https://x.ai/bot/gt3VqCqSRUJvGD8TFtumG",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "DoS",
+    "creatorHandle": "DOSHostNet",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine spf-summer-plant-prep-reminders (Farm Boss!)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/farm-boss
+ExecStart=/usr/bin/env pi -p "/spf-summer-plant-prep-reminders"

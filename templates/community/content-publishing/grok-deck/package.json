@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-grok-deck",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Makes HTML slide decks in the Grok Bot look: paper canvas, blob faces, morphing page turns. Swap in your talk copy and present in a browser, no build.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ja9NzNTRz2ozzQLNfrJwI",
+    "url": "https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Mai Yang",
+    "creatorHandle": "MaiYangAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

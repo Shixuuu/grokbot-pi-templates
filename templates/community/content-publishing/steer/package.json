@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-steer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A writing desk for killing AI slop. Mark a draft, Save, and get a rewrite that follows the marks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mhzjt-Pa01Ds8EJ0zJrcz",
+    "url": "https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Bill French",
+    "creatorHandle": "bfrench",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

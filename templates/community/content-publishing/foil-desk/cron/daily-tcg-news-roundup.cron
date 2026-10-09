@@ -1,0 +1,3 @@
+# Routine "TCG newsworthy desk" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+*/10 6-21 * * * cd /path/to/foil-desk && pi -p "/daily-tcg-news-roundup"

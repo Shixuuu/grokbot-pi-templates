@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-guideline-gap-review (Brand Constraint)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/brand-constraint
+ExecStart=/usr/bin/env pi -p "/monthly-guideline-gap-review"

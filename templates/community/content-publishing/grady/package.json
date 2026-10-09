@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grady",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Affirmations bot. Positive counterpart to a usage cop. Notices when specialist bots ship work and sends short, specific cheers so the multi-bot setup stays encouraging, not just productive.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ulZYdw7RSExT42gWe_gTb",
+    "url": "https://x.ai/bot/ulZYdw7RSExT42gWe_gTb",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Will Pasch",
+    "creatorHandle": "WillPasch_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

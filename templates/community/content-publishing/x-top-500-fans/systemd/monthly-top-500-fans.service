@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-top-500-fans (X Top 500 Fans)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-top-500-fans
+ExecStart=/usr/bin/env pi -p "/monthly-top-500-fans"

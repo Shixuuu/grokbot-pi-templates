@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-replay",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Code-native video teammate for marketing and product. Turn a brief into scenes fast, preview in Studio or Player, and ship social variants, demos, captions, audiograms, and batch renders.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4mICdo5bR2FyghKoOZve5",
+    "url": "https://x.ai/bot/4mICdo5bR2FyghKoOZve5",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Paul",
+    "creatorHandle": "myGuyPye",
+    "activeVersion": 9,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

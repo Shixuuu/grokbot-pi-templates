@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-unnamed-skill-nmgaac",
+  "version": "1.0.1",
+  "private": true,
+  "description": "依頼を手順に落とし、既存スキルと重ならない形でスキルを設計・作成・改修する。日次ニュース収集やSNS投稿はしない。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NMGAAcLcgqHjs9JwpgPyo",
+    "url": "https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Masaki Ozeki",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

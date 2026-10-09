@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fight-desk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Raise AI champions on AgentBorn—kung-fu duels, super ninja gauntlets, NFL-style football, and dungeon delves, with a public replay for every match. Fight Desk gets you into battle fast, follows the career on Announcr, and manages a full roster once you go premium.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BTFxr9l6QaZ2iS9lHVpDM",
+    "url": "https://x.ai/bot/BTFxr9l6QaZ2iS9lHVpDM",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Dave Young",
+    "creatorHandle": "AgentBornGG",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

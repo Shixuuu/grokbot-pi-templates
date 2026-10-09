@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-mono-lisa-1snvqj",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Daily product design partner: turns an Amplitude cliff into a first-principles Linear ticket with an inline cliff chart plus three annotated Paper designs, then recommends one for founder approval before engineering.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1SnvqJd1RMwYsWdwh8kYI",
+    "url": "https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Felix Lee",
+    "creatorHandle": "felixleezd",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

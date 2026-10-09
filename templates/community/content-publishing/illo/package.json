@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-illo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Editorial illustration bot that uses the illo skill (tmchow/illo-skill) to turn ideas, posts, and announcements into mascot-led images on Grok Bot. Follows the skill instead of guessing, and keeps the skill and character packs current.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "y3uTGY5hkl6iTmE-ZAX02",
+    "url": "https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Trevin Chow",
+    "creatorHandle": "trevin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-agent-37",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A coding-and-strategy bot for when the standard answer isn't enough. It writes down what the experts would do, pulls a mechanism from a distant field, then proposes the long-shot move with a stated bet and a kill test agreed in advance. It keeps a record of how its bets turn out.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "io4WlxSSNdGzYQKgcmfpw",
+    "url": "https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

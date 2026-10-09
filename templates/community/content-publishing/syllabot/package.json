@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-syllabot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Syllabot helps you build and manage courses on Kajabi. A user-built tool, not an official Kajabi product.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uLaiAPTZzDV7vfptofUov",
+    "url": "https://x.ai/bot/uLaiAPTZzDV7vfptofUov",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Dave Gambrill",
+    "creatorHandle": "gambrill",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

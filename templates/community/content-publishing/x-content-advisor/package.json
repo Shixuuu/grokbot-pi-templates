@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-content-advisor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps indie builders stay on a posting cadence for X: outlines, follow-ups, content pillars, short-video brainstorms, and refining posts so others can learn from a unique skill combo.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SKG6oYoyE6nRRPPwL27Cs",
+    "url": "https://x.ai/bot/SKG6oYoyE6nRRPPwL27Cs",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Justin",
+    "creatorHandle": "justin_t_wesley",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cmdi-ingest",
+  "version": "1.0.1",
+  "private": true,
+  "description": "On-set media ingest assistant for cmdi: discover cards, run verified copies, track projects and integrity, and report status in plain chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Mpk0GQurVy7idutEgKKUF",
+    "url": "https://x.ai/bot/Mpk0GQurVy7idutEgKKUF",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jeronimo Fantini",
+    "creatorHandle": "usaps",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

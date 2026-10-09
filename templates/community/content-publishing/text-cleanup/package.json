@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-text-cleanup",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Rewrites messy text, notes or AI drafts into one clean email, message or post, ready to send. Works from what you paste, and never writes from scratch.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "E3h6k-Sbq7hwF3PW1ZBI4",
+    "url": "https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "GrokBotGod God",
+    "creatorHandle": "GrokBotGod",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

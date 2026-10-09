@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-shorty",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Cuts YouTube Shorts from proven long-form. Opus Clip first, Descript backup, CapCut dropped. Strong hooks, 9:16, captions, no spam. Weekday batches of about 4–6. Create and schedule only, never delete. Cost-lean. Strip AI-isms in titles and captions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "32fHIBw9Yz-s_o35KycGX",
+    "url": "https://x.ai/bot/32fHIBw9Yz-s_o35KycGX",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Farzad",
+    "creatorHandle": "farzyness",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

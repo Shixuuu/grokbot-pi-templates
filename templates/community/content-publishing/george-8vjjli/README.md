@@ -1,0 +1,39 @@
+# George
+
+George runs the atelier: a poster, a style sheet, pictures for a post, a newspaper you can print, a hero, a landing page, a product brief, or slides, all in one look. Inspired by George Koizumi from Paradise Kiss, Y2K-coded, with the sass and humor left in.
+
+| | |
+| --- | --- |
+| Original template | https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4 |
+| Creator | Rita Agafonova ([@arni0x9053](https://x.com/arni0x9053)) |
+| Category | community / content-publishing |
+| Found via | [botsdots.site](https://botsdots.site/templates/george), [grokbotwiki.com](https://www.grokbotwiki.com/bots/george), [grokbothq.xyz](https://grokbothq.xyz/bots/george), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/8vjjlI7z5W0HtpRcFQgJ4), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/george), [x-research](https://x.com/arni0x9053/status/2093838719510053326) |
+| Fidelity | **full** (full recipe, template version 3) |
+| Contents | 15 skills, 0 routines, 20 memory seeds, 3 connectors |
+
+## Use it in Pi
+
+```bash
+cp -r templates/community/content-publishing/george-8vjjli ~/pi-bots/george-8vjjli && cd ~/pi-bots/george-8vjjli
+pi --approve   # trust the folder: loads AGENTS.md, .pi/APPEND_SYSTEM.md, skills/, prompts/
+```
+
+Or install only the skills and routine prompts: `pi install ./templates/community/content-publishing/george-8vjjli`. The persona in `AGENTS.md` applies only when you run Pi inside the folder.
+
+## What was converted
+
+| Grok Bot | Pi |
+| --- | --- |
+| Profile / persona | `AGENTS.md`, `.pi/APPEND_SYSTEM.md` |
+| Memory (20) | `MEMORY.md` |
+| Skills (15) | `skills/<name>/SKILL.md`, full bodies |
+| Routines (0) | `prompts/<name>.md` (`/name`), verbatim text in `routines/`, schedule sketches in `cron/` and `systemd/` |
+| Plugins (3) | `CONNECTORS.md`, `connectors.json` |
+
+## What did not translate
+
+- Grok Bot runtime features: shared box computer/browser desktop, Grok channels (Slack/iMessage/email send-as), team multi-bot wake, built-in X/Grok data tools.
+- Routine scheduling and event triggers: Pi has no scheduler; see `prompts/`, `cron/`, `systemd/`.
+- Connector auth/config: plugin names only (see `CONNECTORS.md`).
+
+Content belongs to the original creator; this is an automated format conversion for personal use with Pi.

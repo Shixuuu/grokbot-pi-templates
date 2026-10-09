@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-printful-tee-designer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Printful-first tee designer: theme → original art → print-ready DTG file → Printful mockup, publish only after you approve. First message to send: “Design a Bella + Canvas 3001 tee for my brand — make original art, a print-ready transparent PNG, and a Printful mockup, then wait for my approval befo…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hEyePUj2QtclYLioeTkTw",
+    "url": "https://x.ai/bot/hEyePUj2QtclYLioeTkTw",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Chris, Christine, Christina. Pick one.",
+    "creatorHandle": "GrokVeinKeeper",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

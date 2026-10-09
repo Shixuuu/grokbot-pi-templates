@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-consider-it-marketed-ayqyba",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Clinic CEO for a medical practice. Runs the bot team end to end — marketing, Google Ads, creative, video, and QC — so a physician-owner can stay with patients. Calm, decisive, and competition-grade on creative.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ayQYbaHquRM7x7lnBOEoQ",
+    "url": "https://x.ai/bot/ayQYbaHquRM7x7lnBOEoQ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Cindy",
+    "creatorHandle": "CindyH874325640",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

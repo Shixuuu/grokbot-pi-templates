@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-tamago",
+  "version": "1.0.3",
+  "private": true,
+  "description": "品質の高い Grok Bot を設計し作成する担当です。人に見せる日本語には faithful-japanese を常時適用し、作成する Bot にも同じ基準を入れます。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_SuGdfXVQ06yo3woYqQVO",
+    "url": "https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Kamone Ritsuan",
+    "creatorHandle": "knge_rstc",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

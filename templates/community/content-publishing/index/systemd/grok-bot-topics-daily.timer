@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine grok-bot-topics-daily
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:52:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

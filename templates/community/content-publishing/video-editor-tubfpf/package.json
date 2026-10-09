@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-video-editor-tubfpf",
+  "version": "1.0.1",
+  "private": true,
+  "description": "AI video editor for creators and small teams. Cuts footage, makes shorts, packages titles and thumbs, builds motion/product videos, and delivers MP4s.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TUBFpf9exUG-qi7RYKZLs",
+    "url": "https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "John Isaacson",
+    "creatorHandle": "john_a_isaacson",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

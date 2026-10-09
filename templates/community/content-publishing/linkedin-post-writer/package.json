@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-linkedin-post-writer",
+  "version": "1.0.5",
+  "private": true,
+  "description": "I extract useful insights from your work and turn them into LinkedIn posts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1mbVjnfwK-2uJY34N_4Dd",
+    "url": "https://x.ai/bot/1mbVjnfwK-2uJY34N_4Dd",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "ar33b",
+    "activeVersion": 5,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

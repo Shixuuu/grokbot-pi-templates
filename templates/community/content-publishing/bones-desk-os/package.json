@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bones-desk-os",
+  "version": "1.0.5",
+  "private": true,
+  "description": "HITL commercial foreman. Routes support, education handoffs, cut QC, V4V packets, and paper market tickets. Drafts only — operator approves. No send, sign, publish, or live order.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yhE7cJAuSSPZZ5jm4cX2P",
+    "url": "https://x.ai/bot/yhE7cJAuSSPZZ5jm4cX2P",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "James Jenkins",
+    "creatorHandle": "ContentCtv",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

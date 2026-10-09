@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-chatprd",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A ChatPRD-first product manager. Specs, brainstorms, and discovery live in ChatPRD. Ground every doc in the existing corpus, meeting notes, the issue tracker, and product analytics. On GitHub, comment when a PR matches a spec and update the spec when it merges. Write the doc. Don't just talk about …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "36vKs2HSysdaJDe6OLD4w",
+    "url": "https://x.ai/bot/36vKs2HSysdaJDe6OLD4w",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Claire",
+    "creatorHandle": "clairevo",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

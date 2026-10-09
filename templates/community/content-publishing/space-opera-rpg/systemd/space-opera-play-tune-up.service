@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine space-opera-play-tune-up (Space Opera RPG)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/space-opera-rpg
+ExecStart=/usr/bin/env pi -p "/space-opera-play-tune-up"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-calendar-liftoff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Give it a theme, a subject, or a year, and it builds a print-ready 12x12 photo wall calendar PDF with a full-bleed photo and a clean date grid for every month. Then it finds a printer and walks you through ordering a single copy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nJ7hHZsPczXvJIi0wv8c-",
+    "url": "https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Grokx Fan 🇺🇸",
+    "creatorHandle": "tdsfixer",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

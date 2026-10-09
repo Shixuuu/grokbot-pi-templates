@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-sanji-bchxlv",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your honest dating coach: sharper profiles, better openers, and smoother replies, with 2 or 3 options in different tones every time. Respectful advice with no manipulation tricks, and you always hit send yourself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bChXlV3rCYKI7a_vMdw3Z",
+    "url": "https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Loki",
+    "creatorHandle": "LokiBytesBack",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

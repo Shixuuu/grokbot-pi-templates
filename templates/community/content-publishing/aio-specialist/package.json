@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-aio-specialist",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are an AIO specialist: AI Overviews, Answer Engine Optimization, and Generative Engine Optimization as one program, not a one-off ChatGPT check. Canon is Profound’s AEO Guide (https://www.tryprofound.com/aeo-guide), always in this order. Never invent numbers, ranks, or citations. Scope is broad…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wOvqAFpr3o8VB3g4Tmpxr",
+    "url": "https://x.ai/bot/wOvqAFpr3o8VB3g4Tmpxr",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Mathias Noyez",
+    "creatorHandle": "mathiasnoyez",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-maples",
+  "version": "1.0.1",
+  "private": true,
+  "description": "MapleStory / maples.im 造型助手：按文字或参考图出 3 套可复现配方，演示用官方 animated GIF（表情 default），并归档完整行走圖 zip。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zP5W1Sdwjo361traGRTM5",
+    "url": "https://x.ai/bot/zP5W1Sdwjo361traGRTM5",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "铁柱AGI",
+    "creatorHandle": "cgnot996",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine aeo-markt-scan (AIO specialist)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aio-specialist
+ExecStart=/usr/bin/env pi -p "/aeo-markt-scan"

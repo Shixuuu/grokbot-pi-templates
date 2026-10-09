@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dbs",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A dontbesilent commercial toolbox. Routes business, content, and action problems through /dbs. When someone names a current hotspot, it verifies the facts and returns one professional short-video cut instead of a news recap.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l6H6WL7HF-CAwcvr1hBey",
+    "url": "https://x.ai/bot/l6H6WL7HF-CAwcvr1hBey",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Leechael Yim",
+    "creatorHandle": "Leechael",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

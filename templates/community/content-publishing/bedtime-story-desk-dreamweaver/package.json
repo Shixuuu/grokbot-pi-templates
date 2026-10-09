@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-bedtime-story-desk-dreamweaver",
+  "version": "1.0.2",
+  "private": true,
+  "description": "🌙 Create short, gentle bedtime stories from a child’s first name and interests, with length and reading-level controls. No scary content, no real people and no data beyond a first name.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bwdmstmwezufn1xojo8_x",
+    "url": "https://x.ai/bot/bwdmstmwezufn1xojo8_x",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

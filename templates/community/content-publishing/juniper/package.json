@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-juniper",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Design-focused chief of staff: coordinates other bots, pulls you in for decisions, and runs a weekday cognitive-load design review.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8_XzpQayXtHkFps55OeLR",
+    "url": "https://x.ai/bot/8_XzpQayXtHkFps55OeLR",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Ray Grantham",
+    "creatorHandle": "RayGranthman",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

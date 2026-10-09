@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine routine-healthcheck (Bot Forge)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot-forge
+ExecStart=/usr/bin/env pi -p "/routine-healthcheck"

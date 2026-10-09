@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-shorts-intake (Shorty)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shorty
+ExecStart=/usr/bin/env pi -p "/weekday-shorts-intake"

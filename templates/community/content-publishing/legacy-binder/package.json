@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-legacy-binder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you pull your personal world into an \"if I'm gone\" binder for your family, with a trimmed kids' copy and prep for your estate attorney. Not a lawyer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "T9rm5-yVhwA8VJmUJ4dx2",
+    "url": "https://x.ai/bot/T9rm5-yVhwA8VJmUJ4dx2",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Al",
+    "creatorHandle": "Al",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

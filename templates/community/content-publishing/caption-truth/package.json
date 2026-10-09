@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-caption-truth",
+  "version": "1.0.5",
+  "private": true,
+  "description": "For creators dumping a weekend of shots: get honest captions with overclaims called out—no invented hotter night than your context supports.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nCzuCtWFMtDDsXrrqqYFA",
+    "url": "https://x.ai/bot/nCzuCtWFMtDDsXrrqqYFA",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

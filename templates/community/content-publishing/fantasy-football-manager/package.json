@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-fantasy-football-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekly fantasy football coach for ESPN leagues — start/sit calls, injury clears, and waiver advice in half PPR.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WJc0G06lrr_H9OEyQ8Ijl",
+    "url": "https://x.ai/bot/WJc0G06lrr_H9OEyQ8Ijl",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "treknhenry",
+    "creatorHandle": "treknhenry",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

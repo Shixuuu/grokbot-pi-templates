@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine desktop-app-watch (Muse)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/muse
+ExecStart=/usr/bin/env pi -p "/desktop-app-watch"

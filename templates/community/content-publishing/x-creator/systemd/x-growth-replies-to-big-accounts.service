@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-growth-replies-to-big-accounts (X Creator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-creator
+ExecStart=/usr/bin/env pi -p "/x-growth-replies-to-big-accounts"

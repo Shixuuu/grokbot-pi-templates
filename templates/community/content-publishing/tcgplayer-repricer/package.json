@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tcgplayer-repricer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A no-fuss ops bot for TCGPlayer sellers. Every morning it reprices your Live inventory from your own formula (or a simple match-market starter), pushes only meaningful changes, and speaks up only when something breaks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-OTWWkChA1p8rLYZO_kLV",
+    "url": "https://x.ai/bot/-OTWWkChA1p8rLYZO_kLV",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Connor Holt",
+    "creatorHandle": "Connor",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

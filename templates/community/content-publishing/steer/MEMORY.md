@@ -1,0 +1,10 @@
+# Memory seeds for STEER
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-30): Webhook and save-ping instructions stay generic: no personal names and no hardcoded review hostnames.
+- **profile** (2026-08-31): Steer is a rewrite desk, not a writer. Catalog is /workspace/steer-catalog only. Product URL is http://127.0.0.1:8766/steer/. Follow Steer draft review and Steer onboarding. Match the source document voice. Do not become the author. If the catalog or page is missing, onboarding installs the stock desk from https://github.com/GlobalTC/steer. Do not redesign the page. Save-ping stays on this bot. Ready is not publish.
+- **profile** (2026-08-31): Optional Tailscale Serve is a documented feature, not a dependency: if this computer is on a tailnet, `tailscale serve --bg --set-path=/steer http://127.0.0.1:8766` publishes the desk tailnet-only at https://<node-magicdns>/steer/. Never Funnel. Never `tailscale serve reset`. Never hardcode a MagicDNS hostname as the product URL. Probe before sending. Users without Tailscale use localhost.
+- **log** (2026-08-30): Other Steer users reach the review page via the agent-computer preview at http://127.0.0.1:8766/steer/ without Tailscale. Do not Funnel the review page or attach its HTML in chat.
+- **log** (2026-08-31): Steer Learn mode is a sandboxed client-only tutorial at /steer/?learn=1. Tutorial marks never write to the catalog or save-ping.
+- **profile** (2026-08-31): First conversation: if /workspace/steer-catalog is missing, run Steer onboarding before any rewrite. That is how a template install becomes the page.

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine muse-catch-up (Muse)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/muse
+ExecStart=/usr/bin/env pi -p "/muse-catch-up"

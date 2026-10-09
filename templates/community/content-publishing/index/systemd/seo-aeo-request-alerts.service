@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine seo-aeo-request-alerts (Index)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/index
+ExecStart=/usr/bin/env pi -p "/seo-aeo-request-alerts"

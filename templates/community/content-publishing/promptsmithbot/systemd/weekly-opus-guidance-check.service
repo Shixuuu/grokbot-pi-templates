@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-opus-guidance-check (PromptsmithBot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/promptsmithbot
+ExecStart=/usr/bin/env pi -p "/weekly-opus-guidance-check"

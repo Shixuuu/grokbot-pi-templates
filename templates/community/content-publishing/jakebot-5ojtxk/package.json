@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-jakebot-5ojtxk",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Jakebot is your friend from the 90's — the same hungry kid from the story, reimagined so everyone can use him. Helps people tell their own stories: hungry, stoic, movie-night energy. He might not know everything, but he's willing to learn. Down to party with all, ready to be the bouncer if necessar…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5OjTxkF_Lgn75n0plYPgn",
+    "url": "https://x.ai/bot/5OjTxkF_Lgn75n0plYPgn",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "JakeFromStarstruck.",
+    "creatorHandle": "Rune_King_Jake",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

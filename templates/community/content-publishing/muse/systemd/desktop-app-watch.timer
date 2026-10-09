@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine desktop-app-watch
+
+[Timer]
+OnCalendar=Mon,Wed,Fri *-*-* 09:49:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

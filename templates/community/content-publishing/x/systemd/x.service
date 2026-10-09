@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x (ブログからX投稿)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x
+ExecStart=/usr/bin/env pi -p "/x"

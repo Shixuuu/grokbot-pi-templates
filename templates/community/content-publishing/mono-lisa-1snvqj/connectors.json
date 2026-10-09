@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Linear",
+      "pluginId": "512",
+      "description": "The product development system for teams and agents. Manage issues, projects, documents, and everything else across your Linear workspace."
+    },
+    {
+      "name": "Amplitude",
+      "pluginId": "786",
+      "description": "Use Amplitude like an expert - instrument analytics, discover product opportunities, analyze charts, create dashboards, manage experiments, and understand users and accounts"
+    },
+    {
+      "name": "Paper",
+      "pluginId": "6062",
+      "description": "Design on a canvas that Cursor can read and write to — built on web standards."
+    }
+  ]
+}

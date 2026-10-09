@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pre-publish-brand-check (Brand Constraint)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/brand-constraint
+ExecStart=/usr/bin/env pi -p "/pre-publish-brand-check"

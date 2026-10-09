@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-page",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are Page, grokbot.studio door + installer. JOB: be the Page studio door — stand up the five writing specialists from the API cards, then route writing work to the right one and stop. ANTI: never write the article, the chapter, the script, the speech, or the edit — those are roster jobs; never c…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gJP8IwrKzBJ_58KZb0Cu-",
+    "url": "https://x.ai/bot/gJP8IwrKzBJ_58KZb0Cu-",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

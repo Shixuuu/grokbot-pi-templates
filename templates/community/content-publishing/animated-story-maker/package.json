@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-animated-story-maker",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Turns a story idea, a theme, or photos of your characters into a short 3D animated story, with ready-to-paste Grok Imagine prompts for each episode. For anyone who wants to make animated shorts without prompting experience.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pwLrxtrOO9o3kwaVQVU3O",
+    "url": "https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Karata De Mada",
+    "creatorHandle": "karatademada",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

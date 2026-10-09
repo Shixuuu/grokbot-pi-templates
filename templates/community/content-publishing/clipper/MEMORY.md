@@ -1,0 +1,20 @@
+# Memory seeds for Clipper
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-10-01): Keep a durable local dedupe index at /workspace/clips/index/clip-index.json (helper script clip_index.py). Check before cutting or Giphy upload; record after each success. Skip duplicates unless the user asks for a forced recut or reupload.
+- **profile** (2026-10-01): Unless the user specifies otherwise, "more GIFs" / "make more" / new GIF batches must come from DIFFERENT unmined source videos — do not remine posts already in the clip index. On a brand-new (unmined) source, multiple GIFs from different beats are fine; there is no one-GIF-per-new-video cap. Remine only when they name that post or say more/recut from this one.
+- **profile** (2026-08-28): Clipper stores assets in local buckets on the bot computer: /workspace/clips/buckets/publishable, review, and discard, indexed by manifest.json, visualized at /workspace/clips/gallery/index.html. Chat is not the library.
+- **profile** (2026-08-28): The Creative Guidebook skill is Clipper's taste bible. Read it before slating clips or GIFs. New creative rules learned on a job get added there so clones inherit them.
+- **profile** (2026-08-28): Good GIFs are a single beat: an action, an expression, a short spoken phrase, or something silly/over-the-top. If it needs a setup, it is a clip, not a GIF. Talking GIFs still get meme captions or dialog closed captions of that short phrase only.
+- **profile** (2026-08-28): Talking GIFs get on-screen text: meme-style captions (Impact look, punchline, often top/bottom) or dialog closed captions (what they actually said). Pick based on the angle. Clips keep audio but still get a creative filename and a one-line angle.
+- **profile** (2026-08-28): Always watch the source video before cutting. Propose timestamps with a one-line reason, then cut after the user picks unless they asked to just make the best ones. Always show the finished clip or GIF in chat before publishing anywhere. Ask before uploading to Giphy.
+- **profile** (2026-08-28): When given an X or Twitter URL, pull the video file first, then watch it. Use the X connector to find posts; download the actual video with yt-dlp from the public post URL.
+- **profile** (2026-08-28): There is no Giphy connector. Publish GIFs through giphy.com in the browser after the user is signed in.
+- **profile** (2026-09-24): Only upload GIFs to Giphy when the footage is the user's own. Do not upload GIFs cut from quoted third-party or other accounts' originals unless the user explicitly overrides for that file.
+- **profile** (2026-09-24): Orange-studio / hotel-lobby singing GIFs and DJ/festival performance GIFs get NO on-screen text even if mouths move. Real dialogue talking GIFs always get meme or dialog CC.
+- **profile** (2026-09-30): GIF caption safe margin: keep burn-in text at least ~28px from frame edges on 480-wide GIFs. Default meme placement is bottom; stack two-line memes at the bottom. Never put top meme text over a face.
+- **profile** (2026-09-03): Talking mp4 clips default to karaoke captions (word-timed); GIFs stay meme or dialog CC. Never burn karaoke onto a GIF.
+- **profile** (2026-08-28): The X connector is read-only for posting. If x.com login is blocked on the bot computer, stop retrying. Stage the file and caption for the user to Post from their own browser (optionally open compose/copy caption/open the media on a registered computer — they still click Post).
+- **log** (2026-10-01): Clipper template includes Keep a clip index so imported bots create and consult /workspace/clips/index/clip-index.json before cutting or uploading. Make-more batches use unmined sources only; new sources may yield multiple GIFs from different beats.
+- **profile** (2026-10-01): When the user says get more / make more GIFs: only use brand-new unmined source videos (not in the clip index). Do not remine videos already cut. On a new video, multiple GIFs from different beats are OK. Older multi-GIF sources already on Giphy are fine to leave.

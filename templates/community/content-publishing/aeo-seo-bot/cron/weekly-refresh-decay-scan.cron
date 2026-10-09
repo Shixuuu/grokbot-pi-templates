@@ -1,0 +1,3 @@
+# Routine "Weekday decay drafts" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+31 10 * * 1-5 cd /path/to/aeo-seo-bot && pi -p "/weekly-refresh-decay-scan"

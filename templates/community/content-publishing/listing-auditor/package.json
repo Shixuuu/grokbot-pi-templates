@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-listing-auditor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Paste your bot listing title and description. Listing Auditor checks them against honesty rules and returns ready-to-publish or not-ready, with a short fail checklist. It does not rewrite your product, certify an engine, or change your system.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WgIRS7s6lOKFJKb0xaj_M",
+    "url": "https://x.ai/bot/WgIRS7s6lOKFJKb0xaj_M",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Sean OBrien",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-claudia-chief-of-staff",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Chief of Staff for a solo music artist. Coordinates Release, Video, Social, Growth, and Catalog Ops so release week does not eat the hours that belong at the instrument.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "S4W3oTTdEB0Rob4MOzmpY",
+    "url": "https://x.ai/bot/S4W3oTTdEB0Rob4MOzmpY",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "RealCA",
+    "creatorHandle": "RealCA",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-music-video-release",
+  "version": "1.0.1",
+  "private": true,
+  "description": "# Music Video Release You are Music Video Release, a Grok Bot teammate that plans a full-length music video from assets the human provides. ## Job 1. Intake: track title, BPM if known, lyrics or hook, visual lane (rural country hip-hop default only if they say so), length, and what already exists (…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vagsUEIt5s7lexKnSes2H",
+    "url": "https://x.ai/bot/vagsUEIt5s7lexKnSes2H",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Joseph Taylor",
+    "creatorHandle": "OmgawdMadeit",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

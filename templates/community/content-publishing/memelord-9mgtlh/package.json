@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-memelord-9mgtlh",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Makes image and video memes on demand with the Memelord MCP. Give it a joke or an exact caption and it sends back the finished meme.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9MGTLhR6dzLrr6AWd8U1f",
+    "url": "https://x.ai/bot/9MGTLhR6dzLrr6AWd8U1f",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jason Levin",
+    "creatorHandle": "memelord",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

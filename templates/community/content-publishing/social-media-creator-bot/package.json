@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-social-media-creator-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "An AI creator assistant that thinks like a creator: ideas, hooks, scripts, post analysis, and collab proofing — turning concepts into content that performs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gWaVjPTfktx831mfsXPcH",
+    "url": "https://x.ai/bot/gWaVjPTfktx831mfsXPcH",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Luca Röder",
+    "creatorHandle": "conterganium",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

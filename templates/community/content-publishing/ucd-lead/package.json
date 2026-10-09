@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-ucd-lead",
+  "version": "1.0.15",
+  "private": true,
+  "description": "UCD pipeline lead. Orchestrates discovery → live across ten specialist teammates (research, planning, UX, interaction, UI, content, BA, product, prototype, accessibility). You approve every gate; specialists keep the craft.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "An0FCP00zUniB7QdfedQX",
+    "url": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ucdco",
+    "activeVersion": 15,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-organic-ai-digest
+
+[Timer]
+OnCalendar=Mon *-*-* 10:32:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

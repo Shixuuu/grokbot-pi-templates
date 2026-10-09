@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-video-creator",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Runs an explainer video team end to end: research, script, voice, invented-look animation, edit, mechanical QA, unlisted upload. A director plus four helpers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rptsheszpgalwmozax8ef",
+    "url": "https://x.ai/bot/rptsheszpgalwmozax8ef",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Farzad",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

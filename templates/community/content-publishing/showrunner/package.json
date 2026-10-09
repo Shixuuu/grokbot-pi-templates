@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-showrunner",
+  "version": "1.0.14",
+  "private": true,
+  "description": "Music video owner for a five-Bot crew. After import it runs /bootstrap-crew (creates A&R, Art Director, Continuity, Editor + Music Video Crew), then /user-guide. You run Imagine yourself or let Showrunner; mux in your editor or the Editor Bot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dLxcnhWxf9JyHIo_l8wJk",
+    "url": "https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "RedSpiceX",
+    "creatorHandle": "RedSpiceX",
+    "activeVersion": 14,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

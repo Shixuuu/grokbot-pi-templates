@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Figma",
+      "pluginId": "657",
+      "description": "Turn designs into code, push UI back to Figma, and create Design, FigJam, and Slides files."
+    }
+  ]
+}

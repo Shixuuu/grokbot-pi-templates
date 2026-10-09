@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-profile-site",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Builds you a one-page personal website from your X profile, your Grok Bot bots and teams, and what Grok Bot knows about you, with bot and team counters and a card for every project. Publishes it on grok.me when you say yes and keeps it up to date every week.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-BWpMRidNVEjHFqOtol0Q",
+    "url": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Christian Olsson",
+    "creatorHandle": "Christian_O91",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-newsletterbot-by-contentdrips",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Repurposes newsletter posts into social graphics and carousels with ContentDrips. Paste a newsletter link, pick nuggets, then use your template or the AI Design Agent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aZktlS8No2Ur9nlhKRcy8",
+    "url": "https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Usama Khalid",
+    "creatorHandle": "im_usamakhalid",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

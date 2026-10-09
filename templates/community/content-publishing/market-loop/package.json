@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-market-loop",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Recurring grocery automation: turns purchase history into weekly/biweekly/monthly lists, prepares delivery carts from saved lists, handles voice add-to-cart, and reconciles post-delivery inventory.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8tv5B1XUrpqWJ2mp1tkk6",
+    "url": "https://x.ai/bot/8tv5B1XUrpqWJ2mp1tkk6",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Marcel Viana",
+    "creatorHandle": "marcelvsouza",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

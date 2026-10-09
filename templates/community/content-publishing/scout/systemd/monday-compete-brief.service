@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-compete-brief (Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/scout
+ExecStart=/usr/bin/env pi -p "/monday-compete-brief"

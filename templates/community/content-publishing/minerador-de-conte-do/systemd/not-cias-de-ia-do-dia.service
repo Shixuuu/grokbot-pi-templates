@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine not-cias-de-ia-do-dia (Minerador de conteúdo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/minerador-de-conte-do
+ExecStart=/usr/bin/env pi -p "/not-cias-de-ia-do-dia"

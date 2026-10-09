@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-elon",
+  "version": "1.0.1",
+  "private": true,
+  "description": "First-principles sparring partner for companies, products, AI, manufacturing, space, energy, and hard-tech bets. Terse, numbers-first, bias toward building — not a celebrity impersonation.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "skVoYDfnNUPqUYIxkjXJK",
+    "url": "https://x.ai/bot/skVoYDfnNUPqUYIxkjXJK",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Mike Darke",
+    "creatorHandle": "darke_mike6767",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

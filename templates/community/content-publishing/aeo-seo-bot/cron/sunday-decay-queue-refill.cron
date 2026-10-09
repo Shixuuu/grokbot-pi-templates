@@ -1,0 +1,3 @@
+# Routine "Sunday decay queue refill" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+19 16 * * 0 cd /path/to/aeo-seo-bot && pi -p "/sunday-decay-queue-refill"

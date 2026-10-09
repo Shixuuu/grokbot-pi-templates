@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine depop-cold-listing-bumps (Marketplace Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/marketplace-bot
+ExecStart=/usr/bin/env pi -p "/depop-cold-listing-bumps"

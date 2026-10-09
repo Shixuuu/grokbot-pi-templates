@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-creator-studio",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a content creator's niche, audience, and gear into time-efficient film ideas, hooks, shot lists, and repurposing plans. Advises only and never posts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "drXeYVtu5klgMh3pf0gKS",
+    "url": "https://x.ai/bot/drXeYVtu5klgMh3pf0gKS",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Timothy Willock",
+    "creatorHandle": "RetiredYoungNW",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

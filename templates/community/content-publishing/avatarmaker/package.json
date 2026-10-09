@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-avatarmaker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Designs matching square avatars for a Grok Bot crew. Pick a look from the book, then get paste-ready Edit Profile packs for every Bot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EfBhh8nwpuGD0XNfl0eBI",
+    "url": "https://x.ai/bot/EfBhh8nwpuGD0XNfl0eBI",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Andrew Pocta",
+    "creatorHandle": "Andrew51786",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

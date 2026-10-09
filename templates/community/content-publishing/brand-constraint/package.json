@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-brand-constraint",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Every piece of work reflects who you are. Brand Constraint keeps your whole AI workforce on-brand — brand as constraint for founders and teams — differentiation, positioning, messaging, storytelling, and alignment across product, design, marketing, support, GTM, and social. Extracts guidelines on i…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Vzz6Zz-4efWXs8nXB58pK",
+    "url": "https://x.ai/bot/Vzz6Zz-4efWXs8nXB58pK",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Omer Yarkowich",
+    "creatorHandle": "cdotposcon",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-reimagination",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reimagines any story (video, audio, text) with your variables, after asking where/when/why they go in. Matches the source’s genre and maturity. Prefers legal access.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jhjOrq-Pp06MoA7TT_B0H",
+    "url": "https://x.ai/bot/jhjOrq-Pp06MoA7TT_B0H",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Wardonis Valenroth",
+    "creatorHandle": "Wardonis",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

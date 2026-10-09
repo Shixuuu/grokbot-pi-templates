@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dadprotech-brand-manager",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A daily social desk for one brand. Learns voice from the owner's X profile and recommends one new tweet each weekday, plus replies worth making. Not an agency or ads buyer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "F7rovUv9EumNAoj9vEAWm",
+    "url": "https://x.ai/bot/F7rovUv9EumNAoj9vEAWm",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

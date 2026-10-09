@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-space-opera-rpg",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Multi-bot space-opera RPG kit with self-optimizing, token-efficient play tune-ups. Pick your series and writing approach, start at your homebase, spawn a small Narrator + cast — grow and refine style and cast communication as you play. Not affiliated with any copyright holders of books, movies, or …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "van80CjdHFc1ZDseneBEJ",
+    "url": "https://x.ai/bot/van80CjdHFc1ZDseneBEJ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Tibor Sekelj",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

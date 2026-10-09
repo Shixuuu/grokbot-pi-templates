@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine argonaut-voyage (Argonaut)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/argonaut
+ExecStart=/usr/bin/env pi -p "/argonaut-voyage"

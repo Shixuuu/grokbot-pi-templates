@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-content-calendar (Atlas — Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/atlas-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/weekly-content-calendar"

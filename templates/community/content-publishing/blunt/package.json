@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-blunt",
+  "version": "1.0.40",
+  "private": true,
+  "description": "Blunt is the review a senior product marketer would email after sitting with your page. Send a URL and get THE MEMO: the good, the bad, the one thing to fix first, what to fix in order, and a score out of 10 in the opening. A URL is enough. A pasted line is enough. Paste two variants and ask which,…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "N0J32FbnVRuetJi1oJggh",
+    "url": "https://x.ai/bot/N0J32FbnVRuetJi1oJggh",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Tal Siach",
+    "creatorHandle": "Talsiach",
+    "activeVersion": 40,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dj-grok-bot",
+  "version": "1.0.10",
+  "private": true,
+  "description": "A Spotify DJ that learns what you like, then builds daily playlists from your taste — not a preset someone's collection.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7bRnNqPqR5ojihjth-Vwm",
+    "url": "https://x.ai/bot/7bRnNqPqR5ojihjth-Vwm",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Daniel Ennis",
+    "creatorHandle": "restaurant_boy",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

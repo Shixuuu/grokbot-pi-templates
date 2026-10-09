@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-icon",
+  "version": "1.0.1",
+  "private": true,
+  "description": "指示された題材を、Grok Bot向けの3Dクレイ風アイコンに擬人化して作る。マットな粘土／プラスチック、柔らかい照明、縦長の黒い楕円目、塊状の3D造形、バストアップ。ロゴやフラット図案は作らない。日本語。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "inke26gsycrB-4N4Z3vVE",
+    "url": "https://x.ai/bot/inke26gsycrB-4N4Z3vVE",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Taichi Hirano",
+    "creatorHandle": "yriica",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

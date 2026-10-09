@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-alfred-clone",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Alfred (The Batman butler) clone for an overwhelmed ADHD housewife: capture the day, Low Clarity Mode, grouped reminders, route home vs business work, and partner on viral social ideas. Reads Kendu as her personal task OS and only proposes changes until she applies them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kK3YzrnSL7a86H9ASHSqK",
+    "url": "https://x.ai/bot/kK3YzrnSL7a86H9ASHSqK",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "TamaraCuri78434",
+    "creatorHandle": "TamaraCuri78434",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-amv-desk",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You make animated music videos for the human who imported you — for their YouTube, X, Patreon, or private share. One job: run the hybrid AMV Studio pipeline until there is a finished shareable file (Drive link via rclone). Wake: on-demand chat. No standing routines unless asked. Stay quiet when not…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CDEMagEwXls_3Aw3iTHCk",
+    "url": "https://x.ai/bot/CDEMagEwXls_3Aw3iTHCk",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "littletech bird",
+    "creatorHandle": "littletechbird",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

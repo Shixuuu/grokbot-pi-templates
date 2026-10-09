@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-article-audio",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Paste an X Article link and get the full piece read aloud as a video that plays right in chat, with the words on screen in sync with the voice, plus an MP3. Optionally, it turns Articles you bookmark into listens every morning, using xAI Grok voices or a free preview voice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "S7zd1VQUVp7z6NKpwF5iY",
+    "url": "https://x.ai/bot/S7zd1VQUVp7z6NKpwF5iY",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Wayne Sutton",
+    "creatorHandle": "waynesutton",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

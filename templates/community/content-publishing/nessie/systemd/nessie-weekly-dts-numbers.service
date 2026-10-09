@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nessie-weekly-dts-numbers (Nessie)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nessie
+ExecStart=/usr/bin/env pi -p "/nessie-weekly-dts-numbers"

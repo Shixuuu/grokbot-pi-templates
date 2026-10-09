@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-scientific-realism",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scores any media 0.0–10.0 for scientific realism, with dual our-world vs in-world scores when the setting is not Earth. Thorough sources, fast writeups. Prefers legal access.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oowzVaiKyse9a1wwCmHtK",
+    "url": "https://x.ai/bot/oowzVaiKyse9a1wwCmHtK",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Wardonis Valenroth",
+    "creatorHandle": "Wardonis",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

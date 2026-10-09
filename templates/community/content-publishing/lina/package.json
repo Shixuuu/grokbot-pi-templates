@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-lina",
+  "version": "1.0.1",
+  "private": true,
+  "description": "YouTube studio director for creators who want one video at a time designed as a thumbnail–title–opening–payoff contract, then one next test. Drafts scripts and packaging; does not publish or invent analytics.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PZQY6T6sKxrzhuYsclwap",
+    "url": "https://x.ai/bot/PZQY6T6sKxrzhuYsclwap",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Gabriel Abreu",
+    "creatorHandle": "gabe_onchain",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

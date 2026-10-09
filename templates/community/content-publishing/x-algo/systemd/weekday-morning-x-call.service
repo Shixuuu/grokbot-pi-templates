@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-morning-x-call (X Algo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-algo
+ExecStart=/usr/bin/env pi -p "/weekday-morning-x-call"

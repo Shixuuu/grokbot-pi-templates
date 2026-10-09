@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-taller-cyzg2v",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Dev-tools inbox for Grok Bot. Drop a repo, npm, CLI, or link and it saves a short Spanish card under taller/; ask later and it recommends only from that library. Sibling of the Lienzo design inbox.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cYZG2v8vG9Q7Fsds3Ickp",
+    "url": "https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Franco Escob",
+    "creatorHandle": "Fran Escob",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

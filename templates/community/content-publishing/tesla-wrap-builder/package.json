@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-tesla-wrap-builder",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Designs custom wraps for your Tesla's on-screen 3D car in Paint Shop (not real vinyl): your logo, photo, pattern, text or colours, fitted to Tesla's official template for your model and handed back as a file ready to upload.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9bKx_1Qc-S3xUrlH0oRv5",
+    "url": "https://x.ai/bot/9bKx_1Qc-S3xUrlH0oRv5",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Mike Yeager",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

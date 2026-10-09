@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-x-high-coach-xsfbsp",
+  "version": "1.0.11",
+  "private": true,
+  "description": "X content coach for any public username. Live per-user scoreboard from public data, health flags as public-signal estimates, net follower-count watch (no unfollower names), rewrites, one-week plan, Posting Style School drills, and Google Search Profile claim checklists (you click; the bot never sig…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xSfBSprfKv5h909uzrv7W",
+    "url": "https://x.ai/bot/xSfBSprfKv5h909uzrv7W",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "High Tv",
+    "creatorHandle": "Hightv",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

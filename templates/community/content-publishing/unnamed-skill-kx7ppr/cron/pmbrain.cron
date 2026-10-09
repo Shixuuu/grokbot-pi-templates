@@ -1,0 +1,3 @@
+# Routine "每日五帖（交稿）" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+18 8,10,12,16,19 * * * cd /path/to/unnamed-skill-kx7ppr && pi -p "/pmbrain"

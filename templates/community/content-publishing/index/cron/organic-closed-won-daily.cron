@@ -1,0 +1,3 @@
+# Routine "Organic closed-won daily" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+51 9 * * 1-5 cd /path/to/index && pi -p "/organic-closed-won-daily"

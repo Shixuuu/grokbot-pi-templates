@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-video-script-writer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Writes hooks and full spoken scripts for Reels, Shorts, TikTok, and long-form YouTube. Built around a 52-template hook catalog, hook-tension-payoff, and a six-beat 60s explainer sheet.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Hj01jL8dJIkTGPWS3VcMM",
+    "url": "https://x.ai/bot/Hj01jL8dJIkTGPWS3VcMM",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jeroen Erne",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

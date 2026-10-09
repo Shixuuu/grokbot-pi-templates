@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine sunday-decay-queue-refill
+
+[Timer]
+OnCalendar=Sun *-*-* 16:19:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

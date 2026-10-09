@@ -1,0 +1,30 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "ChatPRD",
+      "pluginId": "14371557",
+      "description": "Product requirements in your editor. Write PRDs from code context, implement from specs, and verify your changes match requirements — powered by ChatPRD's MCP."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Your meetings in your workflow. Granola gives Cursor access to what your team discussed, decided, and committed to."
+    },
+    {
+      "name": "Linear",
+      "pluginId": "512",
+      "description": "Cursor Plugin for Linear - enables AI assistants to manage issues, projects, documents, and more across your Linear workspace"
+    },
+    {
+      "name": "Intercom",
+      "pluginId": "49339690",
+      "description": "Search conversations, contacts, and Help Center articles."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Search events and schedule meetings."
+    }
+  ]
+}

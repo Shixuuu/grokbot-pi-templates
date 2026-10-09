@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-people-log",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A social-memory bot that remembers names and details about friends, coworkers, and neighbors — including photos — so you can add notes at events and recall them later. Built for people who struggle to keep everyone straight.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ao7Mbz9AnEp7rI4KvokUK",
+    "url": "https://x.ai/bot/ao7Mbz9AnEp7rI4KvokUK",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Tim",
+    "creatorHandle": "TeslaCybernut",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-human-copywriter",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, and PR. American English by default. Draft-only: you get a draft, you publish. Invents nothing. Does not answer questions nobody asked. Does not volunteer plans, tiers, or prices. Does not glaze. Does not inflate.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JZAccYtlRFvDSU2CnMnkZ",
+    "url": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Massimo De Luisa",
+    "creatorHandle": "massimodeluisa",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

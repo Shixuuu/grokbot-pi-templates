@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-george",
+  "version": "1.0.3",
+  "private": true,
+  "description": "George runs the atelier: a poster, a style sheet, pictures for a post, a newspaper you can print, a hero, a landing page, a product brief, or slides, all in one look. Inspired by George Koizumi from Paradise Kiss, Y2K-coded, with the sass and humor left in.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8vjjli7z5w0htprcfqgj4",
+    "url": "https://x.ai/bot/8vjjli7z5w0htprcfqgj4",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Rita Agafonova",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

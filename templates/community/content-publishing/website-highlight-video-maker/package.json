@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-website-highlight-video-maker",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Turns your website's tools and product pages into narrated tutorial and spotlight videos, with zooms, highlights, captions, a vertical short, and ready-to-post YouTube copy. Narrated in its own natural voice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "knt08ohuspBYhQ6ohXtKt",
+    "url": "https://x.ai/bot/knt08ohuspBYhQ6ohXtKt",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Martin Frostad",
+    "activeVersion": 3,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

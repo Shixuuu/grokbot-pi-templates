@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-brand-showreel",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Builds short beat-synced brand showreels in code — site-true 1080p60 MP4 with synthesized soundtrack. Brand-agnostic brief modes, picture veto before full render, default ~30s pace.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "r-ctb7rwrvfoy-_p_t9ex",
+    "url": "https://x.ai/bot/r-ctb7rwrvfoy-_p_t9ex",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Mouth Of Madness",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-copywriter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Repagina carrosséis e posts de Instagram ranqueados em copy por slide mais a legenda, e envia o briefing para um engenheiro audiovisual gerar as artes. Para contas educativas de notícia de IA, sem oferta.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DlOMT_kOepSKYdB3P0YEv",
+    "url": "https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Gabriel Adamuchi - Inteligência Artificial",
+    "creatorHandle": "adamuchigabriel",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

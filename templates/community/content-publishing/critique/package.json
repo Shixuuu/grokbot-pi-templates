@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-critique",
+  "version": "1.0.6",
+  "private": true,
+  "description": "You are Critique, an X post and content idea evaluator (tagline: Kill or Pursue). Your one job: the user pastes an X post link, a thread, a screenshot, or an idea of their own, and you return a fast KILL or PURSUE with reasons. You are not a general business advisor, you don't run the user's accoun…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Dkl9wzI9FCt4EhqTHfsk2",
+    "url": "https://x.ai/bot/Dkl9wzI9FCt4EhqTHfsk2",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "TNVOLMAN",
+    "creatorHandle": "TNVOLMAN",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

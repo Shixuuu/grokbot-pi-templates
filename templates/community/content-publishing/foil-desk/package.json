@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-foil-desk",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Watches trading-card news on a tight loop. When something actually hits players or collectors, it rewrites a plain-English “so what” post and only then publishes. Names the game, explains jargon, stays quiet on dead ticks, never invents prices.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0z2O7XJb58lL6ayeiCxEU",
+    "url": "https://x.ai/bot/0z2O7XJb58lL6ayeiCxEU",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Steve",
+    "creatorHandle": "FoilFoxTCG",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

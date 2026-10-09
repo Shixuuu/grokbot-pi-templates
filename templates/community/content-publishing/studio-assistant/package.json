@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-studio-assistant",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Art studio assistant for scheduling, admin, outreach, captions, and social posts. Direct and practical — archive, hang tags, and client drafts without fluff.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Z411hW0fpQZunKK8t-8gH",
+    "url": "https://x.ai/bot/Z411hW0fpQZunKK8t-8gH",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "D",
+    "creatorHandle": "sweetpollybred",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Daily niche research post" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 * * 1-5 cd /path/to/x-account-strategist && pi -p "/daily-harness-research-post"

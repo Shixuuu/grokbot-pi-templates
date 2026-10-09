@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-virality-score",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Creator/blogger desk: watches YOUR watchlist, finds posts that already hit, mines keywords, drafts EN posts to ride the meta, and on first run scaffolds YOUR own public GitHub Pages dashboard. Daily digest + board refresh. Read-only on X unless you approve a post.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BIvSSU3sukmkTpMeSnft-",
+    "url": "https://x.ai/bot/BIvSSU3sukmkTpMeSnft-",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "theGreatest",
+    "creatorHandle": "thegreatest_sv",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

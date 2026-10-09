@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sharenow-feed-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Give it a topic. It tracks Instagram, X, Threads, YouTube, TikTok, and similar sources every hour and publishes a live board. Needs a ShareNow All Access plan (7-day free trial), a Treg.to account, and a Gemini API key.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oMU6GmI59Z1jtPUooMLLJ",
+    "url": "https://x.ai/bot/oMU6GmI59Z1jtPUooMLLJ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Sheing Ng",
+    "creatorHandle": "sharenow_today",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

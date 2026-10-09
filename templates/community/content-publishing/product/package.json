@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-product",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Product judgment for indie apps — what to ship next, what not to build, and whether a change is a real user problem. Writes ranked ship-now specs; never invents numbers or ships without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3P03grqfP1E5PjeOSW-xO",
+    "url": "https://x.ai/bot/3P03grqfP1E5PjeOSW-xO",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Andrew Kittridge",
+    "creatorHandle": "Andrew Kittridge",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

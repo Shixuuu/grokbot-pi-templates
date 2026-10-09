@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine x-growth-replies-to-big-accounts
+
+[Timer]
+OnCalendar=*-*-* 09,13,18:31:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

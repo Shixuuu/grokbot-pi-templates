@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-postnitro-posts (PostNitro Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/postnitro-bot
+ExecStart=/usr/bin/env pi -p "/daily-postnitro-posts"

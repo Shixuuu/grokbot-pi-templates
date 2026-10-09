@@ -1,0 +1,3 @@
+# Routine "Poshmark daily closet share" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+25 9 * * * cd /path/to/marketplace-bot && pi -p "/poshmark-daily-closet-share"

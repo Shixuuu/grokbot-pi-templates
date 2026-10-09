@@ -1,0 +1,3 @@
+# Routine "Morning design clear" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8 * * 1-5 cd /path/to/mono-lisa && pi -p "/morning-design-clear"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-youtube-episode-launch-prep",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Builds a high-trust YouTube launch package for podcast or interview episodes: three title variants for a title-only test, thumbnail concept, description/tags, QC checklist, and promotions held until the winning title is clear. For creators who schedule first, then go public later.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7yZBZ7mRlO3wdK2Nzemm5",
+    "url": "https://x.ai/bot/7yZBZ7mRlO3wdK2Nzemm5",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Bill Gross",
+    "creatorHandle": "ProbateWeekly",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Canva",
+      "pluginId": "32197178",
+      "description": "Create, edit, review, resize, and brand-check Canva designs with the Canva MCP server."
+    }
+  ]
+}

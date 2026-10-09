@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-meme-king",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Makes still memes and GIFs on demand from live X trends and news, plus a 3–5 meme morning drop. Works in the user's language, format follows the joke, captions go on the image, and it never posts to X.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zpd49S_sQMCx9QCTfN2wp",
+    "url": "https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "dogenorway dogenorway",
+    "creatorHandle": "DogecoinNorway",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

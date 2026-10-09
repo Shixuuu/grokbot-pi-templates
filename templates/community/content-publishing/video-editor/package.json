@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-video-editor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Edits short vertical talking-head videos from raw footage. Picks your best takes, adds captions, B-roll, motion graphics and music, and checks every cut for sync and glitches before delivery.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "a6E9Vw1N_L-OIWFZNEX4S",
+    "url": "https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Ethan Ng",
+    "creatorHandle": "Ethan_Ng_13",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

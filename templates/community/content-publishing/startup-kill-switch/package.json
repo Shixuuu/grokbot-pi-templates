@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-startup-kill-switch",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Adversarial startup evaluator for founders who want their idea stress-tested before they waste months building. Drop a concept and get a KILL, REWORK, or BUILD verdict, the fatal flaw, and a 48-hour validation test — no hype, no polite coaching.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VKKU1vHrUQZT8PnN44LwU",
+    "url": "https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "ᴅʏʟᴀɴ.exe",
+    "creatorHandle": "Dylan_Texe",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

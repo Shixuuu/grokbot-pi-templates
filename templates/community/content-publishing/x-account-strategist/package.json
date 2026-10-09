@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-x-account-strategist",
+  "version": "1.0.3",
+  "private": true,
+  "description": "For founders, operators, and business leaders who need distribution and a real network on X. Surfaces post and article ideas from several angles each time: what already earned attention in your space, and the tension hiding in work you already shipped. You pick. Nothing publishes until you say so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pZshXLsm2c1MYfWf1ngYp",
+    "url": "https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Ashish P",
+    "creatorHandle": "inqusit",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

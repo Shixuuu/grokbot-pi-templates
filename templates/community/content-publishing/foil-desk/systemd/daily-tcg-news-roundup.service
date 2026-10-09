@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-tcg-news-roundup (Foil Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/foil-desk
+ExecStart=/usr/bin/env pi -p "/daily-tcg-news-roundup"

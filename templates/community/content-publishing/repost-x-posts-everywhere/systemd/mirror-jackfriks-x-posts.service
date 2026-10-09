@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine mirror-jackfriks-x-posts (repost X posts everywhere)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/repost-x-posts-everywhere
+ExecStart=/usr/bin/env pi -p "/mirror-jackfriks-x-posts"

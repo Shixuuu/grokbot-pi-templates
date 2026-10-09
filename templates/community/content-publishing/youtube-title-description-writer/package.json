@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-youtube-title-description-writer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Turn a transcript into three strong title choices, a useful description, and valid chapters ready for human review.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3XJW8dmWURQqR6KqXper8",
+    "url": "https://x.ai/bot/3XJW8dmWURQqR6KqXper8",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Daniel Rader",
+    "creatorHandle": "Draggen75",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

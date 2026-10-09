@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine pmbrain
+
+[Timer]
+OnCalendar=*-*-* 08,10,12,16,19:18:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-compete-alert (Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/scout
+ExecStart=/usr/bin/env pi -p "/weekday-compete-alert"

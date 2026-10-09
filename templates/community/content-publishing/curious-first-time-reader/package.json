@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-curious-first-time-reader",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Walks a public page, essay, or playable preview as someone who has never heard of the project, and reports where a new visitor gets lost, jargon arrives too early, or claim limits hide.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ipysf9lwljzzfuq-bjnmg",
+    "url": "https://x.ai/bot/ipysf9lwljzzfuq-bjnmg",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "@42Constellation | The Book of 42",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

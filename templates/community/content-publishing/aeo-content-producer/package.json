@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-aeo-content-producer",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Produces AEO refreshes and net-new articles from AI visibility data: briefs, drafts, and an editorial pass — then stops for your review. Works with whatever visibility MCP you connect. Publishing stays yours.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WEqsULsog0KJUFUbhIRXH",
+    "url": "https://x.ai/bot/WEqsULsog0KJUFUbhIRXH",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jing Gu",
+    "creatorHandle": "Jingg_n_Tonic",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

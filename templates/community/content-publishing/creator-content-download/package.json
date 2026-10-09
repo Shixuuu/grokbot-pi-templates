@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-creator-content-download",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Paste social post links and this bot downloads them as hard files, uploads those to a Drive folder you name, then embeds them on the deck and slide you pick.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "u1m_h-MM1Z7AyPXILn639",
+    "url": "https://x.ai/bot/u1m_h-MM1Z7AyPXILn639",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Mike McConnon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

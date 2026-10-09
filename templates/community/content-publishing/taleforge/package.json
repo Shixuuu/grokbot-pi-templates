@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-taleforge",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Turns any story idea into a finished comic, picture book, or short video — with locked characters, illustrated panels, voice-over, music, and sound design. Nothing publishes without your confirmation.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5-YiiKg_ws-7xgkR8T8Ko",
+    "url": "https://x.ai/bot/5-YiiKg_ws-7xgkR8T8Ko",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Avinash Peyyety",
+    "creatorHandle": "AvinashPeyyety",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

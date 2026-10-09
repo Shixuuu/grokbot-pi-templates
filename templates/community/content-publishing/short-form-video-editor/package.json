@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-short-form-video-editor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns your long videos into ready-to-post vertical clips: best moments picked, 9:16 with the face kept in frame, word-synced captions, clean audio, and a full QA check on every clip.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7uDg8aSUrT6Zn4l2qaaUF",
+    "url": "https://x.ai/bot/7uDg8aSUrT6Zn4l2qaaUF",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Falcon Ortiz",
+    "creatorHandle": "falconortiz",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

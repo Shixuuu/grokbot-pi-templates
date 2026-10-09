@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-opus-motion",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Short motion-graphics product and brand videos (MP4) via Claude Opus 5.5 and the danny.md motion-ad skill. Draft files only — you publish. Paste a product link to start.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-ozpDFk78Euk4sbbfmRn4",
+    "url": "https://x.ai/bot/-ozpDFk78Euk4sbbfmRn4",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Matt Rice",
+    "creatorHandle": "bossriceshark",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

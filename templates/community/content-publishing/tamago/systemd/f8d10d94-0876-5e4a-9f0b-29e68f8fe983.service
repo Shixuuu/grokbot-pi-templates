@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine f8d10d94-0876-5e4a-9f0b-29e68f8fe983 (Tamago)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tamago
+ExecStart=/usr/bin/env pi -p "/f8d10d94-0876-5e4a-9f0b-29e68f8fe983"

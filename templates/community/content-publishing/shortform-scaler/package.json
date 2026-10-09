@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-shortform-scaler",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns long-form podcast tape into a daily short-form ship packet. Proposes 4 clips, you pick 2, overlays a 3-second hook on one, then schedules only after you say yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NA1zDLMoKJZVcjl3mZ2tT",
+    "url": "https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Eric Siu",
+    "creatorHandle": "ericosiu",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

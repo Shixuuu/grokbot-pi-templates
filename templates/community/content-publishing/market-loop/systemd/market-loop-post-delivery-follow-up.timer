@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine market-loop-post-delivery-follow-up
+
+[Timer]
+OnCalendar=Sun *-*-* 19:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

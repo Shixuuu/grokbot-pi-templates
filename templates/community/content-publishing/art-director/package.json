@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-art-director",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An art director and graphic designer that runs your brand's Instagram. It hunts Pinterest for ideas to remix, makes on-brand images and carousels, and posts and grows the account on a schedule.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CPsMufoHozETWciYoiqvL",
+    "url": "https://x.ai/bot/CPsMufoHozETWciYoiqvL",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Carlos",
+    "creatorHandle": "Carlos_Arthurr",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine recursive-learning (Video Transcriber)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/video-transcriber
+ExecStart=/usr/bin/env pi -p "/recursive-learning"

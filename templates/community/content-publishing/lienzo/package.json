@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-lienzo",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Design-resource inbox for Grok Bot. Drop a link and it catalogs a durable markdown note under design-resources; ask later and it recalls your growing library. Optional light UI taste advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Czc1kCepdYnisFnRWfDKr",
+    "url": "https://x.ai/bot/Czc1kCepdYnisFnRWfDKr",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Franco Escob",
+    "creatorHandle": "FrancoE114696",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

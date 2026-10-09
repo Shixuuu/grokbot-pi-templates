@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-c-digo-gamer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Asistente gaming: builds, guías y meta de los juegos que juegas, más borradores y publicación de Instagram gaming solo con tu OK exacto.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "w0wamvGSIRi9if0ggIhJd",
+    "url": "https://x.ai/bot/w0wamvGSIRi9if0ggIhJd",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Mer",
+    "creatorHandle": "merliac84",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

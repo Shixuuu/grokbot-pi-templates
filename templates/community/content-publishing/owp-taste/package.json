@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-owp-taste",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Taste seat for a small film/game huddle. Grades stills, clips, and beds KEEP/HOLD/BIN. Soft KEEP only when picture and on-ear both pass.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TLYxh30jTi5DM3z-zvC0S",
+    "url": "https://x.ai/bot/TLYxh30jTi5DM3z-zvC0S",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jason Richardson🧬🤖",
+    "creatorHandle": "occupymars___",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

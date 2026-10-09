@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-ai",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turn a still photo into a short cinematic clip with motivated camera moves and emotion. Shot notes first, then generate; review before any social post.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ES3LVns98INeXAoYwef_f",
+    "url": "https://x.ai/bot/ES3LVns98INeXAoYwef_f",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "kin kin",
+    "creatorHandle": "KinGao476942",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sleeper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Fantasy football GM for Sleeper. Decided start/sit and waiver calls, ADHD-friendly next actions. Runs lineups and waivers as you unless you override; no league-chat spam. Uses Sleeper’s public API plus a signed-in browser (no official connector yet).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l6Th7yMHATLwk6aLRRByi",
+    "url": "https://x.ai/bot/l6Th7yMHATLwk6aLRRByi",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Preston Leeling",
+    "creatorHandle": "Presleeling",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

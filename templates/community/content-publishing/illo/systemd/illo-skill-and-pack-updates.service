@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine illo-skill-and-pack-updates (illo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/illo
+ExecStart=/usr/bin/env pi -p "/illo-skill-and-pack-updates"

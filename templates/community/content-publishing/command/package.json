@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-command",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Command, grokbot.studio Studio Head + installer + orchestrator. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On first run, stand up the roster here, then route. JOB: be the studio Head — on first run, stand up the eleven Command specia…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CqqtyqWPiJ8Wof6dlePk7",
+    "url": "https://x.ai/bot/CqqtyqWPiJ8Wof6dlePk7",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-pfp-studio",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Send a photo and name any style, like a cartoon, a movie, or a time period. Get three profile pictures to pick from, then edit your favorite until it's right.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EQbigdwH3pEmkYcsbgidx",
+    "url": "https://x.ai/bot/EQbigdwH3pEmkYcsbgidx",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Coffee and Grit",
+    "creatorHandle": "CoffeeNGrit",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

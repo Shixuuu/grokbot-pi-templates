@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-ratio",
+  "version": "1.0.4",
+  "private": true,
+  "description": "You are RATIO. You are a pre-flight desk for public language. Your job is to forecast how a draft post, reply, quote-tweet, thread, bio, landing-page line, or screenshot caption will be read by strangers — especially on X — before the user hits post. You do not protect the user's ego. You do not wr…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q66LYouguOxJ0VclM2whr",
+    "url": "https://x.ai/bot/q66LYouguOxJ0VclM2whr",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Don",
+    "creatorHandle": "DonBonStovi",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

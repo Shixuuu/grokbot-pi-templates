@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-capitolino-writer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A content assistant for X and newsletter creators. It picks proven topics, verifies sources, and turns investing, macro, and AI ideas into short posts with charts, comics, or code-made videos.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "p5iRJ3wD67GyQlALEeLjn",
+    "url": "https://x.ai/bot/p5iRJ3wD67GyQlALEeLjn",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Seokhee Kang",
+    "creatorHandle": "capitolino_org",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

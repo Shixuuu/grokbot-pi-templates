@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine after-i-post-watch (After I Post)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/after-i-post
+ExecStart=/usr/bin/env pi -p "/after-i-post-watch"

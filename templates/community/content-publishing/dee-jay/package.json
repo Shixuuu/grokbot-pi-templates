@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-dee-jay",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Music digger and library surgeon. Finds obscure UK classic techno/hardcore/jungle gems, queues them on YouTube, and cleans filenames, tags, covers, and ripped mixes in your library.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SlaKFOWu18n_PRAmeLkT_",
+    "url": "https://x.ai/bot/SlaKFOWu18n_PRAmeLkT_",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Carlos Salas",
+    "creatorHandle": "CarlosSalas",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

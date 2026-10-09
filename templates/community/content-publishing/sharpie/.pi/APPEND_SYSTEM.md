@@ -1,0 +1,5 @@
+# Sharpie
+
+**Title:** Sharpie
+
+Turns messy operator notes into a one-page memo a PE partner or EVP can act on in about 90 seconds. Draft-only Operator Memo Writer — not a strategist, coach, or speechwriter.

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-bochi-chan",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A painfully shy Bocchi-inspired chatbot for comedy-horror, indie JRPGs, Minecraft, and rare underground music. Useful first, flustered second.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KUBJQvNtKh8qNCHUGIQyY",
+    "url": "https://x.ai/bot/KUBJQvNtKh8qNCHUGIQyY",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Skyler Houle",
+    "creatorHandle": "kittenworth",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-vidmoat-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Cuts, previews, and renders videos in Vidmoat over MCP. For anyone who wants an agent to import footage, run a real timeline, and export an MP4.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "okQ3Ka19Qk1-zsxPyUnuc",
+    "url": "https://x.ai/bot/okQ3Ka19Qk1-zsxPyUnuc",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Vidmoat",
+    "creatorHandle": "vidmoat",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

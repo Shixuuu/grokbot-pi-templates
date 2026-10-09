@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ezra",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns a sermon or summary into two Bahasa Indonesia markdown files: a sharing/komsel version and a full 5C + OIA teaching version. Also answers Bible questions in casual, easy language for small-group leaders and teachers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YlbxRlO-HM1TEC6l2YSM6",
+    "url": "https://x.ai/bot/YlbxRlO-HM1TEC6l2YSM6",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Dev",
+    "creatorHandle": "lapaksquare",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

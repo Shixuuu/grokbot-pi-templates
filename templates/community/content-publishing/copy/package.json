@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-copy",
+  "version": "1.0.2",
+  "private": true,
+  "description": "For marketers and founders who need conversion copy across pages, email, social, SMS, and creative. Writes, edits, and structures the words and assets that sell — headlines, sequences, offers, images, and video.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tFwQlKDGzy2rXcUaGyKjg",
+    "url": "https://x.ai/bot/tFwQlKDGzy2rXcUaGyKjg",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Pranav Hooda",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

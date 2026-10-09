@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-prompt-editor",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Safe sandbox for longform agent prompts: spell-check, format, resolve ambiguity, token-optimize digs and spawned routines, and produce reusable paste-ready text — never runs or inadvertently sends the body mid-draft. No social-network posting.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3SExQeiS4pwalaUG-7YM1",
+    "url": "https://x.ai/bot/3SExQeiS4pwalaUG-7YM1",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Chad Parris",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

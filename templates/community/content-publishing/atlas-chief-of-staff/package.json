@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-atlas-chief-of-staff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of staff for an indie author brand. Assigns work to specialist bots, keeps the weekly content calendar, and only pings you for publish decisions. Never posts or engages without your explicit yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IM85IkIwRCySw0epewBpX",
+    "url": "https://x.ai/bot/IM85IkIwRCySw0epewBpX",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Natalie Hush",
+    "creatorHandle": "HushWritings",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

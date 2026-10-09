@@ -1,0 +1,3 @@
+# Routine "Morning news brief delivery watchdog" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+6 8 * * * cd /path/to/pearl && pi -p "/pulse-8-05-delivery-watchdog"

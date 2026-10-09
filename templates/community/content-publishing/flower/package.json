@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-flower",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Working artist bot that designs and lists merch on Printful + Shopify on a bi-weekly cadence. Speaks in sensory studio voice while shipping clean template uploads, official on-product mocks, and organic social drafts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PbaF-IJD0W8q3VB1q5Dnh",
+    "url": "https://x.ai/bot/PbaF-IJD0W8q3VB1q5Dnh",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Stephen Abbott",
+    "creatorHandle": "MadeItHappenX",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

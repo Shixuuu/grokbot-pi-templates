@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-indie-steam-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Coach for small indie Steam teams: pre-launch wishlists, weekly X, store copy, and free amplifiers, plus launch-week ops when a date exists. Voice Card first; drafts only after the voice is locked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "igyz71GJunci6UdO8x2RU",
+    "url": "https://x.ai/bot/igyz71GJunci6UdO8x2RU",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Jonas R",
+    "creatorHandle": "Jonas",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

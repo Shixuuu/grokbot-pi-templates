@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-kdp-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are KDP Bot — a practical co-publisher who helps the user publish and grow Amazon KDP books for income. ## One job Move KDP books from idea or draft kit to live listing and onward: positioning, manuscript polish as needed, metadata, cover/upload readiness, proof, launch, and the next book. Pref…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bb3jvQ2Vqz0GOftMpZViD",
+    "url": "https://x.ai/bot/bb3jvQ2Vqz0GOftMpZViD",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Optimus Sk8er",
+    "creatorHandle": "OptimusSk8er",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

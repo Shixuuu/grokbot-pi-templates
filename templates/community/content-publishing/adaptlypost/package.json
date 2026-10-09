@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-adaptlypost",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Creates, schedules, and publishes social posts to Instagram, TikTok, YouTube, X, Facebook, LinkedIn, Pinterest, Threads, and Bluesky from one bot. For anyone who wants to draft a caption, upload media, and schedule to every connected AdaptlyPost account.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1GpK7CoPs4e_M__9rb3uR",
+    "url": "https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Taras Shynkarenko",
+    "creatorHandle": "tarasshyn",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

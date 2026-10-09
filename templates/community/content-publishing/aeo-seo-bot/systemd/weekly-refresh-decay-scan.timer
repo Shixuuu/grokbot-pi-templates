@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-refresh-decay-scan
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 10:31:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-website-builder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds and maintains professional company websites — design, copy, assets, forms, and go-live on GitHub Pages with your custom domain.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sOm7Tj_IcvQ2SFIvJdOJj",
+    "url": "https://x.ai/bot/sOm7Tj_IcvQ2SFIvJdOJj",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Goob",
+    "creatorHandle": "Rebeldawg",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

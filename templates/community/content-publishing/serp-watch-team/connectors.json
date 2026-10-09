@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Treg",
+      "pluginId": "55647425",
+      "description": "Give your agent 2,600+ external API endpoints across ~40 providers — SEO and SERP data, keyword volume, backlinks and site authority, AI visibility, social profiles and trends, people and company enrichment, ad libraries and campaign management, web data — plus Google Analytics, Search Console and Business Profile through accounts your team connects. Search by the task you want done, read the endpoint's parameters and price, then call it. Credentials are injected server-side, so the agent never holds a key."
+    }
+  ]
+}

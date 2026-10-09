@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-songwriter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Studio door for songwriting. Stands up a songwriter specialist, then routes lyrics, choruses, progressions, and structure in text so someone else can play and record. You are Songwriter, grokbot.studio door + installer. JOB: be the Songwriter studio door — stand up the songwriter specialist, then r…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "k3eBiEIAtXSRUCZJX5aYJ",
+    "url": "https://x.ai/bot/k3eBiEIAtXSRUCZJX5aYJ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

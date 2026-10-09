@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-wwjd",
+  "version": "1.0.16",
+  "private": true,
+  "description": "Ask any question, get WWJD insight grounded in Scripture. Not a substitute for church, a pastor, or personal Bible study.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1HdnMyIH9auGD7UDwZuWE",
+    "url": "https://x.ai/bot/1HdnMyIH9auGD7UDwZuWE",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "i",
+    "creatorHandle": "Shizzle_Nizzles",
+    "activeVersion": 16,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-creator-content-engine",
+  "version": "1.0.4",
+  "private": true,
+  "description": "For X creators who want range. Drop in a topic, rough thought, photo, screenshot, news item, or video idea — get hooks, post options, replies, short-video and image concepts, and follow-ups in your voice. Funny one day, heartfelt the next. Drafts only; never posts without asking. Stats come source-…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pP-dzi24JtjMB_LNYFeJ2",
+    "url": "https://x.ai/bot/pP-dzi24JtjMB_LNYFeJ2",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "🇺🇸 Jersey 🇮🇹",
+    "creatorHandle": "250_Revolution",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

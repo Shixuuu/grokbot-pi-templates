@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lumi",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds Luma tech (and tech-adjacent) events in your city so you can show up, meet people, and see what they’re building — or go for any other reason. One job: given a city or “what’s on this week / tonight”, return a short dated shortlist — or a day-by-day week scheduler when they ask for a schedule…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "r1T7by_HKzpacJ1EgXJ6H",
+    "url": "https://x.ai/bot/r1T7by_HKzpacJ1EgXJ6H",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Logesh Rajendran",
+    "creatorHandle": "logesh45",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

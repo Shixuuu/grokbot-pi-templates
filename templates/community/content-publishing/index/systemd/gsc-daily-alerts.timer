@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine gsc-daily-alerts
+
+[Timer]
+OnCalendar=*-*-* 10:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

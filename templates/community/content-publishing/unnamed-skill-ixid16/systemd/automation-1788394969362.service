@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1788394969362 (톨삼국지)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-ixid16
+ExecStart=/usr/bin/env pi -p "/automation-1788394969362"

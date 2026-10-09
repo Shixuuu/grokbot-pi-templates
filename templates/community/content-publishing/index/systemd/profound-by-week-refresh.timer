@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine profound-by-week-refresh
+
+[Timer]
+OnCalendar=Mon *-*-* 08:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

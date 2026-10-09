@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine local-boxes-weekly-growth-report (Archer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/archer
+ExecStart=/usr/bin/env pi -p "/local-boxes-weekly-growth-report"

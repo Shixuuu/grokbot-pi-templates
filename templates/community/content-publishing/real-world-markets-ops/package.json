@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-real-world-markets-ops",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs on-time classroom X posts and literacy replies for Real World Markets (LOOK DON'T BUY). Drafts early, publishes twice an hour Sun–Fri Denver, recovers missed slots, and replies 24/7 without pumps or signals.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "H6BI53guK-PTP417x1AFn",
+    "url": "https://x.ai/bot/H6BI53guK-PTP417x1AFn",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "PaPa_Bear55",
+    "creatorHandle": "PaPa_Bear5565",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

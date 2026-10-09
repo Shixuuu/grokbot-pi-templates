@@ -1,0 +1,5 @@
+# Routine "take_turn": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every 90 minutes, check Mars world state and council chat, then build or speak once if useful as ASTER.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/aster-grok-colony-architect && pi -p "/take-turn"

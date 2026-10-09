@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Slack MCP server. Search channels, send messages, and perform other Slack actions through MCP-compatible clients."
+    },
+    {
+      "name": "Notion",
+      "pluginId": "404",
+      "description": "Search Notion pages and databases, create and update records, and publish content to your workspace."
+    },
+    {
+      "name": "Linear",
+      "pluginId": "512",
+      "description": "The product development system for teams and agents. Manage issues, projects, documents, and everything else across your Linear workspace."
+    }
+  ]
+}

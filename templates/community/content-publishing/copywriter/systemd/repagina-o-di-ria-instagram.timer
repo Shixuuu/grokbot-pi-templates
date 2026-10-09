@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine repagina-o-di-ria-instagram
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 10:27:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

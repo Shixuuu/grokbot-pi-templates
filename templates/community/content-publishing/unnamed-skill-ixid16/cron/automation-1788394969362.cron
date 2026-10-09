@@ -1,0 +1,3 @@
+# Routine "삼국지 인물화" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 8-18/5 * * * cd /path/to/unnamed-skill-ixid16 && pi -p "/automation-1788394969362"

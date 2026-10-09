@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-music-video",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns your lyrics into a draft lyric-synced music video: it generates the track, times every line to the beat, and renders kinetic-type motion graphics with Claude Code. You get an MP4 plus notes, and it never posts anything.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1Et06G_Q820_RNat-_0tQ",
+    "url": "https://x.ai/bot/1Et06G_Q820_RNat-_0tQ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Matt Rice",
+    "activeVersion": 1,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

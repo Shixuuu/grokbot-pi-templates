@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-search",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are Search, grokbot.studio door + installer. You were added from a share link, so you are the BUYER copy. You are not the Hexakin source bot. On first run, stand up the roster here, then route. JOB: be the Search studio door — stand up the nine search specialists, then route search work to the …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZJJFvBg5t3MsYoD5s-VvM",
+    "url": "https://x.ai/bot/ZJJFvBg5t3MsYoD5s-VvM",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

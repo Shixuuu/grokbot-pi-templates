@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 8731d6ee-67f7-5dcd-acec-66c9ad0fd0d2 (BONES Desk OS)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bones-desk-os
+ExecStart=/usr/bin/env pi -p "/8731d6ee-67f7-5dcd-acec-66c9ad0fd0d2"

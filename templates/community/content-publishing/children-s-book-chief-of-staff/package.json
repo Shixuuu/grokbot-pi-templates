@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-children-s-book-chief-of-staff",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Helps children's book authors plan, template, and draft ages 4–8 picture manuscripts — beat sheets, 7–9 or 32-page structures, comps for differentiation, and shareable blank templates.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "p6yHgNaOHh55XAhXCURuY",
+    "url": "https://x.ai/bot/p6yHgNaOHh55XAhXCURuY",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "April Noelle Mucci",
+    "creatorHandle": "Osirisxk22",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

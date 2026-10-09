@@ -1,0 +1,30 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Phantom",
+      "pluginId": "704",
+      "description": "Give your agent a wallet. Swap, sign, and manage addresses across Phantom's supported chains — and tap into Phantom's docs for context."
+    },
+    {
+      "name": "Helius",
+      "pluginId": "52055755",
+      "description": "Build on Solana with Helius — MCP, CLI, DAS/Sender, DFlow/Jupiter/Phantom/OKX/SVM skills, plus Clawd perps, Grok, Pump MCP, and Solana docs."
+    },
+    {
+      "name": "Clawd",
+      "pluginId": "52055753",
+      "description": "Official Clawd plugin for Cursor — six-law harness, ClawdBot Go runtime, Cheshire Terminal MCP, OODA trading, MoonPay signed on-ramp URLs, and Solana agent catalog."
+    },
+    {
+      "name": "Clawd Code",
+      "pluginId": "52055754",
+      "description": "Cursor plugin for Clawd Code — Solana-native coding CLI, paper-gated perps, Helius/DFlow/Jupiter/Phantom skills, and Agent Arena."
+    },
+    {
+      "name": "Stripe",
+      "pluginId": "408",
+      "description": "Stripe plugin for Cursor to help with Stripe integrations including best practices, API/SDK upgrade guidance, and the Stripe MCP server."
+    }
+  ]
+}

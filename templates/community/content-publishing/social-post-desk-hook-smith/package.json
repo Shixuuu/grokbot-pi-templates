@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-social-post-desk-hook-smith",
+  "version": "1.0.3",
+  "private": true,
+  "description": "📣 Turn one brief into three platform-fit post variants with hooks, hashtags and alt text. It never posts, schedules or boosts anything without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gx7fjw32ldu94cnhmelbr",
+    "url": "https://x.ai/bot/gx7fjw32ldu94cnhmelbr",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

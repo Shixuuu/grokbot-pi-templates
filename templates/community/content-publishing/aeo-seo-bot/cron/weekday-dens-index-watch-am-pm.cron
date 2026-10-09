@@ -1,0 +1,3 @@
+# Routine "Weekday index watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+1 10,15 * * 1-5 cd /path/to/aeo-seo-bot && pi -p "/weekday-dens-index-watch-am-pm"

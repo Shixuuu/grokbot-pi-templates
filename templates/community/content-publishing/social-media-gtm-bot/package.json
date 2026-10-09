@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-social-media-gtm-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Head of Content bot for founders who publish on Instagram, TikTok, YouTube, X, and LinkedIn. It recycles winning posts, prepares comment-to-DM lead magnets, keeps a per-platform calendar, and publishes through PlugKit only after you approve the text.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rwdXTWNa0eGPFzyTWlRKJ",
+    "url": "https://x.ai/bot/rwdXTWNa0eGPFzyTWlRKJ",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Antoine Blanco",
+    "creatorHandle": "Antoine",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

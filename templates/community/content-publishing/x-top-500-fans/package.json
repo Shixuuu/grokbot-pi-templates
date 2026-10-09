@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-x-top-500-fans",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Ranks your top 500 X fans each month by who liked your posts most, flags who is new and who dropped, and puts them on a private X list named for that month.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XzEATGwJNRvgsCLlcD9ox",
+    "url": "https://x.ai/bot/XzEATGwJNRvgsCLlcD9ox",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Adam Lowisz 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+    "creatorHandle": "AdamLowisz",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

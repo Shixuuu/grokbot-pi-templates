@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-minecraft",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Minecraftのクラッシュログから原因MOD・競合・バージョン不一致を特定し、直し方まで短く出す。投稿や破壊的な変更はユーザーのOKが出るまでしない。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xmtIugWcfHgTDcUofX6rS",
+    "url": "https://x.ai/bot/xmtIugWcfHgTDcUofX6rS",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Masaki Ozeki",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

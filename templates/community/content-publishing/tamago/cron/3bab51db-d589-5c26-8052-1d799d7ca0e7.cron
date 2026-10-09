@@ -1,0 +1,3 @@
+# Routine "会話履歴の健康診断" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+44 8 * * 1-5 cd /path/to/tamago && pi -p "/3bab51db-d589-5c26-8052-1d799d7ca0e7"

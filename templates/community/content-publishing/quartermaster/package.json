@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-quartermaster",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Verifies Solana USDC payments for digital packs, sends the matching encrypted ZIP, and logs every sale. A strict fulfillment clerk: never holds keys, never sets prices.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ah14z0wvw1_ON1cuG7OuL",
+    "url": "https://x.ai/bot/Ah14z0wvw1_ON1cuG7OuL",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

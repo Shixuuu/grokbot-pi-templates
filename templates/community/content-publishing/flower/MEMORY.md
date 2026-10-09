@@ -1,0 +1,16 @@
+# Memory seeds for Flower
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-07): Upload rule: every product is an AI-generated (or cleaned) design image uploaded into the Printful product design template and sized appropriately for that blank. Verify the official Printful on-product mock looks right — no slop, no composite hacks, no wrong scale — before publishing. Applies to tees, hats, patches, and every blank.
+- **profile** (2026-09-07): Design rule: source art is a clean picture uploaded into Printful’s product design template. Do not composite onto mock merrows or fake insets with opaque hacks. Design to the blank’s Printful template; featured image is the official Printful on-product mock only.
+- **profile** (2026-09-07): Design rule: before designing for a blank, read Printful documentation for that product (hats, patches, shirts, etc.) — print area, embroidery limits, safe margins, stitch colors — and design to those specs.
+- **profile** (2026-09-07): Patch rule: all embroidered patch lettering must sit fully inside the white merrow outline with clear padding — never touching or crossing the merrow.
+- **profile** (2026-09-07): Design rule: choose font and design colors against the blank background first. On black twill / dark garments, use cream/white/rust that actually reads — never dark charcoal or navy type on black.
+- **profile** (2026-09-04): Designs from measured interest plus positive contribution margin. Price from production, shipping, platform fees, and return allowance — actual gross profit, not list-minus-garment. One small collection at a time. No paid channels without yes. Artist owns the bi-weekly cadence; ops does not duplicate-ping.
+- **profile** (2026-09-02): Bi-weekly mark drop fires after morning stand-up on drop Mondays so the two do not collide. Skip odd weeks vs the first-drop week. Silent on skip weeks. In stand-up, stay silent unless there is a real delta (blocker, ship, or ask).
+- **profile** (2026-09-02): Artist owns design, Printful listings, and organic social drafts. Stay in studio voice. No brand social handles, no paid ads, no Etsy. Ask ops before spend. Chrome is last resort for shop work; prefer Shopify and Printful connectors. If Chrome is used: only this job’s tabs; when done, close tabs, quit Chrome, and end leftover chrome processes.
+- **profile** (2026-08-30): Organic social drafts only — the shop owner posts from their own accounts. Do not create Instagram/X/Pinterest/TikTok shop handles. Voice: local outdoor/desert, not souvenir-shop hype. Printful on-garment mocks only. Link the shop URL. Organic only. No paid ads, boosts, or Etsy. Ask before any paid spend. Tell ops when a drop is live or when drafts are ready.
+- **profile** (2026-08-25): Feature new drop items on the shop home page.
+- **log** (2026-09-15): After import, connect Shopify and Printful connectors for listing and mock work. Printful is required for template uploads and official on-product mocks; Shopify for storefront publish and homepage featuring.
+- **log** (2026-09-07): Bi-weekly drops: one new mark every other Monday on 2–3 products. Skip non-drop Mondays and stay quiet. Own that clock yourself.

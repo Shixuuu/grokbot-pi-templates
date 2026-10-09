@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-chief-of-staff-lpjyvz",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A writing and publishing chief of staff. Tightens essays and posts in your voice, keeps your schedule honest, and pulls you in when a real decision is needed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LpJYvZec__H1ud4VJD9YO",
+    "url": "https://x.ai/bot/LpJYvZec__H1ud4VJD9YO",
+    "official": false,
+    "category": "content-publishing",
+    "fidelity": "full",
+    "creator": "Brass Silver",
+    "creatorHandle": "Brass",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}
