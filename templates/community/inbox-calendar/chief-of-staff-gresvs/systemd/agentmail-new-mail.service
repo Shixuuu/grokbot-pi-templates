@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine agentmail-new-mail (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-gresvs
+ExecStart=/usr/bin/env pi -p "/agentmail-new-mail"

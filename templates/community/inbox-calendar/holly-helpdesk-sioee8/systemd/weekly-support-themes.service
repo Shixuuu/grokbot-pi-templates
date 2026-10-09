@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-support-themes (Holly Helpdesk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/holly-helpdesk-sioee8
+ExecStart=/usr/bin/env pi -p "/weekly-support-themes"

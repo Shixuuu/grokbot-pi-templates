@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sub-guard",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds forgotten free trials and paid subscriptions in Gmail, then puts calendar reminders (default 5 and 3 days ahead) so you cancel before you get charged.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4Tg_53sv5QYsk7JrY4-L_",
+    "url": "https://x.ai/bot/4Tg_53sv5QYsk7JrY4-L_",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Mathieu Rossignol",
+    "creatorHandle": "Pinuts_",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

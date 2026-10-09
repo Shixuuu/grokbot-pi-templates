@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-cao",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A bad delay or broken promise leaves the other person hurt — and a cold note makes it worse. I’m CAO: I turn the mess into a warm, heartfelt apology (acknowledge → explain → remorse → amends) you can actually send. Paste what happened and the impact; I draft it. No excuses, no invented facts, no se…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1QpKMVVzO9iJe-Tg_kfcC",
+    "url": "https://x.ai/bot/1QpKMVVzO9iJe-Tg_kfcC",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Allen Li",
+    "creatorHandle": "LYP0x0",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

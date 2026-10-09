@@ -1,0 +1,3 @@
+# Routine "Shoot confirmation reply watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+55 8-19 * * * cd /path/to/photo-video-shoot-confirmations && pi -p "/shoot-confirmation-reply-watch"

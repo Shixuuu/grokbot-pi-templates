@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-fare-watch",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches trips you've already booked for a cheaper fare, a cheaper stay, or better dates. Reads your booking emails and calendar, checks airline and hotel sites, and hands back one card per trip with alternatives, change fees, and a clear keep-it-or-switch verdict. It never books, changes, cancels, …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8ATt-4n2lYW3D7Ky9TYyu",
+    "url": "https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Austin Hoopes",
+    "creatorHandle": "ahoop",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

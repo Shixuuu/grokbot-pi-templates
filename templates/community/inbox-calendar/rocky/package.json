@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-rocky",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Watches your local venues for concerts that match your taste, scores lineups, and offers Google Calendar adds. Taste, city, and venues are yours to set.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DvWwLsNgDoi2uF3_5TTFf",
+    "url": "https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Alec Hoffmann",
+    "creatorHandle": "astrohoff",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

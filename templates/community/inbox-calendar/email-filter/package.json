@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-email-filter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Triages your work and personal inboxes, flags what needs a reply, new customer requests, and money or legal mail, and drafts replies. It never sends, deletes, or archives without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VG2EVGqav2OeE_HiroQNY",
+    "url": "https://x.ai/bot/VG2EVGqav2OeE_HiroQNY",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "AARON 🇺🇸MAGA",
+    "creatorHandle": "AirbossHVAC",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

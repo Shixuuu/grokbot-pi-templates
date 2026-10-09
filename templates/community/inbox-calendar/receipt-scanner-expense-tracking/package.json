@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-receipt-scanner-expense-tracking",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Logs emailed receipts into a Google Sheet and Drive folder. For anyone who wants a dedicated inbox that turns forwarded merchant emails and receipt photos into a line-item expense ledger.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qod4crnqbldimm5wfyvqp",
+    "url": "https://x.ai/bot/qod4crnqbldimm5wfyvqp",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Lime Unfiltered",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

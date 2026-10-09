@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine bevaka-anna-peter-tellet
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 10,16:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

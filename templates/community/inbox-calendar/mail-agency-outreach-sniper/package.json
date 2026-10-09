@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mail-agency-outreach-sniper",
+  "version": "1.0.5",
+  "private": true,
+  "description": "LinkedIn → email outreach bot. Collects prospects from LinkedIn, finds emails via MailAgency, drafts short intros, and sends from your connected mailbox (Gmail or Outlook) after you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QCYjr5VyQAoDTywMogJbU",
+    "url": "https://x.ai/bot/QCYjr5VyQAoDTywMogJbU",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Philip Kreil",
+    "creatorHandle": "RealtimeUK",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine email-inbox-wake (loom)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/loom
+ExecStart=/usr/bin/env pi -p "/email-inbox-wake"

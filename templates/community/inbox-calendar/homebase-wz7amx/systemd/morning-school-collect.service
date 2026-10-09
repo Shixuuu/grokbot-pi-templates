@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-school-collect (Homebase)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homebase-wz7amx
+ExecStart=/usr/bin/env pi -p "/morning-school-collect"

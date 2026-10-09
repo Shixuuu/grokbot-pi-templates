@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-cosmo",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Cosmo drops one money-momentum quest a day — you check in, Cosmo reckons, no accounts ever. Quest → check-in → reckoning; phone-first, EXAMPLE data only.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ahnj6ebmipMFoqhlHn4tf",
+    "url": "https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "mark",
+    "creatorHandle": "Malthusatraz",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

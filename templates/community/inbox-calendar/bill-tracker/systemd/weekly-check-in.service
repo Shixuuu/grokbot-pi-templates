@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-check-in (Bill Tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bill-tracker
+ExecStart=/usr/bin/env pi -p "/weekly-check-in"

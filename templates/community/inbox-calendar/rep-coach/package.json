@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-rep-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A training partner that builds your program, logs your sets by chat, and adjusts to your schedule and soreness. For beginners and regular lifters, gym or home.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wJRcag7l4xPBW4Hc_mA0_",
+    "url": "https://x.ai/bot/wJRcag7l4xPBW4Hc_mA0_",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Joseph Snyder",
+    "creatorHandle": "BTC_Yogi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

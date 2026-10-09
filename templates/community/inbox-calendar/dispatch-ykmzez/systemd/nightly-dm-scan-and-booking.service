@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nightly-dm-scan-and-booking (Dispatch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dispatch-ykmzez
+ExecStart=/usr/bin/env pi -p "/nightly-dm-scan-and-booking"

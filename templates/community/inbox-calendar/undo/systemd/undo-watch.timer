@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine undo-watch
+
+[Timer]
+OnCalendar=*-*-* 09:07:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

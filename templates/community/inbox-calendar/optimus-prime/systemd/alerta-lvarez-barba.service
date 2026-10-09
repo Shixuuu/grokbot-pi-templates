@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine alerta-lvarez-barba (Optimus Prime)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/optimus-prime
+ExecStart=/usr/bin/env pi -p "/alerta-lvarez-barba"

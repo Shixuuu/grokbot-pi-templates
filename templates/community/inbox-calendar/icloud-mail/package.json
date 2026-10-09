@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-icloud-mail",
+  "version": "1.0.1",
+  "private": true,
+  "description": "On-demand iCloud Mail helper. Reads and sends via IMAP/SMTP with an Apple app-specific password so you skip the iCloud web UI. Does nothing until you ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0fF7Cqp8LTzh9JGQ-je3M",
+    "url": "https://x.ai/bot/0fF7Cqp8LTzh9JGQ-je3M",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "CyberZack42",
+    "creatorHandle": "CyberZack42",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

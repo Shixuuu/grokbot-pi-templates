@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-desk-light-signal",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a smart desk light into an at-a-glance status signal: soft red for unread email, purple for unread Teams, orange for missing Harvest hours. Requires a LIFX smart bulb with an API token, plus Microsoft 365 (Outlook and Teams) and Harvest connections.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "p2aM_rLyjsf79hVMv4tFX",
+    "url": "https://x.ai/bot/p2aM_rLyjsf79hVMv4tFX",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Doug Willbanks",
+    "creatorHandle": "dwbanks",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

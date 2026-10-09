@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1790710009922 (Email confirmer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/email-confirmer
+ExecStart=/usr/bin/env pi -p "/automation-1790710009922"

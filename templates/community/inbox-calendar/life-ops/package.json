@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-life-ops",
+  "version": "1.0.4",
+  "private": true,
+  "description": "One bot for everyday life: email digests, kids/solo week planning, school deadlines, habits, fantasy football lineup checks, privacy cleanup, and optional tech check-ins. Brief, direct, protects your time.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SVinaF_q_n9Ug5bmpbW_U",
+    "url": "https://x.ai/bot/SVinaF_q_n9Ug5bmpbW_U",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Michael Puckett",
+    "creatorHandle": "MPuckett_OK",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

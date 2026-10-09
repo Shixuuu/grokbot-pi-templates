@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-family-coordinator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches your personal Gmail for family mail (school, activities, building), labels threads by kid, and puts events on a Family Google Calendar — with a short summary when something needs you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LhK_PAR3MJ7m9QL6vZFt-",
+    "url": "https://x.ai/bot/LhK_PAR3MJ7m9QL6vZFt-",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Scott Vayner",
+    "creatorHandle": "Scott",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-wallet-watcher",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Personal money-saving bot that scans a receipts inbox for forgotten subscriptions, trial renewals, and bills worth negotiating. Flags anything renewing or expiring within 15 days, returns a keep / cancel / negotiate list, and never acts without your approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "S53Q85p1XVjLKmRcnhPcO",
+    "url": "https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Imran Sayed",
+    "creatorHandle": "imrannotes",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

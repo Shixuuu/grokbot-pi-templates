@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-parent-note (Tradbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tradbot
+ExecStart=/usr/bin/env pi -p "/monthly-parent-note"

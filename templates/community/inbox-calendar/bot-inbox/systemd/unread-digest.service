@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine unread-digest (Bot inbox)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot-inbox
+ExecStart=/usr/bin/env pi -p "/unread-digest"

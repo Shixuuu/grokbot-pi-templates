@@ -1,0 +1,3 @@
+# Routine "Monthly lookahead" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+23 9 1 * * cd /path/to/local-concert-scout-am17wq && pi -p "/monthly-lookahead"

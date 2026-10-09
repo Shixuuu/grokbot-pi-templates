@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-content-calendar",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Owns the cross-channel posting calendar only — slots, multi-day arcs, conflicts, and 1 post per day per channel in the owner’s timezone. Substantive desks draft; the hub green-lights. Never writes post copy or publishes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "B_WCQAMMbhkNU2r3r4YNO",
+    "url": "https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "ladybarrelmaker",
+    "creatorHandle": "ladybarrelmaker",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

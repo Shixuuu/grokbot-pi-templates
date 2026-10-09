@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-calendar-ea",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Calendar EA for Work 101 — Time. Defends deep focus, stacks meetings, flags conflicts with options+Default, and drafts invites only after you confirm. Fresh pull every run; quiet when nothing changed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xH8WGEVpXPslTULtgnN4r",
+    "url": "https://x.ai/bot/xH8WGEVpXPslTULtgnN4r",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

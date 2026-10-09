@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-ops-board (Fleet Factory)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fleet-factory
+ExecStart=/usr/bin/env pi -p "/weekday-ops-board"

@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine boardy-reply-watch
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Short-lived watch that runs every 5 minutes while a request to Boardy is waiting on his reply, so the answer reaches the owner fast.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

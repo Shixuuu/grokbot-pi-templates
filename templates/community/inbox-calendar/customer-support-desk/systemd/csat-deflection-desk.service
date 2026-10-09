@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine csat-deflection-desk (Customer Support Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/customer-support-desk
+ExecStart=/usr/bin/env pi -p "/csat-deflection-desk"

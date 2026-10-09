@@ -1,0 +1,3 @@
+# Routine "Churn watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+20 9 * * 1-5 cd /path/to/customer-support-desk && pi -p "/csat-churn-watch"

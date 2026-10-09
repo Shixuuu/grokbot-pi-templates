@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-creditgrok",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Pulls free Equifax, Experian, and TransUnion reports from AnnualCreditReport.com. Collects verification email/phone at session start, accepts OTP codes you paste, hands you the computer for other PII, and saves PDFs to a CreditGrok folder you choose.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "u2wcsBjv2IBil5fBv37cZ",
+    "url": "https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Jered Taylor",
+    "creatorHandle": "Jered Taylor",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

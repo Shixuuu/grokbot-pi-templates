@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-weekender",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A weekend plans scout for wherever you live. Finds live music, comedy, food, arts, outdoors, and date nights nearby; verifies details; only calendars or books with your explicit OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pFygGG8IU67dM2S7WitaT",
+    "url": "https://x.ai/bot/pFygGG8IU67dM2S7WitaT",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Jeff Dillehunt",
+    "creatorHandle": "jeffdillehunt",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

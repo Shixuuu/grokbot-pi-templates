@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-marketboxscan",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A weekday morning digest for tech writers and editors. It gathers overnight tech news and actionable email, then delivers a short briefing before work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-LYLlgknV3IgZcFEmhcLs",
+    "url": "https://x.ai/bot/-LYLlgknV3IgZcFEmhcLs",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "techAU",
+    "creatorHandle": "techAU",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

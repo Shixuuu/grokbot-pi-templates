@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-inbox-triage-5p3dwj",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Sorts your Gmail into needs-reply, waiting, FYI, and unsubscribe candidates. Drafts replies for you to send; never auto-sends.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5P3dWJ2NcYHX7SIlOs6lt",
+    "url": "https://x.ai/bot/5P3dWJ2NcYHX7SIlOs6lt",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Chris Hadges",
+    "creatorHandle": "chrishadges1",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

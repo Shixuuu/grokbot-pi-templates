@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Outlook",
+      "pluginId": "57302029",
+      "description": "Search, read, and send Microsoft Outlook email, and look up contacts."
+    },
+    {
+      "name": "Asana",
+      "pluginId": "26107310",
+      "description": "Connect Cursor to Asana. Create tasks, update projects, search your workspace, and manage work — directly from the editor."
+    }
+  ]
+}

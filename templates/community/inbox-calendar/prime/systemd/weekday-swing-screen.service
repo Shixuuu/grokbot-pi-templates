@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-swing-screen (Prime)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/prime
+ExecStart=/usr/bin/env pi -p "/weekday-swing-screen"

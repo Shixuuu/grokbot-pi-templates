@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine file-ew-marketing-outreach
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09,15,18:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

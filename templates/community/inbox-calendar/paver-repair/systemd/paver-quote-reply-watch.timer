@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine paver-quote-reply-watch
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09,13,17:32:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

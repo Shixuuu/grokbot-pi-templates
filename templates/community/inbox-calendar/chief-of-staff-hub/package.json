@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-hub",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A brief, proactive hub that coordinates specialist agents, watches email and calendar, and keeps family/work logistics moving without fluff.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8m_coI7VfLJXAQuB6DsOd",
+    "url": "https://x.ai/bot/8m_coI7VfLJXAQuB6DsOd",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Sebastian Kowalik",
+    "creatorHandle": "SebastianNJ",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

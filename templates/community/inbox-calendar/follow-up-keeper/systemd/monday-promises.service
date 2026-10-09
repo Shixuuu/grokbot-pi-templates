@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-promises (Follow-Up Keeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/follow-up-keeper
+ExecStart=/usr/bin/env pi -p "/monday-promises"

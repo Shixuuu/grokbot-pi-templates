@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-fast-collect (Homebase)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homebase
+ExecStart=/usr/bin/env pi -p "/weekday-fast-collect"

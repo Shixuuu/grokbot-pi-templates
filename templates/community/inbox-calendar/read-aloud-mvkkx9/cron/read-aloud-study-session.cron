@@ -1,0 +1,5 @@
+# Routine "Read Aloud study session": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Checks every few minutes during a study session and reads each new course page aloud as the user moves through it.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/read-aloud-mvkkx9 && pi -p "/read-aloud-study-session"

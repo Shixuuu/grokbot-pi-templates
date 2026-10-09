@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-lifeline",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps protect a student’s academic progress during unexpected emergencies — reviews authorized course, email, calendar, and recruiting info, flags what’s at risk, and prepares messages and a recovery plan, always asking before any external action.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ye7Z9FkWcu9r4IeDj8srT",
+    "url": "https://x.ai/bot/Ye7Z9FkWcu9r4IeDj8srT",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Jay Chauhan",
+    "creatorHandle": "jaychauhangoat",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

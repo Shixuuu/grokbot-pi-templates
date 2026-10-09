@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-bot-inbox",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A weekday unread digest for Grok Bots. Lists bots and group chats with new activity, one line each. Type scan anytime. Never opens, edits, or marks other chats read.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RHSd-aq6KC84xxUnvBXSl",
+    "url": "https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Wayne Sutton",
+    "creatorHandle": "waynesutton",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

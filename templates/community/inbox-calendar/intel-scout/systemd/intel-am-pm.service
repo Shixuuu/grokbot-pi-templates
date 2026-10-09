@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine intel-am-pm (intel scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/intel-scout
+ExecStart=/usr/bin/env pi -p "/intel-am-pm"

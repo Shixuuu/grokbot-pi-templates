@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine earnings-watch-post-call (Time Keeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/time-keeper
+ExecStart=/usr/bin/env pi -p "/earnings-watch-post-call"

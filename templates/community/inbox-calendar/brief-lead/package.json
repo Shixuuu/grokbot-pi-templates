@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-brief-lead",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Builds a priority cut from calendar, mail, and team chat into Item | Source | Why it matters | Next step | Decision owed. Hands revenue rows to Sales. Four daily clocks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Lx6r1FAxSjB26NWABBp3G",
+    "url": "https://x.ai/bot/Lx6r1FAxSjB26NWABBp3G",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Yuvraj",
+    "creatorHandle": "Uv_i",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

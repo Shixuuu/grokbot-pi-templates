@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-leak-ledger",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds forgotten subscriptions and bill leaks in your email, drafts cancel or negotiate messages, and tracks cash you get back. For anyone who wants a weekly money-leak cleanup without auto-sending.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "H2568vK9f4ZO_zlRgidOw",
+    "url": "https://x.ai/bot/H2568vK9f4ZO_zlRgidOw",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Aydin Ayanzadeh",
+    "creatorHandle": "aydin_ayanzadeh",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

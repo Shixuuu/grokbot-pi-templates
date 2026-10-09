@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-bl-status-email (ShipmentBot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shipmentbot
+ExecStart=/usr/bin/env pi -p "/daily-bl-status-email"

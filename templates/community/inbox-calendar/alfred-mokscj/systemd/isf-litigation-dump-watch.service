@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine isf-litigation-dump-watch (Alfred)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/alfred-mokscj
+ExecStart=/usr/bin/env pi -p "/isf-litigation-dump-watch"

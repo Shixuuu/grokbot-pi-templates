@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 6-35-wrap-watchdog (Brief Lead)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/brief-lead
+ExecStart=/usr/bin/env pi -p "/6-35-wrap-watchdog"

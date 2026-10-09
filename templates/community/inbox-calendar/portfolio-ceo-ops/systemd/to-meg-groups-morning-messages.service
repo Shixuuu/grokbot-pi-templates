@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine to-meg-groups-morning-messages (Portfolio CEO Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/portfolio-ceo-ops
+ExecStart=/usr/bin/env pi -p "/to-meg-groups-morning-messages"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-promo-cleanup-compliance (Chuck)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chuck
+ExecStart=/usr/bin/env pi -p "/sunday-promo-cleanup-compliance"

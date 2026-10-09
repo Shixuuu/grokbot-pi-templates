@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gmail-weekday-watch (Longhand)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/longhand
+ExecStart=/usr/bin/env pi -p "/gmail-weekday-watch"

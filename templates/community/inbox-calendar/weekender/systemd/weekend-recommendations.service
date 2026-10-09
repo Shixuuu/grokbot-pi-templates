@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekend-recommendations (Weekender)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/weekender
+ExecStart=/usr/bin/env pi -p "/weekend-recommendations"

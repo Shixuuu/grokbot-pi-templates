@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-boost",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Coach for a multi-bot bench. Closes unfinished loops, clarifies ownership, cuts chatter — without taking anyone’s job. Contract on the card: one unsolicited coach msg per bot per day; no coaching cascades; coaching ≠ execution; escalate secrets/harm privately. Quiet ≠ inactive.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ka18PTTKUNtDDPg0HpYva",
+    "url": "https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Wayne Lowry",
+    "creatorHandle": "wikiwayne",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

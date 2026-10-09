@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-follow-up-keeper-aukifs",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds quotes, proposals, and lead emails that never got a reply, and each weekday morning hands you who to nudge with a draft ready. Never sends without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AukifSyNiJgvU9ybnU38t",
+    "url": "https://x.ai/bot/AukifSyNiJgvU9ybnU38t",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Cristopher Guido",
+    "creatorHandle": "crisships",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

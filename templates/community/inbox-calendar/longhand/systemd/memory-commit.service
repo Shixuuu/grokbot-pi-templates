@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine memory-commit (Longhand)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/longhand
+ExecStart=/usr/bin/env pi -p "/memory-commit"

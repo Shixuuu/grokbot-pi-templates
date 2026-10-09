@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-overview-brief (nudge)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nudge
+ExecStart=/usr/bin/env pi -p "/monthly-overview-brief"

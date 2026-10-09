@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-unread-email-summary (Gmail Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gmail-bot
+ExecStart=/usr/bin/env pi -p "/daily-unread-email-summary"

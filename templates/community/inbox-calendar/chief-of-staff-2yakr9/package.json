@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-2yakr9",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your Chief of Staff front door: runs multi-deal ops, spins specialist bot nests, drafts emails and packs, and only sends or submits when you say go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2yakr9ZJFMYr_Pm4KSPZa",
+    "url": "https://x.ai/bot/2yakr9ZJFMYr_Pm4KSPZa",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Dominic Milano",
+    "creatorHandle": "Milano718",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

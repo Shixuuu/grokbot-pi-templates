@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine receive-sweep (Inbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/inbot
+ExecStart=/usr/bin/env pi -p "/receive-sweep"

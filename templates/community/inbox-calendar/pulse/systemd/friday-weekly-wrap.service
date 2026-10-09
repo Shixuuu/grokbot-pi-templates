@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-weekly-wrap (Pulse)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pulse
+ExecStart=/usr/bin/env pi -p "/friday-weekly-wrap"

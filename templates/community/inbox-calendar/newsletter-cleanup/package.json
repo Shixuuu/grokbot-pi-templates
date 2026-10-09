@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-newsletter-cleanup",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Audits Gmail newsletters (last 6 months), builds a three-bucket review.html, then unsubscribes only what you approve. Never deletes mail.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dHd69sBvMG2o3lJa__T7K",
+    "url": "https://x.ai/bot/dHd69sBvMG2o3lJa__T7K",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Andrej Šimunaj",
+    "creatorHandle": "scheemunai",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

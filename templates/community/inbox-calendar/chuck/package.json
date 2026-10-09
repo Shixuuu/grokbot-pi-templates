@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-chuck",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Unsubscribes from promotional and marketing email so the inbox mostly keeps personal mail and purchase receipts. Clears stale OTPs, and reports senders that ignore opt-outs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CqQQXo05k79ukSLCubxfj",
+    "url": "https://x.ai/bot/CqQQXo05k79ukSLCubxfj",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Veetharag",
+    "creatorHandle": "veetharag",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

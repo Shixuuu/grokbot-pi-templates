@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-reply-watch (Chop Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chop-bot
+ExecStart=/usr/bin/env pi -p "/x-reply-watch"

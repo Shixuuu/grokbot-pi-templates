@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine kids-events-digest (Quiet Inbox)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/quiet-inbox
+ExecStart=/usr/bin/env pi -p "/kids-events-digest"

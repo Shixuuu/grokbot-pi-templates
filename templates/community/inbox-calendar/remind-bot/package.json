@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-remind-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A catch-all for errands, school stuff, and personal reminders that do not belong on a calendar. Drop a screenshot with a time and place, paste a chat you already agreed on, or just say something like \"parent-teacher meeting next Tuesday afternoon\" — it sets a reminder and pings you ahead of time, w…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "peJxDrQRS4t2DHuHfzhfW",
+    "url": "https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Damon Chen",
+    "creatorHandle": "damonchen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

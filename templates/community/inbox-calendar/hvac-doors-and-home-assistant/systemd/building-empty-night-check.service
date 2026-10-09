@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine building-empty-night-check (HVAC, Doors, and Home Assistant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hvac-doors-and-home-assistant
+ExecStart=/usr/bin/env pi -p "/building-empty-night-check"

@@ -1,0 +1,5 @@
+# Routine "Staff Q&A Slack": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Playbook (search these first, every time):
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/jess && pi -p "/ask-jess-slack"

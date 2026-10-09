@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-recap (Jess)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/jess
+ExecStart=/usr/bin/env pi -p "/morning-recap"

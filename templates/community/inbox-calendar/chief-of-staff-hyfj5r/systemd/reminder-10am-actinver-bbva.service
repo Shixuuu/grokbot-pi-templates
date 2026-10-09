@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine reminder-10am-actinver-bbva (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-hyfj5r
+ExecStart=/usr/bin/env pi -p "/reminder-10am-actinver-bbva"

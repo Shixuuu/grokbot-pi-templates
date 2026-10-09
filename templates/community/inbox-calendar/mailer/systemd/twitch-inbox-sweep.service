@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine twitch-inbox-sweep (mailer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mailer
+ExecStart=/usr/bin/env pi -p "/twitch-inbox-sweep"

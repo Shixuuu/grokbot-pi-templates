@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine calendar-focus-sweep (calendar ea)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/calendar-ea
+ExecStart=/usr/bin/env pi -p "/calendar-focus-sweep"

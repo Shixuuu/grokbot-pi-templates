@@ -1,0 +1,3 @@
+# Routine "Morning prediction-market desk" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8 * * * cd /path/to/prime && pi -p "/gamblor-daily-10-edge"

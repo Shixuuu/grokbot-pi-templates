@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine day-before-homework-texts (Homework Checker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homework-checker
+ExecStart=/usr/bin/env pi -p "/day-before-homework-texts"

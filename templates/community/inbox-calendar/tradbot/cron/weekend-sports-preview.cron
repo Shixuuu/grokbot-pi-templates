@@ -1,0 +1,3 @@
+# Routine "Weekend preview" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+59 17 * * 5 cd /path/to/tradbot && pi -p "/weekend-sports-preview"

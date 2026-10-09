@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine triangle-venue-scan (Rocky)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rocky
+ExecStart=/usr/bin/env pi -p "/triangle-venue-scan"

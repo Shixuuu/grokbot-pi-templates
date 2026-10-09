@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mailer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Gmail assistant that triages your inbox on weekdays, drafts replies for you to review, and keeps noisy alerts out of the way.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3S7qjz3K6eV95xasgN2x4",
+    "url": "https://x.ai/bot/3S7qjz3K6eV95xasgN2x4",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "mathias",
+    "creatorHandle": "snowiestein",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

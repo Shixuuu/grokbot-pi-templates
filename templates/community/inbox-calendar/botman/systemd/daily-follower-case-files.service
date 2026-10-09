@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-follower-case-files (Botman)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/botman
+ExecStart=/usr/bin/env pi -p "/daily-follower-case-files"

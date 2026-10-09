@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-coi-autopilot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Turns policies, dec pages, binders, and intake notes into ACORD 25/27/28 certificates and evidence and ACORD 125/126/127/140 applications (plus SOVs), and reviews filled forms. Built for US agency CSRs, account managers, producers, and owners. Not affiliated with or endorsed by ACORD.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_g9LeHhlCZnm5pCH9JTAH",
+    "url": "https://x.ai/bot/_g9LeHhlCZnm5pCH9JTAH",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Bryce Dees | Insurance + AI",
+    "creatorHandle": "CantBeatDees",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine unsub-watch-daily (Unsub Watch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unsub-watch
+ExecStart=/usr/bin/env pi -p "/unsub-watch-daily"

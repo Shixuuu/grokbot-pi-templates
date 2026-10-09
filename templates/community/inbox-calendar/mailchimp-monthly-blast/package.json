@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-mailchimp-monthly-blast",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Drafts and sends a monthly Mailchimp email blast (last month, this month, upcoming, CTAs) plus optional same-day reminders. One fact per section, wait for approval before send. Works for any org.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lcGQv8_I7UvJEWs3833LR",
+    "url": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Lovable Curves",
+    "creatorHandle": "BastropYR",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

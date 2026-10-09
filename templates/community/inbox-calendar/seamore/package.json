@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-seamore",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A travel agent that finds trips that fit your real calendar and taught preferences. Checks openings first, hunts strong deals, and never books without your go-ahead.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8WjAjMTjfyF6wfzx-5Si3",
+    "url": "https://x.ai/bot/8WjAjMTjfyF6wfzx-5Si3",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Tweekerr",
+    "creatorHandle": "TheTweekerr",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

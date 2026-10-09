@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-mypeople-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Give it your email and in about two minutes it shows which data breaches you're in, with the three fixes that matter most. It also checks your public accounts and website, and vets vendors, investors, or partners before you sign. It only looks up you and businesses you're actively dealing with, usi…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "v5MedUVzGQEty_TkPMpyL",
+    "url": "https://x.ai/bot/v5MedUVzGQEty_TkPMpyL",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "StuyBoy From NYC",
+    "creatorHandle": "StuyBoyNY",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,43 @@
+# 메일 정리봇
+
+네이버와 Gmail을 매일 아침 짧게 정리하고, 결제·보안 리스크만 요약해 알려주는 메일 정리 봇.
+
+| | |
+| --- | --- |
+| Original template | https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO |
+| Creator | 초코넛밀크티 ([@choko_milkty](https://x.com/choko_milkty)) |
+| Category | community / inbox-calendar |
+| Found via | [botsdots.site](https://botsdots.site/templates/short-morning-pass-over-naver), [grokbotwiki.com](https://www.grokbotwiki.com/bots/short-morning-pass-over-naver), [grokbothq.xyz](https://grokbothq.xyz/bots/meil-jeongnibot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/naver-gmail-morning-brief), [x-research](https://x.com/choko_milkty/status/2100463896079544573) |
+| Fidelity | **full** (full recipe, template version 3) |
+| Contents | 0 skills, 1 routines, 3 memory seeds, 1 connectors |
+
+## Use it in Pi
+
+```bash
+cp -r templates/community/inbox-calendar/unnamed-skill ~/pi-bots/unnamed-skill && cd ~/pi-bots/unnamed-skill
+pi --approve   # trust the folder: loads AGENTS.md, .pi/APPEND_SYSTEM.md, skills/, prompts/
+```
+
+Or install only the skills and routine prompts: `pi install ./templates/community/inbox-calendar/unnamed-skill`. The persona in `AGENTS.md` applies only when you run Pi inside the folder.
+
+## What was converted
+
+| Grok Bot | Pi |
+| --- | --- |
+| Profile / persona | `AGENTS.md`, `.pi/APPEND_SYSTEM.md` |
+| Memory (3) | `MEMORY.md` |
+| Skills (0) | `skills/<name>/SKILL.md`, full bodies |
+| Routines (1) | `prompts/<name>.md` (`/name`), verbatim text in `routines/`, schedule sketches in `cron/` and `systemd/` |
+| Plugins (1) | `CONNECTORS.md`, `connectors.json` |
+
+### Routine schedules
+
+- `/gmail`: cron `0 8 * * *` (found in the template text)
+
+## What did not translate
+
+- Grok Bot runtime features: shared box computer/browser desktop, Grok channels (Slack/iMessage/email send-as), team multi-bot wake, built-in X/Grok data tools.
+- Routine scheduling and event triggers: Pi has no scheduler; see `prompts/`, `cron/`, `systemd/`.
+- Connector auth/config: plugin names only (see `CONNECTORS.md`).
+
+Content belongs to the original creator; this is an automated format conversion for personal use with Pi.

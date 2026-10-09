@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine live-work-pulse
+
+[Timer]
+OnCalendar=*-*-* 08,12,16:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

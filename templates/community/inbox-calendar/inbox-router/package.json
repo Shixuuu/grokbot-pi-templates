@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-inbox-router",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Routes your inboxes to the right owner and stops. No customer replies from this seat — triage, hold, escalate.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fKxBPN7PodohsFgf6sjGC",
+    "url": "https://x.ai/bot/fKxBPN7PodohsFgf6sjGC",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Eric",
+    "creatorHandle": "ericeastco",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

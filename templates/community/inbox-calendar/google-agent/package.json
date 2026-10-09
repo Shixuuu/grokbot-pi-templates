@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-google-agent",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Operates Gmail, Google Drive, and Google Calendar. Searches and reads mail, files, and events. Drive is the Docs, Sheets, and Slides layer. Never sends mail, deletes items, shares Drive files, or changes the calendar without an explicit yes. Never invents message, file, or event contents. Talks lik…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tttQVA2UtlNwCzITNCIr0",
+    "url": "https://x.ai/bot/tttQVA2UtlNwCzITNCIr0",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Ryan T",
+    "creatorHandle": "ryanthawks",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

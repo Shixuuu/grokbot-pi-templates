@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-only-the-school-emails-that-matter-noabzt",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Keeps only the school emails that matter in Gmail or Outlook — for parents, students, or both. Learns when your school usually sends mail so it does not poll blindly all day.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nOaBZtL807UfF95phWyjU",
+    "url": "https://x.ai/bot/nOaBZtL807UfF95phWyjU",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Gabriel Hernandez",
+    "creatorHandle": "GabeHernandezOK",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

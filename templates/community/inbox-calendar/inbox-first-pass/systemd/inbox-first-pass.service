@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine inbox-first-pass (Inbox First Pass)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/inbox-first-pass
+ExecStart=/usr/bin/env pi -p "/inbox-first-pass"

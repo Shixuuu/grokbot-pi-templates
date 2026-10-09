@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-social-media-by-eclincher-xp5k82",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Your social media AI agent - schedule and publish posts, receive and reply to every social inbox interactions (messages, comments and reviews), and view live analytics across 12+ social networks. Nothing goes live without your approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Xp5k82r21UvTani1ndv-b",
+    "url": "https://x.ai/bot/Xp5k82r21UvTani1ndv-b",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Tal Mikaelovich",
+    "creatorHandle": "eclincher",
+    "activeVersion": 9,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

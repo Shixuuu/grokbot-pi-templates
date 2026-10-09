@@ -1,0 +1,3 @@
+# Routine "friday-loop-review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 15 * * 5 cd /path/to/follow-up-keeper-1bbdpl && pi -p "/friday-loop-review"

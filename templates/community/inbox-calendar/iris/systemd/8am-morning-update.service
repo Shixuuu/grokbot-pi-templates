@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 8am-morning-update (Iris)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/iris
+ExecStart=/usr/bin/env pi -p "/8am-morning-update"

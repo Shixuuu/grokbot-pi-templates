@@ -1,0 +1,3 @@
+# Routine "Daily receipt inbox" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+1 0 * * * cd /path/to/receipt-scanner-expense-tracking && pi -p "/daily-receipt-inbox"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-application-email-sync (the j*bfinder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/the-j-bfinder
+ExecStart=/usr/bin/env pi -p "/daily-application-email-sync"

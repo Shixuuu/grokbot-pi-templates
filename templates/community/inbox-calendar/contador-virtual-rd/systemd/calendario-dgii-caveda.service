@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine calendario-dgii-caveda (Contador Virtual RD)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/contador-virtual-rd
+ExecStart=/usr/bin/env pi -p "/calendario-dgii-caveda"

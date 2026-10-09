@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-week-ahead (Homebase)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homebase-wz7amx
+ExecStart=/usr/bin/env pi -p "/sunday-week-ahead"

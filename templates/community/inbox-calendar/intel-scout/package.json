@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-intel-scout",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Twice-daily brief from inbox, Slack, and meeting notes. Digests what you saw and didn’t — company context that affects you, open follow-ups, and what’s useful for upcoming meetings. Source → Why → Do-this; skips telling you to do what you already own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TuRdVfJIJ2t0O8-jQm4ah",
+    "url": "https://x.ai/bot/TuRdVfJIJ2t0O8-jQm4ah",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

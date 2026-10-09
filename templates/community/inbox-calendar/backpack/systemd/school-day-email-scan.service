@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine school-day-email-scan (Backpack)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/backpack
+ExecStart=/usr/bin/env pi -p "/school-day-email-scan"

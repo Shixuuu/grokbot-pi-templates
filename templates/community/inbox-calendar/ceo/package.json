@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ceo",
+  "version": "1.0.3",
+  "private": true,
+  "description": "비개발자 CEO의 평일 아침 비서입니다. 브리핑은 항상 한국어입니다. 일정과 결정할 메일을 짧게 정리하고, 보내기·결제·발행은 확인 뒤에만 합니다.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "88F4VH2HqgvrDagsx9j7Z",
+    "url": "https://x.ai/bot/88F4VH2HqgvrDagsx9j7Z",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "jy Kim",
+    "creatorHandle": "jy Kim",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

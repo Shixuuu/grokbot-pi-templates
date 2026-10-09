@@ -1,0 +1,40 @@
+---
+name: coi-autopilot-pdf-fill
+description: "Use this when a field table for any ACORD form (25, 27, 28, 125, 126, 127, 140, 101) is ready and the user wants a filled PDF, when the user uploads their licensed blank for the first time, or when a saved blank's field map needs building, fixing, or reusing. It fills ONLY the user's own uploaded licensed blank and never supplies or recreates one. For an SOV spreadsheet use coi-autopilot-sov-statement-of-values."
+---
+
+# Fill the user's own licensed blank
+
+**Copyright rule:** ACORD forms are copyrighted and ACORD is a trademark. Never download, bundle, share, or recreate a blank ACORD form or a look-alike. Fill only the file the user uploads, keep it in that user's saved files, and never give one user's blank to another.
+
+Tools: any PDF library in your environment (for example pypdf for form fields, reportlab for overlay text, pdftoppm to render pages). Write a short script as needed.
+
+## One-time setup per form (ask once, then reuse)
+1. Ask: "Upload your licensed blank ACORD [NN] (the edition your AMS or carriers use). I'll save it and its field map so you never upload it again."
+2. **Inspect:** walk every page's widget annotations. For each field record the full name (join the /T names up the /Parent chain with "."), type (/Tx text, /Btn checkbox), page, rectangle, and for checkboxes the "on" state name (the appearance state that isn't /Off; it's often not "/Yes"). No widgets → flat or scanned blank → **overlay path**.
+3. **AcroForm path, build the map** (logical key → field name). A fuzzy name match is only a first pass; booleans map only to checkboxes, text only to text fields, one field per key. Official fillable blanks often use cryptic names, so confirm every pair by page and position (render the page if needed) and do a test fill with each field's own name as its value to see where it lands. Save the map with the blank, keyed by form number and edition.
+4. **Overlay path:** render pages at 72 dpi, measure each box (PDF points, origin bottom-left), save x/y/page (and optional max width and font size) per logical key, test with dummy values, adjust.
+5. ACORD 140: check coverage against every key in coi-autopilot-acord-140-field-map; map or consciously skip each unmapped key and tell the user.
+6. Record the edition from the footer. A later upload with a different edition → rebuild the map.
+
+## Every fill
+1. Convert the field table to values by logical key. Checkboxes true/false. Dates MM/DD/YYYY. Limits like "1,000,000" (no "$" if the box has one preprinted).
+2. **AcroForm:** clone the blank; set text fields; set each checked box to its own on-state name and unchecked to /Off; don't regenerate appearances per field; set NeedAppearances so viewers draw the values. Flatten only if the user wants a non-editable copy, and keep an editable one too.
+3. **Verify:** re-read the filled file. Every key's field must exist and hold the intended value (checkbox not /Off exactly when checked). Report any MISSING FIELD or MISMATCH and fix.
+4. **Overlay:** draw each value at its saved position in Helvetica (shrink the font to fit max width, not below 5 pt; "X" for checked boxes) and merge onto the page.
+5. Render page 1 and look at it: overflow, wrong box, checkbox state. Fix, re-fill, re-check.
+6. Report fields filled, values with no field (→ ACORD 101 or tell the user), fields intentionally blank (→ gap list).
+7. Never fill signature fields. Never alter preprinted disclaimer or cancellation text.
+8. File name: `[Insured]_[Form]_[Holder]_[YYYY-MM-DD].pdf` (short names only).
+
+## Logical key map (use these keys so maps are reusable across editions)
+
+| Form | Logical keys (box → key) |
+|---|---|
+| 25 | DATE→`date`; PRODUCER→`producer_name`,`producer_addr1`,`producer_city_state_zip`; CONTACT NAME→`producer_contact`; PHONE→`producer_phone`; FAX→`producer_fax`; E-MAIL→`producer_email`; INSURER A–F→`insurer_a`…`insurer_f`; NAIC #→`naic_a`…`naic_f`; INSURED→`insured_name`,`insured_addr1`,`insured_city_state_zip`; CERTIFICATE NUMBER→`cert_number`; REVISION NUMBER→`revision_number`; CGL row→`gl_ltr`,`gl_cgl_check`,`gl_claims_made`,`gl_occur`,`gl_addl`,`gl_subr`,`gl_policy`,`gl_eff`,`gl_exp`,`gl_agg_policy`,`gl_agg_project`,`gl_agg_loc`,`gl_each_occ`,`gl_rented`,`gl_med`,`gl_pai`,`gl_gen_agg`,`gl_prod_agg`; Auto→`au_ltr`,`au_any`,`au_owned`,`au_sched`,`au_hired`,`au_nonowned`,`au_addl`,`au_subr`,`au_policy`,`au_eff`,`au_exp`,`au_csl`,`au_bi_person`,`au_bi_acc`,`au_pd`; Umbrella→`um_ltr`,`um_umbrella`,`um_excess`,`um_occur`,`um_cm`,`um_ded`,`um_ret`,`um_ret_amt`,`um_addl`,`um_subr`,`um_policy`,`um_eff`,`um_exp`,`um_each_occ`,`um_agg`; WC→`wc_ltr`,`wc_excl_yn`,`wc_subr`,`wc_policy`,`wc_eff`,`wc_exp`,`wc_statute`,`wc_other`,`wc_el_each`,`wc_el_dis_ee`,`wc_el_dis_pol`; Other row→`ot_ltr`,`ot_type`,`ot_policy`,`ot_eff`,`ot_exp`,`ot_limits`; DESCRIPTION→`description`; HOLDER→`holder_name`,`holder_addr1`,`holder_city_state_zip` |
+| 27 | `date`,`agency_*`,`company_name`,`company_naic`,`insured_*`,`loan_number`,`policy_number`,`eff`,`exp`,`continued_until_terminated`,`replaces_prior_dated`,`location_description`,`perils_basic`,`perils_broad`,`perils_special`,`cov_1..n`,`amt_1..n`,`ded_1..n`,`remarks`,`ai_name_addr`,`ai_mortgagee`,`ai_loss_payee`,`ai_llp`,`ai_addl_insured`,`ai_other`,`ai_other_desc`,`ai_loan` |
+| 28 | as 27 plus `prop_building`,`prop_bpp`,`cp_amount`,`cp_ded`,`bi_yn`,`bi_limit`,`bi_als_months`,`blanket_yn`,`blanket_value`,`terr_yn`,`terr_excl_yn`,`terr_dom_excl_yn`,`fungus_ltd_yn`,`fungus_limit`,`fungus_ded`,`fungus_excl_yn`,`fungus_form`,`rc_yn`,`agreed_yn`,`coins_yn`,`coins_pct`,`eb_yn`,`eb_limit`,`eb_ded`,`ol_undamaged_yn`,`ol_demo_limit`,`ol_icc_limit`,`em_yn`,`em_limit`,`em_ded`,`flood_yn`,`flood_limit`,`flood_ded`,`wind_yn`,`wind_diff_yn`,`ns_yn`,`ns_diff_yn`,`waive_subro_mortgagee_yn`,`ai_contract_of_sale`,`servicer_name_addr` |
+| 125 | `date`,`agency_*`,`carrier`,`naic`,`policy_number`,`status_quote`…,`lob_gl`,`lob_auto`,…,`prop_eff`,`prop_exp`,`billing_plan`,`payment_plan`,`applicant_name`,`applicant_addr*`,`gl_code`,`sic`,`naics`,`fein`,`business_phone`,`website`,`entity_*`,`llc_members`,`llc_managers`,`contact_*`,`loc{n}_*` (street, city, county, state, zip, inside_city, owner, tenant, ft_emp, pt_emp, revenue, occupied_area, public_area, total_area, leased_to_others, description), `nob_*` (category), `date_started`,`primary_ops`,`gi_{n}_yn`,`gi_{n}_explain`,`prior_{year}_{line}_*`,`loss_none`,`loss{n}_*` |
+| 126 | `hdr_*`,`cov_cgl`,`cov_cm`,`cov_occ`,`lim_gen_agg`,`lim_per_policy`,`lim_per_project`,`lim_per_loc`,`lim_prod_agg`,`lim_pai`,`lim_each_occ`,`lim_rented`,`lim_med`,`lim_eb`,`ded_*`,`other_cov`,`haz{n}_loc`,`haz{n}_num`,`haz{n}_class`,`haz{n}_code`,`haz{n}_basis`,`haz{n}_exposure`,`cm_*`,`con_{1..6}_yn`,`con_{1..6}_remarks`,`con_paid_subs`,`con_pct_subbed`,`con_ft_staff`,`con_pt_staff`,`con_sub_desc`,`prod_*`,`gi_{n}_yn`,`remarks` |
+| 140 | full list in coi-autopilot-acord-140-field-map. Summary: `hdr_*` (agency_customer_id, date, agency, carrier, naic, policy_number, eff, named_insured),`blanket{n}_*` (num, amount, type),`prem{n}_*` (num, street, bld, bld_desc),`prem{n}_soi{m}_*` (subject, amount, coins, valuation, causes, inflation, ded, ded_type, blanket, forms),`prem{n}_bi_*`,`prem{n}_spoil_*`,`prem{n}_sinkhole_accept`,`prem{n}_sinkhole_reject`,`prem{n}_sinkhole_limit`,`prem{n}_minesub_accept`,`prem{n}_minesub_reject`,`prem{n}_minesub_limit`,`prem{n}_const_type`,`prem{n}_hydrant_ft`,`prem{n}_station_mi`,`prem{n}_fire_district`,`prem{n}_prot_cl`,`prem{n}_stories`,`prem{n}_basements`,`prem{n}_yr_built`,`prem{n}_total_area`,`prem{n}_upd_{wiring,roofing,plumbing,heating}_yr`,`prem{n}_roof_type`,`prem{n}_wind_class`,`prem{n}_exp_{right,left,front,rear}_*`,`prem{n}_burg_*`,`prem{n}_fire_*`,`prem{n}_sprinkler_pct`,`ai{n}_*` (type, name_addr, loan, loc, bld, item),`remarks` |
+| 127 | `hdr_*`,`drv{n}_*` (name, dob, lic, state, exp_yrs, hired),`gi_{n}_yn`,`veh{n}_*` (year, make, model, body, vin, gvw, cost_new, garage_*, radius, use, liab, medpip, um, uim, comp_ded, coll_ded, towing, rental, lienholder),`sym_*`,`hno_*`,`remarks` |

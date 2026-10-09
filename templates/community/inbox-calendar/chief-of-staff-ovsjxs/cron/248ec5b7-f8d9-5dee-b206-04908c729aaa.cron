@@ -1,0 +1,3 @@
+# Routine "decisions-only" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 8 * * 1 cd /path/to/chief-of-staff-ovsjxs && pi -p "/248ec5b7-f8d9-5dee-b206-04908c729aaa"

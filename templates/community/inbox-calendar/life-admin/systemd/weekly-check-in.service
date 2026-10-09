@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-check-in (Life Admin)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/life-admin
+ExecStart=/usr/bin/env pi -p "/weekly-check-in"

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-follow-up-nudge",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday scan of your sent mail for quiet outbound threads, with one-line draft nudges. Quiet when nothing is overdue; never sends without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ON6ooxyj2fUPWXPmuAi3x",
+    "url": "https://x.ai/bot/ON6ooxyj2fUPWXPmuAi3x",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Mike Mosley",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

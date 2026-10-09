@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine 6-35-wrap-watchdog
+
+[Timer]
+OnCalendar=*-*-* 18:35:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

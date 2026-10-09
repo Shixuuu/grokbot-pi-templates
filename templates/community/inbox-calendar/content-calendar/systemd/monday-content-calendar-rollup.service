@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-content-calendar-rollup (Content Calendar)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/content-calendar
+ExecStart=/usr/bin/env pi -p "/monday-content-calendar-rollup"

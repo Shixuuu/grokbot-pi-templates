@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-inbox-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs a short morning email brief from unread Gmail (last 24 hours). Groups Needs me / Can wait / Noise, drafts replies in chat only, and never sends without Approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bxO47jo7w93LXNsBd7gGI",
+    "url": "https://x.ai/bot/bxO47jo7w93LXNsBd7gGI",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Javier Candiotti",
+    "creatorHandle": "AdeptusMec71933",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

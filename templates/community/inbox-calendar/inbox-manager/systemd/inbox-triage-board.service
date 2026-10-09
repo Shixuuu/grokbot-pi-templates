@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine inbox-triage-board (inbox manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/inbox-manager
+ExecStart=/usr/bin/env pi -p "/inbox-triage-board"

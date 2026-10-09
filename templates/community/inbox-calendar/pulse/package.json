@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-pulse",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Vision-first work–health balance coach. Drop gym snaps, meal labels, and calendar shots — get a green/yellow/red balance plan morning and evening, plus a Friday wrap. Times follow your timezone. Readable facts only. Draft and stop.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nkmFntyGYALNwmUBMXCWj",
+    "url": "https://x.ai/bot/nkmFntyGYALNwmUBMXCWj",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "FariborzBaghaei",
+    "creatorHandle": "FariborzBaghaei",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

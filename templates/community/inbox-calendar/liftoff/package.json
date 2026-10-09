@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-liftoff",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Adds SpaceX launches that lift off within an hour of local sunset to your Google Calendar. Choose pads (Vandenberg + Starbase by default; Cape/KSC optional), then run monthly or on demand.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nSNeVcwO0QZOrOdirgRAc",
+    "url": "https://x.ai/bot/nSNeVcwO0QZOrOdirgRAc",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Stephen Pierson",
+    "creatorHandle": "Steph_Pierson",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

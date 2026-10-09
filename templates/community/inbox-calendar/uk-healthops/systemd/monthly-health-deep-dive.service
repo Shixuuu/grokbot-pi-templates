@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-health-deep-dive (UK HealthOps)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/uk-healthops
+ExecStart=/usr/bin/env pi -p "/monthly-health-deep-dive"

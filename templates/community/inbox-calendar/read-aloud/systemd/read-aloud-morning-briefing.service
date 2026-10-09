@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine read-aloud-morning-briefing (Read Aloud!)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/read-aloud
+ExecStart=/usr/bin/env pi -p "/read-aloud-morning-briefing"

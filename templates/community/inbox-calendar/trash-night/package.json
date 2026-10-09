@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-trash-night",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A simple weekly reminder bot that pings you on trash or recycling night, with optional calendar and email reminders.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "i6aKs1MpGqHU-CvQqbdjS",
+    "url": "https://x.ai/bot/i6aKs1MpGqHU-CvQqbdjS",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Build A Goat",
+    "creatorHandle": "buildAgoat",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wave-1-monday-send (Events Outreach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/events-outreach
+ExecStart=/usr/bin/env pi -p "/wave-1-monday-send"

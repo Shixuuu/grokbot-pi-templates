@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-schoolbag",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches your school mail and calendar, then shows what’s due — forms, permission slips, signatures, field trips. Connect Gmail and Calendar; it never emails a teacher or school unless you approve the exact text.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "32Lf0iXCnPDE5n5eZp3he",
+    "url": "https://x.ai/bot/32Lf0iXCnPDE5n5eZp3he",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Seth Gagnon",
+    "creatorHandle": "SethBuildsAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

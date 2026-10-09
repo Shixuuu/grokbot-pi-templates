@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine email-action-watch (Haggler)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/haggler
+ExecStart=/usr/bin/env pi -p "/email-action-watch"

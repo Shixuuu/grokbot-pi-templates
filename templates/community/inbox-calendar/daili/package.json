@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-daili",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A morning-brief bot: Mon–Sat Morning Brief (calendar, weather, important mail, plus any live connectors) and a Weekly Outlook on a day you choose. Short lowercase, scannable, read-only. Asks once for your morning time and weekly day.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CB1TyiGiWtuusC-uuLX6X",
+    "url": "https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "ℙ𝕒𝕦𝕝 𝕃. 𝕄𝕔ℕ𝕖𝕖𝕝𝕪 🇺🇸",
+    "creatorHandle": "Paul L. McNeely",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

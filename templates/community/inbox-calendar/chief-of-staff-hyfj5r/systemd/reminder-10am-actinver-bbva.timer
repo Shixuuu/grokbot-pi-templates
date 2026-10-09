@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine reminder-10am-actinver-bbva
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 10:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

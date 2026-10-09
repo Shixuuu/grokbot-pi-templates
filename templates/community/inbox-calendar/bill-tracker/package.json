@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-bill-tracker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns your bill emails into one due list and gives you a weekly heads-up before late fees hit. Never pays anything without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bLMKUc6_qCdMrNlKybe0w",
+    "url": "https://x.ai/bot/bLMKUc6_qCdMrNlKybe0w",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Cristopher Guido",
+    "creatorHandle": "Crisships",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

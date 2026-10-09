@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-homebase",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Family mission control for school chaos. Collects email, calendars, and classroom apps; verifies any guardian already signed up; syncs the family calendar; pings only when something still needs action — in one clear message.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wz7amxhh9gxxbeagmg0un",
+    "url": "https://x.ai/bot/wz7amxhh9gxxbeagmg0un",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Ricardo Accioly",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

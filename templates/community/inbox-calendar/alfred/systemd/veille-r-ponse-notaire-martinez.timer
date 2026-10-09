@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine veille-r-ponse-notaire-martinez
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09,14:46:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

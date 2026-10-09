@@ -1,0 +1,3 @@
+# Routine "Calendario DGII mensual" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+46 8 8 * * cd /path/to/contador-virtual-rd && pi -p "/calendario-dgii-caveda"

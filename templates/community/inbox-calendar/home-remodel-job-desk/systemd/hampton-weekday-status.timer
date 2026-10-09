@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine hampton-weekday-status
+
+[Timer]
+OnCalendar=Mon,Wed,Fri *-*-* 08:15:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

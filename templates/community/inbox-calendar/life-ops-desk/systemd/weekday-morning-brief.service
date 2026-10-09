@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-morning-brief (Life Ops Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/life-ops-desk
+ExecStart=/usr/bin/env pi -p "/weekday-morning-brief"

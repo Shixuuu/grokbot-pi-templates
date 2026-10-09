@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine github-pat-renewal-reminder (CEO — Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ceo-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/github-pat-renewal-reminder"

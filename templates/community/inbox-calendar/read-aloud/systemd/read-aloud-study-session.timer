@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine read-aloud-study-session
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Checks every few minutes during a study session and reads each new course page aloud as the user moves through it.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

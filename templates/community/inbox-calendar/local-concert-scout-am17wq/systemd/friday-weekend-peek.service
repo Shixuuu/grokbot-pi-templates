@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-weekend-peek (Local Concert Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/local-concert-scout-am17wq
+ExecStart=/usr/bin/env pi -p "/friday-weekend-peek"

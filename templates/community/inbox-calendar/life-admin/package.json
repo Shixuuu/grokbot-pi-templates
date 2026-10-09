@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-life-admin",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Catches the personal deadlines that cost money when they slip (renewals, tickets, free trials, lease notices) and tells you when to start, not just when it's due.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n-moXgKp8F22oS9xckCMt",
+    "url": "https://x.ai/bot/n-moXgKp8F22oS9xckCMt",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Cristopher Guido",
+    "creatorHandle": "crisships",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

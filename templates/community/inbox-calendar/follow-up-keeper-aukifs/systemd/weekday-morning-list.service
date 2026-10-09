@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-morning-list (Follow-Up Keeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/follow-up-keeper-aukifs
+ExecStart=/usr/bin/env pi -p "/weekday-morning-list"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-wmp",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A warm, discreet assistant that keeps you current on your partner's and kids' birthdays, appointments, school events, and family plans from your Google Calendar, and pings you in time to act.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iPOF34o7dtafNEpVhIQRt",
+    "url": "https://x.ai/bot/iPOF34o7dtafNEpVhIQRt",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Caleeeb",
+    "creatorHandle": "gearcaleeeb",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

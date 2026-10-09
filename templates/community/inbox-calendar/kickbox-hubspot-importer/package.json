@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-kickbox-hubspot-importer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs Kickbox email hygiene on contacts from a Google Sheet or HubSpot view, then imports Deliverable results back into HubSpot as updates to existing contacts. Click here to create a Kickbox account https://app.kickbox.com/signup?fp_ref=pofabro&fp_sid=grokbot",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PRc9UmcxySAv0UBU4g8fx",
+    "url": "https://x.ai/bot/PRc9UmcxySAv0UBU4g8fx",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "@pofabro",
+    "creatorHandle": "pofabro",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

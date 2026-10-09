@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-everydollar-categorize (Personal Finance Assistant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/personal-finance-assistant
+ExecStart=/usr/bin/env pi -p "/morning-everydollar-categorize"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-fsh7hx",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff for solo operators and small agencies: coordinates email, calendar, client sites/ads, associations, and specialist bots — and only pulls you in for real decisions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fSh7h_fYqcveGjoUTqjoU",
+    "url": "https://x.ai/bot/fSh7h_fYqcveGjoUTqjoU",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Anders Eriksson",
+    "creatorHandle": "nab_eriksson",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

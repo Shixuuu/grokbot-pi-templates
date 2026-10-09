@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-inbox-zero (Inbox Zero)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/inbox-zero
+ExecStart=/usr/bin/env pi -p "/weekday-inbox-zero"

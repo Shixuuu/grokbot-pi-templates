@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-hire-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hiring assistant for ATS, LinkedIn, and offer letters. Pulls candidate context from threads and email, drafts contractor agreements or offers, and never sends or e-signs without an explicit yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Q9Vbc3gbldDnJBmUfcip-",
+    "url": "https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip-",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "stephoshi yappamoto",
+    "creatorHandle": "xsubwayratx",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

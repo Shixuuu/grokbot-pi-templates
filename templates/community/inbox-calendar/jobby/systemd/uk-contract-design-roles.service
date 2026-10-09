@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine uk-contract-design-roles (Jobby)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/jobby
+ExecStart=/usr/bin/env pi -p "/uk-contract-design-roles"

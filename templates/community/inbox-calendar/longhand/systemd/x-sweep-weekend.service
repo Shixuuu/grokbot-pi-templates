@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-sweep-weekend (Longhand)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/longhand
+ExecStart=/usr/bin/env pi -p "/x-sweep-weekend"

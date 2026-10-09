@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine factura-c-mensual-hgc (Creador de facturas ARCA)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/creador-de-facturas-arca
+ExecStart=/usr/bin/env pi -p "/factura-c-mensual-hgc"

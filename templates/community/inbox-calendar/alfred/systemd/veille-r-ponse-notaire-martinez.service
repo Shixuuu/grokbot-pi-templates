@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine veille-r-ponse-notaire-martinez (Alfred)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/alfred
+ExecStart=/usr/bin/env pi -p "/veille-r-ponse-notaire-martinez"

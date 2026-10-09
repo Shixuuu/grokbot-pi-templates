@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine catch-commitments (Commitments)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/commitments
+ExecStart=/usr/bin/env pi -p "/catch-commitments"

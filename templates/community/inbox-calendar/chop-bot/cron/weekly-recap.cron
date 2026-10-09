@@ -1,0 +1,3 @@
+# Routine "Weekly recap" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+8 16 * * 5 cd /path/to/chop-bot && pi -p "/weekly-recap"

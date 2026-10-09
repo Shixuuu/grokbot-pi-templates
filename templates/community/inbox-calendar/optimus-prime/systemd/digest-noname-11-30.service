@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine digest-noname-11-30 (Optimus Prime)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/optimus-prime
+ExecStart=/usr/bin/env pi -p "/digest-noname-11-30"

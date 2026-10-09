@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-creator-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "An original-content creator's assistant for X. It plans, writes, and schedules your posts, short native video clips, and replies worth making, so your account grows on original work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dM43J1T44OmcRdAsNHsBf",
+    "url": "https://x.ai/bot/dM43J1T44OmcRdAsNHsBf",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Stephen Abbott",
+    "creatorHandle": "MadeItHappenX",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

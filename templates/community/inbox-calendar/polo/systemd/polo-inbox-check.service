@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine polo-inbox-check (Polo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/polo
+ExecStart=/usr/bin/env pi -p "/polo-inbox-check"

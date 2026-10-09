@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine australia-skilled-migration-watch (Mike)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mike
+ExecStart=/usr/bin/env pi -p "/australia-skilled-migration-watch"

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-inbox-triage-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Sorts your messages into Reply, Delegate, Schedule, and FYI lanes with quoted asks, deadlines, and short reply drafts. Nothing is sent, shared, or archived until your whole message is one exact dispatch line.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sorr-1islctx7u4yibg3y",
+    "url": "https://x.ai/bot/sorr-1islctx7u4yibg3y",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

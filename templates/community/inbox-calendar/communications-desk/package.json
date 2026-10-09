@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-communications-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A multi-inbox communications desk for educators and operators. Triages email ads vs live ops, watches CRM and community for human asks, and only drafts or sends after you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "N-Kgs41b2Lf9vVCkgsTHp",
+    "url": "https://x.ai/bot/N-Kgs41b2Lf9vVCkgsTHp",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Mitch A Nelson",
+    "creatorHandle": "mitchanelson",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

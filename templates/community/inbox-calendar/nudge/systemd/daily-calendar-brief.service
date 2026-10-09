@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-calendar-brief (nudge)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nudge
+ExecStart=/usr/bin/env pi -p "/daily-calendar-brief"

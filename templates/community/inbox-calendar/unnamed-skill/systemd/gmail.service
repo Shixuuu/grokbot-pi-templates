@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gmail (메일 정리봇)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill
+ExecStart=/usr/bin/env pi -p "/gmail"

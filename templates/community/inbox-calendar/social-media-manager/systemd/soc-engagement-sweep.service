@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine soc-engagement-sweep (Social Media Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/social-media-manager
+ExecStart=/usr/bin/env pi -p "/soc-engagement-sweep"

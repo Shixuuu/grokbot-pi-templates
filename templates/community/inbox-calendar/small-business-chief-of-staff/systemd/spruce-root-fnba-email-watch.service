@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine spruce-root-fnba-email-watch (Small-Business Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/small-business-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/spruce-root-fnba-email-watch"

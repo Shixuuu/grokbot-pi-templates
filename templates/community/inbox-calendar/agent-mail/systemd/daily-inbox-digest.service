@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-inbox-digest (Agent Mail)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/agent-mail
+ExecStart=/usr/bin/env pi -p "/daily-inbox-digest"

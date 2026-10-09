@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-read-aloud",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Reads anything aloud like a real person, not a robot: your screen, web pages, highlighted text, PDFs, docs, ebooks, and email, in full, summarized, or translated. Long reads come with a track list and play back to back in short parts with no confirmations, and course pages get every tab, hint, and …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mvkkx9p_-u6hzdnavzoz9",
+    "url": "https://x.ai/bot/mvkkx9p_-u6hzdnavzoz9",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Natarajan Balasubramanian",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

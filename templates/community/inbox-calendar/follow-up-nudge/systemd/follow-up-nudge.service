@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine follow-up-nudge (Follow-Up Nudge)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/follow-up-nudge
+ExecStart=/usr/bin/env pi -p "/follow-up-nudge"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-done",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Closes day-to-day errands end to end — compare, book or order, confirm, calendar — and returns a one-line proof packet. Asks only on money, outbound messages, or irreversible cancels.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GsaAJ6kySI1O1sM7kiMiK",
+    "url": "https://x.ai/bot/GsaAJ6kySI1O1sM7kiMiK",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Paulo Vitor Justino Pereira",
+    "creatorHandle": "Paulo Pereira",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

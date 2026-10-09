@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine afternoon-school-sweep (Homebase)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homebase
+ExecStart=/usr/bin/env pi -p "/afternoon-school-sweep"

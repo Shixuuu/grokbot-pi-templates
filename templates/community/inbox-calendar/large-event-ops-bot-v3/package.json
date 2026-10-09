@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-large-event-ops-bot-v3",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Runs day-to-day operations for awards banquets, galas, and festivals. It coordinates vendors, sponsors, and volunteers, tracks vendor paperwork, and sends polite, well-targeted email.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "93Z51EAVqzp-YOvbHFjN3",
+    "url": "https://x.ai/bot/93Z51EAVqzp-YOvbHFjN3",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Lovable Curves",
+    "creatorHandle": "_lovablecurves",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

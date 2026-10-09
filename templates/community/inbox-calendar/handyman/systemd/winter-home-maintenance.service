@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine winter-home-maintenance (Handyman)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/handyman
+ExecStart=/usr/bin/env pi -p "/winter-home-maintenance"

@@ -1,0 +1,3 @@
+# Routine "inbox-first-pass" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+17 8 * * 1-5 cd /path/to/inbox-first-pass && pi -p "/inbox-first-pass"

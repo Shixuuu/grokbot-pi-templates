@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine school-inbox-check (Mike)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mike
+ExecStart=/usr/bin/env pi -p "/school-inbox-check"

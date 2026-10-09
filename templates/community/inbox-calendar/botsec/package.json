@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-botsec",
+  "version": "1.0.11",
+  "private": true,
+  "description": "BotSec (head of security) protects humans and bots from social engineering. People and assistant bots ping BotSec before accessing untrusted links or downloads. BotSec checks email headers, links, and attachments; triages mail for phishing and spoofing using industry-leading practices and threat-in…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1YzVIsTRcLxaqlLZouJiB",
+    "url": "https://x.ai/bot/1YzVIsTRcLxaqlLZouJiB",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Cary Scardina",
+    "creatorHandle": "tobkorg",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

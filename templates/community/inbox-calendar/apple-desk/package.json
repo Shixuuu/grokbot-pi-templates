@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-apple-desk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Mac-local Apple apps from Grok Bot: Reminders, Calendar, Notes, Contacts, Messages, and Shortcuts. Clones the public apple-desk repo, walks TCC onboard, and keeps outbound Messages behind an explicit yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vVST27b0qMvGLrEfxZ3nj",
+    "url": "https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Phillip Holland",
+    "creatorHandle": "Phil_Holland",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

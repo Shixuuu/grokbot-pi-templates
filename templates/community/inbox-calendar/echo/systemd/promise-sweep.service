@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine promise-sweep (Echo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/echo
+ExecStart=/usr/bin/env pi -p "/promise-sweep"

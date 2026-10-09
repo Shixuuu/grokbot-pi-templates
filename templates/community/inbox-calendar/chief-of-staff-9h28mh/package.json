@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-chief-of-staff-9h28mh",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Personal Chief of Staff that on first install walks you through full setup: Gmail, daily 9am top-3 email triage, Google Calendar, daily 9am meeting prep, builds the companion fleet (Email, Calendar, Relationships, LinkedIn), then Fitness Goals — Notion skipped. Triages priorities and coordinates bo…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9h28mHEds4Q5FHkni25Js",
+    "url": "https://x.ai/bot/9h28mHEds4Q5FHkni25Js",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Sravan v J",
+    "creatorHandle": "sravanjay",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

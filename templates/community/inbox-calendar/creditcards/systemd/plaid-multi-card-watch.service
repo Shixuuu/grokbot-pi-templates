@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine plaid-multi-card-watch (CreditCards)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/creditcards
+ExecStart=/usr/bin/env pi -p "/plaid-multi-card-watch"

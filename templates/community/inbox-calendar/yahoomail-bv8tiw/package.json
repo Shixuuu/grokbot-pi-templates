@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-yahoomail-bv8tiw",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Clears and files your Yahoo Mail inbox on request: trash, trash plus filter, or file to a folder, with a ranked \"Next 10\" list of top senders and an IMAP blocklist sweep that works past Yahoo's 500-filter cap. Created by CarolinaDill (X: @CarolinaDill).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BV8TiWwvtXEp3miBJUWaq",
+    "url": "https://x.ai/bot/BV8TiWwvtXEp3miBJUWaq",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Carolina Dill",
+    "creatorHandle": "community",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

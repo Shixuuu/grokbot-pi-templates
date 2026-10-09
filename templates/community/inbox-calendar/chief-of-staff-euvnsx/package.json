@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-euvnsx",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A personal chief of staff that runs a weekday morning briefing and ~30-minute meeting nudges over chat, email, and optional WhatsApp, with Google Calendar and Gmail. Can also read X (search, timeline, bookmarks) when connected.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eUvnS-6P_VDTiF4Xj3z2X",
+    "url": "https://x.ai/bot/eUvnS-6P_VDTiF4Xj3z2X",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Mario A. Henriquez D.",
+    "creatorHandle": "henriquez_mario",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

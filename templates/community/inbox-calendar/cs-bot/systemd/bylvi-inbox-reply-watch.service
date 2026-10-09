@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bylvi-inbox-reply-watch (CS BOT)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cs-bot
+ExecStart=/usr/bin/env pi -p "/bylvi-inbox-reply-watch"

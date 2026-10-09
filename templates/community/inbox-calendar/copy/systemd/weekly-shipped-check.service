@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-shipped-check (Copy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/copy
+ExecStart=/usr/bin/env pi -p "/weekly-shipped-check"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-team-map-refresh (💼 CoS)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cos
+ExecStart=/usr/bin/env pi -p "/sunday-team-map-refresh"

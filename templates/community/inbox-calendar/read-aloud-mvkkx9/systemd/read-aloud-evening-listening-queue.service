@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine read-aloud-evening-listening-queue (Read Aloud!)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/read-aloud-mvkkx9
+ExecStart=/usr/bin/env pi -p "/read-aloud-evening-listening-queue"

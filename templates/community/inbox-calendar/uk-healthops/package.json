@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-uk-healthops",
+  "version": "1.0.8",
+  "private": true,
+  "description": "The gentle nudge that finally gets your health sorted — retaining detailed medical history, reviewing and correlating results over time, and turning every Open worry into a next step so care doesn’t wait another decade.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NgVzsPCqf9_qdNWLs9NAQ",
+    "url": "https://x.ai/bot/NgVzsPCqf9_qdNWLs9NAQ",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Philip Neeson",
+    "creatorHandle": "HybridEcon",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-bookworm",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A go-to-market assistant for early reading products. It drafts personalized founder-voiced beta invites, checks what already went out, and sends from a connected Gmail inbox only after the owner approves the list.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KPpT1F6tP4Q5GZ2BH2hBH",
+    "url": "https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Navya Mehrotra",
+    "creatorHandle": "NavyaM89482",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

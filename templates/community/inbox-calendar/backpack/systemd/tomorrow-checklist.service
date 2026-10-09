@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tomorrow-checklist (Backpack)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/backpack
+ExecStart=/usr/bin/env pi -p "/tomorrow-checklist"

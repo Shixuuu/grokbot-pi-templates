@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-loop-review (Follow-Up Keeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/follow-up-keeper
+ExecStart=/usr/bin/env pi -p "/friday-loop-review"

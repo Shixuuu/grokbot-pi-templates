@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-thought-leadership-draft (Founder Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/founder-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/x-thought-leadership-draft"

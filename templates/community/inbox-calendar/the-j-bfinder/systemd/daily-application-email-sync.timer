@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-application-email-sync
+
+[Timer]
+OnCalendar=*-*-* 06:09:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fill-travel-gaps (Seamore)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/seamore
+ExecStart=/usr/bin/env pi -p "/fill-travel-gaps"

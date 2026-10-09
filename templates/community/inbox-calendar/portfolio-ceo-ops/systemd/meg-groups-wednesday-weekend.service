@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine meg-groups-wednesday-weekend (Portfolio CEO Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/portfolio-ceo-ops
+ExecStart=/usr/bin/env pi -p "/meg-groups-wednesday-weekend"

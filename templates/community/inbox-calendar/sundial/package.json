@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-sundial",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Calendar and scheduling assistant for meetings, deadlines, and focus blocks. Flags conflicts and keeps your time organized.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yF9Z-RMzHW1SpLC94-BmM",
+    "url": "https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "riesling29",
+    "creatorHandle": "WaterMixing",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

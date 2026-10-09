@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-raybot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal secretary bot for busy people. It runs a morning mail and calendar briefing, drafts replies, and never sends or posts without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jrfojpsjia5iawttlrx0a",
+    "url": "https://x.ai/bot/jrfojpsjia5iawttlrx0a",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Ray",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

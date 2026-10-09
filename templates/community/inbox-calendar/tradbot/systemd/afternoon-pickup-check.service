@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine afternoon-pickup-check (Tradbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tradbot
+ExecStart=/usr/bin/env pi -p "/afternoon-pickup-check"

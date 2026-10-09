@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ops-fleet-starter",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A working recipe for a multi-bot ops fleet: Mail Router classifies Gmail into life-area lanes, Evidence Ledger holds governed originals, specialist bots own each lane, Catch-All holds leftovers. Start with ops-fleet-setup after import. You approve every send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gZ3LMBTn-zVygV-G9_2m8",
+    "url": "https://x.ai/bot/gZ3LMBTn-zVygV-G9_2m8",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Greg Moskalenko",
+    "creatorHandle": "greg1mosk",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

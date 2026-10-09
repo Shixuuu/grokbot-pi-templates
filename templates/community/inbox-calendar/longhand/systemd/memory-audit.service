@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine memory-audit (Longhand)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/longhand
+ExecStart=/usr/bin/env pi -p "/memory-audit"

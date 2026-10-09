@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-prime",
+  "version": "1.0.2",
+  "private": true,
+  "description": "CEO of a multi-bot ops desk. Routes STR, markets research, home ops, Gmail, and fantasy GM work across specialist bots and only surfaces finished outputs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7a8zayr1duE5o39tS2-h6",
+    "url": "https://x.ai/bot/7a8zayr1duE5o39tS2-h6",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "🦊",
+    "creatorHandle": "pfd_zero",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

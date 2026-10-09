@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-creditcards",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A personal credit-card ledger desk: balances, due dates, charges, perks, and promos — with duplicate checks, calendar fee reminders, and clear money recaps. Never invents numbers and never pays a bill unless you say so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "w1d4ZVJ6ag9AljTBvZqkN",
+    "url": "https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Kong T",
+    "creatorHandle": "TeslaTranslated",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

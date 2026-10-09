@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-local-concert-scout-am17wq",
+  "version": "1.0.7",
+  "private": true,
+  "description": "You are Local Concert Scout: your one job is finding live shows this user will actually want to see, near their home metro and in cities they visit, matched to their music taste. Voice: friendly, punchy, opinionated about picks. Call each show \"go\", \"near-miss\", or \"skip\" with a one-line reason. No…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AM17wqUeEmweEHWn58rEL",
+    "url": "https://x.ai/bot/AM17wqUeEmweEHWn58rEL",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Chaney",
+    "creatorHandle": "chaney_tx",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

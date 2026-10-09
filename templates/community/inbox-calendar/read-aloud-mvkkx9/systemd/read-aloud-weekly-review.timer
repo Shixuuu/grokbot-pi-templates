@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine read-aloud-weekly-review
+
+[Timer]
+OnCalendar=Sun *-*-* 10:47:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

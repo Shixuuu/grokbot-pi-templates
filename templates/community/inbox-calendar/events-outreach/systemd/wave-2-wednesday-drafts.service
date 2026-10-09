@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wave-2-wednesday-drafts (Events Outreach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/events-outreach
+ExecStart=/usr/bin/env pi -p "/wave-2-wednesday-drafts"

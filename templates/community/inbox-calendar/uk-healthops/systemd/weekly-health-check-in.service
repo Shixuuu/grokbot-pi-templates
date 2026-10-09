@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-health-check-in (UK HealthOps)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/uk-healthops
+ExecStart=/usr/bin/env pi -p "/weekly-health-check-in"

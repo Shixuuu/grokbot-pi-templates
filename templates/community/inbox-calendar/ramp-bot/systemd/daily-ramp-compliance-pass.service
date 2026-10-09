@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-ramp-compliance-pass (Ramp Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ramp-bot
+ExecStart=/usr/bin/env pi -p "/daily-ramp-compliance-pass"

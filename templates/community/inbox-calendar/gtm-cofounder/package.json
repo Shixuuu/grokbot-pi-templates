@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gtm-cofounder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A founder’s GTM cofounder for pipeline and outbound: partnership email, launch-window timing, paid-acquisition hygiene, light non-promotional social, and short status into the product team room.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rNlFlYuMnPlewUC0KN7Tr",
+    "url": "https://x.ai/bot/rNlFlYuMnPlewUC0KN7Tr",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Barton Dong",
+    "creatorHandle": "therealbossdong",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine live-work-pulse (Prime)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/prime
+ExecStart=/usr/bin/env pi -p "/live-work-pulse"

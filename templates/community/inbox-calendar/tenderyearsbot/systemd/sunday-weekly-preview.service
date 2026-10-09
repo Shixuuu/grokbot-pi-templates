@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-weekly-preview (TenderYearsbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tenderyearsbot
+ExecStart=/usr/bin/env pi -p "/sunday-weekly-preview"

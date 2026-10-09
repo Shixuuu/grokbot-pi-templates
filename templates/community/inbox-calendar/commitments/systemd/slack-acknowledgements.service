@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine slack-acknowledgements (Commitments)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/commitments
+ExecStart=/usr/bin/env pi -p "/slack-acknowledgements"

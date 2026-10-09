@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-receipt-inbox (Receipt Scanner / Expense Tracking)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/receipt-scanner-expense-tracking-qod4cr
+ExecStart=/usr/bin/env pi -p "/daily-receipt-inbox"

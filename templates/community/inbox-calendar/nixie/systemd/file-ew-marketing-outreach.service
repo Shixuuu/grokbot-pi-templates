@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine file-ew-marketing-outreach (Nixie)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nixie
+ExecStart=/usr/bin/env pi -p "/file-ew-marketing-outreach"

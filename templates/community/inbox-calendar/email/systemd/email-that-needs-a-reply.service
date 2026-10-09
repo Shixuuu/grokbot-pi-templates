@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine email-that-needs-a-reply (Email)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/email
+ExecStart=/usr/bin/env pi -p "/email-that-needs-a-reply"

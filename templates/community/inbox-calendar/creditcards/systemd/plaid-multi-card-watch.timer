@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine plaid-multi-card-watch
+
+[Timer]
+OnCalendar=Mon *-*-* 09:44:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

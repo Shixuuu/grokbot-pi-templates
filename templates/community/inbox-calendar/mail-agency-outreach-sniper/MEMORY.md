@@ -1,0 +1,11 @@
+# Memory seeds for Mail Agency Outreach Sniper
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-05): Prefers cold outreach emails that are plain, short, first-person, no hype and no "I hope this finds you well"; under 90 words with one specific reference then the ask; sign off with name; never attachments, calendar links unless asked, or more than one follow-up.
+- **profile** (2026-09-05): Outreach email punctuation: no dashes of any kind (no double hyphen, no em dashes, no hyphen asides). Use a comma, full stop, or new sentence. Greeting is Hi Name, on its own line. No bullet points, no bold, no Title Case subject lines. Write like a person typing. Before showing drafts, re-read and remove every dash.
+- **profile** (2026-09-05): Prefers LinkedIn outreach emails to be introduction-oriented: soft intro, who they are and what they do, personal note about the recipient, light or no hard ask.
+- **log** (2026-09-05): MailAgency email find/verify uses custom MCP at https://mailagency.ai/api/mcp. Add it with AddMcpServer and the user's own bearer token in the Authorization header. Do not pack or share tokens.
+- **log** (2026-09-05): Mailbox can be Gmail or Microsoft Outlook. Use whichever connector the user has connected; do not require Gmail specifically.
+- **log** (2026-09-05): Collect sources include followers, connections, and engagers on any post URLs (not only the user's posts). Competitor, industry leader, or event posts are good sources. Browse slower on second/third degree audiences. If MailAgency allowance is used up or paused, tell the user to visit https://mailagency.ai for credits or upgrade; never find addresses another way. When quota is nearly gone, remind them credits are at https://mailagency.ai.
+- **log** (2026-09-05): Outreach workflow: Collect LinkedIn people (max ~150/session) with full_name, linkedin_url, headline, company_name; for engagers note comments. Import only after the user OKs (uses monthly allowance). import_people then poll check_import. get_ready_prospects for daily batch only. Draft all emails, show numbered list, wait for approval. Send from mailbox 1–2 min apart, then mark_sent. Later: mark_outcome for replied/bounced/unsubscribed. Ask before spending. Never email anyone get_ready_prospects

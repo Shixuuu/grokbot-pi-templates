@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-prospect-drafts",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds fit prospects from your geography, industries, and offer, then writes first-touch Gmail drafts in your voice with your price and signature. You send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ed8OwTpWaFfZdJHEAoT4t",
+    "url": "https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Sam Morgan",
+    "creatorHandle": "sam_builds_ai",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

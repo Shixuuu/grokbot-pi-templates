@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-inbox-digest
+
+[Timer]
+OnCalendar=*-*-* 08:34:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

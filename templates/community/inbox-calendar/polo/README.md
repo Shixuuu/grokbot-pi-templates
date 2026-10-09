@@ -1,0 +1,43 @@
+# Polo
+
+Watches your inbox for questions you can already answer from mail or files you already have. Leaves a short draft in your mailbox and asks before sending, so you are not shuttling answers by hand.
+
+| | |
+| --- | --- |
+| Original template | https://x.ai/bot/R-i5_wHeR_cBinyLVyvWh |
+| Creator | Soleio ​ ([@soleio](https://x.com/soleio)) |
+| Category | community / inbox-calendar |
+| Found via | [botsdots.site](https://botsdots.site/templates/polo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/polo), [grokbothq.xyz](https://grokbothq.xyz/bots/polo), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/polo) |
+| Fidelity | **full** (full recipe, template version 8) |
+| Contents | 0 skills, 1 routines, 12 memory seeds, 3 connectors |
+
+## Use it in Pi
+
+```bash
+cp -r templates/community/inbox-calendar/polo ~/pi-bots/polo && cd ~/pi-bots/polo
+pi --approve   # trust the folder: loads AGENTS.md, .pi/APPEND_SYSTEM.md, skills/, prompts/
+```
+
+Or install only the skills and routine prompts: `pi install ./templates/community/inbox-calendar/polo`. The persona in `AGENTS.md` applies only when you run Pi inside the folder.
+
+## What was converted
+
+| Grok Bot | Pi |
+| --- | --- |
+| Profile / persona | `AGENTS.md`, `.pi/APPEND_SYSTEM.md` |
+| Memory (12) | `MEMORY.md` |
+| Skills (0) | `skills/<name>/SKILL.md`, full bodies |
+| Routines (1) | `prompts/<name>.md` (`/name`), verbatim text in `routines/`, schedule sketches in `cron/` and `systemd/` |
+| Plugins (3) | `CONNECTORS.md`, `connectors.json` |
+
+### Routine schedules
+
+- `/polo-inbox-check`: cron `*/30 8-19 * * 1-5` (found in the template text)
+
+## What did not translate
+
+- Grok Bot runtime features: shared box computer/browser desktop, Grok channels (Slack/iMessage/email send-as), team multi-bot wake, built-in X/Grok data tools.
+- Routine scheduling and event triggers: Pi has no scheduler; see `prompts/`, `cron/`, `systemd/`.
+- Connector auth/config: plugin names only (see `CONNECTORS.md`).
+
+Content belongs to the original creator; this is an automated format conversion for personal use with Pi.

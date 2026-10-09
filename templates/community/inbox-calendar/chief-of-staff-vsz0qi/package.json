@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-chief-of-staff-vsz0qi",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff bot for creators and power users: Connected Brain YouTube comment packs (IT summary + Investigator/Advisor/Resolver in IT and EN, web fact-checked) plus a careful daily Outlook Junk review that lists mail and asks before any delete.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VsZ0QiNcoVNer6PFdyKzI",
+    "url": "https://x.ai/bot/VsZ0QiNcoVNer6PFdyKzI",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "S4MU",
+    "creatorHandle": "Spiderjin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

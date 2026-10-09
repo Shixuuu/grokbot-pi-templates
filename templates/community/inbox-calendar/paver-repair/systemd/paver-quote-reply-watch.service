@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine paver-quote-reply-watch (Paver Repair)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/paver-repair
+ExecStart=/usr/bin/env pi -p "/paver-quote-reply-watch"

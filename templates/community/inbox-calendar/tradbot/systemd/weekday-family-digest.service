@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-family-digest (Tradbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tradbot
+ExecStart=/usr/bin/env pi -p "/weekday-family-digest"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 540258b2-a10d-5293-b84b-3278bcc985fe (Inbox)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/inbox
+ExecStart=/usr/bin/env pi -p "/540258b2-a10d-5293-b84b-3278bcc985fe"

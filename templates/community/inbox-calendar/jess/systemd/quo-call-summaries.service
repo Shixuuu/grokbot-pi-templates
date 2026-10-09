@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine quo-call-summaries (Jess)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/jess
+ExecStart=/usr/bin/env pi -p "/quo-call-summaries"

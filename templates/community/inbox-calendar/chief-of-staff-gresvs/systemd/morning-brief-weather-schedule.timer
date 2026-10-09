@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine morning-brief-weather-schedule
+
+[Timer]
+OnCalendar=*-*-* 06:55:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-bookie",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Booking sidekick for service businesses. Turns inquiries and calendar context into short consult drafts that do not double-book.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cu9T08lvtRNOfk_Nexys1",
+    "url": "https://x.ai/bot/cu9T08lvtRNOfk_Nexys1",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Bud Johnson",
+    "creatorHandle": "BudJohnson",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

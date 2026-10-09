@@ -1,0 +1,3 @@
+# Routine "Morning brief (weather + schedule)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+55 6 * * * cd /path/to/chief-of-staff-gresvs && pi -p "/morning-brief-weather-schedule"

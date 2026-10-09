@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine saturday-recap (Founder Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/founder-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/saturday-recap"

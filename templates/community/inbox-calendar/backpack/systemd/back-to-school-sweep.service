@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine back-to-school-sweep (Backpack)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/backpack
+ExecStart=/usr/bin/env pi -p "/back-to-school-sweep"

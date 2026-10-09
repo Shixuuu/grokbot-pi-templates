@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-school-assistant",
+  "version": "1.0.9",
+  "private": true,
+  "description": "A weekday school assistant that checks your learning portal read-only and emails a digest: new grades, upcoming work and tests, and truly overdue items. Works with Schoology, Canvas, Google Classroom, and similar systems.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fxl9ns6n4dv6_8xbkp1oa",
+    "url": "https://x.ai/bot/fxl9ns6n4dv6_8xbkp1oa",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Kerry",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

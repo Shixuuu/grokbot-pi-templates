@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine maja-lead-watch (Lead Vetting)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lead-vetting
+ExecStart=/usr/bin/env pi -p "/maja-lead-watch"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine shoot-confirmation-reply-watch (Photo & Video Shoot Confirmations)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/photo-video-shoot-confirmations
+ExecStart=/usr/bin/env pi -p "/shoot-confirmation-reply-watch"

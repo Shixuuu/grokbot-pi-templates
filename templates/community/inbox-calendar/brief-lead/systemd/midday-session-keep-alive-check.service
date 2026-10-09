@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine midday-session-keep-alive-check (Brief Lead)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/brief-lead
+ExecStart=/usr/bin/env pi -p "/midday-session-keep-alive-check"

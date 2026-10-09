@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine remote-viewer-x-mentions (Archivist)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/archivist
+ExecStart=/usr/bin/env pi -p "/remote-viewer-x-mentions"

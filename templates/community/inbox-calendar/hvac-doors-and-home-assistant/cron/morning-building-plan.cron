@@ -1,0 +1,3 @@
+# Routine "Morning building plan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 7 * * * cd /path/to/hvac-doors-and-home-assistant && pi -p "/morning-building-plan"

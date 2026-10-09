@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine dagelijkse-mailbox-organizer (E-mail Organizer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/e-mail-organizer
+ExecStart=/usr/bin/env pi -p "/dagelijkse-mailbox-organizer"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-signup-alias-guard",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A unique email alias for every site you sign up on, so you can see who shared your address. Nothing is submitted, sent, or deleted without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "76smC7H9kKKxDcMfq19hY",
+    "url": "https://x.ai/bot/76smC7H9kKKxDcMfq19hY",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "AdventureNLearn Main",
+    "creatorHandle": "AdventureNLearn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

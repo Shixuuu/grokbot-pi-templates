@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-capacity-check (Echo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/echo
+ExecStart=/usr/bin/env pi -p "/friday-capacity-check"

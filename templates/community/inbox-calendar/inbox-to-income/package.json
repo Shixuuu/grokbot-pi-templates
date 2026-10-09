@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-inbox-to-income",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps your inbox small and surfaces money-making and money-saving moves in your mail and calendar. Drafts the replies that unlock cash — you stay in control of every send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VZBcSWV81X9BDXGpcmrNM",
+    "url": "https://x.ai/bot/VZBcSWV81X9BDXGpcmrNM",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "John Walker",
+    "creatorHandle": "JohnWalker",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

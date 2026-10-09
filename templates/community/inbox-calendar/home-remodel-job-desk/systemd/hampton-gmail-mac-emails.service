@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hampton-gmail-mac-emails (Home Remodel Job Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/home-remodel-job-desk
+ExecStart=/usr/bin/env pi -p "/hampton-gmail-mac-emails"

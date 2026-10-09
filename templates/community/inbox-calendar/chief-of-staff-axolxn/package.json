@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-chief-of-staff-axolxn",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Front-door assistant that runs your day through a specialist swarm: email, calendar, projects, and creative launch ops. You talk to one bot; it delegates the rest.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "axOL-NZLrI_7T-ow1mp6A",
+    "url": "https://x.ai/bot/axOL-NZLrI_7T-ow1mp6A",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Mike Glass",
+    "creatorHandle": "RealMikeGlass",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

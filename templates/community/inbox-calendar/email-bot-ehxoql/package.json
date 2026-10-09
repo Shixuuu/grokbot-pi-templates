@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-email-bot-ehxoql",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A friendly Gmail assistant that sends you a daily summary of the emails that actually matter and drafts replies for you to review and send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Eh-OqlRNqTiMZcAqhwa5l",
+    "url": "https://x.ai/bot/Eh-OqlRNqTiMZcAqhwa5l",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "degen4lyfe_",
+    "creatorHandle": "degen4lyfe_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

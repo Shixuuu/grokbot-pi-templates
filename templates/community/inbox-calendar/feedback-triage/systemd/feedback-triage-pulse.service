@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine feedback-triage-pulse (Feedback Triage)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/feedback-triage
+ExecStart=/usr/bin/env pi -p "/feedback-triage-pulse"

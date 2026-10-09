@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Intercom",
+      "pluginId": "49339690",
+      "description": "Search conversations, contacts, and Help Center articles."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Slack MCP server. Search channels, send messages, and perform other Slack actions through MCP-compatible clients."
+    },
+    {
+      "name": "Stripe",
+      "pluginId": "408",
+      "description": "Stripe plugin for Cursor to help with Stripe integrations including best practices, API/SDK upgrade guidance, and the Stripe MCP server."
+    }
+  ]
+}

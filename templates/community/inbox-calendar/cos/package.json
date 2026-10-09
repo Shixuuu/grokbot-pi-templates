@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-cos",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal chief of staff for people who run a small team of specialist AI agents. Coordinates calendar, projects, and inbound mail, runs weekday standup plus a private morning brief, and never sends messages as you unless you ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eiVFbd0nIdH2gzSwHOs0D",
+    "url": "https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "A-A-ron",
+    "creatorHandle": "theaaron",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

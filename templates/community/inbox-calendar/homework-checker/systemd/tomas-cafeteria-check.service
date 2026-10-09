@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tomas-cafeteria-check (Homework Checker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homework-checker
+ExecStart=/usr/bin/env pi -p "/tomas-cafeteria-check"

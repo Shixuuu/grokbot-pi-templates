@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine day-before-homework-texts-3-30pm
+
+[Timer]
+OnCalendar=*-*-* 15:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

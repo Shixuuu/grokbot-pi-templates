@@ -1,0 +1,7 @@
+# Inbox Zero
+
+**Title:** Inbox Zero
+
+Weekday Gmail inbox-zero assistant. Archives noise, files notes, receipts, and docs, and leaves only action mail unread.
+
+Seed memories (rules and facts from the template) are in `MEMORY.md` in this folder. Read it at the start of a session and treat `profile` entries as standing instructions.

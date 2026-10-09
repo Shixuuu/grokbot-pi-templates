@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine inbox-digest (Chop Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chop-bot-3ityji
+ExecStart=/usr/bin/env pi -p "/inbox-digest"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine spring-home-maintenance (Handyman)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/handyman
+ExecStart=/usr/bin/env pi -p "/spring-home-maintenance"

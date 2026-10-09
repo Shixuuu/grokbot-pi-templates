@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 248ec5b7-f8d9-5dee-b206-04908c729aaa (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-ovsjxs
+ExecStart=/usr/bin/env pi -p "/248ec5b7-f8d9-5dee-b206-04908c729aaa"

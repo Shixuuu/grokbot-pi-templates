@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gamblor-daily-10-edge (Prime)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/prime
+ExecStart=/usr/bin/env pi -p "/gamblor-daily-10-edge"

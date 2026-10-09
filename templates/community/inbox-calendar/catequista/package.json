@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-catequista",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Catechesis co-pilot for Confirmation with Latino youth. Builds bilingual session calendars, .ics feeds, parish collab pages, and formation tips — pastoral, organized, and careful with privacy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lfW64Wu94Jy2mnFF2v_ZX",
+    "url": "https://x.ai/bot/lfW64Wu94Jy2mnFF2v_ZX",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Manuel Avitia",
+    "creatorHandle": "MAvitia85",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

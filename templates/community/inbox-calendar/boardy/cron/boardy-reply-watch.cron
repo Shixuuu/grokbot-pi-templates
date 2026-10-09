@@ -1,0 +1,5 @@
+# Routine "Boardy reply watch": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Short-lived watch that runs every 5 minutes while a request to Boardy is waiting on his reply, so the answer reaches the owner fast.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/boardy && pi -p "/boardy-reply-watch"

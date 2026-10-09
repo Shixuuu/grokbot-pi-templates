@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-botman",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A detective bot that vets your followers, DMs, lists, and inbox, writes evidence-backed case files, and catches scammers, bots, and impersonators. Starts in approval mode, so nothing is blocked without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZsgeyFyAlUtxHbRgDBZqx",
+    "url": "https://x.ai/bot/ZsgeyFyAlUtxHbRgDBZqx",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "JakeFromStarstruck.",
+    "creatorHandle": "Rune_King_Jake",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

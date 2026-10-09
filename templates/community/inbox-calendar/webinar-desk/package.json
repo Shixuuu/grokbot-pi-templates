@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-webinar-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds, registers for, silently attends, and summarizes high-signal webinars you care about. You choose the interest lanes. Uses a dedicated AgentMail inbox, asks before registering, and delivers a short 5-part brief after each session.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n0v3TatpnoYff_4ybSWmK",
+    "url": "https://x.ai/bot/n0v3TatpnoYff_4ybSWmK",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Mat Young",
+    "creatorHandle": "Ispider",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

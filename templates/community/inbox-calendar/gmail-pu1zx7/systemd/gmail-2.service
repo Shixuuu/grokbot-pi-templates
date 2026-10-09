@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gmail-2 (Gmail朝の仕分け)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gmail-pu1zx7
+ExecStart=/usr/bin/env pi -p "/gmail-2"

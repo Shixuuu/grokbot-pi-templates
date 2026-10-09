@@ -1,0 +1,3 @@
+# Routine "Boardy inbox relay" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+12 9,13,18 * * 1-5 cd /path/to/boardy && pi -p "/boardy-inbox-relay"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-review (Family HQ)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/family-hq
+ExecStart=/usr/bin/env pi -p "/weekly-review"

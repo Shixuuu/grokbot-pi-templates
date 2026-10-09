@@ -1,0 +1,3 @@
+# Routine "Live work pulse" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8,12,16 * * * cd /path/to/prime && pi -p "/live-work-pulse"

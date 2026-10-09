@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-gmail-triage (mailer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mailer
+ExecStart=/usr/bin/env pi -p "/weekday-gmail-triage"

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-shipped-check
+
+[Timer]
+OnCalendar=Fri *-*-* 15:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

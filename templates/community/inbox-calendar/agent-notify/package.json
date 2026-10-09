@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-agent-notify",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Free email alerts, only when something matters. Emails only you, can't read your inbox. One-click Cloudflare deploy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "alHx8zJA0xXEN8FT1HDAc",
+    "url": "https://x.ai/bot/alHx8zJA0xXEN8FT1HDAc",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Cyris",
+    "creatorHandle": "SudoLabsNZ",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

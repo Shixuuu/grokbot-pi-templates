@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-meeting-brief",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Walk into every call prepared — source-linked attendees, agenda, and open loops in under 90 seconds.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JN9e1WggIKVWhCEZrySlj",
+    "url": "https://x.ai/bot/JN9e1WggIKVWhCEZrySlj",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Komil Jon Ataev",
+    "creatorHandle": "Limok_igit",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

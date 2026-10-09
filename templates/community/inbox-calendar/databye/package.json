@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-databye",
+  "version": "1.0.14",
+  "private": true,
+  "description": "Borra o limita tus datos en España. Habla en español. Conecta Gmail u Outlook y envía peticiones RGPD oficiales.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-M2E0mNqSbuPgYBEtU-Oa",
+    "url": "https://x.ai/bot/-M2E0mNqSbuPgYBEtU-Oa",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "686f6c61",
+    "creatorHandle": "686f6c61",
+    "activeVersion": 14,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

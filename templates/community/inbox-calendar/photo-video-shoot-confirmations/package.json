@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-photo-video-shoot-confirmations",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Weather-aware shoot confirmations for photographers, videographers, and drone pilots. Emails each client 48 hours before an on-location shoot with an hour-by-hour forecast, then watches replies and drafts reschedule options.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iduDVp02VHu06-XddxcSD",
+    "url": "https://x.ai/bot/iduDVp02VHu06-XddxcSD",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Timothy Fleming",
+    "creatorHandle": "TimFPhotography",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,11 @@
+# Connectors
+
+The Grok Bot template uses these plugins. Pi doesn't install them. If you want the same access, add an MCP server for each one (`pi mcp add <name> ...` or `.pi/mcp.json`, see https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/mcp.md). Credentials were never part of the template.
+
+| Plugin | Grok plugin id | What the template says it is for |
+| --- | --- | --- |
+| Gmail | `45893410` | Search, read, draft, and manage email. |
+| Google Calendar | `45893411` | Search events and schedule meetings. |
+| Navan | `50103284` | Query expenses, travel bookings, policies, and cards. |
+| Phishing inbox scan | `50378433` | Use when scanning Gmail (or similar) for phishing risk — spoofed senders, urgent money/credential asks, odd links, unexpected attachments. Alert-only; quiet when clean. |
+| Flight check-in | `51161013` | Once-daily scan for flights whose check-in opens in ~24h; spawn a one-shot at open+1m, else sleep until tomorrow. |

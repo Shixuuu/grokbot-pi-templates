@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-porter",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Files dumps and inbox notes into your Obsidian vault—door, frontmatter, and path. Part of the Obsidian Vault Kit with Groundskeeper (hygiene) and Quill (craft).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sy364bgoJN8Rb5vZo4Abo",
+    "url": "https://x.ai/bot/sy364bgoJN8Rb5vZo4Abo",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "John Koisch",
+    "creatorHandle": "the_simonjester",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-digest (MarketBoxScan)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/marketboxscan
+ExecStart=/usr/bin/env pi -p "/morning-digest"

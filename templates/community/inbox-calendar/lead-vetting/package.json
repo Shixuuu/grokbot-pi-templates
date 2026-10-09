@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lead-vetting",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Vets collaboration and consulting leads from a watched inbox, writes a one-page fit brief, and DMs you a 5-bullet decision summary on Slack.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eEfAacXdtzHANV5hVhG6o",
+    "url": "https://x.ai/bot/eEfAacXdtzHANV5hVhG6o",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Growth Lab",
+    "creatorHandle": "Anze Voje",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

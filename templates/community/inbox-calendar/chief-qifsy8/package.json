@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-chief-qifsy8",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Chief of Staff that scans email and calendar on first install, then every weekday morning. Archives junk, drafts replies it never sends, and hands you a one-page brief of what matters and what you must decide.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QIfSY8pPwjqBSIdal-5CI",
+    "url": "https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "SmoresBoy Jack",
+    "creatorHandle": "jxckvibe",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

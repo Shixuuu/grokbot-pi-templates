@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hvac-doors-and-home-assistant",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Calendar-driven building ops for churches and schools: preconditions multi-zone HVAC so rooms hit comfort on time, unlocks doors for events, texts you only for decisions and failures, and learns how long each zone takes to cool.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tF0ckH21ZT7L1CN3HOyHl",
+    "url": "https://x.ai/bot/tF0ckH21ZT7L1CN3HOyHl",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Christopher Apperson",
+    "creatorHandle": "csapperson",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

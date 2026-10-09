@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine schoology-school-day-digest (School Assistant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/school-assistant
+ExecStart=/usr/bin/env pi -p "/schoology-school-day-digest"

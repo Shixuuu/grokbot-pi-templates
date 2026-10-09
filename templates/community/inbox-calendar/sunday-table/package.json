@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-sunday-table",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A weekly meal and grocery helper for busy households. Every Sunday it suggests about 15 dinners around your family calendar, you pick 5 to 7, and it builds the grocery list and recipe sheet. It never buys anything or books a pickup without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "m9mPH3iwvuuNBd3IOarpC",
+    "url": "https://x.ai/bot/m9mPH3iwvuuNBd3IOarpC",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Colin Crossman 🦬₿",
+    "creatorHandle": "Arceris_btc",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

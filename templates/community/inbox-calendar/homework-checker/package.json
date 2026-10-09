@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-homework-checker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday after-school recap of a student’s missing work and grades, plus day-before homework texts and calendar reminders. Built for parents who want a clear phone update without digging through the school portal.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BUwa-zYgc9_ScRyfGAns_",
+    "url": "https://x.ai/bot/BUwa-zYgc9_ScRyfGAns_",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "chicho",
+    "creatorHandle": "guichaves1989",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

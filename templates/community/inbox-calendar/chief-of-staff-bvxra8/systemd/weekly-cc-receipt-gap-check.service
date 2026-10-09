@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-cc-receipt-gap-check (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-bvxra8
+ExecStart=/usr/bin/env pi -p "/weekly-cc-receipt-gap-check"

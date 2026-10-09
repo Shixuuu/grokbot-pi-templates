@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Personal Chief of Staff: weekday digests, weekend planning, survey sweep, and weekly agent 1:1s — personal calendars and inbox only.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_5t0lsT2HS4bKcnreL2sN",
+    "url": "https://x.ai/bot/_5t0lsT2HS4bKcnreL2sN",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Edgar Ortiz",
+    "creatorHandle": "ehog",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

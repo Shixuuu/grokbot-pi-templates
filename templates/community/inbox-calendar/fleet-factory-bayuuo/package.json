@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fleet-factory-bayuuo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday ops finish-line for a multi-bot desk: calendar, inbox, and open work. Pings only when something moved; quiet otherwise. Stages outbound for your approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BAYUUoTHAtiILmNu1jM3y",
+    "url": "https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Drew",
+    "creatorHandle": "SacredFolio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

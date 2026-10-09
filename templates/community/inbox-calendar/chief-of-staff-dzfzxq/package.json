@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-chief-of-staff-dzfzxq",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Single front door for a construction PM or superintendent shop. Reads mail and calendar, delegates to specialist desks, and never sends or buys without your approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dZfz-QuarMKqQo_mdPhbb",
+    "url": "https://x.ai/bot/dZfz-QuarMKqQo_mdPhbb",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Ryan J Roggy",
+    "creatorHandle": "RoggyRyan",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

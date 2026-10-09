@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-newsletter-re-scan (Newsletter Cleanup)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/newsletter-cleanup
+ExecStart=/usr/bin/env pi -p "/monthly-newsletter-re-scan"

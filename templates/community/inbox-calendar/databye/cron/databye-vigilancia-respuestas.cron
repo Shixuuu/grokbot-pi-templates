@@ -1,0 +1,3 @@
+# Routine "DataBye vigilancia respuestas" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+32 9 * * 1-5 cd /path/to/databye && pi -p "/databye-vigilancia-respuestas"

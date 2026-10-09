@@ -1,0 +1,3 @@
+# Routine "Afternoon school collect" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 15 * * 1-5 cd /path/to/homebase-wz7amx && pi -p "/afternoon-school-collect"

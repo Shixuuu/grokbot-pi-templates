@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-teslaway",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds used Teslas near a postal/ZIP code in any country, then emails a short list of matching listings. For anyone hunting a Model 3, Y, X, or S without the sales noise.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HoG3J3B0g4fjKr54aA5tP",
+    "url": "https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ixdesigner",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

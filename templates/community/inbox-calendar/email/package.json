@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-email",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Protects your attention in email — ruthless triage, drafts the few replies that matter, never sends without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BFjaZlR93AzcnDagMhktC",
+    "url": "https://x.ai/bot/BFjaZlR93AzcnDagMhktC",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Andrew Kittridge",
+    "creatorHandle": "Andrew Kittridge",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

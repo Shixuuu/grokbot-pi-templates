@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine undo-watch (UNDO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/undo
+ExecStart=/usr/bin/env pi -p "/undo-watch"

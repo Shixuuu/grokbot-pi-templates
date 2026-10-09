@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-tenderyearsbot",
+  "version": "1.0.25",
+  "private": true,
+  "description": "Surfaces kids-under-5 household logistics from Gmail, Calendar, and Tender Years when connected: pre-reader family paper, weekday digest, Sunday weekly preview, Friday weekend preview, and a sitter sheet when a babysitting window shows up. Must work on Gmail and Calendar alone. Tender Years amplifi…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o7VRdRSxHvBEYbzkJQm07",
+    "url": "https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Liz Voeller",
+    "creatorHandle": "voeliz",
+    "activeVersion": 25,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

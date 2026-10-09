@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-follow-up-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns the people you meet at events into warm, personal follow-ups by email or X DM that you approve, then reminds you when a thread goes quiet. Good for founders, sales folks, and anyone who networks a lot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9X3XAP55-_L_47wFmH-jf",
+    "url": "https://x.ai/bot/9X3XAP55-_L_47wFmH-jf",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Day Bliss",
+    "creatorHandle": "day__bliss",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

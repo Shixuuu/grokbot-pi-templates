@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill",
+  "version": "1.0.3",
+  "private": true,
+  "description": "네이버와 Gmail을 매일 아침 짧게 정리하고, 결제·보안 리스크만 요약해 알려주는 메일 정리 봇.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gLV5mUN4vqHFKsCSn_DTO",
+    "url": "https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "초코넛밀크티",
+    "creatorHandle": "choko_milkty",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

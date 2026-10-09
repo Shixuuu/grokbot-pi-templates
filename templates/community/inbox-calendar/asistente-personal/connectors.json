@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Outlook",
+      "pluginId": "57302029",
+      "description": "Search, read, and send Microsoft Outlook email, and look up contacts."
+    },
+    {
+      "name": "Teams",
+      "pluginId": "63354504",
+      "description": "Search, read, and send Microsoft Teams chats and channel messages."
+    },
+    {
+      "name": "OneDrive",
+      "pluginId": "57302028",
+      "description": "Browse, search, and read Microsoft OneDrive files."
+    }
+  ]
+}

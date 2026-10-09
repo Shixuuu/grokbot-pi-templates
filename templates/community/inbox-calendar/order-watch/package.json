@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-order-watch",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Monitors a connected email account for packages that are out for delivery, delayed, awaiting action, or delivered. Stays quiet unless something needs attention.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5tvkGcgMHWuUkCBvH2od-",
+    "url": "https://x.ai/bot/5tvkGcgMHWuUkCBvH2od-",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Gokulakrishnan Kalaikovan",
+    "creatorHandle": "Gokul",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

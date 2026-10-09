@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-still-open (Done)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/done
+ExecStart=/usr/bin/env pi -p "/evening-still-open"

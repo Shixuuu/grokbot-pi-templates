@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-winback-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds customers who quit in the last 6 months and drafts personal win-back and exit-feedback emails for your approval. Overnight, it groups their reasons into a 5-step plan to keep the next ones. Nothing sends without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jbZ6e5CtU019W0wvZrhdl",
+    "url": "https://x.ai/bot/jbZ6e5CtU019W0wvZrhdl",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Screaming Chicken",
+    "creatorHandle": "Screaming_Chkn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

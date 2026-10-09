@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Box",
+      "pluginId": "1092",
+      "description": "Box Plugin for Cursor — search, read, and manage content in Box, build Box Platform integrations, and leverage Box AI for Q&A, summarization, and extraction via the Box MCP server."
+    }
+  ]
+}

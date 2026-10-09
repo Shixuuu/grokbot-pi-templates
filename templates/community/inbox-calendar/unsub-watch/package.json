@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-unsub-watch",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick checkboxes with the email and a short note, and banks, schools, receipts, 2FA, shipping, and paid billing are never touched.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dJjPoIEgbdqwMkbeQNJWU",
+    "url": "https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "ʞɔɐz",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

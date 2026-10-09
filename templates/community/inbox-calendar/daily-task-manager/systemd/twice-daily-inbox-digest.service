@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine twice-daily-inbox-digest (Daily Task Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/daily-task-manager
+ExecStart=/usr/bin/env pi -p "/twice-daily-inbox-digest"

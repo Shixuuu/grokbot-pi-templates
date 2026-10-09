@@ -1,0 +1,3 @@
+# Routine "Pre-digest Receive gather" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+50 6-20 * * 1-5 cd /path/to/inbot && pi -p "/pre-digest-receive-gather"

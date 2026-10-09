@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine csat-satisfaction-report (Customer Support Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/customer-support-desk
+ExecStart=/usr/bin/env pi -p "/csat-satisfaction-report"

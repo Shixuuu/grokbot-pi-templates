@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nightly-gmail-slack-digest (Hedwig)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hedwig
+ExecStart=/usr/bin/env pi -p "/nightly-gmail-slack-digest"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine customer-inquiry-monitor (Customer Service)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/customer-service
+ExecStart=/usr/bin/env pi -p "/customer-inquiry-monitor"

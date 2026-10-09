@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-unnamed-skill-px0lxi",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Grok Build로 행사 참석 확인 폼을 만들어 grok.me에 배포하고, 제출 내용을 내 이메일로 받으며, 참석자가 휴대폰으로 스캔할 QR코드까지 만들어 주는 봇이에요. 밋업이나 행사를 여는 주최자를 위한 봇입니다.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "p-0lxiUJj0Ws8_w7rDiCi",
+    "url": "https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Brandon Chung",
+    "creatorHandle": "head77x",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

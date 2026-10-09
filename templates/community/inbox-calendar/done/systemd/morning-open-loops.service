@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-open-loops (Done)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/done
+ExecStart=/usr/bin/env pi -p "/morning-open-loops"

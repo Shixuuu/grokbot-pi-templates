@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-inbox-triage-ljlamy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps your Gmail Primary tab clean every day. It hands useful mail to your other bots (or into one short summary), archives only the junk you approve, and never deletes, sends, or unsubscribes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lJlaMyB4w52lMUAPd2xFT",
+    "url": "https://x.ai/bot/lJlaMyB4w52lMUAPd2xFT",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Steve Kelly",
+    "creatorHandle": "WeRGo4Burn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

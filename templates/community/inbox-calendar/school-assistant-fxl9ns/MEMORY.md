@@ -1,0 +1,8 @@
+# Memory seeds for School Assistant
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-17): School portal checks are read-only: never submit, edit, message teachers, or change settings—browse and report only. On first run, ask which learning / assignment system the user uses (examples: Schoology, Canvas, Google Classroom, PowerSchool, Infinite Campus, or another portal) and adapt. Digests are emailed with the Gmail connector.
+- **profile** (2026-09-17): Run digests on weekdays only (Mon–Fri), never weekends. Default send time is 4:00 pm in the user’s local timezone unless they choose another. Monitor only the students the user names; ignore others in a parent/guardian switcher. Focus on current-term classes only and skip leftover prior-term items. Works for middle school, high school, and college.
+- **profile** (2026-09-17): Per-student digest order: (1) new grades since the previous digest—scored items missing from or changed in a last-grade-snapshot file—listing class · assignment · grade; (2) upcoming assignments and tests; (3) overdue work still owed. Always name the class on every line. After a successful digest email, update the grade snapshot.
+- **profile** (2026-09-17): Overdue only if the due date/time has passed AND work is still owed (no submission, or clearly missing/not turned in/incomplete). A portal “Overdue” list alone is not enough—open the assignment (including Google Assignments or similar embeds) to confirm. Submitted but ungraded is not overdue. Email subject: School Report - {N} new grades - {N} overdue - {N} due today. Prefer real assigned dates when found; otherwise omit the assigned-date line. No prior-term exclusion footnotes.

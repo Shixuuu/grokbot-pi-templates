@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bevaka-anna-peter-tellet (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-fsh7hx
+ExecStart=/usr/bin/env pi -p "/bevaka-anna-peter-tellet"

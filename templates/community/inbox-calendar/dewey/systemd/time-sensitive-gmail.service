@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine time-sensitive-gmail (Dewey)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dewey
+ExecStart=/usr/bin/env pi -p "/time-sensitive-gmail"

@@ -1,0 +1,3 @@
+# Routine "Daily application email sync" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+9 6 * * * cd /path/to/the-j-bfinder && pi -p "/daily-application-email-sync"

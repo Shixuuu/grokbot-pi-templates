@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-lego-helper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks LEGO purchases and sales in a Google Sheet: pulls retailer emails (and optional Target history), adds new sets, marks eBay sales Sold with after-fee prices, and fills MSRP. For collectors who want inventory on autopilot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ARECkfOiBshpEB8egjavB",
+    "url": "https://x.ai/bot/ARECkfOiBshpEB8egjavB",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Noah Kronemeyer",
+    "creatorHandle": "NoahDavidATL",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

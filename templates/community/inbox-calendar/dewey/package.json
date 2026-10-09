@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-dewey",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches Gmail and pings you when a message looks time-sensitive or needs a reply. Reads freely; never sends, replies, or trashes mail unless you ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rfAHsaFrz6xHBMtUpxDi5",
+    "url": "https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "William Moragne",
+    "creatorHandle": "Vixlio",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-echo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Promise ledger for people who live in email. Mines what you already committed to, briefs what’s overdue or due soon, drafts follow-through or renegotiation, and soft-declines new asks when your plate is full — never sends without you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wK-G2hIgm7RXObI7z1P14",
+    "url": "https://x.ai/bot/wK-G2hIgm7RXObI7z1P14",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "6 of 9",
+    "creatorHandle": "ou812iou4sure",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-jobby",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Jobs finder for your area. Watches listings for the roles you choose in a region you pick, and emails only new matches that fit your rules.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DYg0r1xvzy_xxPeRGHcHE",
+    "url": "https://x.ai/bot/DYg0r1xvzy_xxPeRGHcHE",
+    "official": false,
+    "category": "inbox-calendar",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ixdesigner",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

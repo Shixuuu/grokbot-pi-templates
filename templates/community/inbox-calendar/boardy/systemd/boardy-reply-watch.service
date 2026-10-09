@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine boardy-reply-watch (Boardy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/boardy
+ExecStart=/usr/bin/env pi -p "/boardy-reply-watch"
