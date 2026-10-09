@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-unnamed-skill",
+  "version": "1.0.1",
+  "private": true,
+  "description": "帮你把睡眠、运动、饮食节奏、减脂记录和体检提醒管起来的中文助手。随口报吃喝体重它就记下，口吻温和、短、不说教。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pUabqJa_ch2WgbRi5JJvi",
+    "url": "https://x.ai/bot/pUabqJa_ch2WgbRi5JJvi",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "shubin zhang",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

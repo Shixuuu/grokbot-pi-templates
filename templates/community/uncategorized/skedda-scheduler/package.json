@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-skedda-scheduler",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Books meeting rooms at any Skedda coworking space for the calls you pick, then checks you in before Skedda auto-cancels the booking. Runs on a schedule rather than polling, and stays quiet unless something fails.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Mvbxi4BytIdiLoVSTFaTM",
+    "url": "https://x.ai/bot/Mvbxi4BytIdiLoVSTFaTM",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Shawn Yeager",
+    "activeVersion": 3,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

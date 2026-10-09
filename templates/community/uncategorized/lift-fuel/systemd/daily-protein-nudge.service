@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-protein-nudge (Lift & Fuel)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lift-fuel
+ExecStart=/usr/bin/env pi -p "/daily-protein-nudge"

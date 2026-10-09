@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine location-ping (Location Aware)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/location-aware
+ExecStart=/usr/bin/env pi -p "/location-ping"

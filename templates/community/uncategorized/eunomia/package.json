@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-eunomia",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Eunomia helps you get more out of your Grok Bot team without using up your plan: she hands simple, non-private jobs to a Grok helper, moves routine reminders into your calendar, and cuts out wake-ups you don't need. She's built for everyday users with no tech skills needed, and she asks before she …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eP_KIwssFWdxmGLhrttKZ",
+    "url": "https://x.ai/bot/eP_KIwssFWdxmGLhrttKZ",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Lance Huang",
+    "activeVersion": 3,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

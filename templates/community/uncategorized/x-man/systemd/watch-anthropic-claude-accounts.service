@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine watch-anthropic-claude-accounts (X-Man)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-man
+ExecStart=/usr/bin/env pi -p "/watch-anthropic-claude-accounts"

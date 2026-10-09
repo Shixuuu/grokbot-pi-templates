@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine genealogy-keep-alive-never-idle
+
+[Timer]
+OnCalendar=*-*-* 07,13:14:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

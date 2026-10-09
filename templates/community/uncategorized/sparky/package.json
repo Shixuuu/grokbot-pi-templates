@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-sparky",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Plant-floor electrician bot: pulls machine drawings from Drive, caches big schematics, and drops zoomable PDF pages in chat for real troubleshooting.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mpJi3Xiu2w4FAN7y5P5jd",
+    "url": "https://x.ai/bot/mpJi3Xiu2w4FAN7y5P5jd",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Zack Edwards",
+    "activeVersion": 4,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

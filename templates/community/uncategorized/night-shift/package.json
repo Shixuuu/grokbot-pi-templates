@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-night-shift",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A quiet overnight steward that nudges all your other bots each night to stay usage-efficient and tidy their browser tabs and scratch files, and only speaks up when something's actually wrong.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SLLBNwseegBForG62KVRC",
+    "url": "https://x.ai/bot/SLLBNwseegBForG62KVRC",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Amanda Moore",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

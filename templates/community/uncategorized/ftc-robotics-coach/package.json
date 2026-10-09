@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-ftc-robotics-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Coaches an FTC robotics skills program: training guides, knowledge quizzes, mentor practicals, and Drive organization. Built for mentors who want Learn → Prove → Claim workflows without busywork.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VmDWjRQam_YHnmwvQ9iuY",
+    "url": "https://x.ai/bot/VmDWjRQam_YHnmwvQ9iuY",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Nick Zircher",
+    "activeVersion": 1,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

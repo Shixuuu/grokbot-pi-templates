@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-close-loop",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A million questions asked, but were they all answered? Close Loop keeps a ledger of every bot promise and floating answer, finds the small block that stalled the team, and keeps work moving until each open item is cleared with accountability.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZHSf2xajDZF6vZGyRC8eP",
+    "url": "https://x.ai/bot/ZHSf2xajDZF6vZGyRC8eP",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Kris",
+    "activeVersion": 3,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

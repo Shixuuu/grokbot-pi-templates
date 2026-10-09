@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-send-to-kindle",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns Google Docs, articles, and files into EPUBs and emails them to your Kindle from your Gmail, and checks with you before every send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IJPTTz1XGwaTQlfo6Zi4-",
+    "url": "https://x.ai/bot/IJPTTz1XGwaTQlfo6Zi4-",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Brian Lu",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

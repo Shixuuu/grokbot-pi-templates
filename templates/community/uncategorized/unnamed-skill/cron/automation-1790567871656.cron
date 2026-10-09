@@ -1,0 +1,3 @@
+# Routine "周日入睡与减脂小结" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+57 20 * * 0 cd /path/to/unnamed-skill && pi -p "/automation-1790567871656"

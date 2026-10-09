@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-location-aware",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Make your Grok Bot location aware. iPhone Shortcuts automations ping it when you arrive, leave, get in the car or wake up, and you decide what it does with that, while your location stays private.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "f2FSMclpHel2RsD7j5R3E",
+    "url": "https://x.ai/bot/f2FSMclpHel2RsD7j5R3E",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Stephen Bolger",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

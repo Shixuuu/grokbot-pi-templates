@@ -1,0 +1,30 @@
+{
+  "name": "grokbot-owl",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A calm, dry-witted personal manager and life-order coach. It tidies your mail and projects, parks the noise, and gives you one next step at a time in phone-length messages. Good for anyone with a busy mind and a messy to-do pile.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lMGxli1bCAdof_EqRRdvH",
+    "url": "https://x.ai/bot/lMGxli1bCAdof_EqRRdvH",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

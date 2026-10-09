@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-grok-voice-continuity-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Keeps your Grok Voice persona caught up: once a day, if you talked, it seeds a fresh grok.com chat with a lean recap, renames it and pins it. Needs your signed-in Grok account in the bot's browser (no password stored); old-chat cleanup is optional and off by default.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "X1860xFKBP7q5uPB_dsOz",
+    "url": "https://x.ai/bot/X1860xFKBP7q5uPB_dsOz",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "James Klingler",
+    "activeVersion": 2,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

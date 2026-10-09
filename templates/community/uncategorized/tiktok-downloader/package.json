@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-tiktok-downloader",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a TikTok link and get the video, or just its audio, saved straight to your computer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "d-8Ufl3xjScgPS7putqr7",
+    "url": "https://x.ai/bot/d-8Ufl3xjScgPS7putqr7",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Heidi",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-solvscore",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A live credit desk for AI agents. It pulls trust scores, credit limits, APRs, and real underwriting decisions from SolvScore before you pay, hire, or lend to an agent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fEBImi9N-_B_LMW59m2nM",
+    "url": "https://x.ai/bot/fEBImi9N-_B_LMW59m2nM",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Shawn Lippert",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

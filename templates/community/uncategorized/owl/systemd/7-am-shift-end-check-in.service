@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 7-am-shift-end-check-in (Owl)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/owl
+ExecStart=/usr/bin/env pi -p "/7-am-shift-end-check-in"

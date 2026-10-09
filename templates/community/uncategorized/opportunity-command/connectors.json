@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Tavily",
+      "pluginId": "3165",
+      "description": "Web search, content extraction, crawling, deep research, and URL discovery. MCP tools plus skills; CLI for terminal agents."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Search, read, create, and share files."
+    },
+    {
+      "name": "Google Docs",
+      "pluginId": "45893412",
+      "description": "Read, create, and edit documents."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "45893414",
+      "description": "Read, write, and append spreadsheet data."
+    }
+  ]
+}

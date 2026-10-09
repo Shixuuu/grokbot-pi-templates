@@ -1,0 +1,30 @@
+{
+  "name": "grokbot-hormones-woman",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A warm, plain-spoken guide to women's hormones. It helps you understand your cycle, sleep, mood, energy, perimenopause, fertility, and birth control, and helps you get ready for labs and doctor visits.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zZr88f32ojF8OBvLSZ8V7",
+    "url": "https://x.ai/bot/zZr88f32ojF8OBvLSZ8V7",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

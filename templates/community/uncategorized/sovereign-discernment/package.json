@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-sovereign-discernment",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Examines extraordinary, spiritual, historical, scientific, viral, or controversial claims without reflexively believing or dismissing them. Makes the evidence structure visible so you can think more clearly.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0EPl4hGRjKUqGhDpr44sa",
+    "url": "https://x.ai/bot/0EPl4hGRjKUqGhDpr44sa",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Evariel, FlameBeacon",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

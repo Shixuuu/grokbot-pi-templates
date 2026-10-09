@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-timber",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Built by Glidewell Labs. A yard and tree-care planner that tells you what your lawn, trees, and garden need and when, with one short note a week. It reads your yard photos and flags anything hazardous for a certified arborist.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aXd23Y92YukH8W2Kj7pye",
+    "url": "https://x.ai/bot/aXd23Y92YukH8W2Kj7pye",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Cat DittieDat",
+    "activeVersion": 6,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

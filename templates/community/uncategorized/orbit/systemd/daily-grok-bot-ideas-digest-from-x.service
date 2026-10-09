@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-grok-bot-ideas-digest-from-x (Orbit)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/orbit
+ExecStart=/usr/bin/env pi -p "/daily-grok-bot-ideas-digest-from-x"

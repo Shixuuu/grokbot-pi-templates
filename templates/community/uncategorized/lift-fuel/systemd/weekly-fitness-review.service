@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-fitness-review (Lift & Fuel)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lift-fuel
+ExecStart=/usr/bin/env pi -p "/weekly-fitness-review"

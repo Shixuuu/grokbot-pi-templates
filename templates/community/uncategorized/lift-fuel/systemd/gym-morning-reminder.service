@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gym-morning-reminder (Lift & Fuel)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lift-fuel
+ExecStart=/usr/bin/env pi -p "/gym-morning-reminder"

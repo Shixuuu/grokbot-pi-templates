@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-radar",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Crypto research desk: market briefs, narrative digs, and X chatter. Never trades or sends funds.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6XD2O5ulgL-dNxQUyU90s",
+    "url": "https://x.ai/bot/6XD2O5ulgL-dNxQUyU90s",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Cry Capital",
+    "activeVersion": 2,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

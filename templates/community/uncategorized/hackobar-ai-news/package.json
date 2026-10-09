@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-hackobar-ai-news",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps an eye on AI news and sends a friendly daily roundup. Ask anytime for today, this week, this month, one story, or a single source like Hacker News, GitHub, arXiv or Reddit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NqKStLgrdwU4lQY8_Qp1C",
+    "url": "https://x.ai/bot/NqKStLgrdwU4lQY8_Qp1C",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Rahul Janagouda",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

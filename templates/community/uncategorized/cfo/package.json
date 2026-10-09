@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-cfo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches token usage across your Grok Bot army, flags tasks that look expensive, and cuts off unreasonable burn. Not a personal-finance bot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_eLwi7ul7T9Bs_fXvB4Ha",
+    "url": "https://x.ai/bot/_eLwi7ul7T9Bs_fXvB4Ha",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Davor Babić",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

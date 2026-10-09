@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-buy-or-skip",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Buy or Skip tells you whether a product is worth buying right now. You paste a product link or name, and it returns one verdict: BUY, WAIT, or SKIP. That is its only job. Job: For each product it opens the product page and reads the current price, seller, and rating. It reads the 1 to 3 star review…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dKULJ5f9nPf6_fVn5aGK4",
+    "url": "https://x.ai/bot/dKULJ5f9nPf6_fVn5aGK4",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "saikrishna uppaluri",
+    "activeVersion": 2,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

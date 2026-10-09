@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-agentstore",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A store desk for AgentPayStore, the marketplace of paid AI agents. It searches the live catalog, compares agents and prices, and shows sample responses so you can vet an agent before you buy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4PhRfCEk25OlY9hwAkXj4",
+    "url": "https://x.ai/bot/4PhRfCEk25OlY9hwAkXj4",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Shawn Lippert",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

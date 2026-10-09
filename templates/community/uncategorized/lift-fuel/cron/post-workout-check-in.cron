@@ -1,0 +1,3 @@
+# Routine "Post-workout check-in" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+1 9 * * 1,3,5 cd /path/to/lift-fuel && pi -p "/post-workout-check-in"

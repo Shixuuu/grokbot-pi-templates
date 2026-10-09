@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-pa-power-switch-rate-review",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reviews your Pennsylvania electric accounts (PPL and other PA utilities) and tells you whether a retail supplier, default service, or a rate-schedule fix will actually save money. It's solar and net-metering aware, flags teaser rates, and never switches without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jR15cntxPfXRc-kEt2Ytc",
+    "url": "https://x.ai/bot/jR15cntxPfXRc-kEt2Ytc",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Randy Hentz",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

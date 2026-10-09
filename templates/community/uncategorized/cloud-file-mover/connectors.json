@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Dropbox",
+      "pluginId": "53761261",
+      "description": "The Dropbox plugin for Cursor connects your Dropbox files directly to Cursor, so you can search, reference, and organize files, save generated content, and create sharing links - all without switching tools. It respects your existing Dropbox permissions, and Cursor only works with files you already have access to."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Search, read, create, and share files."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    }
+  ]
+}

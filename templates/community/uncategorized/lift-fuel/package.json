@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-lift-fuel",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Gym and nutrition partner with Google Calendar training reminders, workout check-ins, protein nudges, and weekly reviews.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hOJli2-3VyJs256JXFBWY",
+    "url": "https://x.ai/bot/hOJli2-3VyJs256JXFBWY",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Chidi",
+    "activeVersion": 4,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

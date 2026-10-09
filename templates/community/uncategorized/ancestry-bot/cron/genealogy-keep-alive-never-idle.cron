@@ -1,0 +1,3 @@
+# Routine "Genealogy check-in" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+14 7,13 * * * cd /path/to/ancestry-bot && pi -p "/genealogy-keep-alive-never-idle"

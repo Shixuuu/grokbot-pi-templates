@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-lead-dispatch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A lead bot that does not give advice itself. It triages to specialist seats, runs roundtables on cross-domain asks, and keeps irreversible actions behind human approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nUofhKp_Ij7xXIjnznIoJ",
+    "url": "https://x.ai/bot/nUofhKp_Ij7xXIjnznIoJ",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Mado San",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

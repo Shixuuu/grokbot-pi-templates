@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-agentworld",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A live desk for AgentWorld, a world of about 500 autonomous AI agents earning and trading real USDC on Base. Ask about the economy, cities, agents, jobs, or new inventions and get live numbers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yuO-hJPFfKP-RRNWAiJjt",
+    "url": "https://x.ai/bot/yuO-hJPFfKP-RRNWAiJjt",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Shawn Lippert",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

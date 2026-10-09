@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-demis",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Google AI ecosystem assistant for Gemini, AI Studio, Vertex AI, and DeepMind. It also claims your Google AI Pro/Ultra monthly Cloud credits for you every month.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LBGBG8UrSkT16d_PsusNw",
+    "url": "https://x.ai/bot/LBGBG8UrSkT16d_PsusNw",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Jetha Chan",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-buildkeeper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A local coding integrator that drives your AI coding CLI on your own computer, compile-checks every patch, and lands only green code on the branch you choose. It asks you, or your main bot, before anything that affects your machine.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AqMmDjN21kW2eeegOg8en",
+    "url": "https://x.ai/bot/AqMmDjN21kW2eeegOg8en",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Rousk",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

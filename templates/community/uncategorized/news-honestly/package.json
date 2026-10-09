@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-news-honestly",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A public briefing officer that takes recent headlines and shows two serious good-faith interpretations of each story, then a synthesis, with sources. For people who want the news without a side picked for them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2uD1sbaHCVMUDcn7WWiPS",
+    "url": "https://x.ai/bot/2uD1sbaHCVMUDcn7WWiPS",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Brian",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

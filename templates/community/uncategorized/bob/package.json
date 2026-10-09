@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-bob",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A build project coordinator for owner-builders working nights and weekends. Keeps you on the critical path, runs your trade expert bots, and sends a weekly plan.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "m9Cywb2QyPGZnl4l70aR-",
+    "url": "https://x.ai/bot/m9Cywb2QyPGZnl4l70aR-",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Luke",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-founder-os",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your AI operator for building a real business, from first offer to steady revenue. Finds the one thing capping your revenue, runs the playbook for it, and reviews your numbers with you every week.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QcUllqY5WpAPMMWjWkn71",
+    "url": "https://x.ai/bot/QcUllqY5WpAPMMWjWkn71",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "steven",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

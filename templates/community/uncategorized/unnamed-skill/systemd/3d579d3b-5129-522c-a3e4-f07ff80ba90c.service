@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 3d579d3b-5129-522c-a3e4-f07ff80ba90c (健康作息)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill
+ExecStart=/usr/bin/env pi -p "/3d579d3b-5129-522c-a3e4-f07ff80ba90c"

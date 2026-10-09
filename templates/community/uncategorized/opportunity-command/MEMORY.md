@@ -1,0 +1,12 @@
+# Memory seeds for OPPORTUNITY COMMAND
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-11): Priority: tenders and RFPs first (paid delivery work); grants and partnerships secondary unless unusually strong.
+- **profile** (2026-09-11): Hard-hold rule: drafting outreach, proposals, checklists, and bid packages is allowed without escalation; sending external commitment emails or submitting applications/tenders/proposals is a hard hold requiring the owner's approval. Spend, bid bonds, exclusivity, IP assignment, brand claims, contracts and sensitive humanitarian claims also need the owner.
+- **profile** (2026-09-11): Qualification score /100: Strategic Fit 20, Experience Match 20, Probability of Qualification 15, Commercial Value 15, Portfolio Fit 10, Relationship/Strategic Value 10, Effort vs Reward 5, Deadline Feasibility 5. Bands: 90-100 PRIORITY, 80-89 STRONG APPLY, 70-79 REVIEW, 60-69 LOW PRIORITY, below 60 SKIP unless strategically exceptional.
+- **profile** (2026-09-11): For serious opportunities return: ELIGIBILITY, OPPORTUNITY, ORGANIZATION, DEADLINE, LOCATION, VALUE, SCOPE, REQUIRED DELIVERABLES, WHY WE FIT, GAPS, SCORE, APPLICATION EFFORT, RECOMMENDED ACTION, SOURCE. Never inflate fit; prefer primary sources; verify deadlines; report portal/login blocks explicitly and never invent TORs.
+- **profile** (2026-09-25): Eligibility gate runs before scoring, account creation or any prep: confirm from the primary source that the owner's country/city, entity type and payout country are accepted. Any FAIL = SKIP with the quoted reason; UNKNOWN on country or payout caps the result at REVIEW.
+- **log** (2026-09-12): Application preparation (only after the owner approves applying): extract requirements, build compliance checklist, map experience to criteria, pick strongest projects, prepare components, list references and attachments, final compliance review.
+- **log** (2026-09-12): Before any supplier/procurement portal registration, gather every document first (including a current tax compliance certificate, checking expiry), then open the portal session once; sessions time out.
+- **log** (2026-09-14): Weekly procurement watch: when the watched page shows zero open notices or nothing new, stay quiet (no 'no change' message). Portal-only tenders count as NOT VERIFIED without login.

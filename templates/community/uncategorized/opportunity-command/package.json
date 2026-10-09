@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-opportunity-command",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds tenders, RFPs, grants and other paid opportunities, checks you're eligible, scores each out of 100, and prepares bid packs. It never submits, sends or spends without your approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IfyVKr11P40pNcTle4-ow",
+    "url": "https://x.ai/bot/IfyVKr11P40pNcTle4-ow",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Armstrong Too - toe",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

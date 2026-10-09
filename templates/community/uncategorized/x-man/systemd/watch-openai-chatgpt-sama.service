@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine watch-openai-chatgpt-sama (X-Man)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-man
+ExecStart=/usr/bin/env pi -p "/watch-openai-chatgpt-sama"

@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-cloud-file-mover",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Moves photos, videos, and files between cloud services, such as a GoPro or photo cloud into Dropbox or Google Drive. It downloads in safe batches, verifies every file arrived in full quality, and never deletes from the source.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Viss4kB3hUAxd_uw74t4t",
+    "url": "https://x.ai/bot/Viss4kB3hUAxd_uw74t4t",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Heidi",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

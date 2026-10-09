@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-agentpay",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A live x402 payments desk for anyone building or paying AI agents. It reports real USDC settlements on Base, what a payment costs, whether a wallet can pay an endpoint, and which paid endpoints actually work, with no API keys needed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YDOTctBaX3GWBbzvAVzvY",
+    "url": "https://x.ai/bot/YDOTctBaX3GWBbzvAVzvY",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Shawn Lippert",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

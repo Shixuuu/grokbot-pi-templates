@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-ticket-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste your support tickets or connect your inbox. Ticket Desk flags what's on fire, drafts each reply in your voice from your own docs, and turns the questions your help center can't answer into help-article drafts. It never sends anything without you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "47iWfw0I5xxt6uPqKj52G",
+    "url": "https://x.ai/bot/47iWfw0I5xxt6uPqKj52G",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Screaming Chicken",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

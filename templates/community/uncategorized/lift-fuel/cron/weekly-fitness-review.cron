@@ -1,0 +1,3 @@
+# Routine "Weekly fitness review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+1 18 * * 0 cd /path/to/lift-fuel && pi -p "/weekly-fitness-review"

@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-sg-cards-guide",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Information-only guide to Singapore credit cards. Asks a few easy questions, remembers the cards you hold (never card numbers, income or ID), then answers from an open, bank-cited dataset that updates itself. No bank connection; not financial advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UXBrZP3ZZJYUIFJLf1SkV",
+    "url": "https://x.ai/bot/UXBrZP3ZZJYUIFJLf1SkV",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Varun Parakh",
+    "activeVersion": 2,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

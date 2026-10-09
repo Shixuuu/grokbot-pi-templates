@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-burn-watch",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Usage CFO for Grok Bot. Soft/Hard burn stops, % estimates, cheap paths, fleet overview, routine audit, and receipts so your primary bot stops wasting the week.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lkvHvaZoGSoOz-zHZ0XDn",
+    "url": "https://x.ai/bot/lkvHvaZoGSoOz-zHZ0XDn",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Calix Build",
+    "activeVersion": 5,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

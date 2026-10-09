@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-suno-song-creator",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Brainstorms fresh song ideas and writes ready-to-paste lyrics, style prompts and titles for Suno, the A.I. music app, for anyone who wants to make their own songs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NP7mZ91wWsTYmjrOKCde5",
+    "url": "https://x.ai/bot/NP7mZ91wWsTYmjrOKCde5",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Tim Kofoed",
+    "activeVersion": 7,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

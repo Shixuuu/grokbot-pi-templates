@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-cline",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Cline specialist that installs and drives Cline CLI and Cline Desktop on its Linux computer, so you can hand it coding or non-coding tasks and get back verified results.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gL7FcTFcs1SHMCD3pozTM",
+    "url": "https://x.ai/bot/gL7FcTFcs1SHMCD3pozTM",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Alberto Jauregui",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

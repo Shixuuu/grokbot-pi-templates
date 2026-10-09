@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-orbit",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scouts X daily for the coolest things people are doing with Grok Bot and sends you a short digest with ideas tailored to your work and life, focused on saving time and making more money.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xuxuH8f3c4_AVL6m3RGpq",
+    "url": "https://x.ai/bot/xuxuH8f3c4_AVL6m3RGpq",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "evn.eth",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

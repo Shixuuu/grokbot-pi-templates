@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-x-bookmarks-digest (Bookmark Digest)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bookmark-digest
+ExecStart=/usr/bin/env pi -p "/morning-x-bookmarks-digest"

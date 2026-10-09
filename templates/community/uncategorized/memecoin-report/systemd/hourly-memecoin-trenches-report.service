@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hourly-memecoin-trenches-report (Memecoin Report)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/memecoin-report
+ExecStart=/usr/bin/env pi -p "/hourly-memecoin-trenches-report"

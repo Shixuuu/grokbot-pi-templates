@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-ancestry-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A careful genealogy research assistant. It builds and verifies your family tree from real records and DNA, with sources cited for every fact, and you approve new people.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AINP9mLXBIt__NMVeFXGO",
+    "url": "https://x.ai/bot/AINP9mLXBIt__NMVeFXGO",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Daniel Anderson",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

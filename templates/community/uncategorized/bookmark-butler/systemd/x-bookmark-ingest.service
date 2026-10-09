@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-bookmark-ingest (Bookmark Butler)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bookmark-butler
+ExecStart=/usr/bin/env pi -p "/x-bookmark-ingest"

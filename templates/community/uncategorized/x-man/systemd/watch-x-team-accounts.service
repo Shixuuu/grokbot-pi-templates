@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine watch-x-team-accounts (X-Man)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-man
+ExecStart=/usr/bin/env pi -p "/watch-x-team-accounts"

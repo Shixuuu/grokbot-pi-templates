@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-usage-check (CFO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cfo
+ExecStart=/usr/bin/env pi -p "/weekday-usage-check"

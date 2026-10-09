@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine genealogy-keep-alive-never-idle (Ancestry Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ancestry-bot
+ExecStart=/usr/bin/env pi -p "/genealogy-keep-alive-never-idle"

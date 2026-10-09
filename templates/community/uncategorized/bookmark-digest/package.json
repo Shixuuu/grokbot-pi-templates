@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-bookmark-digest",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Each morning, ranks your 10 latest X bookmarks by how useful they are to you and sends a short digest, with summaries, links and visual explainers for the long reads.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tCPzwGYKCeTKQznAeo-wj",
+    "url": "https://x.ai/bot/tCPzwGYKCeTKQznAeo-wj",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Koshik Raj",
+    "activeVersion": 2,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-x-man",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches X accounts you choose — starters included for X product, OpenAI, and Anthropic/Claude, plus add any handles you want — and sends short in-chat alerts when they post, with same-topic dedupe and no posting on X.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DGIs4Ax4tU2Mi8RXyNKQ5",
+    "url": "https://x.ai/bot/DGIs4Ax4tU2Mi8RXyNKQ5",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Auny 🧡",
+    "activeVersion": 2,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

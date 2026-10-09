@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-wow-forever-codex",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A WoW Forever companion for players. It live-checks Wowhead, Icy Veins, and Blizzard for quests, builds, patch notes, and profession paths, labels Verified vs Secondary, and never invents talents, numbers, or quest steps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IeH0LoJLN8SdizGnjrw9i",
+    "url": "https://x.ai/bot/IeH0LoJLN8SdizGnjrw9i",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Sagnamenn",
+    "activeVersion": 2,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

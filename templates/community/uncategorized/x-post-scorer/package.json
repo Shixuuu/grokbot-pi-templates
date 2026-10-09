@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-x-post-scorer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a draft or drop a link to a live X post and get a score out of 10 for hook, replies, and reposts, plus a rewrite ready to paste.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Onn5fkAfkSacQgleFIIK-",
+    "url": "https://x.ai/bot/Onn5fkAfkSacQgleFIIK-",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Thomas Ferriere",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

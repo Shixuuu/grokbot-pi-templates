@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-bookmark-butler",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches every post you bookmark on X and does something with it: builds the trick into your project, files it in your knowledge base, drafts a share for your community, or tries the tool, then tells you what it did.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hLtN-c5Vw-JWIehFEeoTm",
+    "url": "https://x.ai/bot/hLtN-c5Vw-JWIehFEeoTm",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "sheran hussain",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

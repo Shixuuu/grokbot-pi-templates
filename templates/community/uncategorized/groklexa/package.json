@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-groklexa",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Talk to your Grok Bot through any Echo. Groklexa sets up a private Alexa skill that relays your voice requests to your bot and reads answers back, with optional Ring doorbell alerts and Govee light scenes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0u4Um4pAjcNAsOOepM3jl",
+    "url": "https://x.ai/bot/0u4Um4pAjcNAsOOepM3jl",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Ryan T",
+    "activeVersion": 2,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

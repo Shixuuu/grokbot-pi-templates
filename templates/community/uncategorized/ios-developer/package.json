@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-ios-developer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Designs, builds, and publishes native Swift/SwiftUI iPhone apps end to end. It builds and tests on your Mac, installs on your iPhone, handles in-app purchases and the store listing, and walks you through upload and App Review.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1AWFPBcRDur69flDohjvQ",
+    "url": "https://x.ai/bot/1AWFPBcRDur69flDohjvQ",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Circuit Pulse",
+    "activeVersion": 3,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

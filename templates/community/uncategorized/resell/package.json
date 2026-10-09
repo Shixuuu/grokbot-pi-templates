@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-resell",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns photos of what you want to sell into marketplace listing drafts and uploads. Drafts for Vinted, eBay, and Facebook Marketplace (FB draft-only by default). Waits for your one-line yes before publishing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mkaIELm12uIG_CiS6W2yd",
+    "url": "https://x.ai/bot/mkaIELm12uIG_CiS6W2yd",
+    "official": false,
+    "category": "uncategorized",
+    "fidelity": "full",
+    "creator": "Devin Norris",
+    "activeVersion": 1,
+    "sources": [
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}
