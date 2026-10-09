@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine federal-quarterly-estimated-tax-reminder-r-09-se (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/federal-quarterly-estimated-tax-reminder-r-09-se"

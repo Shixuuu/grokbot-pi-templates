@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Playwright",
+      "pluginId": "48677659",
+      "description": "Navigate, click, screenshot, and test in a real browser."
+    }
+  ]
+}

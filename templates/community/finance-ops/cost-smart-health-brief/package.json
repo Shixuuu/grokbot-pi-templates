@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-cost-smart-health-brief",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Helps doctors, patients, and families turn one health or health-system question into a 3-minute brief: evidence, cheaper options, and when to see a clinician. Not a doctor.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Rm6VqcE8cOWXwotPth9qM",
+    "url": "https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Amina Guleid",
+    "creatorHandle": "GuleidAmina",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

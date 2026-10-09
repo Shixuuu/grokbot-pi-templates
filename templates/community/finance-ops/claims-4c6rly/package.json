@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-claims-4c6rly",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Exhaustive money-recovery bot: sweeps state unclaimed property (from where you lived), federal pools, class-action settlements, and rebates — then walks filing with your approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4c6rlyshWwOpTN_d9HNhm",
+    "url": "https://x.ai/bot/4c6rlyshWwOpTN_d9HNhm",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "ashen one",
+    "creatorHandle": "ashen_one",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

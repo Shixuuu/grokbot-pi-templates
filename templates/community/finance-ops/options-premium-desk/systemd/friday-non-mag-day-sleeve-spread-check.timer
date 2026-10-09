@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine friday-non-mag-day-sleeve-spread-check
+
+[Timer]
+OnCalendar=Fri *-*-* 09,10,11:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

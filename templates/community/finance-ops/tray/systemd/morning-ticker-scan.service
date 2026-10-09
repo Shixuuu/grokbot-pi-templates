@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-ticker-scan (Tray)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tray
+ExecStart=/usr/bin/env pi -p "/morning-ticker-scan"

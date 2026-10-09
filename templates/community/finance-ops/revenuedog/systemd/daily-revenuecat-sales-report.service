@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-revenuecat-sales-report (RevenueDog)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/revenuedog
+ExecStart=/usr/bin/env pi -p "/daily-revenuecat-sales-report"

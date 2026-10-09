@@ -1,0 +1,3 @@
+# Routine "First business day: monthly report (R-05)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 8 1-3 * * cd /path/to/susie-the-bookkeeper && pi -p "/first-business-day-monthly-report-r-05"

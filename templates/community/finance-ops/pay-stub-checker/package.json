@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-pay-stub-checker",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Snap, upload, or paste your pay stub and get every line checked, compared with your last paycheck, and flagged in plain English, with estimates based on official current-year rates. Your stub history stays private with you and never copies into the template. By Irontarn.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "x42lRBd-njEddcsdVXcvb",
+    "url": "https://x.ai/bot/x42lRBd-njEddcsdVXcvb",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Sam E",
+    "creatorHandle": "SamE",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

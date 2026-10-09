@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-family-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps two caregivers keep kids’ activities straight and finish parenting decisions that need a shared yes — school, screens, sports, health, and money.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MD5wdycMY1OdZW9-TNp85",
+    "url": "https://x.ai/bot/MD5wdycMY1OdZW9-TNp85",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Mircea Trofimciuc",
+    "creatorHandle": "MirceaTrofim",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

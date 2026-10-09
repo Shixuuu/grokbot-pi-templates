@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine agentic-trade-cycle (Grokinhood)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grokinhood
+ExecStart=/usr/bin/env pi -p "/agentic-trade-cycle"

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-buildertrend-invoice-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A teammate that pulls home-build invoices from Buildertrend, builds a local dashboard, and runs spend analytics (including vendor deep-dives) from your owner portal.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "igyfOAUWRXvTZbDj2J__S",
+    "url": "https://x.ai/bot/igyfOAUWRXvTZbDj2J__S",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Brian Payton",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

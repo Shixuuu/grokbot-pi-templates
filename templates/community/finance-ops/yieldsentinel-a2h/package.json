@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-yieldsentinel-a2h",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Research checker, not a wallet. Policy check on one position. Research only. yieldsentinel.eth / Base 63771.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RFXogCwTbb2mUODW6rfVe",
+    "url": "https://x.ai/bot/RFXogCwTbb2mUODW6rfVe",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "MyEnsNames.eth",
+    "creatorHandle": "MyEnsNames",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

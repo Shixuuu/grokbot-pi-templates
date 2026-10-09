@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine monday-8am-sort-last-week-r-03
+
+[Timer]
+OnCalendar=Mon *-*-* 08:10:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-invest-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A careful investing assistant for self-directed stock and ETF investors. It sends market briefs, researches your holdings, and writes formal trade proposals, but it never places a trade without your explicit approval and never moves money.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lU7J1rVgIRu-QbxNL6kbX",
+    "url": "https://x.ai/bot/lU7J1rVgIRu-QbxNL6kbX",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Justin Baker",
+    "creatorHandle": "QuState",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-social-ops-bot",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Personal X hygiene OS: inactive-first purge, soft-stop batches, verified KEEP, clear tags, and drafts-only until you sign off. Phase 2 Creator Rewards stays locked until purge is COMPLETED.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "a5g9s0qb5zztaowzpoawt",
+    "url": "https://x.ai/bot/a5g9s0qb5zztaowzpoawt",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "JC",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

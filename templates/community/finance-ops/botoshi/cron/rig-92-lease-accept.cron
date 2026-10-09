@@ -1,0 +1,3 @@
+# Routine "BOTCOIN rig miner" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+12,42 * * * * cd /path/to/botoshi && pi -p "/rig-92-lease-accept"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tsc-birdseed-sale-watch (Deal finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/deal-finder
+ExecStart=/usr/bin/env pi -p "/tsc-birdseed-sale-watch"

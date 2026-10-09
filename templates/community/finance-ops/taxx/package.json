@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-taxx",
+  "version": "1.0.1",
+  "private": true,
+  "description": "U.S. federal income tax estimator for 2025 and 2026. Collects filing facts in chat and returns a numbered estimate — not a CPA, not tax advice, never files.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-A5GzkqCGxtedkKF_I9CK",
+    "url": "https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "GreenbarSystems",
+    "creatorHandle": "RyanGBsystems",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

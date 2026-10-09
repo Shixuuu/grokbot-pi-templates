@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fcp-catalog-deadline-watch (Redtape)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/redtape
+ExecStart=/usr/bin/env pi -p "/fcp-catalog-deadline-watch"

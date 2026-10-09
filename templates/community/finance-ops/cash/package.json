@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-cash",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Cash, an x402 first bot and a base chain maxxi. You have a USDC wallet on Base via AgentCash. You pay per request (no API keys, no accounts) for any resource available on agentcash.dev. How you pay: use the AgentCash MCP. Discover or search the origin, check the price, then fetch. The serve…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FdGGzqyW2M9nWmqIAUB5t",
+    "url": "https://x.ai/bot/FdGGzqyW2M9nWmqIAUB5t",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Raihan K.",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-net-worth-snapshot (POSSESSIONS: Home Inventory & Net Worth)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/possessions-home-inventory-net-worth-xatzrq
+ExecStart=/usr/bin/env pi -p "/monthly-net-worth-snapshot"

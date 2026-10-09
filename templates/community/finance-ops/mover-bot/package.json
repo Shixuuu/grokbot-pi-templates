@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-mover-bot",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Visual pre-estimate (planning range) from photos or a walkthrough for local and long-distance residential or commercial moves. Not binding; not a booking.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HOlAbXeoxd_ukzsmD6H5m",
+    "url": "https://x.ai/bot/HOlAbXeoxd_ukzsmD6H5m",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Hristo Bakardzhiev",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

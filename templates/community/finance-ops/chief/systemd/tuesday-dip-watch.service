@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tuesday-dip-watch (Chief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief
+ExecStart=/usr/bin/env pi -p "/tuesday-dip-watch"

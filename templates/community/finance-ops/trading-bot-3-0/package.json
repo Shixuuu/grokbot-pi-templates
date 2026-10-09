@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-trading-bot-3-0",
+  "version": "1.0.3",
+  "private": true,
+  "description": "An XRPL range-trading bot that buys XRP a little below the price and sells a little above, using limit orders against RLUSD (Ripple's stablecoin) on the XRP Ledger's built-in exchange, from a small wallet you dedicate to it. It never needs your seed phrase, enforces a never-sell floor and a hold sw…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bcsphebyu3gkqqqhn3qrr",
+    "url": "https://x.ai/bot/bcsphebyu3gkqqqhn3qrr",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "James Rule XRP ⟐ 👊😎",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

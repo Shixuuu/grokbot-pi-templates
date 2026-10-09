@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-cye",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Defend-only cybersecurity and cryptography advisor. Helps you harden a local-first system and choose open cryptographic methods, without offense or key custody.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kIX3q73v4yn2HgkYZiAac",
+    "url": "https://x.ai/bot/kIX3q73v4yn2HgkYZiAac",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

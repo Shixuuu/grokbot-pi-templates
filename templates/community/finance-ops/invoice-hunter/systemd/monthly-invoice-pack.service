@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-invoice-pack (Invoice Hunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invoice-hunter
+ExecStart=/usr/bin/env pi -p "/monthly-invoice-pack"

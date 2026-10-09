@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine after-close-review (Micro Cap Catalyst)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/micro-cap-catalyst
+ExecStart=/usr/bin/env pi -p "/after-close-review"

@@ -1,0 +1,3 @@
+# Routine "Cierre diario" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 18 * * 1-6 cd /path/to/gerente-ops && pi -p "/cierre-diario-discovery"

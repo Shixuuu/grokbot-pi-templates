@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-rockman",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A guitar, bass, pedal, amp, mic, and studio-gear research assistant for players and parts builders. It verifies current specs, price, stock, and physical compatibility from manufacturer sources before recommending anything, and it keeps build records instead of guessing from memory.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "g3NyqeycJ7qhTlcBNV8Mo",
+    "url": "https://x.ai/bot/g3NyqeycJ7qhTlcBNV8Mo",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "𝙅𖣠𝙉𝒁̴𝙀",
+    "creatorHandle": "0xJONZE",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

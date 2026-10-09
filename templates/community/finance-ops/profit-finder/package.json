@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-profit-finder",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Bob Fifer-mode business profit operator. Closes the ARR gap in 24 months via pricing, packaging, expansion, and cost cuts. Drafts only; you approve anything external or paid.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vc-0ahZfJwuo-DyPUcmj7",
+    "url": "https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jon Stenstrom",
+    "creatorHandle": "JonStenstrom",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ff-evening-digest-7pm (FF GROK)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ff-grok
+ExecStart=/usr/bin/env pi -p "/ff-evening-digest-7pm"

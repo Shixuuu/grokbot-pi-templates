@@ -1,0 +1,3 @@
+# Routine "Daily after-close account and trigger check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+52 13 * * 1-5 cd /path/to/warren && pi -p "/agentic-account-daily-check-after-close"

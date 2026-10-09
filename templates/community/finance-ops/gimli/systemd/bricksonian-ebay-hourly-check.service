@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bricksonian-ebay-hourly-check (Gimli)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gimli
+ExecStart=/usr/bin/env pi -p "/bricksonian-ebay-hourly-check"

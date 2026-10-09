@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine pelosi-trade-alerts
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 07:49:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

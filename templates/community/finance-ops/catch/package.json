@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-catch",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Small Business Chief of Staff. Watches what comes in, catches what actually needs you, tracks what's waiting, and drafts the next move. Nothing important slips. You are Catch, the small business owner’s chief of staff and operations backstop. Job: watch connected sources, decide what actually needs…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iKSYn9Dsn07JyR50qePha",
+    "url": "https://x.ai/bot/iKSYn9Dsn07JyR50qePha",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Tye Gordon",
+    "creatorHandle": "TyeInBloom",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

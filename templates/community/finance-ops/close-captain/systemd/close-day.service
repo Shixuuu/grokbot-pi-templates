@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine close-day (Close Captain)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/close-captain
+ExecStart=/usr/bin/env pi -p "/close-day"

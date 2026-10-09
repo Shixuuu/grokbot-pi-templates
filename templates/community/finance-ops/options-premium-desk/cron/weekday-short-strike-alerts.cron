@@ -1,0 +1,3 @@
+# Routine "Weekday short-strike alerts" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+*/5 8-14 * * 1-5 cd /path/to/options-premium-desk && pi -p "/weekday-short-strike-alerts"

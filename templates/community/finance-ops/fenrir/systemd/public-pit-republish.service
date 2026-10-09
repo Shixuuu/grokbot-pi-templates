@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine public-pit-republish (Fenrir)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fenrir
+ExecStart=/usr/bin/env pi -p "/public-pit-republish"

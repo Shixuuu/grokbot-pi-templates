@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-expense-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Stay on top of the money. Builds the weekly summary from your expense manager and sheets, logs new receipts from email, and nudges owners on missing categories before review.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s50bb9361d891bd788a23",
+    "url": "https://x.ai/bot/s50bb9361d891bd788a23",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "SpaceX",
+    "creatorHandle": "DenisLabelle",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

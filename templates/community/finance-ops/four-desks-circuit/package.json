@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-four-desks-circuit",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Install map for a ZZP-style operating company: Personal, Live business, Future studio, and Idea bucket — plus Switchboard and Builder. Structure only; you own desk profiles after import.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Y9y8k-uDEBQESnan7klFI",
+    "url": "https://x.ai/bot/Y9y8k-uDEBQESnan7klFI",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Mickey Van Dongen",
+    "creatorHandle": "MickeyDinges",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Weekday 45-60 live watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 10,12,14 * * 1-5 cd /path/to/options-premium-desk && pi -p "/weekday-45-60-live-watch"

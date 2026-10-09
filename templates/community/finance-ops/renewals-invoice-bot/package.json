@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-renewals-invoice-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Clears renewals and invoice reminders on its own computer within a hard weekly spend ceiling. Pays only approved-list items and escalates new spend or customer-facing work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-9hlUkQbsgE7oUyQvUPum",
+    "url": "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Neessam",
+    "creatorHandle": "compileinstyle",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

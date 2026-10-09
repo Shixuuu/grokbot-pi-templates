@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine week-hunt-pre-open (Fenrir)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fenrir
+ExecStart=/usr/bin/env pi -p "/week-hunt-pre-open"

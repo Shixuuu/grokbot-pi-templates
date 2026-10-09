@@ -1,0 +1,3 @@
+# Routine "Slipped-promise check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 16 * * * cd /path/to/paydate-chase && pi -p "/slipped-promise-check"

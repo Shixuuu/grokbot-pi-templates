@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fodda-earnings-context-analyst-bt47pp",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Decodes public-company earnings calls for strategists and analysts: what leadership claimed, what they dodged, and what category evidence shows. Requires the Fodda Earnings Intelligence connector.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BT47pPtgjRk5qylFBqoeV",
+    "url": "https://x.ai/bot/BT47pPtgjRk5qylFBqoeV",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Piers Fawkes",
+    "creatorHandle": "piers_fawkes",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

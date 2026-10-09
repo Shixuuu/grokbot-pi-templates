@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-thesis-radar (Tradey)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tradey
+ExecStart=/usr/bin/env pi -p "/weekday-thesis-radar"

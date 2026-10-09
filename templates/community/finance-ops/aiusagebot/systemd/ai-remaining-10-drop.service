@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ai-remaining-10-drop (AIUsageBot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aiusagebot
+ExecStart=/usr/bin/env pi -p "/ai-remaining-10-drop"

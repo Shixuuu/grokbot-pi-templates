@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 10 (人生·财务)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill
+ExecStart=/usr/bin/env pi -p "/10"

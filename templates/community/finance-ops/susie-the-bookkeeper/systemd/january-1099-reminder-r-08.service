@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine january-1099-reminder-r-08 (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/january-1099-reminder-r-08"

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-rapid-response-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a news hit, attack, clip, quote, or bill and get a ready-to-use X post, thread, quote or reply, and 15-second video hook. It drafts only, never invents facts, and never impersonates a campaign. Built for political creators, staff, and grassroots organizers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1Z25aul0vJIIGXqJf1E1D",
+    "url": "https://x.ai/bot/1Z25aul0vJIIGXqJf1E1D",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "unknown",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

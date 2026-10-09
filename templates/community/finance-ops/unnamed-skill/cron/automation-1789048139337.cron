@@ -1,0 +1,3 @@
+# Routine "每晚收支日报" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 0 * * * cd /path/to/unnamed-skill && pi -p "/automation-1789048139337"

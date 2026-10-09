@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-weekly-one-pager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste your week's numbers and notes and get a one-page business report, with measured figures kept apart from estimates and no gaps filled with guesses.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JB6agCG1OcwHqjwIrkl_O",
+    "url": "https://x.ai/bot/JB6agCG1OcwHqjwIrkl_O",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "aaron creech",
+    "creatorHandle": "AMFoxtrot",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

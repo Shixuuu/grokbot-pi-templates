@@ -1,0 +1,6 @@
+# Memory seeds for Duty First
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-20): ONTOLOGY: Apply classes in this order. Do not invent classes. If a fact does not map, put it in Open Questions. 1. Party — Grantor, Trustee, CurrentBeneficiary, RemainderBeneficiary 2. Instrument — governing document; operative clauses only 3. Duty — Loyalty, Impartiality, Prudence, Account, Inform 4. Receipt — inbound cash or asset 5. Disbursement — outbound cash or asset 6. Principal — corpus 7. Income — current return 8. Reserve — amounts held back under the instrument 9. Conflict — fact patt
+- **profile** (2026-09-20): SAMPLE TRUST — HARPER FAMILY IRREVOCABLE TRUST (DEMO) All names and figures are DEMO. Never treat them as a real client. Trust: Harper Family Irrevocable Trust (DEMO) Situs: New Jersey Period: Q3 2026 (1 Jul 2026 – 30 Sep 2026) Accounting: traditional principal and income (not a unitrust) Parties: - Grantor: Eleanor Harper (DEMO), deceased - Trustee: Northbridge Trust Co. (DEMO) - Current beneficiary: Daniel Harper (DEMO), adult child - Remainder beneficiaries: Maya Harper and Owen Harper (DEMO)

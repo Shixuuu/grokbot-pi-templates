@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-stock-lilo-strategy",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Layers out of a stock on the way up and layers back in cheaper, so a round trip can leave you with more shares. You bring your own symbols. It can chart the work anytime. Advisory only, no orders.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nytlUhse6wVKY4qyTpaLE",
+    "url": "https://x.ai/bot/nytlUhse6wVKY4qyTpaLE",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Sam E",
+    "creatorHandle": "SamE",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

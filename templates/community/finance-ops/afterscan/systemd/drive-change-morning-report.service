@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine drive-change-morning-report (AfterScan)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/afterscan
+ExecStart=/usr/bin/env pi -p "/drive-change-morning-report"

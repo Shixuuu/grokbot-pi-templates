@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine mid-month-cash-check-r-06 (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/mid-month-cash-check-r-06"

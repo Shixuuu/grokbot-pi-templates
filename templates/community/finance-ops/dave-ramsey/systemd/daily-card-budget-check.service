@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-card-budget-check (Dave Ramsey)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dave-ramsey
+ExecStart=/usr/bin/env pi -p "/daily-card-budget-check"

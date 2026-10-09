@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-boss",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A chief of staff for your Grok Bot team. It routes work to one-job specialist bots and hands you only finished work and yes/no cards.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "B3GjCUHLnI793bGJ1bjT8",
+    "url": "https://x.ai/bot/B3GjCUHLnI793bGJ1bjT8",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Screaming Chicken",
+    "creatorHandle": "Don",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

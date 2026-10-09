@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine health-check (Catch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/catch
+ExecStart=/usr/bin/env pi -p "/health-check"

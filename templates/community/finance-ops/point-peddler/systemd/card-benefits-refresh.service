@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine card-benefits-refresh (point peddler)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/point-peddler
+ExecStart=/usr/bin/env pi -p "/card-benefits-refresh"

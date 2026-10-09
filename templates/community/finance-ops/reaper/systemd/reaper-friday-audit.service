@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine reaper-friday-audit (Reaper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/reaper
+ExecStart=/usr/bin/env pi -p "/reaper-friday-audit"

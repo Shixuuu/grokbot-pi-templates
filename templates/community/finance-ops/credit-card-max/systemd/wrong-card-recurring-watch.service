@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wrong-card-recurring-watch (Credit Card Max)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/credit-card-max
+ExecStart=/usr/bin/env pi -p "/wrong-card-recurring-watch"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-weekly-meal-planner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Plans your week of meals around your diet, pantry, and budget, then hands you one grocery list sorted by aisle. For busy households that are tired of deciding what's for dinner.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4Wbza84SDv-l-1RcnVqne",
+    "url": "https://x.ai/bot/4Wbza84SDv-l-1RcnVqne",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Joseph Snyder",
+    "creatorHandle": "BTC_Yogi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

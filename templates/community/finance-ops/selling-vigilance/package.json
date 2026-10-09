@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-selling-vigilance",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns shop-floor photos and spoken details into a priced inventory with IDs, photo cards, and a print-ready PDF — plus daytime auto-backups so nothing gets lost mid-catalog.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NI5Na1mizTVfu5t6XD5ad",
+    "url": "https://x.ai/bot/NI5Na1mizTVfu5t6XD5ad",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Vigilance Rifles",
+    "creatorHandle": "VigilanceRifles",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

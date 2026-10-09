@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-liveodds",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches live horse-racing toteboards for your priority tracks, merges WPS and exotic odds with handicapper/model picks, detects scratches, and refreshes wager leans — always read-only, never places bets.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pSJUR7pv54O6hcv5NoA7S",
+    "url": "https://x.ai/bot/pSJUR7pv54O6hcv5NoA7S",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Michael Marx",
+    "creatorHandle": "MikeMarxmp77",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

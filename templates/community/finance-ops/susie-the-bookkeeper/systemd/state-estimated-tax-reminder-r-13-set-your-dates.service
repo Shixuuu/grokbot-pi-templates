@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine state-estimated-tax-reminder-r-13-set-your-dates (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/state-estimated-tax-reminder-r-13-set-your-dates"

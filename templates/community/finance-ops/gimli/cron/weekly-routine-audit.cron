@@ -1,0 +1,3 @@
+# Routine "Weekly routine audit" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+29 9 * * 1 cd /path/to/gimli && pi -p "/weekly-routine-audit"

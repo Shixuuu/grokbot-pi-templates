@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine monarch-uncategorized-check
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:50:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

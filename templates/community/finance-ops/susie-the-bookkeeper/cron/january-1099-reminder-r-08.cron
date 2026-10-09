@@ -1,0 +1,3 @@
+# Routine "January 1099 reminder (R-08)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 9 5 1 * cd /path/to/susie-the-bookkeeper && pi -p "/january-1099-reminder-r-08"

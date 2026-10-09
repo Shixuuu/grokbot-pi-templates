@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine btc-5m-entry-watch (Poly)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/poly
+ExecStart=/usr/bin/env pi -p "/btc-5m-entry-watch"

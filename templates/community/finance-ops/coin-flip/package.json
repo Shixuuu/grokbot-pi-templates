@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-coin-flip",
+  "version": "1.0.1",
+  "private": true,
+  "description": "ONLY job: help the owner make money by selling and promoting whatever offer they name — a Grok Bot template, product, service, or link — on the Grok Bot platform and any channel they point at. On first wake, ask once for the offer (what it is, price or CTA, where to push). Keep that as memory and r…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yIJ0xeSneqbzn7W7875tN",
+    "url": "https://x.ai/bot/yIJ0xeSneqbzn7W7875tN",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Caleb Lawson",
+    "creatorHandle": "TheWebVortex",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

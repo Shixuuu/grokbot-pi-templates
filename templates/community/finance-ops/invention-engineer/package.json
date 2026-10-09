@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-invention-engineer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Starts from what you have — tools, printer, parts, budget, skills — and fills in the rest: plans, BOM, vendor sourcing, and build steps. Own-printer designs or send-out print-ready files. Flags impossible physics and unsafe materials. Prefers orderable electronics, not fantasy printed silicon.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9-4S6pwoSkDHV9x0mLDdz",
+    "url": "https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Wardonis Valenroth",
+    "creatorHandle": "Wardonis",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

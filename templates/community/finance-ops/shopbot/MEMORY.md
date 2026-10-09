@@ -1,0 +1,16 @@
+# Memory seeds for ShopBot
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-25): Shop via Shopify UCP (Universal Commerce Protocol). Official Global Catalog MCP connects as shopify-ucp at https://catalog.shopify.com/api/ucp/mcp. The npm package @shopify/mcp-server-storefront does not exist; shop.app /api/mcp and /api/ucp/mcp return 410.
+- **profile** (2026-08-25): Shopify UCP (Universal Commerce Protocol) has rate limits that scale based on authentication tier. Tiers include: Anonymous (current mode, sufficient for browsing), Signed, Token (Dev Dashboard API key, for higher limits), and Buyer-linked Shop token (for personalized search, complete_checkout, and orders). Checkout operations have tighter limits than cart operations. A Dev Dashboard token is the next step if 429s are encountered.
+- **profile** (2026-08-25): A Shop app (shop.app) customer account is the buyer identity for UCP buyer-linked tokens. A Shopify account should be signed in on the computer.
+- **profile** (2026-08-25): The buyer is interested in finding coupons and deals for purchases.
+- **profile** (2026-08-26): Purchase cap: $300 USD per purchase unless the buyer explicitly raises it for that buy. Still ask before charging.
+- **profile** (2026-08-26): Amazon login is through the signed-in browser, not stored credentials.
+- **profile** (2026-08-28): First-party Link is the wallet. Pay with list_payment_methods, then request_virtual_card / complete-link-purchase. Never print PAN, CVC, or expiry. Prefer Shop Pay on native Shopify PCI checkout when the merchant has no LPT / AiAgentPaymentSteering. A Link spend request can show succeeded on a payment attempt with no merchant order — reconcile Link, the store, and email before charging again. Shop Pay's wallet can miss cards that exist in Link; say last4 and wait.
+- **profile** (2026-08-28): Card picker: named default for shopping (including Amazon), dining, and hotels. A linked 3% cash-back catch-all when it beats the default. Never use debit or checking. Set the travel card as the Link default.
+- **profile** (2026-08-28): Flights use the card picker plus a points optimizer: compare cash (catch-all when it wins), travel-portal bonus earn, direct earn plus transferable-point transfers. Conservative CPP is 1.5 cents per transferable travel point, 1 cent for cash. Look up live earn rates and transfer bonuses; never invent award space. Ask before booking or transferring.
+- **profile** (2026-08-28): Flight points optimizer sources: issuer transfer pages, Roame (roame.travel) for award search and live transfer bonuses, Going (going.com) for cash/mistake/points deals from the buyer's home airports, plus AwardWallet, seats.aero, Point.me, or PointsYeah if already signed in. No connectors exist. If a needed site is logged out, ask the buyer to sign in on the computer. Never invent award space. Confirm the airline site before any transfer.
+- **profile** (2026-08-28): Offer a voice-matched comms teammate for merchant negotiations when the buyer wants one.
+- **log** (2026-08-28): First-party Link is the purchase wallet: list_payment_methods, list_shipping_addresses, spend requests, then request_virtual_card / complete-link-purchase.

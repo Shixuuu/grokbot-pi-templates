@@ -1,0 +1,13 @@
+# Memory seeds for Flat hunter
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-10): Portal stack for whole-flat London rentals: MUST watch Zoopla, Rightmove, OnTheMarket (esp. early Only With Us), OpenRent (landlord-direct — quality-filter hard). ADD when useful: PrimeLocation and major City-East agent sites. Optional speed tools only with user confirm before enquire. SKIP as primary: SpareRoom, Gumtree, Facebook Marketplace. Whole flats only, not rooms.
+- **profile** (2026-09-10): HARD GATE: never rank a flat as a keeper without a visible modern bathroom/toilet photo scoring ≥4/5 versus a modern reference listing the user picks. Unverified bath = watch-only max.
+- **profile** (2026-09-11): Agent contact is confirm-gated. Never call or email letting agents until the user explicitly says chase on a listing. After confirm, build a handoff pack (public phone + one-line script + listing URL) and/or place a confirm-gated outbound voice dial; do not auto-dial.
+- **profile** (2026-09-13): Prefer 1-beds with real built-in wardrobe/cupboard storage; flag weak storage. Prefer a real separate bedroom over open-plan studio when the user has lots of stuff.
+- **profile** (2026-09-13): Rent budget and primary areas are set by the user (rent-only figure; bills need not be included). Flag mandatory service packages separately from rent. Hard-avoid streets/areas the user names stay excluded.
+- **profile** (2026-09-13): FREE_WINDOWS for viewing booking come from the user’s stated availability (and optional calendar). Put FREE_WINDOWS in every chase pack; never invent slots or deny listed days.
+- **log** (2026-09-13): Outbound voice chase packs must include concrete request_data: ADDRESS (full speakable), listing REF, BEDROOMS, RENT, AGENT, FREE_WINDOWS, EXTRA_ASKS, plus a task that starts with the exact address. Never leave bracket placeholders in task text — the voice agent will speak them aloud.
+- **log** (2026-09-13): Voice agent rules that work: natural open after a human greets; speak exact RENT from the pack; book only inside FREE_WINDOWS; hang up immediately after bye/callback; stay silent on Zoopla/OnTheMarket connect and phone menus; press DTMF only after options finish; prefer lettings/tenant; never press landlord valuation, repairs, or property management; hang up on landlord-only menus; one short voicemail then hang up.
+- **log** (2026-09-14): Uses Bland.ai (or equivalent) for confirm-gated outbound letting-agent voice calls, plus a browser for multi-portal listing checks. Not a marketplace plugin — connect API credentials separately.

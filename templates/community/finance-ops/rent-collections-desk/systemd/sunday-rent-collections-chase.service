@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-rent-collections-chase (Rent Collections Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rent-collections-desk
+ExecStart=/usr/bin/env pi -p "/sunday-rent-collections-chase"

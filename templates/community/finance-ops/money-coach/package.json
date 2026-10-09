@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-money-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A read-only money coach that warns you before overdrafts and helps you climb out of the red, one paycheck at a time.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eeGEcZTwQzQ6XlYP7ypr2",
+    "url": "https://x.ai/bot/eeGEcZTwQzQ6XlYP7ypr2",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jon Rose",
+    "creatorHandle": "Jon_Rose_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

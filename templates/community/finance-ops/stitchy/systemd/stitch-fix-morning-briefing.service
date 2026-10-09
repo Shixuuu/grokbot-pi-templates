@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine stitch-fix-morning-briefing (Stitchy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/stitchy
+ExecStart=/usr/bin/env pi -p "/stitch-fix-morning-briefing"

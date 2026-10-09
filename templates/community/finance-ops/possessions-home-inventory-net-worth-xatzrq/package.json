@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-possessions-home-inventory-net-worth-xatzrq",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Builds a home inventory from room photos, receipts, or purchase emails, then tracks what you paid against what each item is worth today, with a monthly net-worth snapshot. Moving-sale and estate modes when you need them. Never lists, sells, or contacts anyone without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_AtzRQVYEzMUS8QsanARG",
+    "url": "https://x.ai/bot/_AtzRQVYEzMUS8QsanARG",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Bill Mitchell",
+    "creatorHandle": "bill_mitchell_",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

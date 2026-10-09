@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-missing-receipt-nudge-r-02 (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/friday-missing-receipt-nudge-r-02"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine cra-refund-watch (Mr. Dufrain)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mr-dufrain
+ExecStart=/usr/bin/env pi -p "/cra-refund-watch"

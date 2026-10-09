@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine earnings-desk-morning-blotter (Survivor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/survivor
+ExecStart=/usr/bin/env pi -p "/earnings-desk-morning-blotter"

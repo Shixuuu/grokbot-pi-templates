@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-druski",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Chief of staff for a productized-services founder. Runs the agent fleet, stamps offers and publish gates, and keeps mornings money-first with filmable content packs — so you only do the work that can't be automated.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ig18n1eWo_BWokrQB8Dqq",
+    "url": "https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Shawn G",
+    "creatorHandle": "topshoh",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

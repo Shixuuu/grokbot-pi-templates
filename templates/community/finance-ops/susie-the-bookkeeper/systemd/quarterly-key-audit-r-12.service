@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine quarterly-key-audit-r-12 (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/quarterly-key-audit-r-12"

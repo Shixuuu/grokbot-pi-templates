@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-webshop",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Baut und betreibt Online-Shop und Firmenwebsite für einen Farbenfachhandel: Katalog, Bestellung, SEO/GEO und saisonale Aktionen. Arbeitet eng mit Einkauf und Marketing; Deutsch, knapp, praxisnah.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "g0rb6kTReiBG4dN5kGIWZ",
+    "url": "https://x.ai/bot/g0rb6kTReiBG4dN5kGIWZ",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jakob Orth",
+    "creatorHandle": "JakobOrth",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

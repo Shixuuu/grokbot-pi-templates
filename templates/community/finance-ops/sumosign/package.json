@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-sumosign",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Sends documents for human signature via SumoSign. Needs only the client's own API key. New users get a free key at signup, then upload, place fields, preview, and send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Uicr9Dc3FKOmsMfbN_NHB",
+    "url": "https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Keith Vaughan",
+    "creatorHandle": "SumoSign",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

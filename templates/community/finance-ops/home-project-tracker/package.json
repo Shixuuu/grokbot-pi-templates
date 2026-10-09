@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-home-project-tracker",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Keeps your home projects, contractor quotes, invoices, and due dates in one Google Sheet you own, and sends a weekly nudge about anything coming due or waiting on a vendor.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Lin5CjpC3Dxe9xzb6zQL4",
+    "url": "https://x.ai/bot/Lin5CjpC3Dxe9xzb6zQL4",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Brian",
+    "creatorHandle": "frogman263",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

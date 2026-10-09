@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff for creators and founders: coordinates a specialist agent team, prepares work quietly, and only acts externally with your green light. Portuguese-first.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Yz1IbEk1LEae03pdl8BZf",
+    "url": "https://x.ai/bot/Yz1IbEk1LEae03pdl8BZf",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jaime Júnior",
+    "creatorHandle": "architectjmj",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

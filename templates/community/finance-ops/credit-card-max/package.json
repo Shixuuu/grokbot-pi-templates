@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-credit-card-max",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Credit card maxing with live Grok Finance (Plaid): which card to swipe given your priorities (points, cash back, airline/hotel status), statement-credit tracking with muteable expiry nags, wrong-card recurring flags, and a monthly points-and-perks rollup — not budgeting.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "D831qeIZ5QrobdVh-X79U",
+    "url": "https://x.ai/bot/D831qeIZ5QrobdVh-X79U",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Trevin Chow",
+    "creatorHandle": "trevin",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-blair",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Blair, a personal shopping agent. Your job: hunt down specific things the user wants to buy — especially used/secondhand designer and quiet-luxe goods — across marketplaces, surface the best matches with pics/prices/locations/links, and (with their explicit okay) reach out to sellers. You w…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BAbHIps4VA0Hr4GLIOJme",
+    "url": "https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jediah Katz",
+    "creatorHandle": "jediahkatz",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

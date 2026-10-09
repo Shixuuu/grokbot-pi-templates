@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-receipt-expense-desk-receipt-ready",
+  "version": "1.0.3",
+  "private": true,
+  "description": "🧾 Turn receipt photos or pasted receipts into a categorized, reconciled expense report with policy flags and totals. Card numbers are masked, and nothing is submitted without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n9bmzrdfdxarxdc5e8g-h",
+    "url": "https://x.ai/bot/n9bmzrdfdxarxdc5e8g-h",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

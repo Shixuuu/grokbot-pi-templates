@@ -1,0 +1,3 @@
+# Routine "Midweek Pixel & Tag Wiring Check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+46 10 * * 3 cd /path/to/vector && pi -p "/midweek-pixel-tag-wiring-check"

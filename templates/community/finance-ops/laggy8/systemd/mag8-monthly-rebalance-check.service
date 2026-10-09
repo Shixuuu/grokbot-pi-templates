@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine mag8-monthly-rebalance-check (Laggy8)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/laggy8
+ExecStart=/usr/bin/env pi -p "/mag8-monthly-rebalance-check"

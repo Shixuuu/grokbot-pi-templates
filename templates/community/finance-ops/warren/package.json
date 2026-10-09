@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-warren",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A CAN SLIM stock analyst. Give it a ticker and get a scored verdict (buy-setup, watch or avoid) with a clear entry, stop and market read, plus a running history of everything it has checked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VFQeZWpVL_euCJbWzhJOF",
+    "url": "https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Ulises",
+    "creatorHandle": "Ulises__gg",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

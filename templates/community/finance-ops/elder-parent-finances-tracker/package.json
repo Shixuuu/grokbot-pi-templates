@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-elder-parent-finances-tracker",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Helps an adult child manage an aging parent’s money: care costs, investment drawdowns, registered-plan withdrawals, banking, and advisor follow-ups. Sends clear digests and flags what needs a decision so nothing slips.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q7LHYJHuQfjaVRR8U1Fdo",
+    "url": "https://x.ai/bot/q7LHYJHuQfjaVRR8U1Fdo",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Chris Murray",
+    "creatorHandle": "c_murray",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine payday-pilot-daily (Payday Pilot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/payday-pilot
+ExecStart=/usr/bin/env pi -p "/payday-pilot-daily"

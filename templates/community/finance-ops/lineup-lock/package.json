@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lineup-lock",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Fantasy football lineup coach for THIS week. Starting lineup, start/sit with real confidence, waivers that match your league rules, and trade advice for your scoring.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nEM_sUscFyr3VFeYmFhZA",
+    "url": "https://x.ai/bot/nEM_sUscFyr3VFeYmFhZA",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Allen Patch",
+    "creatorHandle": "Allen Patch",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

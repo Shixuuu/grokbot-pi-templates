@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bd4b170d-88b2-5b38-a6bb-28466f576491 (Credit Card Max)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/credit-card-max
+ExecStart=/usr/bin/env pi -p "/bd4b170d-88b2-5b38-a6bb-28466f576491"

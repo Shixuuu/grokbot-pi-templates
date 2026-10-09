@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-monarch-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Portable Monarch Money operator for one household. Read-only balances, transactions, recurring, and review queues. Category fixes only with your explicit yes. Bring your own secure Monarch token.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7JQJ0jRlTran7PcuGIM-j",
+    "url": "https://x.ai/bot/7JQJ0jRlTran7PcuGIM-j",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Robert S",
+    "creatorHandle": "robertqff9",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

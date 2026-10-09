@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-roommate-money-court",
+  "version": "1.0.5",
+  "private": true,
+  "description": "For housemates mid-money fight: get a fair-split card and who-owes-whom from the numbers only—gaps become questions, not character verdicts. Not legal advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-5hh_I52qTUbDO2ud89NC",
+    "url": "https://x.ai/bot/-5hh_I52qTUbDO2ud89NC",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

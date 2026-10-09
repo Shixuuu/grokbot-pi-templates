@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-hypergrok-desk-lead",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Builds and verifies a seven-agent Hyperliquid trading desk from the reviewed HyperGrok v1.4.4 release. Starts research-only with live public market data: no wallet, secret or order.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PReCwAHq8Vgeex50r883H",
+    "url": "https://x.ai/bot/PReCwAHq8Vgeex50r883H",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Andrew Wilkinson",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

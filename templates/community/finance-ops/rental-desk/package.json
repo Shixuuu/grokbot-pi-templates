@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-rental-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs the rental lifecycle for small landlords with one or a few units: lease reminders, listing drafts, inquiry sorting, showings, fair screening, and a rent and maintenance log. It drafts everything and you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0havI1dJhzL_gG11rueQN",
+    "url": "https://x.ai/bot/0havI1dJhzL_gG11rueQN",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Branden Troutman",
+    "creatorHandle": "BrandenSeth",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

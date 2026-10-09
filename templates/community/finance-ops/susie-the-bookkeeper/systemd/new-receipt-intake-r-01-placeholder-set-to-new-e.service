@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine new-receipt-intake-r-01-placeholder-set-to-new-e (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/new-receipt-intake-r-01-placeholder-set-to-new-e"

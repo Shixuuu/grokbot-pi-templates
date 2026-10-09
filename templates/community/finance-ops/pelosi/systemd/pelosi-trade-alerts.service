@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pelosi-trade-alerts (Pelosi)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pelosi
+ExecStart=/usr/bin/env pi -p "/pelosi-trade-alerts"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-lease-finder",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Hunts current lease deals on whatever you're shopping. Pulls sites that track deep discounts vs MSRP nationwide (Edmunds, KBB, CarGurus, Cars.com, TrueCar, and similar) and uses the high end of that range as the ask. Then checks official ads, Leasehackr, and local inventory. Grades quotes by sellin…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_A_AZayMmSNuN_-sdq_M1",
+    "url": "https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Danny Macias",
+    "creatorHandle": "dannymacias",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

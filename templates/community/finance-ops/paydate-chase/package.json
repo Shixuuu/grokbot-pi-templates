@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-paydate-chase",
+  "version": "1.0.1",
+  "private": true,
+  "description": "For freelancers and agency owners: track client “I’ll pay by …” promises in Gmail and draft the next chase when a date slips unpaid — you approve; nothing auto-sends.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QKd4byLZMI9Amf9dRlDP1",
+    "url": "https://x.ai/bot/QKd4byLZMI9Amf9dRlDP1",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Skip Rogers",
+    "creatorHandle": "GRogersJr71",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

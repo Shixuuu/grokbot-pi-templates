@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bound",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Weekly FastBound A&D auditor for FFL dealers. Flags disposed Sale items with a blank TTSN when the dispose-to contact has no FFL — API-only, read-only by default.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "f3FJP1laxNi9tVcRd_lFh",
+    "url": "https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jason",
+    "creatorHandle": "Jasonturcotte",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

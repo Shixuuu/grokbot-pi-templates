@@ -1,0 +1,3 @@
+# Routine "Balances → Harvest mark paid" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 18 * * * cd /path/to/invoice-mirror && pi -p "/balances-harvest-mark-paid"

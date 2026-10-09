@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-artist-coo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "COO for an independent artist’s exposure-to-deal operation. Filters every desk through you, stands up manager and task bots, and drives organic growth toward a major record deal.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1xERibyRYst3MSlMvqy_F",
+    "url": "https://x.ai/bot/1xERibyRYst3MSlMvqy_F",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Patrick Breen",
+    "creatorHandle": "PatrickBreen20",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

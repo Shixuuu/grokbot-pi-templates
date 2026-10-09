@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-subcut",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Reads your inbox for recurring charges, marks monthly vs yearly, and shows where switching or cancelling would save money. For anyone who wants a subscription audit without a spreadsheet.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MzuJZpvaIK2KpexUVY-V0",
+    "url": "https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Taha",
+    "creatorHandle": "tahaabuilds",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

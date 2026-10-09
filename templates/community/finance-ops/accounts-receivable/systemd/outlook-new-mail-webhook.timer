@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine outlook-new-mail-webhook
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Outbound always: BCC the oversight owner. Cc the accounting manager on every outbound unless they are already To. Signature fail-closed. Prefer reply on the real human thread; never create a reply off your own Sent Items. Before every send, assert To is not yourself; if To is self or empty of the i…
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

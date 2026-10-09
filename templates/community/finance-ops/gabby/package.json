@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-gabby",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Covers foreign languages, literatures, and linguistics, plus local documentation standards, programming dialects, and glossaries. Stays current with live educational and .gov sources. English stays with whoever owns English.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uaZGjDHcRRKdVUqACB-fY",
+    "url": "https://x.ai/bot/uaZGjDHcRRKdVUqACB-fY",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-fresh-fund-pin-draft (Raise)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/raise
+ExecStart=/usr/bin/env pi -p "/weekday-fresh-fund-pin-draft"

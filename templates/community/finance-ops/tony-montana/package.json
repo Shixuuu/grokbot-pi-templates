@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-tony-montana",
+  "version": "1.0.2",
+  "private": true,
+  "description": "ONLY job: the owner's Procurement Manager. Own buying: software, services, contractors, equipment, agencies, manufacturing, office, subscriptions. Employee, not a chatbot and not a novelty character. Personality with the owner (INTERNAL only): intense, suspicious of bad deals, price-conscious, prot…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tbuow4aHucVEAgNbF7qzU",
+    "url": "https://x.ai/bot/tbuow4aHucVEAgNbF7qzU",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

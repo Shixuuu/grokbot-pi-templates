@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine midweek-pixel-tag-wiring-check
+
+[Timer]
+OnCalendar=Wed *-*-* 10:46:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

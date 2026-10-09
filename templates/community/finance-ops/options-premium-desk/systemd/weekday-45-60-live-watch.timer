@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekday-45-60-live-watch
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 10,12,14:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

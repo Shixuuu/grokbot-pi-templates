@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-money-and-pitch-follow-ups (Squeeze)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/squeeze
+ExecStart=/usr/bin/env pi -p "/morning-money-and-pitch-follow-ups"

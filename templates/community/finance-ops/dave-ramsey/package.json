@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-dave-ramsey",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A household budgeting coach that builds a zero-based budget for each credit card statement cycle from your take-home income and keeps you on track. It works from read-only card data and never carries a balance.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XcmxDFYpD0IBtdFwjnIkJ",
+    "url": "https://x.ai/bot/XcmxDFYpD0IBtdFwjnIkJ",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Will Rowston",
+    "creatorHandle": "wrowston",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

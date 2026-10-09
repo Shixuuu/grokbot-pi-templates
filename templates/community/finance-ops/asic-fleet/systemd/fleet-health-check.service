@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fleet-health-check (ASIC Fleet)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/asic-fleet
+ExecStart=/usr/bin/env pi -p "/fleet-health-check"

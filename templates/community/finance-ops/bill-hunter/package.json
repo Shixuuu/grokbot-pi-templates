@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-bill-hunter",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Sweep mail and receipts for trials, renewals, price hikes, and duplicates. Recommend keep / review / cancel. Draft cancel and refund asks — never cancels or sends without your yes. Built for me. Steal it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yNU0u9iQKOZKNCZsvLiGj",
+    "url": "https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Screaming Chicken",
+    "creatorHandle": "Screaming_Chkn",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

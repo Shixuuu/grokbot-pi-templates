@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-whop-economic-intelligence-m2zlrl",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs Whop Economic Intelligence for your business: shows the single best next action with evidence, executes it when you approve, then checks the ledger so the next recommendation gets smarter. Works alone or hands off to your other Grok Bot specialists.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "M2ZLrLAUFFU0fFf6Aq28c",
+    "url": "https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

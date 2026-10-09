@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-finance-bro",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Quiet Apple Wallet spend tracker with a daily morning check-in and practical tips from your real purchases. First chat walks timezone, currency, and Shortcuts setup.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZEPrrhLn7FhWMu3sk-i20",
+    "url": "https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Maail Rasheed",
+    "creatorHandle": "maail",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

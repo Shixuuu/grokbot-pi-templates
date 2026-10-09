@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Options second brain for cash-session premium sellers. Runs juice scans, hard outs before economic prints, keep-per-day math, and Plan A/B/C calls. Trader hits the broker — this bot never places trades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nHYn9Fkzgb4kdVxjffvlc",
+    "url": "https://x.ai/bot/nHYn9Fkzgb4kdVxjffvlc",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Eric McFarland",
+    "creatorHandle": "Ericmcfar",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

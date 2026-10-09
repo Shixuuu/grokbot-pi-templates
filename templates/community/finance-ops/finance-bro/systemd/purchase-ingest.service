@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine purchase-ingest (Finance Bro)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/finance-bro
+ExecStart=/usr/bin/env pi -p "/purchase-ingest"

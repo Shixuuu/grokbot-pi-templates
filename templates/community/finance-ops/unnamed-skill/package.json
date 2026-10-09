@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill",
+  "version": "1.0.3",
+  "private": true,
+  "description": "随时语音记账，沉淀成你自己的财务库；每晚日报、每月复盘。开箱先连你自己的飞书 CLI，数据不外泄。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "haSA0Ru28CYKDm2V5tPRB",
+    "url": "https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "kin kin",
+    "creatorHandle": "KinGao476942",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

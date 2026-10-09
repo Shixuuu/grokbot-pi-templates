@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ship-gate",
+  "version": "1.0.1",
+  "private": true,
+  "description": "App Store + Google Play ship captain for indie and company apps. Runs a living store checklist against HANDOFF/OPS, and queues every submit, spend, or public post in an Approve Inbox until you say yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "k-CdVynq7kxNU0jMv2n9K",
+    "url": "https://x.ai/bot/k-CdVynq7kxNU0jMv2n9K",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Patrick O'Reilly",
+    "creatorHandle": "psoreilly",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

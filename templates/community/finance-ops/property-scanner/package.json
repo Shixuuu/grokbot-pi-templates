@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-property-scanner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Find potentially underpriced US homes with ZillAPI. Onboard a buyer, rank listings against nearby sold comps, and deliver numbered photo shortlists — with quiet weekday follow-ups.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-4Hs8iXe_p6Cfc1IRbilu",
+    "url": "https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Rohit",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

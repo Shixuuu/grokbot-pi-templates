@@ -1,0 +1,9 @@
+# Connectors
+
+The Grok Bot template uses these plugins. Pi doesn't install them. If you want the same access, add an MCP server for each one (`pi mcp add <name> ...` or `.pi/mcp.json`, see https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/mcp.md). Credentials were never part of the template.
+
+| Plugin | Grok plugin id | What the template says it is for |
+| --- | --- | --- |
+| Link | `47709840` | Complete purchases with one-time-use payment credentials from a Link wallet, using spend requests the user has approved. |
+| Gmail | `45893410` | Search, read, draft, and manage email. |
+| Exa | `5636` | Web search and content extraction powered by Exa AI |

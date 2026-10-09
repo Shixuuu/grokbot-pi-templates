@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-pantrypatrol",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Monitors MyFitnessPal food logs, analyzes what you actually eat, then builds a ready H-E-B grocery delivery cart—hands-free restock. Future state: pantry camera capture and auto-logging.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BiPCHML6s0cTYPhm4c72_",
+    "url": "https://x.ai/bot/BiPCHML6s0cTYPhm4c72_",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Froy Morales",
+    "creatorHandle": "Jack_137",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

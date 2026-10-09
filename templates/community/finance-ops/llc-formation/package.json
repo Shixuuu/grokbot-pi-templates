@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-llc-formation",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Form a US LLC or C-Corp for your business: collect founders and filing details, open the paid formation checkout, then track status, downloadable docs, and signature links until you are done.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jjZi3um8a6oczowN3ydyE",
+    "url": "https://x.ai/bot/jjZi3um8a6oczowN3ydyE",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

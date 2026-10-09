@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine returns-daily-deadlines (Returns & Warranties)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/returns-warranties
+ExecStart=/usr/bin/env pi -p "/returns-daily-deadlines"

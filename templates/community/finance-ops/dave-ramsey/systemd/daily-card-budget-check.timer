@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-card-budget-check
+
+[Timer]
+OnCalendar=*-*-* 08:42:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

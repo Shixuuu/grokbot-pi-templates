@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-financial-brief
+
+[Timer]
+OnCalendar=*-*-* 06:12:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

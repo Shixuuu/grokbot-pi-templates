@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-privacy-ops",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Data-broker and dead-account removal queue. Finds listings and forgotten logins, drafts official opt-outs, files only after you say yes, and rechecks until gone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZfnCBw8WnIgMynLlika6H",
+    "url": "https://x.ai/bot/ZfnCBw8WnIgMynLlika6H",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Mb B",
+    "creatorHandle": "MehlyHQ4m",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

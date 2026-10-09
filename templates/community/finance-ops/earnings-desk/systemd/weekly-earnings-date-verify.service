@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-earnings-date-verify (Earnings Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/earnings-desk
+ExecStart=/usr/bin/env pi -p "/weekly-earnings-date-verify"

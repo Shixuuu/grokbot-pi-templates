@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-paperwork-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Forward your bills, renewal notices, leases, medical bills, and letters. Paperwork Desk pulls out what you owe and when, tracks every deadline, reminds you before it's due, and drafts replies you approve before anything is sent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Gv02Uedgl530XCpAqbUoU",
+    "url": "https://x.ai/bot/Gv02Uedgl530XCpAqbUoU",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Daniel Masarsky",
+    "creatorHandle": "Daniel191555486",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

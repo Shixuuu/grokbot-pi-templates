@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-watchdog",
+  "version": "1.0.2",
+  "private": true,
+  "description": "On first install, scans email once as soon as Gmail is ready, then weekly for receipts, renewals, and trials. Lists what is charging and what is due in the next 14 days. Never cancels, never spends, never sends mail.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PuAEE57P58Df5zskFY3pg",
+    "url": "https://x.ai/bot/PuAEE57P58Df5zskFY3pg",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "SmoresBoy Jack",
+    "creatorHandle": "jxckvibe",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

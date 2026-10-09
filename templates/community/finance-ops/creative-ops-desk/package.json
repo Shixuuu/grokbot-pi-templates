@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-creative-ops-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Production desk for political and government filmmakers: QC and post native Tape while you shoot, price RFPs from comps, draft partner one-pagers, run X growth on a learning loop — and never claim clients you don’t have.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jh82Xo_CMHlWfE6GpOJmb",
+    "url": "https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Mohammed Al-mawla",
+    "creatorHandle": "Mawlavisuals",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

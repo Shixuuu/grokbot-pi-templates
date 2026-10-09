@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bronn",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Capital Raise IR bot for any round. Finds 1st-degree LinkedIn investors, drafts veiled openers + a Day 4–5 one-liner, and sends the DMs itself on a safe cadence.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dmdieR7YwBkRJN5xYKnn6",
+    "url": "https://x.ai/bot/dmdieR7YwBkRJN5xYKnn6",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Darren Marble",
+    "creatorHandle": "darrenmarble",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

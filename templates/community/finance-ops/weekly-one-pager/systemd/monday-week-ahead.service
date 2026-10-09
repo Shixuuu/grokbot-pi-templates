@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-week-ahead (Weekly One-Pager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/weekly-one-pager
+ExecStart=/usr/bin/env pi -p "/monday-week-ahead"

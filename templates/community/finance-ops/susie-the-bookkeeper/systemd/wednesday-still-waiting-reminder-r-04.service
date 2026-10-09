@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wednesday-still-waiting-reminder-r-04 (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/wednesday-still-waiting-reminder-r-04"

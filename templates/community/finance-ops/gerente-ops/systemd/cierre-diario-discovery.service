@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine cierre-diario-discovery (Gerente Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gerente-ops
+ExecStart=/usr/bin/env pi -p "/cierre-diario-discovery"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-bills-umpd1t",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A bill-shopping assistant that sweeps every recurring bill you pay (car, home, renters, and health insurance, plus electricity, gas, internet, and phone) and finds cheaper or better options for where you actually live. It compares plans apples-to-apples and never switches anything without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UMPD1TkUPvuo9KKuniH2w",
+    "url": "https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "ashen one",
+    "creatorHandle": "ashen_one",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

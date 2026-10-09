@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-buy",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Compiles shoppable trade studies: picks a winner, hunts the best real price, checks buy links, and delivers a chat chart plus full Notion/Docs/Sheets write-up. Optional quiet price watches.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "O9XbjNnFDHDqkOZy87nox",
+    "url": "https://x.ai/bot/O9XbjNnFDHDqkOZy87nox",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Paul",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

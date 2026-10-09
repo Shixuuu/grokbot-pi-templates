@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ff-sunday-inactives-12-45-pm (FF GROK)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ff-grok
+ExecStart=/usr/bin/env pi -p "/ff-sunday-inactives-12-45-pm"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-quote-collector",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds local trades and service businesses, contacts them on the owner's behalf, and gathers comparable quotes for a named job. It never accepts, hires, or spends, and it recommends on price and scope rather than cheapest alone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FI36ngq3zTUOFQrYc-XQX",
+    "url": "https://x.ai/bot/FI36ngq3zTUOFQrYc-XQX",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

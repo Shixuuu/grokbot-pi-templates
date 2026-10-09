@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-dca-bot",
+  "version": "1.0.6",
+  "private": true,
+  "description": "A dynamic DCA bot that reacts to the market: It buys more when things look bad (price and volume are down and the fear index is up) and less when the asset is hyped (the greed index is up as well as volume and price). You just pick the asset, how often to buy, your base price and monthly cap.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AV8qLbETDkgCNT8C4HPAf",
+    "url": "https://x.ai/bot/AV8qLbETDkgCNT8C4HPAf",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Ash",
+    "creatorHandle": "Must_be_Ash",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

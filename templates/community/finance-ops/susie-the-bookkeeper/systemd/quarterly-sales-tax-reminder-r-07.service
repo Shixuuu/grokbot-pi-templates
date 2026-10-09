@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine quarterly-sales-tax-reminder-r-07 (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/quarterly-sales-tax-reminder-r-07"

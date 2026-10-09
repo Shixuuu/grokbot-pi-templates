@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-funnel-path-sweep (Vector)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/vector
+ExecStart=/usr/bin/env pi -p "/weekday-funnel-path-sweep"

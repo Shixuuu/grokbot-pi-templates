@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ky-current-race-live-odds (LiveOdds)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/liveodds
+ExecStart=/usr/bin/env pi -p "/ky-current-race-live-odds"

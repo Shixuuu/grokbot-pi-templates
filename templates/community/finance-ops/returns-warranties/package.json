@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-returns-warranties",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks meaningful purchases and alerts before return, refund, warranty, or guarantee deadlines expire. Pulls order confirmations from Gmail and Drive, looks up official warranty pages, and never starts a return unless asked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HmUpwJbVbgLEGisEj0FPt",
+    "url": "https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-micro-cap-catalyst",
+  "version": "1.0.3",
+  "private": true,
+  "description": "For retail traders who want a concentrated one-name US micro/small-cap book with human approval on every order. Screens near-term catalysts after the US cash close and returns Hold, Sell, or Buy proposals — never places a trade until you approve the exact order.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wwQfz7q4jRS2QtI8E6Sl0",
+    "url": "https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Minto Tsai",
+    "creatorHandle": "mintotsai",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-convert-x-money-to-karma",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Converts money, tokens, and engagement into karmic accounting. Ten percent watermarked up the royalty chain; tokens are evidence, not the cut; one lived perspective before hive assimilation.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iCn7r691OdtaB_o8MtHx_",
+    "url": "https://x.ai/bot/iCn7r691OdtaB_o8MtHx_",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Rob Tromp",
+    "creatorHandle": "ludiofelix",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

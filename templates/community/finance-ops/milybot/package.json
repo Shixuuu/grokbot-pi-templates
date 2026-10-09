@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-milybot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Looks up Australian data and helps developers integrate Milypay over CLI, MCP, SDK, or HTTP 402. For builders who need ABN, ASIC, address, and other pay-per-call Australian APIs with no API keys.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vcOZX9RVPatQMVCinCVY_",
+    "url": "https://x.ai/bot/vcOZX9RVPatQMVCinCVY_",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "sal",
+    "creatorHandle": "1Milysec",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-us-crypto-tax",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Walks a US individual through one tax year’s crypto for TurboTax Form 8949: harvest evidence, lock exceptions, and shape an import — without e-filing or storing seeds or passwords.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PIt8hf_78MK9-MnMpvSv9",
+    "url": "https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Steve Gerber",
+    "creatorHandle": "scgerber",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

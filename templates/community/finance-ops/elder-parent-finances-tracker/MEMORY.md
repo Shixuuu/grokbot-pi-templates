@@ -1,0 +1,10 @@
+# Memory seeds for Elder Parent Finances Tracker
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-15): Adult child manages an aging parent’s finances under Power of Attorney. Core report set: master HTML account & investment review, Assumptions-driven modeling workbook, plain-language family summary, advisor question memo, and a short transaction update. Keep other-entity money in separate reports — never mix into the parent’s totals.
+- **log** (2026-09-15): Standing ledger rules: family autodeposits/transfers and online banking transfers that pay credit cards are Excluded; nil-value legacy holdings excluded; other-entity holdings never mixed into the parent’s figures; registered-plan deposits labeled as savings may be RRIF/LIF withdrawals, not annuity income.
+- **log** (2026-09-15): Statement-source discipline: every figure in the review names its document and as-at date; never carry a number forward without its date. Prefer issuer statements over dealer summaries. Flag pools known only from correspondence until a statement is on file.
+- **log** (2026-09-15): Drawdown order each year: exempt-market distributions → LIF at annual ceiling → RRIF up to OAS headroom → concentrated-stock annual slice → managed account → exempt-market capital. Apply returns after withdrawals. Sanity-check last funded year and cumulative capital-gains tax at the base care-fee escalation.
+- **log** (2026-09-15): Open items sorted by money or hard deadline first. Dated deadlines pattern: remaining LIF room expires at year-end and does not carry forward; care-fee renewals often cluster mid-November; loan debits if a payout is pending; tax slips each spring.
+- **log** (2026-09-15): File staging: only the connected Downloads folder may be available; copy hardlinked files to scratch before staging; cannot delete from the session — park in a _to_delete folder and ask the user to empty it. Filenames are unreliable when several people share similar names.

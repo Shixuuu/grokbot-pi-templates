@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-gen-x-saver",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A credit-saver and generation desk. Runs image, video, voice, and long-script jobs through a setup wizard (your computer, the cloud, or this bot's computer) so Grok Bot credits stay unused, and stamps those save-credits rules onto other bots you name.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eIdc-PoIqkMb99CUwr0EQ",
+    "url": "https://x.ai/bot/eIdc-PoIqkMb99CUwr0EQ",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Odd&Entertaining",
+    "creatorHandle": "oddreport",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

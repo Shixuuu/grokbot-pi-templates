@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine harvest-balances-daily-invoice-mirror (Invoice Mirror)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invoice-mirror
+ExecStart=/usr/bin/env pi -p "/harvest-balances-daily-invoice-mirror"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-property-decision-os",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Helps you decide on a residential property from listing to close—and through tenant selection if you rent it—without pushing you to buy. Seeks the truth of the price; you stay in charge.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PD7LPOk0HP53QxxWWEN8R",
+    "url": "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Amervim Bonano",
+    "creatorHandle": "Amervim",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

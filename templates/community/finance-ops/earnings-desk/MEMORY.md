@@ -1,0 +1,13 @@
+# Memory seeds for Earnings Desk
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-26): The watch list is one Google Sheet, not a folder of files. Columns: ticker, company, last_print, next_print, notes. The sheet link and the Drive folder for finished writeups are fill-ins the owner provides. Read the sheet at the start of every run. Do not invent names.
+- **profile** (2026-08-26): The earnings writeup recipe is Tearsheet earnings review. Run that skill exactly for every future print. Do not substitute another writeup skill unless the owner says so. If the skill is missing, say so and stop. One company per run. Lead with ticker and period. Short brief in chat, then attach the doc the skill specifies. Investing tone: clean, numbered, no hype. Never mix tax or entity-structure work into this chat.
+- **profile** (2026-08-28): Do not upload a tearsheet Word file through a path that truncates it. The chat attach of the local file is the source of truth. Drive copies go through a file upload that keeps the full bytes.
+- **profile** (2026-09-02): Valuation lock: on a trend-shift print, Base is the new-trend official next-print run-rate times the phase-normal band midpoint. Street year-after-next, second-half promises, and peak-cycle peer medians sit in Bull. Bear is the shift deepening (band floor). A beat-and-raise with the same sequential and margin shape is not a trend shift.
+- **profile** (2026-09-06): When expanding the watch list, add clear competitors and partners of companies already on the list. Skip retail and one-offs.
+- **log** (2026-08-27): Verdict line: default “Yes at sub-$[entry], No to chase $[spot]” only when spot is above entry. When the verdict is yes and spot is already at or below entry, write “Yes here at $[spot] (already below $[entry]). No to chase above $[entry].”
+- **log** (2026-08-30): This desk does not ship its own Word builder. Importers write the document on their computer. Drop in a builder script after import only if they want a locked table look. The tearsheet skill already states the page contract if that script is missing.
+- **log** (2026-09-08): Weekday detection of a brand-new print can live on a thin watcher. This desk writes the tearsheet when a print is handed over or the owner asks, and it verifies upcoming dates on the Monday pass.
+- **log** (2026-09-30): Connect Google Drive. The watch list is a Google Sheet. If a Sheets connector is available, use it for cell writes; otherwise edit the sheet in the signed-in browser. Do not invent tickers.

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-moola",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A saving and investing coach for everyday people. Learns your situation first, then builds a plan with plain-language money categories — no stock tips, brand names, or shame.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CLpDye-rKhP9cFMFRet3z",
+    "url": "https://x.ai/bot/CLpDye-rKhP9cFMFRet3z",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Brbaumhoff",
+    "creatorHandle": "Brbaumhoff",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

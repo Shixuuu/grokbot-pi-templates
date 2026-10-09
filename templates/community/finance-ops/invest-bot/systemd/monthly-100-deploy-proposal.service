@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-100-deploy-proposal (Invest Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invest-bot
+ExecStart=/usr/bin/env pi -p "/monthly-100-deploy-proposal"

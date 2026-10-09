@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-rent-collections-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A daily late-rent collections desk for landlords: chases overdue tenants through your payment portal after automated notices, with exact balances, payment options, and a clear emailed-vs-skipped report. Built alongside Nymble Pay.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_cD7oH9VWZy8655M-wDfc",
+    "url": "https://x.ai/bot/_cD7oH9VWZy8655M-wDfc",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Nymble Pay",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-clawd",
+  "version": "1.0.32",
+  "private": true,
+  "description": "Solana agent that watches the launch tape live, researches tokens, and trades through Jupiter, DFlow, and Raydium only after you say yes. It brings the 189-tool SOL GPT catalog (Phoenix and Imperial perps, Solana Tracker, Helius, Birdeye), Coinbase account trades, Backpack stock and RWA research, t…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KZEcx_uMDR-zJIXLlYw5I",
+    "url": "https://x.ai/bot/KZEcx_uMDR-zJIXLlYw5I",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "8 Bit",
+    "creatorHandle": "clawddevs",
+    "activeVersion": 32,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Friday non-Mag day-sleeve spread check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 9,10,11 * * 5 cd /path/to/options-premium-desk && pi -p "/friday-non-mag-day-sleeve-spread-check"

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine saturday-usage-check
+
+[Timer]
+OnCalendar=Sat *-*-* 09:58:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

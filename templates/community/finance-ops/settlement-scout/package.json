@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-settlement-scout",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Settlement Scout helps you recover money you actually qualify for: class-action settlements, overdue refunds, and more. Daily briefings on verified new payouts, reminders before deadlines, and an optional email search for settlement notices, with you in control of every claim.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eSbC0EjdL3r6XOvB4lhOd",
+    "url": "https://x.ai/bot/eSbC0EjdL3r6XOvB4lhOd",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "cokeandrice.akita.algo | Folks Finance",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

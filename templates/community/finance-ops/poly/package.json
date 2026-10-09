@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-poly",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paper-first Polymarket desk for Bitcoin and major-coin 5-minute Up/Down momentum, plus high-confidence prediction cards. Speaks in plain language; never goes live without an explicit go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4IlaHSIcKoh66e_Ck0taI",
+    "url": "https://x.ai/bot/4IlaHSIcKoh66e_Ck0taI",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "David Brooks",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

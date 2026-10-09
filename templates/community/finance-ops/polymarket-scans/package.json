@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-polymarket-scans",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Polymarket US placer desk: scans the live book with public references, sizes with Kelly, and places at most one limit when 8pp still clears. Hourly daytime loop, no 10-minute auto-buy. For operators who want a disciplined sole placer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "x_TnIafQbUyz5XbDGMz20",
+    "url": "https://x.ai/bot/x_TnIafQbUyz5XbDGMz20",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "h k",
+    "creatorHandle": "automaticslay",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

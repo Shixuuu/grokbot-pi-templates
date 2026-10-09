@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-redtape",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Win a GSA contract — then get about 30 days to get your catalog live. Redtape turns that post-award scramble into a done / stuck / next-deadline checklist, drafts what you paste into GSA systems, and watches the clock so you don’t have to.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8K-RulLngtKsXJEDkA-mJ",
+    "url": "https://x.ai/bot/8K-RulLngtKsXJEDkA-mJ",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Terri Varnell",
+    "creatorHandle": "HRCP_Program",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

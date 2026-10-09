@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-deal-finder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches products you care about and only pings you when the price actually drops below your baseline — or a real sale shows up. Built for quiet weekday checks across retailers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "F1gmAaLQNmXDj-PH_CEx3",
+    "url": "https://x.ai/bot/F1gmAaLQNmXDj-PH_CEx3",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Brad Garcia",
+    "creatorHandle": "bradgarcia",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

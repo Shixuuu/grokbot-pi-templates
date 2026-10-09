@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-invoice-mirror",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Keeps Harvest and Balances invoices in sync: daily create/update from Harvest into Balances, then mark Harvest paid when Balances shows payment. Stages drafts and posts only with your approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HwckXN5Yd1uxRu86msyfj",
+    "url": "https://x.ai/bot/HwckXN5Yd1uxRu86msyfj",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jerrod Tuck",
+    "creatorHandle": "jerrodtuck",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

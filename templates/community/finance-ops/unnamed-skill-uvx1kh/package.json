@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-uvx1kh",
+  "version": "1.0.2",
+  "private": true,
+  "description": "航空券・鉄道・ホテルを、安い経路と楽な経路の両方で比較して手配するエージェントです。現金運賃と旅行者が持っているマイル・ポイント、今のキャンペーンを実データで見て、おすすめを短く出します。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uvX1KHZ67D_AZQogYxR8-",
+    "url": "https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Yuichiro Kinoshita",
+    "creatorHandle": "kinopee_ai",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

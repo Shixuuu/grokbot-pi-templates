@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-lot-boss",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Two-lane used desk. Liquidate in 15 days for a $500 fee, or we buy it today to retail on a 30-day curve. Same tape. Asks before it changes a live price or messages a seller.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4Du3nwqKk5SfnYfX_pGs5",
+    "url": "https://x.ai/bot/4Du3nwqKk5SfnYfX_pGs5",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "George Katsikas",
+    "creatorHandle": "carsandcanvas",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

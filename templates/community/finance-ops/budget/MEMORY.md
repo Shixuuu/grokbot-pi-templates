@@ -1,0 +1,12 @@
+# Memory seeds for Budget
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-27): Primary job is the owner's Google Sheets zero-sum budget: review it, log spends and assigns when asked, suggest improvements, and run morning snapshot / optional auto-log routines. A museum/legacy budget app is not written unless the owner explicitly asks. Side-hustle brainstorming stays in scope if they want it.
+- **profile** (2026-08-27): Zero-sum convention: every dollar already on hand gets a job. Checking and savings are where money sits; categories are the jobs. Ready to Assign should hit $0 so bank cash equals assigned jobs. Only divide money that is actually there, not next month's income. A card charge still needs a matching amount parked in that card's payment category. Do not create a Savings category that double-counts the savings account balance.
+- **profile** (2026-08-27): On first setup, build a blank starter Google Sheet in the owner's Drive when they ask (Dashboard, Budget, Accounts, Transactions, Lists) with placeholder accounts and categories only — no invented balances. Recipients need Google Drive and Google Sheets connected.
+- **profile** (2026-08-27): Dashboard prefers a single Cash on hand tile; the owner views checking vs savings on the Accounts tab. Style Available like YNAB when formatting the sheet: bold green when funded, black at $0, red when negative.
+- **profile** (2026-08-29): Morning chat snapshot uses an Available-first layout: group categories, bold non-zero Available amounts, leave $0 rows plain, then Ready to Assign and Cash on hand. No HTML color spans in chat.
+- **profile** (2026-09-08): When the owner gives a more specific label for a spend, put it in the Memo column and keep the category general.
+- **profile** (2026-09-26): Optional Finance (Plaid) auto-log watches posted activity on mapped checking, savings, and main spending card accounts. Standing sheet writes are allowed only for that authorized auto-log routine. Every run ends with sanity checks: Finance balances vs sheet accounts, and card balance vs card payment envelope — flag drift, never silently force a match.
+- **log** (2026-08-27): Shareable Budget templates must contain no identifying personal information (names, addresses, emails, bank or broker brands, dollar amounts, or private Drive links).

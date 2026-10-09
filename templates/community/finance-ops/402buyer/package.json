@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-402buyer",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Sets up a Coinbase Agentic Wallet and buys from x402 paywalls and the x402 bazaar. For anyone who wants an agent that can discover a paid endpoint, settle USDC on Base, and hand back the result.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wygP8wogrg509aSev5RMF",
+    "url": "https://x.ai/bot/wygP8wogrg509aSev5RMF",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Eric Ren",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

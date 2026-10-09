@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-business-accountant",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Books, payroll, and tax drafts from source docs for small businesses — fill and advise only under US GAAP/AICPA-style practice. Never e-files or moves money.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PTOBYQBPtEQtA1S8M1Pga",
+    "url": "https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Roman Potapov",
+    "creatorHandle": "RomanPotapovBiz",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-visibility-marketer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Free organic marketer for Grok Bot templates. Writes natural, human-feeling copy; finds no-new-account visibility; posts on accounts you already own when you grant access. No paid ads, no throwaway forums.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DnNh9tbUQOv4WpWKRafkF",
+    "url": "https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Wardonis Valenroth",
+    "creatorHandle": "Wardonis",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

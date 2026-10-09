@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gorlin-syndrome-care-team",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A free care-team bot for people living with Gorlin syndrome (BCNS) and their families. Tracks new research and clinical trials in plain English, keeps care notes organized, and helps you prep for doctor visits. Not medical advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ghy5ckaaK96B-yTsBuPhd",
+    "url": "https://x.ai/bot/ghy5ckaaK96B-yTsBuPhd",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "John McGinley",
+    "creatorHandle": "McJohnnymac",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

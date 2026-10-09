@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine pre-session-scan
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 05:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

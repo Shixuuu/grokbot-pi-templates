@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-cory",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Advises on algorithms, data structures, concurrency, and peer-to-peer sync for a local-first runtime. Warm and direct, for someone who wants the foundations designed carefully.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "U7voXH4XF5cD1lxMczbNk",
+    "url": "https://x.ai/bot/U7voXH4XF5cD1lxMczbNk",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

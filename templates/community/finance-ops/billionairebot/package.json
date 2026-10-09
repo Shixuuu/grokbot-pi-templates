@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-billionairebot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A wealth and business assistant. The new owner sets the focus, whether that is company cash, a media business, or personal wealth.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "y-phHxm4D_W32YEi-z6VB",
+    "url": "https://x.ai/bot/y-phHxm4D_W32YEi-z6VB",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Diego Arias LLC",
+    "creatorHandle": "innrstand",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

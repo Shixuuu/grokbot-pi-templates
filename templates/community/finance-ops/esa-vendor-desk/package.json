@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-esa-vendor-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs multi-state ESA and voucher vendor filings, ClassWallet/Odyssey hygiene, and curriculum directory listings for a classical Christian curriculum product. Keeps a register, drafts portal copy, and stops before any send spend or production ship.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GBB4tGs-8cSl8DTX3zhyg",
+    "url": "https://x.ai/bot/GBB4tGs-8cSl8DTX3zhyg",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Another Joe",
+    "creatorHandle": "AnotherJoe",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

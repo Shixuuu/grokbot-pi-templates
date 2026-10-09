@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-invoice-hunter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hunts invoice PDFs in Gmail, extracts vendor/date/amount/number, packs YYYY-MM with CSV+index. Approve before accountant send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-kO6HrXokJZANVwUOMZO9",
+    "url": "https://x.ai/bot/-kO6HrXokJZANVwUOMZO9",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Andrej Šimunaj",
+    "creatorHandle": "scheemunai",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

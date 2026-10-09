@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dagny-by-michael",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Portfolio GM sidekick for multi-unit bakery and dessert brands. Forward-looking ops partner for revenue, gaps, marketing plays, and clear next steps — not a cheerleader.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cbdUpGcKsW9drlkAe9Jd4",
+    "url": "https://x.ai/bot/cbdUpGcKsW9drlkAe9Jd4",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "Michael",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

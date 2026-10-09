@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-venture-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "One weekday brief across every small online business you run: traffic, sales, the one blocker, and the next move for each, plus a launch checklist so nothing ships half-ready.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_hVb4x6xAmUqR68mq_VYA",
+    "url": "https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Scott Corlett",
+    "creatorHandle": "CorlettScott",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

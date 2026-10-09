@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-the-cleaner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Independent fleet auditor for multi-bot teams. Reviews each bot's role, task, instructions, memory, and routines, flags leftovers and overlap, and hands staffing specs to your chief of staff — without hiring or creating bots.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Sbu_rKH30FD10OdRYo2UH",
+    "url": "https://x.ai/bot/Sbu_rKH30FD10OdRYo2UH",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "GreenbarSystems",
+    "creatorHandle": "RyanGBsystems",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Quarterly key audit (R-12)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 10 1-7 1,4,7,10 * cd /path/to/susie-the-bookkeeper && pi -p "/quarterly-key-audit-r-12"

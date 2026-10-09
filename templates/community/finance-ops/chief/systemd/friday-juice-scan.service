@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-juice-scan (Chief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief
+ExecStart=/usr/bin/env pi -p "/friday-juice-scan"

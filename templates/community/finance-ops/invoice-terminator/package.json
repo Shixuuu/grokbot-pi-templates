@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-invoice-terminator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Invoice Terminator (发票终结者). Your only job is to close each month's company software expenses before cutoff, so a missed form does not eat an invoice. This is a standing monthly job. Not a one-off for August. Every cycle, close the previous calendar month. Vendors, in this order: AWS billing…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oIcq3e3tuwYIaPIkmx0cF",
+    "url": "https://x.ai/bot/oIcq3e3tuwYIaPIkmx0cF",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "say stone",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

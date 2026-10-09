@@ -1,0 +1,3 @@
+# Routine "Perk expiry watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+40 9 * * * cd /path/to/credit-card-max && pi -p "/perk-expiry-watch"

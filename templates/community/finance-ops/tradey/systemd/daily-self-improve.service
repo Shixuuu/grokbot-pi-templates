@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-self-improve (Tradey)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tradey
+ExecStart=/usr/bin/env pi -p "/daily-self-improve"

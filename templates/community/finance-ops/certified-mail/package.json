@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-certified-mail",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sends certified and return-receipt letters for you through Lob, with address checks, a proof preview, and tracking. Free with your own Lob key, or pay per letter through Better Call Mail.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2_atrZhx9w5HRmJKlw7DM",
+    "url": "https://x.ai/bot/2_atrZhx9w5HRmJKlw7DM",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Zach Rottmann",
+    "creatorHandle": "zrottmann",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

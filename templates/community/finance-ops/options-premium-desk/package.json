@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-options-premium-desk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Tasty-style options desk: 45–60 put credits + bullish day sleeve. Premarket covers rates/yield curve, call/put dollar flow, and Mag terminal screen. Research and alerts — you click.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qi4tUvKkQelzwsV2siUwR",
+    "url": "https://x.ai/bot/qi4tUvKkQelzwsV2siUwR",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "JC Christopher",
+    "creatorHandle": "JCChristopher",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

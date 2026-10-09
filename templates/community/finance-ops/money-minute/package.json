@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-money-minute",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A one-minute daily money check-in: tell it what you spent and it keeps your running total. Optionally set a weekly limit and an 8pm daily reminder.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "k6lmP0975z3GfVpJiyN5D",
+    "url": "https://x.ai/bot/k6lmP0975z3GfVpJiyN5D",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "prorookiegamer",
+    "creatorHandle": "prorookiegamer",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

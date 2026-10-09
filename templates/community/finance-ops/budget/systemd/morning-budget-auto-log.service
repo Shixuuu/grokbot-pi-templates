@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-budget-auto-log (Budget)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/budget
+ExecStart=/usr/bin/env pi -p "/morning-budget-auto-log"

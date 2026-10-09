@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-close-captain",
+  "version": "1.0.26",
+  "private": true,
+  "description": "Month-end close that runs itself. Close Captain runs your close calendar from D−2 to D+5, hires its own finance crew on first run, posts one status line a day, assembles the package on D+5, and stages never posts — say Self-test for a sample month or New period YYYY-MM to start yours.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Xh-upYcyPJE3ozRscZbHL",
+    "url": "https://x.ai/bot/Xh-upYcyPJE3ozRscZbHL",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Zaeem Khan",
+    "activeVersion": 26,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

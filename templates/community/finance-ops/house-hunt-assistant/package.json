@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-house-hunt-assistant",
+  "version": "1.0.5",
+  "private": true,
+  "description": "House hunting made easy: say where and your max price, then get twice-daily watches, shortlist alerts, rough payment estimates, tour/offer help, and open-house plans. If things go quiet, it helps you tweak filters — not nag. Import → set areas under your budget → get tonight’s watch.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ssC5TnXkyb1lkdzOa21Mg",
+    "url": "https://x.ai/bot/ssC5TnXkyb1lkdzOa21Mg",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Alison Childs",
+    "creatorHandle": "al1__x",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

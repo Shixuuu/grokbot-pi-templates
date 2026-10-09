@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-clippy-shopper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your AI, now a savvy shopper. Clippy finds coupon codes automatically before you check out. Free. Affiliate: Clippy may earn a commission.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Z56l38GYvaZtYIgjhDl6-",
+    "url": "https://x.ai/bot/Z56l38GYvaZtYIgjhDl6-",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Matt Lucero",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

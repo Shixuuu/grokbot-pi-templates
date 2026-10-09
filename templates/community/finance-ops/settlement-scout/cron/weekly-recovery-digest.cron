@@ -1,0 +1,3 @@
+# Routine "Weekly recovery digest" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+54 8 * * 0 cd /path/to/settlement-scout && pi -p "/weekly-recovery-digest"

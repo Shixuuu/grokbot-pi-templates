@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-coin-agent-self-check (Coin)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/coin
+ExecStart=/usr/bin/env pi -p "/morning-coin-agent-self-check"

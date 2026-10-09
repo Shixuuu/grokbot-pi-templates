@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine japan-2027-flight-deal-watch (Travel Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/travel-agent
+ExecStart=/usr/bin/env pi -p "/japan-2027-flight-deal-watch"

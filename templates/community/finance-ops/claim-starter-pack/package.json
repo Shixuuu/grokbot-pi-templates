@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-claim-starter-pack",
+  "version": "1.0.3",
+  "private": true,
+  "description": "For people mid-chaos after damage, theft, or accident: get a what-happened timeline, docs checklist, adjuster questions, and a draft claim narrative—before you call the insurer. No invented coverage.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "k3-TuPGQzUVKtnjYNWji0",
+    "url": "https://x.ai/bot/k3-TuPGQzUVKtnjYNWji0",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

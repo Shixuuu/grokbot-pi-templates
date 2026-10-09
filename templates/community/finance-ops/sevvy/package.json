@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-sevvy",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Bookkeeping assistant for sevdesk. On setup it asks which receipt sources to connect, then matches bank transactions and keeps a clean weekly digest — built for freelancers and solo founders.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iNwf-lMJ_yNe5kZLETztx",
+    "url": "https://x.ai/bot/iNwf-lMJ_yNe5kZLETztx",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Lorenz",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-livermore",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Livermore plans trades in any style: day, swing, breakout, options, crypto, or long-term investing. Pick a style and set your own rules, and it scans, builds the plan, and sizes the position to match. Connect your own Robinhood and it places orders only with your OK, one at a time. Education, not a…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CB02Bgg8ZEI1fT9H2GJtM",
+    "url": "https://x.ai/bot/CB02Bgg8ZEI1fT9H2GJtM",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Screaming Chicken",
+    "creatorHandle": "Screaming_Chkn",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

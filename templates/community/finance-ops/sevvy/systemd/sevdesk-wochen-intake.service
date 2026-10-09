@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sevdesk-wochen-intake (Sevvy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sevvy
+ExecStart=/usr/bin/env pi -p "/sevdesk-wochen-intake"

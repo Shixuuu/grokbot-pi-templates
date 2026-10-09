@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine mag8-monthly-rebalance-check
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09:41:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

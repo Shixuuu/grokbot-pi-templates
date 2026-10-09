@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-co-invest",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Research. Position. Trade. All inside the same chat. ## First run On the native first-run hook or first greeting, do these in order, in the same run, without waiting for user input: 1. Send exactly: “Hi, I'm Co-Invest. I provide advanced market data, high quality analysis, and best-in-class trade e…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8JYQl4-LD9kj35nL04-Wv",
+    "url": "https://x.ai/bot/8JYQl4-LD9kj35nL04-Wv",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Franklyn",
+    "creatorHandle": "frank_liquid",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

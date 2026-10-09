@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-class-action-claim-scan (Class Action Lawsuit Finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/class-action-lawsuit-finder
+ExecStart=/usr/bin/env pi -p "/monthly-class-action-claim-scan"

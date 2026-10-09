@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine earnings-desk-eod
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 18:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

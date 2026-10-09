@@ -1,0 +1,3 @@
+# Routine "AI remaining 10% drop" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+45 9-18 * * 1-5 cd /path/to/aiusagebot && pi -p "/ai-remaining-10-drop"

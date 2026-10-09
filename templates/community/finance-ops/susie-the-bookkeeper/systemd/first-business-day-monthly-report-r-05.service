@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine first-business-day-monthly-report-r-05 (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/first-business-day-monthly-report-r-05"

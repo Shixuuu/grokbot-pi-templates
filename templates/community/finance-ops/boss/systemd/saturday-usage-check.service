@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine saturday-usage-check (Boss)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/boss
+ExecStart=/usr/bin/env pi -p "/saturday-usage-check"

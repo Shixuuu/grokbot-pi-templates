@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-budget-tracker-desk-money-clear",
+  "version": "1.0.2",
+  "private": true,
+  "description": "💰 Turn a transaction list into a categorized budget-vs-actual report with the math shown and recurring charges flagged. Card numbers are masked, and it never moves money.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wa82z_iim-tiedvwfpxmm",
+    "url": "https://x.ai/bot/wa82z_iim-tiedvwfpxmm",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

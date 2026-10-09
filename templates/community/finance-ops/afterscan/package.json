@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-afterscan",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Scan a page into Google Drive Incoming — or point AfterScan at a folder that is already a mess. It reads the file, names it from what it actually is, and puts it away. Dupes get hashed. Near-dupes wait for you. Last batch can be undone. Recycle the paper.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UaxwaoTEmiYzE7AulxLAe",
+    "url": "https://x.ai/bot/UaxwaoTEmiYzE7AulxLAe",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Zachariah Johnson",
+    "creatorHandle": "xucchini",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

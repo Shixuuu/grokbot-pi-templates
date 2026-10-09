@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-warranty-reality-card",
+  "version": "1.0.4",
+  "private": true,
+  "description": "For homeowners mid-breakdown before they call: map likely covered, gray, and excluded against your warranty clauses—with questions to ask and docs to keep. No fake payouts or legal certainty.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YWu42GxAe2pMxN5eLzPis",
+    "url": "https://x.ai/bot/YWu42GxAe2pMxN5eLzPis",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

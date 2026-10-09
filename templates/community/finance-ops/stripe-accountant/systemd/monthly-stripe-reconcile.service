@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-stripe-reconcile (Stripe Accountant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/stripe-accountant
+ExecStart=/usr/bin/env pi -p "/monthly-stripe-reconcile"

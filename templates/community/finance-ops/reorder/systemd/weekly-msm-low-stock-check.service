@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-msm-low-stock-check (Reorder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/reorder
+ExecStart=/usr/bin/env pi -p "/weekly-msm-low-stock-check"

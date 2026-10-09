@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bricksonian-shipping-check (Gimli)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gimli
+ExecStart=/usr/bin/env pi -p "/bricksonian-shipping-check"

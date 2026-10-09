@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-research-optional-trade-proposal (Invest Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invest-bot
+ExecStart=/usr/bin/env pi -p "/sunday-research-optional-trade-proposal"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-rewardsmaxxing",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you put every purchase on the highest-earn credit card. Reads your Link wallet, shows what each card earns, locks a playbook, and pays on that path.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "upsD2c_qFmh6n4biksRvi",
+    "url": "https://x.ai/bot/upsD2c_qFmh6n4biksRvi",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Ishu",
+    "creatorHandle": "ishuagra02",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

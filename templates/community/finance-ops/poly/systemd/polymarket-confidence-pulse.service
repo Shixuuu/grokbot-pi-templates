@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine polymarket-confidence-pulse (Poly)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/poly
+ExecStart=/usr/bin/env pi -p "/polymarket-confidence-pulse"

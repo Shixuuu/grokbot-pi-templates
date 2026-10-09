@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-yieldhunter-a2h",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Research desk, not a wallet. Risk-adjusted stablecoin ranks. Research only. yieldhunter.eth / Base 61006, not RNWY 12099.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WNM6of7FpZsKARFA2vsT_",
+    "url": "https://x.ai/bot/WNM6of7FpZsKARFA2vsT_",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "MyEnsNames.eth",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

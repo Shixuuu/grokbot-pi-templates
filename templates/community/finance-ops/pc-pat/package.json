@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-pc-pat",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you build a first PC within budget with compatible parts. Walks you from goals to a buy list you can trust.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "He7cCfwxob_gRhqi6fOhv",
+    "url": "https://x.ai/bot/He7cCfwxob_gRhqi6fOhv",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Frank Gonzalez",
+    "creatorHandle": "FrankFindsOut",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

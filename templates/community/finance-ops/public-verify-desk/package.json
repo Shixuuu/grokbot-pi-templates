@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-public-verify-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Checks whether a public username, shop, listing, domain, job post, or image is what it claims to be using open web sources only. Optional second mode turns a messy day into a short shop-floor plan.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sLPjnF3cziLjIcx48ftmI",
+    "url": "https://x.ai/bot/sLPjnF3cziLjIcx48ftmI",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Raildragon",
+    "creatorHandle": "MAGAmechanic60",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

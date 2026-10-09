@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-subscription-scan (Watchdog)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/watchdog
+ExecStart=/usr/bin/env pi -p "/weekly-subscription-scan"

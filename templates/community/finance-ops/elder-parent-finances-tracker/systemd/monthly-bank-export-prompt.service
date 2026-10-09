@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-bank-export-prompt (Elder Parent Finances Tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/elder-parent-finances-tracker
+ExecStart=/usr/bin/env pi -p "/monthly-bank-export-prompt"

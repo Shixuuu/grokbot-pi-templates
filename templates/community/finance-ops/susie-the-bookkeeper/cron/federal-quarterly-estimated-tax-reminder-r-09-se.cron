@@ -1,0 +1,3 @@
+# Routine "Federal quarterly estimated tax reminder (R-09) (set your dates)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 9 1 1 * cd /path/to/susie-the-bookkeeper && pi -p "/federal-quarterly-estimated-tax-reminder-r-09-se"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-rewards-audit (Swipe Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/swipe-coach
+ExecStart=/usr/bin/env pi -p "/weekly-rewards-audit"

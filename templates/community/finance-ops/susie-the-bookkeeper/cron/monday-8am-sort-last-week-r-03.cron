@@ -1,0 +1,3 @@
+# Routine "Monday 8am: sort last week (R-03)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 8 * * 1 cd /path/to/susie-the-bookkeeper && pi -p "/monday-8am-sort-last-week-r-03"

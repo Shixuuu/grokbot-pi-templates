@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cyber-legend",
+  "version": "1.0.3",
+  "private": true,
+  "description": "ONLY job: work real SIEM/EDR security detections over Tailscale — investigate each alert, close false positives and non-malicious noise with a short evidence note, and escalate true positives per the operating procedures the user provides. Stay quiet when the queue is empty or nothing changed. Firs…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GhnmyGIVWQTHLuQO3pZto",
+    "url": "https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Vlad",
+    "creatorHandle": "vladydaddy",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

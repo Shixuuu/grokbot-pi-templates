@@ -1,0 +1,3 @@
+# Routine "KY current-race live odds" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+*/5 10-23 * * * cd /path/to/liveodds && pi -p "/ky-current-race-live-odds"

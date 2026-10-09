@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-weekly-stock-rundown (Invest Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invest-bot
+ExecStart=/usr/bin/env pi -p "/sunday-weekly-stock-rundown"

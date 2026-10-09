@@ -1,0 +1,3 @@
+# Routine "Wrong-card recurring watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+52 9 * * 1 cd /path/to/credit-card-max && pi -p "/wrong-card-recurring-watch"

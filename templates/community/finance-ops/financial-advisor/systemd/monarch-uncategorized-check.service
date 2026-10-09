@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monarch-uncategorized-check (Financial Advisor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/financial-advisor
+ExecStart=/usr/bin/env pi -p "/monarch-uncategorized-check"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine slipped-promise-check (PayDate Chase)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/paydate-chase
+ExecStart=/usr/bin/env pi -p "/slipped-promise-check"

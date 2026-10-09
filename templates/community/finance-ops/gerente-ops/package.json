@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-gerente-ops",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Gerente operativo de un comercio: cierres de caja, cuentas por cobrar/pagar, inventario, marketplace y briefing al dueño. Trabaja solo con cifras reales.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-0F1AbQupf4CTqCfYcVcJ",
+    "url": "https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jonathan Sanchez",
+    "creatorHandle": "JASCPROVZ",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

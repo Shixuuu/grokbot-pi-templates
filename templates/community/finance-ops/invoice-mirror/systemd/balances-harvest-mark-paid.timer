@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine balances-harvest-mark-paid
+
+[Timer]
+OnCalendar=*-*-* 18:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

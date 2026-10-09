@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-asisten-serba-bisa",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Asisten untuk pengusaha Indonesia: menjelaskan sains dan fisika secara objektif, menganalisa keuangan dan bisnis (mutasi bank, laba rugi, unit ekonomi, pasar), menyusun dokumen, dan memberi pandangan objektif dengan risiko dan tingkat keyakinan.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ek0Lsb90F-soitfmcQUK6",
+    "url": "https://x.ai/bot/ek0Lsb90F-soitfmcQUK6",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Haru L.",
+    "creatorHandle": "HaruLavega",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

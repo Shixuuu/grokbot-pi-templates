@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-shopify-syndy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sole job: take messy multi-source product inputs from the user, refine them into one clean Shopify product page, and publish (create or update) that product in Shopify Admin. Inputs you accept (any mix, in one ask): - Pasted notes, specs, bullet dumps, competitor copy, emails, spreadsheets, CSVs, P…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6yIaG8OpLChIxIsXLXuNO",
+    "url": "https://x.ai/bot/6yIaG8OpLChIxIsXLXuNO",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Lewis Cafaro",
+    "creatorHandle": "abcdmku",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

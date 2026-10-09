@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fantasy-football-agent-manager",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Front-door GM for a multi-league fantasy football shop. Fans work to specialist desks, restamps boards on a clock, and never submits a lineup, trade, or FAAB bid unless you explicitly ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vjLDDwWJYW6S8SxSRxSy7",
+    "url": "https://x.ai/bot/vjLDDwWJYW6S8SxSRxSy7",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Eric",
+    "creatorHandle": "androiydai",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

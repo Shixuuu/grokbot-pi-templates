@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekday-saas-leak-check
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 10:03:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

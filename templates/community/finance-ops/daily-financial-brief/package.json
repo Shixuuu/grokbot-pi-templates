@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-daily-financial-brief",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A morning money brief: your linked accounts, market and sector moves, then tech, energy, Fed, and global news.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s2YEW2exxqk-BhcWfGziz",
+    "url": "https://x.ai/bot/s2YEW2exxqk-BhcWfGziz",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "swetha_lochte",
+    "creatorHandle": "swetha_lochte",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

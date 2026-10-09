@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-8am-sort-last-week-r-03 (Susie the Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susie-the-bookkeeper
+ExecStart=/usr/bin/env pi -p "/monday-8am-sort-last-week-r-03"

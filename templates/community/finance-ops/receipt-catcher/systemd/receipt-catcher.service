@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine receipt-catcher (Receipt Catcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/receipt-catcher
+ExecStart=/usr/bin/env pi -p "/receipt-catcher"

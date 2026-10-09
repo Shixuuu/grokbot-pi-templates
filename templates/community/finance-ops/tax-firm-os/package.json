@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-tax-firm-os",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Assistant for a tax or accounting office. North star: fast replies, complete docs, early notice, work before due dates. One bot for the whole office. Email: read + suggested replies, never send. You stay in charge of sending, signing, and filing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vJqjJphtZRkdBTYBxmWur",
+    "url": "https://x.ai/bot/vJqjJphtZRkdBTYBxmWur",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Amervim Bonano",
+    "creatorHandle": "Amervim",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

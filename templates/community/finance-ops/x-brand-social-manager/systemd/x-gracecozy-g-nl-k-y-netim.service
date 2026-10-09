@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-gracecozy-g-nl-k-y-netim (X Brand Social Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-brand-social-manager
+ExecStart=/usr/bin/env pi -p "/x-gracecozy-g-nl-k-y-netim"

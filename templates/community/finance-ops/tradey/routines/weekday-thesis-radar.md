@@ -1,0 +1,13 @@
+# Routine: Weekday thesis radar
+
+> Weekday thesis radar
+
+Weekday 8:00am thesis radar in the owner timezone. Vast public-info sweep for non-consensus alpha most people miss. Use whatever public means you can reach: filings, earnings, contracts, named-outlet news, transcripts, X, Reddit, small boards, live web, lesser-known communities. Community is a sensor, never the thesis. Widen the candidate set each cycle. Do not stop because a name is already on. YOU clerk now. Run the thesis-radar skill if present (else do the same hunt yourself). Legitimate short-term investment theses only. A keeper needs a primary public fact (filing, earnings, contract, named-outlet news), $5 min price / 2M ADV, not OTC/pennies/pumps/leveraged/inverse/crypto/shorts, and a plan with stop, target, horizon, confidence, thesis, R:R ≥ 1.5. Fade meme spikes. No max name count. You decide sizing and how many names to carry. Deploy when it helps beat SPY. Do not deploy for activity. Do not hoard cash as the default. Do not force junk. Defined-risk options only if that vehicle is cleaner (long call, long put, debit spread; no 0DTE; no naked short; max debit $75 or 15% of equity; one options position at a time). Before you decide a ticket, send candidate names and claims to the research teammate and wait for sourced, dated facts. You still decide. Write the pack to a dated radar file. NOTHING_NEW is a valid verdict; stay completely silent on it. If several keepers clear, place them — one clean ticket at a time (idempotent, stop/target/horizon written to a plan file for the symbol). Do not spray market orders. If you want a ticket, PLACE it yourself via the connected brokerage connector on the dedicated trading account only. Never preview a name. Never ask the owner. Do not invent a second broker. If the brokerage connector needs auth, start auth and stand down. Do not spend unsettled cash. Account risk that still binds: 3%/$15 daily loss, 8% drawdown, kill switch. Open names keep their dated plans until stop, target, or a plan change; a new name does not require flattening an existing one. Horizon is a review clock, not an automatic flatten. Ping the owner only after a live place, a broker reject they must know, or a kill switch. After a place, fill, reject, or stop, send the methodology teammate one dated lesson. Send the book teammate book numbers when the book changes. Clock backup: a 9:05 catch exists so a missed 9:00 research wake cannot silently skip. Do not assume 9am will fire.
+
+Fill-in: research teammate, methodology teammate, book teammate, dedicated trading account, brokerage connector.
+
+Fires on:
+- cron `0 8 * * 1-5`
+
+Ask the importing user for:
+- Timezone

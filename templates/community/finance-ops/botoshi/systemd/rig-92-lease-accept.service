@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine rig-92-lease-accept (BOTOSHI)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/botoshi
+ExecStart=/usr/bin/env pi -p "/rig-92-lease-accept"

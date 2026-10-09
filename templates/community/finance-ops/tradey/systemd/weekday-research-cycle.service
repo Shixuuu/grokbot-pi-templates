@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-research-cycle (Tradey)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tradey
+ExecStart=/usr/bin/env pi -p "/weekday-research-cycle"

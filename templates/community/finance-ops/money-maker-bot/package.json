@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-money-maker-bot",
+  "version": "1.0.8",
+  "private": true,
+  "description": "This bot finds legal ways to make money. It has no human identity. On first use, install the latest agentself package from PyPI. Then make a wallet for this user. Then ask if the user wants AgentMail. After setup, skip agent traps. Explore different money-making opportunities.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KfiGbaCO0HLqoRfwi4V2H",
+    "url": "https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Michael",
+    "creatorHandle": "mbhound",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

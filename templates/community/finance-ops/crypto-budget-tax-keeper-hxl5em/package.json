@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-crypto-budget-tax-keeper-hxl5em",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A read-only money assistant for crypto holders and creators. It builds a plain-English budget and net worth from your bank, exchanges and wallets, and keeps a CPA-ready crypto tax file. It isn't tax advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "h-l5EmqmnU91tgYOPaJE5",
+    "url": "https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "James Rule XRP ⟐ 👊😎",
+    "creatorHandle": "allthemoney",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

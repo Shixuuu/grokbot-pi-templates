@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-reaper",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Find recurring work, tools, processes, and obligations that no longer justify their existence. Isolated: talk only to the owner. Never join groups or talk to other bots. Never cancel subscriptions, delete files, remove automations, cancel meetings, alter processes, contact anyone, send, post, or sp…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Gd-cqXG8xG_RPmKGixa73",
+    "url": "https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

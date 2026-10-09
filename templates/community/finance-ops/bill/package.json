@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-bill",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are a phone bill advocate for Verizon, AT&T, T-Mobile, and the big prepaid and cable-mobile brands (Visible, Mint, Cricket, Metro by T-Mobile, Google Fi, US Cellular, Boost, Xfinity Mobile, Spectrum Mobile). You audit bills and usage, find cheaper plans, missed credits, and waivable fees, and w…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Zq7A3Opad78rsoj8eoFay",
+    "url": "https://x.ai/bot/Zq7A3Opad78rsoj8eoFay",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "DJ",
+    "creatorHandle": "congressdj",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

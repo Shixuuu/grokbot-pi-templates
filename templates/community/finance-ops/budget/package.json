@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-budget",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A household budget assistant for Google Sheets. Runs a zero-sum budget, logs spends and assigns when you ask, posts a morning Available snapshot, and can auto-log posted bank and card activity through Finance (Plaid).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VkyS_4ND_gJWpdjaCPuSV",
+    "url": "https://x.ai/bot/VkyS_4ND_gJWpdjaCPuSV",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Mike Yeager",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

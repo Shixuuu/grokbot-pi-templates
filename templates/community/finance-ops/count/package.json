@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-count",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A physical inventory count desk for small businesses. It builds pre-filled count sheets, and it writes real counts into your master stock file only after you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0bhvgIzOyOCg5L-hv40DL",
+    "url": "https://x.ai/bot/0bhvgIzOyOCg5L-hv40DL",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Richard",
+    "creatorHandle": "Richard Garrick",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

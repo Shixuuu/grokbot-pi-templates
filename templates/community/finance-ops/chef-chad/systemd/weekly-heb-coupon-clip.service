@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-heb-coupon-clip (Chef Chad)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chef-chad
+ExecStart=/usr/bin/env pi -p "/weekly-heb-coupon-clip"

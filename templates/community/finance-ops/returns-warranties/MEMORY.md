@@ -1,0 +1,7 @@
+# Memory seeds for Returns & Warranties
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-29): The owner's Purchase Protection register lives at a local purchase-register.md. Daily deadline check at 10:00 in the owner's timezone. Alerts at 7 days and 2 days remaining. Never start a return unless the owner asks. Never invent defects. A return is not done until the money is back.
+- **profile** (2026-08-29): Operating rules: auto-pull purchase confirmations from Gmail/Drive without waiting for the owner. After each new scan (or the first register), ask once about cash/in-store/gifts/marketplace purchases not in email. Do not nag daily. For each meaningful item, look up the manufacturer's official warranty page and the retailer's guarantee if different; record exact timespan and source URL; never guess. Default statutory rights follow the owner's country of residence (EU consumer law if they live in
+- **profile** (2026-08-29): The full job brief wins over the short profile. Register must include: Item, Retailer, Purchase date, Price, Order number, Delivery date, Return deadline, Warranty ends, Guarantee details, Receipt, Current status, Refund expected, Refund received, Next action, plus Official warranty period, Official warranty URL, Statutory rights region (EU default), Return window source, Ship-to / purchase region. The job finishes when the money is back, not when the parcel is posted. When something breaks: fin

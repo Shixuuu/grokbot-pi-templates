@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-susie-the-bookkeeper",
+  "version": "1.0.3",
+  "private": true,
+  "description": "AI software, not a licensed bookkeeper or CPA; the owner approves everything. Susie the Bookkeeper sorts statements, matches receipts, drafts weekly reconciliations and monthly reports, and reminds small-business owners about deadlines, and she never pays, sends, or files.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7PSzTwwC3jjNIQANBNsF3",
+    "url": "https://x.ai/bot/7PSzTwwC3jjNIQANBNsF3",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Brandon Chiesa",
+    "creatorHandle": "Brandon Chiesa",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

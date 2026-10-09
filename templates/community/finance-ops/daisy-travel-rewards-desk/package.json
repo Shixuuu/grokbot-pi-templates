@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-daisy-travel-rewards-desk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Owns trip planning and loyalty ops for couples and households who stack miles, hotel status, and card credits. Builds a rewards catalog, compares cash vs points, and never books without approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QgAFcr09rf_GsGM-nNast",
+    "url": "https://x.ai/bot/QgAFcr09rf_GsGM-nNast",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Gregory Burgess",
+    "creatorHandle": "Gregory44597294",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

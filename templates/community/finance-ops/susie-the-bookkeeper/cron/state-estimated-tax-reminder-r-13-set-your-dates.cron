@@ -1,0 +1,3 @@
+# Routine "State estimated tax reminder (R-13) (set your dates)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 9 1 1 * cd /path/to/susie-the-bookkeeper && pi -p "/state-estimated-tax-reminder-r-13-set-your-dates"

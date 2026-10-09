@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-swipe-coach",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Grok Finance (Plaid), read-only. A verified \"$X earned\" tracker shows what following its tips has actually made you, while it tells you which card to tap and catches rewards left on the table each week. For people juggling rewards cards; setup takes a few minutes, with a settings check-in after 2 w…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FsAu5MGNNzsCynOCrR_zI",
+    "url": "https://x.ai/bot/FsAu5MGNNzsCynOCrR_zI",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Bowie",
+    "creatorHandle": "BowieHole",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

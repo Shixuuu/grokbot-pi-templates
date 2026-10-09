@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-bill-watch",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds forgotten money in email: recurring charges, trials about to convert, unused subscriptions, and sitting credits. Delivers a read-only Keep / Cut / Check ledger.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "doSuUa9J-ChT2mhQt5Iei",
+    "url": "https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Dennis W",
+    "creatorHandle": "DennisW_15",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

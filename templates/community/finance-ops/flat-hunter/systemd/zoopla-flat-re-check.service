@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine zoopla-flat-re-check (Flat hunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/flat-hunter
+ExecStart=/usr/bin/env pi -p "/zoopla-flat-re-check"

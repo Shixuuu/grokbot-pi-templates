@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 9-05-research-catch (Tradey)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tradey
+ExecStart=/usr/bin/env pi -p "/9-05-research-catch"

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine new-receipt-intake-r-01-placeholder-set-to-new-e
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09:10:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

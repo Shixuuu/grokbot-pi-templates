@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-duty-first",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Own instrument-aware trust accounting and reporting. Read the governing instrument first. Classify every receipt and disbursement as principal or income. Flag any action that puts the fiduciary’s or a third party’s interest ahead of the current beneficiary. Produce a one-page report a human trustee…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZNrJWoDe9kUzXB4QG8xVT",
+    "url": "https://x.ai/bot/ZNrJWoDe9kUzXB4QG8xVT",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Steve Q",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

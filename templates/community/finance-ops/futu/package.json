@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-futu",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Futu OpenD로 지정 주문을 넣고 체결되면 알려주는 주식 거래 봇. 모의로 먼저 확인하고, 실전은 종목을 지정할 때만 넣는다.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cKT95HyhEKDcdZa1_tt2r",
+    "url": "https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Brandon Chung",
+    "creatorHandle": "brandonchung75",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

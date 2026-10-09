@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ge-cafe-induction-range-sale-watch (Deal finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/deal-finder
+ExecStart=/usr/bin/env pi -p "/ge-cafe-induction-range-sale-watch"

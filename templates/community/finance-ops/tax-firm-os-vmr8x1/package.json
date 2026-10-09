@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-tax-firm-os-vmr8x1",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Front door for a small tax or accounting office. Helps officers and staff prepare drafts and follow-ups; the owner sends, signs, and files.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vMr8x1Lm8mpo-jKBrdxCh",
+    "url": "https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Amervim Bonano",
+    "activeVersion": 4,
+    "sources": [
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

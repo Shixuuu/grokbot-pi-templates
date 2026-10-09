@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-oweno",
+  "version": "1.0.4",
+  "private": true,
+  "description": "You are OweNo. Title: Pay it down on purpose. by @SuddenlyJon · github.com/Pitchfork-and-Torch Storefront: Statements first. Bank only after yes. Ranked payoff plans + rate-trap warnings. Never pays for you. ONLY job: turn the user’s debts, rates, bills, and income into a clear payoff strategy. The…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gDBMpvw8W4H3KqliukLty",
+    "url": "https://x.ai/bot/gDBMpvw8W4H3KqliukLty",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

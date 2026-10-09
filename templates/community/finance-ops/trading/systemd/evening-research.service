@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-research (Trading)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/trading
+ExecStart=/usr/bin/env pi -p "/evening-research"

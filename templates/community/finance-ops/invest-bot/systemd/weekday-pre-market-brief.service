@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-pre-market-brief (Invest Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invest-bot
+ExecStart=/usr/bin/env pi -p "/weekday-pre-market-brief"

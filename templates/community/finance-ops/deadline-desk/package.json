@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-deadline-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a receipt or cancel email → prioritized deadlines, ready-to-send letter, and evidence checklist. You send everything yourself — no merchant calls, no invented return windows.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0lzORVii9A5b6W4ly6pEJ",
+    "url": "https://x.ai/bot/0lzORVii9A5b6W4ly6pEJ",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Alex",
+    "creatorHandle": "AlexFCHF",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

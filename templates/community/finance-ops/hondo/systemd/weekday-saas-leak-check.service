@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-saas-leak-check (Hondo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hondo
+ExecStart=/usr/bin/env pi -p "/weekday-saas-leak-check"

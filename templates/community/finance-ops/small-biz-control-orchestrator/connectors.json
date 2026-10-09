@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Link",
+      "pluginId": "47709840",
+      "description": "Complete purchases with one-time-use payment credentials from a Link wallet, using spend requests the user has approved."
+    }
+  ]
+}

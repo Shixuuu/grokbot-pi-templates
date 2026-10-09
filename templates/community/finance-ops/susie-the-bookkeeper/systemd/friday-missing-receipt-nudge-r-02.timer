@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine friday-missing-receipt-nudge-r-02
+
+[Timer]
+OnCalendar=Fri *-*-* 14:10:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

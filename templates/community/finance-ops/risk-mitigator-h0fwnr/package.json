@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-risk-mitigator-h0fwnr",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A trading sidekick that measures every stock setup you share against your required reward-to-risk ratio, always spells out the downside, and is extra cautious on shorts. Built for active traders who want discipline, not hype.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "h0fwNRjOa5K247LKQqyfA",
+    "url": "https://x.ai/bot/h0fwNRjOa5K247LKQqyfA",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "ricky gutierrez",
+    "creatorHandle": "techbudsolution",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

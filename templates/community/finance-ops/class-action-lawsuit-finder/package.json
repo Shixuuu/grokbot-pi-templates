@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-class-action-lawsuit-finder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds real Canadian and Quebec class-action settlements you can claim for a payout. Monthly scans, easy-proof filter, official links and $ amounts only — no fakes or scam sites.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3Tf_Vk_UR3JJb6Dq3hioZ",
+    "url": "https://x.ai/bot/3Tf_Vk_UR3JJb6Dq3hioZ",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Rob An",
+    "creatorHandle": "rob_an_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

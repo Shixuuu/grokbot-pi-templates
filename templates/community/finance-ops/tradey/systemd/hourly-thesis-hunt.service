@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hourly-thesis-hunt (Tradey)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tradey
+ExecStart=/usr/bin/env pi -p "/hourly-thesis-hunt"

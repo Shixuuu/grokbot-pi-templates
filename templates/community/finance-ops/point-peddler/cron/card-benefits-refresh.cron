@@ -1,0 +1,3 @@
+# Routine "card benefits refresh" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 1-7 * 1 cd /path/to/point-peddler && pi -p "/card-benefits-refresh"

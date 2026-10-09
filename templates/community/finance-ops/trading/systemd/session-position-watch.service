@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine session-position-watch (Trading)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/trading
+ExecStart=/usr/bin/env pi -p "/session-position-watch"

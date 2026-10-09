@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine morning-settlement-scan
+
+[Timer]
+OnCalendar=*-*-* 07:53:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

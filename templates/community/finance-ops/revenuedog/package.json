@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-revenuedog",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A morning sales analyst for indie subscription apps. Pulls yesterday’s RevenueCat numbers plus a conversion path discovered from the app’s own Analytics events, then sends a daily report.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IDFtkYcsl7MpfdfTx09RT",
+    "url": "https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Lex Tang",
+    "creatorHandle": "lexrus",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

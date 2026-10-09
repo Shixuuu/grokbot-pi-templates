@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-city-council-notes",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Drafts local government meeting recaps and hearing notices for a Facebook Page you manage. Pulls agendas and YouTube recordings, builds money-item summaries with timestamp jump links, and never posts until you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5iQI6yBxiNFVwOQnS71xa",
+    "url": "https://x.ai/bot/5iQI6yBxiNFVwOQnS71xa",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Daniel Swainston",
+    "creatorHandle": "Dswain661",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

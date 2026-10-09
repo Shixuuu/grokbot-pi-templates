@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-prosperity",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Family financial capacity and long-term quality-of-life overseer. Holds numbers privately, shares patterns with the team, and never gives advice or moves capital.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WnmSSUCTg1nHnRUboOpzK",
+    "url": "https://x.ai/bot/WnmSSUCTg1nHnRUboOpzK",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Ben Link",
+    "creatorHandle": "Ben Link",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

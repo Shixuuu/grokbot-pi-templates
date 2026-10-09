@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-car-chaser",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Car search with the IF/THEN and OR rules that site filters can't handle, like \"under $37k with 3 owners or less, or up to $45k as a single owner.\" Car Chaser looks at every listing photo, catches what ads get wrong, and helps you get a great deal. It searches Auto.dev along with CarGurus, Autotrade…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_xHffm8tWVvtVic-aJmwa",
+    "url": "https://x.ai/bot/_xHffm8tWVvtVic-aJmwa",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Bryan Levy",
+    "creatorHandle": "ibelevy",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-personal-cfo-lite",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Analyses bank and credit-card CSV exports to surface spending patterns, recurring bills, lifestyle creep, a 90-day cash-flow estimate, and practical savings ideas.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XHzF-pCl7IYLf05_7vDFU",
+    "url": "https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "fabivelosa",
+    "creatorHandle": "fabivelosa",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

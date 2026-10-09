@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-flat-hunter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "London rental hunter: multi-portal shortlists with a modern-bathroom hard gate, then confirm-gated agent chase packs to book viewings inside your free windows.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "amNEjElPIlHuan3BCbOT2",
+    "url": "https://x.ai/bot/amNEjElPIlHuan3BCbOT2",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Ash",
+    "creatorHandle": "0xashrk",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

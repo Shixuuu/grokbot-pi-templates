@@ -1,0 +1,3 @@
+# Routine "Evening card check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+56 18 * * * cd /path/to/swipe-coach && pi -p "/evening-card-check"

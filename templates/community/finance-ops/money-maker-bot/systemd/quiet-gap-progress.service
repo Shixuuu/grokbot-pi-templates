@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine quiet-gap-progress (Money Maker Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/money-maker-bot
+ExecStart=/usr/bin/env pi -p "/quiet-gap-progress"

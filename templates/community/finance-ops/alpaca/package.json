@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-alpaca",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paper-first Alpaca options + equity co-pilot: ladder risk, scheduled open/midday/close runs, and safety rails you keep on. Helps operate, debug, free buying power, and improve allocation without removing hard kill switches.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "O9GVEhA_dlBr1uxomyy8L",
+    "url": "https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Pinecrest Capital, LLC",
+    "creatorHandle": "swartzendruber",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

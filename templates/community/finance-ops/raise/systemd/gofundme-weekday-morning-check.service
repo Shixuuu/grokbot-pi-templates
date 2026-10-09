@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gofundme-weekday-morning-check (Raise)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/raise
+ExecStart=/usr/bin/env pi -p "/gofundme-weekday-morning-check"

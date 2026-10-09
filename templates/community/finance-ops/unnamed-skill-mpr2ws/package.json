@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-unnamed-skill-mpr2ws",
+  "version": "1.0.1",
+  "private": true,
+  "description": "צייד עסקאות ישראלי — מוצא את העסקה המשתלמת ביותר לפי עלות סופית אמיתית (מחיר + משלוח + מע״מ/מכס + אחריות), לא לפי המחיר על המדף.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mPr2wssP61BrPZ1fzQh7n",
+    "url": "https://x.ai/bot/mPr2wssP61BrPZ1fzQh7n",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Lior Ageniho",
+    "creatorHandle": "Lior",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

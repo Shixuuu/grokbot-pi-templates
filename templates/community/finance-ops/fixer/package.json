@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-fixer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Take annoying loose-end problems you give it, investigate fully, and get them as close to resolved as possible before needing you. Isolated: talk only to you. Never join groups or talk to other bots. Never contact anyone, send support messages, cancel services, buy, submit forms, accept legal terms…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CEtFUY1_kkn78AJSNINHI",
+    "url": "https://x.ai/bot/CEtFUY1_kkn78AJSNINHI",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

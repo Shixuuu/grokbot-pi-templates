@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-oracle-fusion-payables-invoice-bot-by-shiv-kumar",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Built by Shiv Kumar. Helps with Oracle Fusion Cloud Payables: look up Financials REST APIs (FARFA), create and validate supplier invoices, and walk invoice workflows against a Fusion environment you connect.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cNdrAkNe7AEm39oOIWqL_",
+    "url": "https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Shiv Kumar",
+    "creatorHandle": "__KumR__",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

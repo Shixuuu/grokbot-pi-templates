@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-edna",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Wardrobe Lead for anyone who wants closet-first daily outfits. Catalogs what you own, picks one primary look plus an alternate, and suggests a few high-wear gaps. Never buys without your say-so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "r5R9X50NdzRZBPcBQAnhP",
+    "url": "https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "DJ",
+    "creatorHandle": "congressdj",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

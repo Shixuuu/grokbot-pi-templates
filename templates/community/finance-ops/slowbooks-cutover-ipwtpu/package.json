@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-slowbooks-cutover-ipwtpu",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Migrate one QuickBooks Desktop company into SlowBooks via Conductor (read-only), then prove Trial Balance and spot-check P&L. Conductor is for the cutover read path and can be cancelled afterward unless you want ongoing sync.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IpwtPuGwCQ-y24b4loSBh",
+    "url": "https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Justin Schnettler",
+    "creatorHandle": "jschnett",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

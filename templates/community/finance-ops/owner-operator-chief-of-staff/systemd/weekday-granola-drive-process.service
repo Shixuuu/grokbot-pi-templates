@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-granola-drive-process (Owner-Operator Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/owner-operator-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/weekday-granola-drive-process"

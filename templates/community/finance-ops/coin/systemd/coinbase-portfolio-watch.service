@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine coinbase-portfolio-watch (Coin)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/coin
+ExecStart=/usr/bin/env pi -p "/coinbase-portfolio-watch"

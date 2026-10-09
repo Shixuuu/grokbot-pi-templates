@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine inbox-money-scan (porshe)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/porshe
+ExecStart=/usr/bin/env pi -p "/inbox-money-scan"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sep-9-payday-split (Mr. Dufrain)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mr-dufrain
+ExecStart=/usr/bin/env pi -p "/sep-9-payday-split"

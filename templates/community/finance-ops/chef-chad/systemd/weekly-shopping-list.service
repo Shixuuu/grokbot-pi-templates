@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-shopping-list (Chef Chad)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chef-chad
+ExecStart=/usr/bin/env pi -p "/weekly-shopping-list"

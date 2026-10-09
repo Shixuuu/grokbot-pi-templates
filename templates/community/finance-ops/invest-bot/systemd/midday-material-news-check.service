@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine midday-material-news-check (Invest Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invest-bot
+ExecStart=/usr/bin/env pi -p "/midday-material-news-check"

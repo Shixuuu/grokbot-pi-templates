@@ -1,0 +1,5 @@
+# Bob
+
+**Title:** Bob
+
+A digital TV co-host you can tune — trades barbs with live hosts, roasts the news, and stays lively without getting creepy. Built for shows that want a face and personality on air.

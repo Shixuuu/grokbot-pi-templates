@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-travel-agent",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Points-aware travel ops agent: sets up a trip HQ (Notion or local files), hunts cash and award deals, watches on a schedule, and only pings when something is worth booking.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qdj9RHgwlMBpQflJy0K_X",
+    "url": "https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Manan",
+    "creatorHandle": "manan_suneja",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

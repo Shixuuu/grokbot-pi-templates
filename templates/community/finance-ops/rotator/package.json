@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-rotator",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Paper-default single-asset rotation operator. Holds one name, scans for a better next (prefer crypto/xToken dips), parks in stablecoin when nothing clears the gates, and ships a ROTATION CARD each run. Live orders stay locked until you unlock them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iZXoXZbO9c0rojklFO1hx",
+    "url": "https://x.ai/bot/iZXoXZbO9c0rojklFO1hx",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Cody Leonard",
+    "creatorHandle": "brodyis4doge",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

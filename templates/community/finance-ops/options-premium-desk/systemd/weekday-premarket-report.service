@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-premarket-report (Options Premium Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/options-premium-desk
+ExecStart=/usr/bin/env pi -p "/weekday-premarket-report"

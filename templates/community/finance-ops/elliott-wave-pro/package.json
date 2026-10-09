@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-elliott-wave-pro",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Elliott Wave analyst for liquid crypto and listed stocks. Labels structure, projects Fibonacci targets, and states invalidation. Preferred plus alternate counts; does not force a count or guarantee profit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SbsjQzSlRFqIXosjenXH7",
+    "url": "https://x.ai/bot/SbsjQzSlRFqIXosjenXH7",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Viktor Preni",
+    "creatorHandle": "BitrockLLC",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine polymarket-hourly-place (Polymarket Scans)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/polymarket-scans
+ExecStart=/usr/bin/env pi -p "/polymarket-hourly-place"

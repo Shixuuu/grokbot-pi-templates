@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-freelancer-finance-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Closes one month of books for freelancers, contractors, and solo businesses from the transactions, receipts, and invoices you upload, and hands back a reviewed close packet. Bookkeeping prep only, not tax advice. Known limitation: this bot is instructed never to give tax advice, but in testing it s…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RWC0ZT_Tbr-SwUcJGGXFF",
+    "url": "https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Omid Masoom",
+    "creatorHandle": "omidmasoom",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

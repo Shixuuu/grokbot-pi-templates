@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-fleet-efficiency",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Helps you spend less of your weekly Grok Bot usage by trimming waste in your bots and pointing each task to the right place: one of your bots, Grok, Cursor, or a free app setting. For anyone running several bots who worries about the weekly limit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n3BVWJO3mwIVW2NMF_-2L",
+    "url": "https://x.ai/bot/n3BVWJO3mwIVW2NMF_-2L",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "SoCal FSD",
+    "creatorHandle": "socalfsd",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

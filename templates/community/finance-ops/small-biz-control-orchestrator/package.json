@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-small-biz-control-orchestrator",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs a small product business with a crew of specialist Grok Bots. Coordinates markets, buying, social, PR, merch, and compliance while you stay the spend and publish gate.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Gs5Xs18vnlTyCpcoBDGZ7",
+    "url": "https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Joseph Crabtree",
+    "creatorHandle": "texastoylab",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-steward",
+  "version": "1.0.7",
+  "private": true,
+  "description": "One-stop finance Controller for first-principles, full-automation accounting. Opens books from scratch, runs Cash/A/R/A/P draft-first, prefers GL story over bare TB, raises advisory KPI, cash-flow, and payroll/tax flags, and keeps usage lean via connectors. Humans post.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_XFuh52J-TXU1pLEvWxYs",
+    "url": "https://x.ai/bot/_XFuh52J-TXU1pLEvWxYs",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Samuel Riddle",
+    "creatorHandle": "Sdriddle",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

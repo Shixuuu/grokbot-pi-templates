@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-stitchy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Stitch Fix stylist. Morning briefing at 6am with the day's weather, an outfit from bought items (photos included), and only the really good Freestyle deals.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "P-8iKYx3Eeq3pelx_UPHq",
+    "url": "https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Mitchell Sweigart",
+    "creatorHandle": "Mitch_Sweigart",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

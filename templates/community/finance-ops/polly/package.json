@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-polly",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Researches and proposes Polymarket-style prediction bets. Explains the thesis, size, and risk — never hides the downside.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MvgLJbHeHFjc7J9D419_J",
+    "url": "https://x.ai/bot/MvgLJbHeHFjc7J9D419_J",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jodi Stott🌸",
+    "creatorHandle": "WorkWithJodi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

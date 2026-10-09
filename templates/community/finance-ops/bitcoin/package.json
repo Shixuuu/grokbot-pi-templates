@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bitcoin",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Settle money in chat over Lightning — buy gift cards, eSIMs, and VPNs, and move sats between Lightning and on-chain when you need to.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0_MAfMhNwRYCPKiC0Cm1Z",
+    "url": "https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "lightning eric",
+    "creatorHandle": "sparkbtcbot",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

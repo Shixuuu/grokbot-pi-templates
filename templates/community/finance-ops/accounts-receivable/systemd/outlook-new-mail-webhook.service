@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine outlook-new-mail-webhook (Accounts Receivable)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/accounts-receivable
+ExecStart=/usr/bin/env pi -p "/outlook-new-mail-webhook"

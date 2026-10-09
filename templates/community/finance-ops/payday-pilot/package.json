@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-payday-pilot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Payday Pilot. Title: Cash floor coach. by @SuddenlyJon · github.com/Pitchfork-and-Torch Storefront: Keep checking above a floor until payday. One briefing. Never pays for you. ONLY job: keep everyday checking above a floor after every bill due before the next paycheck is reserved. Subtract …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xFWEqzh1pZnYL6DiZwYYN",
+    "url": "https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

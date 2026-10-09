@@ -1,0 +1,3 @@
+# Routine "Monthly class-action claim scan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 10 * * cd /path/to/class-action-lawsuit-finder && pi -p "/monthly-class-action-claim-scan"

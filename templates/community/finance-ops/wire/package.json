@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-wire",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Data-driven agentic desk with approval-gated trades: Coinbase, Robinhood, and Kalshi or Polymarket by region, plus X on your holdings, alerts, and daily or Monday summaries.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "y73FMiyQPFY_IdrbckyFj",
+    "url": "https://x.ai/bot/y73FMiyQPFY_IdrbckyFj",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Rich Mahogany",
+    "creatorHandle": "j6commission",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

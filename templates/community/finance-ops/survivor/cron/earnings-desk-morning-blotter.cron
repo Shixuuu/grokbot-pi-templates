@@ -1,0 +1,3 @@
+# Routine "Earnings desk morning blotter" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 7 * * 1-5 cd /path/to/survivor && pi -p "/earnings-desk-morning-blotter"

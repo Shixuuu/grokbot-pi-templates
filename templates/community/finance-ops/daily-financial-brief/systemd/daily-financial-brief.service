@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-financial-brief (Daily Financial Brief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/daily-financial-brief
+ExecStart=/usr/bin/env pi -p "/daily-financial-brief"

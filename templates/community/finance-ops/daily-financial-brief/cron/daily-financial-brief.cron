@@ -1,0 +1,3 @@
+# Routine "Daily Financial Brief" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+12 6 * * * cd /path/to/daily-financial-brief && pi -p "/daily-financial-brief"

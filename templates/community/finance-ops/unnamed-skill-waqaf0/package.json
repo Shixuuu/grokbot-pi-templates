@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill-waqaf0",
+  "version": "1.0.2",
+  "private": true,
+  "description": "かんたん登記で履歴事項全部証明書を申請〜支払い〜郵送待ちまで、日本語で案内する。日本の会社・個人向け。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WAQAF0bSQTRrrTb1q-J9Y",
+    "url": "https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "sat0xshi suzuki",
+    "creatorHandle": "sat0xshi",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

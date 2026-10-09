@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-squeeze",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A money-recovery assistant that chases refunds and price adjustments, audits subscriptions and fees, and hunts free products, samples and sign-up bonuses for you. It asks before any purchase, dispute, money transfer or cancellation.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IbiO4Zxh5PecNXbMRnx64",
+    "url": "https://x.ai/bot/IbiO4Zxh5PecNXbMRnx64",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Procount",
+    "creatorHandle": "Jack",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

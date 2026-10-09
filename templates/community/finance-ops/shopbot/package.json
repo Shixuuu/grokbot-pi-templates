@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-shopbot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Shopping assistant. Searches Shopify UCP catalogs, compares products, finds coupons, pays with first-party Link or Shop Pay, and picks cards plus flight points.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rBXWgythSa09pIp14rnV4",
+    "url": "https://x.ai/bot/rBXWgythSa09pIp14rnV4",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Shub Gaur",
+    "creatorHandle": "shubgaur",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Monthly net-worth snapshot" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+11 9 1-3 * * cd /path/to/possessions-home-inventory-net-worth && pi -p "/monthly-net-worth-snapshot"

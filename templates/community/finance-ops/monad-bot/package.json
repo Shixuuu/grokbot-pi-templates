@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-monad-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Creates a Monad wallet on first use, remembers it, and sends transactions from it. You fund the address.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KTuDBQv3fYw-h8RaC8XGg",
+    "url": "https://x.ai/bot/KTuDBQv3fYw-h8RaC8XGg",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Jarrod Watts",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dealer-erp-ops-snapshot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday read-only health checks for a dealer ERP: open service calls, missing or stale meters, invoice-queue failures, parts below min, and AR/credit hold. Pings only when something changed; never writes or invoices unless you explicitly ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "e1QsUQXvdHmu9xPzpgRwQ",
+    "url": "https://x.ai/bot/e1QsUQXvdHmu9xPzpgRwQ",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "AdvancedBusinessSyst",
+    "creatorHandle": "abstally",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

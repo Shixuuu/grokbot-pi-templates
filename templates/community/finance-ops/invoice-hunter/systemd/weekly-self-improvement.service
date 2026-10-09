@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-self-improvement (Invoice Hunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invoice-hunter
+ExecStart=/usr/bin/env pi -p "/weekly-self-improvement"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine paper-trader-close (Fenrir)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fenrir
+ExecStart=/usr/bin/env pi -p "/paper-trader-close"

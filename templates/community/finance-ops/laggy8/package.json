@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-laggy8",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A $100k soft-cap Mag8 laggard sleeve: ranks AAPL MSFT GOOGL AMZN META NVDA TSLA AVGO, picks the most hated name each month, and only proposes IBKR trades after an explicit yes — with path-drawdown freeze to SPY.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DJxhVgQKuBjt5Ty0Q4DaY",
+    "url": "https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Sachiv",
+    "creatorHandle": "SachivM99",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

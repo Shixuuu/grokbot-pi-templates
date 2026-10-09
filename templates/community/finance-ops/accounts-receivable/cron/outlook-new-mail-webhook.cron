@@ -1,0 +1,5 @@
+# Routine "Inbound AR mail wake": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Outbound always: BCC the oversight owner. Cc the accounting manager on every outbound unless they are already To. Signature fail-closed. Prefer reply on the real human thread; never create a reply off your own Sent Items. Before every send, assert To is not yourself; if To is self or empty of the i…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/accounts-receivable && pi -p "/outlook-new-mail-webhook"

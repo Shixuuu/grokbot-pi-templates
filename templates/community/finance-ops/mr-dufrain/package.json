@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-mr-dufrain",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Personal accountant bot. Tracks money, tax, and cash flow, watches bills so nothing bounces, and works a payday debt-kill plan so you keep more of what you earn.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "abkds0duc24hz7mvnm7w5",
+    "url": "https://x.ai/bot/abkds0duc24hz7mvnm7w5",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "Wagmoo Winterhoof",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

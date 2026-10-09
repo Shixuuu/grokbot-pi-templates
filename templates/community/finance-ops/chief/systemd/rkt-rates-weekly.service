@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine rkt-rates-weekly (Chief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief
+ExecStart=/usr/bin/env pi -p "/rkt-rates-weekly"

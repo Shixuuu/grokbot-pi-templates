@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-vector",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Conversion-path intelligence for browser-only funnel builders — ClickFunnels, GoHighLevel, Kartra, Systeme, and similar stacks. Crawls live funnels, ranks money-risk breaks, and fixes only after you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cXdj8y2O37ddeTOh22D1y",
+    "url": "https://x.ai/bot/cXdj8y2O37ddeTOh22D1y",
+    "official": false,
+    "category": "finance-ops",
+    "fidelity": "full",
+    "creator": "John",
+    "creatorHandle": "davincivibecode",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}
