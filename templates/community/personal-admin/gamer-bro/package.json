@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-gamer-bro",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A gaming sidekick for news, deals, builds, tips, and stock watches — keeps an eye on pre-orders and pings you when something you want is buyable.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YLpOBU1PEiDh2mwFMQeLk",
+    "url": "https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Edward Battistini",
+    "creatorHandle": "egcbatt",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

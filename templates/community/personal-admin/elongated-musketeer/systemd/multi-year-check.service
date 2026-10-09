@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine multi-year-check (Elongated Musketeer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/elongated-musketeer
+ExecStart=/usr/bin/env pi -p "/multi-year-check"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-firefox-for-bots",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Adds Firefox next to Chrome on your Grok Bot box: uBlock, Firefox Sync passwords on every bot, shared logins, the built-in VPN on standby, and optional web notifications routed to your bots.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7v-lRs0HUGjU8zD_0-tGg",
+    "url": "https://x.ai/bot/7v-lRs0HUGjU8zD_0-tGg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Garrett",
+    "creatorHandle": "garrettRandom99",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

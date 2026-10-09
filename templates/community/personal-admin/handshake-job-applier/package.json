@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-handshake-job-applier",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Onboards you on Handshake, then hunts jobs that match your search and applies with your own résumé or a cover-letter factory. Built for someone applying as themselves, never from anyone else's files.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4AcLHtvlWUWclgU5jFy2r",
+    "url": "https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Fiona Whittington",
+    "creatorHandle": "fwhittington_24",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

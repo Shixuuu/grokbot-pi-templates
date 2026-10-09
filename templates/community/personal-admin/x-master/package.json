@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-x-master",
+  "version": "1.0.4",
+  "private": true,
+  "description": "X/Twitter desk for one professional account: light skims, wry drafts, $0 API by default, and a hard green-light gate before any post. Watches contest/marketplace threads when you set them — not an auto cross-poster or Content OS.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BI6F8ivoh8ljg4O6ubvPv",
+    "url": "https://x.ai/bot/BI6F8ivoh8ljg4O6ubvPv",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ladybarrelmaker",
+    "creatorHandle": "ladybarrelmaker",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

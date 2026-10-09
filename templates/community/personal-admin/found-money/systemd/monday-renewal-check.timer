@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine monday-renewal-check
+
+[Timer]
+OnCalendar=Mon *-*-* 07:58:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

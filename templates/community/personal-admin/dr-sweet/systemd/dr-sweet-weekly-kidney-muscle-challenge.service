@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine dr-sweet-weekly-kidney-muscle-challenge (Dr. Sweet)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dr-sweet
+ExecStart=/usr/bin/env pi -p "/dr-sweet-weekly-kidney-muscle-challenge"

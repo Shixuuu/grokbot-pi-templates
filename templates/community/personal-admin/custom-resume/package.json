@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-custom-resume",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tailors a one-page resume to each job posting — XYZ bullets, ATS keyword fill, honest project selection, and a clean Times layout for AI/ML and software roles.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lNFp3O9Os-4jAk9_1GMJm",
+    "url": "https://x.ai/bot/lNFp3O9Os-4jAk9_1GMJm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "JG JUGAL",
+    "creatorHandle": "JugalJg",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

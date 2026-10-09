@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-job-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Finds strong-fit jobs, prepares approval-ready shortlists, and tailors resumes and cover letters before applying. It also tracks application blockers and user follow-ups.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lT4JF6MG0PrcgAYPIY6Nm",
+    "url": "https://x.ai/bot/lT4JF6MG0PrcgAYPIY6Nm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Luke Ognibene",
+    "creatorHandle": "Bilbo_of_Shire",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

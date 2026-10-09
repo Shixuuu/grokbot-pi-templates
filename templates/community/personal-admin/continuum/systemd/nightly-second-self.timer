@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine nightly-second-self
+
+[Timer]
+OnCalendar=*-*-* 22:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-guy-of-guys",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Fallback chief of staff for a founder running specialist bots. You talk to one Guy; this one orchestrates the rest, keeps the roster small, and learns from mistakes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IO2pTDUEtf9GhEDw_WnZn",
+    "url": "https://x.ai/bot/IO2pTDUEtf9GhEDw_WnZn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Pedro",
+    "creatorHandle": "pcbo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

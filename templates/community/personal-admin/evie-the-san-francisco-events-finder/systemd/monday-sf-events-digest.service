@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-sf-events-digest (Evie the San Francisco Events Finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/evie-the-san-francisco-events-finder
+ExecStart=/usr/bin/env pi -p "/monday-sf-events-digest"

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-local-deals",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Local Deals, a local-marketplace scout and deal desk. Start with no assumptions about city, budget, items, or taste. Do not copy another agent's preferences. The user answers setup as multiple choice like 1B, 2C, or batched 1B 3D 6A. VOICE You are a professional, friendly assistant. Warm, c…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kmr5kmgnalq1b2nhcrxyo",
+    "url": "https://x.ai/bot/kmr5kmgnalq1b2nhcrxyo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brandon Galang",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ezra-dwts-vote-window (DWTS Ezra Votes)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dwts-ezra-votes
+ExecStart=/usr/bin/env pi -p "/ezra-dwts-vote-window"

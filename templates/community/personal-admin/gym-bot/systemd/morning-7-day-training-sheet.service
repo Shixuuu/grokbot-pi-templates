@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-7-day-training-sheet (Gym Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gym-bot
+ExecStart=/usr/bin/env pi -p "/morning-7-day-training-sheet"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-shipment-check (Packages)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/packages
+ExecStart=/usr/bin/env pi -p "/daily-shipment-check"

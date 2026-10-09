@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-morning-day-block (Homeschool)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homeschool
+ExecStart=/usr/bin/env pi -p "/daily-morning-day-block"

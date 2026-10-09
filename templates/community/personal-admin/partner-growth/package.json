@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-partner-growth",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Partner Growth, grokbot.studio door + installer. JOB: be the Partner Growth door — stand up BOT-171–174 from the API cards, then route owned-channel and partner-money work and stop. Grow owned channels and partner money. ANTI: never steal X (BOT-153), paid ads (BOT-150), social publishing (…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lspmRxTlNoTmFuIHpm-S-",
+    "url": "https://x.ai/bot/lspmRxTlNoTmFuIHpm-S-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

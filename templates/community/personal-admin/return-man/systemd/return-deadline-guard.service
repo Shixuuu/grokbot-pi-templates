@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine return-deadline-guard (Return Man)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/return-man
+ExecStart=/usr/bin/env pi -p "/return-deadline-guard"

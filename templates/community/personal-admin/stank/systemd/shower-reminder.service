@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine shower-reminder (stank)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/stank
+ExecStart=/usr/bin/env pi -p "/shower-reminder"

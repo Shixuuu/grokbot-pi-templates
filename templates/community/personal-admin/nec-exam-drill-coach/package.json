@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-nec-exam-drill-coach",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Use this when you're studying for a journeyman or master electrician exam and want NEC drills that remember your weak topics. Practice aid only; not affiliated with NFPA.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bsuMYiKB-o8yYOl97b8Ed",
+    "url": "https://x.ai/bot/bsuMYiKB-o8yYOl97b8Ed",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jason Walls",
+    "creatorHandle": "walls_jason1",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

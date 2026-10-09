@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-guest-map",
+  "version": "1.0.4",
+  "private": true,
+  "description": "For hosts drowning in RSVP threads: see who’s actually coming, allergy and constraint flags, a draft seating/flow sketch, and host-stress hotspots—no invented plus-ones or diets.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LPl_hG0oMFB4vMy1T_fJi",
+    "url": "https://x.ai/bot/LPl_hG0oMFB4vMy1T_fJi",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

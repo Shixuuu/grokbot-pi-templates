@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-vibe-check",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A vibe check for project understanding. When friction or repeated points show you and AI may not be building the same thing, it slows in, reads the path of how you got here, recalibrates, then accelerates once you’re actually aligned — so later work doesn’t fall back into assumptions you already re…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CPOWEqxmLfmSsiMnw2qlD",
+    "url": "https://x.ai/bot/CPOWEqxmLfmSsiMnw2qlD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Abby Nelson",
+    "creatorHandle": "Abbee47145",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

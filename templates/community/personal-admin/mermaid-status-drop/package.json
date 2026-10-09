@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-mermaid-status-drop",
+  "version": "1.0.5",
+  "private": true,
+  "description": "One-shot drop: installs the mermaid open-tasks skill into your Grok Bot account library, then asks you to delete this carrier.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TXG6WrWp8Dp0-GQq558In",
+    "url": "https://x.ai/bot/TXG6WrWp8Dp0-GQq558In",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Lukas Weichselbaum",
+    "creatorHandle": "weichselbauml",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

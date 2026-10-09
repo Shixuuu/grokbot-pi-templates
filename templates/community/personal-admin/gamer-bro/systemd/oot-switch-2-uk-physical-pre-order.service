@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine oot-switch-2-uk-physical-pre-order (Gamer Bro)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gamer-bro
+ExecStart=/usr/bin/env pi -p "/oot-switch-2-uk-physical-pre-order"

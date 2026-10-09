@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-optiontheta",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tasty-style options desk for high-IV cash-secured puts (~0.25 delta) plus a bullish day sleeve, weekday premarket briefs, and Wheel Phase 2 covered calls after assignment. Research and alerts only — ask before orders.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Alfy9lb_vkl9JrCYVhdoV",
+    "url": "https://x.ai/bot/Alfy9lb_vkl9JrCYVhdoV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ben",
+    "creatorHandle": "Creainteractiva",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

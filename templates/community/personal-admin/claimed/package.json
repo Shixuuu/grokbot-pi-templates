@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-claimed",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Finds money you may already be entitled to claim. Runs one deep sweep of official refunds, settlements, and compensation in your country, matches privately against email evidence, and prepares the claim when you ask — never files without approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wIxb391-9pDKoWXQ8xrbD",
+    "url": "https://x.ai/bot/wIxb391-9pDKoWXQ8xrbD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

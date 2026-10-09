@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-nis2-assessment-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "NIS2 / national cybersecurity GRC assistant: runs structured gap analysis, drafts policy packs and remediation roadmaps, and can wire results into open-source CISO Assistant.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OEpjjYyO5MFI1G0pargQS",
+    "url": "https://x.ai/bot/OEpjjYyO5MFI1G0pargQS",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gianluca Izzo",
+    "creatorHandle": "glucaizzo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

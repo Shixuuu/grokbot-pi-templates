@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-kicad-lab",
+  "version": "1.0.2",
+  "private": true,
+  "description": "KiCad and workbench schematic partner for DIY guitar/bass pedals. Owns printable bench sheets, BOM/layout notes, and enclosure hardware notes — not LTspice sims. Ships first-pass readable schematics with stock KiCad symbols.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DkymIMFv_OijrpbRuVGAH",
+    "url": "https://x.ai/bot/DkymIMFv_OijrpbRuVGAH",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brian Grindle",
+    "creatorHandle": "whatzwzitz1",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

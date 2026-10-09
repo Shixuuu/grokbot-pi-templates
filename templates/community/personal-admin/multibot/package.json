@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-multibot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Bot factory for Grok Bot. Spawn teammates with CLI underground plus a custom purpose.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ey28W_8uyJPN_DS_M2CvD",
+    "url": "https://x.ai/bot/Ey28W_8uyJPN_DS_M2CvD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "med",
+    "creatorHandle": "simo255",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

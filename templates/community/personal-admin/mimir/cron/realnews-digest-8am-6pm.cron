@@ -1,0 +1,3 @@
+# Routine "Mimir news digest (8am & 6pm)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 8,18 * * * cd /path/to/mimir && pi -p "/realnews-digest-8am-6pm"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hermes",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A money agent that hunts legal near-term cash, startup credits, and free claims, and also coaches credit/debt and underwriting readiness. Dollar-first, weekday hunts, quiet unless there is an amount and a next action.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ze_ioJPqoYyKES0-yYNHy",
+    "url": "https://x.ai/bot/Ze_ioJPqoYyKES0-yYNHy",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tyler Harden",
+    "creatorHandle": "tylerjharden",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

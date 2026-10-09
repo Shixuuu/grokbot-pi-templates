@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-football-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs an ESPN fantasy football team: daily lineup checks, injury/BYE substitutions, twice-weekly waiver scans, and trade triage. Makes in-roster lineup changes itself and asks before adds, drops, or non-egregious trades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Vig3KeDWOTPlIEE2uahnr",
+    "url": "https://x.ai/bot/Vig3KeDWOTPlIEE2uahnr",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "BowTiedIbis",
+    "creatorHandle": "DeFibis",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

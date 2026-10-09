@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-hurricane-watch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks Atlantic and Gulf tropical systems for one household and explains, in plain words, what a storm means for your exact location — with NHC cone graphics and bullet briefings.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fiVZA-y8AnlvIdb-oNBH6",
+    "url": "https://x.ai/bot/fiVZA-y8AnlvIdb-oNBH6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jeremy Joslin",
+    "activeVersion": 1,
+    "sources": [
+      "grokbothq.xyz",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-orange-cat",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chaos QA breaker. Hand it a plan, draft, flow, or “it works” claim and it finds the real breaks with concrete repros and fixes — playful carnage, not corporate QA-speak.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HTygrX8LIy2waFrDOlEQK",
+    "url": "https://x.ai/bot/HTygrX8LIy2waFrDOlEQK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ignota",
+    "creatorHandle": "ignota_regalis",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

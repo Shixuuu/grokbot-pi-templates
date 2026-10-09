@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-sage",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An on-demand rules expert for Dungeons & Dragons 2024 (5.5e). It settles table disputes and looks up spells, feats, classes, and monsters, giving the ruling first and the source right after.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HM2ex6PvTVJ5MqR1X3Dg9",
+    "url": "https://x.ai/bot/HM2ex6PvTVJ5MqR1X3Dg9",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Lee Talley",
+    "creatorHandle": "ambientstudio24",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

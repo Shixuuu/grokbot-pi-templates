@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine cryptic-joke-drop
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 16:20:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

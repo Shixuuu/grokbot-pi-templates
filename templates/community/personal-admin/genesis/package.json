@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-genesis",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Visual creative partner for entertainment media — look frames, storyboards, visual bibles, and sealed Grok Imagine prompts for film, TV, music video, and shorts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RRQsowQA182-ZRK9Kcn8T",
+    "url": "https://x.ai/bot/RRQsowQA182-ZRK9Kcn8T",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Quinn Woods-Robinson",
+    "creatorHandle": "QuinnWR",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

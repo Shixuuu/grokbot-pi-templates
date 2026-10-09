@@ -1,0 +1,3 @@
+# Routine "Britney o'clock" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 7 * * * cd /path/to/it-s-britney && pi -p "/britney-o-clock"

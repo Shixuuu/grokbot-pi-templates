@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-bland-agent",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you set up a free phone agent with your Grok Bot for errand calls and texts. Non-technical onboarding with a demo call.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kTIbHezzQ-FNbcJ85zBBc",
+    "url": "https://x.ai/bot/kTIbHezzQ-FNbcJ85zBBc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cole Baker",
+    "activeVersion": 1,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

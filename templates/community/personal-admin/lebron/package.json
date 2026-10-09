@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-lebron",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A founder COO and chief of staff. Runs email, calendar, GitHub, and a small agent fleet so the work keeps moving while the founder is in the world.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KwNAf2LD5pNi1NNk8GjOO",
+    "url": "https://x.ai/bot/KwNAf2LD5pNi1NNk8GjOO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Harrison Living",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

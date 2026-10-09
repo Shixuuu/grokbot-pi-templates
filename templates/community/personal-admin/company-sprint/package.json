@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-company-sprint",
+  "version": "1.0.3",
+  "private": true,
+  "description": "The 3-day company OS for Grok Bot — pick a wedge, ship an MVP, launch, and run light founder ops. Built for Galaxy-style company sprints.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "taGsdcCU_BnB0tqUyOwGu",
+    "url": "https://x.ai/bot/taGsdcCU_BnB0tqUyOwGu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Freedom L",
+    "creatorHandle": "FreedomtoLive59",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

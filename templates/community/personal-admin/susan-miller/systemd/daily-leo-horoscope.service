@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-leo-horoscope (Susan Miller)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/susan-miller
+ExecStart=/usr/bin/env pi -p "/daily-leo-horoscope"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine staff-mail-sweep (Bender)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bender
+ExecStart=/usr/bin/env pi -p "/staff-mail-sweep"

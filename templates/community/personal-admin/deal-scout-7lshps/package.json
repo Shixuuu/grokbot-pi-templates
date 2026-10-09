@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-deal-scout-7lshps",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste any product link and get the best price across your stores, using your memberships. Not low enough? It watches your wishlist and pings you only when a price drops. It never buys anything.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7lshPSP7YWEvGzK5ju1Tg",
+    "url": "https://x.ai/bot/7lshPSP7YWEvGzK5ju1Tg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Spud",
+    "creatorHandle": "SpudStateUSA",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

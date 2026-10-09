@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-job-interview-hunter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Interview hunter for one job seeker. Locks a target role and resume facts, then drafts applications and LinkedIn referral outreach on a short weekday board. Never auto-applies.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "B_8a8ApckqZFiJwWRBf5u",
+    "url": "https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

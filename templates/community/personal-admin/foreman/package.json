@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-foreman",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a rough idea into a ready-to-use social post pack: a hook, three plain-spoken post options, an image prompt, a backup angle, and a list of things to avoid.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FjaItlOeqggdXOLQ1luOk",
+    "url": "https://x.ai/bot/FjaItlOeqggdXOLQ1luOk",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "American™ B",
+    "creatorHandle": "1776_13",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-aysha-chefe-de-equipe",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chefe de equipe que orquestra bots e outras IAs no GitHub, com migalhas, decisões só quando preciso e custo zero.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AV17qjtZBoRU3SaZxVAvQ",
+    "url": "https://x.ai/bot/AV17qjtZBoRU3SaZxVAvQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Carlos Castilho Jr",
+    "creatorHandle": "83castilhojr",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

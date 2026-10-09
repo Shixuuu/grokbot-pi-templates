@@ -1,0 +1,3 @@
+# Routine "Open claims weekday follow-through" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+1 6 * * 1-5 cd /path/to/medcash-guide && pi -p "/open-claims-daily-follow-through"

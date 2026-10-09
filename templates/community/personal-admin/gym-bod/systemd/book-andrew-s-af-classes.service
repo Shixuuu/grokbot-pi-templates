@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine book-andrew-s-af-classes (Gym Bod)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gym-bod
+ExecStart=/usr/bin/env pi -p "/book-andrew-s-af-classes"

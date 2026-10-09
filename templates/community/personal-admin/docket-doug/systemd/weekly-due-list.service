@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-due-list (Docket Doug)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/docket-doug
+ExecStart=/usr/bin/env pi -p "/weekly-due-list"

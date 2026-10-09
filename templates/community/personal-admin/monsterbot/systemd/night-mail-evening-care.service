@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine night-mail-evening-care (MonsterBot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/monsterbot
+ExecStart=/usr/bin/env pi -p "/night-mail-evening-care"

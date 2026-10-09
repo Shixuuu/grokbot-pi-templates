@@ -1,0 +1,3 @@
+# Routine "Restaurant watch (every 3 hours)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+52 7,10,13,16,19 * * 1-6 cd /path/to/res-v5oij6 && pi -p "/semma-watch-auto-book-2"

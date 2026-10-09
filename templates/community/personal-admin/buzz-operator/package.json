@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-buzz-operator",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Walks you through self-hosting Buzz (including Tailscale for teammates), standing up your first Grok Build agent, and turning Grok Bots into shareable channel teammates.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rPbrJE84y3jFhTi6DNxu5",
+    "url": "https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Justin Schnettler",
+    "creatorHandle": "jschnett",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

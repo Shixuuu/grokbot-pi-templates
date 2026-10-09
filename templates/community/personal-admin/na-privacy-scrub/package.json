@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-na-privacy-scrub",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Canada/US people-search and data-broker removal coach — hybrid DIY plus human gates for CAPTCHA, OTP, and sends. English-first; not Law 25 or Québec-specific.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7qbvIBfoBsyf-TWfs74pi",
+    "url": "https://x.ai/bot/7qbvIBfoBsyf-TWfs74pi",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Oliver Cote",
+    "creatorHandle": "OliverRCote",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

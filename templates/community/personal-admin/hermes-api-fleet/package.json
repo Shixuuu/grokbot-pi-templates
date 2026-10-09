@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-hermes-api-fleet",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Talk to your Hermes Agents over the native HTTP :8642 API across a private Tailscale network — the sole talk path for fleet and identity bots, no SSH. Built to survive Grok Bot computer updates with a self-restoring Tailscale setup.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5KLpaL-JIM2q629kbTh5L",
+    "url": "https://x.ai/bot/5KLpaL-JIM2q629kbTh5L",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Shagghie Superstar",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

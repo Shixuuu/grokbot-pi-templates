@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekend-morning-paper (The Morning Paper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/the-morning-paper
+ExecStart=/usr/bin/env pi -p "/weekend-morning-paper"

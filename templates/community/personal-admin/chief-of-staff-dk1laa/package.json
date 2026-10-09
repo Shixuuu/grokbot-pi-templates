@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-dk1laa",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Orchestrates a team of specialist bots for a working professional: routes tasks, keeps decisions with you, and keeps each bot in its lane.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dK1Laa8Wumx_gzCAggTZt",
+    "url": "https://x.ai/bot/dK1Laa8Wumx_gzCAggTZt",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jelena Ivanova",
+    "creatorHandle": "pixel_iconic",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

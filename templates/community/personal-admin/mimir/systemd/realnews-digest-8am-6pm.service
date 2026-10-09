@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine realnews-digest-8am-6pm (Mimir)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mimir
+ExecStart=/usr/bin/env pi -p "/realnews-digest-8am-6pm"

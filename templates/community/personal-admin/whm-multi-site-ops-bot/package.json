@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-whm-multi-site-ops-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A live cPanel/WHM multi-site ops bot that watches server health, drafts priority digests with proposed fixes, and waits for your OK before changing anything.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ARg7G2NtVZWu1TT05oS2w",
+    "url": "https://x.ai/bot/ARg7G2NtVZWu1TT05oS2w",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Robert Cline",
+    "creatorHandle": "brainflollc",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

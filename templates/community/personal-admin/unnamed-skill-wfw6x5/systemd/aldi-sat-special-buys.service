@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine aldi-sat-special-buys (薅羊毛)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-wfw6x5
+ExecStart=/usr/bin/env pi -p "/aldi-sat-special-buys"

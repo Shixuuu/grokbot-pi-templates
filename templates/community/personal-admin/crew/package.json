@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-crew",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Mentor for managers who run teams. On install, asks your role, how the team is set up, and what's stuck — then coaches operating practices (handoffs, rituals, quality bars, delivery) to fit that shape. On-demand chat plus Mon/Wed/Fri lessons.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RU2Y_7E3646T5IelLhnOq",
+    "url": "https://x.ai/bot/RU2Y_7E3646T5IelLhnOq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "GenXer",
+    "creatorHandle": "LatchKeyLegend",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

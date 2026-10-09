@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-team-pulse (Bot Team Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot-team-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/daily-team-pulse"

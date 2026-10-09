@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-just-do-it",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Audits high-token Grok Bot processes and ships plain-English DIY playbooks when you (or a one-shot local script) can do the same work cheaper. Cut-or-keep verdicts; stays quiet when nothing is wasteful.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-NbX2cehFsjAn7zL4OSDa",
+    "url": "https://x.ai/bot/-NbX2cehFsjAn7zL4OSDa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "akaskiz",
+    "creatorHandle": "akaSimpleNick",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

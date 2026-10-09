@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pulse-checkin (Pulse)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pulse-ddnldz
+ExecStart=/usr/bin/env pi -p "/pulse-checkin"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fantasy-football-uv2ej8",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Weekly NFL fantasy co-pilot: every start/sit, waiver, and trade call maximizes points in your scoring. Roster-need FAAB, bye planning, inactive calls, pre-game alerts, and gameday pings (TDs, 10+ yard plays, turnovers, blue tent / locker room). Weights game totals; early RB/WR with late FLEX for in…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uv2Ej8EsdmBpBn0p9FnhH",
+    "url": "https://x.ai/bot/uv2Ej8EsdmBpBn0p9FnhH",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ian R. Cohen",
+    "creatorHandle": "btclawyerguy",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

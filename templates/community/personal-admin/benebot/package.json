@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-benebot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Navigate employer benefits and find in-network doctors from your plan docs or an approved email search. Open enrollment compare shows what changed between this year's plan and next year's, side by side. Not a doctor or licensed advisor; never enrolls for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yu_bkwUfpHdqhF2Q1VhWn",
+    "url": "https://x.ai/bot/yu_bkwUfpHdqhF2Q1VhWn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

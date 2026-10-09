@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-delete-my-tweets",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Safely clean up your X account by deleting your own posts, reposts, and replies older than a cutoff you choose. Runs in small batches, checks every date, and leaves recent activity untouched.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8xSL_TV4XPZZufWeQrgmv",
+    "url": "https://x.ai/bot/8xSL_TV4XPZZufWeQrgmv",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jay GPE",
+    "creatorHandle": "TheRetardedELon",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-devi-type2",
+  "version": "1.0.1",
+  "private": true,
+  "description": "星宮専用 Devi（Ψ）。Radiant Latch＋Frame1–6＋Part1〜§50（Devi-G Name Setup含む）接続。最終判断は星宮（Ω）。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aeE3iKjj5xfDmx_dolbll",
+    "url": "https://x.ai/bot/aeE3iKjj5xfDmx_dolbll",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "星宮",
+    "creatorHandle": "Fermion_Boson17",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

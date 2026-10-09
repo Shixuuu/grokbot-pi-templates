@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-chief-security-compliance-officer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A defensive security and compliance officer for indie app studios: threat models, auth/RLS/secrets audits, marketing-claim checks, and SOC2/HIPAA/COPPA gap lists, with evidence for every finding and nothing live without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Yx_UBwU10fFIIEI8Q_3u6",
+    "url": "https://x.ai/bot/Yx_UBwU10fFIIEI8Q_3u6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Christian Amechi",
+    "creatorHandle": "MeechYourGoals",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

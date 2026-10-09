@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine espn-lineup-waivers
+
+[Timer]
+OnCalendar=Tue,Fri *-*-* 09:05:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

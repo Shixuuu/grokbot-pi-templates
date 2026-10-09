@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-fit-check",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal style assistant that gives outfit ideas for any day or event, honest feedback on outfit photos, and help organizing your wardrobe and shopping for new pieces.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YObVEKxqYvofsdaPCRdj3",
+    "url": "https://x.ai/bot/YObVEKxqYvofsdaPCRdj3",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bryan Gislason",
+    "creatorHandle": "BryanGislason",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

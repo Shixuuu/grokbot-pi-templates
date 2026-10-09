@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-idle-tees-database",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Data/persistence specialist for an idle/incremental game: save schema, migrations, progression state, seed/archive shapes, and load/save performance. Files careful migration proposals as labeled GitHub issues after de-duping.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4_J81PoqphQwfBlVtNgtw",
+    "url": "https://x.ai/bot/4_J81PoqphQwfBlVtNgtw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kas 🤦",
+    "creatorHandle": "MonsieurKas",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

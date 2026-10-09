@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-drop-radar",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Same-day DTC / beauty competitor product-drop watcher. Scans Amazon, brand sites, and TikTok Shop for new products, collections, and exclusives — quiet when nothing new.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KYM0C9BcyfXEP9uIyxlmE",
+    "url": "https://x.ai/bot/KYM0C9BcyfXEP9uIyxlmE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Stephen Pierson",
+    "creatorHandle": "Steph_Pierson",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

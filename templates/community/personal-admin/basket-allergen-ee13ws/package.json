@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-basket-allergen-ee13ws",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a grocery basket and household allergen profile. Pulls Open Food Facts attributes, then Scores each line: clear, caution_traces, conflict, or unknown_data. Public data only. Never invents hits. Draft score cards only. Not medical advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ee13wSGPrFYqdZAJnGfI4",
+    "url": "https://x.ai/bot/ee13wSGPrFYqdZAJnGfI4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Drew",
+    "creatorHandle": "SacredFolio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

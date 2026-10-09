@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-know-it-all-slack-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A branded Slack Q&A bot that answers from your team's latest taught knowledge, learns from trusted teachers and seed sources, and posts a daily open-items digest in a private training channel.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vMnAJf7zumjDX7t06WKAV",
+    "url": "https://x.ai/bot/vMnAJf7zumjDX7t06WKAV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Vinny Sosa",
+    "creatorHandle": "Vinny Sosa",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

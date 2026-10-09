@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-fantasyfootball",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs your Yahoo and/or ESPN fantasy football leagues in-season: sets weekly lineups, watches injuries, and only pings you on close calls.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "U4MGSjRTSyePUdtTydTc-",
+    "url": "https://x.ai/bot/U4MGSjRTSyePUdtTydTc-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rob",
+    "creatorHandle": "RobertMP5",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

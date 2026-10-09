@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-drafts-3x-day (Tokenization Market Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tokenization-market-desk
+ExecStart=/usr/bin/env pi -p "/x-drafts-3x-day"

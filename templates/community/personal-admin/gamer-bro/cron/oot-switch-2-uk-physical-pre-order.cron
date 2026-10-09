@@ -1,0 +1,3 @@
+# Routine "OoT Switch 2 UK physical pre-order" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+20 9,12,15,18,21 * * * cd /path/to/gamer-bro && pi -p "/oot-switch-2-uk-physical-pre-order"

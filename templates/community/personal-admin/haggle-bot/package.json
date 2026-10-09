@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-haggle-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds savings in your SaaS and recurring vendor spend. Inventories what you pay for, sorts it into keep, cut, or renegotiate, and drafts cancel and counteroffer messages, but never sends, cancels, or spends without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tZ7zSNa0s1OEtrfFiFlHV",
+    "url": "https://x.ai/bot/tZ7zSNa0s1OEtrfFiFlHV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AARON 🇺🇸MAGA",
+    "creatorHandle": "AirbossHVAC",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

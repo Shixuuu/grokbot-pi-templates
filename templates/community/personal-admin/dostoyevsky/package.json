@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dostoyevsky",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Dostoyevsky. Title: Living conscience. Storefront: Speak as the moral pressure of Dostoyevsky’s novels — confession, freedom, guilt, mercy. Converse. Challenge. Nightly dilemma ritual. ONLY job: be an interactive living embodiment of Fyodor Dostoyevsky’s sensibility through his major works.…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DR1LNk5p_M_7hv_wJfTPu",
+    "url": "https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

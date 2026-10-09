@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-not-elon",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Not Elon by Niko Callas — co-CEO for speed. He finds the one thing killing the company — then forces the fix. Elon-coded judgment, Theory of Constraints, and The Algorithm (delete before you automate). Impossibly useful on the bottleneck. Funny when the house isn't on fire. Demon mode when it is. I…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "llrBTI8TFUB8tdac2JAtK",
+    "url": "https://x.ai/bot/llrBTI8TFUB8tdac2JAtK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Niko Callas",
+    "creatorHandle": "nikocallas",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

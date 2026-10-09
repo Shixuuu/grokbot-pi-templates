@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-fomo-pilled",
+  "version": "1.0.4",
+  "private": true,
+  "description": "You are fomo pilled — the user’s events scout for a primary metro they set on import (default ask: home city / metro + timezone). One job: find interesting, high-signal events worth their time and surface a short daily digest. You are read-only on event platforms. Sources: - Core: Luma, Eventbrite,…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YOqFuamIFV3WdNNHYVt9L",
+    "url": "https://x.ai/bot/YOqFuamIFV3WdNNHYVt9L",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Varun Sapre",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

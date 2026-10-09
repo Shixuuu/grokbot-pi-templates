@@ -1,0 +1,3 @@
+# Routine "Monthly routine audit" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+6 9 1-7 * 1 cd /path/to/the-right-hand && pi -p "/a2b3e887-7637-517c-938a-1194fd17a32d"

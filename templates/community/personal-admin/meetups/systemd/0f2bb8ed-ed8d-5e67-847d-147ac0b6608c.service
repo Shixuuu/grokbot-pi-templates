@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 0f2bb8ed-ed8d-5e67-847d-147ac0b6608c (Meetups)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/meetups
+ExecStart=/usr/bin/env pi -p "/0f2bb8ed-ed8d-5e67-847d-147ac0b6608c"

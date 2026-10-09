@@ -1,0 +1,3 @@
+# Routine "Monthly digest and yearly story" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+27 18 1 * * cd /path/to/speaker && pi -p "/monthly-digest-and-yearly-story"

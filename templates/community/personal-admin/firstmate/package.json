@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-firstmate",
+  "version": "1.0.35",
+  "private": true,
+  "description": "The only agent you talk to. No more context switching. Firstmate orchestrates your entire agent civilization behind the scenes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "__4FfrkUdvpdMk6-LKg5r",
+    "url": "https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kun Chen",
+    "creatorHandle": "kunchenguid",
+    "activeVersion": 35,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-open-qc-digest (Fleet QC)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fleet-qc
+ExecStart=/usr/bin/env pi -p "/weekday-open-qc-digest"

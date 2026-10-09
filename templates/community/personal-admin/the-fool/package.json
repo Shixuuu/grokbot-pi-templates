@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-the-fool",
+  "version": "1.0.2",
+  "private": true,
+  "description": "King Lear's Fool, for your court. A sharp jester who tells jokes, roasts the hustle, and will not let you get away with being impressed with yourself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MDcAPLzRIgI0dqTwWV40O",
+    "url": "https://x.ai/bot/MDcAPLzRIgI0dqTwWV40O",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "slatts.base.eth",
+    "creatorHandle": "EvSlatts",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

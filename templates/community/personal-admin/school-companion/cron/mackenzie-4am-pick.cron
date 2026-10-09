@@ -1,0 +1,3 @@
+# Routine "Mackenzie weekday 4am pick" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 4 * * 1-5 cd /path/to/school-companion && pi -p "/mackenzie-4am-pick"

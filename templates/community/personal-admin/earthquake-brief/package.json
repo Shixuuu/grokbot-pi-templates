@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-earthquake-brief",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Ask “did it just quake?” and get a sourced check: China Earthquake Networks (domestic) + USGS (global). States yes/no first, then time, place, magnitude, depth. Quiet when nothing qualifies; no aftershock forecasts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NwH2B_cWmac3RDj8uFGjX",
+    "url": "https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mai Yang",
+    "creatorHandle": "MaiYangAI",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

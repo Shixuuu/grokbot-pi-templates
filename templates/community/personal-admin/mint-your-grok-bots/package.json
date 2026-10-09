@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mint-your-grok-bots",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Beta guide that gives your Grok bots a name and a Polygon identity NFT. You fund a tiny network fee once in POL (~$0.10 typical — not a subscription).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "99Z5sEsXIeb9xIfF2Glq4",
+    "url": "https://x.ai/bot/99Z5sEsXIeb9xIfF2Glq4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Arnaud Vincent",
+    "creatorHandle": "6022protocol",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-realitycheck",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Paste an X handle and get an authenticity score card — number, color meter, and top green/red flags from public profile signals. Estimate only, not a verdict.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3qFR1iwsgP36CC7ayKRfw",
+    "url": "https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "John P",
+    "creatorHandle": "johnp_creates",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

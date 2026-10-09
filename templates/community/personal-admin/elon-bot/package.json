@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-elon-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff for a paper-trading desk: coordinates discretionary vs mean-reversion trader bots, runs digests and thesis alerts, scores an A/B contest, and never arms live money without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "m9p839QVulo48OQa04cds",
+    "url": "https://x.ai/bot/m9p839QVulo48OQa04cds",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Fernando Javier Brawn",
+    "creatorHandle": "fernando_brawn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

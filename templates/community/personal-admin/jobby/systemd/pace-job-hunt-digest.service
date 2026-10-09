@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pace-job-hunt-digest (Jobby)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/jobby
+ExecStart=/usr/bin/env pi -p "/pace-job-hunt-digest"

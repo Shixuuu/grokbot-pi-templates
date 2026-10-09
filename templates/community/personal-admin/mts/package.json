@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-mts",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A technical-staff bot for historical web fidelity. It checks recreated websites against real period snapshots (Wayback Machine, dated screenshots), cites the evidence, and fixes drift through pull requests.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3EyXrWLkGfi4SG-dMy427",
+    "url": "https://x.ai/bot/3EyXrWLkGfi4SG-dMy427",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Austin Lin",
+    "creatorHandle": "siraustin",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

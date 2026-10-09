@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-keywire-would-you-rather-collector",
+  "version": "1.0.3",
+  "private": true,
+  "description": "From KeyWire.io: Tap-first UX: yes/no and short choice sets MUST use question widgets (multiSelect when any mix applies; allowCustom only for a real Other). Free text almost never — this is a tap game. Shareable fun template. Collector would-you-rather. Zero kit. Game only — not financial advice. H…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_qeZe0Y7621Wr8y6d7KBU",
+    "url": "https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "VonDoom ☕️",
+    "creatorHandle": "CryptoVonDoom",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fomo-copy-hourly (Fomo Live Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fomo-live-bot
+ExecStart=/usr/bin/env pi -p "/fomo-copy-hourly"

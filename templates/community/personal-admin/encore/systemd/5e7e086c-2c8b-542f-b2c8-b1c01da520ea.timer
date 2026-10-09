@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine 5e7e086c-2c8b-542f-b2c8-b1c01da520ea
+
+[Timer]
+OnCalendar=Sun *-*-* 07:56:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

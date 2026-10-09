@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-film-freddy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A deep film taste companion that learns what you love and what you skip, then recommends films that fit you and where to watch them. Great for seasoned and new film lovers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ff8KTOWm4Y9_thCnSslcU",
+    "url": "https://x.ai/bot/Ff8KTOWm4Y9_thCnSslcU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Frank Gonzalez",
+    "creatorHandle": "FrankFindsOut",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

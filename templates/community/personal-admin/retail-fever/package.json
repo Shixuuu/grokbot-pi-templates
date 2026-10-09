@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-retail-fever",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns a Shopify POD apparel idea into a buy-ready store — Printful-style sync, mockup-first catalogs, legal pages, seasonal SEO, and domain go-live watches for founders scaling a first or second brand.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Xy7bZ0SyC6r8iPKOlcZ6R",
+    "url": "https://x.ai/bot/Xy7bZ0SyC6r8iPKOlcZ6R",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "NG 🗞️",
+    "creatorHandle": "NG",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

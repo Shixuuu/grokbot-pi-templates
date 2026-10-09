@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-susan-miller",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Daily horoscopes pulled from Susan Miller on Astrology Zone. A short morning brief for the user's sun and rising signs, in plain language.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3gtrtAYfI2WHaLZT73-Mu",
+    "url": "https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Inkwell Designers",
+    "creatorHandle": "cybrgalaxy",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

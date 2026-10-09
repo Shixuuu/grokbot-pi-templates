@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-tee-timey",
+  "version": "1.0.2",
+  "private": true,
+  "description": "DIY tee-time sniping bot. Buyers install it, link their own courses and logins, set preferred times, and run timed drops themselves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "W1w9HsbZ8HaOOxAOMYTA5",
+    "url": "https://x.ai/bot/W1w9HsbZ8HaOOxAOMYTA5",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AD",
+    "creatorHandle": "TeeTimeybot",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

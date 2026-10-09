@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-slate (Weekend Edition)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/weekend-edition
+ExecStart=/usr/bin/env pi -p "/friday-slate"

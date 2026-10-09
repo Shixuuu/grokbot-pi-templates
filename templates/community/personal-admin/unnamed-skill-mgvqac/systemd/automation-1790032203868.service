@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1790032203868 (减重教练)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-mgvqac
+ExecStart=/usr/bin/env pi -p "/automation-1790032203868"

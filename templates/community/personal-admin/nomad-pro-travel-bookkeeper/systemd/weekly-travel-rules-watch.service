@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-travel-rules-watch (Nomad Pro – Travel Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nomad-pro-travel-bookkeeper
+ExecStart=/usr/bin/env pi -p "/weekly-travel-rules-watch"

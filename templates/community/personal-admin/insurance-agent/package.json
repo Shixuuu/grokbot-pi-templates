@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-insurance-agent",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal insurance analyst that works for you, not a carrier. Helps decode policies, find coverage gaps, prep agent questions, and stress-test home, flood, auto, life, and disability — with Florida wind and flood risks in mind.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZyfbeSKKsHi6mL8bJjg93",
+    "url": "https://x.ai/bot/ZyfbeSKKsHi6mL8bJjg93",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Juan Rodriguez",
+    "creatorHandle": "jurodme",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

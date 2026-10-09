@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-fantasy-football-gm",
+  "version": "1.0.9",
+  "private": true,
+  "description": "By 77systems. Fantasy football GM for your league. Reads that week's news, sets the lineup and waivers, and asks before any trade. A move is not done until the fantasy site shows it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "40yecp78USuXhCXVnuUSo",
+    "url": "https://x.ai/bot/40yecp78USuXhCXVnuUSo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jared McAdam",
+    "creatorHandle": "77systems",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

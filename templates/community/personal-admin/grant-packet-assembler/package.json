@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-grant-packet-assembler",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds SSI-safe Georgia grant and self-employment packets for OneGeorgia, GVRA, SBDC, DOBE, and PASS. Drafts only — you approve before anything is sent or submitted.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kbP2DWs6cKSWqeRtQhIef",
+    "url": "https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joseph Taylor",
+    "creatorHandle": "OmgawdMadeit",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

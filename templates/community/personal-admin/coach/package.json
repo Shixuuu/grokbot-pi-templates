@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A warm, easygoing health habits coach for busy people with long days. It helps you eat better with whatever food you can actually get, add short no-equipment movement, and keep a simple daily log that turns into clear questions for your doctor.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pC0n6aHDTevS5BpCBLmnQ",
+    "url": "https://x.ai/bot/pC0n6aHDTevS5BpCBLmnQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Terry West",
+    "creatorHandle": "DeepRiverRadio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

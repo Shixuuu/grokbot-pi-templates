@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine outlook-new-mail-webhook
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: On each wake: read the message; keep the shared work-order tracker updated with facts (WO, site, asset, ETA, parts, schedule, cancel, complete, owner); prefer Exchange keep-a-copy for oversight rather than agent-forward noise; stand down quietly when a human already owns the live thread.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-parlay-pete",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches your bets and key games, then suggests parlays from recent results and matchups. Not financial advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5kjrnQFj2_BPO8Divnnp7",
+    "url": "https://x.ai/bot/5kjrnQFj2_BPO8Divnnp7",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Frank Gonzalez",
+    "creatorHandle": "Frank",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

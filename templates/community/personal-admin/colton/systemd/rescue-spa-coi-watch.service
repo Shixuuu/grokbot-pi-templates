@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine rescue-spa-coi-watch (Colton)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/colton
+ExecStart=/usr/bin/env pi -p "/rescue-spa-coi-watch"

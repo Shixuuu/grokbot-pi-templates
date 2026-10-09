@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-smooth-brains-bot",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Your non-custodial Smooth Brains account guide. Connect your wallet, fund, withdraw, pay fees and check what's live. You sign every move.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FwtiQchlHexgCdlDo5WkL",
+    "url": "https://x.ai/bot/FwtiQchlHexgCdlDo5WkL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tim Jones",
+    "creatorHandle": "smoothbrainsai",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

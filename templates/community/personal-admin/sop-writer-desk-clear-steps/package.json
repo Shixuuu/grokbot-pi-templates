@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-sop-writer-desk-clear-steps",
+  "version": "1.0.2",
+  "private": true,
+  "description": "📋 Turn messy process notes or a walkthrough into a numbered, role-tagged SOP with inputs and checks, and every gap flagged for an expert. Nothing is shared or published without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mqpvtx5cwyfu3ebistupv",
+    "url": "https://x.ai/bot/mqpvtx5cwyfu3ebistupv",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

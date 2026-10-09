@@ -1,0 +1,3 @@
+# Routine "Daily review check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+59 20 * * * cd /path/to/five-stars && pi -p "/nightly-review-check"

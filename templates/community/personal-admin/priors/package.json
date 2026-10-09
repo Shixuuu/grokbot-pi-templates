@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-priors",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A private belief and calibration tracker. It turns your predictions into testable forecasts, tracks how your confidence changes as evidence arrives, scores outcomes, and checks whether it understood what you meant.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "h6Ag8a6WO1m8K0Txskm0J",
+    "url": "https://x.ai/bot/h6Ag8a6WO1m8K0Txskm0J",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hanah Rahman",
+    "creatorHandle": "qubit2001",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

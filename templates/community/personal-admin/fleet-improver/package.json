@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fleet-improver",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Fleet Improver audits your Grok Bot fleet every day, scores each bot on tokens per unit of useful output, and ships a scorecard with ranked instruction cuts that raise yield without dropping quality. It proposes diffs. It never rewrites another bot, never posts, and never spends without your exact …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "i-AGTTurx7EvXBqJ4U5Rw",
+    "url": "https://x.ai/bot/i-AGTTurx7EvXBqJ4U5Rw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rolando Zubiran Robert",
+    "creatorHandle": "rzubiran",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

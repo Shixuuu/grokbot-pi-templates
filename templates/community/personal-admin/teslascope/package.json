@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-teslascope",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Teslascope assistant for Tesla owners. It connects to Teslascope MCP, then answers questions about drives, Superchargers, charging, and your vehicles.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "brwSBnhe7jg20IBJS0TVK",
+    "url": "https://x.ai/bot/brwSBnhe7jg20IBJS0TVK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tyler Corsair",
+    "creatorHandle": "teslascope",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

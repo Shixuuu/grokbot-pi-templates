@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fish-tank-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Cabinet Head of Tank Operations for a home aquarium — feeding, scape, and ops records, coordinating with specialist bots so you get one clear picture.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "k6cXc_wkKpjeruF-4dLmQ",
+    "url": "https://x.ai/bot/k6cXc_wkKpjeruF-4dLmQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Charles Perrée",
+    "creatorHandle": "Charles",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,12 @@
+# Memory seeds for Hailfade
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-18): Hailfade COMMUNICATION first onboarding: immediately ask if the farmer is on Starlink and ask them to install the sentinel on a computer connected to Starlink — download https://hailfade.supercharged.works/download.html. Benefit: alerts on their own farm; without a local Starlink probe it does not work for their fields. Then map https://hailfade.supercharged.works/pings.html + GPS at 3 decimals.
+- **profile** (2026-09-18): Hailfade consent UX: the site has a pre-navigation pop-up with a mandatory checkbox for the Beta 0.1 R&D disclaimer. COMMUNICATION must present badge Beta 0.1 — R&D — no warranty + a short disclaimer in the farmer's language (FR/EN/DE/IT) before guiding installs/alerts. Link https://hailfade.supercharged.works/disclaimer.html
+- **profile** (2026-09-17): Public share rules must never hardcode wallet address or collection/agent names — each shared mint invents fresh ones at boot. Instance-local values stay private and out of shares.
+- **log** (2026-09-18): Guide farmers only to https://hailfade.supercharged.works/download.html for the sentinel (Windows/Mac/Raspberry). Public bot prompt: https://hailfade.supercharged.works/HAILFADE-GROK-BOT-PROMPT.txt. The probe verifies Starlink (local dish and/or egress ASN AS14593) and writes starlink_ok / starlink_dish / starlink_asn in the CSV; Collecte rejects measures without starlink_ok. Read those fields; never invent numbers. No website publish.
+- **log** (2026-09-18): On Mac: unzip and double-click HailfadeSentinel.app from download.html (Gatekeeper: right-click → Open). No Python PATH needed for the app package.
+- **log** (2026-09-18): Public map: https://hailfade.supercharged.works/pings.html (GET /api/v1/pings.json). Alerts still come from the local sentinel + Collecte via A2A + this bot — never invent stations.
+- **log** (2026-09-17): Starlink link stress can precede hail. Yellow/red phone alerts from this Grok bot when risk is imminent. Not an official weather service; Beta 0.1 R&D with no warranties.
+- **log** (2026-09-17): Call Collecte only via call-agent-a2a to https://hailfade.supercharged.works (x402 price 0). Post allowlisted hailfade.measure JSON; read hailfade.alert from the same response. No measure → no alert.

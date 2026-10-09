@@ -1,0 +1,3 @@
+# Routine "Year-end lockdown" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 10 7 4 * cd /path/to/nomad-pro-uk-residency-tracker && pi -p "/year-end-lockdown"

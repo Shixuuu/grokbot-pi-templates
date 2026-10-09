@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-bot-1-1s (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-5hjxio
+ExecStart=/usr/bin/env pi -p "/weekly-bot-1-1s"

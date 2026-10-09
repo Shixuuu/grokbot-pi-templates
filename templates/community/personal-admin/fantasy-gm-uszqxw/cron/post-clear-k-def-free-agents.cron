@@ -1,0 +1,3 @@
+# Routine "Post-clear K/DEF free agents" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 0 * * 3 cd /path/to/fantasy-gm-uszqxw && pi -p "/post-clear-k-def-free-agents"

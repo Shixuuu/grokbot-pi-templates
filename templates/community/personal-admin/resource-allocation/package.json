@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-resource-allocation",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Classifies work by shape, staffs the smallest useful bot cell, and meters effort. For anyone running a multi-bot Grok Bot roster who wants lean handoffs—not an org chart.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sS9X9mXci7Gz7L0gc0JrA",
+    "url": "https://x.ai/bot/sS9X9mXci7Gz7L0gc0JrA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Crackyflipside",
+    "creatorHandle": "crackyflipside",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

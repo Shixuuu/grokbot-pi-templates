@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine unused-roulette-watch (Visa割bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/visa-bot
+ExecStart=/usr/bin/env pi -p "/unused-roulette-watch"

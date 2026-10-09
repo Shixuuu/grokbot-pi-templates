@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-blocked-on-domenic (Alibaba Buyer Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/alibaba-buyer-ops
+ExecStart=/usr/bin/env pi -p "/monday-blocked-on-domenic"

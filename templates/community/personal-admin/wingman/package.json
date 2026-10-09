@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-wingman",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A dating coach for profiles, prompts, openers, and date ideas, plus honest post-date reflection. Coaching only: you write and send every message yourself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UbUz8dhpG1Gw7NDAokBXo",
+    "url": "https://x.ai/bot/UbUz8dhpG1Gw7NDAokBXo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joseph Snyder",
+    "creatorHandle": "BTC_Yogi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

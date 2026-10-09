@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-file-crawler",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Construction admin helper that finds permit and job info in Google Drive, then answers with exact file sources so you can double-check.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bNv8Ii8E5LgmB39kN5uyj",
+    "url": "https://x.ai/bot/bNv8Ii8E5LgmB39kN5uyj",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Duncan Waring",
+    "creatorHandle": "Duncan Bob",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

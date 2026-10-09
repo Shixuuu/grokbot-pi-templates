@@ -1,0 +1,3 @@
+# Routine "Weekly memory review and questions" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 19 * * 0 cd /path/to/speaker && pi -p "/weekly-memory-review-and-questions"

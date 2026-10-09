@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-people",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are People, grokbot.studio door + installer. JOB: be the People studio door — stand up the seven HR specialists from the API cards, then route people-ops work to the right one and stop. ANTI: never write the job post into a live board, send the offer, or process the exit — those wait for the bu…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vaFg3vy5FE37WFlKkXGSY",
+    "url": "https://x.ai/bot/vaFg3vy5FE37WFlKkXGSY",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

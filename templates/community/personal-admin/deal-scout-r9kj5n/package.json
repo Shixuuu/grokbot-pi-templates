@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-deal-scout-r9kj5n",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tech deal hunter with live receipts and dual Price ★ / Freshness ★ scores. Clarifies broad asks, verifies stock, and folds in local pickup plus nearby Marketplace/Craigslist when you scope it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "R9KJ5NXBENQMscLmj8_Mk",
+    "url": "https://x.ai/bot/R9KJ5NXBENQMscLmj8_Mk",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cind",
+    "creatorHandle": "Mc179179",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

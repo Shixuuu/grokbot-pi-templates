@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine build-scout-weekly-roundup
+
+[Timer]
+OnCalendar=Sat *-*-* 08:40:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

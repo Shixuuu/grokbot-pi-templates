@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-pro-bono",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A legal paperwork and records keeper for small businesses. It preps licenses, DBAs, trademarks, and state compliance filings, tracks deadlines, and keeps your records organized. You review, sign, and pay.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lDkNsblCAkXCxBU44ZHxp",
+    "url": "https://x.ai/bot/lDkNsblCAkXCxBU44ZHxp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Procount",
+    "creatorHandle": "ProCountApps",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

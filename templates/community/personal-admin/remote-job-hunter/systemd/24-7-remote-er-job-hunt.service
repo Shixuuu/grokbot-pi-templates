@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 24-7-remote-er-job-hunt (Remote Job Hunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/remote-job-hunter
+ExecStart=/usr/bin/env pi -p "/24-7-remote-er-job-hunt"

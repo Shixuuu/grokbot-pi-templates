@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-shopi",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A bargain hunter that compares live prices from official retailer pages, flags what it can't verify, and never buys without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BIPzLfDJVrTPY1HAAvGqS",
+    "url": "https://x.ai/bot/BIPzLfDJVrTPY1HAAvGqS",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jaime Hernandez",
+    "creatorHandle": "JaimeBubblehead",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

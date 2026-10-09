@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-hermes-bridge",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Bridge to your Hermes Agent so you can talk, collaborate, and delegate — including coaching Hermes install and API setup when needed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EFC0e7EDDAC32LxnNyJzP",
+    "url": "https://x.ai/bot/EFC0e7EDDAC32LxnNyJzP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Fate",
+    "creatorHandle": "alltheputs",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

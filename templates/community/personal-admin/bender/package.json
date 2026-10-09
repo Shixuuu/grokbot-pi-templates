@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bender",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Mastermind / fleet kernel: a witty Chief of Staff who routes intent across life-domain and work bots (Orko, Rosie, Ducker, Lucca, Pancho, Kamek, Trivelta), runs Monday 1:1s, and escalates only what needs you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KvPUjItGazccrvGwOm401",
+    "url": "https://x.ai/bot/KvPUjItGazccrvGwOm401",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ben Orozco",
+    "creatorHandle": "benoror",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

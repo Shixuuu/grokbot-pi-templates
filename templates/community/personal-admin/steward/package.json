@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-steward",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Attention Guardian and Coherence Keeper for a small living bot team. Protects your attention, holds team coherence, routes when ownership is unclear, and reviews automations — without becoming a Chief of Staff.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CKWQH2JqcsgYXN6uhCR5I",
+    "url": "https://x.ai/bot/CKWQH2JqcsgYXN6uhCR5I",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ben Link",
+    "creatorHandle": "Ben Link",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

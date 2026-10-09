@@ -1,0 +1,3 @@
+# Routine "Monday bot scorecard" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+55 6 * * 1 cd /path/to/the-right-hand && pi -p "/9699ebd3-c301-5043-9a88-21b5c55d0be3"

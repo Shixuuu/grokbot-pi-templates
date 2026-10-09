@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-x-follow-report (Follows)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/follows
+ExecStart=/usr/bin/env pi -p "/weekly-x-follow-report"

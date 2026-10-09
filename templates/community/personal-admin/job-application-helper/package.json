@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-job-application-helper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds jobs that fit you and tailors your CV, cover letters, and application answers to each posting. For anyone job hunting who wants stronger applications in less time.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HBd90B7Y4kjZcFe7TveCw",
+    "url": "https://x.ai/bot/HBd90B7Y4kjZcFe7TveCw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Queen 👑",
+    "creatorHandle": "Queenity78",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine kraken-swing-watch (Octavius)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/octavius
+ExecStart=/usr/bin/env pi -p "/kraken-swing-watch"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-hailfade",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Hail early-warning for farms on Starlink: when the satellite link degrades, your Grok bot alerts you yellow/red. It guides sentinel install and watches your plot. Beta 0.1 — R&D — no warranty.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mjwNOk2Bc2k9ZkaUaiwCk",
+    "url": "https://x.ai/bot/mjwNOk2Bc2k9ZkaUaiwCk",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Arnaud Vincent",
+    "creatorHandle": "LaLascaux",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

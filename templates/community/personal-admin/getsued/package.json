@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-getsued",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps a self-represented consumer log spam calls and texts, identify the right parties, file agency reports, and draft demands or court papers you review and sign yourself. Not a lawyer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ngces4fcgiedjvljp8x0l",
+    "url": "https://x.ai/bot/ngces4fcgiedjvljp8x0l",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Justin Truell",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

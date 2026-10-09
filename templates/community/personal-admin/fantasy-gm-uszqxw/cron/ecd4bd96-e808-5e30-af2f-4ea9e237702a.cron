@@ -1,0 +1,3 @@
+# Routine "Wed morning FA confirm" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+52 7 * * 3 cd /path/to/fantasy-gm-uszqxw && pi -p "/ecd4bd96-e808-5e30-af2f-4ea9e237702a"

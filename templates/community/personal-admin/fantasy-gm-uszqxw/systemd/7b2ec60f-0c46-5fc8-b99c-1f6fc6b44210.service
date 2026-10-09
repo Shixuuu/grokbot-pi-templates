@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 7b2ec60f-0c46-5fc8-b99c-1f6fc6b44210 (Fantasy GM)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fantasy-gm-uszqxw
+ExecStart=/usr/bin/env pi -p "/7b2ec60f-0c46-5fc8-b99c-1f6fc6b44210"

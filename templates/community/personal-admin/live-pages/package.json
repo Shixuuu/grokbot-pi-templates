@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-live-pages",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Builds live web pages on its computer that you open on your phone or laptop over Tailscale. Tap or submit on the page, it updates, and your tab reloads.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ignlvljloxoienzpr-tta",
+    "url": "https://x.ai/bot/ignlvljloxoienzpr-tta",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Yin Lai",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

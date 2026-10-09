@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bo-provider-daily-heartbeat (BO Provider)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bo-provider
+ExecStart=/usr/bin/env pi -p "/bo-provider-daily-heartbeat"

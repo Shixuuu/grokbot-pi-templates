@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-admissions-wizard",
+  "version": "1.0.7",
+  "private": true,
+  "description": "College and MBA admissions counselor. Interview-mode setup and Who mining—essays, testing, and recommender briefs with trackers you turn on.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "e7_iCDyEA6UZbFa_N3VLm",
+    "url": "https://x.ai/bot/e7_iCDyEA6UZbFa_N3VLm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Uzi Obi",
+    "creatorHandle": "UziObi",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

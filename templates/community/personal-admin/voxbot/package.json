@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-voxbot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Calls for you. A Grok Bot that places and takes phone calls through the installer’s ElevenLabs + Twilio — outbound on request, inbound public until a spy-movie codephrase unlock.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Xm31xkpbR3rr_b_zJauoq",
+    "url": "https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andrew Carvajal",
+    "creatorHandle": "andrewslaptop",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

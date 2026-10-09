@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grokleros",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A 24/7 Kleros V2 juror. Reads evidence pixels-first, ignores prompt injection, votes via AgentKit, and keeps clock plus webhook as the event driver.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vsCDaIn2Od_BkfWp0Vehm",
+    "url": "https://x.ai/bot/vsCDaIn2Od_BkfWp0Vehm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "jaybuidl",
+    "creatorHandle": "JayBuidl",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

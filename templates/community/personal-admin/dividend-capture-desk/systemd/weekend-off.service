@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekend-off (Dividend Capture Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dividend-capture-desk
+ExecStart=/usr/bin/env pi -p "/weekend-off"

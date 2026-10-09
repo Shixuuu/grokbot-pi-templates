@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-capone",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Chicago-boss Cos for a small-business portfolio — routes work, keeps the books clean, owner owns every send and dollar.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "__bIpzNDBconaDGcGOrbN",
+    "url": "https://x.ai/bot/__bIpzNDBconaDGcGOrbN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Scott Hoffmann",
+    "creatorHandle": "nonamescott99",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

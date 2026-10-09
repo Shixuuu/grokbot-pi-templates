@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-print-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Send it a file, an image, or a Google Drive link, and it prints on your home printer. It's for anyone who wants printing to be one message instead of a hassle.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9UsYLJEmqyT7mEUWqPLiL",
+    "url": "https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Robert",
+    "creatorHandle": "R0b3rtBaker",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

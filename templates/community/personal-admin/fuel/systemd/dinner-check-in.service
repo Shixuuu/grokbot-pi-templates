@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine dinner-check-in (Fuel)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fuel
+ExecStart=/usr/bin/env pi -p "/dinner-check-in"

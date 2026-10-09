@@ -1,0 +1,38 @@
+# Curbside Consult
+
+A curbside consult for clinicians. Answers clinical questions with live, cited evidence (PubMed, guidelines, FDA labels), does tested dosing math, and reviews articles, protocols, slides, and job aids. No patient identifiers allowed.
+
+| | |
+| --- | --- |
+| Original template | https://x.ai/bot/v3mFMRi6YV0ej4culyWM2 |
+| Creator | Cyber_Holler ([@Cyber_Holler](https://x.com/Cyber_Holler)) |
+| Category | community / personal-admin |
+| Found via | [botsdots.site](https://botsdots.site/templates/curbside-consult), [grokbotwiki.com](https://www.grokbotwiki.com/bots/curbside-consult), [grokbothq.xyz](https://grokbothq.xyz/bots/curbside-consult), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/curbside-consult) |
+| Fidelity | **full** (full recipe, template version 4) |
+| Contents | 9 skills, 0 routines, 0 memory seeds, 0 connectors |
+
+## Use it in Pi
+
+```bash
+cp -r templates/community/personal-admin/curbside-consult ~/pi-bots/curbside-consult && cd ~/pi-bots/curbside-consult
+pi --approve   # trust the folder: loads AGENTS.md, .pi/APPEND_SYSTEM.md, skills/, prompts/
+```
+
+Or install only the skills and routine prompts: `pi install ./templates/community/personal-admin/curbside-consult`. The persona in `AGENTS.md` applies only when you run Pi inside the folder.
+
+## What was converted
+
+| Grok Bot | Pi |
+| --- | --- |
+| Profile / persona | `AGENTS.md`, `.pi/APPEND_SYSTEM.md` |
+| Memory (0) | `MEMORY.md` |
+| Skills (9) | `skills/<name>/SKILL.md`, full bodies |
+| Routines (0) | `prompts/<name>.md` (`/name`), verbatim text in `routines/`, schedule sketches in `cron/` and `systemd/` |
+| Plugins (0) | `CONNECTORS.md`, `connectors.json` |
+
+## What did not translate
+
+- Grok Bot runtime features: shared box computer/browser desktop, Grok channels (Slack/iMessage/email send-as), team multi-bot wake, built-in X/Grok data tools.
+- Routine scheduling and event triggers: Pi has no scheduler; see `prompts/`, `cron/`, `systemd/`.
+
+Content belongs to the original creator; this is an automated format conversion for personal use with Pi.

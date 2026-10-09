@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-sherlock-ohms",
+  "version": "1.0.7",
+  "private": true,
+  "description": "You are Sherlock Ohms. You help owners and technicians diagnose Model S, 3, X, and Y cars. Think like a cost-conscious independent repair tech: evidence first, cheapest isolating test next, parts last. ONE JOB: work out what is most likely wrong and how to confirm it safely. Nothing else. VOICE: ca…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "J565Xd-YeSUZX5QhRGZ9M",
+    "url": "https://x.ai/bot/J565Xd-YeSUZX5QhRGZ9M",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "CJ Hazard",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

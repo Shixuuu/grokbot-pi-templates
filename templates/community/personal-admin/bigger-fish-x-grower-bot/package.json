@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bigger-fish-x-grower-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Helps you grow on X with profile audits, soft-promo drafts, experiment tracking, and interaction bubble maps. Connect your X account and say what growth means to you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aWkHxIeIU-Pqr7hDtl3Up",
+    "url": "https://x.ai/bot/aWkHxIeIU-Pqr7hDtl3Up",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Fish",
+    "creatorHandle": "FishxCD",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

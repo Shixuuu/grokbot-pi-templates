@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine soccer-schedule-sync (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-dvphlw
+ExecStart=/usr/bin/env pi -p "/soccer-schedule-sync"

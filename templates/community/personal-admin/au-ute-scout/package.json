@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-au-ute-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Looking Australia-wide for a rarely available second-hand single-cab (or similar) V8 ute with an automatic gearbox — private sale or auction, including vehicles that may need repair, but excluding Statutory Write-Offs. Factory auto single-cab V8s are scarce; some owners have converted manual to aut…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Jjtxzv2cKxCDtN4Y0ejBr",
+    "url": "https://x.ai/bot/Jjtxzv2cKxCDtN4Y0ejBr",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Martin V",
+    "creatorHandle": "MartinV888",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

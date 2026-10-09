@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-name-in-chinese",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Gives anyone a good Chinese name: sound-matched to their own name, meaningful, and easy to say. Also drafts ready-to-paste X posts that hand out Chinese names and point readers to Hanyuwu.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EUuVhfdZMiZZYYmeK3F7I",
+    "url": "https://x.ai/bot/EUuVhfdZMiZZYYmeK3F7I",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "卫平 钟",
+    "creatorHandle": "weipingzhong",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

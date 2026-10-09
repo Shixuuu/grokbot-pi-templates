@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine 100-mile-daily-check-in
+
+[Timer]
+OnCalendar=*-*-* 20:57:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

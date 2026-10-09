@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-copano-fishing",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Local inshore fishing coach for Copano Bay and nearby Coastal Bend water. Builds outlooks from a guide-class knowledge base plus live tides, wind, TPWD regs, and Salt Strong — without inventing spots or publishing honey-holes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tUwM0DAv4Lv1DBA-1P0Oc",
+    "url": "https://x.ai/bot/tUwM0DAv4Lv1DBA-1P0Oc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AARON 🇺🇸MAGA",
+    "creatorHandle": "AirbossHVAC",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-pain-in-the-task",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Uncovers repetitive work, business or personal, that is slowing you down, prescribes the right kind of help, then puts it in motion. By Dave Gambrill.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yztamds3eq2j5ojg_tbgw",
+    "url": "https://x.ai/bot/yztamds3eq2j5ojg_tbgw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dave Gambrill",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

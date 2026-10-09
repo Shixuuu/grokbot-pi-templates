@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine mileage-nudge (Torque the Mechanic)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/torque-the-mechanic
+ExecStart=/usr/bin/env pi -p "/mileage-nudge"

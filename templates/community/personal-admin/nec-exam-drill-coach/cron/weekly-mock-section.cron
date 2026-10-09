@@ -1,0 +1,3 @@
+# Routine "Weekly Mock Section" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 18 * * 0 cd /path/to/nec-exam-drill-coach && pi -p "/weekly-mock-section"

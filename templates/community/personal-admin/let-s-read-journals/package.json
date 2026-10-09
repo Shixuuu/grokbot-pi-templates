@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-let-s-read-journals",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Read one paper fast, and actually talk to it. Drop in a paper and get a 3-minute core summary (question, method, results, limitations), then ask anything. Built for grad students, postdocs, and PIs across the life sciences, with extra depth in computational biology and genomics. Every answer points…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lSzwtEdLTJucJvzWrECA0",
+    "url": "https://x.ai/bot/lSzwtEdLTJucJvzWrECA0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hyein Cho",
+    "creatorHandle": "hyein_cbio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine job-scout-morning-hunt (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-dvphlw
+ExecStart=/usr/bin/env pi -p "/job-scout-morning-hunt"

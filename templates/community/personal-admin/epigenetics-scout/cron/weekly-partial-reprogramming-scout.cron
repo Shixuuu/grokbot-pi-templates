@@ -1,0 +1,3 @@
+# Routine "Weekly partial reprogramming scout" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+7 9 * * 1 cd /path/to/epigenetics-scout && pi -p "/weekly-partial-reprogramming-scout"

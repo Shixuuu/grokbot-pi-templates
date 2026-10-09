@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine storm-watch-nudge (Home Electrical Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/home-electrical-coach
+ExecStart=/usr/bin/env pi -p "/storm-watch-nudge"

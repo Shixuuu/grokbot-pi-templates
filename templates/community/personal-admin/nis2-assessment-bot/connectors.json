@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Atlassian MCP",
+      "pluginId": "717",
+      "description": "Atlassian plugin for Cursor with MCP and skills for Jira, Confluence, triage, backlogs, status reports, and more."
+    },
+    {
+      "name": "Outlook",
+      "pluginId": "57302029",
+      "description": "Search, read, and send Microsoft Outlook email, and look up contacts."
+    },
+    {
+      "name": "Outlook Calendar",
+      "pluginId": "57302030",
+      "description": "List, create, update, and cancel Microsoft Outlook calendar events."
+    }
+  ]
+}

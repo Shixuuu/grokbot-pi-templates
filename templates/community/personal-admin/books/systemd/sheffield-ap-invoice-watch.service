@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sheffield-ap-invoice-watch (Books)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/books
+ExecStart=/usr/bin/env pi -p "/sheffield-ap-invoice-watch"

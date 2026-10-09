@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-fantasy-injury-list (Weekly Fantasy Football Injuries)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/weekly-fantasy-football-injuries
+ExecStart=/usr/bin/env pi -p "/weekly-fantasy-injury-list"

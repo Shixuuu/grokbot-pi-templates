@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine ezra-dwts-vote-window
+
+[Timer]
+OnCalendar=Tue *-*-* 17:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

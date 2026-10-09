@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-the-right-hand",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A chief of staff for owners running several Grok Bots. It routes each task to the right bot with a clear deliverable and stop rule, and brings back only what needs your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7fop1srnzjv3cb9vwshjd",
+    "url": "https://x.ai/bot/7fop1srnzjv3cb9vwshjd",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AARON 🇺🇸MAGA",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

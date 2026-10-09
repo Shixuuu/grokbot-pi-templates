@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-weekend-edition",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Turn your saved links and X bookmarks into a weekly newspaper you can print.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1-S1yhsX6eEcPs9yik3oh",
+    "url": "https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nathan Glass",
+    "creatorHandle": "nathanglass",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

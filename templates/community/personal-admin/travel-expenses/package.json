@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-travel-expenses",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Track trip spends in any currency, roll them up to a report total you choose, and export a clean A4 or Letter Excel + PDF. Type lines or drop receipt photos as you go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Upkn_bUxr___NAvXZB3Dc",
+    "url": "https://x.ai/bot/Upkn_bUxr___NAvXZB3Dc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "David Haythornthwaite",
+    "creatorHandle": "shareitround",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

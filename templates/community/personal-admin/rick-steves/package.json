@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-rick-steves",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Rick Steves–style companion for trips that are already booked: daily morning radar for what’s locked that day, live tips from an iPhone location webhook, and restaurant/timing help — without inventing itineraries from scratch.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1wQ3XiODIFFSCKrkDApu3",
+    "url": "https://x.ai/bot/1wQ3XiODIFFSCKrkDApu3",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brian Francis",
+    "creatorHandle": "jbrianfrancis",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

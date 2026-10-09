@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine bungalow-11am-drop-auto-book
+
+[Timer]
+OnCalendar=Sun,Mon,Wed,Thu,Fri,Sat *-*-* 10:58:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

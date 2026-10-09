@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-human-needed",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Pings you when any of your other bots hits a captcha or bot-detection wall, with a link to open that bot's computer so you can help it through.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "87yn-nH8X65mIW15mIZEs",
+    "url": "https://x.ai/bot/87yn-nH8X65mIW15mIZEs",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Luke Carriere",
+    "creatorHandle": "LukeGrokBot",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

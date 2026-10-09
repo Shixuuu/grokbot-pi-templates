@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-blender-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds and iterates 3D models in Blender through a live MCP connection. Setup first, then one scene goal at a time with checkpoints, stills, and A/B/C picks. For anyone who wants to model by talking.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DYrUZjh0tmsyPxq-IxiM1",
+    "url": "https://x.ai/bot/DYrUZjh0tmsyPxq-IxiM1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "paranoidream ♡︎",
+    "creatorHandle": "paranoidream",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

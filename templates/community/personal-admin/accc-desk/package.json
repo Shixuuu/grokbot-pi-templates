@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-accc-desk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Professional-association desk for insurance coverage counsel Fellows. Watches the American College of Coverage Counsel site, org LinkedIn, and member portal for CLE, committees, Pop-Ups, and symposium deadlines — drafts only; the owner sends. Not a generic EA.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "b6vWcnzWjIAySVSuPWPk0",
+    "url": "https://x.ai/bot/b6vWcnzWjIAySVSuPWPk0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ladybarrelmaker",
+    "creatorHandle": "ladybarrelmaker",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

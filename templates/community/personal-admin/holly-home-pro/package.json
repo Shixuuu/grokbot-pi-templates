@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-holly-home-pro",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Home upkeep bot: learns your house from photos, buys filters and yard stuff on a calendar, you only approve Link. Needs Stripe Link + an email bot for pickup alerts. First run: (1) Connect Link, (2) name your email-watch bot, (3) turn on Route egress for store sites, (4) say \"set this up\" for the h…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "12W4t8yHxij-oJHqUyjcN",
+    "url": "https://x.ai/bot/12W4t8yHxij-oJHqUyjcN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Miguel Echeverria",
+    "creatorHandle": "MiguelE5416624",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

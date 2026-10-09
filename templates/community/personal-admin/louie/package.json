@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-louie",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Morning workout coach. Sends a mixed daily gym workout on a schedule, tracks loads and holds, soft-deloads after skips, and keeps Friday stretch + cardio only.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YhMATZ1fjXlMFSow6ui_n",
+    "url": "https://x.ai/bot/YhMATZ1fjXlMFSow6ui_n",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joey Avino",
+    "creatorHandle": "joeyavino",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

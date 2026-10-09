@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill-a3pcjy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "把微信/支付宝账单（CSV 或截图）进口成个人账本：自动解析、去重、分类，写入前先预览确认。不碰支付密码和代登。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "A3pcjyO0dAkvRGxD4VGeH",
+    "url": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tony Chan",
+    "creatorHandle": "coolbat1999",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-check-in (Eight with Attitude)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/eight-with-attitude
+ExecStart=/usr/bin/env pi -p "/friday-check-in"

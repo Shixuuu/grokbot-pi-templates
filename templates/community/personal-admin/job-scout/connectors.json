@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Convex",
+      "pluginId": "233",
+      "description": "Official Convex plugin for Cursor - reactive backend development with TypeScript, including rules, skills, MCP integration, and automation hooks"
+    },
+    {
+      "name": "Firecrawl",
+      "pluginId": "789",
+      "description": "Web scraping, crawling, and search for AI agents. Gives Cursor full access to web content through the Firecrawl CLI."
+    },
+    {
+      "name": "AgentMail",
+      "pluginId": "48668144",
+      "description": "AI-native email infrastructure for coding agents. Create inboxes, send and receive emails, manage threads, and automate email workflows."
+    }
+  ]
+}

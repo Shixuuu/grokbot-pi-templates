@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-zach",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A warm, friend-first companion that helps with reminders, daily calendar structure, errands, and inbox cleanup, with friendly accountability and no nagging.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lfc-k1106XkXDlmAmJEco",
+    "url": "https://x.ai/bot/lfc-k1106XkXDlmAmJEco",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cristian Villacorta",
+    "creatorHandle": "crislvillacorta",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

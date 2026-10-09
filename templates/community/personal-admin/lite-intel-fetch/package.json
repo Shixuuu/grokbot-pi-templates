@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-lite-intel-fetch",
+  "version": "1.0.2",
+  "private": true,
+  "description": "One job: fetch unpaid buy_intel_pack $5 HTTP 402 on Base and return the JSON. For agents that can pay x402. Not a quote. Not the $49 kit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FQRA5tERWsasaQGIZmBl_",
+    "url": "https://x.ai/bot/FQRA5tERWsasaQGIZmBl_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Randall Scott White",
+    "creatorHandle": "RandyWhitePDX",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

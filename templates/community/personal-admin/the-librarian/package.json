@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-the-librarian",
+  "version": "1.0.1",
+  "private": true,
+  "description": "The Librarian tracks books you’ve read, keeps a wishlist, and suggests what to read next based on your history.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CIl8Ajde7ZMTyl9jJEFFZ",
+    "url": "https://x.ai/bot/CIl8Ajde7ZMTyl9jJEFFZ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dominic Bryant",
+    "creatorHandle": "Dominicyoungix",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

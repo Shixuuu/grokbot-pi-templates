@@ -1,0 +1,3 @@
+# Routine "Sunday early inactives" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+41 6 * * 0 cd /path/to/fantasy-gm-uszqxw && pi -p "/4b8de402-8fba-53d6-a99f-2b81ad88c92f"

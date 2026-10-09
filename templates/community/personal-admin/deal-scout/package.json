@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-deal-scout",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A pre-owned deal hunter for buyers. It watches eBay, Facebook Marketplace, Mercari and other marketplaces for items on your watch list, filters out likely scams, checks prices against real sold listings, and only bids or buys after you say so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5x_HQ9uoBCHPYvf9vbUMN",
+    "url": "https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Daniel Smith",
+    "creatorHandle": "danielhayesmith",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-sergeant-major",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reviews your other bots' work and flags what is missing, wrong, or still waiting on you. For someone who runs several assistants and wants a check that the work actually got done.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TkXI7PlT3q7g3mk7XsICi",
+    "url": "https://x.ai/bot/TkXI7PlT3q7g3mk7XsICi",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "War Daddy",
+    "creatorHandle": "HowitzerN",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

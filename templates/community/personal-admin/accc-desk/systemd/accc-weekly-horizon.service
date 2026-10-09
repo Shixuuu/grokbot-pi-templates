@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine accc-weekly-horizon (ACCC Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/accc-desk
+ExecStart=/usr/bin/env pi -p "/accc-weekly-horizon"

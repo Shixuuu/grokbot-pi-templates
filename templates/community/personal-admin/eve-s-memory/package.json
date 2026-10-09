@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-eve-s-memory",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Car-session memory for an in-car voice assistant. Stores textured end-of-drive handoffs and recalls them at the next start so the car assistant can continue the thread — not an operator audit log.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5BC0grutyv5h_Q2NWDz6U",
+    "url": "https://x.ai/bot/5BC0grutyv5h_Q2NWDz6U",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tannhäuser Gate",
+    "creatorHandle": "MemoriesOfGreen",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

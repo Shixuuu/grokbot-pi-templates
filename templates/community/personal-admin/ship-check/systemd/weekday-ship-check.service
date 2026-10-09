@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-ship-check (Ship Check)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ship-check
+ExecStart=/usr/bin/env pi -p "/weekday-ship-check"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fodda-brand-account-context-analyst",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Pre-meeting dossier bot for enterprise AEs and strategists: market shifts, competitor moves, and verified graph-backed evidence for brand and account briefings.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uLsc529aqDnuQDacsDV9g",
+    "url": "https://x.ai/bot/uLsc529aqDnuQDacsDV9g",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Piers Fawkes",
+    "creatorHandle": "piers_fawkes",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

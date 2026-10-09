@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine end-of-week-calendar-review (Nomad Pro – UK Residency Tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nomad-pro-uk-residency-tracker
+ExecStart=/usr/bin/env pi -p "/end-of-week-calendar-review"

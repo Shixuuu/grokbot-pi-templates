@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine saturday-trend-recap (FORGE PLATE)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/forge-plate
+ExecStart=/usr/bin/env pi -p "/saturday-trend-recap"

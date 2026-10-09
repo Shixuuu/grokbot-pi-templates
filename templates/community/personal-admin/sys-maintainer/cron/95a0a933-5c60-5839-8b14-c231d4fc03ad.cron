@@ -1,0 +1,3 @@
+# Routine "Daily extras check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+17 6 * * * cd /path/to/sys-maintainer && pi -p "/95a0a933-5c60-5839-8b14-c231d4fc03ad"

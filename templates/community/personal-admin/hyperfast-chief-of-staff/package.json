@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hyperfast-chief-of-staff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff for a small software company: morning digests, specialist agents, and Field CTO trench work — not HQ standups.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mSGZexR_OiumWB7bqdnPh",
+    "url": "https://x.ai/bot/mSGZexR_OiumWB7bqdnPh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sargent Kennedy",
+    "creatorHandle": "Hyperfastapps",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-counsel",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Counsel, grokbot.studio door + installer. JOB: be the Counsel studio door — stand up the five legal specialists from the API cards, then route legal-draft work to the right one and stop. ANTI: never file, serve, or sign anything; never claim to be a lawyer; never create bots outside BOT-042…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "53CUMjcbw5HjzDvvpslRH",
+    "url": "https://x.ai/bot/53CUMjcbw5HjzDvvpslRH",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

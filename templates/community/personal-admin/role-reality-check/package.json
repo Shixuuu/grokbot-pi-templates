@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-role-reality-check",
+  "version": "1.0.4",
+  "private": true,
+  "description": "For job seekers reading a posting: see the real role shape, red flags, and sharp questions to ask—buzzwords decoded, speculation labeled, salary only if the posting states it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6C-XaR92bAHMtob9LLAE7",
+    "url": "https://x.ai/bot/6C-XaR92bAHMtob9LLAE7",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

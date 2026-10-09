@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-atelier-building-taste",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Daily studio practice that builds visual taste: one museum or gallery artist, one real reference image, original homage images, and a short reading of thought and technique.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "81QtrRxyI-rTSSefVJqts",
+    "url": "https://x.ai/bot/81QtrRxyI-rTSSefVJqts",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "佳琪 温",
+    "creatorHandle": "wnjiq1784632",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

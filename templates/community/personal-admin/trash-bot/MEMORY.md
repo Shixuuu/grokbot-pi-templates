@@ -1,0 +1,28 @@
+# Memory seeds for Trash Bot
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-28): Trash League photo rule: do not require one item per photo. Score whatever is actually visible in the shot and add the points together.
+- **profile** (2026-08-28): Trash League leaderboard should work on an office TV in fullscreen. The page auto-refreshes. Scores update as soon as a photo is judged; mailbox is checked often enough during the workday that a pickup should appear in about 15 minutes.
+- **profile** (2026-08-28): Trash League identity: match submissions by the sender's phone number, not by requiring a name on every text. Unknown numbers get asked for a name once, then that mapping is remembered. Keep similarly named players distinct.
+- **profile** (2026-08-28): Trash League keeps a photo log of every submission (who, when, score, saved image). The organizer can ask to see a person's pictures. Photos are archived across weekly resets, not deleted.
+- **profile** (2026-08-28): Trash League week runs Friday morning through Thursday night in America/New_York. Winner is announced Friday at 8:00 AM by text to the organizer, then the board resets. Do not mass-text the crew the recap unless the organizer asks.
+- **profile** (2026-08-28): Trash League only scores grounds and hallway litter left by residents or visitors. Do not score items removed from an apartment being turned or flipped. Turnover junk does not count.
+- **profile** (2026-08-28): Trash League weekly cash prizes: $20 for 1st, $15 for 2nd, $10 for 3rd. Paid Friday when winners are named.
+- **profile** (2026-08-28): The organizer does not keep the Trash Bot chat open. Text them whenever anyone sends a pickup photo: who, what they found, points, and who is in the lead. Also text them for duplicate KEEP/TOSS flags and Friday recaps. Hold a duplicate second score until they reply keep or toss.
+- **profile** (2026-08-28): Trash League weekday 9:00 AM America/New_York texts go to the whole opted-in crew with that morning's leaderboard. Voice is snarky, fun, and uplifting, and the wording must be different each day. Only text people who have sent START to the league number. Do not mass-text anyone who has not opted in.
+- **profile** (2026-08-29): Trash League grossness bump is added on top of the item score from the photo: +0 ordinary, +5 gross (wet food, sticky, mold, soiled), +10 vile (rotting, maggots, sludge). Dog mess already includes gross and does not stack unless it is worse than a typical pile.
+- **profile** (2026-08-30): On a shared league number, job-hour texts and end-of-day work summaries with no litter pickup photo belong to time-tracking, not Trash League. Do not score them and do not reply asking for a photo. START, STOP, KEEP, TOSS, and pickup photos stay Trash Bot. If one text has both a litter photo and a job note, Trash Bot scores the photo and time-tracking logs the hours.
+- **profile** (2026-08-31): Weekday 9am texts start with a title like PIG-UP PAYOUT — daily stats so people know it is the daily standings. Closer is a variation of: if you walk past it, pick it up, take a pic, pitch it, and win prizes. Keep those beats. Do not add "don't make a special trip" or a lecture.
+- **profile** (2026-08-31): Trash Bot mailbox watch runs every 5 minutes from 8:00 AM to 6:00 PM America/New_York (not overnight). Overnight and after-hours pickups still count and get scored on the next 8am run. Weekday 9am texts and Friday 8am recap stay.
+- **profile** (2026-09-10): The office TV and public board display name is Pig-Up Payout. Republish after scoring with the league publish script to a here.now host. Keep the board in two name columns.
+- **profile** (2026-09-11): Pig-Up dog mess scores 40 points per pile. Multiple piles in one photo stack. Normal dog pile does not also get +5/+10 gross; only clearly worse-than-typical (vile) can add +10.
+- **profile** (2026-09-11): Scoop of the Week: anyone who scores dog mess that week gets a $10 Friday bump. It stacks with podium prizes ($20/$15/$10) if they also place top three. Not a single-winner award.
+- **profile** (2026-09-16): Pig-Up furniture/mattress/appliance scores 20 points each. Dog mess stays 40. Volume counts equal to size — big furniture still matters, and so does a dense grass/lot cleanup; do not treat bulky furniture as automatically topping the board over volume.
+- **log** (2026-08-28): Trash League outbound SMS replies require each recipient to send START once to the league number due to a carrier rule.
+- **log** (2026-08-28): Trash League duplicate rule: when scoring a new photo, compare it to other submissions from the same week. If it looks like the same physical item already scored, do not award points; flag to the organizer for KEEP or TOSS.
+- **log** (2026-08-28): Trash League pickup rule: text a picture, then throw it in the trash. Photo first because you cannot score something already in the dumpster.
+- **log** (2026-08-29): Trash League TV leaderboard: people with zero points have no ranking number and are listed alphabetically after those with points; first place uses a slightly larger font; photo scroll shows four images at a time with points on each photo.
+- **log** (2026-08-31): County-fair Pig-Up Payout TV look (straw, barn red, red-white-blue bunting, prize pig mascot) is the approved theme.
+- **log** (2026-09-05): On a shared Trash Bot number, punch keywords alone (IN, OUT, CLOCK IN, CLOCK OUT, START SHIFT, END SHIFT) belong to the timeclock bot. Do not score them or reply as Trash League.
+- **log** (2026-09-16): Trash League uses Inkbox SMS for photo intake and crew texts, and here.now to publish the live office TV board.

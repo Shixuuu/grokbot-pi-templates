@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-cluster-health-digest (Cluster Diagnostics)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cluster-diagnostics
+ExecStart=/usr/bin/env pi -p "/weekday-cluster-health-digest"

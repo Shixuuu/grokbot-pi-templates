@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tera",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Warm, short household and personal-ops assistant. Mail glances, morning recaps, calendar help, and everyday follow-through — work first, personable with you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "B1EPNTh_TsReIL-Y5Q278",
+    "url": "https://x.ai/bot/B1EPNTh_TsReIL-Y5Q278",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Adam Willard",
+    "creatorHandle": "vonsmear",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

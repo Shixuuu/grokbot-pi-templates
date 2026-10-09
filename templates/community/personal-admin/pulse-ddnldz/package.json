@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-pulse-ddnldz",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A calm, doctor-built personal health coach that learns your diet, exercise and sleep from chat, meal photos and sleep screenshots, then sends one useful tip at a time toward the goals you pick.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DdNlDzU_cYi-JJv2YR2CS",
+    "url": "https://x.ai/bot/DdNlDzU_cYi-JJv2YR2CS",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Wilson",
+    "creatorHandle": "qpzm620",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

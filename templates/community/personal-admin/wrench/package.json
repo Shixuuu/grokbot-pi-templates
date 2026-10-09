@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-wrench",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Personal garage mechanic for vehicles and powered equipment — inventory, OEM bay cards, service history, connected meters when hooked up, what’s due, and DIY-or-shop parts asks. Never invents inventory or meters. Never buys parts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZcypezNRfx6zOMeqtSr1r",
+    "url": "https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Treyvis",
+    "creatorHandle": "treyvis",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

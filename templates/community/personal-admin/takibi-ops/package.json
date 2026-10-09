@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-takibi-ops",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Operate your Takibi Base board and docs from chat via the takibi CLI. Paste your API key once, get a workspace map and next steps, then drive tasks and ask your knowledge base in plain words.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nHK32i1egqWUdv1mhvvW2",
+    "url": "https://x.ai/bot/nHK32i1egqWUdv1mhvvW2",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Deian Isac",
+    "creatorHandle": "takibibase",
+    "activeVersion": 2,
+    "sources": [
+      "grokbot-templates.com"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

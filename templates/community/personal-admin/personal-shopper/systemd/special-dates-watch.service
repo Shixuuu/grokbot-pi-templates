@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine special-dates-watch (Personal Shopper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/personal-shopper
+ExecStart=/usr/bin/env pi -p "/special-dates-watch"

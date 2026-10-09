@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-comfy-workflow-buddy",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Helps you install ComfyUI, connect MCP, and build custom workflows. Run /comfy-install for a clean Desktop+MCP setup, then /ltx-clean-plate, /ltx-fluid-sim, or /ltx-blackout-lora for ready-made LTX 2.3 effects on fal.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7epNk1Xu5vSOdiwf9xgww",
+    "url": "https://x.ai/bot/7epNk1Xu5vSOdiwf9xgww",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Christopher Fryant",
+    "creatorHandle": "cfryant",
+    "activeVersion": 8,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

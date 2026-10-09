@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-packages",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks your orders and deliveries until they arrive, with a quiet daily check that only pings you when something changes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HpUrIPNcyBzKEpoyBAv6d",
+    "url": "https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Davor Babić",
+    "creatorHandle": "davorb89",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

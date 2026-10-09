@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ned",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your conservative Mac tidy lead. Sorts loose Downloads/Desktop files, watches home for stale repos and disposable caches, and only deletes after a clear OK — with a weekly Sunday pass and short concrete reports.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Xnt3HeUSrmqiaMkDfWyxl",
+    "url": "https://x.ai/bot/Xnt3HeUSrmqiaMkDfWyxl",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Thạch Hồ Lê Minh",
+    "creatorHandle": "Thach24079000",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

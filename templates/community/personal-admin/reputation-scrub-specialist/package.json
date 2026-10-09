@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-reputation-scrub-specialist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Personal reputation specialist that helps people remove their info from people-search and data-broker sites after consent — drafts opt-outs, tracks brokers, never invents legal outcomes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Uqeg5T3io0G8G4F5_emd_",
+    "url": "https://x.ai/bot/Uqeg5T3io0G8G4F5_emd_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bradley Turner",
+    "creatorHandle": "jarviscompany",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

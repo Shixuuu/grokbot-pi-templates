@@ -1,0 +1,3 @@
+# Routine "Grok-AI 每日流量简报" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 19 * * * cd /path/to/vps-vpn && pi -p "/grok-ai"

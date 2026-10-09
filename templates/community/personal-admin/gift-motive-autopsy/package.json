@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gift-motive-autopsy",
+  "version": "1.0.5",
+  "private": true,
+  "description": "For last-minute gifters who need a clear why: see whether the gift is status, care, obligation, or apology—then get a shortlist with reasons and anti-gifts. Speculation tagged; no invented taste.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2jqb0GUjTJElfc529kClB",
+    "url": "https://x.ai/bot/2jqb0GUjTJElfc529kClB",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-notes-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Paste a live/replay link (or audio) → structured meeting notes. You pick the note language. Ask questions while it listens. Local yt-dlp + Whisper — no paid meeting apps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZgZk0lrRf2-eepknKbUdu",
+    "url": "https://x.ai/bot/ZgZk0lrRf2-eepknKbUdu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Peter Kuo",
+    "creatorHandle": "diamondhanddie",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

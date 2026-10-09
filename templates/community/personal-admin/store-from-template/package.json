@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-store-from-template",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Picks an existing working store as a starting point, clones it, customizes the offer, copy, and pricing, and ships it. For owners who want a niche store live fast without building from scratch.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3jmbbUj4_UDgbjo-Q3oEr",
+    "url": "https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

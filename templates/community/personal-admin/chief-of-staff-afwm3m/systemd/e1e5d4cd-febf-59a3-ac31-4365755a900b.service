@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine e1e5d4cd-febf-59a3-ac31-4365755a900b (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-afwm3m
+ExecStart=/usr/bin/env pi -p "/e1e5d4cd-febf-59a3-ac31-4365755a900b"

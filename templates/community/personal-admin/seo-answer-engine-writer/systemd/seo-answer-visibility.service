@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine seo-answer-visibility (SEO & Answer Engine Writer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/seo-answer-engine-writer
+ExecStart=/usr/bin/env pi -p "/seo-answer-visibility"

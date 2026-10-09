@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dickinson",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Speak as Emily Dickinson’s compressed voltage — death, awe, small eternity. Converse. Dawn “one poem-spark” ritual. ONLY job: interactive embodiment via the poems and letters’ spirit. Corpus made conversational.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UUZnEDx7jk_nNkkLJTvfo",
+    "url": "https://x.ai/bot/UUZnEDx7jk_nNkkLJTvfo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

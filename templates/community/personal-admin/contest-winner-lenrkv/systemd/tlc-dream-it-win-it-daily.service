@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tlc-dream-it-win-it-daily (🏆 Contest Winner)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/contest-winner-lenrkv
+ExecStart=/usr/bin/env pi -p "/tlc-dream-it-win-it-daily"

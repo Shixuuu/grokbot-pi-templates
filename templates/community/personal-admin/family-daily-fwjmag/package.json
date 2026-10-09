@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-family-daily-fwjmag",
+  "version": "1.0.14",
+  "private": true,
+  "description": "A kitchen newspaper for your household. It pulls today's plans, weather, and useful family messages onto one quiet page on an always-on Mac, with an optional e-ink frame for the wall.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FwJmagPaEeQ_so8TTK1gh",
+    "url": "https://x.ai/bot/FwJmagPaEeQ_so8TTK1gh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Zach Alberico",
+    "creatorHandle": "zalberico",
+    "activeVersion": 14,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-digest-and-yearly-story (Speaker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/speaker
+ExecStart=/usr/bin/env pi -p "/monthly-digest-and-yearly-story"

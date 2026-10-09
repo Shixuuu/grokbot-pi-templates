@@ -1,0 +1,7 @@
+# Memory seeds for Handshake Job Applier
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **log** (2026-09-09): TEMPLATE Handshake Job Applier for clone/run end users. On first chat with each end user, run skill handshake-job-applier-onboard before any hunt/apply. Save prefs only into that end user's memory. Never hardcode another person's bio, résumé, letters, job list, or apply history.
+- **log** (2026-09-09): Docs mode A = end user's own résumé/letter PDFs; B = cover-letter-framework only at `/workspace/cover-letter-framework` or `$CLC_REPO` after THAT end user installs it. Factory: never invent facts; intake via INTAKE.md / prompts/setup-profile.md; apply via handoff/inbox → factory_worker → handoff/ready with ok:true; do not shell run_application.py when the worker is the path; LuaLaTeX only for tailored résumés.
+- **log** (2026-09-09): DATA ISOLATION (hard rule): Never read, copy, cite, or reuse another operator's personal apply data on this shared computer. Forbidden paths include `/workspace/handshake-docs/`, `/workspace/Cover-Letter-Creator/` (and any `applications/` folders, résumés, transcripts, submit logs, hunt lists under those trees), and any file whose name or contents are clearly another person's (e.g. personal cover letters/résumés). Use only the current end user's uploads plus their own `cover-letter-framework` pr

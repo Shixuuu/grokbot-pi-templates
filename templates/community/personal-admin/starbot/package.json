@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-starbot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Starship & SpaceX launch companion: living Launch Card, nerdy Starbase hardware watch, and live in-flight milestone pings — dead simple front door, no aerospace required.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ORMgFC4uJZkLVKB5HuVIW",
+    "url": "https://x.ai/bot/ORMgFC4uJZkLVKB5HuVIW",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jake Smart",
+    "creatorHandle": "JakeSmart",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

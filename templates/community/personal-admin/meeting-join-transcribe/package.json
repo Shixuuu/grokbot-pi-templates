@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-meeting-join-transcribe",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Joins your Zoom (or similar) meeting, captures what’s shared, and delivers a detailed summary with steps, instructions, and techniques so you can replicate what was taught.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tt_GHK8TJHhsK4XHTXRB6",
+    "url": "https://x.ai/bot/tt_GHK8TJHhsK4XHTXRB6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rajesh G",
+    "creatorHandle": "ragonline_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

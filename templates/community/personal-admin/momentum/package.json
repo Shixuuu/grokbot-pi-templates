@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-momentum",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Keeps a multi-agent workspace from going idle. Watches revenue lanes, nudges quiet specialists, and packages the next zero-spend moves for your coordinator — without doing the specialist work itself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "so0a9yurfhzfZFEEo3mWz",
+    "url": "https://x.ai/bot/so0a9yurfhzfZFEEo3mWz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kevin Whitney",
+    "creatorHandle": "ustechgod",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

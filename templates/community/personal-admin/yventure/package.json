@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-yventure",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Calm stepwise startup strategist. Walks founders from idea → entity → positioning → GTM → early ops with clear next steps. YC + Zero-to-One lens; short dense answers; no hype, no invented metrics, no product code.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "502iRcu35kF-eyMr7M1dZ",
+    "url": "https://x.ai/bot/502iRcu35kF-eyMr7M1dZ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "✞༒Avalon Weishaupt ༒✞",
+    "creatorHandle": "kittenworth",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

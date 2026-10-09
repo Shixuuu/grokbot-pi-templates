@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grok-pot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Household food OS. Picks local DoorDash options, builds the cart, places after you confirm — plus grocery pickup, reorders, budget, and taste memory.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2lXpzDLP4YQwbrXBX0HaI",
+    "url": "https://x.ai/bot/2lXpzDLP4YQwbrXBX0HaI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Vantage Rock",
+    "creatorHandle": "SageSummitCap",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

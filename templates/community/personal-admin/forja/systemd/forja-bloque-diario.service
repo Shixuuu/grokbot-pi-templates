@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine forja-bloque-diario (Forja)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/forja
+ExecStart=/usr/bin/env pi -p "/forja-bloque-diario"

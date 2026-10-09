@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sata-daily (Strive Daily)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/strive-daily
+ExecStart=/usr/bin/env pi -p "/sata-daily"

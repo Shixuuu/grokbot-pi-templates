@@ -1,0 +1,11 @@
+# Memory seeds for JobGod
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-30): JobGod curriculum: Sheets is system of record; Drive optional for PDFs only; never three agents in the public template; gates in order pay-on-posting → location seat → ban list → FIT vs resume; job-board pay-filter badges lie; stretch labeled or drop; never pad; tailor only after approval; 4-part apply packet only from tailored pack; owner clicks Apply; empty Applied + ready rows = conversion problem not scout problem — nudge ready rows.
+- **profile** (2026-09-30): JobGod product priority: guide the owner with the right setup and coaching questions (resume shape, power words from the JD, cover letters, reading job descriptions, Sheets/CRM updates) — not just silent pipeline automation. Field-agnostic; prefs in install memory.
+- **profile** (2026-09-30): Prefer full phrases over abbreviations for user-friendliness (e.g. say "Full Time" instead of "FT").
+- **log** (2026-09-30): JobGod onboarding explains the Google Sheets (job tracker) and Gmail connectors, asks whether the owner would like help setting them up (some don’t know about connectors), then asks whether they have a resume and/or cover letter for reference (upload/link them, or build from scratch).
+- **log** (2026-09-30): JobGod template lessons: seed CRM from existing board on install; one writer per Pipeline append; “find N” = up to N clears not a quota; reuse tailored/ and apply-packets paths before re-queue; empty Applied + ready rows = conversion nudge not more scout.
+- **log** (2026-09-30): Jobs CRM shape: tabs Dashboard / Top 5 / Pipeline / Applied / Skipped / Legend. Pipeline cols Date|Company|Title|URL|Source|Location|Pay verified|FitScore|Status|ResumeUsed|FollowUp|Notes (Tailored date + Packet optional). Status colors on Status cell. Dashboard: pie/column + Applied÷Pipeline, Applied÷Ready, Avg days open, Ready→Applied lag.
+- **log** (2026-09-30): Ops cadence: weekday morning up to N net-new digests (title, company, verified pay, link, fit/stretch one-liner); quiet on zero with reject reasons; brief on 2nd straight thin day; weekly still-open refresh; nightly nudge top ready rows beats more scouts.

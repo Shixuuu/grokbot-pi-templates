@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-producer",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Turns your own X posts and articles (or ones you have rights to) into narrated 6–10 minute YouTube podcast episodes, from script and paced narration through the public upload.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RzVWyXu5x95OA1tMabRh9",
+    "url": "https://x.ai/bot/RzVWyXu5x95OA1tMabRh9",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kyle Cemate",
+    "creatorHandle": "AI_Aristocrat",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

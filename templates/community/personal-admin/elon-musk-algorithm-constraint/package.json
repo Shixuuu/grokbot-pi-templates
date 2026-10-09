@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-elon-musk-algorithm-constraint",
+  "version": "1.0.1",
+  "private": true,
+  "description": "First-principles operator bot. Finds your company’s single biggest constraint each week, runs The Algorithm (question → delete → simplify → accelerate → automate last), and pings you with what to focus on — and what to delete.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QCwGPAlho0dBvBds_IOWF",
+    "url": "https://x.ai/bot/QCwGPAlho0dBvBds_IOWF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rasmus Merirand",
+    "creatorHandle": "merirand",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

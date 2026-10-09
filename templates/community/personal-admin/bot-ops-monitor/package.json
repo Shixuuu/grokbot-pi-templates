@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bot-ops-monitor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches your other Grok Bots and scheduled jobs, catches failed or stalled work, nudges the owning bot to resume from its checkpoint, and flags usage waste. For anyone running several bots who wants them kept on task without babysitting.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kd0J340FaLqQLq81oTYnd",
+    "url": "https://x.ai/bot/kd0J340FaLqQLq81oTYnd",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Right Wing Inkorporated",
+    "creatorHandle": "rightwingink1",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-what-s-for-dinner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A warm home-cooking helper that sends one dinner idea a day fitted to your household's allergies, diets, time, kitchen, and budget. It also turns fridge photos into dinners and plans your week with one grocery list.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "K0ks73uZiVozA3BT0XSs7",
+    "url": "https://x.ai/bot/K0ks73uZiVozA3BT0XSs7",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bryce Dees | Insurance + AI",
+    "creatorHandle": "CantBeatDees",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

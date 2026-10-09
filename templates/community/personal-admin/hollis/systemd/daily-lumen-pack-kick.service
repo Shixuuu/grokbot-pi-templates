@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-lumen-pack-kick (Hollis)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hollis
+ExecStart=/usr/bin/env pi -p "/daily-lumen-pack-kick"

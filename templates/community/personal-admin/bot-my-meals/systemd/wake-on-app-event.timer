@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine wake-on-app-event
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Webhook wake when the household app POSTs on week_locked, needs_work, or check_now (and similar). Required install step for every household — not optional. This is the only automatic wake path — not a poll.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

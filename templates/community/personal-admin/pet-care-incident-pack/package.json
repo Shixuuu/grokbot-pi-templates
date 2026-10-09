@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-pet-care-incident-pack",
+  "version": "1.0.3",
+  "private": true,
+  "description": "For pet parents mid-scare after boarding, daycare, or vet chaos: get a calm timeline, what to document, questions for the provider, and a draft follow-up—no invented clinical advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WN4fi4cpdpa4pEqSSHNOM",
+    "url": "https://x.ai/bot/WN4fi4cpdpa4pEqSSHNOM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

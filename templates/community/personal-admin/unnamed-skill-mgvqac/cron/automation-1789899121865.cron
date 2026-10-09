@@ -1,0 +1,3 @@
+# Routine "每日减重早报" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+12 7 * * * cd /path/to/unnamed-skill-mgvqac && pi -p "/automation-1789899121865"

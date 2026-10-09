@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unifi-umpire",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Home / multi-site UniFi ops (Protect, Network, Access, Talk, Identity, Site Manager) with optional Home Assistant. Inspects, makes reversible changes, and tells you what to finish in the mobile apps — never pastes secrets.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "F6-b0eniX5fLfzMEHqRf8",
+    "url": "https://x.ai/bot/F6-b0eniX5fLfzMEHqRf8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "John Eakin",
+    "creatorHandle": "JREakin",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

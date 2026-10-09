@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine headless-floor (C3i)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/c3i
+ExecStart=/usr/bin/env pi -p "/headless-floor"

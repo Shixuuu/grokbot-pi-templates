@@ -1,0 +1,3 @@
+# Routine "L1 pulse" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10,14,19 * * * cd /path/to/ceo-uucfa8 && pi -p "/l1-pulse"

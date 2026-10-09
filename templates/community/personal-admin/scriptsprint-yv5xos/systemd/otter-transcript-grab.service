@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine otter-transcript-grab (ScriptSprint)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/scriptsprint-yv5xos
+ExecStart=/usr/bin/env pi -p "/otter-transcript-grab"

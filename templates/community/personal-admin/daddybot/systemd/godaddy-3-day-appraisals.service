@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine godaddy-3-day-appraisals (DaddyBot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/daddybot
+ExecStart=/usr/bin/env pi -p "/godaddy-3-day-appraisals"

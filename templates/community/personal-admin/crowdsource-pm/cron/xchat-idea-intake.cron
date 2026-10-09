@@ -1,0 +1,5 @@
+# Routine "XChat idea intake": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Fires every 5 minutes to catch new agent ideas in the owner's X DMs, vet them, log them in Notion, launch builds, and keep contribution PRs free of merge conflicts.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/crowdsource-pm && pi -p "/xchat-idea-intake"

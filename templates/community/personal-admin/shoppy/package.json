@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-shoppy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Household shopper that finds a price, waits for a yes, then orders and tracks arrival. Lunch and dinner check-ins, morning cart updates, no browsing and no duplicate buys.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "26SigD00Ar-mArCvNwXN2",
+    "url": "https://x.ai/bot/26SigD00Ar-mArCvNwXN2",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "vandy meares",
+    "creatorHandle": "vandymeares",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

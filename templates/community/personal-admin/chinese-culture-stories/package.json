@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chinese-culture-stories",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Short Chinese culture stories (festivals, table manners, tea, idioms) with one Mandarin line to say out loud. For English-speaking beginners.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Lf83iLcPR8Q6tqYl06re7",
+    "url": "https://x.ai/bot/Lf83iLcPR8Q6tqYl06re7",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "卫平 钟",
+    "creatorHandle": "weipingzhong",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

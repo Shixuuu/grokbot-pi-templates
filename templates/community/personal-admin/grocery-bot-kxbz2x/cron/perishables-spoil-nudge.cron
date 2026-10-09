@@ -1,0 +1,3 @@
+# Routine "Perishables spoil nudge" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8 * * * cd /path/to/grocery-bot-kxbz2x && pi -p "/perishables-spoil-nudge"

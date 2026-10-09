@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-usage-saver",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Cut the cost and clutter of AI-assistant and agent tasks by shrinking context, picking the right tool, and skipping unnecessary steps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jQ8sPQbnCaXQdXV6CjTKL",
+    "url": "https://x.ai/bot/jQ8sPQbnCaXQdXV6CjTKL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Daniel Rader",
+    "creatorHandle": "Draggen75",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

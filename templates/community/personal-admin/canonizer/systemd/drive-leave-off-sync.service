@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine drive-leave-off-sync (Canonizer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/canonizer
+ExecStart=/usr/bin/env pi -p "/drive-leave-off-sync"

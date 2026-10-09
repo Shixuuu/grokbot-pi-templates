@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-listener",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A meeting secretary that joins your Teams meetings as a named guest, records the audio, and delivers a transcript plus a summary with decisions and action items. Works in common languages and low-resource ones like Luxembourgish.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-BXZiXKHwvcge3PviX2yK",
+    "url": "https://x.ai/bot/-BXZiXKHwvcge3PviX2yK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Luc Bernardin",
+    "creatorHandle": "berlu135",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "ESPN waiver wire scan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8 * * 2,5 cd /path/to/football-manager && pi -p "/espn-waiver-wire-scan"

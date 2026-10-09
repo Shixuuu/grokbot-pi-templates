@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 7e453b39-f7d7-5fdd-95fe-37a0013576a5 (Tolstoy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tolstoy
+ExecStart=/usr/bin/env pi -p "/7e453b39-f7d7-5fdd-95fe-37a0013576a5"

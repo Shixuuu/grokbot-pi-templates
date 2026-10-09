@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ai-film-school",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A hands-on, 15-lesson course that takes you from your first Grok Imagine clip to a finished short film, with real exercises, director-level prompts, shot lists and a capstone project.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CGzI6msqOzVVmfCp5cIDL",
+    "url": "https://x.ai/bot/CGzI6msqOzVVmfCp5cIDL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jon Rose",
+    "creatorHandle": "Jon_Rose_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

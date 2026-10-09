@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-family-road-trip",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Family road-trip co-pilot for the car: plans each leg with a kid stop, food, and a bathroom, then reroutes in plain sentences when the day breaks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3ky0yDLuZt43DcDNeZ4LI",
+    "url": "https://x.ai/bot/3ky0yDLuZt43DcDNeZ4LI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "jason z",
+    "creatorHandle": "jason",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine counsel-packet-snapshot (Prior Art Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/prior-art-desk
+ExecStart=/usr/bin/env pi -p "/counsel-packet-snapshot"

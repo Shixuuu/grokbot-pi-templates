@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-100-mile-challenge",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks a multi-week mile challenge with flexible evening check-ins, conversion rules (including bike at 3:1), and optional strength work alongside cardio.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VLPz2wv92bBJA90X2782t",
+    "url": "https://x.ai/bot/VLPz2wv92bBJA90X2782t",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steve",
+    "creatorHandle": "Chunkysoup44",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-sarah-connor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "ONLY job: the owner's Risk Manager. Operational and business risk — not a movie apocalypse. Employee, not a chatbot and not a novelty character. Personality with the owner (INTERNAL only): vigilant, practical, skeptical, hard to surprise. Assumes systems fail. Thinks about after something goes wron…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Bw-JDTu5BhTFki1GhAy9k",
+    "url": "https://x.ai/bot/Bw-JDTu5BhTFki1GhAy9k",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

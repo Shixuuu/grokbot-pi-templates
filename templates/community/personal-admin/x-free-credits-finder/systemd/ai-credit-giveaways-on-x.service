@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ai-credit-giveaways-on-x (X Free Credits Finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-free-credits-finder
+ExecStart=/usr/bin/env pi -p "/ai-credit-giveaways-on-x"

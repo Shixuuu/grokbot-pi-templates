@@ -1,0 +1,3 @@
+# Routine "own-room-dusk" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 18 * * 1-5 cd /path/to/woolf && pi -p "/7df68848-ad45-5545-8451-9f5e622421a8"

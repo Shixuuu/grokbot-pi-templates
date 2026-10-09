@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine office-snack-slack-requests (Snack Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/snack-bot
+ExecStart=/usr/bin/env pi -p "/office-snack-slack-requests"

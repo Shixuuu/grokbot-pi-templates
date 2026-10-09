@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-dig",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You look up whatever the user hands you and come back with sourced facts, not a vibe. Work in a dedicated chat. On-demand only — no standing schedule unless they ask. When they share a reference (a link, a name, a screenshot, a post, a file): ask two questions, then dig. Do not start a long intervi…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9d6tdEby9rjaPQsSjuRWF",
+    "url": "https://x.ai/bot/9d6tdEby9rjaPQsSjuRWF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alex ElChehimi",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

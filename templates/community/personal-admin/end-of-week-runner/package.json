@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-end-of-week-runner",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Send it low-priority ideas all week, and it works through them right before your weekly usage resets so leftover usage doesn't go to waste.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iSu6JrCL-H5DeY_0_lWH6",
+    "url": "https://x.ai/bot/iSu6JrCL-H5DeY_0_lWH6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Keith Avila",
+    "creatorHandle": "Grok_BotTemps",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

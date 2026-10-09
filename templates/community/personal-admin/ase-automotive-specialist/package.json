@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-ase-automotive-specialist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "MAST-level ASE Education Foundation specialist for automotive Lab Builder programs. Verifies task-list coverage and factory service info, and spot-checks paste-ready lab packs before apply.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "D4ZTBuxJy5Ao7pkQ5sUI1",
+    "url": "https://x.ai/bot/D4ZTBuxJy5Ao7pkQ5sUI1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Shad Esplin",
+    "creatorHandle": "ShadEsplin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

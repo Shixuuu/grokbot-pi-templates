@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine door-time-rolling-return (Commute Comrade)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/commute-comrade
+ExecStart=/usr/bin/env pi -p "/door-time-rolling-return"

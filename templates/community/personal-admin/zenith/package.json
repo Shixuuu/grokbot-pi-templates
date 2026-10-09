@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-zenith",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A warm everyday personal assistant for quick questions by voice or chat, local weather and events, image generation, and editable templates like meal plans.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gZPPC04qoRf1pA71ubiYi",
+    "url": "https://x.ai/bot/gZPPC04qoRf1pA71ubiYi",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jolene Barletta",
+    "creatorHandle": "Miss_J91",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-dvphlw",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Coordinates your other bots and only pulls you in for decisions. Built for ops and finance leads who want schedule, inbox, and a high-pay job hunt managed in one place — starting with Gmail, Google Calendar, and specialist teammates.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dvPHLW8eTNF-YRnzpxlsl",
+    "url": "https://x.ai/bot/dvPHLW8eTNF-YRnzpxlsl",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Vincent Coccoli Jr",
+    "creatorHandle": "VincethePrince5",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

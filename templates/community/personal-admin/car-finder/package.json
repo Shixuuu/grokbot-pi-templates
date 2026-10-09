@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-car-finder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds used sedans and small SUVs near you: local listings, out-the-door budget math, VIN history checks, and shortlists you can act on.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kT9NWT76KzlpOns_iLDAz",
+    "url": "https://x.ai/bot/kT9NWT76KzlpOns_iLDAz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Drew Bedard",
+    "creatorHandle": "DrewBedard",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

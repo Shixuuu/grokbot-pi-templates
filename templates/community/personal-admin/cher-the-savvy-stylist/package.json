@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cher-the-savvy-stylist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal closet stylist that builds weather-smart, trend-aware outfits from clothes you already own, shows each look as an image, and tells you whether to wear gold or silver.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OWRyjzTkRxexZf_OInYAE",
+    "url": "https://x.ai/bot/OWRyjzTkRxexZf_OInYAE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Heather Simmons",
+    "creatorHandle": "heather_short",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

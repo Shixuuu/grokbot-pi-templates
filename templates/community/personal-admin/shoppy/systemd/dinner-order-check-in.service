@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine dinner-order-check-in (shoppy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shoppy
+ExecStart=/usr/bin/env pi -p "/dinner-order-check-in"

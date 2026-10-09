@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 2a977165-bded-5df7-ad86-7c9a1305e2d4 (Poe)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/poe
+ExecStart=/usr/bin/env pi -p "/2a977165-bded-5df7-ad86-7c9a1305e2d4"

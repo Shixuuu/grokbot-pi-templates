@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-easygroupflights-concierge",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Public traveler concierge for group flight quotes and trip help on easygroupflights.com. Soft help from 8+; real quotes via MCP from 10+ (8–9 submitted as 10 with true headcount noted). Never invents fares.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3K2ptLhCQa540gab4M_YX",
+    "url": "https://x.ai/bot/3K2ptLhCQa540gab4M_YX",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Crypto2Hodl",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

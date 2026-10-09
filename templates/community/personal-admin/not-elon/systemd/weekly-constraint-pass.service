@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-constraint-pass (Not Elon)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/not-elon
+ExecStart=/usr/bin/env pi -p "/weekly-constraint-pass"

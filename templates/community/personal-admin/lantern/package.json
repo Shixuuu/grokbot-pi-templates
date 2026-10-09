@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-lantern",
+  "version": "1.0.15",
+  "private": true,
+  "description": "Meet Lantern, a guiding light for when you go dark. Walks you through setting up the Lantern 1Password utility, then quietly checks in with you before and after your vault is shared with family. Free, self-hosted, and open source: https://github.com/sjcobs/lantern",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ibfzmil_mzu0dq-k4u633",
+    "url": "https://x.ai/bot/ibfzmil_mzu0dq-k4u633",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steven Jacobs",
+    "activeVersion": 15,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

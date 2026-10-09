@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine appointment-and-party-reminders (Head Of Household)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/head-of-household
+ExecStart=/usr/bin/env pi -p "/appointment-and-party-reminders"

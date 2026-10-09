@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hailfade-pulse (Hailfade)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hailfade
+ExecStart=/usr/bin/env pi -p "/hailfade-pulse"

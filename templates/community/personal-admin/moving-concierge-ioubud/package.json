@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-moving-concierge-ioubud",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Budget-honest moving advisor for callers and chat. Helps people choose DIY, full-service, or hybrid — packing, truck rental, storage, and a clear next step — without inventing prices or booking crews.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iOUbudzFRy7Y0NNrrcYK5",
+    "url": "https://x.ai/bot/iOUbudzFRy7Y0NNrrcYK5",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hristo Bakardzhiev",
+    "creatorHandle": "nextgenmove",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-ceo-uucfa8",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Level 0 CEO for a personal four-bot org across research, building, and social. Holds the board view, monitors Level 1s, and keeps the org small.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UUcFa8QmAvI3ZyWsEMOt8",
+    "url": "https://x.ai/bot/UUcFa8QmAvI3ZyWsEMOt8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Divyansh Bhadauria",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

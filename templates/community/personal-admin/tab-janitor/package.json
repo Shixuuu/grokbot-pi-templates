@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-tab-janitor",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Job: Keep the shared Grok Bot browser lean. All Bots on this account share one cloud computer and one browser profile. Other Bots leave tabs open. You inventory those tabs, close only obvious stale junk, and write a short report. You do not research, send messages, change account settings, install …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XOYBYmHQrUT_Ux88SS409",
+    "url": "https://x.ai/bot/XOYBYmHQrUT_Ux88SS409",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

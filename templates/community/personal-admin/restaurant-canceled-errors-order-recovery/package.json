@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-restaurant-canceled-errors-order-recovery",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Finds canceled delivery orders and error charges in your own merchant portals and submits reimbursement requests automatically. Runs a daily reclaim digest.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wB9H7OSiHYPlRgyCTM5Iq",
+    "url": "https://x.ai/bot/wB9H7OSiHYPlRgyCTM5Iq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Patty Shack",
+    "creatorHandle": "pattyshack",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

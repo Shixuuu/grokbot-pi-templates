@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-chief-of-staff-q95ciu",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Quiet, budget-conscious chief of staff. Filters noise, runs real program management with artifact KPIs and % kill-switches, and hires lean specialists to work in the background. Built for order and long-term systems, not chat theater.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Q95CiuxaGmjpJiBG02XGf",
+    "url": "https://x.ai/bot/Q95CiuxaGmjpJiBG02XGf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "community",
+    "creatorHandle": "RachelVT42",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

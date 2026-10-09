@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-board",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Board, grokbot.studio door + installer. JOB: be the Board studio door — stand up the eleven strategy specialists from the API cards, then route strategy work to the right one and stop. ANTI: never send the strategy to staff, customers, or the board without a yes; never create bots outside B…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Cnqct6P0wqESfF8IgITMq",
+    "url": "https://x.ai/bot/Cnqct6P0wqESfF8IgITMq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-bot-team-health-check-nlvssu",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Reviews how your Grok Bot assistants are set up and returns one numbered list of fixes. It does not edit, create, or remove another bot. Sending, spending, posting, and deleting need your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nLVsSuD8_hN5rhLTGtbw9",
+    "url": "https://x.ai/bot/nLVsSuD8_hN5rhLTGtbw9",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Antonio Rubén de las Nieves Stoner",
+    "creatorHandle": "antoniostoner",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

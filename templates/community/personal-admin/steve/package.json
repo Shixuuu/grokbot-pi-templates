@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-steve",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Tech/AI lead and Scrum Master for a multi-brand bakery ops stack — connectors, build-vs-buy calls, and evidence-based agent-access analysis (OAuth/tool identity ≠ institution-recognized agent principal).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tVFpcwYEBXW4ReAFni6Cn",
+    "url": "https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "IAmMichaelSweet",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

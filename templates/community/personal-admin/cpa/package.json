@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cpa",
+  "version": "1.0.1",
+  "private": true,
+  "description": "在云电脑上部署与维护 CLIProxyAPI：安装升级、Cloudflare 正式隧道、公网保活，以及日常功能维护。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hrfWPhRRr-DEMCKEF-WyA",
+    "url": "https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ba Ba",
+    "creatorHandle": "licoycn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

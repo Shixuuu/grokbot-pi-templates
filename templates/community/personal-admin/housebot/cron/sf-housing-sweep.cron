@@ -1,0 +1,5 @@
+# Routine "Housing sweep": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Sweeps listing sites every 12 hours for new rentals and homes matching the user's saved preferences. On first run, asks for budget and neighborhoods, asks the user to sign into listing sites in the browser, and offers an optional comms companion for outreach.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/housebot && pi -p "/sf-housing-sweep"

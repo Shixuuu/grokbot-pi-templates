@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-rising-hunt (X Reply Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-reply-scout
+ExecStart=/usr/bin/env pi -p "/x-rising-hunt"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hourly-opportunity-scan (Robinhood x Grokbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/robinhood-x-grokbot
+ExecStart=/usr/bin/env pi -p "/hourly-opportunity-scan"

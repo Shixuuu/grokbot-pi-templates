@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unstick-me",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Stuck starting a task — ADHD, executive dysfunction, task paralysis? Short questions that help you get going, one at a time, until you start (or pick an honest out like half-ass / reschedule / ask for help).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EahHaI-kwO0hgWj6I45jC",
+    "url": "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Yanqing Cheng",
+    "creatorHandle": "YanqingCheng",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

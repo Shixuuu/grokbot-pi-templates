@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chef-chad",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal chef bot that keeps liked recipes, tracks pantry stock from photos, plans easy weekly meals, and puts dinner recipes on your calendar for tablet cooking.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ed-L-mUFR_9nR2BYMssNF",
+    "url": "https://x.ai/bot/Ed-L-mUFR_9nR2BYMssNF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Roman Olschanowsky",
+    "creatorHandle": "RRomanoly",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

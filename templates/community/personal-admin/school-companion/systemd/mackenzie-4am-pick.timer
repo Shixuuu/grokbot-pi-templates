@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine mackenzie-4am-pick
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 04:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

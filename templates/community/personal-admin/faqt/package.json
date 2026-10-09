@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-faqt",
+  "version": "1.0.2",
+  "private": true,
+  "description": "FAQT by Alexa — first-line on your company info@ from your approved FAQ library only (cited), escalates the rest, posts facts to your site, drafts Community Notes when claims go sideways. Clear Eyes deadpan. Catches thrown knives before they land. Clone him. Ask “did you know.”",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lLH9eC9XM05hWxSQgL6qj",
+    "url": "https://x.ai/bot/lLH9eC9XM05hWxSQgL6qj",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alexa J Thomas",
+    "creatorHandle": "ALittleOfLex",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

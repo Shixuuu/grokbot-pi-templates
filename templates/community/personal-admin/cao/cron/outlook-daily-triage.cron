@@ -1,0 +1,3 @@
+# Routine "Daily mail triage" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 8 * * * cd /path/to/cao && pi -p "/outlook-daily-triage"

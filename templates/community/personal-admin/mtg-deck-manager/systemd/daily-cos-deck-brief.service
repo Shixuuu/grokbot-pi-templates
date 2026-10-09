@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-cos-deck-brief (MtG Deck Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mtg-deck-manager
+ExecStart=/usr/bin/env pi -p "/daily-cos-deck-brief"

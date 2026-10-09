@@ -1,0 +1,3 @@
+# Routine "Weekday morning board" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+51 6 * * 1-5 cd /path/to/rook-chief-of-staff && pi -p "/6c4da843-ef6d-5bea-9b45-cea4bfb02da9"

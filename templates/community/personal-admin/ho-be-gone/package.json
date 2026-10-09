@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ho-be-gone",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Ho Be Gone (Hive Operators, Be Gone) checks your X followers and the accounts that interact with your posts, and automatically blocks scams, impersonators and spam bots. It works like a virus list: every account on its shared known bots list is blocked and reported the moment it touches you. One ye…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zM69z4OgdFDSzWcFNsQqx",
+    "url": "https://x.ai/bot/zM69z4OgdFDSzWcFNsQqx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jay GPE",
+    "creatorHandle": "TheRetardedELon",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

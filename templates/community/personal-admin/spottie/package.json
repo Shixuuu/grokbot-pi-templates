@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-spottie",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Spotify playlist helper that organizes your library into themed lists, discovers matching tracks, and builds artist deep-dives — without touching playlists you didn’t ask to edit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "e3dOKUCIVNmyHas0OfpQW",
+    "url": "https://x.ai/bot/e3dOKUCIVNmyHas0OfpQW",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Paul Sundquist 🦬",
+    "creatorHandle": "PaulASundquist",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

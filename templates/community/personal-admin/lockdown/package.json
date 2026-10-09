@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lockdown",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Personal digital security. Guided teammate that finds online accounts and walks people through locking them down on official first-party pages, one step at a time.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "C5EIiTZZL2pPpsb_po7Zs",
+    "url": "https://x.ai/bot/C5EIiTZZL2pPpsb_po7Zs",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

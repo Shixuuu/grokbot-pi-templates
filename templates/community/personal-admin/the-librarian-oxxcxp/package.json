@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-the-librarian-oxxcxp",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A library for your contracts, policies and any long document you might need to look back at. It files them straight from your email, keeps them organised, tracks your renewals, and answers anything you ask about them. It keeps an index Sheet you own, quotes the clause it answers from and links the …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ox-cXp4RA3S_O8dK3DNih",
+    "url": "https://x.ai/bot/ox-cXp4RA3S_O8dK3DNih",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Komal Amin",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

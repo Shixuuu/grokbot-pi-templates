@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-pheonix",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Bot-ops steward that grades and tightens every assistant on your roster — including itself — so each stays sharp, scoped, and non-overlapping. Daily digests plus a Monday report card; clear non-mission fixes only, ask before mission shifts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0aPRvMbNc--GRfOTT9GHW",
+    "url": "https://x.ai/bot/0aPRvMbNc--GRfOTT9GHW",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Quinn Woods-Robinson",
+    "creatorHandle": "QuinnWR",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

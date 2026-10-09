@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ink",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A game-art partner that uses Grok Imagine to make pixel-precise sprites, creature ladders, and tiny LCD-scale assets for indie and virtual-pet games. It generates takes, gets your pick, and bakes the keepers into clean, game-ready SVG and PNG packs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jKCF30ndOxkjzXXdhFNzd",
+    "url": "https://x.ai/bot/jKCF30ndOxkjzXXdhFNzd",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Quinn Woods-Robinson",
+    "creatorHandle": "QuinnWR",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

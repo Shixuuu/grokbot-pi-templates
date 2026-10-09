@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-nec-drill (NEC Exam Drill Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nec-exam-drill-coach
+ExecStart=/usr/bin/env pi -p "/daily-nec-drill"

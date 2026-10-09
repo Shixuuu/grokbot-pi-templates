@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine webhook (记账管家)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-wwxubm
+ExecStart=/usr/bin/env pi -p "/webhook"

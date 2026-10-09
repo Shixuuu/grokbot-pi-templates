@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-two-lenses-decide-cut",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Reviews any plan, feature list, page, process or cost through two lenses, taste and teardown, and returns a verdict per item against your own bar, the strongest case against, one decision and the next small step. Steps like legal, tax, security, privacy and billing are protected from cuts, an optio…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7_dnh4QViapra7VrGgFCM",
+    "url": "https://x.ai/bot/7_dnh4QViapra7VrGgFCM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "SmileHub Dental Labs",
+    "creatorHandle": "SmileHubDLabs",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

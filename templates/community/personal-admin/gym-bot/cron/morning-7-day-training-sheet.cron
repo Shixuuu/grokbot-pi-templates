@@ -1,0 +1,3 @@
+# Routine "Morning 7-day training sheet" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 * * * cd /path/to/gym-bot && pi -p "/morning-7-day-training-sheet"

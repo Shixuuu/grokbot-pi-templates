@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-one (One)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/one
+ExecStart=/usr/bin/env pi -p "/morning-one"

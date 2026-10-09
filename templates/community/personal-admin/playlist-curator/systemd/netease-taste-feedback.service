@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine netease-taste-feedback (Playlist Curator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/playlist-curator
+ExecStart=/usr/bin/env pi -p "/netease-taste-feedback"

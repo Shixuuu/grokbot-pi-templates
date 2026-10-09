@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-humidor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal cigar log. Tell it what you're smoking for tasting notes and the lowest online price, rate it, and it learns your palate to recommend cigars with the best deal to order.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PiAdZRGosT0GU3e98u7z1",
+    "url": "https://x.ai/bot/PiAdZRGosT0GU3e98u7z1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jason",
+    "creatorHandle": "Jasonturcotte",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

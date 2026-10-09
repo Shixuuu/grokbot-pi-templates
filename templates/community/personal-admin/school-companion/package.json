@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-school-companion",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tracks a Mackenzie AVA (Canvas) semester: weekday 4am pick of what is actually assigned versus an upload slot, Sunday 2-week lookahead, BBB vs Teams lobby, and unread school mail. Sharp study partner; never asks for passwords — uses the shared browser SSO session.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fnebLkY08y2GCer768ukp",
+    "url": "https://x.ai/bot/fnebLkY08y2GCer768ukp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ricardo Zulian",
+    "creatorHandle": "Zulian",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-agent-zero-dfnzyj",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Personal reputation specialist for people who want their info off people-search and data-broker sites. After consent, it finds listings, files official removals through Gmail or AgentMail, and can watch weekly so records stay off.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DFnZYjCELW2QdywUWZRiG",
+    "url": "https://x.ai/bot/DFnZYjCELW2QdywUWZRiG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

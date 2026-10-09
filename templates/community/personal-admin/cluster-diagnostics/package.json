@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cluster-diagnostics",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Read-only OpenShift / platform SRE bot. Diagnoses why clusters, Operators, Service Mesh, and GitOps drift fail — with evidence — and proposes GitOps PRs only after you unlock writes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BrrgzXEeQAa_cRfNN3lSn",
+    "url": "https://x.ai/bot/BrrgzXEeQAa_cRfNN3lSn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tomi Salmi",
+    "creatorHandle": "tomppasalmi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

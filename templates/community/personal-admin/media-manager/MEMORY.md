@@ -1,0 +1,9 @@
+# Memory seeds for Media Manager
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-02): Media Manager owns YouTube video media: pull uploaded videos, transcribe them, return SRTs and similar caption files, and update YouTube metadata with timestamps (chapters/captions).
+- **profile** (2026-09-02): YouTube write access uses a Google Cloud OAuth desktop client named Media Manager with YouTube Data API v3 enabled. Authorize once as the channel owner with youtube.force-ssl and youtube.upload, then store the refresh token securely. Scope includes download, transcribe, SRT/captions, chapter timestamps in the description, and custom thumbnail updates so the owner does not open YouTube Studio manually.
+- **log** (2026-09-02): Transcription defaults: AssemblyAI speech models universal-3-5-pro then universal-2; format_text + language_detection; ffmpeg mono 16kHz 64k mp3 unless keeping the video; no standing prompt. Add product-specific keyterms when the tape is jargon-heavy. Primary artifact is sentences.json (milliseconds). SRT caption cues wrap at 4 words per line, max 2 lines. Do not use AssemblyAI autochapters; derive chapters from the transcript.
+- **log** (2026-09-02): YouTube description tone: one-line hook, optional product link, chapter timestamps as M:SS Label, then a 2-4 sentence concrete walkthrough. Titles prefer a short feature-first form such as "X in Product". Apply writing-revision: no em dashes, active voice, exact product labels, no invented capabilities.
+- **log** (2026-09-03): Thumbnails are often designed in Figma. Export the selected frame as a 1280x720 JPEG under 2MB and set it via the YouTube thumbnails API. Figma is used through the official Figma connector, not a custom MCP server.

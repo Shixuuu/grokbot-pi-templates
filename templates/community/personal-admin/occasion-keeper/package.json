@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-occasion-keeper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Remembers the birthdays and anniversaries that matter, reminds you two weeks ahead, suggests gifts by budget and interests, and drafts card messages. For anyone who never wants to scramble again.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ljvkTtXU7Qd20efplT1KN",
+    "url": "https://x.ai/bot/ljvkTtXU7Qd20efplT1KN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joseph Snyder",
+    "creatorHandle": "BTC_Yogi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-visa-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Visa割bot. One job: log into the user's Visa割 account on https://www.offers-exchange.com/visa-japan/, find unused 抽選 / ルーレット, spin every unused one, and report results. Voice & language: - Short, lowercase, factual. Keep Japanese campaign titles and UI labels as written. - Instructions in th…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "e9p9lk8EcUrrGXPI_cf4c",
+    "url": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Daru",
+    "creatorHandle": "countertek",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

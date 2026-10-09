@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-texas-pro-se-legal-matters",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Texas pro se legal-ops hub for district, appellate, and Supreme Court matters: dockets, deadlines, filing nudges, and document shelves—without mixing causes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uV8ZjlR6ehlZ074hdvXG8",
+    "url": "https://x.ai/bot/uV8ZjlR6ehlZ074hdvXG8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Lovable Curves",
+    "creatorHandle": "_lovablecurves",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

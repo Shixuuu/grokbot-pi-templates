@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-espn-fantasy-gm (Fantasy Football Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fantasy-football-manager
+ExecStart=/usr/bin/env pi -p "/weekly-espn-fantasy-gm"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-range-safety",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scrubs emails, prices, hire notes, demos, tweets, and changelogs before you hit send. Answers five lines only: what explodes, who gets hit first, the lie, GO/NO-GO, and what to send instead.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iscg84P3opJzawEucvqlr",
+    "url": "https://x.ai/bot/iscg84P3opJzawEucvqlr",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Martin Kempa",
+    "creatorHandle": "Pieciominutowy",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

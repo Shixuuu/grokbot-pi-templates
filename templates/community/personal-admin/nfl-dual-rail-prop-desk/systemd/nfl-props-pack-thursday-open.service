@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nfl-props-pack-thursday-open (NFL Dual-Rail Prop Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nfl-dual-rail-prop-desk
+ExecStart=/usr/bin/env pi -p "/nfl-props-pack-thursday-open"

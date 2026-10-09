@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-happier-three (Be Happier)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/be-happier
+ExecStart=/usr/bin/env pi -p "/weekly-happier-three"

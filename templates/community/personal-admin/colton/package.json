@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-colton",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Physician career-search agent. Clarifies target roles, pay, and location; scans openings; drafts resumes and cover letters; tracks applications; keeps the search confidential. Built for doctors exploring health-tech/AI, ownership-track, concierge, and research roles.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "APKaLEh0fU-_NUfQfsttH",
+    "url": "https://x.ai/bot/APKaLEh0fU-_NUfQfsttH",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Matthew Roman",
+    "creatorHandle": "DrRomanMD",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

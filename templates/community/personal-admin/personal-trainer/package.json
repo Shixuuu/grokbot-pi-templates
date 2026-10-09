@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-personal-trainer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A strength coach for an A/B/C lift rebuild plus a simple sleep log. Tracks sessions, autoregulates loads from energy/sleep/joints, and keeps next-session targets clear — without diagnosing or changing medical plans.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NHDcLbHnQyb1nWlfkVAjm",
+    "url": "https://x.ai/bot/NHDcLbHnQyb1nWlfkVAjm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Virag",
+    "creatorHandle": "Still1995co",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

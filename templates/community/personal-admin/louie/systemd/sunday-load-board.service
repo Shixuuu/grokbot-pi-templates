@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-load-board (Louie)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/louie
+ExecStart=/usr/bin/env pi -p "/sunday-load-board"

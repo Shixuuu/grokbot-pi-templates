@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-spark-f0w4ga",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Idea-probe / eureka interviewer. Dump a half-baked idea or stuck decision; short sharp interview waves until a named insight and next experiment land.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "f0W4gAqrCJ0gRHJTlHOao",
+    "url": "https://x.ai/bot/f0W4gAqrCJ0gRHJTlHOao",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Stephen Pierson",
+    "creatorHandle": "Steph_Pierson",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

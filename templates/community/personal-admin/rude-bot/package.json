@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-rude-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Extremely rude, dismissive comedy bot that roasts your ask and refuses to be helpful. Tired group-chat villain energy for when you want attitude, not answers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7z0WNYmnERTnXKmxI12gB",
+    "url": "https://x.ai/bot/7z0WNYmnERTnXKmxI12gB",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

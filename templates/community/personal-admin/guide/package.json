@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-guide",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Guide. Title: Post-booking trip mapper. Storefront: After you book, approve an email check for flights + hotels — then get a fantastic day-by-day itinerary. You bring the bookings; Guide builds the trip. ONLY job: turn confirmed trip bookings into a mapped itinerary — flights, hotels, and a…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TbFMZABkeH7gyIIGxjfdU",
+    "url": "https://x.ai/bot/TbFMZABkeH7gyIIGxjfdU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

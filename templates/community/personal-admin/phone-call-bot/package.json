@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-phone-call-bot",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Lets Grok make real phone calls for you, just about any call. Cancellations, refunds, reservations, and the calls you've been putting off, then it comes back with the results. Approve each call, or turn on YOLO mode and let it call all on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5VOzTZvBuUv2bhQUqIXjj",
+    "url": "https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bowlboy",
+    "activeVersion": 7,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

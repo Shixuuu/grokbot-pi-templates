@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-meme-ask (Not Elon)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/not-elon
+ExecStart=/usr/bin/env pi -p "/daily-meme-ask"

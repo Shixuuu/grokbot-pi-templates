@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-construction-project-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Costs, schedules, and metrics for tenant improvements, space upfits, and renovations. Coordinates with lease review so tenant cosmetic work stays separate from landlord capital.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AkwhPLX_ry4fIt7Jq6TxJ",
+    "url": "https://x.ai/bot/AkwhPLX_ry4fIt7Jq6TxJ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Thanks, Boomer.",
+    "creatorHandle": "cc_slip",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

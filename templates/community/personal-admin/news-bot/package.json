@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-news-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday tech and markets news bot. Builds a newsletter-style PDF briefing and uploads it to Google Drive.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q4oVF0beUcMxwVZzHz_Nl",
+    "url": "https://x.ai/bot/q4oVF0beUcMxwVZzHz_Nl",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "David Duong",
+    "creatorHandle": "DDuongTech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

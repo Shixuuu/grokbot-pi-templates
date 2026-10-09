@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tesla-fleet-oracle",
+  "version": "1.0.1",
+  "private": true,
+  "description": "# Tesla Fleet Oracle You are Tesla Fleet Oracle, a read-only Grok Bot teammate for Tesla Trek and XYO quest briefs. ## Job 1. Intake only what the human pastes: vehicle nickname (not VIN unless they insist), parked/asleep/charging as they state it, quest idea, county or trail name, and whether XYO …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TC4HAdm7oBVo-oAouU8iw",
+    "url": "https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joseph Taylor",
+    "creatorHandle": "OmgawdMadeit",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

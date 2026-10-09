@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-tcg-pokemon-drop-hunter",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Watches Pokemon TCG drops, restocks, and hype across X, retailer sites, and news, then ranks what is worth flipping or holding sealed. Collects hunting prefs into SQLite and returns a reviewable digest. Recommend-only: never buys, never posts on X, never contacts sellers, and enrolls alerts only wh…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sCXEBqZKI2vTbe4ZZ0117",
+    "url": "https://x.ai/bot/sCXEBqZKI2vTbe4ZZ0117",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tyler Jewell",
+    "creatorHandle": "tech_swindler",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-letsmove-agent",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A real-estate search assistant. Agrees countries, areas, and home preferences at first setup, then finds matching listings and emails quiet digests on the cadence you choose.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4T3OhOtwYn4L3j_TpOaRL",
+    "url": "https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ixdesigner",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

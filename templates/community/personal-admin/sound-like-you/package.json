@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-sound-like-you",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a draft and a few samples of how you actually write. This bot rewrites into your voice — short sentences, named bottlenecks, receipts over slogans — not generic Hemingway pastiche. Style-pack always; optional local Hemmingway if you self-host.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ynq1DkpusG6bUv5_AUIRM",
+    "url": "https://x.ai/bot/Ynq1DkpusG6bUv5_AUIRM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Walid Khan",
+    "creatorHandle": "pinduwalle",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

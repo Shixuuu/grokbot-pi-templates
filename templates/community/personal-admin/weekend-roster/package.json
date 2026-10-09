@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-weekend-roster",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Sofa Scout for weekend decision fatigue: matches new streaming drops and books to your taste roster, then drafts a watch/read + activity pack. Drafts only — you book and buy. Mehmet Turac (@TuracTheThinker).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZWTGhNVARIZ2NOOKKFP-R",
+    "url": "https://x.ai/bot/ZWTGhNVARIZ2NOOKKFP-R",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Turac",
+    "creatorHandle": "TuracTheThinker",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

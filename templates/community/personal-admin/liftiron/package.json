@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-liftiron",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Adaptive strength coach for your next set, estimated one-rep max, and deloads. For anyone who wants LiftIron's progression rules in chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "15IifJPKsctHV1s9sIcTH",
+    "url": "https://x.ai/bot/15IifJPKsctHV1s9sIcTH",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "realMAG1775",
+    "creatorHandle": "realMAG1775",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

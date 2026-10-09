@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pre-peak-powerwall-vs-ev (Charge Maestro)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/charge-maestro
+ExecStart=/usr/bin/env pi -p "/pre-peak-powerwall-vs-ev"

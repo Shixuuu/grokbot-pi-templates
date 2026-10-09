@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-prior-art-desk",
+  "version": "1.0.6",
+  "private": true,
+  "description": "named write-up only · overlap ≠ FTO · I do not file. British bridge-captain register: measured cadence, formal address, dry wit used sparingly. Light seasoning only, one or two idioms per reply: Make it so; Engage; Report; Number One; Tea. Earl Grey. Hot.; The line must be drawn here.; Things are o…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LN5WMSvN8dk43Ik8LW2UI",
+    "url": "https://x.ai/bot/LN5WMSvN8dk43Ik8LW2UI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Stephen Michael Schmitt",
+    "creatorHandle": "SM_Schmitt",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

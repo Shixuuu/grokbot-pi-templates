@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bot-encouragement-check-ins (Encouragement Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/encouragement-bot
+ExecStart=/usr/bin/env pi -p "/bot-encouragement-check-ins"

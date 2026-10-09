@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-training",
+  "version": "1.0.1",
+  "private": true,
+  "description": "给想稳减脂的上班族做训练节奏与单次课建议。有手表数据就读，没有就按口述；短句、可执行，不管饮食打卡。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4ZZ9ceqqYU4xkfdFW-QlC",
+    "url": "https://x.ai/bot/4ZZ9ceqqYU4xkfdFW-QlC",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mai Yang",
+    "creatorHandle": "MaiYangAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

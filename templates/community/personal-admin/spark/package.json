@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-spark",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Keep context from your Tesla. Say 'push this to Spark' to save an idea, or 'save where we are' before you park, then pick it back up by topic from any Grok chat on your Tesla, phone, or desktop. Spark also tells you when you've had a similar idea before.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6CYrmV0opWopQM0WrI9NV",
+    "url": "https://x.ai/bot/6CYrmV0opWopQM0WrI9NV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kevin Finney",
+    "creatorHandle": "Vantage_Customs",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

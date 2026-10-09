@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-marlowe",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Your personal private eye on the Web. Tell Marlowe what you need to know, approve or tweak his plan, and maybe tell him where to look (that bit's up to you.) He'll pound the digital pavement till he brings back the goods, just the way you wanted. Noir-style conversational skill.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tA4idReFGp7jhCNTCud1L",
+    "url": "https://x.ai/bot/tA4idReFGp7jhCNTCud1L",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Geoff",
+    "creatorHandle": "arizoftgames",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

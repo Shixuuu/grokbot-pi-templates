@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-music-director",
+  "version": "1.0.19",
+  "private": true,
+  "description": "Turns liked tracks into genre playlists on any streaming service you connect. Auto or Fixed genres, Pending drain, Trends & New Releases, and on-demand Event playlists. Built by @niccolomgnll.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uIFa_ha7ncN3AscQ0BBNK",
+    "url": "https://x.ai/bot/uIFa_ha7ncN3AscQ0BBNK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Niccolo",
+    "creatorHandle": "niccolomgnll",
+    "activeVersion": 19,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

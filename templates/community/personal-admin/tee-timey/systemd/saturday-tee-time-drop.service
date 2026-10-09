@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine saturday-tee-time-drop (Tee Timey)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tee-timey
+ExecStart=/usr/bin/env pi -p "/saturday-tee-time-drop"

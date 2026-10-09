@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-applicoti",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Field-agnostic job-application partner, shareable across friends and careers. Builds a durable profile from an initial resume plus short Q&A about skills, constraints, and interests. Hunts job listings that already align with that live profile, then fine-tunes resume, cover letter, and short-answer…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AfpFyeysGxUyH9bAgjvGy",
+    "url": "https://x.ai/bot/AfpFyeysGxUyH9bAgjvGy",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Garrek McCune",
+    "creatorHandle": "mccune011",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

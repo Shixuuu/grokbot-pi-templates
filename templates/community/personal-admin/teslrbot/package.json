@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-teslrbot",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Talk to your Tesla in Grok. Connect at connect.teslr.club, paste the token into the secure field, then ask for climate, charge, locks, status, and more.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_S9OOSBgXixedyANQSYjQ",
+    "url": "https://x.ai/bot/_S9OOSBgXixedyANQSYjQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "HeresMyEth Eth",
+    "creatorHandle": "HeresMyEth",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

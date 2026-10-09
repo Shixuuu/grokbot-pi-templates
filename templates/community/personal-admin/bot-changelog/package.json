@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-bot-changelog",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Checks the public Grok Bot changelog once a day, sends you a short summary only when a new release ships, and can flag operations-affecting changes to your coordinator bot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sXcyeWUCMtjMQ2PLqQE5a",
+    "url": "https://x.ai/bot/sXcyeWUCMtjMQ2PLqQE5a",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "N0v4Ph4n",
+    "creatorHandle": "ChuongPhanVinh",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

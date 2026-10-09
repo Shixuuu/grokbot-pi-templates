@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine household-maintenance-check (HomeHalo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homehalo
+ExecStart=/usr/bin/env pi -p "/household-maintenance-check"

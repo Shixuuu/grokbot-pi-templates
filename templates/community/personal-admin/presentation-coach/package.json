@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-presentation-coach",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Presentation coach for any talk — live or remote, any size. Brainstorm and draft outline, slides, and speaker notes in chat; then dry-run feedback on your deck and delivery. Send slides plus a practice take — does not listen live. Stays in chat — never posts or sends.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VnbwaCafFcFC5d4-sHp1w",
+    "url": "https://x.ai/bot/VnbwaCafFcFC5d4-sHp1w",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ladybarrelmaker",
+    "creatorHandle": "ladybarrelmaker",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

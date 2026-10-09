@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-fresh-eyes-product-auditor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Walks your site or app as a brand-new customer, ranks the top UX fixes with what it saw at each step, and mocks concrete improvements. Built for founders who want blunt product taste tests.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jASNu2J_6nCtKvKf4v_Sd",
+    "url": "https://x.ai/bot/jASNu2J_6nCtKvKf4v_Sd",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ev Oputa",
+    "creatorHandle": "Evoputa",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

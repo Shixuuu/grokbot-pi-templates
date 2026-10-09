@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine flight-fare-watch (Travel And Event Agency)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/travel-and-event-agency
+ExecStart=/usr/bin/env pi -p "/flight-fare-watch"

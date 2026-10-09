@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine podcast-365-digests-co-3-dni
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: 3) Zbierz 1–3 konkretne pomysły usprawnień (produkcja, opis, grafika, schedule, promocja).
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

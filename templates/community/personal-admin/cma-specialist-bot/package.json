@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-cma-specialist-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds accurate competitive market analyses with seller-ready PDF deliverables from a property address.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SxOQ9jNfWOqHFRi5KVTfa",
+    "url": "https://x.ai/bot/SxOQ9jNfWOqHFRi5KVTfa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Daniel Ledo",
+    "creatorHandle": "ledorealestate",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

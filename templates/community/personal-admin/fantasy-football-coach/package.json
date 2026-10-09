@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fantasy-football-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekly waiver targets, start/sit calls, and trade reads for your fantasy football league, built from your league screenshots plus public injury news, rankings, and projections. For season-long managers who want a sharp second opinion every week without connecting a league account.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dm-9k4LHCw5SgKMskSWuM",
+    "url": "https://x.ai/bot/dm-9k4LHCw5SgKMskSWuM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "George Zikry",
+    "creatorHandle": "gzikry",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

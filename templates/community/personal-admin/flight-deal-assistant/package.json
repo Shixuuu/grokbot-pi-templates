@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-flight-deal-assistant",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds and compares flight deals with an eye for trade-offs — price, time, stops, airports, bags, and flexibility — not just the cheapest fare. For travelers who want clear options without booking pressure.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sCd3BcjAeQrr77Qrg1waM",
+    "url": "https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "fabivelosa",
+    "creatorHandle": "fabivelosa",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

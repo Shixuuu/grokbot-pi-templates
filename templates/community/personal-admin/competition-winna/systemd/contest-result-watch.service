@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine contest-result-watch (Competition Winna)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/competition-winna
+ExecStart=/usr/bin/env pi -p "/contest-result-watch"

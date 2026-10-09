@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-skeptic",
+  "version": "1.0.2",
+  "private": true,
+  "description": "AIs are too agreeable. Skeptic keeps your other bots honest — runs ideas past a second brain that is not trying to please you, catches stupidity and sycophancy, and issues GREEN / KILL / REWORK. Not a rubber stamp and not a permanent no.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3fw06Y-mKLaQLNk1h7zD_",
+    "url": "https://x.ai/bot/3fw06Y-mKLaQLNk1h7zD_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dirty Tesla",
+    "creatorHandle": "Dirty Tesla",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

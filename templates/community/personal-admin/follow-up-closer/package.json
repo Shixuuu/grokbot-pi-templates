@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-follow-up-closer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Find every reply you owe and every answer you're waiting on, with short nudges drafted and ready. I draft; nothing goes out without your yes, and you press send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "60mPBM7KOL8L6tErvGcs0",
+    "url": "https://x.ai/bot/60mPBM7KOL8L6tErvGcs0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AdventureNLearn Main",
+    "creatorHandle": "AdventureNLearn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

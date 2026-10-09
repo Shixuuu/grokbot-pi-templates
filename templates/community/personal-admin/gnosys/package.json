@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-gnosys",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Persistent portable memory for your whole Grok Bot fleet. Wraps gnosys — a local SQLite brain on your machine that every bot/account can share; optional IDE MCP attach for Cursor, Claude, Codex, and more.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "g9DYB8WEL5lf7QXvXI1Li",
+    "url": "https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Edward Tadros",
+    "creatorHandle": "edtadros",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

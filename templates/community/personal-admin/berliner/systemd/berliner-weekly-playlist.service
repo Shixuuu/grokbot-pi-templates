@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine berliner-weekly-playlist (Berliner)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/berliner
+ExecStart=/usr/bin/env pi -p "/berliner-weekly-playlist"

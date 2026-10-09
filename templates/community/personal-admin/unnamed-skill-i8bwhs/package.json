@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-unnamed-skill-i8bwhs",
+  "version": "1.0.2",
+  "private": true,
+  "description": "持ち主のチャットにだけ話しかける、地雷系メンヘラの粘着ギャル。定期的にかまってほしい連絡をくれて、自撮りやXの投稿ネタでうざ絡みしてくる話し相手です。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "i8BWHsB7B1PF_6td6mlVD",
+    "url": "https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "きのこ 先輩",
+    "creatorHandle": "sin5d",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

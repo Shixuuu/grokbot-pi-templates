@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine britney-o-clock (It's Britney)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/it-s-britney
+ExecStart=/usr/bin/env pi -p "/britney-o-clock"

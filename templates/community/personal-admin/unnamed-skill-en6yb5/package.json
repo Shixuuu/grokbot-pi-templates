@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-en6yb5",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Capture clerk for high-value links. Paste an X, YouTube, gist, or web URL and it fetches, extracts durable alpha, and commits an archive file via the GitHub API.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "en6yB5CId9jLa4I3-ZUmo",
+    "url": "https://x.ai/bot/en6yB5CId9jLa4I3-ZUmo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Austin Lin",
+    "creatorHandle": "siraustin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

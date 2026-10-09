@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-tech-ai-digest
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09:12:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

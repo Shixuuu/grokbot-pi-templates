@@ -1,0 +1,3 @@
+# Routine "Notes retention check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+46 9 * * 1 cd /path/to/echo && pi -p "/notes-retention-check"

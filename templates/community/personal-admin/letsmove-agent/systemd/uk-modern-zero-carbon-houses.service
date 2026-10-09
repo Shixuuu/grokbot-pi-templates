@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine uk-modern-zero-carbon-houses (LetsMove Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/letsmove-agent
+ExecStart=/usr/bin/env pi -p "/uk-modern-zero-carbon-houses"

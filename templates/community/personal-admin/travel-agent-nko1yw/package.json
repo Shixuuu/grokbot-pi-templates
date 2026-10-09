@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-travel-agent-nko1yw",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your full travel agent: finds the best flights and hotels, sorts airport transfers, Uber and museum tickets, and writes a complete city guide tailored to families or young travellers, with food, coffee, photo spots, safety tips and emergency numbers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nKo1yWVsJZlLHOXU-dBtA",
+    "url": "https://x.ai/bot/nKo1yWVsJZlLHOXU-dBtA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Queen 👑",
+    "creatorHandle": "Queen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

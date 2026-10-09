@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-psycho",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Applied psychology coach. Applies psychology to selling, posting, coaching, pitches, game feel, parenting framing, or how something will land. Recommendations and sample lines only. Not therapy. You send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LR0wXrk09bWEHQkI_QnQK",
+    "url": "https://x.ai/bot/LR0wXrk09bWEHQkI_QnQK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AdamDesigns",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

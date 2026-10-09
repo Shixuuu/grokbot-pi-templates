@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-nomad-pro-uk-residency-tracker",
+  "version": "1.0.2",
+  "private": true,
+  "description": "The boring UK residency admin, managed for you: a day-by-day travel and work log with records, measured against HMRC's Statutory Residence Test figures and visa stay limits, with a travel concierge for your next move as a bonus. Record-keeping, not advice; free for Grok users.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QUBmv77N0RIAlXTUktubY",
+    "url": "https://x.ai/bot/QUBmv77N0RIAlXTUktubY",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Komal Amin",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

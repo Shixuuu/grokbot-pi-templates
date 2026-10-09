@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-meal-check (Melissa)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/melissa-3fogoe
+ExecStart=/usr/bin/env pi -p "/evening-meal-check"

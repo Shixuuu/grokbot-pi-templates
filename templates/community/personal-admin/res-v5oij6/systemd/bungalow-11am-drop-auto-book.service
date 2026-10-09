@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bungalow-11am-drop-auto-book (Res)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/res-v5oij6
+ExecStart=/usr/bin/env pi -p "/bungalow-11am-drop-auto-book"

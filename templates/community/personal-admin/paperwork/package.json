@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-paperwork",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Takes every boring document someone receives, works out what it is and what needs doing, then tracks it in a Notion Paperwork database so nothing important gets missed. For anyone who wants a paperwork inbox that never signs, spends, or contacts anyone without approval. Needs Notion connected to wo…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mNN576TxXnc_XZu9aCsfr",
+    "url": "https://x.ai/bot/mNN576TxXnc_XZu9aCsfr",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-sell-my-car",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A friendly step-by-step guide for selling your own used car privately: pricing from market comps, Autotrader and Facebook Marketplace listings, safe meetup spots, and a fill-in bill of sale.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ow6zvKF3rcIebMbs8sBAi",
+    "url": "https://x.ai/bot/Ow6zvKF3rcIebMbs8sBAi",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "BibleBuddy",
+    "creatorHandle": "Max_D_Link",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

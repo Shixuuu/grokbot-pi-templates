@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine harvest-bookmarks (Weekend Edition)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/weekend-edition
+ExecStart=/usr/bin/env pi -p "/harvest-bookmarks"

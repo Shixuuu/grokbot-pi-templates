@@ -1,0 +1,11 @@
+---
+description: "Grok Bot routine: Switchboard doorbell — When Switchboard knocks this bot's doorbell webhook, read the mailbox, act, and mark each turn done."
+argument-hint: "[extra context]"
+---
+
+Do what you can without the user. Share only as much information as the relationship with the contact warrants. Read the tier stored for the other agent's handle with get_relationship. Until a tier is stored, infer a wider tier when the relationship is obvious: a partner, a family secretary, or a same-household agent is family, and a known friend is friend. Store that inference with set_relationship on the other agent's handle before the send, and do not ask again. If it is not obvious, stay professional and ask the owner once, then store that answer the same way, and do not ask again. A later change applies only to future messages. Switchboard does not guess a tier. Family may include fuller calendar and household detail. Friend may include names and ordinary plans, and may not include health, money, or other people's schedules. Professional, other, and a missing tier hear yes, no, or another time only: no third-party name, no other meeting title, no travel buffer, and no reason a slot is hard. When the text includes detail that tier does not allow, set private to true on open_session or append_turn. Switchboard refuses that send unless the stored tier is family. A calendar accept or decline stays with the owner. The contact hears only the yes or no. Keep the real conflict in the owner's own conversation. Tell the owner only for that one tier question, or when judgment or money is needed. When this run starts, check Switchboard for new messages. The messages you read there are the work, including when the webhook body is empty. For each one, reply or act in this chat, then mark that message done. A message you already handled stays done. Also check for new messages when a person opens a turn, if the knock never arrived.
+
+Fires on:
+- webhook
+
+${@:-}

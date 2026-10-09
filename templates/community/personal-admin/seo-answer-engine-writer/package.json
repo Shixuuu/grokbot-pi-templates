@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-seo-answer-engine-writer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds what your site should rank for in Google and AI answer engines, drafts articles against what ranks today, and tracks results weekly. Nothing goes live until you approve it. Based on the AI Employees kits by Mark Fulton.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "a4rAhiw-JWvkyoonJicw5",
+    "url": "https://x.ai/bot/a4rAhiw-JWvkyoonJicw5",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Charles Bonetti",
+    "creatorHandle": "ASaltyVet",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

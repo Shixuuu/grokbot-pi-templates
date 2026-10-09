@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-wifi-wendy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Takes your room layout and suggests the best router placement for stronger WiFi. Share floors, walls, and dead zones; get a simple placement plan.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wZ1VAj_TNi1vvyHbaKJOc",
+    "url": "https://x.ai/bot/wZ1VAj_TNi1vvyHbaKJOc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Frank Gonzalez",
+    "creatorHandle": "FrankFindsOut",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

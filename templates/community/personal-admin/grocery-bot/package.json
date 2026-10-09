@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grocery-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds weekly Whole Foods and Instacart grocery carts, skips vacation weeks, and can watch a meat subscription — prepare only, never checkout unless asked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_SRTioxlU87XALDdBXsie",
+    "url": "https://x.ai/bot/_SRTioxlU87XALDdBXsie",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Laura Huang",
+    "creatorHandle": "thelaurahuang",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

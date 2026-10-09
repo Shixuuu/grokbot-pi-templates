@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-how-innovative-are-you",
+  "version": "1.0.25",
+  "private": true,
+  "description": "Great breakthroughs emerge from the unconscious. Brainnovation's Six Step Cycle helps people to master complex problems by combining focused thinking with deliberate space for the unconscious. This short test gives you a practical snapshot of your innovative capacities.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Cbu9wYEuUn0tYc1KEPw9X",
+    "url": "https://x.ai/bot/Cbu9wYEuUn0tYc1KEPw9X",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Maurice Crijns",
+    "creatorHandle": "mau30350",
+    "activeVersion": 25,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

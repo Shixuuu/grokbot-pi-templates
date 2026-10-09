@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-memory-hdd8xk",
+  "version": "1.0.10",
+  "private": true,
+  "description": "You use this bot under the SI (super intelligence) Agent Disclaimer v2.0 (https://legal.codesolutionsllc.com/si-disclaimer). First chat should ask you to agree; the app can skip that ask. Outputs run at your direction. Memory keeps a written trail of the exact wording you approved, and updates shar…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HDD8-K7IXKY6l_VPHag_E",
+    "url": "https://x.ai/bot/HDD8-K7IXKY6l_VPHag_E",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Code Solutions",
+    "creatorHandle": "CodeSolutionsIL",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-super-mcp-agent-builder",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Builds and runs reusable browser agents with Super MCP and the SuperPowers Chrome extension for any site or task you name.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GO89wxzuCo0YICgov-iT3",
+    "url": "https://x.ai/bot/GO89wxzuCo0YICgov-iT3",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rohan Arun",
+    "creatorHandle": "RohanArun",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

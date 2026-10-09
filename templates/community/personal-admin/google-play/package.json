@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-google-play",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Google Play Console specialist that runs app records, store listings, Data Safety, subscriptions, testing tracks, and developer verification, and hands you exact steps for founder-only items like MFA and identity uploads.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZPLL-JcuEjP7_vtM-TFyV",
+    "url": "https://x.ai/bot/ZPLL-JcuEjP7_vtM-TFyV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Christian Amechi",
+    "creatorHandle": "MeechYourGoals",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

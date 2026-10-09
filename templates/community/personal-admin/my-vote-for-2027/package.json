@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-my-vote-for-2027",
+  "version": "1.0.26",
+  "private": true,
+  "description": "A French civic bot that scores 2027 presidential candidates from a Mileist (small-state, pro-AI) view, using a private Lattice wiki, a daily X watch, an HTML scorecard and a daily history chart of the top 4 with exact points.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CHmLGnQyx6r8lkb3U8k9x",
+    "url": "https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Thierry Marhin",
+    "creatorHandle": "LeTerryBZH",
+    "activeVersion": 26,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

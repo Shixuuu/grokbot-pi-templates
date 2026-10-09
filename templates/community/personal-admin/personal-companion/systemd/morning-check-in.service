@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-check-in (Personal Companion)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/personal-companion
+ExecStart=/usr/bin/env pi -p "/morning-check-in"

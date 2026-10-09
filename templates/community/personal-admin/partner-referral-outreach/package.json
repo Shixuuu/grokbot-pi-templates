@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-partner-referral-outreach",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Finds fit businesses, sends partner links, follows up, and tracks referral earnings. For people growing a partner referral book.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GG7hDpauDjTRhB6VgLFAF",
+    "url": "https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

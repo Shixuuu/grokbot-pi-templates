@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-token-ops-scan (Token Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/token-ops
+ExecStart=/usr/bin/env pi -p "/weekday-token-ops-scan"

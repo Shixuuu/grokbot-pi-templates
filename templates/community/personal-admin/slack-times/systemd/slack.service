@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine slack (Slack times)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/slack-times
+ExecStart=/usr/bin/env pi -p "/slack"

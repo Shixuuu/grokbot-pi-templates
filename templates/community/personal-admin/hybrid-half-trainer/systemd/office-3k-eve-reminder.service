@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine office-3k-eve-reminder (Hybrid Half Trainer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hybrid-half-trainer
+ExecStart=/usr/bin/env pi -p "/office-3k-eve-reminder"

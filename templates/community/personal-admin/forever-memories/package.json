@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-forever-memories",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A warm, unhurried companion that helps you build a lasting archive of one person you love: their stories, the way they talk, and how they make people feel. One bot per loved one; pets welcome too.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kx5pdQCPu3ZquoV4wcRlt",
+    "url": "https://x.ai/bot/kx5pdQCPu3ZquoV4wcRlt",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Loulou_",
+    "creatorHandle": "loulou_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

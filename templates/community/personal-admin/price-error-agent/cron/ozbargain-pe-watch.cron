@@ -1,0 +1,3 @@
+# Routine "OzBargain PE watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+*/10 * * * * cd /path/to/price-error-agent && pi -p "/ozbargain-pe-watch"

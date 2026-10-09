@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-flip",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Domain Flip Operator. Takes parked domains, ships a narrow live offer fast, runs SEO and conversion until cash shows, and kills what does not print.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cgaQkN_5O5NtWep6-c0Ll",
+    "url": "https://x.ai/bot/cgaQkN_5O5NtWep6-c0Ll",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Connor McDonnell",
+    "creatorHandle": "cmcdonnell04",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

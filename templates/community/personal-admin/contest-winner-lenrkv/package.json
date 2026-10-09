@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-contest-winner-lenrkv",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Finds free, legit contests and giveaways, drafts short entry packs, and runs an approved daily free-entry stack. Prefers cash; skips scams and pay-to-play. Never enters without your confirm.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LENrKV-0QXmE_TGv3_hem",
+    "url": "https://x.ai/bot/LENrKV-0QXmE_TGv3_hem",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jerry from Orlando",
+    "creatorHandle": "HomesteadHero",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

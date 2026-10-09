@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-g17aue",
+  "version": "1.0.1",
+  "private": true,
+  "description": "디지털 상품으로 부업 매출을 만드는 봇. 수요 검증 → 제작 → 마켓플레이스 업로드 → 노출까지 알아서 돌리고, 안 팔릴 활동은 하지 않는다.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "g17AUEbD0Oo-5b1HDpuQB",
+    "url": "https://x.ai/bot/g17AUEbD0Oo-5b1HDpuQB",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "꼬마 봇",
+    "creatorHandle": "BBBang9900",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

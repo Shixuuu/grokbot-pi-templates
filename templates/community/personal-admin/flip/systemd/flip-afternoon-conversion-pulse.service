@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine flip-afternoon-conversion-pulse (Flip)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/flip
+ExecStart=/usr/bin/env pi -p "/flip-afternoon-conversion-pulse"

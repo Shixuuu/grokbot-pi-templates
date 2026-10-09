@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-stack-cartographer",
+  "version": "1.0.7",
+  "private": true,
+  "description": "A desktop assistant that maps your tech stack: which apps, services, and tools you use and how they connect. Retains all cartographer capabilities, stripped of personal data.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NjIGGseAWM32s65KGoqOK",
+    "url": "https://x.ai/bot/NjIGGseAWM32s65KGoqOK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Paul Siesage",
+    "creatorHandle": "psiesa",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-stale-faq-review (FAQT)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/faqt
+ExecStart=/usr/bin/env pi -p "/weekly-stale-faq-review"

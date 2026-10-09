@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine macbreak-weekly-board-tape
+
+[Timer]
+OnCalendar=Tue *-*-* 19:46:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

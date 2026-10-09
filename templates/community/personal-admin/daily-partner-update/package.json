@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-daily-partner-update",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Delivers a short, warm spoken update in your own voice during your commute, summarizing your day so you can share it with your girlfriend on the drive. Asks her name, your compliment style, and the best time to deliver it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3oGBb6hOZHvu27SZt0nla",
+    "url": "https://x.ai/bot/3oGBb6hOZHvu27SZt0nla",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "CyberMark",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

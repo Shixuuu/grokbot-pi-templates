@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ff1b7813-0e70-589d-9428-f1a4b157ef8b (Dickinson)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dickinson
+ExecStart=/usr/bin/env pi -p "/ff1b7813-0e70-589d-9428-f1a4b157ef8b"

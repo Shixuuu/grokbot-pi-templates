@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bet-sunday-email (Lebron)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lebron
+ExecStart=/usr/bin/env pi -p "/bet-sunday-email"

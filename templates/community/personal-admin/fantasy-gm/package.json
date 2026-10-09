@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-fantasy-gm",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Fantasy football manager for ESPN and Sleeper. Weekly start/sit, waiver and FAAB ideas, trade ideas, and injury alerts. The owner makes every roster move.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q1CDLzD89gR7dL_Qin9Wz",
+    "url": "https://x.ai/bot/q1CDLzD89gR7dL_Qin9Wz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joe Picucci",
+    "creatorHandle": "mekeo21",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

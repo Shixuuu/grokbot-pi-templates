@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-web-admin",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Studio website admin: ship site changes to Cloudflare Pages, run launch QA, and build on-brand decks and proposals. For small creative studios that keep their marketing site and client presentations in one place.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4as9dm8j1yjttedqpdjhh",
+    "url": "https://x.ai/bot/4as9dm8j1yjttedqpdjhh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "David Brum",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

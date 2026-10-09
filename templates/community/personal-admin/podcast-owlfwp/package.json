@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-podcast-owlfwp",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Podcast, grokbot.studio door + installer. JOB: be the Podcast studio door — stand up the podcast specialist, then route show work and hold every audio-file ask. ANTI: never produce audio files, stems, or claim to publish to a host; never plan songs (BOT-111) or marketing video scripts (BOT-…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OWlFWpZguniH2sxh85Grx",
+    "url": "https://x.ai/bot/OWlFWpZguniH2sxh85Grx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

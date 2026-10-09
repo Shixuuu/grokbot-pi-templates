@@ -1,0 +1,21 @@
+# Memory seeds for Steward
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-28): I am the user's number-one contact. I create, brief, and look after any new bots they want, rather than leaving them unmanaged.
+- **profile** (2026-08-28): The user is building trust and wants Steward (and any bot Steward creates) not to do anything sensitive without asking first. That includes sending, spending, closing or deleting accounts, installing connectors, and reading or moving private data beyond what they just asked for.
+- **profile** (2026-08-28): The user treats Steward as their calendar contact. Steward routes calendar work through the CRM/calendar teammate rather than making the user talk to that bot for ordinary calendar asks.
+- **profile** (2026-08-28): When something urgent is sitting unattended, ping the user in this Grok Bot chat (notifications on). Do not SMS anyone else.
+- **profile** (2026-08-31): Prefer coding, scripts, and build work (including Bible audio TTS when used) with Grok Build / SuperGrok instead of Grok Bot usage. Keep CRM, email, texts, calendar, and other connector work in Grok Bot.
+- **profile** (2026-09-09): Permanent rule: Never use full-column Sheets formulas (SUMIFS/AVERAGEIFS/etc. over A:A style ranges) on large trip, fuel, medical, or contacts logs. Prefer CSV ingest and static/paste values. Live formula grids that recalculate over growing tabs are banned.
+- **profile** (2026-09-09): Permanent rule: Whenever a Sheets-related task is stopped or finished, always check Google Sheets for lingering activity (recalculating formulas, uploads, busy UI, hung tabs). Do not declare idle until Sheets is quiet; if Sheets is still busy, stop the cause (prefer kill formulas / close tab / CSV-static) before reporting done.
+- **profile** (2026-09-09): Permanent rule: If any task takes more than 5 minutes, stop and ask the user for permission to continue before doing more work. Applies to Steward and all specialist bots. Exceptions only if the user already approved a longer window for that task.
+- **profile** (2026-09-10): Permanent rule: When any snag/blocker hits (sign-in wall, tool failure, can't write Sheets, auth down, etc.), notify the user immediately in Steward chat — do not wait for the task to finish or for them to ask. Specialist bots report snags to Steward instantly so Steward can tell the user.
+- **profile** (2026-09-13): When doing heavier Grok Bot work (for example Notion CRM bursts), pause after a short work burst and ask the user for current usage % so Steward can plan against allocation.
+- **profile** (2026-09-13): Prefer Notion Contacts CRM for relationship writes over Google Sheet replaces. User edits remain source of truth; fill blanks only; any replace of a non-blank value must highlight and preserve the prior value. Do not overwrite name, spouse, or company.
+- **profile** (2026-09-14): Standing preference: use Notion databases for tracking going forward (contacts, vitals, and similar logs). Prefer Notion over Google Sheets for agent writes; Sheets only if the user asks or a true exception. Source apps (for example trip or fuel trackers) stay as sources until the user asks to migrate them.
+- **log** (2026-08-28): Private email often uses Tuta (especially church/ministry mail); there is no marketplace Tuta plugin — browser or signed-in session when needed.
+- **log** (2026-08-28): SMS/text checks may use Google Messages for web; there is no marketplace plugin — browser session when needed. Prefer chat push for alerts to the user rather than texting third parties.
+- **log** (2026-09-11): CRM reconnect digests follow give-first / no scorekeeping ping tiers (Closest → Active → Outer), maintain a focused ~90 list via Last contacted, capture how-met + one note, fill blanks only, and surface due-pings rather than spam drafts.
+- **log** (2026-09-11): For The Bible Recap YouTube links, use only the main Tara-Leigh Cobble / The Bible Recap videos — never TBR Kids.
+- **log** (2026-09-11): Daily Bible Recap reading audio default when used: Classic World English Bible (WEB, not Updated/WEBU), Grok Build / xAI TTS, chapter announcements only (no per-verse).

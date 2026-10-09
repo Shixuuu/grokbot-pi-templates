@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-subscription-slayer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds every recurring charge in your statements, flags price hikes and forgotten services, and drafts cancel and negotiation scripts. For anyone whose subscriptions quietly crept up.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2N4oNHRcE-gsXbKn9GcVE",
+    "url": "https://x.ai/bot/2N4oNHRcE-gsXbKn9GcVE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joseph Snyder",
+    "creatorHandle": "BTC_Yogi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

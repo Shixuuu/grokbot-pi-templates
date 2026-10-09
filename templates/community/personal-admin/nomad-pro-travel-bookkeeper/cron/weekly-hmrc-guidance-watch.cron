@@ -1,0 +1,3 @@
+# Routine "Nomad Pro HMRC guidance watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 9 * * 3 cd /path/to/nomad-pro-travel-bookkeeper && pi -p "/weekly-hmrc-guidance-watch"

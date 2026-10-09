@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine vn-morning-quiz-email (Vietnamese Language Teacher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/vietnamese-language-teacher
+ExecStart=/usr/bin/env pi -p "/vn-morning-quiz-email"

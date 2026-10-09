@@ -1,0 +1,3 @@
+# Routine "Monthly Found Money sweep" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+58 7 1 * * cd /path/to/found-money && pi -p "/monthly-found-money-sweep"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-lost-property",
+  "version": "1.0.13",
+  "private": true,
+  "description": "Walk official unclaimed-property portals with you — you clear captchas and file claims. Private roster file, no SSN in chat; portal map with MissingMoney exceptions, capped-search stop, bucketed amounts, fuller hit lines, and claim-form assist with secrets blank.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mVJfH1ZPyKg_ldqUhaMJU",
+    "url": "https://x.ai/bot/mVJfH1ZPyKg_ldqUhaMJU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steve Gerber",
+    "creatorHandle": "scgerber",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

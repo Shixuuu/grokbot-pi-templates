@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine build-scout-morning-digest
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 07:40:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

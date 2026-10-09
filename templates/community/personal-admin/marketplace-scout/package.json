@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-marketplace-scout",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Scout Facebook Marketplace near any city: specific keyword + max price watches or a general deals scan, with optional scheduled alerts for new or cheaper listings.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UYdkpfZSu4O6N8_cRXpJO",
+    "url": "https://x.ai/bot/UYdkpfZSu4O6N8_cRXpJO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Oliver Cote",
+    "creatorHandle": "OliverRCote",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dg1-admin",
+  "version": "1.0.4",
+  "private": true,
+  "description": "DG1.com is a global all-in-one AI web, e-commerce, and marketing platform that enables your business to expand globally. DG1 Admin is the specialist assistant for your DG1 backoffice: products, orders, customers, booking, marketing, WebCMS, and settings.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_ax4LmP0WeHz09cVh2ece",
+    "url": "https://x.ai/bot/_ax4LmP0WeHz09cVh2ece",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gregor Zebic",
+    "creatorHandle": "GregorZebicX",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine denn-meme-video-prompt-sk (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-aa7xlx
+ExecStart=/usr/bin/env pi -p "/denn-meme-video-prompt-sk"

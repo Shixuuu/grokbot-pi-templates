@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine netease-taste-feedback
+
+[Timer]
+OnCalendar=Mon,Thu *-*-* 08:50:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

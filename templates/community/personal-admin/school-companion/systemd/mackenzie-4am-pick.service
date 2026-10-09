@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine mackenzie-4am-pick (School Companion)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/school-companion
+ExecStart=/usr/bin/env pi -p "/mackenzie-4am-pick"

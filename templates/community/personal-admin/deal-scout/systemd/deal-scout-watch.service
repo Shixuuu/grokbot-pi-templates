@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine deal-scout-watch (Deal Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/deal-scout
+ExecStart=/usr/bin/env pi -p "/deal-scout-watch"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 95a0a933-5c60-5839-8b14-c231d4fc03ad (Sys Maintainer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sys-maintainer
+ExecStart=/usr/bin/env pi -p "/95a0a933-5c60-5839-8b14-c231d4fc03ad"

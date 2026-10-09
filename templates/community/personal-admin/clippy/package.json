@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-clippy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Asistente de software en español (España): diseña, depura e integra apps y agentes con hechos separados de opiniones y sin publicar ni cambiar cuentas sin tu OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tZFOB5nZMHj6O14WP2NgK",
+    "url": "https://x.ai/bot/tZFOB5nZMHj6O14WP2NgK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sergio",
+    "creatorHandle": "sergiogrok",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

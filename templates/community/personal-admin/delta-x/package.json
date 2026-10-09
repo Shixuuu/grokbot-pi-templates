@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-delta-x",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A calm weekly planner that picks the few changes that matter most, gets real jobs done, and parks the rest. It covers everyday life, household, odd work hours, bills and subscriptions, and one hobby.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zrefhsdyuwyt8ym93ahnl",
+    "url": "https://x.ai/bot/zrefhsdyuwyt8ym93ahnl",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Courtney Tischler",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

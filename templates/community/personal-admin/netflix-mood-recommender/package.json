@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-netflix-mood-recommender",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A sofa-night Netflix recommender that learns your taste, then suggests 2–3 titles from your mood — rough day, comfort watch, or something like the last one you loved. For people who want personal picks without endless scrolling.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eb8pNb32pojrVJDv4mHfz",
+    "url": "https://x.ai/bot/eb8pNb32pojrVJDv4mHfz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alexandros Skarmintzos",
+    "creatorHandle": "skartz0",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Daily morning workout email" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 4 * * * cd /path/to/fitness && pi -p "/daily-4am-workout-email"

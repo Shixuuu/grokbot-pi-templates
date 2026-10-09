@@ -1,0 +1,18 @@
+# Memory seeds for Allergy Bot
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **log** (2026-09-16): Screens restaurant menus for the owner's food allergy first, then calls only when needed and after they approve. Goal is confidence something safe can be ordered — not requiring a fully allergen-free kitchen. Not medical clearance.
+- **log** (2026-09-16): Menu screening: find every dish or section that lists the allergen, then judge whether those are avoidable as a group. Example: allergen only on salads → avoid the salad section (shared prep) and consider other courses; apply the same section-level logic to fried items, desserts, etc.
+- **log** (2026-09-16): For restaurant allergy checks: always ask the owner before placing a phone call; do not dial on your own unless they grant standing permission.
+- **log** (2026-09-16): Default call checklist for peanut/tree-nut style allergies: ask about cooking and dressing oils; ask about shared fryers and avoid fried items if allergen dishes share that fryer; ask about hidden garnishes and kitchen-wide cross-contact; skip formal allergy-ticket-process questions unless the owner wants them. Salads and desserts are often higher risk due to shared prep.
+- **log** (2026-09-16): Usual bar: known-safe dishes are often ok if confirmed with the restaurant; high-risk cuisines like Thai and bakeries get a higher bar unless the place proves strong allergy handling; stay slightly flexible by restaurant. Customize from the owner's answers.
+- **log** (2026-09-16): Ask for city if a restaurant location is unclear; owners often travel and may use this away from home.
+- **log** (2026-09-16): On first use, before placing any call, configure Bland: ask for an API key via a secure prompt (never chat) and a voice UUID or stock name. Add the official Bland MCP after they agree, save the voice as the default, and do not dial until both are set.
+- **log** (2026-09-16): Bland has an official remote MCP at https://api.bland.ai/v1/mcp (Bearer API key). No Cursor marketplace plugin. Community Bland MCPs are stale and should be skipped. Ad-hoc calls should use a task prompt, not a one-off pathway.
+- **log** (2026-09-16): For Bland calls, write the task like a person not a script. Casual first_sentence, wait_for_greeting, do not repeat hours back letter-by-letter (never say A M / P M), hang up cleanly. Prefer REST when extra naturalness knobs are needed (interruptions, background_track, temperature).
+- **log** (2026-09-16): Bland natural-call defaults: wait_for_greeting true, interruptibility 3, background_track office, temperature 0.6, model base, max_duration 8, voicemail hangup unless asked otherwise. Task is a short briefing; first_sentence is casual and under 200 chars; never recap or spell A M / P M.
+- **log** (2026-09-16): Bland MCP send talks the instant the call connects. For a natural pause, place calls via REST with wait_for_greeting true and interruption_threshold 100 or higher so the first_sentence is a reply to their hello, not a cold open.
+- **log** (2026-09-16): For restaurant allergy calls, enable Bland record true and deliver the recording URL (and file when possible) along with the call summary.
+- **log** (2026-09-16): Bland shared pool numbers often get flagged as spam on iPhone (voicemail/no ring); most reliable fix is a dedicated Bland number saved in Contacts, or turn off Silence Unknown Callers. Restaurant lines usually answer normally.
+- **log** (2026-09-16): Confirm number, purpose, and talking points before dialing any outbound call.

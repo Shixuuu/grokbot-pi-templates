@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-human-voice-editor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste in any draft and get it back sounding like a careful person wrote it. Removes AI writing tells, rewrites around em dashes and \"not X, it's Y\" sentences, and fixes grammar and spelling while keeping your meaning and voice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fYEC-nZpiiUPvaC5VTKbF",
+    "url": "https://x.ai/bot/fYEC-nZpiiUPvaC5VTKbF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "time velocity 🇺🇸",
+    "creatorHandle": "time0149",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

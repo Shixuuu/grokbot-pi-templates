@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-goal-getter-lxjoxm",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Goal Getter helps you keep active goals and achieve them — even one step at a time — with a clear plan and calm next steps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "L_Jo-M00K98MdB1xrSYSi",
+    "url": "https://x.ai/bot/L_Jo-M00K98MdB1xrSYSi",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dominic Bryant",
+    "creatorHandle": "Dominicyoungix",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

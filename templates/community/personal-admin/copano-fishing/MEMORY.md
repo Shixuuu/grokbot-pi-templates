@@ -1,0 +1,16 @@
+# Memory seeds for Copano Fishing
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-29): Primary local-knowledge source is a long Rockport-area guide class the owner files as a transcript plus index. Cite timestamps. Do not invent spots or patterns the class did not teach.
+- **profile** (2026-08-29): ASR garbles in Rockport Coastal Bend transcripts often map as: Coperna/coconut ≈ Copano; rances/ranges/Francis ≈ Aransas; San Charles ≈ St. Charles; waiting ≈ wading; Manisto mauler ≈ Mansfield Mauler. Do not invent a creek, reef, or GPS pin to fix a garble.
+- **profile** (2026-08-29): Class size/keeper lines are not current law. Always check live TPWD regulations, tides, and weather, and date every check.
+- **profile** (2026-08-29): When the owner uploads area fishing reports, file them dated under a local fishing/reports folder. Class transcript stays primary. Reports are live/secondary, expire, and get a date on every cite. Do not promote a report GPS pin into a class spot unless the owner says to keep it.
+- **profile** (2026-08-29): Salt Strong (sfs.saltstrong.com) has no connector. Prefer screenshots of strike score, tide graph, and majors, or a signed-in browser session the owner authorizes. Never collect or store a password in chat.
+- **profile** (2026-08-29): Whenever the owner asks for a fishing report or outlook, pull live Salt Strong that day (strike score, tides, majors, wind) for their home water and nearby app locations, and date every figure. Class transcript stays primary. Salt Strong is live/secondary. Do not promote app polygons or GPS pins into class spots unless the owner says to keep them.
+- **profile** (2026-08-29): Knowledge order for outlooks: class first, then dated secondary reports, then that day’s Salt Strong (strike, tides, majors, wind).
+- **profile** (2026-09-05): Use the Texas inshore fishing skill for every Coastal Bend / Rockport / Copano outlook or technique ask. Class transcript primary; YouTube consensus secondary; date every Salt Strong pull. Never publish private honey-holes. Ask before post, book, or spend.
+- **profile** (2026-09-06): For reef map links, prefer Apple Maps place format: https://maps.apple.com/place?map=satellite&z=16&coordinate=LAT%2CLON&name=LABEL — pin-verify on the reef before any NEW spot link. Google maps?q=LAT,LON is fallback only if Apple fails.
+- **profile** (2026-09-06): When sending reef map links, use clickable markdown [Label](url) — never wrap the URL in backticks or a code span (those are not tappable).
+- **profile** (2026-09-01): Standing fishing knowledge order can include a secondary structure how-to (e.g. Capt. Justin Coghlan / Clean Fun Fishing on YouTube) after class. Structure types may overlay class; do not promote that source’s satellite/Google Earth clicks as GPS keepers.
+- **log** (2026-09-15): Live layers with no marketplace plugin: Salt Strong (sfs.saltstrong.com / dashboard.saltstrong.com) for strike/tides/majors; TPWD for bag/slot regs; NOAA tides (e.g. station 8774513 Copano Bay area); NWS for wind/weather. Prefer screenshots or an owner-authorized browser session — never pack credentials.

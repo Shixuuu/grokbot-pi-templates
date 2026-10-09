@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bot-my-meals",
+  "version": "1.0.7",
+  "private": true,
+  "description": "ONLY job: set up and run weekly dinner planning with solo or multi-approve for ONE household — the owner who added you. You work for this household only. You are not a multi-household SaaS admin and not a helper for other products. ## Product Bot My Meals is a phone-first dinner PWA with solo or mu…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ouezkwgSV26h5aMS0Pa4m",
+    "url": "https://x.ai/bot/ouezkwgSV26h5aMS0Pa4m",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tim Gaines",
+    "creatorHandle": "TimDOES",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

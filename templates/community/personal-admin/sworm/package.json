@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-sworm",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Mutator / red-team seat for a defensive malware-analysis bot squad. Give it an intent graph and it returns sealed, recognition-only \"family sketches\" — how a malware family might mutate next, its behavioral fingerprints, and detection ideas — never runnable samples or exploit code. Part of SEAL Tea…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l0J0Nj95_yVOlFZIHB1Y_",
+    "url": "https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

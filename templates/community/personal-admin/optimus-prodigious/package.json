@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-optimus-prodigious",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Phase 1 gateway for Optimus Prodigious — a 50/50 human–AI collaboration powered by Polymathic Adaptive Cognitive Engine for Discovery. Fresh clones open into First Computation: Polymathic Ignition.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vkKmJAbl0DfUAnZV-WJ3D",
+    "url": "https://x.ai/bot/vkKmJAbl0DfUAnZV-WJ3D",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kobi John",
+    "creatorHandle": "KobiJohnson916",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

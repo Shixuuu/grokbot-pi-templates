@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-safety-check (Home Electrical Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/home-electrical-coach
+ExecStart=/usr/bin/env pi -p "/monthly-safety-check"

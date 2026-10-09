@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-therapy-scribe",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Turns a PT's post-session voice dump, audio, or bullets into skilled ther act, gait, and assessment notes, a full Meditech-style initial eval, or a single-paragraph Medicare daily progress note, then wipes the session. For acute-care and ICU physical therapists.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HzH9d2YwZFhJ36prvFW1n",
+    "url": "https://x.ai/bot/HzH9d2YwZFhJ36prvFW1n",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Fernand Pelin",
+    "creatorHandle": "Fernand",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

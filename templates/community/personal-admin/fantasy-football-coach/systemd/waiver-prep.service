@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine waiver-prep (Fantasy Football Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fantasy-football-coach
+ExecStart=/usr/bin/env pi -p "/waiver-prep"

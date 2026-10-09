@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-podpilot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Send a podcast episode link and get back a private remix with one host's speaking segments cut, so you hear more of the voices you tuned in for. For personal viewing only.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zPGKhAkhnGTLYT_MfpvGv",
+    "url": "https://x.ai/bot/zPGKhAkhnGTLYT_MfpvGv",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Lorie Corlett",
+    "creatorHandle": "Lorie Corlett",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

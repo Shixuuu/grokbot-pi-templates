@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-cto-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "AI CTO that runs a read-only software org audit with specialized platform bots (Jira, GitHub, Figma, docs, CI/CD, testing, deployment, comms) and consolidates them into one executive risk report.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cWnyo7aDLIy0qMRC6-CF5",
+    "url": "https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Asm",
+    "creatorHandle": "asmDevsit",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

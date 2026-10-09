@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-invest-dd",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Investment due-diligence bot: researches companies via Glasser.ai across traffic, funding, team, product, ads, SEO, and marketing. Runs Basic then Deep DD; delivers only trusted findings and an investability call.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "S6LUcG5yeDYV-GglG7_FO",
+    "url": "https://x.ai/bot/S6LUcG5yeDYV-GglG7_FO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "iammutex",
+    "creatorHandle": "iammutex",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

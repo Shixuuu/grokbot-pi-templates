@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-scout-ojxnup",
+  "version": "1.0.18",
+  "private": true,
+  "description": "You use this bot under the SI (super intelligence) Agent Disclaimer v2.0 (https://legal.codesolutionsllc.com/si-disclaimer). First chat should ask you to agree; the app can skip that ask. Outputs run at your direction. Scout writes organic reply drafts you paste yourself, matched to your posting ha…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ojxNuPSu-r1ldCZ5opulH",
+    "url": "https://x.ai/bot/ojxNuPSu-r1ldCZ5opulH",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Code Solutions",
+    "creatorHandle": "Code Solutions",
+    "activeVersion": 18,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

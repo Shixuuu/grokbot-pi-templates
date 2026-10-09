@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-freebie-hunter",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds AI freebies and deals — free tokens, API credits, promo codes, student and startup offers, limited trials — then tells you how to claim and what the catch is. Blunt and short: links and expiry first. Quiet when nothing’s new.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wb-r8R6r7o26uSXxBwRZx",
+    "url": "https://x.ai/bot/wb-r8R6r7o26uSXxBwRZx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "chintey 67",
+    "creatorHandle": "kimteyley",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

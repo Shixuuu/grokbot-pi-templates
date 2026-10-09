@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-english-review (Evan)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/evan
+ExecStart=/usr/bin/env pi -p "/weekly-english-review"

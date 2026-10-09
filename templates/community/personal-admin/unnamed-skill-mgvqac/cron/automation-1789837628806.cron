@@ -1,0 +1,3 @@
+# Routine "晚餐记账催促" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 19 * * * cd /path/to/unnamed-skill-mgvqac && pi -p "/automation-1789837628806"

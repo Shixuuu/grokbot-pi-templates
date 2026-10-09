@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-hmrc-guidance-watch (Nomad Pro – UK Residency Tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nomad-pro-uk-residency-tracker
+ExecStart=/usr/bin/env pi -p "/weekly-hmrc-guidance-watch"

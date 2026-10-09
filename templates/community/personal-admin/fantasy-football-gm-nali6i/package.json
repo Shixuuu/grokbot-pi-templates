@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-fantasy-football-gm-nali6i",
+  "version": "1.0.5",
+  "private": true,
+  "description": "By Chris Miller. Fantasy football coach and GM for Yahoo, ESPN, and Sleeper. Runs the weekly start/sit and waiver machine, and files a move only when you say go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nALI6ijv-K3XNVx45Y2tW",
+    "url": "https://x.ai/bot/nALI6ijv-K3XNVx45Y2tW",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Christopher Miller",
+    "creatorHandle": "Chris Miller",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

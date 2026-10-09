@@ -1,0 +1,3 @@
+# Routine "SpaceX Tesla Radar Daily" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 22 * * 1 cd /path/to/spacex-tesla-radar && pi -p "/spacex-tesla-daily-brief"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-agency-ops-architect",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Smart agent routing picks the right cloud agent per task (by type, skills, latency, and cost). Also scores your multi-bot Grok agency, auto-drafts reversible fixes, shows per-bot spend burn, and suggests the next bot or skill — week-two usage, one owner, draft-and-stop.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ujrdjHnaCssd3CKXm-xu9",
+    "url": "https://x.ai/bot/ujrdjHnaCssd3CKXm-xu9",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "LuminaForge",
+    "creatorHandle": "LuminaForge_AI",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

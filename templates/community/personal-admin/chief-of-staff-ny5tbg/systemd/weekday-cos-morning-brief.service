@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-cos-morning-brief (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-ny5tbg
+ExecStart=/usr/bin/env pi -p "/weekday-cos-morning-brief"

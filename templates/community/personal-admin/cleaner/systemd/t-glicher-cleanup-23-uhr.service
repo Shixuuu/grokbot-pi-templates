@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine t-glicher-cleanup-23-uhr (Cleaner)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cleaner
+ExecStart=/usr/bin/env pi -p "/t-glicher-cleanup-23-uhr"

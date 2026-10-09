@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine live-pages-webhook (Live Pages)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/live-pages-ignlvl
+ExecStart=/usr/bin/env pi -p "/live-pages-webhook"

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-forge-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Answer a few quick questions about your age, fitness, health, gear, and space. Get a workout built for you every morning at the time you pick.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZBDynmT5k_WrRqQwoxdrI",
+    "url": "https://x.ai/bot/ZBDynmT5k_WrRqQwoxdrI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Coffee and Grit",
+    "creatorHandle": "CoffeeNGrit",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

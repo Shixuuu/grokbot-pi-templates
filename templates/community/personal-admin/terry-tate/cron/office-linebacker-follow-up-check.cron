@@ -1,0 +1,3 @@
+# Routine "Office linebacker follow-up check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+31 9,14 * * 1-5 cd /path/to/terry-tate && pi -p "/office-linebacker-follow-up-check"

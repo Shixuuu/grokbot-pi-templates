@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-obsidian-tukhb8",
+  "version": "1.0.1",
+  "private": true,
+  "description": "CLI-first Obsidian specialist for your Grok Bot computer. Owns a local vault as a second brain — create, edit, link, and search Markdown with Obsidian Flavored Markdown; prefers Obsidian CLI over GUI clicking.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tukhb8f4XyUJFkRWlHWaz",
+    "url": "https://x.ai/bot/tukhb8f4XyUJFkRWlHWaz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alberto Jauregui",
+    "creatorHandle": "weeb3dev",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

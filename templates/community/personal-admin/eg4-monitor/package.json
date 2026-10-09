@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-eg4-monitor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches a home EG4 hybrid solar and battery system. Pulls production, storage, and grid data from EG4 Monitor Center, archives charts, and flags faults or odd days. Built for homeowners who want a quiet daily check instead of opening the portal themselves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9rxPP70OSzuTtTaOrzeqz",
+    "url": "https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Terry Haynes",
+    "creatorHandle": "look4terry",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

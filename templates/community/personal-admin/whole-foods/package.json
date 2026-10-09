@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-whole-foods",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A weekly grocery planner that ranks Whole Foods and local store deals, builds a menu and shopping list, and stages Amazon Whole Foods delivery carts for your approval. It also checks deliveries for temperature and spoilage problems and handles refunds.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7ZTQWd31OnZYDVJRzxzrU",
+    "url": "https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dennison Bertram",
+    "creatorHandle": "DennisonBertram",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

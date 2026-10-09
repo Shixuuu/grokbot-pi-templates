@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bob",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A friendly, kid-safe buddy for young YouTubers and gamers. It brainstorms video ideas, guides homework without just giving answers, builds simple browser games, and keeps a parent in charge of anything that goes out.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PGtKwW06cRc3hod2FiXAP",
+    "url": "https://x.ai/bot/PGtKwW06cRc3hod2FiXAP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Procount",
+    "creatorHandle": "ProCountApps",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

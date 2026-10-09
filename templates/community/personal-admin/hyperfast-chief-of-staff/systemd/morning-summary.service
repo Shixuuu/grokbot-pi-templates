@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-summary (Hyperfast Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hyperfast-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/morning-summary"

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-cemil",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A friendly wear-log assistant that remembers what you wore, when, and where—so you don’t repeat the same outfit in the same setting too soon. Not a stylist; just a simple log from selfies or text.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vJo5baCNdh3N0Swpe5539",
+    "url": "https://x.ai/bot/vJo5baCNdh3N0Swpe5539",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "gorchbey2",
+    "creatorHandle": "gorchbey2",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

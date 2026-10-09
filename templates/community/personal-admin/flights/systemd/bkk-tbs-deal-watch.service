@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bkk-tbs-deal-watch (Flights)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/flights
+ExecStart=/usr/bin/env pi -p "/bkk-tbs-deal-watch"

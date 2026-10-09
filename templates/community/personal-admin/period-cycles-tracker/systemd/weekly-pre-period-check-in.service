@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-pre-period-check-in (Period cycles Tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/period-cycles-tracker
+ExecStart=/usr/bin/env pi -p "/weekly-pre-period-check-in"

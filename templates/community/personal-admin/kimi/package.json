@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-kimi",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns business podcasts and YouTube episodes into short, no-fluff cheat sheets of advice you can actually run. Drop a link and get Core idea → Do this → frameworks, flags, and don’ts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oBK8ft9f4D723aXeZJuCm",
+    "url": "https://x.ai/bot/oBK8ft9f4D723aXeZJuCm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Oren John",
+    "creatorHandle": "orenmeetsworld",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

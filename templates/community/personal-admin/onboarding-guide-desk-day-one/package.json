@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-onboarding-guide-desk-day-one",
+  "version": "1.0.3",
+  "private": true,
+  "description": "🚀 Turn a role description and team docs into a sourced first-day, first-week and 30/60/90 onboarding guide with an access checklist. It never creates accounts or sends invites.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "weugfzfnurno8lqzbdaoh",
+    "url": "https://x.ai/bot/weugfzfnurno8lqzbdaoh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

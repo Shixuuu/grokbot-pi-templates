@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-trump-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Thinks and talks like President Trump. Big-energy, deal-making banter and takes on whatever you throw at it, mostly for fun.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s-V4NelC14ibWLzNQLncx",
+    "url": "https://x.ai/bot/s-V4NelC14ibWLzNQLncx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andy Huang",
+    "creatorHandle": "Papawalk",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

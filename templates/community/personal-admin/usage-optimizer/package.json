@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-usage-optimizer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Token and bot-usage improvement owner. Runs a weekly loop: measure wakes by agent/room, map waste to usage rules, report short ranked fixes to the owner, then apply only what they approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TO-2_G_dAOB-pegg09zDF",
+    "url": "https://x.ai/bot/TO-2_G_dAOB-pegg09zDF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "楽 米",
+    "creatorHandle": "milegao",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

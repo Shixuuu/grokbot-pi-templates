@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ember",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Stop chasing your own bots. Ember is connective tissue for founders running multiple department heads — slip-only morning sweeps, decision briefs you can answer in one tap, and a Friday org-pulse PDF so nothing dies over the weekend.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BI5ecKykD9_L7ShV3AuEq",
+    "url": "https://x.ai/bot/BI5ecKykD9_L7ShV3AuEq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Austin Christian",
+    "creatorHandle": "AustinCMorris",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

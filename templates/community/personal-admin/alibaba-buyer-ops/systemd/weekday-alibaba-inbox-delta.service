@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-alibaba-inbox-delta (Alibaba Buyer Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/alibaba-buyer-ops
+ExecStart=/usr/bin/env pi -p "/weekday-alibaba-inbox-delta"

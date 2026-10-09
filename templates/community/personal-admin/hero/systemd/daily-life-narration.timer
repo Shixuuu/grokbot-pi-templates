@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-life-narration
+
+[Timer]
+OnCalendar=*-*-* 08:48:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

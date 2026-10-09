@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-ai-tool-importer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns one agent from another AI tool into a Grok Bot. Sign in to ChatGPT, Claude, Gemini, or paste a persona doc, and it pulls the real config and builds a specialist you could hire tomorrow.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "scQgV0BCXYgHgO01mkxWZ",
+    "url": "https://x.ai/bot/scQgV0BCXYgHgO01mkxWZ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

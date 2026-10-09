@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-unnamed-skill-p3hart",
+  "version": "1.0.1",
+  "private": true,
+  "description": "统筹多个助手的总管。摸清各岗职责、分派任务、盯进度和交接，把事情对齐后交给对的人，自己不抢执行。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "P3hARt_iRCU1x7PKEdxwk",
+    "url": "https://x.ai/bot/P3hARt_iRCU1x7PKEdxwk",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Wang Tianzhi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

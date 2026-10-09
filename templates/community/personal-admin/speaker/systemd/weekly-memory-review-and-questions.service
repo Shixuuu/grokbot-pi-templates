@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-memory-review-and-questions (Speaker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/speaker
+ExecStart=/usr/bin/env pi -p "/weekly-memory-review-and-questions"

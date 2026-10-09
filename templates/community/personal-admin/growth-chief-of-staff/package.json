@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-growth-chief-of-staff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Orchestrates an AI-native growth stack: digests, SEO→blog→LinkedIn/X lanes, and meeting-focused scoreboards. For founders who want specialist bots without living in every tool.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_3UvU3ZziY_aEJU-U7vKy",
+    "url": "https://x.ai/bot/_3UvU3ZziY_aEJU-U7vKy",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Anthony Wentzel",
+    "creatorHandle": "PineapplesDev",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

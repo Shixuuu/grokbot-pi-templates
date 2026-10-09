@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-jev-for-grok-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Plug TypeSafe Jev into Grok Bot: one API key from OpenRouter or TypeSafe, faster process decisions, and fast headed browser use on box Chrome.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sm_xi4of09cgu8kgylvlc",
+    "url": "https://x.ai/bot/sm_xi4of09cgu8kgylvlc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Chris",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

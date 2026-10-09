@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-compute-spread-jlfmiv",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you run the same work for less: connectors and public data first, one lean batch instead of repeated passes, and the smallest tool that still does the job. No paid APIs, subscriptions, or upgrades unless you ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jLfMIValJD1kHwwEeA5X_",
+    "url": "https://x.ai/bot/jLfMIValJD1kHwwEeA5X_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sam E",
+    "creatorHandle": "SamE",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

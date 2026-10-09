@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-launch-tracker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks release dates for the games, consoles, and Apple/tech launches you care about. Sends a weekly what's-coming digest and reminds you before launch day and when preorders open or dates slip.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oLm4jgC4FHZ5k9V4ab-Yw",
+    "url": "https://x.ai/bot/oLm4jgC4FHZ5k9V4ab-Yw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Pixel & Pivot Studios",
+    "creatorHandle": "JPipo86",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

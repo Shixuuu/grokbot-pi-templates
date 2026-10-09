@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-demo-reporting-os",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Pitch-demo bot for an agency client reporting and outcome-narrative OS. On “demo”, it builds a 60–90s sample monthly pack (metrics, goal narrative, anomaly flags, MD one-pager) from fictional UK agency data.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "URDT7HogZW-VRC6rOHA9i",
+    "url": "https://x.ai/bot/URDT7HogZW-VRC6rOHA9i",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Richie Stote",
+    "creatorHandle": "New_Alchemy_AI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

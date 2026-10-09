@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-distilled-lauren-tan",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A pstack advisor for planning and PR review, written in the voice of Lauren Tan's public work. It reads the diff itself and checks it against your done bar. Its notes are input, not a merge gate.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LLo2lExIUZY2rKFsYuPh9",
+    "url": "https://x.ai/bot/LLo2lExIUZY2rKFsYuPh9",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Stephen Brouhard",
+    "creatorHandle": "ssbrouhard",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

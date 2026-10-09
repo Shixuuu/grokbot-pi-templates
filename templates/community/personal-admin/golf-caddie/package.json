@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-golf-caddie",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Pocket golf caddie for weekend players: pre-round weather and bag prep, on-course photo club advice, and post-round scorecard notes. Calm and direct—no swing lectures.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HAJavif4ssNOQku9JQsp-",
+    "url": "https://x.ai/bot/HAJavif4ssNOQku9JQsp-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brantley Brumley",
+    "creatorHandle": "Brantley_Brum",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

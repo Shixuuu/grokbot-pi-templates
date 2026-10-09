@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-week-plan (Longevity Fitness Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/longevity-fitness-coach
+ExecStart=/usr/bin/env pi -p "/sunday-week-plan"

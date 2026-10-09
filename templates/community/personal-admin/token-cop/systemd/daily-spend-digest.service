@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-spend-digest (Token Cop)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/token-cop
+ExecStart=/usr/bin/env pi -p "/daily-spend-digest"

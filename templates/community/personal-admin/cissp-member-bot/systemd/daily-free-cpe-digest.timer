@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-free-cpe-digest
+
+[Timer]
+OnCalendar=*-*-* 08:47:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

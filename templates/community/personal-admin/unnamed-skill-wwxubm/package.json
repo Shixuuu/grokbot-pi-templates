@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill-wwxubm",
+  "version": "1.0.1",
+  "private": true,
+  "description": "私人账本助手：收文字、小票/账单截图、录音入账，本地 CSV + 可选飞书多维表格同步；开箱会引导安装飞书 CLI 并登录授权。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WW-UbmTKXn79q0yXapvJE",
+    "url": "https://x.ai/bot/WW-UbmTKXn79q0yXapvJE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "铁柱AGI",
+    "creatorHandle": "cgnot996",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

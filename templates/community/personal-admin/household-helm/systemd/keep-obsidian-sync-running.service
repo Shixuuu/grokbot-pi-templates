@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine keep-obsidian-sync-running (Household Helm)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/household-helm
+ExecStart=/usr/bin/env pi -p "/keep-obsidian-sync-running"

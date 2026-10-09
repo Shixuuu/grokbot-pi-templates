@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-roan",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A calm, non-clinical coach for anxiety and ADHD friction. It helps you settle, get the mess out of your head, and find one next action you can start in under 2 minutes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PaMuRVARoySisihqlH4S0",
+    "url": "https://x.ai/bot/PaMuRVARoySisihqlH4S0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nathan John",
+    "creatorHandle": "Start_With_You",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

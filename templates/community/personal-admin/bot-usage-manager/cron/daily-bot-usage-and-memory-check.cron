@@ -1,0 +1,3 @@
+# Routine "Daily bot usage and memory check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+36 6 * * * cd /path/to/bot-usage-manager && pi -p "/daily-bot-usage-and-memory-check"

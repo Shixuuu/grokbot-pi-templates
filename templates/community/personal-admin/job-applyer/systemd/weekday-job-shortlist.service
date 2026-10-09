@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-job-shortlist (Job Applyer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/job-applyer
+ExecStart=/usr/bin/env pi -p "/weekday-job-shortlist"

@@ -1,0 +1,3 @@
+# Routine "Daily top-10 PASS" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 5 * * * cd /path/to/pal && pi -p "/daily-top10-pass"

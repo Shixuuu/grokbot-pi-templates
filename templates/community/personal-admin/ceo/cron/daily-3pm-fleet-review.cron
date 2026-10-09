@@ -1,0 +1,3 @@
+# Routine "Daily fleet review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 15 * * * cd /path/to/ceo && pi -p "/daily-3pm-fleet-review"

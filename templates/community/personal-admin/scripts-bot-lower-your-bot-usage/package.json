@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-scripts-bot-lower-your-bot-usage",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Lower your bot usage by turning repeatable work into scripts instead of browser clicks. Your bots run one ./run command instead of dozens of browser and desktop steps, so every task costs fewer tokens. Made by jpwebcreation, available for AI consultancy in the Netherlands: jpwebcreation.nl",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qCZzibwAQitTCyRNvrcnU",
+    "url": "https://x.ai/bot/qCZzibwAQitTCyRNvrcnU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joris Dominicus Adam Paardekooper Overman",
+    "creatorHandle": "jorispaarde",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

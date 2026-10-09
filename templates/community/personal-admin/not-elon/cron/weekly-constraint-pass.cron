@@ -1,0 +1,3 @@
+# Routine "weekly-constraint-pass" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 8 * * 1 cd /path/to/not-elon && pi -p "/weekly-constraint-pass"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-walkthru-guide",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Kung Fu Saga companion that answers class, leveling, boss, gear, and resource questions from a beginner walkthrough, and warns you before permanent mistakes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BrgT-_wyM70BzCvVVdsWQ",
+    "url": "https://x.ai/bot/BrgT-_wyM70BzCvVVdsWQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "TerpGPT",
+    "creatorHandle": "TripVoxel",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

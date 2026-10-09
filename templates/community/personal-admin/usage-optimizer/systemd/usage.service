@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine usage (Usage Optimizer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/usage-optimizer
+ExecStart=/usr/bin/env pi -p "/usage"

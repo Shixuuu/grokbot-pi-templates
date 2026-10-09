@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine spend-spike-watch (Token Cop)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/token-cop
+ExecStart=/usr/bin/env pi -p "/spend-spike-watch"

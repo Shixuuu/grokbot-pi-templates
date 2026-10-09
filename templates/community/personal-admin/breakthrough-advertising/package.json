@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-breakthrough-advertising",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you write ads and campaigns that grab attention and sell. Tell it your product, audience, and channel, and it drafts angles, headlines, and copy for you to publish.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NZkRCKrLi2JqqjKKjaJ2O",
+    "url": "https://x.ai/bot/NZkRCKrLi2JqqjKKjaJ2O",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joe",
+    "creatorHandle": "CardCaptain",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

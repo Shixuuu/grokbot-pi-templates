@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mtg-deck-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Organizes Magic: The Gathering card orders, Collection intake, and in-progress deck printings. Tracks a Dropbox orders sheet, diffs Moxfield Collection against a snapshot, and briefs a teammate on deck completion.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QDcPiHhyxnzOI6y5xz5sv",
+    "url": "https://x.ai/bot/QDcPiHhyxnzOI6y5xz5sv",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nate Mallory",
+    "creatorHandle": "NateMallory",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

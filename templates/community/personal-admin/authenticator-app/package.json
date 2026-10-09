@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-authenticator-app",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Generates a fresh 6-digit login code when you ask. Another bot gets a code only for a service you have allowed, and the secret stays in a masked store.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "etB2IDpbLPT-ZW4IIewQK",
+    "url": "https://x.ai/bot/etB2IDpbLPT-ZW4IIewQK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andrew Lam",
+    "creatorHandle": "refreshinga",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine amazon-returns-check (Return Man)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/return-man
+ExecStart=/usr/bin/env pi -p "/amazon-returns-check"

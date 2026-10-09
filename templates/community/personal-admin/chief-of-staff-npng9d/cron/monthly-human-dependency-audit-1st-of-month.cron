@@ -1,0 +1,3 @@
+# Routine "Monthly human-dependency audit (1st of month)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+12 8 1 * * cd /path/to/chief-of-staff-npng9d && pi -p "/monthly-human-dependency-audit-1st-of-month"

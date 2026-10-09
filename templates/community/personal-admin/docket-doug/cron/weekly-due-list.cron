@@ -1,0 +1,3 @@
+# Routine "Weekly due list" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 8 * * 1 cd /path/to/docket-doug && pi -p "/weekly-due-list"

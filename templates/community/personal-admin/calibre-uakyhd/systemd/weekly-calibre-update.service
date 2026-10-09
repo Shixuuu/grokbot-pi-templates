@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-calibre-update (Calibre)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/calibre-uakyhd
+ExecStart=/usr/bin/env pi -p "/weekly-calibre-update"

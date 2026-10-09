@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-build-lead",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A build lead for your bot fleet. It turns an approved goal (new bot, merge, skill, routine, workspace or code) into a plan, delegates each piece, and verifies the live result before calling it done.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fGdpITFBNM0hisTPaN_Le",
+    "url": "https://x.ai/bot/fGdpITFBNM0hisTPaN_Le",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Marco Wu",
+    "creatorHandle": "MHW42",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

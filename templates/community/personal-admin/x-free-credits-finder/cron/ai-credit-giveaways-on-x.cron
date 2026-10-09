@@ -1,0 +1,3 @@
+# Routine "AI credit giveaways on X" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+06 8,18 * * 1-5 cd /path/to/x-free-credits-finder && pi -p "/ai-credit-giveaways-on-x"

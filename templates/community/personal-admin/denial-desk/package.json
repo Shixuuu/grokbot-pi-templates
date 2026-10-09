@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-denial-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns an insurance denial into a draft-only appeal pack: case card, deadline, missing documents, and unsent drafts. For anyone sitting on a no from an insurer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EgfoyJEx7bfDiHlZUwr3P",
+    "url": "https://x.ai/bot/EgfoyJEx7bfDiHlZUwr3P",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andrew Pocta",
+    "creatorHandle": "Andrew51786",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

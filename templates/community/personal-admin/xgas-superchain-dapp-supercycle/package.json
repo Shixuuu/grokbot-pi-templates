@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-xgas-superchain-dapp-supercycle",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Sends you to https://xgas.dev/auth/x/login on your machine, wires your HOST CONFIG MCP to your Privy wallet, funds if needed, explains real staccpad/xGas tech ($xMoney≠NGU), then runs a live e2e on the lane you pick.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "py3cDcRaSgRj_ixBOK3XN",
+    "url": "https://x.ai/bot/py3cDcRaSgRj_ixBOK3XN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jarett Reginald Stewart Dunn",
+    "creatorHandle": "STACCoverflow",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

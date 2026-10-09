@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-ai-visibility-re-check (AI Visibility Check)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai-visibility-check
+ExecStart=/usr/bin/env pi -p "/monthly-ai-visibility-re-check"

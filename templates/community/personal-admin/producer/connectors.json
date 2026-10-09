@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Search posts, read timelines, pull trends, manage bookmarks, and access X Chat."
+    },
+    {
+      "name": "Firecrawl",
+      "pluginId": "789",
+      "description": "Web scraping, crawling, and search for AI agents. Gives Cursor full access to web content through the Firecrawl CLI."
+    }
+  ]
+}

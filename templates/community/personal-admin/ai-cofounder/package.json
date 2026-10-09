@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-ai-cofounder",
+  "version": "1.0.15",
+  "private": true,
+  "description": "An AI co-founder for solopreneurs — pushes back, runs vision→gauntlet→plan→sprint, and keeps durable memory in Notion. Not a yes-man.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Sv9OhsHSDi9g1Y3TPed-u",
+    "url": "https://x.ai/bot/Sv9OhsHSDi9g1Y3TPed-u",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ilyass Bm",
+    "creatorHandle": "ilyassbm_",
+    "activeVersion": 15,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

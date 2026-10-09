@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-film-production-assistant",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Film production assistant for cinematic projects — scenes, animation prompts, storyboards, narration, and shot planning with strict character continuity.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RiJ6z8VvFOoI6BFGF0Ca7",
+    "url": "https://x.ai/bot/RiJ6z8VvFOoI6BFGF0Ca7",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gurpinder Bajwa",
+    "creatorHandle": "GurpinderbajwaS",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

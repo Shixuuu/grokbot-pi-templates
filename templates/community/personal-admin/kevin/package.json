@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-kevin",
+  "version": "1.0.3",
+  "private": true,
+  "description": "The only agent you talk to. No more context switching. Kevin, the head minion, runs your whole crew of minions behind the scenes, and Dr. Nefario reviews them weekly and suggests fixes. Forked from Firstmate.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rZs29r38Oeor_7Ndp2coe",
+    "url": "https://x.ai/bot/rZs29r38Oeor_7Ndp2coe",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jared",
+    "creatorHandle": "Jaredtherich",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fernando-arana",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal stand-in that acts as you. Opens WhatsApp Web in the desktop browser, reads chats, and drafts replies — always confirms before sending.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JiOX3mqrIq0ukm9pLhQ9-",
+    "url": "https://x.ai/bot/JiOX3mqrIq0ukm9pLhQ9-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ferdinand",
+    "creatorHandle": "FernandoArana_S",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

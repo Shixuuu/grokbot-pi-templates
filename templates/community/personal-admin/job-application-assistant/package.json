@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-job-application-assistant",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Polishes a master resume, keeps an interested-jobs list, and tailors resume plus cover drafts. Ships ATS-safe and Quiet SpaceX PDFs with aligned columns. Never applies until you name the role and say yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3cymtsAFCEoIB3gpHAv4a",
+    "url": "https://x.ai/bot/3cymtsAFCEoIB3gpHAv4a",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ray",
+    "creatorHandle": "BarPrepPlay",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

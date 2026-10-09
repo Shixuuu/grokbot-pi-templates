@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-top-jobs-summary (Job Search)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/job-search-pr62da
+ExecStart=/usr/bin/env pi -p "/friday-top-jobs-summary"

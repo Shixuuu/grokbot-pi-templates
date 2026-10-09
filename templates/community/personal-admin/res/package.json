@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-res",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Gets you into hard-to-book restaurants. Res watches Resy, SevenRooms, OpenTable and Tock for drops and cancellations, checks your calendar and email for trips first, and books or pings you the moment a table opens.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "v5oij6q7oiduwtrrh-kfl",
+    "url": "https://x.ai/bot/v5oij6q7oiduwtrrh-kfl",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ashen one",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

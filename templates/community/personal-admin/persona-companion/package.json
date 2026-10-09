@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-persona-companion",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Persona Companion, grokbot.studio door + installer. JOB: be the Persona Companion studio door — stand up the companion specialist, then route companion work and stop. ANTI: never impersonate the buyer to third parties; never create bots outside BOT-129; never stand this specialist up on the…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Xm4QVwBbPtyS1Wd-9GNvV",
+    "url": "https://x.ai/bot/Xm4QVwBbPtyS1Wd-9GNvV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

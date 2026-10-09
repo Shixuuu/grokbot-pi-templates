@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-cos-brief (Capone)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/capone
+ExecStart=/usr/bin/env pi -p "/morning-cos-brief"

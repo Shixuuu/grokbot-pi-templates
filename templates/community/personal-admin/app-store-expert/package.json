@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-app-store-expert",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your Apple release specialist: App Store Connect, TestFlight, App Review submissions, rejection fixes and replies, and App Store Optimization for indie iOS apps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Mpb_RiXSfnIlwomR3C7JN",
+    "url": "https://x.ai/bot/Mpb_RiXSfnIlwomR3C7JN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Christian Amechi",
+    "creatorHandle": "MeechYourGoals",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

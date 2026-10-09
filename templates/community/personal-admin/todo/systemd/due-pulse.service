@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine due-pulse (Todo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/todo
+ExecStart=/usr/bin/env pi -p "/due-pulse"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-financial-scanner",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Read-only X markets desk: scans official and economic accounts plus hot-stock sentiment, then tells you what is new, why it matters, and which tickers are in play. Stays quiet when nothing material moved.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "e3jmMweGAwbD4JlUCzHXy",
+    "url": "https://x.ai/bot/e3jmMweGAwbD4JlUCzHXy",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dennis W",
+    "creatorHandle": "DennisW_15",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-spacex-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks SpaceX launches on your calendar and sends a short morning briefing with news from @SpaceX.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LrIjgjuknEyYC4Tbbz0jK",
+    "url": "https://x.ai/bot/LrIjgjuknEyYC4Tbbz0jK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jess",
+    "creatorHandle": "SYQCON95",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

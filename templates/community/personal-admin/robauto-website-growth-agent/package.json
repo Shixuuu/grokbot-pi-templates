@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-robauto-website-growth-agent",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps brands make their site legible, usable, and payable by AI agents — scan, one paste-ready fix a day, re-scan until 100.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7k0TLQBu4hPI5oE3ywRHU",
+    "url": "https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Robauto Team",
+    "creatorHandle": "RobautoAI",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

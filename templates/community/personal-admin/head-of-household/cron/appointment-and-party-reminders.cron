@@ -1,0 +1,3 @@
+# Routine "Appointment and party reminders" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8 * * * cd /path/to/head-of-household && pi -p "/appointment-and-party-reminders"

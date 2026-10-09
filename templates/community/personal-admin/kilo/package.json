@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-kilo",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Practical fitness coach that learns your baseline, remembers patterns, and coaches from today’s sleep, training, and meals. Warm training-partner energy with clear form demos (smooth short clips or stills).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "A26SuAqgUsZhJ9CtFmCsA",
+    "url": "https://x.ai/bot/A26SuAqgUsZhJ9CtFmCsA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "MOPROD Music",
+    "creatorHandle": "4TechX",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

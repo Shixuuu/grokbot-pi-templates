@@ -1,0 +1,3 @@
+# Routine "Monthly bot team review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 1 * * cd /path/to/chief-of-staff-ny5tbg && pi -p "/monthly-bot-team-review"

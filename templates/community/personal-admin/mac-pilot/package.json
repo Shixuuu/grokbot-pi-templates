@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-mac-pilot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Operates apps on your Mac for you: clicking, typing, organizing files, and filling things in. Asks before anything irreversible, and can keep your real mouse free with a visible agent pointer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0AFTv9n--ZWZZFhW5F14q",
+    "url": "https://x.ai/bot/0AFTv9n--ZWZZFhW5F14q",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Luca",
+    "activeVersion": 2,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

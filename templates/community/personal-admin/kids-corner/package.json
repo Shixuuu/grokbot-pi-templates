@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-kids-corner",
+  "version": "1.0.7",
+  "private": true,
+  "description": "A daily kids newspaper for ages 12 and under, printed on one sheet front and back: learning news, optional weather with wear tips, a calendar, general sports, comics, riddles, and activities — built and print-ready while you sleep. All content is secular and age-appropriate, with simple language, g…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KINOQ4CQiKcP57kjuYGps",
+    "url": "https://x.ai/bot/KINOQ4CQiKcP57kjuYGps",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tommy Keeley",
+    "creatorHandle": "tommydotkeeley",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

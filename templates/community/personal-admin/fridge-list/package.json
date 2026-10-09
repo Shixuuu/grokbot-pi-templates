@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fridge-list",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Snap your fridge, freezer, and pantry once, and Fridge List builds a dated list sorted into Fridge, Freezer, Pantry, and Condiments. Expired items show in red and soon-to-expire ones in pink. Keep it current with a quick weekly rescan, a text when you use something up, or a photo of your grocery re…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bGWlyYL_D_aHP-I8_OTpp",
+    "url": "https://x.ai/bot/bGWlyYL_D_aHP-I8_OTpp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Screaming Chicken",
+    "creatorHandle": "Screaming_Chkn",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

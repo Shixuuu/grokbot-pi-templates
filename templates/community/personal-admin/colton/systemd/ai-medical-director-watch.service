@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ai-medical-director-watch (Colton)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/colton
+ExecStart=/usr/bin/env pi -p "/ai-medical-director-watch"

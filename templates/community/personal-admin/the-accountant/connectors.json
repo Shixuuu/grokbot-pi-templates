@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Superpowers",
+      "pluginId": "684",
+      "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques"
+    }
+  ]
+}

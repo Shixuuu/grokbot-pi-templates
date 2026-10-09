@@ -1,0 +1,3 @@
+# Routine "Concert watchlist" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+56 7 * * 0 cd /path/to/encore && pi -p "/5e7e086c-2c8b-542f-b2c8-b1c01da520ea"

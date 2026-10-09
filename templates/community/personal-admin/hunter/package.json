@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-hunter",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Watches for sold-out products coming back in stock and new drops you care about, and pings you with the store, price and a direct link only when you can actually buy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RJMxbT38CZy20YFXNgzI8",
+    "url": "https://x.ai/bot/RJMxbT38CZy20YFXNgzI8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Marcello Silvestri",
+    "creatorHandle": "shirubusutori",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-fitness-update-for-chief-of-staff (Melissa)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/melissa
+ExecStart=/usr/bin/env pi -p "/morning-fitness-update-for-chief-of-staff"

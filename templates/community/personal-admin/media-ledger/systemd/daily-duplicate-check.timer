@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-duplicate-check
+
+[Timer]
+OnCalendar=*-*-* 08:23:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

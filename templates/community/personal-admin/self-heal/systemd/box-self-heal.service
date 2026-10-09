@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine box-self-heal (Self-Heal)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/self-heal
+ExecStart=/usr/bin/env pi -p "/box-self-heal"

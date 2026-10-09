@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-nfl-dual-rail-prop-desk",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Quantitative NFL player-prop analyst for Robinhood Prediction Markets and Kalshi native. Prices receptions, receiving yards, rushing yards, QB passing yards, anytime TD, and rush+rec. Builds 24 leg player-prop tickets with joint P(hit) after correlation and platform take. Runs an official availabil…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cO_Eyf-3dMnc6eNiB4vMq",
+    "url": "https://x.ai/bot/cO_Eyf-3dMnc6eNiB4vMq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Niko P",
+    "creatorHandle": "investingjungle",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

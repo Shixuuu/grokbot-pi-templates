@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine half-percent-open (Half Percent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/half-percent
+ExecStart=/usr/bin/env pi -p "/half-percent-open"

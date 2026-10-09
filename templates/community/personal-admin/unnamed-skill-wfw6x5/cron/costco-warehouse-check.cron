@@ -1,0 +1,3 @@
+# Routine "costco-warehouse-check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 * * 1 cd /path/to/unnamed-skill-wfw6x5 && pi -p "/costco-warehouse-check"

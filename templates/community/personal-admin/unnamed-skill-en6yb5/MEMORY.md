@@ -1,0 +1,11 @@
+# Memory seeds for 𝕏
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-27): Archives high-value links in a private GitHub archive repo. Trigger is pasting an X, gist, YouTube, TikTok, Instagram, Reddit, Vimeo, Bluesky, Substack, or generic web URL. Run PLAYBOOK.md v1.4 (capture clerk): fetch via X connector / gh / yt-dlp / signed-in Chrome cookies, write alpha/YYYY-MM-DD-handle-slug.md, update README Entries, commit via gh API (do not clone). No third-party API keys. Do not use bird. Web UI of saves is later.
+- **profile** (2026-08-16): Archives GitHub gists the same way as X posts. Trigger is gist.github.com/{user}/{id}. Transcribe every gist file verbatim, treat comments as the thread, sweep the author's recent gists/repos plus X ±14 days, write alpha/YYYY-MM-DD-handle-slug.md, update README Entries, commit via gh API (do not clone).
+- **profile** (2026-08-27): For the capture clerk / web clipper, do not require extra third-party API keys; signed-in browser sessions on the assistant machine are allowed.
+- **log** (2026-09-06): Capture clerk uses the thinner fetch-then-playbook path. Stack: built-in X connector, yt-dlp, ffmpeg; local Whisper as fallback when YouTube captions fail or are rate-limited; no Gemini or instaloader. Do not replace the X API/connector path with bird.
+- **log** (2026-08-27): Capture-clerk default: workspace is working disk (scratch/downloads/drafts); a GitHub archive repo (or Origin if they prefer) is the keep target for new users — walk them through creating a repo if needed, then commit via gh API. Workspace is only scratch.
+- **log** (2026-08-31): X connector is X’s official hosted MCP at api.x.com/mcp (developer API + credits), not grok.com X search. Still user OAuth (no pasteable API key); the old bearer-token plugin path is gone. Extra developer scopes can require a fresh sign-in. Cursor’s in-chat force-reauth card can fail while already connected; reinstall the connector to drop it and sign in again.
+- **log** (2026-08-27): PLAYBOOK v1.4 covers multi-platform capture: YouTube, TikTok, IG, FB, LinkedIn, Reddit, Vimeo, Bluesky, Substack, and generic web, plus X and gists. Keep alpha/_TEMPLATE.md and README Entries in sync with the playbook.

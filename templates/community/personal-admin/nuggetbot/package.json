@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-nuggetbot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turn podcasts into social quote graphics and carousels with ContentDrips. Paste an episode, pick nuggets, drop a template ID.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ia1zuEzDtPNyzFQ6o6F9x",
+    "url": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Usama Khalid",
+    "creatorHandle": "im_usamakhalid",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

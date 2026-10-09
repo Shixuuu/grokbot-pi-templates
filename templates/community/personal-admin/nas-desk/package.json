@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-nas-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Operator for your Ugreen NAS: storage, backups, Docker, and quiet health — nothing destructive without a yes. Get the box from powered-on to household-used (shares, Plex/Jellyfin/Audiobookshelf) and keep it that way over SSH.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2WORXc-tiWkdWFW-BqeIV",
+    "url": "https://x.ai/bot/2WORXc-tiWkdWFW-BqeIV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Loungeless",
+    "creatorHandle": "Loungeless",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

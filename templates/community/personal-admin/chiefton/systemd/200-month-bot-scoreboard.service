@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 200-month-bot-scoreboard (Chiefton)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chiefton
+ExecStart=/usr/bin/env pi -p "/200-month-bot-scoreboard"

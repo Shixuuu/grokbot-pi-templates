@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-gate-changer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Status match coach for frequent flyers. Maps match vs challenge paths, packs proof, tracks deadlines — so you can change airlines without losing elite perks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qn-76v-lwoq74yvaqyhmt",
+    "url": "https://x.ai/bot/qn-76v-lwoq74yvaqyhmt",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Chris Baird",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

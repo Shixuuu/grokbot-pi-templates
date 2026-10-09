@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hazelnut-guy",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Usage guide for @hazelnut/core — the agent-first Deno backend. Helps with Quickstart, defineResource, MCP/agent door, authz, and ops (doctor, verify, migrate). Routes by question type; cites the official handbook.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8ESqqm3pGG-rS2zP-jcoT",
+    "url": "https://x.ai/bot/8ESqqm3pGG-rS2zP-jcoT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Conan",
+    "creatorHandle": "conanhazelnut",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

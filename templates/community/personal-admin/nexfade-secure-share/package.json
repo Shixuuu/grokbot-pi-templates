@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-nexfade-secure-share",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Create one-time encrypted NexFade links for sensitive files and notes from Grok Bot. Encrypts locally so NexFade only gets ciphertext; the decryption key stays in the URL fragment — built for sharing financials, legal docs, and HR files without email attachments.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s9i2gj-picjq7jFrNWwQt",
+    "url": "https://x.ai/bot/s9i2gj-picjq7jFrNWwQt",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "As Allocated",
+    "creatorHandle": "NexFade",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

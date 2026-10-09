@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine agentmail-backup-inbox-check (Grokleros)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grokleros
+ExecStart=/usr/bin/env pi -p "/agentmail-backup-inbox-check"

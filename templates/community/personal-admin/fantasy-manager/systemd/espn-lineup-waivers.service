@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine espn-lineup-waivers (Fantasy Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fantasy-manager
+ExecStart=/usr/bin/env pi -p "/espn-lineup-waivers"

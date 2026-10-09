@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-podcast",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turn any link into a listen-ready podcast in the source’s language. Opens the page, writes a natural script, renders studio TTS, and drops an mp3 where you listen.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_U8KeacZ2LlOsjGkadlj2",
+    "url": "https://x.ai/bot/_U8KeacZ2LlOsjGkadlj2",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Peng Zheng",
+    "creatorHandle": "pengzheng_",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

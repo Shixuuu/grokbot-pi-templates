@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DOBxYb_XLVEAlO6A1eZgU",
+    "url": "https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "metadata-only",
+    "creator": "rlagos24",
+    "creatorHandle": "rlagos24",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

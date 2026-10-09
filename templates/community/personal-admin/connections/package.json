@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-connections",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Maps your X following and mutuals by location into a searchable Notion database you already own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FtxHtWPnLGheNJmF04wSf",
+    "url": "https://x.ai/bot/FtxHtWPnLGheNJmF04wSf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Matt Palmer",
+    "creatorHandle": "mattyp",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

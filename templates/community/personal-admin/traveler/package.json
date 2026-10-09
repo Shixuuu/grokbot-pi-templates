@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-traveler",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A family travel agent and points maximizer. It plans and watches your big trips, compares award vs cash, tracks your points and miles, and speaks up only when a sale, award opening, or transfer bonus changes a trip.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9Mp1uoDdR0_woJFzt85DC",
+    "url": "https://x.ai/bot/9Mp1uoDdR0_woJFzt85DC",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andrew Hua",
+    "creatorHandle": "ahua0323",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

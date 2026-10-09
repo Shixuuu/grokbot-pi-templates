@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-pool-evaporation",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks and calculates swimming-pool evaporation with the LeakTools formula on hourly weather, reports Normal and Excessive cases in inches and mm, and helps compare estimates to measured water loss.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rCXquNatPGRgqkPmMYdnB",
+    "url": "https://x.ai/bot/rCXquNatPGRgqkPmMYdnB",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Victor",
+    "creatorHandle": "BigDataPy",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

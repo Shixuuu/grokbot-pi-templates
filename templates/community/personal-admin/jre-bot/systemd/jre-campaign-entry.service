@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine jre-campaign-entry (JREキャンペーンbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/jre-bot
+ExecStart=/usr/bin/env pi -p "/jre-campaign-entry"

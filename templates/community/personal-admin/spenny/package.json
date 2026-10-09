@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-spenny",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps research comfort purchases, pick the best products, and spread them across a manageable budget.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2yc0hretcje-xwxmo-4-m",
+    "url": "https://x.ai/bot/2yc0hretcje-xwxmo-4-m",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Wagmoo Winterhoof",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

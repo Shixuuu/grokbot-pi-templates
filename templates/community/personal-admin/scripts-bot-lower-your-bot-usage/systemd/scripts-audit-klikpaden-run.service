@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine scripts-audit-klikpaden-run (Scripts bot: lower your bot usage)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/scripts-bot-lower-your-bot-usage
+ExecStart=/usr/bin/env pi -p "/scripts-audit-klikpaden-run"

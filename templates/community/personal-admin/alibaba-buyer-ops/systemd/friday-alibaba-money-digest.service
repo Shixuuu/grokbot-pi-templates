@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-alibaba-money-digest (Alibaba Buyer Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/alibaba-buyer-ops
+ExecStart=/usr/bin/env pi -p "/friday-alibaba-money-digest"

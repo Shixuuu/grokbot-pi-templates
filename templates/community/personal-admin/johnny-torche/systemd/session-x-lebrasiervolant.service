@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine session-x-lebrasiervolant (Johnny — Torche)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/johnny-torche
+ExecStart=/usr/bin/env pi -p "/session-x-lebrasiervolant"

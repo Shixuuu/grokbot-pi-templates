@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-cleaner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Nightly cleanup of RAM, disk space, and old regenerable files on your connected computers. It always checks first that nothing is still in use before deleting.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mhKuHm7fVTt2G4Tx16qsc",
+    "url": "https://x.ai/bot/mhKuHm7fVTt2G4Tx16qsc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joshua_Krg",
+    "creatorHandle": "JoshuaKCrypto",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

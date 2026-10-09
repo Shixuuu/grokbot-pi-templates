@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-village-cybercab-site",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Ships a local brand coming-soon website end to end: page, hosting, custom domain DNS, and HTTPS. Built around getting Village CyberCab live at villagecybercab.com without a Pro coding setup.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rU3GOi1gac2hISqM1gROw",
+    "url": "https://x.ai/bot/rU3GOi1gac2hISqM1gROw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mark Barrey",
+    "creatorHandle": "VillageCyberCab",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

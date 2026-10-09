@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-indexx",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Personal media wiki for Instagram Saved: local archive, cloud transcription, tags + facets, and a cited wiki. Keeps media on your computer; the shareable bot ships skills + conventions, never your video files.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Vn8tnMK2GyiFmnWNoF0gT",
+    "url": "https://x.ai/bot/Vn8tnMK2GyiFmnWNoF0gT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kevin Rose",
+    "creatorHandle": "kevinrose",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

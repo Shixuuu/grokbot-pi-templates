@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine amazon-cart-and-arrivals
+
+[Timer]
+OnCalendar=*-*-* 08:38:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

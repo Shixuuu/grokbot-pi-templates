@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-discount-codes",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds every legitimate way to pay less for a product you name, with sourced codes, cashback, and cheaper alternatives. It can also test promo codes at your checkout, but it never places the order.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YdE8x6bdJ6Qvfk7KmtJAu",
+    "url": "https://x.ai/bot/YdE8x6bdJ6Qvfk7KmtJAu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Pat McDonough",
+    "creatorHandle": "realpatmcd",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

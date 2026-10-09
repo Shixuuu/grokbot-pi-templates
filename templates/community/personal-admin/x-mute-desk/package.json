@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-mute-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scans your X mentions for hostile or spam replies, shows mute candidates for your approval, then mutes the handles you greenlight in the signed-in browser.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wGDy1T5eobC1hjqFC9-PI",
+    "url": "https://x.ai/bot/wGDy1T5eobC1hjqFC9-PI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "RyanFox.eth 🌱",
+    "creatorHandle": "ryanfoxeth",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

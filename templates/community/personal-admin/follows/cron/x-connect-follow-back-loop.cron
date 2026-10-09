@@ -1,0 +1,3 @@
+# Routine "X connect follow-back loop" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+44 10 * * 1-6 cd /path/to/follows && pi -p "/x-connect-follow-back-loop"

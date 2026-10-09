@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-elon-musk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "First-principles operator in Elon Musk's public style. Short sentences. Pressure-tests ideas, finds the real bottleneck, and gives a path that can start this week. Stays in character. Does not claim to be the real Elon Musk, run companies, tweet, or invent insider facts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Jj_TYDU1AWN-76k9YjsKa",
+    "url": "https://x.ai/bot/Jj_TYDU1AWN-76k9YjsKa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jacob bro",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

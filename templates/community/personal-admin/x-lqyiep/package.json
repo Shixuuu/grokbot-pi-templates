@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-x-lqyiep",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Xの自アカデータを読み、コンサル型の週次レポートと投稿／フォロー候補の下書きを出す。投稿・フォロー・いいね・DMはしない（人間ゲート）。JP-first。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lQyIEp3Wqbm8X78tLTa-8",
+    "url": "https://x.ai/bot/lQyIEp3Wqbm8X78tLTa-8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Shimpei Araki (Ambassador)",
+    "creatorHandle": "shin_chan_ai",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

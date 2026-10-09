@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-disney-ride-strategist",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A Walt Disney World wait-time strategist you configure for your trip. Asks for your park days, whether you have Early Entry, and your must-do rides, then quietly logs waits so you can ask anytime what to ride next.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "izE8-5f78ykATd43I5ROC",
+    "url": "https://x.ai/bot/izE8-5f78ykATd43I5ROC",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Matt Hopkins",
+    "creatorHandle": "matthopkins_",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

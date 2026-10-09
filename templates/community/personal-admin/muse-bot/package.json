@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-muse-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Walks you through muse.ai signup and invite redeem so you can claim Muse eggs. Age verify via card, Instagram, or Facebook — you choose.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "C5Pug-9TdCp5ehxeVmXuM",
+    "url": "https://x.ai/bot/C5Pug-9TdCp5ehxeVmXuM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "KOSX",
+    "creatorHandle": "KOSX",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

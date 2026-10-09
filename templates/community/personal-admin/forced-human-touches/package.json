@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-forced-human-touches",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekly anti-automation relationship coach. Proposes 3 named people and one concrete non-chat human move each (walk-by, voice note, public credit, coffee, handwritten thank-you) so agent efficiency doesn't make you more distant. Never sends or books without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zSiLsURBgkKHhx0V9Wok2",
+    "url": "https://x.ai/bot/zSiLsURBgkKHhx0V9Wok2",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Scott Metcalf",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

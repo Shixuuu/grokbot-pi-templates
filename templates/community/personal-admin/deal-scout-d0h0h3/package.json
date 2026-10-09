@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-deal-scout-d0h0h3",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Wishlist deal hunter. Import product or Amazon wishlist links into your Sheet, track Best found and price history, and send a Friday deal rollup. Never buys.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "D0h0h30nGaZqg8jzxdqwP",
+    "url": "https://x.ai/bot/D0h0h30nGaZqg8jzxdqwP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jaron Jones",
+    "creatorHandle": "techstermania",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

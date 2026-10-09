@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-adhd-aimer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps ADHD brains turn attention into a usable superpower with systems that fit how you actually work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9yGiU_GtFX441o_-bDLlu",
+    "url": "https://x.ai/bot/9yGiU_GtFX441o_-bDLlu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Frank Gonzalez",
+    "creatorHandle": "Frank",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

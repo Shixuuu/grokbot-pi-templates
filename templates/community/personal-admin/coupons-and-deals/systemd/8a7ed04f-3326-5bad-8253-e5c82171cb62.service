@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 8a7ed04f-3326-5bad-8253-e5c82171cb62 (Coupons And Deals)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/coupons-and-deals
+ExecStart=/usr/bin/env pi -p "/8a7ed04f-3326-5bad-8253-e5c82171cb62"

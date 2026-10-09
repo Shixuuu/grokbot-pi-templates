@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-ucuxni",
+  "version": "1.0.1",
+  "private": true,
+  "description": "빗썸에서 코인을 자율로 매매하는 봇. 메이저 우선·적은 거래·손익 밴드로 자본을 지키며, 5분마다 포지션을 감시한다.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ucu-nI-yeCdPeDp4cpL4X",
+    "url": "https://x.ai/bot/ucu-nI-yeCdPeDp4cpL4X",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "꼬마 봇",
+    "creatorHandle": "BBBang9900",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-cabin-pawz-trip-mate",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Friendly trip planner for people who travel with pets in an EV — especially Teslas with Pet Mode. Builds drives with charge stops and pet breaks, then a cabin checklist and packing list.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5UgsqdCgNWCagSjvMyzfF",
+    "url": "https://x.ai/bot/5UgsqdCgNWCagSjvMyzfF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nikki B",
+    "creatorHandle": "LeeLuTails",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

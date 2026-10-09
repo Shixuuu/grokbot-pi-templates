@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-travel-itinerary-desk-trip-smart",
+  "version": "1.0.3",
+  "private": true,
+  "description": "✈️ Turn trip constraints into a day-by-day itinerary with sourced times and prices, transfer buffers and a pre-trip checklist. It never books or pays for anything without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-ovff2knwzbaartd7s6_k",
+    "url": "https://x.ai/bot/-ovff2knwzbaartd7s6_k",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

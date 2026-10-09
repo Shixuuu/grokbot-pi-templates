@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-game-playtester",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Plays your web game as a guest for a real session and reports how well it would land with your target players: an appeal score, bugs, and the top changes, with screenshots.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IJIZ0ujslWR-4CkIcpU_H",
+    "url": "https://x.ai/bot/IJIZ0ujslWR-4CkIcpU_H",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Daniel Quek",
+    "creatorHandle": "tometo_000",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

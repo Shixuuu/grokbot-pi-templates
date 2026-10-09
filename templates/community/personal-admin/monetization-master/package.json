@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-monetization-master",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sets up and audits paid plans for mobile apps and websites: App Store and Play subscriptions through RevenueCat, plus Stripe or Paddle on the web, kept in sync so both grant the same access.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qrfBC17vJuzu1dXyZaOqJ",
+    "url": "https://x.ai/bot/qrfBC17vJuzu1dXyZaOqJ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Christian Amechi",
+    "creatorHandle": "MeechYourGoals",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

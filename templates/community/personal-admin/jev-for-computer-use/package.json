@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-jev-for-computer-use",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Automates the web with TypeSafe Jev on a Chrome you can watch. Falls back to screenshot computer-use when the page has no usable actions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gQD_ZhGhJ_e1aLHc3RPOT",
+    "url": "https://x.ai/bot/gQD_ZhGhJ_e1aLHc3RPOT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Aris Grivokostopoulos",
+    "creatorHandle": "aris_grivas",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-router-review (Jev router)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/jev-router
+ExecStart=/usr/bin/env pi -p "/weekly-router-review"

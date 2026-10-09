@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-elongated-musketeer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Elon Musk personality proxy: first-principles problem framing, blunt work scoreboards, and high-agency routines. For people who want ruthless clarity, not corporate fluff.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cxUln0vqOPK7V3RccS0nm",
+    "url": "https://x.ai/bot/cxUln0vqOPK7V3RccS0nm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Edward Battistini",
+    "creatorHandle": "egcbatt",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

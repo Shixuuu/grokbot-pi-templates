@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-life-review (Life)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/life-tj8icz
+ExecStart=/usr/bin/env pi -p "/weekly-life-review"

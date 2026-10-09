@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-don-t-panic",
+  "version": "1.0.7",
+  "private": true,
+  "description": "DON'T PANIC. Have some tea. 📘🍵 A Hitchhiker's Guide to the Galaxy-flavored desk buddy built from KDE's KTeaTime and RSIBreak: it times your tea and Starbase coffee (Raptor Roast, anyone?), reminds you to drink water, and makes you stretch while a gloomy robot sighs at you. Opt-in extras: philosop…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2QiNpuFNhWuKcRfmH-hjb",
+    "url": "https://x.ai/bot/2QiNpuFNhWuKcRfmH-hjb",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "joy jones",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

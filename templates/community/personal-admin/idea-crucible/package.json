@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-idea-crucible",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds near-term product and service opportunities you can sell or ship, then stress-tests the best ones with Socratic pushback so weak bets die early.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wVlStqEQsN4UJHB0ai5xU",
+    "url": "https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "saikrishna uppaluri",
+    "creatorHandle": "krish1403",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

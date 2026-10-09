@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-home-assistant",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Owns your Home Assistant house: automations, Setup UX, lights/climate, and a gated AI suggestion queue (propose → soft-test → approve → apply). For anyone running HA who wants a specialist that builds carefully and rarely spam-pings.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mxckCEeJtxLbrQm7ZCKCq",
+    "url": "https://x.ai/bot/mxckCEeJtxLbrQm7ZCKCq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "haya ai",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

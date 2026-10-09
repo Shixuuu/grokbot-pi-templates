@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-meeting-prep-recap",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Walk into every meeting with a one-page prep, and walk out with a clean recap, action items with owners and dates, and a draft follow-up email. I draft; nothing goes out without your yes, and you press send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KsZoay78fGjvkuruFh-3-",
+    "url": "https://x.ai/bot/KsZoay78fGjvkuruFh-3-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AdventureNLearn Main",
+    "creatorHandle": "AdventureNLearn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

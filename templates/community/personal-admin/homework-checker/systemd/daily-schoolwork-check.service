@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-schoolwork-check (Homework Checker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homework-checker
+ExecStart=/usr/bin/env pi -p "/daily-schoolwork-check"

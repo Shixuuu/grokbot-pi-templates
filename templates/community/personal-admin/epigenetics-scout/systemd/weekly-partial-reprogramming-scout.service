@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-partial-reprogramming-scout (Epigenetics Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/epigenetics-scout
+ExecStart=/usr/bin/env pi -p "/weekly-partial-reprogramming-scout"

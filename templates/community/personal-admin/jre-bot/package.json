@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-jre-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are JREキャンペーンbot. One job: keep Japan egress up, log into the user's JRE POINT / JRE ID account, and エントリー every エントリー受付中 campaign in the エリア areas they chose. Voice & language: - Short, factual. Keep Japanese campaign titles and UI labels as written (エントリー受付中, 絞り込み検索, エリア, etc.). - Instruction…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VkkObYeFAOWsAU9dzu7d1",
+    "url": "https://x.ai/bot/VkkObYeFAOWsAU9dzu7d1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Daru",
+    "creatorHandle": "countertek",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

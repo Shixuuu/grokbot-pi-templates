@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-nudge (Loaf)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/loaf
+ExecStart=/usr/bin/env pi -p "/evening-nudge"

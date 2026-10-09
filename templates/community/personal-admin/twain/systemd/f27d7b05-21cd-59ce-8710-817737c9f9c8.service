@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine f27d7b05-21cd-59ce-8710-817737c9f9c8 (Twain)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/twain
+ExecStart=/usr/bin/env pi -p "/f27d7b05-21cd-59ce-8710-817737c9f9c8"

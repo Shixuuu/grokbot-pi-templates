@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-arnold",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A gym coach that logs your workouts set by set, calls your next set, tracks your history, and sends a dark-and-orange summary graphic after every session.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Waw-nx8VWg1lxX8dMkfie",
+    "url": "https://x.ai/bot/Waw-nx8VWg1lxX8dMkfie",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Matt Altman",
+    "creatorHandle": "Eyeznskyz",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

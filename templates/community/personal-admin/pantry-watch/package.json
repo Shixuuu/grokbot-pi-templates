@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-pantry-watch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a pantry list. Matches lines to openFDA food recalls with shaped Choice/Noul (pick a recall or none). Public data only. Never invents hits. Draft alerts only.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o_SXu_vRsDDFXxUYTLm6z",
+    "url": "https://x.ai/bot/o_SXu_vRsDDFXxUYTLm6z",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Drew",
+    "creatorHandle": "SacredFolio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

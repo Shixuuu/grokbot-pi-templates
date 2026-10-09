@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-fantasy-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A fantasy football assistant for ESPN leagues. Twice a week it suggests start/sit calls and waiver pickups for each of your teams, and it answers lineup questions whenever you ask. It never changes your lineup or claims players for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7IwivP0nZscnafCxkhpuC",
+    "url": "https://x.ai/bot/7IwivP0nZscnafCxkhpuC",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Arshia",
+    "activeVersion": 1,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

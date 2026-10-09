@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-home-front",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tracks a veteran's VA.gov appointments, claims, and benefits, and flags ID.me-style deals the household actually qualifies for. Runs alone: reads VA.gov and the veteran's mail, hands over the login screen when needed, never files a claim or buys.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eREHCFAQlq8jS3P6bnNSL",
+    "url": "https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Diego Aguirre",
+    "creatorHandle": "Diego_F_Aguirre",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

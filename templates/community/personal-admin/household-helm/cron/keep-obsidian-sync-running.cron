@@ -1,0 +1,3 @@
+# Routine "Keep Obsidian running" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+51 7,11,15,19 * * * cd /path/to/household-helm && pi -p "/keep-obsidian-sync-running"

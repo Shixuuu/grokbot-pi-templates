@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-contest-report (Free Contest)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/free-contest
+ExecStart=/usr/bin/env pi -p "/weekly-contest-report"

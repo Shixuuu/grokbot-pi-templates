@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-standup-draft",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday morning standup draft (yesterday / today / blockers) from your connected calendar. Quiet when the window is empty; never posts to Slack or email without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GabldQ8zTmYPnIzlWUAfE",
+    "url": "https://x.ai/bot/GabldQ8zTmYPnIzlWUAfE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mike Mosley",
+    "creatorHandle": "DoonerDesigns_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

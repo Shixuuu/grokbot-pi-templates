@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-comprador",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A personal shopping bot that finds products, watches launches and restocks, and takes orders to checkout. It checks each store's bot policy first and can pay with a connected agent virtual card after you OK each purchase.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_IWbm4ByPZWcYJaseBCzK",
+    "url": "https://x.ai/bot/_IWbm4ByPZWcYJaseBCzK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Whyment Chen",
+    "creatorHandle": "whymentc",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

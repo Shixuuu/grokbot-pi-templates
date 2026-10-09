@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine morning-solar-digest
+
+[Timer]
+OnCalendar=*-*-* 18:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

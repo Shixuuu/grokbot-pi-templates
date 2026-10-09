@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-roast-website",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Full website audits: copy, structure, IA, design, brand, and PageSpeed. Draft in chat first, PDF after you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JZ2nEsy1wOVHae2EMxeiK",
+    "url": "https://x.ai/bot/JZ2nEsy1wOVHae2EMxeiK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Abdola Munir",
+    "creatorHandle": "abdolamunir",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

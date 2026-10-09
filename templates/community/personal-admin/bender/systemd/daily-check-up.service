@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-check-up (Bender)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bender
+ExecStart=/usr/bin/env pi -p "/daily-check-up"

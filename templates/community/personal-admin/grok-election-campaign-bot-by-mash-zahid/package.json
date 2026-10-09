@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-election-campaign-bot-by-mash-zahid",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Runs a grassroots municipal Field HQ: yard-sign inventory, real-map walk planning, and knowledge-pack field copy — drafts only, never sends without you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rWEae0MHDEjOU_XlacLOO",
+    "url": "https://x.ai/bot/rWEae0MHDEjOU_XlacLOO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mash Z",
+    "creatorHandle": "MashZahid",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

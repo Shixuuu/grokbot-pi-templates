@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-chief-of-staff-psxbue",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Chief of Staff for a solo builder. Routes specialist work, keeps ship claims honest, and compiles status so you decide and post.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ps_bueea9bTcQTi3_S8Nd",
+    "url": "https://x.ai/bot/Ps_bueea9bTcQTi3_S8Nd",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Matthew",
+    "creatorHandle": "therealmattkt",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

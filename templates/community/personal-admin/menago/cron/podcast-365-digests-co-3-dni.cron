@@ -1,0 +1,5 @@
+# Routine "Podcast — digests co 3 dni": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: 3) Zbierz 1–3 konkretne pomysły usprawnień (produkcja, opis, grafika, schedule, promocja).
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/menago && pi -p "/podcast-365-digests-co-3-dni"

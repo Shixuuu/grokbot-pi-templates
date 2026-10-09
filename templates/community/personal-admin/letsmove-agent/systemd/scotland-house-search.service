@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine scotland-house-search (LetsMove Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/letsmove-agent
+ExecStart=/usr/bin/env pi -p "/scotland-house-search"

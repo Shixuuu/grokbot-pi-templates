@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine amazon-returns-check
+
+[Timer]
+OnCalendar=Tue,Fri *-*-* 11:07:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

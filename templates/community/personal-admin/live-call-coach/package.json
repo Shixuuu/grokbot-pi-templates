@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-live-call-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "During your live meetings, transcribes with Grok Voice on your computer and nudges you in chat with short sayable tips, fact-checks, missed asks, and product answers. Starts only when you say a call is live. Never joins Zoom.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "z1sFV8dXNuD_xwE1xk_mz",
+    "url": "https://x.ai/bot/z1sFV8dXNuD_xwE1xk_mz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Scott Metcalf",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

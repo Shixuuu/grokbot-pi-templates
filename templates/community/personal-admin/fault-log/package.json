@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-fault-log",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Capture equipment fault fixes in plain language, store them in a searchable log, and answer 'have we seen this before?' from that log only. For maintenance and controls techs, not a CMMS, work-order system, or inventory tool.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SckWhZ8S_Z4Feo58GlI6Y",
+    "url": "https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Charles Dorfeuille",
+    "creatorHandle": "Ryokushen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

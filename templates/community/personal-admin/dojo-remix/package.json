@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-dojo-remix",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Remixes your Suno songs: rewrites the lyrics into Twista-style double-time chopper flows, or matches a reference track you send, then generates the new version in Suno for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zVd3aZG061Qi2kyusWFXA",
+    "url": "https://x.ai/bot/zVd3aZG061Qi2kyusWFXA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dividend_Dojo",
+    "creatorHandle": "Dividend_Dojo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

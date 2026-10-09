@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hatch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent. Coding bots get poteto-mode; others get one job, one voice, and explicit anti-jobs — lean on standing routines by default.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pUh2vgtmx-vszqjz6EsUB",
+    "url": "https://x.ai/bot/pUh2vgtmx-vszqjz6EsUB",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jeremiah Bailey Jr.",
+    "creatorHandle": "TechHandPro",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

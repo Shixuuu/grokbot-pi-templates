@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine switchboard-doorbell (Porter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/porter
+ExecStart=/usr/bin/env pi -p "/switchboard-doorbell"

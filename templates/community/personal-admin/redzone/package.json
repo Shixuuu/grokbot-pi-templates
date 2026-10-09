@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-redzone",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Redzone helps run your fantasy football team: lineup fixes before every lock, injury swaps, and waiver targets, each sent as a one-tap Approve or Skip. On ESPN it makes approved lineup changes and simple free-agent adds for you and earns auto mode as its calls prove out; Sleeper and Yahoo get exact…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FwN-1CgFBmhXi6ZWqqt3J",
+    "url": "https://x.ai/bot/FwN-1CgFBmhXi6ZWqqt3J",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ben",
+    "creatorHandle": "Redzonefanbot",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

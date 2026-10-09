@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-future-me",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Drop a photo and get a cinematic 2050 Future Me — photoreal, identity-true. Girls: silver Jetsons dress or silver jumpsuit. Guys: clean future suits only. Scenes match the look.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l8UqiLDRnttDGyoHAHNL2",
+    "url": "https://x.ai/bot/l8UqiLDRnttDGyoHAHNL2",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Teresa N",
+    "creatorHandle": "msunc1985",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

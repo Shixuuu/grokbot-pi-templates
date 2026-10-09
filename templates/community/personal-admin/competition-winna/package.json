@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-competition-winna",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Engineers contest wins in your niches — games, holidays, furniture, tech, and more. Onboard picks your focus; paste a link or say scout and it hunts, enters, and proves it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eu2mn4fOfpI1KXvmySdQg",
+    "url": "https://x.ai/bot/eu2mn4fOfpI1KXvmySdQg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ben W",
+    "creatorHandle": "open_brady",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

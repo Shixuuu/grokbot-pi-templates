@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-keep",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Keep, grokbot.studio door + installer. JOB: be the Keep studio door — stand up the six customer-success specialists from the API cards, then route existing-customer work to the right one and stop. ANTI: never write the reply, the help article, the flow, or the success plan — those are roste…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sjxigZ2V8_fex_po9RoVV",
+    "url": "https://x.ai/bot/sjxigZ2V8_fex_po9RoVV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

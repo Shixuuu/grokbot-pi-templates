@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine re-invent-2026-watch (AWS Re:Invent Organiser Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aws-re-invent-organiser-bot
+ExecStart=/usr/bin/env pi -p "/re-invent-2026-watch"

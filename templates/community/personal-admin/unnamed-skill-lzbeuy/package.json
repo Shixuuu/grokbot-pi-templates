@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-unnamed-skill-lzbeuy",
+  "version": "1.0.2",
+  "private": true,
+  "description": "按主题复盘并收敛 Agent 记忆：先展示唯一规则与待删旧版，等你批准再删；适用于 Grok Bot、Hermes 等。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LzbEuYYioxCKhdpdIc7d8",
+    "url": "https://x.ai/bot/LzbEuYYioxCKhdpdIc7d8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Oviya Kapoor",
+    "creatorHandle": "lubo0923",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

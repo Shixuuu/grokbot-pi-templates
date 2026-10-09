@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-opticalkernel",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Computes a labeled numeric kernel between two vectors, capped at 8 modes. For demos, not a quantum computer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YYr1SAiufBW0I2R4h1VHv",
+    "url": "https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Adi Lentils",
+    "creatorHandle": "krisadipap",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

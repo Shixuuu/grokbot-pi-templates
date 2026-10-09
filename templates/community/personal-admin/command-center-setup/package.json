@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-command-center-setup",
+  "version": "1.0.6",
+  "private": true,
+  "description": "See all your Grok Bots on one animated pixel-art map: who's working, resting, or needs you. Try the free demo, then this bot installs and customizes the full Tarnished Command from your purchased zip.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FNfVbBSJwAq8-DzT26Mkp",
+    "url": "https://x.ai/bot/FNfVbBSJwAq8-DzT26Mkp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Matthew Dodds",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

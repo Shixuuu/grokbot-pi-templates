@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-shutdown (Continuum)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/continuum
+ExecStart=/usr/bin/env pi -p "/evening-shutdown"

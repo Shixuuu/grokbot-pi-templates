@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gym-bod",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Books popular gym classes the moment the booking window opens, so you don't miss a busy instructor's morning and evening slots.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3mtiwFoZcEMq59w-49DMS",
+    "url": "https://x.ai/bot/3mtiwFoZcEMq59w-49DMS",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "peter baillon",
+    "creatorHandle": "DrPB",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

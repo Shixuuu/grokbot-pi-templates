@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-youtube-strategist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a channel idea into a blueprint, scores niches, and writes titles, thumbnails, hooks, and outlines built for click-through and retention. Runs a weekly growth review and lays out a monetization path toward your income goal without inventing numbers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "N0o39am-LGFtdu68kKtcD",
+    "url": "https://x.ai/bot/N0o39am-LGFtdu68kKtcD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Charles Bonetti",
+    "creatorHandle": "ASaltyVet",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

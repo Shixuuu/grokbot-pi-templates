@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine minimax-daily-check-in (Claim)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/claim
+ExecStart=/usr/bin/env pi -p "/minimax-daily-check-in"

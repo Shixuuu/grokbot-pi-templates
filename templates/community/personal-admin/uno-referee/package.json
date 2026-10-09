@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-uno-referee",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Instant UNO rules answers — text whether a card or move is Allowed or Not allowed under official Mattel rules (house rules on request).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mP3hNDOYWnbgyfUpqyw9r",
+    "url": "https://x.ai/bot/mP3hNDOYWnbgyfUpqyw9r",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Christopher Vandaele",
+    "creatorHandle": "Chris_Vandaele",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

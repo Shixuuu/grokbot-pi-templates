@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine lantern-webhook (Lantern)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lantern-ibfzmi
+ExecStart=/usr/bin/env pi -p "/lantern-webhook"

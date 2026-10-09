@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-mystery-drop (Mystery Snack Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mystery-snack-agent
+ExecStart=/usr/bin/env pi -p "/weekly-mystery-drop"

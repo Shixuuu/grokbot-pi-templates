@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine inbox-watch (McKondo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mckondo
+ExecStart=/usr/bin/env pi -p "/inbox-watch"

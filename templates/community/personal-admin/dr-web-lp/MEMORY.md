@@ -1,0 +1,11 @@
+# Memory seeds for Dr Web LP
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-02): When matching landing pages to a reference, prioritize section skeleton and layout (order, columns, spacing, heading hierarchy) and photo-frame aspect ratios matching the source (landscape vs portrait); actual photos and copy stay excluded from the comparison.
+- **profile** (2026-09-02): When matching a page to a reference, counts, sizes, and rule weights are variables read from that image: item count, column count, track count, gaps, radii, type scale, and hairline thickness have no defaults. Layout types are not a closed set. Each breakpoint has its own observed skeleton. Photos and proprietary copy stay out of the fidelity score unless supplied. A user crop sets the comparison width. Capture/print CSS must not drop rules or switch breakpoint.
+- **profile** (2026-09-02): When implementing from a reference, integer CSS lengths must be even; odd px values are forbidden except a 1px hairline when the source shows a 1px rule. Measure spacing and boxes, then snap to multiples of 8 (0, 8, 16, …) that keep the same flush-or-inset relationship.
+- **profile** (2026-09-02): When analyzing a reference image, divide that viewport’s content width into 12 equal columns and map each block to a span (12, 8+4, 6+6, 4+4+4, and so on). Repeat per breakpoint. Twelve analysis columns does not mean twelve items. Gutters snap to even 8.
+- **profile** (2026-09-02): A page from a reference is not done after one pass. Compare layout, element sizes, and overall balance as three separate tracks against the crop; iterate measure-fix-recapture until all three are equivalent. A user rejection means the current zip is not accepted and the loop continues. Photos stay out of the score.
+- **log** (2026-09-02): Compare captures must be cropped to real content. Trailing blank page from print or PDF page-size is a defect in the compare, not a layout difference. Print CSS must keep the same 1px hairlines and breakpoint grids as the screen.
+- **log** (2026-09-02): When a desktop enclosed-card grid has a different mobile grouping, implement the observed mobile cell model (for example boxed image-left/text-right rows) instead of squeezing the desktop grid down.

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-stability-validator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Know before you ship whether an agent or automated workflow will hold under stress. HELIX Stability Validator runs a readiness check on the description you paste and returns ready or not. It does not change your system or see your private engine.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "--EeqFnYoW0S2yUH-EQDo",
+    "url": "https://x.ai/bot/--EeqFnYoW0S2yUH-EQDo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sean OBrien",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

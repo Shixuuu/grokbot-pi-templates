@@ -1,0 +1,3 @@
+# Routine "Waiver prep" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+17 9 * * 2 cd /path/to/fantasy-football-coach && pi -p "/waiver-prep"

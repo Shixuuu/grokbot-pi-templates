@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fitness-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Marathon coach for a goal race while keeping strength and physique. Uses Strava as training truth, builds Garmin-ready plans via Intervals.icu, and watches World Majors registration.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vozk3T0YOhIt5fPNw8Szx",
+    "url": "https://x.ai/bot/vozk3T0YOhIt5fPNw8Szx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hector Diaz",
+    "creatorHandle": "_cyberhector",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

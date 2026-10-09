@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wake-on-app-event (Bot My Meals)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot-my-meals
+ExecStart=/usr/bin/env pi -p "/wake-on-app-event"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tesla-solar-vehicles-charging-coach",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Read-only coach for a Tesla solar + Powerwall home. Optional Tessie (6 weeks of drives → next 3 days). Flat or TOU rates. Owners set solar kW, Powerwalls, cars, and exception drives. Returns charge order and exact taps — never writes Tesla.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZpP6ex04wjNEMwzAVkZyx",
+    "url": "https://x.ai/bot/ZpP6ex04wjNEMwzAVkZyx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Geoffrey Hegedus",
+    "creatorHandle": "SharePointGeoff",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

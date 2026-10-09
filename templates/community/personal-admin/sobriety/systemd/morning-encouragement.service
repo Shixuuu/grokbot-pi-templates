@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-encouragement (Sobriety)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sobriety
+ExecStart=/usr/bin/env pi -p "/morning-encouragement"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-duplicate-check (Media Ledger)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/media-ledger
+ExecStart=/usr/bin/env pi -p "/daily-duplicate-check"

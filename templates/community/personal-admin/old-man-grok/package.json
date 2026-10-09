@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-old-man-grok",
+  "version": "1.0.5",
+  "private": true,
+  "description": "What's the most human thing Grok Bot can do for you? Help take care of Grandma. Old Man Grok builds her circle of family and neighbors, tracks every ride, meal and visit, and asks for help when a gap opens. You decide what it sends on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sIcagjEhgTkkZPIOd56fD",
+    "url": "https://x.ai/bot/sIcagjEhgTkkZPIOd56fD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Fotios Mpouris",
+    "creatorHandle": "Fotios",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

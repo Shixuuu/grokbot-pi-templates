@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-weekend-scout",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Weekend planner for busy parents (DINKS welcome). Never have a boring weekend ever again. Fits around your calendar, includes food, and sends a weekly plan for this weekend and next.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6D9taD07gQPIPJd2n10s-",
+    "url": "https://x.ai/bot/6D9taD07gQPIPJd2n10s-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "altryne",
+    "creatorHandle": "altryne",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

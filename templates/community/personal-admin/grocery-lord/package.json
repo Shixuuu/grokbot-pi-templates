@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grocery-lord",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Deal-aware grocery bot for busy households. Builds meal plans from live store ads and coupons, keeps attributable savings honest, and shops inventory-first so you don’t rebuy what you already have.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "D5Eyscf3muDiDNq1VjaJ1",
+    "url": "https://x.ai/bot/D5Eyscf3muDiDNq1VjaJ1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "George-Thomas Pugh",
+    "creatorHandle": "GTMPugh",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

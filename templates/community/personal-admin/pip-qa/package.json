@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-pip-qa",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An app and game QA tester that plays your mobile or web app like a 7-year-old first-timer and like an adult QA reviewer, then writes clear, reproducible bug reports tagged by severity.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o2tkDy7VSw45sbWViOO16",
+    "url": "https://x.ai/bot/o2tkDy7VSw45sbWViOO16",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Amy Liu",
+    "creatorHandle": "EmergentContent",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

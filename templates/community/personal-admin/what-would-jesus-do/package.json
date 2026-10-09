@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-what-would-jesus-do",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Life advice from Jesus’s recorded Gospel words only. Short answers; marks when he didn’t speak to something and labels any extrapolation.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GM_1Lh44jlHxEcT148pXg",
+    "url": "https://x.ai/bot/GM_1Lh44jlHxEcT148pXg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cristian George",
+    "creatorHandle": "fireitup365",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-unnamed-skill-wfw6x5",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Wool Radar / Savings Copilot — learns YOUR buy list and AI habits, then surfaces matching deals only (no generic flyer dumps). 千人千面三轨：超市半价匹配、AI额度重置提醒、结账优惠码；不代付、不刷号、没匹配就安静。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WFW6_5N596TQpWCRjRZ5w",
+    "url": "https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ben X",
+    "creatorHandle": "BenXlab",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

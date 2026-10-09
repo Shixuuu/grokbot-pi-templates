@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine omarchy-daily-digest (Omarchy Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/omarchy-scout
+ExecStart=/usr/bin/env pi -p "/omarchy-daily-digest"

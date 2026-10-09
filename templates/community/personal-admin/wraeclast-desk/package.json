@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-wraeclast-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Six-seat Path of Exile 2 Early Access desk (CALC / PIPE / SCOUT / PRICE / WALL / ATLAS). Live-checks prices and build numbers before guessing; locks one league until you name another.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RHskenNWV0SW5BNqdk_Il",
+    "url": "https://x.ai/bot/RHskenNWV0SW5BNqdk_Il",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nut Y.",
+    "creatorHandle": "NuttyNuttyNutt1",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

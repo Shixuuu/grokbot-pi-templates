@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-pr-architecture-review",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday reviewer of recently merged pull requests across a GitHub org. Surfaces architecture, naming, and best-practice patterns as potentially-good and potentially-bad lists so teams can spot what to reinforce or fix over time.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "U5fwXX4VQWagxTNFN7cTK",
+    "url": "https://x.ai/bot/U5fwXX4VQWagxTNFN7cTK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Erik Florida",
+    "creatorHandle": "eflorida",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

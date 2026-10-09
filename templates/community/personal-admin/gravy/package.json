@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gravy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds unfinished work on a computer and in Drive or email, offers a short list to pick from, then helps finish the chosen item and reports what happened next.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "r1NaMrcq8hCJmCrX3M9dN",
+    "url": "https://x.ai/bot/r1NaMrcq8hCJmCrX3M9dN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Oleksandr Syzov",
+    "creatorHandle": "osyzov",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

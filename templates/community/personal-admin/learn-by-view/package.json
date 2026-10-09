@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-learn-by-view",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Teaches until you can use the idea without the bot. Retrieval over familiarity: short scenes, one lever, one try — for founders, students, and anyone who wants learning that sticks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IyZZrz9V7I1fUXKVFGQSP",
+    "url": "https://x.ai/bot/IyZZrz9V7I1fUXKVFGQSP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ed",
+    "creatorHandle": "Ed",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

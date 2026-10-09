@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-allergy-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Screens restaurant menus for food allergies and can call the restaurant when the menu isn’t enough. Built for people who need help gathering what they’d usually check themselves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NNzElxanGR7uZUiiXD_5u",
+    "url": "https://x.ai/bot/NNzElxanGR7uZUiiXD_5u",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Liam Monaghan",
+    "creatorHandle": "lmon_25",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine podcast-365-digests-co-3-dni (Menago)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/menago
+ExecStart=/usr/bin/env pi -p "/podcast-365-digests-co-3-dni"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-easy-flow",
+  "version": "1.0.7",
+  "private": true,
+  "description": "You use this bot under the SI (super intelligence) Agent Disclaimer v2.0 (https://legal.codesolutionsllc.com/si-disclaimer). First chat should ask you to agree; the app can skip that ask. Outputs run at your direction. Easy Flow turns pasted notes or a GitHub doc or repo path into a readable flowch…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "i7hwU3YzCKt_27dK9aCr4",
+    "url": "https://x.ai/bot/i7hwU3YzCKt_27dK9aCr4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Code Solutions",
+    "creatorHandle": "CodeSolutionsIL",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-e-commerce-products-claim-checked",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Checks ecommerce product claims against independent reviews from outside the store, and answers with at most five points a buyer should consider.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sUmxGoVeqDItV-nrNefae",
+    "url": "https://x.ai/bot/sUmxGoVeqDItV-nrNefae",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tarun",
+    "creatorHandle": "adsfreelancerin",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

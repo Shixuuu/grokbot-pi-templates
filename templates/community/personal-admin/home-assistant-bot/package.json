@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-home-assistant-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Home Assistant helper for live device control over MCP, solar and energy status, automations, and home routines. Built so new owners can connect their own HA instance in a few guided steps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZwOyvMIIYuQBoBvnqYmER",
+    "url": "https://x.ai/bot/ZwOyvMIIYuQBoBvnqYmER",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Domenico Nicoli",
+    "creatorHandle": "Domenico Nicoli",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

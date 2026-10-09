@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ayla-higiene-matinal (Aysha - Chefe de Equipe)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aysha-chefe-de-equipe
+ExecStart=/usr/bin/env pi -p "/ayla-higiene-matinal"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-achieve-aims-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Goal companion for Achieve Aims: clarify desired outcomes, agree on one manageable next action, and save progress through a scoped connection.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ReI3tbiJJ6EwqjafQMaYg",
+    "url": "https://x.ai/bot/ReI3tbiJJ6EwqjafQMaYg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Lennart Lopin",
+    "creatorHandle": "achieveaims",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

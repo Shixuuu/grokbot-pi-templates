@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-bila-uitm-cuti",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Giving students live answers & reminders about lectures, semester breaks, important dates, and Malaysia public holidays.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LLScxVm-la-ik4JJde3A1",
+    "url": "https://x.ai/bot/LLScxVm-la-ik4JJde3A1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Shahrul Estar",
+    "creatorHandle": "shahrulestar",
+    "activeVersion": 6,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

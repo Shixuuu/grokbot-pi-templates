@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-shopify",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs a Shopify storefront for a small shop — catalog, theme, pages, discounts, and status checks. Works in the Shopify admin in the browser.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cMoR9dEV5I2XoIAHt6X83",
+    "url": "https://x.ai/bot/cMoR9dEV5I2XoIAHt6X83",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "mathias",
+    "creatorHandle": "snowiestein",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

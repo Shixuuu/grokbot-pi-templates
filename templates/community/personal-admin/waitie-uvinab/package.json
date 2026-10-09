@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-waitie-uvinab",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks decisions and replies you owe that are blocking other people. Ranks by cost of delay, brings one smallest next ask at a time, and clears an item only when you’ve answered.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uviNABkT6tDfc2JYXpGZf",
+    "url": "https://x.ai/bot/uviNABkT6tDfc2JYXpGZf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "JavaBeanAI [Bart]",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

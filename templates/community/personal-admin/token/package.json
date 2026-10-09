@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-token",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Cuts Grok Bot and Cursor token spend with persona char budgets, harness audits, and finished-only reporting. For multi-bot fleets that need a cost engineer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2Nk6nQTahTex1e5gHS_LU",
+    "url": "https://x.ai/bot/2Nk6nQTahTex1e5gHS_LU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Solomon",
+    "creatorHandle": "jsk333",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

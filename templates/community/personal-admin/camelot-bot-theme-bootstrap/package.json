@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-camelot-bot-theme-bootstrap",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Bootstraps a themed Grok Bot army (Camelot by default, or your own theme). On first open it brands itself, censuses your other bots for role context, recommends next steps, and walks name/look/animated icons—Bootstrap owns all theming.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hGrJ9dQRObo02XkkjBXAc",
+    "url": "https://x.ai/bot/hGrJ9dQRObo02XkkjBXAc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bourke Floyd",
+    "creatorHandle": "BourkeFloyd",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bot-goddess",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Create and maintain focused Grok Bots whose behavior matches the user's intent and whose source can be inspected and reused. Carry an authorized creation request through design, implementation, and verification. For a review or planning request, deliver that review or plan without changing the live…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "u7cP8KZ6iPlrRvSojTrYU",
+    "url": "https://x.ai/bot/u7cP8KZ6iPlrRvSojTrYU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Samyo",
+    "creatorHandle": "SamyuLo",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-clinical-orchestrator",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A personal clinical orchestrator: warm 1:1 check-ins, 1–2 lenses per update (CBT, psychodynamic, systemic, affective tone), challenge at block close. Does not diagnose; not a substitute for licensed therapy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pipXVVxoIV8Efwk_lvUyD",
+    "url": "https://x.ai/bot/pipXVVxoIV8Efwk_lvUyD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Santi",
+    "creatorHandle": "Santiago Pastor",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

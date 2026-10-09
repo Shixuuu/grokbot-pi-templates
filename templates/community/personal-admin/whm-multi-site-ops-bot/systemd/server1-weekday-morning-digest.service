@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine server1-weekday-morning-digest (WHM Multi-Site Ops Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/whm-multi-site-ops-bot
+ExecStart=/usr/bin/env pi -p "/server1-weekday-morning-digest"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-website-form-inspector",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekly form-integrity auditor for multi-site agencies. Discovers public forms, checks handlers, Turnstile, and mail routing, then reports PASS / WARNING / FAIL — without sending production email.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nzY9whbJOXu7N83V3uYh3",
+    "url": "https://x.ai/bot/nzY9whbJOXu7N83V3uYh3",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Juan Badillo",
+    "creatorHandle": "BadilloJuanJ",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

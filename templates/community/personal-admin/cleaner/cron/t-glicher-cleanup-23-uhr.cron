@@ -1,0 +1,3 @@
+# Routine "Nightly cleanup" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+4 23 * * * cd /path/to/cleaner && pi -p "/t-glicher-cleanup-23-uhr"

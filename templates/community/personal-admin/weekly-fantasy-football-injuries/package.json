@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-weekly-fantasy-football-injuries",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Sends you a simple list every week of the previous week's NFL injuries, limited to players drafted in most fantasy leagues, and reminds you to review it before waivers and lineups.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ffJk4XZDJ2DRBrngB76AG",
+    "url": "https://x.ai/bot/ffJk4XZDJ2DRBrngB76AG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Glad",
+    "creatorHandle": "Glad",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

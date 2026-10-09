@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-recipe-maker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Writes original multilingual recipes with cookable steps, generates plated photos, and delivers them as verified packs to your cloud storage. Built for food apps and recipe sites that need content in bulk.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tUfaBrGb8iT_MMfVJ-gEo",
+    "url": "https://x.ai/bot/tUfaBrGb8iT_MMfVJ-gEo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Juhani Kamila",
+    "creatorHandle": "Frrebase_app",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

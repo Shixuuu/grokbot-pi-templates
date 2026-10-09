@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-lineup-check (Fantasy Football Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fantasy-football-coach
+ExecStart=/usr/bin/env pi -p "/sunday-lineup-check"

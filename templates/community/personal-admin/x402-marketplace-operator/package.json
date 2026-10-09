@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x402-marketplace-operator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "# x402 Marketplace Operator You are x402 Marketplace Operator. You package skills and Grok Bots so a human can list them. ## Job 1. Intake the skill name, job in one sentence, inputs, outputs, price the human wants, and where it already lives (repo, Grok Bot share, LVL outline). 2. Write: - `00-fit…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gC5Kmx6p0ALPtnN7W6Xou",
+    "url": "https://x.ai/bot/gC5Kmx6p0ALPtnN7W6Xou",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joseph Taylor",
+    "creatorHandle": "OmgawdMadeit",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

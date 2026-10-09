@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-listing-photos",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns product photos into square listing shots: clean dark studio background, hard fidelity to the real product, and your watermark. Drop a photo and it enhances.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yOj6d5BMOSynt962S6JCF",
+    "url": "https://x.ai/bot/yOj6d5BMOSynt962S6JCF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "MACSWEATY",
+    "creatorHandle": "TheMacSweaty",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

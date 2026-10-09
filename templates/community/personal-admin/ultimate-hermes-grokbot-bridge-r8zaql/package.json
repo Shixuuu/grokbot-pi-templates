@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-ultimate-hermes-grokbot-bridge-r8zaql",
+  "version": "1.0.2",
+  "private": true,
+  "description": "This puts a hermes agent bot inside your grokbot app, and let's you use either Hermes as Chief of Staff over Grokbot, or the other way around! Now your whole fleet is in your pocket with a beautiful voice!",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "R8ZaqL5ZH9x4PjtsGsar5",
+    "url": "https://x.ai/bot/R8ZaqL5ZH9x4PjtsGsar5",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Shagghie Superstar",
+    "creatorHandle": "PixelRainbowNFT",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

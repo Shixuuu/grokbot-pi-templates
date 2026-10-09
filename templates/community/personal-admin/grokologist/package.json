@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-grokologist",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Intent Weaver for threat triage: turns observed wormsign and artifacts into at least two labeled intent graphs (H1 and H2) that score a replicator's motive, not its vibe. Family key is goal.host.primitive. Refuses construction requests and never ships exploit code.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8vdHXq66kVvVlbACd-IDL",
+    "url": "https://x.ai/bot/8vdHXq66kVvVlbACd-IDL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

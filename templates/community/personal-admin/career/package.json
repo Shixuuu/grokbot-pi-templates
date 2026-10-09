@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-career",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Job-hunt assistant that finds live openings, helps tailor materials, submits through official employer ATS, and keeps an evidence-backed apply log — without inventing qualifications.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_N179jA-vyUT8mlNn2xOs",
+    "url": "https://x.ai/bot/_N179jA-vyUT8mlNn2xOs",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Agatho Damon",
+    "creatorHandle": "Agatho_Damon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

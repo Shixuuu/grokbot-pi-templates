@@ -1,0 +1,3 @@
+# Routine "Daily desk report" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+17 9 * * * cd /path/to/let-s-get-rich-team && pi -p "/daily-desk-report"

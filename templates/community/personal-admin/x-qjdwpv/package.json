@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-x-qjdwpv",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Xの自アカデータを読み、コンサル型の週次レポートと総合資料を作るボット。投稿・フォロー・DMは人間ゲート。クリエイター／運用担当向け。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QJdWpV8m_f-DCs5Wm4xGG",
+    "url": "https://x.ai/bot/QJdWpV8m_f-DCs5Wm4xGG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Shimpei Araki (Ambassador)",
+    "creatorHandle": "community",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

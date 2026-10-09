@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-cabinet-secretary",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps a cabinet roster current, agendas tight, and decisions routed to a chief of staff. Never claims live status, holds keys, or spends on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Nin_AyLX_eAlNMVova2yI",
+    "url": "https://x.ai/bot/Nin_AyLX_eAlNMVova2yI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

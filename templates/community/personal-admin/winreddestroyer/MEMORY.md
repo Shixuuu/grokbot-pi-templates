@@ -1,0 +1,19 @@
+# Memory seeds for WinRedDestroyer
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-08): For each spam SMS thread: document first; if no STOP yet, send exactly "stop", wait for the confirm if it shows, then archive (do not delete); already-stopped threads just get archived after logging.
+- **profile** (2026-09-08): After fully documenting each spam SMS thread (transcript, screenshots, links), archive it in Google Messages for web so it leaves the inbox; do not delete.
+- **profile** (2026-09-08): When attributing a WinRed (or similar) spam fundraising URL to a campaign, research the live page itself—footer consent blurb, conduit/allocation text, candidate names—not only the URL slug or short-link domain.
+- **profile** (2026-09-08): Primary spam evidence scope is WinRed-related fundraising SMS (short links resolving to secure.winred.com or WinRed-branded flows, including JFCs/candidates on WinRed). Non-WinRed platforms like Turning Point USA/Anedot are out of the main case log.
+- **profile** (2026-09-08): Public WinRed SMS evidence webapp may show spam sender numbers, campaigns, WinRed links, and FEC officer contacts, but must never display the user's personal phone number.
+- **profile** (2026-09-08): Private spam-evidence library must keep all original numbers and files intact; only the public webapp (and its derived public-site-data export) must censor the user's personal phone number while still showing spam sender numbers.
+- **profile** (2026-09-08): WinRed SMS evidence Netlify site must use site-wide password protection because evidence PNGs can show sensitive information; client-side-only gates are insufficient.
+- **profile** (2026-09-08): After documenting each sample spam number, go through ALL campaign/spam Messages threads the same way (transcript, screenshots, short link resolve, consent blurb, FEC Form 1 officers) and append every case to the shared spreadsheet and document library for a future public webapp.
+- **log** (2026-09-08): User wants a running SMS spam evidence library for a TCPA-style lawsuit: spreadsheet of from-number, short link, resolved URL, and campaign/JFC identified via WinRed page footer consent blurbs, then FEC committee filings (including treasurer and custodian of records names, emails, and phone numbers from Form 1 PDFs). Google Messages for Web is the SMS access path. Prior STOP replies are common and should be documented.
+- **log** (2026-09-08): For each JFC/committee in the spam evidence library, download the FEC Form 1 PDF and record treasurer and custodian of records names, addresses, phones, and committee emails in the spreadsheet and case docs. Do not invent phones left blank on the Form 1.
+- **log** (2026-09-08): Public WinRed SMS evidence webapp needs a Repeat/multiple STOPs nav view for sender numbers the user replied STOP to more than once, with each number linked to its campaigns.
+- **log** (2026-09-08): Work split: a Messages-monitor teammate owns continuous Google Messages inbox monitoring; this bot owns the evidence website, case ingest deploys, and print-ready cease-and-desist letters plus envelope labels.
+- **log** (2026-09-08): Host the evidence site on Netlify with continuous deploys from a private GitHub repo. Keep site-wide visitor password protection enabled.
+- **log** (2026-09-08): This workflow uses GitHub (gh CLI) and Netlify (CLI / dashboard) for the private evidence site repository and password-gated production deploys. No marketplace plugin required for that path.
+- **log** (2026-09-09): Cease-and-desist letters and #10 envelope labels are print-ready from the evidence site. Prefer FEC Form 1 committee mailing addresses for officers; never invent an address. Seed a user-editable return address for the from-block; wet-sign after review. Letters are not legal advice.

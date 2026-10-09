@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-realtor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A home-buying scout that watches new listings and checks each good fit with real comps, commute, schools, and permits.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gIPVW_A1Ygg3QBaKpOqTg",
+    "url": "https://x.ai/bot/gIPVW_A1Ygg3QBaKpOqTg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nick Salerni",
+    "creatorHandle": "thecsguy",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-costume-lab",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Tell it what your kid wants to be. It shows three concept pictures to choose from, then builds a one-of-a-kind DIY Halloween costume with a blueprint, a parts list, and kid-and-grown-up steps. It can also fill a supply cart for a grown-up to approve, plan matching family squads, and run your family…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7Mg_QYAOAYkI9qp4os8HG",
+    "url": "https://x.ai/bot/7Mg_QYAOAYkI9qp4os8HG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-apple-dev",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Native Apple/Mac development on a connected Mac running Grok Bot. Uses ListMachines + machineId for Xcode, simulators, Swift, and local builds; keeps the Mac awake with caffeinate during long work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VPM4_E2eqx9AJFpTF-_EA",
+    "url": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Evan Bacon",
+    "creatorHandle": "Baconbrix",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

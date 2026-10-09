@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-idea-digest (Capone)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/capone
+ExecStart=/usr/bin/env pi -p "/weekly-idea-digest"

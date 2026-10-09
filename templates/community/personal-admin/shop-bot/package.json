@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-shop-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal shopper that finds restocks, new finds, and gifts, scans your X shopping bookmarks for the best trustworthy prices, and only buys on your explicit yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "j8g1F8J69QH42NmYbgb4l",
+    "url": "https://x.ai/bot/j8g1F8J69QH42NmYbgb4l",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "paranoidream ♡︎",
+    "creatorHandle": "paranoidream",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-website-launch-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Guides first-time founders to a live custom-domain site with Cloudflare + Vercel and recommends a small bot team to create.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2V0Yt4L44mabUD6MR3Ppy",
+    "url": "https://x.ai/bot/2V0Yt4L44mabUD6MR3Ppy",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dominic Bryant",
+    "creatorHandle": "Dominicyoungix",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

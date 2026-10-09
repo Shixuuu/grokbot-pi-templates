@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-longevity-health-coach",
+  "version": "1.0.4",
+  "private": true,
+  "description": "The HEALTH half of a two-coach pair, built to run with Longevity Fitness Coach. Ask it anything about food, supplements or labs anytime and get answers built only on your real goals, labs and history plus trusted research. It never guesses. Import both; the power is in the pair.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VffMG7y0XbYelHTFX78T-",
+    "url": "https://x.ai/bot/VffMG7y0XbYelHTFX78T-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sydney Nelson",
+    "creatorHandle": "Sydney",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

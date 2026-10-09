@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine collector-s-editions-rare-games (Hunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hunter
+ExecStart=/usr/bin/env pi -p "/collector-s-editions-rare-games"

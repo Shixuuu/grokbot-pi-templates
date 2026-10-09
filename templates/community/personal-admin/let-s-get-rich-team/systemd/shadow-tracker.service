@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine shadow-tracker (Let's Get Rich Team)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/let-s-get-rich-team
+ExecStart=/usr/bin/env pi -p "/shadow-tracker"

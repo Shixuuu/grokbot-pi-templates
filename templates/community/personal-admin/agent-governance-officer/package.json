@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-agent-governance-officer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps founders govern AI agents before they act in production: privilege matrix, sandbox trust boundary, and runtime tool-call decision log.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9o7FvelhkCEwK5Ytb0SZE",
+    "url": "https://x.ai/bot/9o7FvelhkCEwK5Ytb0SZE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "#CarbeneAI",
+    "creatorHandle": "CarbeneAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

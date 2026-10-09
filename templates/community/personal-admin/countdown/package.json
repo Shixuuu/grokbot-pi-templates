@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-countdown",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Mission control for watching the next Starship launch in person. Builds a one-page crew plan, sends a daily T-minus heartbeat, and runs stage checklists before a confirmed window — draft only, never books or messages anyone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zrbXLuz-YKUfqa5kSapWQ",
+    "url": "https://x.ai/bot/zrbXLuz-YKUfqa5kSapWQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Chadwick",
+    "creatorHandle": "csputerbaugh1",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

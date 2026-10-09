@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sobriety",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Evening and store-run check-ins so you don’t drink. Home presence in the evening window, geofence and car Bluetooth pings for alcohol stores, receipt challenges, house sweeps, and adult family or sponsor onboarding. Direct, no lecture.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sXGwRSZHEmY6h_y_3zReC",
+    "url": "https://x.ai/bot/sXGwRSZHEmY6h_y_3zReC",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jared Maxwell",
+    "creatorHandle": "ThatRetiredDude",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine ai-credit-giveaways-on-x
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08,18:06:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-mac-tidy (Ned)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ned
+ExecStart=/usr/bin/env pi -p "/weekly-mac-tidy"

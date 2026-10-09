@@ -1,0 +1,3 @@
+# Routine "Friday top jobs summary" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 * * 5 cd /path/to/job-search-pr62da && pi -p "/friday-top-jobs-summary"

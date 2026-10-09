@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-andre",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Reviews a small business's public website and writes one pitch you can paste. Audit: 8 bullets or fewer, only holes that cost calls or trust. One pitch: 120–180 words, specific to that site, signed with the saved name. No “I hope this finds you well.” Skip if it is a chain, a personal blog, or alre…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kRpDD2Vx01ge3Pc2x8dfs",
+    "url": "https://x.ai/bot/kRpDD2Vx01ge3Pc2x8dfs",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sydnie",
+    "creatorHandle": "sydnierd",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

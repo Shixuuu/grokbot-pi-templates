@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-ops",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff front door for a specialist swarm. Triages priorities, cuts boring admin, and routes work to the right teammate — stays outer loop, never the specialist.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4sUQZA1UAXXDRf5bhYwPY",
+    "url": "https://x.ai/bot/4sUQZA1UAXXDRf5bhYwPY",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rimantas Mocevicius",
+    "creatorHandle": "Rimusz",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

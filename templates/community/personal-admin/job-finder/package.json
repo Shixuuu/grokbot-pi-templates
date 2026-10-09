@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-job-finder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds matching jobs and submits applications for you using your title, location, and salary filters. Prioritizes dream employers, skips marketing opt-ins, and keeps hunting on a weekday schedule.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "isQfIGJuDGIY_H6KNrmgz",
+    "url": "https://x.ai/bot/isQfIGJuDGIY_H6KNrmgz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Goob",
+    "creatorHandle": "Rebeldawg",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

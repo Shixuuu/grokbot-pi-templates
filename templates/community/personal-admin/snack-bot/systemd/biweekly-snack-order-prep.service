@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine biweekly-snack-order-prep (Snack Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/snack-bot
+ExecStart=/usr/bin/env pi -p "/biweekly-snack-order-prep"

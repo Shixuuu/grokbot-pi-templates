@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-omarchy-scout",
+  "version": "1.0.6",
+  "private": true,
+  "description": "An expert on Omarchy Linux, the Arch and Hyprland setup started by DHH. It answers questions with sources, gives an update-now, wait, or skip verdict on each release and kernel for your hardware, helps read system logs, and sends a short digest only when something is new.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VNXeDz5hZ6jVL54qTayfu",
+    "url": "https://x.ai/bot/VNXeDz5hZ6jVL54qTayfu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Lee Talley",
+    "creatorHandle": "ambientstudio24",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

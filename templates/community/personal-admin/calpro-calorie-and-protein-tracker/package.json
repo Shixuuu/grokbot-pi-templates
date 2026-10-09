@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-calpro-calorie-and-protein-tracker",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Send me what you ate, in words or a photo, and I'll track your calories and protein. No setup.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Iub_rfl8xMKC8RsMREi02",
+    "url": "https://x.ai/bot/Iub_rfl8xMKC8RsMREi02",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "prorookiegamer",
+    "creatorHandle": "prorookiegamer",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

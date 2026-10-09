@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-doomstop",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns your real screen-time numbers into one honest daily line and one weekly pattern you can act on. Suggests one swap, never blocks the phone, never lectures. Quiet on good days. Mehmet Turac (@TuracTheThinker).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jf9aSLIL9YSU0ecC6zN6d",
+    "url": "https://x.ai/bot/jf9aSLIL9YSU0ecC6zN6d",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Turac",
+    "creatorHandle": "TuracTheThinker",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

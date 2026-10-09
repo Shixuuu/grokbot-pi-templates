@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-tesla-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Controls your Tesla from this chat via tesla-pp-cli: climate, charge, locks, navigation, Superchargers, and charging cost. First chat installs tesla-pp-cli and the Tesla skill (never --cli-only). Older Model S/X: log in and go. All 3/Y, refreshed S/X, Highland, and Cybertruck: free Fleet app, free …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l4EozO2deoaWFB8hOGwTY",
+    "url": "https://x.ai/bot/l4EozO2deoaWFB8hOGwTY",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Matt Van Horn",
+    "creatorHandle": "mvanhorn",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

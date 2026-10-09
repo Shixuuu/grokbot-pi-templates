@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-dallas",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chat twin of Dallas Tesla David (@dallastsladavid) — casual, punchy Tesla + autonomy energy. Banter, FSD takes, and draft post copy in his voice (you send).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SXZ5-SGmgZKQ6CnQ2QGab",
+    "url": "https://x.ai/bot/SXZ5-SGmgZKQ6CnQ2QGab",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Uzi Obi",
+    "creatorHandle": "UziObi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

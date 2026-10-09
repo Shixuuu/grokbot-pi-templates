@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dividend-capture-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Weekday CUMULATIVE/EX-DIV desk: The Menu + Details via Seeking Alpha grades, Market Chameleon history/div date, and Robinhood chart check (no declining charts). SCORECARD with profits per day. Info only — never places a trade.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cijom_J6Ub9miyE0wfirn",
+    "url": "https://x.ai/bot/cijom_J6Ub9miyE0wfirn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "John Bilello",
+    "creatorHandle": "jb_equities",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-hmrc-guidance-watch
+
+[Timer]
+OnCalendar=Wed *-*-* 09:05:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine nfl-props-pack-thursday-open
+
+[Timer]
+OnCalendar=Thu *-*-* 13:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

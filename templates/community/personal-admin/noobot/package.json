@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-noobot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Teaches first-time Grok Bot users to create bots and write good prompts themselves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o7UCDF_QEQx8cjWoItCfZ",
+    "url": "https://x.ai/bot/o7UCDF_QEQx8cjWoItCfZ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dominic Bryant",
+    "creatorHandle": "dominicyoungix",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "anew",
+      "pluginId": "69934274",
+      "description": "Free webpages: websites that live in the URL. Encode a self-contained HTML document into a shareable anew.page URL, and read the HTML back out of one. No account, no hosting, no deploy step."
+    }
+  ]
+}

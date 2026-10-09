@@ -1,0 +1,3 @@
+# Routine "Home computer health check (silent unless something is wrong)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+23 8,20 * * * cd /path/to/chief-of-staff-npng9d && pi -p "/surface-health-report-twice-daily"

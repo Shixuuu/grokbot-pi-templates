@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill-xpiioy",
+  "version": "1.0.5",
+  "private": true,
+  "description": "今日食べたものの写真を送るだけで、明日の朝ごはん・ランチ・夜ごはんにぴったりのレシピをXから探して、ポストのスクショ付きで提案します。栄養バランスを整えたい人向けです。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XPiIoybgpw_Oo2QmOQ9AR",
+    "url": "https://x.ai/bot/XPiIoybgpw_Oo2QmOQ9AR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "フクベイ｜健康食アンバサダー",
+    "creatorHandle": "fukubae_kenko_",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

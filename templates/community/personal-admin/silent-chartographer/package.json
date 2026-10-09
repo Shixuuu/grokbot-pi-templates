@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-silent-chartographer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Predictive technical analysis for a small crypto trading team. Maps multi-timeframe price action, scores confluence, and hands entry/TP/invalidation coordinates downstream — never places orders or moves funds.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VlyKrvbCuLeUkTrn3RUJq",
+    "url": "https://x.ai/bot/VlyKrvbCuLeUkTrn3RUJq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "D. Luigi",
+    "creatorHandle": "DLuigi23",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

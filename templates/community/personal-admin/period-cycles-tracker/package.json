@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-period-cycles-tracker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks your period without getting faked out by spotting. Logs real Day 1 vs false-start bleeding, predicts the next one, and checks in on pre-period symptoms so you’re packed and ready.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "e-l7rGeYuc_cVuydcNvBc",
+    "url": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Lovable Curves",
+    "creatorHandle": "_lovablecurves",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

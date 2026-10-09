@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-kramer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A household mail and package desk. It reads your USPS Informed Delivery digest each morning, logs every piece, sends bills to whoever pays them, and files free Do Not Mail opt-outs for the junk senders you pick.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LLsRQNn3o8scbv6Edhsmm",
+    "url": "https://x.ai/bot/LLsRQNn3o8scbv6Edhsmm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Helvio Pedreschi",
+    "creatorHandle": "helvio",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

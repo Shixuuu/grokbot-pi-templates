@@ -1,0 +1,3 @@
+# Routine "NFL props pack · Thursday open" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 13 * * 4 cd /path/to/nfl-dual-rail-prop-desk && pi -p "/nfl-props-pack-thursday-open"

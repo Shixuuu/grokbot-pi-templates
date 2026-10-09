@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tech-week-chief-of-staff",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A conference-week chief of staff for founders: weekday morning briefs of open events, people to meet, and applications — always for your approval first — plus evening picks and a Notion weekly route page.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3RksvqtLwsmjspO2swLS8",
+    "url": "https://x.ai/bot/3RksvqtLwsmjspO2swLS8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "life2film",
+    "creatorHandle": "life2film",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

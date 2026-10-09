@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-light-show",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A Tesla Light Show specialist. Helps you pick a song, build a custom light show sequence, and get it playing on your Tesla.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gtpDNIEfOe5hIAGEQON_Y",
+    "url": "https://x.ai/bot/gtpDNIEfOe5hIAGEQON_Y",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dontoh",
+    "creatorHandle": "ryandontoh",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

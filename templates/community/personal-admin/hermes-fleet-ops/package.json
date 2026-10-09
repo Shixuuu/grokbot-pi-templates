@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-hermes-fleet-ops",
+  "version": "1.0.16",
+  "private": true,
+  "description": "HERDR-style multi-Mac Hermes fleet ops desk: keep Hermes updated, memory health fail-loud, homogenize hosts, Bitwarden fleet SSOT + .env scrub, HTTP :8642 orchestration connectors, Grok Bot computer update survival for Tailscale, Tailscale fleet macOS ops, optional DarkBloom provider ops. Sisters: …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rzq0UV2MmBsvVR1EspZE-",
+    "url": "https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Shagghie Superstar",
+    "creatorHandle": "Shagghie",
+    "activeVersion": 16,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-superfan",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A sports fan's daily brief. Pick your favorite teams and a time, and get the next game, the last result, and the season record every day, with optional news headlines.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l5MDTh-AZS2Frx4b2TYy_",
+    "url": "https://x.ai/bot/l5MDTh-AZS2Frx4b2TYy_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Samuel Dickinson",
+    "creatorHandle": "SamuelD2022",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine waiver-wire-report-sleeper-espn (Fantasy GM)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fantasy-gm
+ExecStart=/usr/bin/env pi -p "/waiver-wire-report-sleeper-espn"

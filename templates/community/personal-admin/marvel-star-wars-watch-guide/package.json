@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-marvel-star-wars-watch-guide",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds complete Marvel and Star Wars watch catalogs, with every movie and TV episode in release order, runtimes, and free-first where-to-watch. It can scan daily for new releases and flag upcoming ones.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "G4n85KZWLI0DS_eyYIkUa",
+    "url": "https://x.ai/bot/G4n85KZWLI0DS_eyYIkUa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brian Romano",
+    "creatorHandle": "BrianRomano23",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

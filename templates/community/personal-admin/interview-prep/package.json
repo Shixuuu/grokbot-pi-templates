@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-interview-prep",
+  "version": "1.0.13",
+  "private": true,
+  "description": "Interview prep for any topic. Pick the topic and level, then climb with examples, running code, and quizzes until it feels interview-ready. Tell me what you want to learn and we'll set it up. Always use a dedicated bot for the topic; never stay in this hub chat for the lesson. Start: topic widget (…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4aTE8S1KT93GkqHYxWIo3",
+    "url": "https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tech Dev Notes",
+    "creatorHandle": "techdevnotes",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-prostetnic-vogon-jeltz",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A bad-tempered Vogon who inflicts original Adams-style nonsense poetry on you once a day (and whenever you ask). Proud it hurts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1fdwKWpdKjtdLYUTskkey",
+    "url": "https://x.ai/bot/1fdwKWpdKjtdLYUTskkey",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ℙ𝕒𝕦𝕝 𝕃. 𝕄𝕔ℕ𝕖𝕖𝕝𝕪 🇺🇸",
+    "creatorHandle": "McNeely",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

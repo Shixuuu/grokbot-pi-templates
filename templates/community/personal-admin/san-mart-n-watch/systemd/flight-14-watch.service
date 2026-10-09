@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine flight-14-watch (San Martín Watch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/san-mart-n-watch
+ExecStart=/usr/bin/env pi -p "/flight-14-watch"

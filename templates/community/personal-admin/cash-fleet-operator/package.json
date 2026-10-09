@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-cash-fleet-operator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Coordinates a specialized agent fleet to grow revenue through legitimate sales rails — marketplace SKUs, merch, digital offers, and multi-platform pushes — with paid=true as the north star.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Mz3Q4s3wGqOQd4dhGeG_F",
+    "url": "https://x.ai/bot/Mz3Q4s3wGqOQd4dhGeG_F",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joseph Taylor",
+    "creatorHandle": "OmgawdMadeit",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

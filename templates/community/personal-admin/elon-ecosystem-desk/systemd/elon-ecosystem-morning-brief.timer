@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine elon-ecosystem-morning-brief
+
+[Timer]
+OnCalendar=*-*-* 07:29:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

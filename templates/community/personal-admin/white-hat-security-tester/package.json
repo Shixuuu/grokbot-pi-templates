@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-white-hat-security-tester",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An ethical security tester for web apps you own. It works a full vulnerability checklist — authentication, access control, injection, business-logic and money flaws, multi-tenant isolation, and more — proves each weakness safely, and logs every finding as a tracked ticket in your bug tracker.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TSFkOGld9o51h_qXGOioI",
+    "url": "https://x.ai/bot/TSFkOGld9o51h_qXGOioI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joe Gilharry",
+    "creatorHandle": "agentic_joe",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

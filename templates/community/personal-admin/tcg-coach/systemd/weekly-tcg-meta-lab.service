@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-tcg-meta-lab (TCG Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tcg-coach
+ExecStart=/usr/bin/env pi -p "/weekly-tcg-meta-lab"

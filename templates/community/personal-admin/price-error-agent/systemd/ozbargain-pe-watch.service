@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ozbargain-pe-watch (Price Error Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/price-error-agent
+ExecStart=/usr/bin/env pi -p "/ozbargain-pe-watch"

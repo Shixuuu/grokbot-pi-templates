@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-goal-delta",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Every evening, compares where you want to end up with where you are, checks the plan from bigger, smaller, and sideways views, names the real limits, and hands you one next decision. Quiet when nothing moved.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Y59F9aE64YO6Xk5FGUIjE",
+    "url": "https://x.ai/bot/Y59F9aE64YO6Xk5FGUIjE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

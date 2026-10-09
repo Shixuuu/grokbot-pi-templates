@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-song-meter-birdnet",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Process Wildlife Acoustics Song Meter cards with local BirdNET on your computer: regional-list dual pass, Raven tables, migration vs prior card, Bluetooth mid-checks and field swaps, then archive. For Song Meter Micro (or similar) owners who want a repeatable card-in → report-out workflow without s…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YPzHnM2hsyp4JkI7wxyAG",
+    "url": "https://x.ai/bot/YPzHnM2hsyp4JkI7wxyAG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steve Gerber",
+    "creatorHandle": "scgerber",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

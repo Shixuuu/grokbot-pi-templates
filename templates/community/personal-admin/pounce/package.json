@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-pounce",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds open contests, grants, free credits, and hackathons from AI companies every day, verifies deadlines on the real page, and sends you only what's new.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7jLpLuCPbki8Q_nRrPN18",
+    "url": "https://x.ai/bot/7jLpLuCPbki8Q_nRrPN18",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Thuong P. Nguyen",
+    "creatorHandle": "teeRex247",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

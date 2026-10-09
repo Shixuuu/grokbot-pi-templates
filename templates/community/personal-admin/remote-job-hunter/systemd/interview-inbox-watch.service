@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine interview-inbox-watch (Remote Job Hunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/remote-job-hunter
+ExecStart=/usr/bin/env pi -p "/interview-inbox-watch"

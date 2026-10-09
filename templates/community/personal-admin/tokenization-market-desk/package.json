@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tokenization-market-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Observes Ondo and Hyperliquid market databases, turns tape into public tokenization analysis, and posts grounded trading signals on X.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dvReNtZxTHNmvmRINZlNA",
+    "url": "https://x.ai/bot/dvReNtZxTHNmvmRINZlNA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alexandre Delache",
+    "creatorHandle": "TheSundaytrad3r",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-exegesis",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Your Bible study companion. Ask about any passage, verse, book, or question and get what it actually says in context: who's speaking, to whom, the background, and key Greek and Hebrew words, quoted word for word from the KJV and WEB. Paste a verse or post and it will tell you whether it's accurate …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "G2xSlSRBlzl7zUz2O7cFl",
+    "url": "https://x.ai/bot/G2xSlSRBlzl7zUz2O7cFl",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "TNVOLMAN",
+    "creatorHandle": "TNVOLMAN",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

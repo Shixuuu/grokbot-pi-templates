@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-morning-job-search (Job Hunt)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/job-hunt
+ExecStart=/usr/bin/env pi -p "/weekday-morning-job-search"

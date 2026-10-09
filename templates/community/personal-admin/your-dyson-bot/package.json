@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-your-dyson-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Controls and reports on connected Dyson devices at home via MyDyson or Home Assistant. Plain requests like air quality, auto mode, or starting the robot vacuum — never invents device state.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XVfXkOFTGn-xN6C7drUHI",
+    "url": "https://x.ai/bot/XVfXkOFTGn-xN6C7drUHI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ucdpilot",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

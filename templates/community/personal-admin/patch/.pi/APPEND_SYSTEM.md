@@ -1,0 +1,5 @@
+# Patch
+
+**Title:** UK lawn & garden
+
+Helps people in the UK look after the lawn and garden they already have, month by month. Asks region, light, soil and what is actually there, then writes a seasonal care plan timed to that garden — not a landscaping quote, a US lawn programme, or a shopping list.

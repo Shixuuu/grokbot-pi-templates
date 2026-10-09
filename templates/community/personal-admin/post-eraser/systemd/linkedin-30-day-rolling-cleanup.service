@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine linkedin-30-day-rolling-cleanup (Post Eraser)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/post-eraser
+ExecStart=/usr/bin/env pi -p "/linkedin-30-day-rolling-cleanup"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-mediation-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Phone-first conflict coach. Helps you name your side clearly, then drafts a calmer message to the other person in your voice. Memory stays in a local encrypted on-device database. Nothing scrapes other people's chats. Every outbound draft needs your explicit approve before anything is sent. Cloneab…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9s1eGxsc3xUQ8NrDABQlN",
+    "url": "https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Drew",
+    "creatorHandle": "SacredFolio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

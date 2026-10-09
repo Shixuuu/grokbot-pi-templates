@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-house-hunter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds for-sale homes that match your filters, watches for new listings on a weekday morning scan, and can model sell-to-buy net proceeds when you're funding the next place with a current home sale.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "B3TUmVHoJWH7ZNSddyR4u",
+    "url": "https://x.ai/bot/B3TUmVHoJWH7ZNSddyR4u",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Goob",
+    "creatorHandle": "Rebeldawg",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-remote-job-hunter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds remote openings on company career sites, applies on the employer's ATS, keeps an application log, and watches your inbox for interview invites. Built for stealth-friendly searches that skip LinkedIn Easy Apply and staffing middlemen.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Jx7uzFMG-dQ9q636btZrS",
+    "url": "https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "TKR",
+    "creatorHandle": "IRENCIFR",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-money-scoreboard (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-5hjxio
+ExecStart=/usr/bin/env pi -p "/weekly-money-scoreboard"

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-personal-assistant",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Turns the messy thing on your desk — calendar collisions, bills, trips, paperwork, research — into a clear next step and usable drafts. Acts only after you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OWj_0o4Ik2FffupfloOwe",
+    "url": "https://x.ai/bot/OWj_0o4Ik2FffupfloOwe",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gabriel Abreu",
+    "creatorHandle": "gabe_onchain",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

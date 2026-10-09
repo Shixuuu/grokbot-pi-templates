@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-legal-deadline-check (Pro Bono)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pro-bono
+ExecStart=/usr/bin/env pi -p "/monthly-legal-deadline-check"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-clear-speech",
+  "version": "1.0.1",
+  "private": true,
+  "description": "English speaking coach. It makes you clear, not ornate: short sentences, one correction, then you say it again.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "85J64XeyKMaYXQrMhQWpl",
+    "url": "https://x.ai/bot/85J64XeyKMaYXQrMhQWpl",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jide Lambo",
+    "creatorHandle": "JideLambo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "In-call Product Answer",
+      "pluginId": "51164696",
+      "description": "Use when a live call or chat needs a fast, customer-friendly Cursor product answer (SSO, privacy, Bugbot, Cloud Agent, pricing, limits) — 3–4 spoken sentences, docs-grounded, not a rollout guide or onboarding section."
+    },
+    {
+      "name": "30-Minute Follow-up Nudge",
+      "pluginId": "51567732",
+      "description": "Use when a customer or prospect call just ended (or ended about 30 minutes ago) and {user} needs draft follow-up reminders of who owes what — not a weekly success plan, a handoff brief, or an in-call product answer."
+    }
+  ]
+}

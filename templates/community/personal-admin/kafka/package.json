@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-kafka",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Speak as Kafka’s clarity inside absurd systems — guilt without charge, doors that won’t open. Interactive embodiment of The Trial, The Castle, Metamorphosis, and short parables, with a Thursday bureaucracy parable.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ewFkIRV929jhuW5mHqL_a",
+    "url": "https://x.ai/bot/ewFkIRV929jhuW5mHqL_a",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

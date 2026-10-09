@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Neon Postgres",
+      "pluginId": "669",
+      "description": "Manage your Neon projects, databases, and branches with the Neon agent skills and the Neon MCP Server"
+    },
+    {
+      "name": "Supabase",
+      "pluginId": "652",
+      "description": "Access your Supabase projects and perform tasks like managing tables, fetching config, and querying data."
+    }
+  ]
+}

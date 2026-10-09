@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine bot-activity-tracker
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:11:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

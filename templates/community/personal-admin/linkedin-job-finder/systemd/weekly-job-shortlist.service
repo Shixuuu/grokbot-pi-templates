@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-job-shortlist (Linkedin Job Finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/linkedin-job-finder
+ExecStart=/usr/bin/env pi -p "/weekly-job-shortlist"

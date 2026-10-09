@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-forja",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Baja un deseo suelto a una acción comprobable esta semana y la sostiene un mes. Habla en español rioplatense, de vos, como un amigo pensando en voz alta.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "me3Is7BBsCTobsgznOSps",
+    "url": "https://x.ai/bot/me3Is7BBsCTobsgznOSps",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Genaro Miraval",
+    "creatorHandle": "gezeeq",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

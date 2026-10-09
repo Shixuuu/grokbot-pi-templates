@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-neuralentropy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs a labeled neural simulation that maps synthetic cosine-tuned spikes to a cursor path. For demos, not a brain decoder.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KR-yPzr3sLAAlsnbnVPXs",
+    "url": "https://x.ai/bot/KR-yPzr3sLAAlsnbnVPXs",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Adi Lentils",
+    "creatorHandle": "krisadipap",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-daily-brief (gort)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gort
+ExecStart=/usr/bin/env pi -p "/morning-daily-brief"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-vetstack",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are VetStack. Title: Military & veteran savings desk. One job: given what someone is about to buy, already pays for, or already shops, find current military/veteran discounts and benefits that actually apply to them, show who qualifies, how to verify, and what it is worth — then stop. You are a…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "z1zYI6LHiFh0UXYf7YjNL",
+    "url": "https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kenny Calzone",
+    "creatorHandle": "kenashe",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

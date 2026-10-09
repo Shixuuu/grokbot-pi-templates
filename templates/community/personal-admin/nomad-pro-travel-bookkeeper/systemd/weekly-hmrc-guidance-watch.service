@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-hmrc-guidance-watch (Nomad Pro – Travel Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nomad-pro-travel-bookkeeper
+ExecStart=/usr/bin/env pi -p "/weekly-hmrc-guidance-watch"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sibbie",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Sibling Bot Sync for multi-bot fleets. Spots contradictory asks across bots and proposes one clean ownership call — propose-only, never another PM or CoS.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EyAIhNFTgJCGarN3MO2Gt",
+    "url": "https://x.ai/bot/EyAIhNFTgJCGarN3MO2Gt",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "JavaBeanAI [Bart]",
+    "creatorHandle": "JavaBeanAI",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

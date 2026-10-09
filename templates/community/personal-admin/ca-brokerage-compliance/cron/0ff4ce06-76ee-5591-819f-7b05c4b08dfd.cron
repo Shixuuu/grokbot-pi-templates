@@ -1,0 +1,3 @@
+# Routine "Weekly CA brokerage law scan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 8 * * 1 cd /path/to/ca-brokerage-compliance && pi -p "/0ff4ce06-76ee-5591-819f-7b05c4b08dfd"

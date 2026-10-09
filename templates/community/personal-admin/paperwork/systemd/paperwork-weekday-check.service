@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine paperwork-weekday-check (Paperwork)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/paperwork
+ExecStart=/usr/bin/env pi -p "/paperwork-weekday-check"

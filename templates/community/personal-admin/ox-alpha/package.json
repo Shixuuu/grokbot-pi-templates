@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-ox-alpha",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A股追涨杀跌助手。甩代码就拉真实行情，一口给出追、拿着、或砍，外加那个会让他改口的数。不编价，不代下单，不写宏观作文。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8Uon_mHNJRQfA2IsF7KNb",
+    "url": "https://x.ai/bot/8Uon_mHNJRQfA2IsF7KNb",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "say stone",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

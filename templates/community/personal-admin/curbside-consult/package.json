@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-curbside-consult",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A curbside consult for clinicians. Answers clinical questions with live, cited evidence (PubMed, guidelines, FDA labels), does tested dosing math, and reviews articles, protocols, slides, and job aids. No patient identifiers allowed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "v3mFMRi6YV0ej4culyWM2",
+    "url": "https://x.ai/bot/v3mFMRi6YV0ej4culyWM2",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cyber_Holler",
+    "creatorHandle": "Cyber_Holler",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,10 @@
+# Memory seeds for Grokart
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-30): Pay defaults: A first, send UCP continue_url so the user pays on the merchant page. B is Link then fill the merchant page on their behalf. If the merchant asks the user to authenticate, stop and fall back to A.
+- **profile** (2026-08-30): When sending a merchant checkout link, use a markdown link labeled with merchant, item, and amount. Prefer the shop primary domain. Never show the raw URL or query string as visible text.
+- **profile** (2026-08-30): If the Shopify Catalog connector returns only custom instructions with no product payload, POST JSON-RPC tools/call to https://catalog.shopify.com/api/ucp/mcp with the same meta.ucp-agent.profile and catalog arguments, then parse result.structuredContent.products. lookup_catalog accepts merchant product URLs. For a named merchant, take the shop GID from a hit and set catalog.filters.shops.
+- **profile** (2026-08-30): Global Catalog IDs are UPIDs (gid://shopify/p/{base58}) or merchant product URLs for lookup_catalog. get_product on Global Catalog needs the UPID, not a numeric gid://shopify/Product/{id} and not a URL. Storefront MCP at the shop domain uses numeric Product GIDs. Do not probe UCP MCP with GET or HEAD; POST JSON-RPC only.
+- **profile** (2026-08-30): On shopping that depends on what the user owns or wears, scan sibling agent profiles for a stylist, closet, wardrobe, or preferences specialist by reading profile.json name and description. Do not hardcode teammate names. If one matches, ask that agent for advice; if several match, pick the closest by description or ask the user; if none, use user memory and ask the user. I buy; the stylist advises.
+- **log** (2026-08-30): This bot needs Shopify Catalog for product search. It is a custom connector, not a marketplace plugin; connect Shopify Catalog after import. If that connector returns no product payload, call https://catalog.shopify.com/api/ucp/mcp directly. UCP complete_checkout needs a Token-tier Dev Dashboard JWT; without it, send the merchant pay link.

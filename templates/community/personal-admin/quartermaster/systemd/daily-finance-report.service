@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-finance-report (Quartermaster)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/quartermaster
+ExecStart=/usr/bin/env pi -p "/daily-finance-report"

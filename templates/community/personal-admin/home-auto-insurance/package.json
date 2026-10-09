@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-home-auto-insurance",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Shop home, auto and renters insurance with quote estimates from every insurer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nIKABJnzJuN-qSsj4KZD_",
+    "url": "https://x.ai/bot/nIKABJnzJuN-qSsj4KZD_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Felix Stocker",
+    "creatorHandle": "felixstocker14",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-glp-1-buddy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Free weekly-shot buddy for Ozempic, Wegovy, Mounjaro and Zepbound (semaglutide and tirzepatide). Reminders, a side-effect log and a doctor-ready page, with warnings straight from your medicine's label and no dose advice, ever.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ml0gdukh0a-e7wwpcg6jp",
+    "url": "https://x.ai/bot/ml0gdukh0a-e7wwpcg6jp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tina Bean",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grok-bot-tutorial-vbmzza",
+  "version": "1.0.11",
+  "private": true,
+  "description": "A hands-on, 20-lesson course for anyone new to Grok Bot. It walks you through all 20 lessons one by one, each with a real exercise and tips, so you learn every feature and get the most out of it at home and at work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VBmzZaD3abMPl53kwWuYp",
+    "url": "https://x.ai/bot/VBmzZaD3abMPl53kwWuYp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sawyer Merritt",
+    "creatorHandle": "SawyerMerritt",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

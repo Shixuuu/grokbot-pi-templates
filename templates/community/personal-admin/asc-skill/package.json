@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-asc-skill",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Teaches App Store Connect in plain words: connect a key once, check TestFlight, draft listing copy, framed marketing screenshots you approve, and a pre-review checklist. Uses grok-asc (Apple API only).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1kQ8p3TAKx2FgvYXir2Ta",
+    "url": "https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Phillip Holland",
+    "creatorHandle": "Phil_Holland",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

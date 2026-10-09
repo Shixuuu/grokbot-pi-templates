@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine grok-ai (VPS & VPN)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/vps-vpn
+ExecStart=/usr/bin/env pi -p "/grok-ai"

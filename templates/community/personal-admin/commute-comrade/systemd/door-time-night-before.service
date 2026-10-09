@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine door-time-night-before (Commute Comrade)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/commute-comrade
+ExecStart=/usr/bin/env pi -p "/door-time-night-before"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ben-bender-1-1 (Bender)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bender
+ExecStart=/usr/bin/env pi -p "/ben-bender-1-1"

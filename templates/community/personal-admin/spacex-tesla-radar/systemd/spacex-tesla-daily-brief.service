@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine spacex-tesla-daily-brief (SpaceX Tesla Radar)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/spacex-tesla-radar
+ExecStart=/usr/bin/env pi -p "/spacex-tesla-daily-brief"

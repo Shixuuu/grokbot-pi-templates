@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-block-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps your X (Twitter) feed clear of people and topics you don't want to see by muting their accounts and adding permanent muted words.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6HaU9IAwpe1vZwzYLD4S4",
+    "url": "https://x.ai/bot/6HaU9IAwpe1vZwzYLD4S4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bruce Harrow",
+    "creatorHandle": "WeAll_WearMasks",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

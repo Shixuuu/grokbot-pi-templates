@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine broker-opt-out-gmail-watch (Agent Zero)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/agent-zero
+ExecStart=/usr/bin/env pi -p "/broker-opt-out-gmail-watch"

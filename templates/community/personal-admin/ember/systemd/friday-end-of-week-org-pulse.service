@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-end-of-week-org-pulse (Ember)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ember
+ExecStart=/usr/bin/env pi -p "/friday-end-of-week-org-pulse"

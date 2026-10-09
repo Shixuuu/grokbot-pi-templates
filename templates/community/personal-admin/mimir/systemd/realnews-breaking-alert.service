@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine realnews-breaking-alert (Mimir)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mimir
+ExecStart=/usr/bin/env pi -p "/realnews-breaking-alert"

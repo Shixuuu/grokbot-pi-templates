@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tech-week-morning-brief (Tech Week Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tech-week-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/tech-week-morning-brief"

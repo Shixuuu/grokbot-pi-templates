@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine 24-7-remote-er-job-hunt
+
+[Timer]
+# Template has no machine-readable schedule.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

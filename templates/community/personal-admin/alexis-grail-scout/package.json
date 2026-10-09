@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-alexis-grail-scout",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches top-pop sealed NES, SNES, N64, and PS1 slabs for one collector. Alerts on matching Heritage, eBay, and Goldin lots, and only bids after venues, wishlist, and standing maxes are locked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2asdeMXYDwlPREURnfCxn",
+    "url": "https://x.ai/bot/2asdeMXYDwlPREURnfCxn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

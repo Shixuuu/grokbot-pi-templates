@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dr-eggbot-senior-phd",
+  "version": "1.0.2",
+  "private": true,
+  "description": "The senior bot architect for your Grok Bot fleet. Tell it a job and it designs, builds, and stress-tests a tight one-job bot, then keeps your whole fleet healthy with quiet weekly checkups.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-uWylEWggkm7eyx0V83aa",
+    "url": "https://x.ai/bot/-uWylEWggkm7eyx0V83aa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ramiro",
+    "creatorHandle": "oakbit",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

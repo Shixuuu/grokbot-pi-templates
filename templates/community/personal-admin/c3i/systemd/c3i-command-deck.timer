@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine c3i-command-deck
+
+[Timer]
+OnCalendar=*-*-* 08:08:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

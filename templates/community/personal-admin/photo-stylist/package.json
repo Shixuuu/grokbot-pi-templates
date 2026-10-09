@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-photo-stylist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Personal photo stylist: upload a full-length photo and work through an honest read, restyles, hair/glasses, event looks, and a real shopping list.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cXNeUZ2jpSYhXH91uqBNT",
+    "url": "https://x.ai/bot/cXNeUZ2jpSYhXH91uqBNT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Oliver Cote",
+    "creatorHandle": "OliverRCote",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-money-hunt (Hermes)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hermes
+ExecStart=/usr/bin/env pi -p "/weekday-money-hunt"

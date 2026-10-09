@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-food-check-in (Calorie Police)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/calorie-police
+ExecStart=/usr/bin/env pi -p "/daily-food-check-in"

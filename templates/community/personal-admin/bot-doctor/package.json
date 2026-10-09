@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-bot-doctor",
+  "version": "1.0.28",
+  "private": true,
+  "description": "For the bot that got dumber. Your bot used to be sharp. When it forgets things, does dumb things, or ignores your instructions, Bot Doctor runs a full checkup, writes a complete repair plan, and applies every fix you confirm. Say “fix this bot.” Nothing changes until you say so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ug20hy7rQtr37O8IBoeSm",
+    "url": "https://x.ai/bot/ug20hy7rQtr37O8IBoeSm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Salim Habash",
+    "creatorHandle": "sal_habash",
+    "activeVersion": 28,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

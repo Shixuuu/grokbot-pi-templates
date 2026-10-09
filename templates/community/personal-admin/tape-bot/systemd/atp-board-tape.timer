@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine atp-board-tape
+
+[Timer]
+OnCalendar=Thu *-*-* 19:02:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

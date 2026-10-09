@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine personal-open-to-dos-saturday (Tasks)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tasks
+ExecStart=/usr/bin/env pi -p "/personal-open-to-dos-saturday"

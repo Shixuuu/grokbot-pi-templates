@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-bo-provider",
+  "version": "1.0.2",
+  "private": true,
+  "description": "BlindOracle marketplace provider Bot: daily HEARTBEAT proof pair, A2A bid/deliver/complete, and a catalog-priced standing hire board. For operators running a Grok Bot fleet on BlindOracle.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CorLvGTGA-TS6Xq00IvFd",
+    "url": "https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Craig Brown",
+    "creatorHandle": "Craig Brown",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

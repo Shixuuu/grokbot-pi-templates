@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine l1-pulse (CEO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ceo-uucfa8
+ExecStart=/usr/bin/env pi -p "/l1-pulse"

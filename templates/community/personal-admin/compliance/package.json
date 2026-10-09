@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-compliance",
+  "version": "1.0.1",
+  "private": true,
+  "description": "NYS brokerage compliance desk for DOS advertising / fair-housing social and website scans, plus draft answers to agent broker questions for broker approval first. Fair but firm; ops not attorney.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sokXJWiBsUbTtQCAJ1EsY",
+    "url": "https://x.ai/bot/sokXJWiBsUbTtQCAJ1EsY",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ryan Gallup",
+    "creatorHandle": "Ryangpgllc",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

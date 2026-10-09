@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-claim",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Claims MiniMax Daily Check-in credits on the signed-in box browser each morning. Quiet when already claimed; notifies the desk only when credits land or login expired.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "P4vJbbduYSgknHsfaRE3I",
+    "url": "https://x.ai/bot/P4vJbbduYSgknHsfaRE3I",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Stew Night",
+    "creatorHandle": "stewnight",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

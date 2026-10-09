@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine form-integrity-audits (Website Form Inspector)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/website-form-inspector
+ExecStart=/usr/bin/env pi -p "/form-integrity-audits"

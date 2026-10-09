@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-access-updates",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A weekly access check for your Grok bots. It lists what each bot can reach and where it went, flags official security updates, and offers ways to tighten access without ever changing anything on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6OcXI7e2enZukYCBNtQ-J",
+    "url": "https://x.ai/bot/6OcXI7e2enZukYCBNtQ-J",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Amina Guleid",
+    "creatorHandle": "GuleidAmina",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

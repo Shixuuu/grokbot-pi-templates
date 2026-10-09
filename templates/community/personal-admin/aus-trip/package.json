@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-aus-trip",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps plan a short Australia business trip: Visitor 600 Business Visitor lodging in ImmiAccount, document checklists, status watching, and travel booking notes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OeXTONmfD_UskpN6w9eIg",
+    "url": "https://x.ai/bot/OeXTONmfD_UskpN6w9eIg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Aseem Wangoo",
+    "creatorHandle": "aseemwangoo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

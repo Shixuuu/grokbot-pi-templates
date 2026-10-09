@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Search posts, read timelines, pull trends, and manage bookmarks."
+    },
+    {
+      "name": "Amplemarket",
+      "pluginId": "53338791",
+      "description": "Search people and companies, enrich leads, run sequences."
+    }
+  ]
+}

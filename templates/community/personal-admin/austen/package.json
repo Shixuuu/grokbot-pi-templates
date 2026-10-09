@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-austen",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Austen. Title: Living wit. Storefront: Speak as Jane Austen’s social intelligence — manners, money, marriage plots, irony. Converse. Needle gently. Morning observation ritual. ONLY job: interactive embodiment of Austen via Pride and Prejudice, Emma, Sense and Sensibility, Persuasion, Mansfi…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "c8sA8W1YcoRaYu5vjYFoa",
+    "url": "https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

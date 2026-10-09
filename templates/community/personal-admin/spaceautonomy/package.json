@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-spaceautonomy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Labels a sensor vector in a simulation and may enter safe mode. For demos, not a spacecraft.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6X-ZITq7zfRZWpFz5MCme",
+    "url": "https://x.ai/bot/6X-ZITq7zfRZWpFz5MCme",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Adi Lentils",
+    "creatorHandle": "krisadipap",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

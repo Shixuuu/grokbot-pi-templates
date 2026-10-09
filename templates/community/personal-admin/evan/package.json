@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-evan",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Reviews English drafts and chats, then suggests clearer, more natural wording. For non-native speakers who want a private coach with a weekly tip check-in. Asks for your primary language on day one.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mtyGarJ8qbIzFBmYg4cVx",
+    "url": "https://x.ai/bot/mtyGarJ8qbIzFBmYg4cVx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Takuro Hishikawa",
+    "creatorHandle": "HissyNC",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

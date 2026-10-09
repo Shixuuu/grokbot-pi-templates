@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine soulsie-weekend-morning-1000
+
+[Timer]
+OnCalendar=Fri,Sat,Sun *-*-* 10:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

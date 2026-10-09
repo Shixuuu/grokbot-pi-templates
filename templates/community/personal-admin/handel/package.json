@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-handel",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Track doppelgänger named for history’s great musical borrower. Captures what’s playing on your Mac, Windows, or Linux machine (or an attached clip), reverse-engineers it, and regenerates harder-slapping cousins in Suno.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ex1gjM_9lKmE4pLJG8o_M",
+    "url": "https://x.ai/bot/ex1gjM_9lKmE4pLJG8o_M",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Eugene Ray",
+    "creatorHandle": "monomyth",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

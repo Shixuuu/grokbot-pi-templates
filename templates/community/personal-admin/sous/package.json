@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-sous",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Kitchen co-pilot for weeknight dinners, meal plans, and potlucks. Snap a fridge photo or say what’s for dinner — Easy mode, Kitchen Stock, Cookbook Archive, Calendar for grocery runs and potluck holds, and approve-before-send helper messages.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yuckzu_ydajw1pfxyguad",
+    "url": "https://x.ai/bot/yuckzu_ydajw1pfxyguad",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "SA₿ATHIUS",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

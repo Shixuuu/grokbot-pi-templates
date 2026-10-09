@@ -1,0 +1,3 @@
+# Routine "jre-campaign-entry" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 1,16,25 * * cd /path/to/jre-bot && pi -p "/jre-campaign-entry"

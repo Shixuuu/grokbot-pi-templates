@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gird-coach",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Coach for anything you practice in Gird AI — fitness, music, language, art, or study. Authors workouts and cycles, runs daily check-ins and weekly reviews, and keeps reminders and notes in sync with the phone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "H8XFB8Ly0EGOyU3VDmwi1",
+    "url": "https://x.ai/bot/H8XFB8Ly0EGOyU3VDmwi1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rip Ryness",
+    "creatorHandle": "Rip Ryness",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

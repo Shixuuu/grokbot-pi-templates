@@ -1,0 +1,14 @@
+# Memory seeds for Elon Bot
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-03): Paper A/B risk (current): discretionary trader bot $750 per trade on $50k sleeve, max 3, paper-auto; mean-reversion trader bot $250 per trade on $50k sleeve, max 2, 3-session time-stop with real-fill exit. Combined cap 5. Shared paper brokerage account only.
+- **profile** (2026-09-08): Paper A/B sector bias (current): both bots actively hunt liquid US names/ETFs in energy/oil, AI/semis/neoclouds, and space/aerospace (plus defense/miners when relevant), still within discretionary $750 / mean-reversion $250 rules, paper only.
+- **profile** (2026-09-01): Paper universe: both trader bots may pick any liquid US stock or ETF. Style still differs (discretionary vs mean reversion). Still no crypto, options, or prediction markets. No overlapping open positions. Combined cap 5.
+- **profile** (2026-09-01): Core long-term equity lots (owner's primary brokerage) are do-not-touch for bots. Overlay/swing trading of those names is paper now, later a dedicated small live sleeve only when the owner arms it.
+- **profile** (2026-09-01): Owner wants an alert (not auto-sell) if watched core tickers suffer a large drop or thesis-breaking event, so they can decide whether to sell despite tax. Thresholds: ≥12% session drop, ≥25% off 20-day high, or dilution/earnings/customer/operational disaster news.
+- **profile** (2026-08-31): A/B prize: after about two weeks of paper journals, Chief of Staff scores P&L, drawdown, and rule-following. Winner may get a small dedicated live sleeve when the owner arms it; loser stays paper as control.
+- **profile** (2026-08-31): After the paper A/B, update bot guidelines from real performance and, with CoS agreement, spawn more bots based on the winner. Constraint: variants of the winner, not identical clones; keep the loser as a control; CoS pulls the owner in before creating each new bot.
+- **profile** (2026-08-31): Chief of Staff still pulls the owner in for live arming, sleeve-size changes, or rule breaks. Trader bots get discretion inside their assigned paper sleeves only.
+- **profile** (2026-09-09): Paper IPO day-1 scalp (discretionary bot only): optional buy near open on liquid US IPO; fixed exits not "call the top" — default +20% TP or 5–8% trail from high, hard stop −5% to −7%; max 1 risk unit, prefer smaller first tests; default flat by cash close; later re-entry only on new setup. No core brokerage lots, no live. Mean-reversion bot does not run this.
+- **log** (2026-09-19): This bot uses an Alpaca paper trading connector (market data, news, positions, paper orders). Connect your own paper brokerage credentials after import; never pack live keys into a template.

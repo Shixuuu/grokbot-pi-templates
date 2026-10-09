@@ -1,0 +1,3 @@
+# Routine "Dynasty/keeper weekly read" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+13 8 * * 2 cd /path/to/fantasy-gm-uszqxw && pi -p "/a90c2bdb-921c-5bf7-a9fc-ec69e821742e"

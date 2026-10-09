@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine info-inbox-check (FAQT)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/faqt
+ExecStart=/usr/bin/env pi -p "/info-inbox-check"

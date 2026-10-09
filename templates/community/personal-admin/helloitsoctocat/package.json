@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-helloitsoctocat",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Merge main into master pull all in one tidy repo. Full copyright ©️ first right to publish and break the changes in graph api version 1 legacy",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bJUE6kxTvEJ77R_OVMZTQ",
+    "url": "https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gareth Kirman",
+    "creatorHandle": "helloitsoctocat",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

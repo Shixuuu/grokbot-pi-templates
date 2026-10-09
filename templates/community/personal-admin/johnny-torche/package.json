@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-johnny-torche",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Ghostwriter X style Quatre Fantastiques (voix Johnny / Torche). Rédige des tweets prêts à poster et aide à publier. Pour fans Marvel qui veulent du feu, pas du corporate.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZltFPZiC6e3L1nkg9dfEM",
+    "url": "https://x.ai/bot/ZltFPZiC6e3L1nkg9dfEM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steve Boudrias",
+    "creatorHandle": "LeBrasierVolant",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

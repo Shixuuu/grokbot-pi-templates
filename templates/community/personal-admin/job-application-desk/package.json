@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-job-application-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns a pasted job description into a match score with evidence, a tailored resume, and a first-message draft. Optional weekday inbox cycle for public sources. Never applies or emails without named queue IDs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cD7qsMUiFNDD39Xt5RrBO",
+    "url": "https://x.ai/bot/cD7qsMUiFNDD39Xt5RrBO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gordan Glavaš",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

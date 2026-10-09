@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine optima-wal-fleet-scan (Optima by TOATspace)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/optima-by-toatspace-vso9gr
+ExecStart=/usr/bin/env pi -p "/optima-wal-fleet-scan"

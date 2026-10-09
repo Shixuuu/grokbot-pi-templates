@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-playlist-curator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Curates a NetEase Cloud Music (网易云音乐) working playlist from likes and history — ~90-minute refreshes with a 70/30 keep/roll and delete feedback.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Z4nHLMPHoK6cN25ADf0EF",
+    "url": "https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ian",
+    "creatorHandle": "doitian",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

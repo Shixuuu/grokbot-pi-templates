@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-charge-maestro",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sets EV charge amps from leftover solar so the Powerwall still fills before peak, then soaks extra solar into the cars instead of the grid.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "29uyQjSrZ3dTb4Ctf7S3w",
+    "url": "https://x.ai/bot/29uyQjSrZ3dTb4Ctf7S3w",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Justin Owens (ABITUMAK CEATOBEK)",
+    "creatorHandle": "JOwens254",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

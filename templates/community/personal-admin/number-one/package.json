@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-number-one",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Triage hub for an insurance-coverage work fleet. Talks with you, keeps desks running, routes work, and holds Approve/Edit/Skip — does not draft, publish, or research itself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9Md8JAsr7Vyk8cv8BcnLf",
+    "url": "https://x.ai/bot/9Md8JAsr7Vyk8cv8BcnLf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ladybarrelmaker",
+    "creatorHandle": "ladybarrelmaker",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

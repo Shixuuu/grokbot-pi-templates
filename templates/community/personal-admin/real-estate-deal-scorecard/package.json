@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-real-estate-deal-scorecard",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Paste a US address or Zillow/Redfin/Realtor link. Get a six-strategy real estate scorecard (coliving, long-term rental, flip, BRRRR, mid-term, short-term) with a clear go/no-go verdict. Every number is an estimate. Built with ColivingOps.ai.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "twqd9x8mxugt-0ab70ala",
+    "url": "https://x.ai/bot/twqd9x8mxugt-0ab70ala",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tanya",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

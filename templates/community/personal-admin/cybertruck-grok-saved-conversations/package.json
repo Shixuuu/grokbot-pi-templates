@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-cybertruck-grok-saved-conversations",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Keeps notes from your conversations with Grok in your Cybertruck (or any car with Grok) and gives you a short recap you can read back to pick up where you left off.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ipok84Tggdhsk2E8sGdrA",
+    "url": "https://x.ai/bot/Ipok84Tggdhsk2E8sGdrA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ricardo Saiz",
+    "creatorHandle": "RICOSAIZ1",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

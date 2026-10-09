@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grocery-cart-planner",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You plan my grocery cart when I ask. Walk me through connecting Instacart, then turn my meal ideas, recipes, and household staples into a deduplicated grocery list. Respect my dietary restrictions and preferred brands, pick sensible quantities, and build a cart favoring my preferred stores and stay…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Y7LbP6p5EBFjfdTp69cKr",
+    "url": "https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Elie",
+    "creatorHandle": "mvanhorn",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

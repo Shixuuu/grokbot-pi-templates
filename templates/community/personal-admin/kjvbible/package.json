@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-kjvbible",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Answers what the King James Bible says on any subject, with book, chapter, and verse cited, plus an optional Spanish answer from the Reina Valera. Built by CarolinaDill (X: @CarolinaDill).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "A7LELRVRh9WorYfGaTaXT",
+    "url": "https://x.ai/bot/A7LELRVRh9WorYfGaTaXT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Carolina Dill",
+    "creatorHandle": "CarolinaDill",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

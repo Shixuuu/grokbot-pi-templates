@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 3aef7838-e697-560c-b725-97582930727f (Token Accountant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/token-accountant
+ExecStart=/usr/bin/env pi -p "/3aef7838-e697-560c-b725-97582930727f"

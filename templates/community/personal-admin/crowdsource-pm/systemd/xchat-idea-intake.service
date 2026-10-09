@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine xchat-idea-intake (CrowdSource PM)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/crowdsource-pm
+ExecStart=/usr/bin/env pi -p "/xchat-idea-intake"

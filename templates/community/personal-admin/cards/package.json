@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-cards",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Credit-card ops: flag expiring credits, pick the best card for a purchase, and call keep vs cancel on annual fees. Short, numbers-first answers for people with a multi-card wallet.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0GjZj5W6UCzPfxX5y381r",
+    "url": "https://x.ai/bot/0GjZj5W6UCzPfxX5y381r",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steven Villarino",
+    "creatorHandle": "stevenvillarino",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Morning fitness update" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8 * * * cd /path/to/melissa-3fogoe && pi -p "/morning-fitness-update-for-chief-of-staff"

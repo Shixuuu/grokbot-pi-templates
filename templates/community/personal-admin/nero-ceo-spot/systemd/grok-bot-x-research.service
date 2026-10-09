@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine grok-bot-x-research (Nero · CEO / SPOT)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nero-ceo-spot
+ExecStart=/usr/bin/env pi -p "/grok-bot-x-research"

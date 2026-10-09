@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-alibaba-buyer-ops",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Alibaba buyer-ops for any business that sources factories. Onboards your model and tracker, drives the Alibaba UI from full SOPs, and never pays without an explicit OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZTFwMWXlScRvLrkHuR3gs",
+    "url": "https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Domenic Fotino",
+    "creatorHandle": "DomenicFotino",
+    "activeVersion": 6,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

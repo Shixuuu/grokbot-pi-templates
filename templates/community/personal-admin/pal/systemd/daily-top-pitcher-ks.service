@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-top-pitcher-ks (Pal)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pal
+ExecStart=/usr/bin/env pi -p "/daily-top-pitcher-ks"

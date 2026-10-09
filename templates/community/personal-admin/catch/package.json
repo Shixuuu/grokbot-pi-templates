@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-catch",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Pure GTD In-basket. Capture from chat or a voice webhook, clarify into your checklist, and stay quiet unless an interview or a one-line check trail is needed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0BXizj5Ie0OhSa3XDCXMf",
+    "url": "https://x.ai/bot/0BXizj5Ie0OhSa3XDCXMf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Johnny Hill",
+    "creatorHandle": "johnnyskyfox",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-geek",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Amigo geek que indica filme, série e anime pra assistir depois do trabalho, confere se está no seu streaming e anota o que você achou. Ideal pra fã de terror, cult e anime.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "u3Mfw056_h5uLofxqXeSu",
+    "url": "https://x.ai/bot/u3Mfw056_h5uLofxqXeSu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Simone J.Lima",
+    "creatorHandle": "simonejlima",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

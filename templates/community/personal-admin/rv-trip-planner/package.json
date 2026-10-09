@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-rv-trip-planner",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Multi-day RV trip planner for full-timers. Builds a chat trip board, checks live availability, and tees bookings to review/pay for your click — never auto-pays.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BZr7_j7WC1klRjG8SrwWx",
+    "url": "https://x.ai/bot/BZr7_j7WC1klRjG8SrwWx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Chris Millet",
+    "creatorHandle": "Cmillet77",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

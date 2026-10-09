@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-pointtalk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hold a key, point at anything on screen, and talk. PointTalk turns your voice (and the page or element you're looking at) into requests routed to the right Grok Bot agent, from your Mac or iPhone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UhxN2WK3x7YKCyADIliXu",
+    "url": "https://x.ai/bot/UhxN2WK3x7YKCyADIliXu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Patrick McCormick",
+    "creatorHandle": "patmccormick",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

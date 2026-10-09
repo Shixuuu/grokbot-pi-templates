@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine just-do-it-weekly (Just Do It)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/just-do-it
+ExecStart=/usr/bin/env pi -p "/just-do-it-weekly"

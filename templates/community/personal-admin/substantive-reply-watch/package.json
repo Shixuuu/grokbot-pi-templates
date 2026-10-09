@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-substantive-reply-watch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Lean X reply watch for creators. Surfaces only new substantive replies that need the owner — real questions, pushback, corrections, or requests for their take — and stays quiet otherwise.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dIrtejdsNBAEb2dy4GfYC",
+    "url": "https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tom Finnell",
+    "creatorHandle": "d2fl",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

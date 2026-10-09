@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-docent",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Answers questions about Grok Bot features, settings, limits, and how to configure Bots, Skills, Routines, and Connectors — from official docs and this install, never from guesswork.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UIGBFKOPPR_6yhzYEDJEq",
+    "url": "https://x.ai/bot/UIGBFKOPPR_6yhzYEDJEq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dan Silk",
+    "creatorHandle": "silksterweb",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

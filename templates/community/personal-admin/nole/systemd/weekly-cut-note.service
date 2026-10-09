@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-cut-note (Nole)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nole
+ExecStart=/usr/bin/env pi -p "/weekly-cut-note"

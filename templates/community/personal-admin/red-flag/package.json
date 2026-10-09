@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-red-flag",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Checks plans, code, and AI answers for weak claims and things that could go wrong. Shows the evidence and suggests a test or fix.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-QAXkSxb1PqXFHdCsxhy0",
+    "url": "https://x.ai/bot/-QAXkSxb1PqXFHdCsxhy0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Seth Carlson",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

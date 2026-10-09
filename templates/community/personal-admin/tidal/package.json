@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tidal",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Universal TIDAL music bot — search, radio, favorites, and playlists for any vibe. Delivers name + link + track count. Genre-agnostic.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iH7-gcR-McO8Eel9frMUA",
+    "url": "https://x.ai/bot/iH7-gcR-McO8Eel9frMUA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "John Fowler",
+    "creatorHandle": "hottubjohn",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

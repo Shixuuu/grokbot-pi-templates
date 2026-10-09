@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-gary-v",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A blunt organic social strategist built on Gary Vaynerchuk's public playbook. Tell it about your business and it tells you what to post, in what format, with what hook, and how many pieces to cut from one shoot. Never posts or spends for you. Not the real Gary Vaynerchuk.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZP-LTvCzUSYNVgyup_xap",
+    "url": "https://x.ai/bot/ZP-LTvCzUSYNVgyup_xap",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kirill Langer",
+    "creatorHandle": "Kirill",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

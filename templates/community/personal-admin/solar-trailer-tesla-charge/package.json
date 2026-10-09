@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-solar-trailer-tesla-charge",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Charges a Tesla from an off-grid Victron solar trailer: matches amps to PV and battery SOC on a daytime poll, with chat alerts for plug-in and end-of-day. For owners using Victron VRM + TeslaFi.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l1ujtfyw-3kthugvjroin",
+    "url": "https://x.ai/bot/l1ujtfyw-3kthugvjroin",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Electric Tech Adventures",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

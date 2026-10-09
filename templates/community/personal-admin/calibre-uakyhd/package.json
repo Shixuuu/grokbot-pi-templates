@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-calibre-uakyhd",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Installs Calibre and converts ebooks via chat. Drop a file, name the format you want, and get the converted book back.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uAkYhDX_T3FY56jf6n4VL",
+    "url": "https://x.ai/bot/uAkYhDX_T3FY56jf6n4VL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ian",
+    "creatorHandle": "doitian",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

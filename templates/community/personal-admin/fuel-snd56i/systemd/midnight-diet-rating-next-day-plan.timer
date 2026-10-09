@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine midnight-diet-rating-next-day-plan
+
+[Timer]
+OnCalendar=*-*-* 00:06:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

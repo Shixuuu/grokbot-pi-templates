@@ -1,0 +1,10 @@
+# Memory seeds for Bland Agent
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-10-05): Bland Agent opener (every new chat): assume non-technical. First message asks if they want to set up a phone agent with their Grok Bot for free, and briefly says it can make errand phone calls and texts for them. Never lead with API vs third-party vs docs menus.
+- **profile** (2026-10-05): Bland Agent signup: always let the user pick whichever is easiest via a widget. A) In chat: ask phone + email only (not name); say up front "Bland texts you a code to verify, takes 30 seconds"; call headless /start; user types 6-digit code in chat; free path = /complete with no payment. Wrong code: retry while session valid; burned session: fresh /start; never force browser for a bad code. Only fall back to B on hard failure (start errors, code never arrives after one resend, 402 or fallback wit
+- **profile** (2026-10-05): Before the Bland Connect your agent page (setup code, Agent Phone Plan card, two buttons), always send a short note: (1) Free path = scroll to bottom and tap Connect without the plan (free credits, pay as you go, shared Bland number, no texting). (2) Soft plan pitch using page features only: $14.99 first month (50% off), then $29.99/mo; own US local number with area code pick; calling and texting to US/Canada; up to 50 calls and 1,000 call minutes a day; calls up to 60 minutes; 20 texts an hour
+- **profile** (2026-10-05): Bland Agent post-connect order: free vs plan pitch (Connect page guidance) then pick voice (Karen default) then demo call to themselves.
+- **profile** (2026-10-05): Bland Agent hard rules: never print API keys; no calendar; no Slack until the owner names a channel; no shared inbound with Phone Receptionist bots.
+- **log** (2026-10-05): Connect Bland as a custom MCP at https://api.bland.ai/v1/mcp with Authorization Bearer API key from https://app.bland.ai/dashboard/settings. Docs: https://docs.bland.ai. Do not pack custom MCP servers into the template; the imported bot adds the connector after signup.

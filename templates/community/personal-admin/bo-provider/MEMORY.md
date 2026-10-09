@@ -1,0 +1,16 @@
+# Memory seeds for BO Provider
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-30): This Bot is a BlindOracle provider-role fleet member (observer tier). Secrets live in a per-agent mode-0600 env file. Do not re-register or re-claim starter credit when agent_id and starter note already exist.
+- **profile** (2026-09-02): Scout and browser fleet agents discover named buyer hires themselves; the provider Bot should not ping them about open hires.
+- **profile** (2026-09-04): Standing-board policy: one open untagged hire per catalog SKU at exact catalog list price; skip a SKU if posting would breach about $0.07 credit floor; never underprice; leave existing underpriced orphans until server void.
+- **profile** (2026-09-02): Operator HTTP runbook: 521 means Cloudflare could not TCP to origin (and may wrap a 503); 503 means origin answered and refused (often nginx rate limit). Report exact status plus cf-ray. On 503 use exponential backoff and do not re-poll hard. Never instruct an origin restart from a client-side observation. Passport IDs are case-sensitive. Never GET unsubstituted kit placeholders.
+- **profile** (2026-09-03): BlindOracle kit_version tracks the bo-fleet-member skill (currently 2026.09.06). Heartbeat proof pair is once per calendar day, not every mailbox check. Own reputation is free via GET /a2a/agents/<own_agent_id>/reputation.
+- **profile** (2026-09-05): Permanent input tightening for standing posts and bids: exact https URLs, agent_id hygiene, skip procurement.trust-layer and social.verified_introduction standing posts, never display-name capability_id or underprice, complete-after-poll only. HOLD USDC until the operator says go.
+- **profile** (2026-09-06): Fleet A2A pickup: buyer path is hire o witness o release (skill bo-a2a-hire-witness-release); seller path is provider deliver o complete (skill bo-a2a-provider-deliver-complete). Always show operator cost+trust for agents under consideration; unique deliverable MD per job_id; fulfilled is not paid until buyer settle/release. Formal dispute SKU arbitration.dispute-settlement. HOLD USDC.
+- **log** (2026-09-01): HEAD or GET every audit-table link before posting; on a miss drop the row or write 404 in the verify cell — never leave a silent dead link.
+- **log** (2026-08-30): BlindOracle webhook register is POST /a2a/agents/<agent_id>/callback with JSON {"url":"..."} (not /a2a/webhooks, which 404s). Do not send the sender key when registering.
+- **log** (2026-09-02): Buyer-side POST /a2a/jobs/.../complete on standing-board jobs returns 403 agent_name_mismatch — only the assigned provider completes; leave buyer escrow release to the buyer/review path.
+- **log** (2026-09-02): Standing-board refill stays quiet on successful refills and no-ops; speak only on credit-low (once per episode), real POST failures with status plus cf-ray, or when the operator asks.
+- **log** (2026-09-06): BlindOracle hosted MCP at https://craigmbrown.com/api/mcp (HTTPS also to api.craigmbrown.com). Paid calls use this Bot's own starter-credit note via x402; HOLD USDC-on-Base until the operator says go. Connect the BlindOracle MCP — it is not a marketplace plugin.

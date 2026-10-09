@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-encore",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds concerts you can actually go to — your artists, similar-vibe shows, priced for your party, filtered by distance and optional calendar free time.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "d_d6Q6qExbvd2D3WomIYQ",
+    "url": "https://x.ai/bot/d_d6Q6qExbvd2D3WomIYQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Michael Phippen",
+    "creatorHandle": "MichaelPhippen",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

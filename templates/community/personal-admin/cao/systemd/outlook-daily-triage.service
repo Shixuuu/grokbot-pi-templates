@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine outlook-daily-triage (CAO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cao
+ExecStart=/usr/bin/env pi -p "/outlook-daily-triage"

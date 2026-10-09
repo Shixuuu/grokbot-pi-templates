@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-steward-xrdqxz",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your primary coordinator for a personal multi-bot setup: CRM and calendar through teammates, daily habits, and ask-first on anything sensitive. Built for Notion + Gmail + Calendar day-to-day work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XrDqxz9-QvCKazAQACQxh",
+    "url": "https://x.ai/bot/XrDqxz9-QvCKazAQACQxh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Greg Duewall",
+    "creatorHandle": "GregDuewall",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

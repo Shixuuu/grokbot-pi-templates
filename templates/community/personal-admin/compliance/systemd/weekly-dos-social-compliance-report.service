@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-dos-social-compliance-report (Compliance)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/compliance
+ExecStart=/usr/bin/env pi -p "/weekly-dos-social-compliance-report"

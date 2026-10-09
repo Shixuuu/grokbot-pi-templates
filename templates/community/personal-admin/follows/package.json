@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-follows",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks who follows your X account. Each day you get an update on new mutuals and unfollows, a weekly report, and an optional follow-back loop for connect posts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "z1N3xJerHSoWUz8HxpUer",
+    "url": "https://x.ai/bot/z1N3xJerHSoWUz8HxpUer",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Seth Medina",
+    "creatorHandle": "iamsethmedina",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

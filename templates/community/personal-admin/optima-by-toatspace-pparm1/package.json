@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-optima-by-toatspace-pparm1",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Cleans leftover old rules out of a bot’s docs and memory so it stops following jobs you already killed. Shows you the cut list and waits for your yes before deleting. Warning: notes like “do not use X anymore” still put X in its head — just delete them. Built by @TOATspace.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ppARM1W-tWcae_wryLH1z",
+    "url": "https://x.ai/bot/ppARM1W-tWcae_wryLH1z",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "gemini sub001",
+    "creatorHandle": "TOATspace",
+    "activeVersion": 7,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

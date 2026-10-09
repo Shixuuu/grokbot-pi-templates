@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Create Jupiter Wallet on box",
+      "pluginId": "64788387",
+      "description": "Use when creating or adding a Solana wallet in the Jupiter Wallet Chrome extension on this computer (box trading wallet) — never for storing seed phrases or agent-owned key vaults."
+    },
+    {
+      "name": "Welcome To Solana",
+      "pluginId": "64790598",
+      "description": "Use when opening the Solana toolkit sites (GitHub, Vercel, Railway, Phantom, x402.life, StonkFun, clawdcompute) and/or installing Phantom to reach Create a New Wallet — never for storing seed phrases or agent-owned keys."
+    },
+    {
+      "name": "x402",
+      "pluginId": "64786804",
+      "description": ""
+    },
+    {
+      "name": "solgpt",
+      "pluginId": "64790730",
+      "description": ""
+    }
+  ]
+}

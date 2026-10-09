@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine gym-day-5am-suggestion
+
+[Timer]
+OnCalendar=Mon,Wed,Fri *-*-* 05:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

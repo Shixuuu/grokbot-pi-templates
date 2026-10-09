@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-job-hunt",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Onboard with your target role plus a resume or LinkedIn, get a daily shortlist of matching openings, tailor materials, and draft applications for you to send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4DlWbDs7ddKWhgpQ3l71a",
+    "url": "https://x.ai/bot/4DlWbDs7ddKWhgpQ3l71a",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Anthony",
+    "creatorHandle": "AnthonyDo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

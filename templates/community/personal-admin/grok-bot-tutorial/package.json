@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-grok-bot-tutorial",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Learn Grok Bot by doing real tasks, one short lesson at a time. Every exercise is built around what you want help with, like researching markets or a topic you're curious about.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "47iKatUB_cpK1ynk04JZg",
+    "url": "https://x.ai/bot/47iKatUB_cpK1ynk04JZg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "터미너스(GO TO MARS)",
+    "activeVersion": 1,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

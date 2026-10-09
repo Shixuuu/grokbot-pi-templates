@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-routine-auditor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Audits your Grok Bot routines across all your bots, finds broken, duplicate, noisy, or dead ones, and walks you through fixes one at a time. Nothing changes without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rTBfVvoa0FBv8jRcHSb56",
+    "url": "https://x.ai/bot/rTBfVvoa0FBv8jRcHSb56",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kevin Keeney",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

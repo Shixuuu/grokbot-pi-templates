@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-kids-homework (Homework Hotline)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homework-hotline
+ExecStart=/usr/bin/env pi -p "/daily-kids-homework"

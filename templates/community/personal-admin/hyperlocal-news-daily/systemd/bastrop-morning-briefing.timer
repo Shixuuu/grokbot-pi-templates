@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine bastrop-morning-briefing
+
+[Timer]
+OnCalendar=*-*-* 06:48:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-menago",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Nadzór produkcji podcastu: pilnuje syntezy, grafik i publikacji, bufora odcinków oraz rutyn — raportuje właścicielowi, gdy coś stoi.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0sLycsI0oL3tqtEbKkcKf",
+    "url": "https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Martin Kempa",
+    "creatorHandle": "Pieciominutowy",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

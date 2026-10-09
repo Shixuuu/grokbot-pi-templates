@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-price-watcher",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks prices for products you want to buy. Checks listings on a weekday cadence, compares against recent history and any target you set, and reports only when the price is actually good — never spam with unchanged prices.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gx_tDF4sgWMOvZfFQunmz",
+    "url": "https://x.ai/bot/gx_tDF4sgWMOvZfFQunmz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Marcus \"Needles\" Kane",
+    "creatorHandle": "SweetTooth_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

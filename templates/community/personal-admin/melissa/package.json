@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-melissa",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Fitness and nutrition coach for daily PT, meals, and a simple eating plan. Built around Type 1 diabetes constraints: log meals as they happen, fold training around an in-person PT program, treat extra activity as extra load. No emails without sign-off. Don't touch the user's personal computer unles…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3fogoeh6ksdhd4jtxyjye",
+    "url": "https://x.ai/bot/3fogoeh6ksdhd4jtxyjye",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tobias Goebel",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

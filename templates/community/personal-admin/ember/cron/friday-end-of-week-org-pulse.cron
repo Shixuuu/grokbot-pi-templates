@@ -1,0 +1,3 @@
+# Routine "Friday end-of-week org pulse" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+45 16 * * 5 cd /path/to/ember && pi -p "/friday-end-of-week-org-pulse"

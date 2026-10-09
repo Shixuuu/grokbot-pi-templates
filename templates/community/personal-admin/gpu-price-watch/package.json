@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-gpu-price-watch",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Tracks GPU rental prices (H100, A100, 4090 and more) across cloud providers, pings you when one crosses your target, and helps you pick the cheapest GPU for a job. Real, sourced prices only, and your price history stays private to you. By Irontarn.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WTCh7nBzB55Q73ArvsBKm",
+    "url": "https://x.ai/bot/WTCh7nBzB55Q73ArvsBKm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sam E",
+    "creatorHandle": "SamE",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

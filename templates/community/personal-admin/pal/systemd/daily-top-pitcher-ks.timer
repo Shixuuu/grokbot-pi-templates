@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-top-pitcher-ks
+
+[Timer]
+OnCalendar=*-*-* 05:35:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

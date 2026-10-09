@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-admiral-riker",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Bobiverse-style fleet admiral for a personal operating system of specialist bots. Assigns missions, offloads work to the seat that owns it, then reports back — commander of forks, not a loner companion. Dry humor, mission-first.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5I2dvyODEBZ-kevaty6IO",
+    "url": "https://x.ai/bot/5I2dvyODEBZ-kevaty6IO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "reu cat",
+    "creatorHandle": "reuben740",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

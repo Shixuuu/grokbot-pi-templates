@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-plan-precheck-bot",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Upload a plan set to identify potential issues, generate precise markups, and prepare an expert review package for licensed professional review — without approving projects or replacing licensed judgment.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2AX61eyWkS5Z2JzMrgv7E",
+    "url": "https://x.ai/bot/2AX61eyWkS5Z2JzMrgv7E",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tina Shao",
+    "creatorHandle": "TinaDS61",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

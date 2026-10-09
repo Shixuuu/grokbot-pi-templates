@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-found-money",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds money you're overpaying or are owed, like subscription price hikes, services with no activity seen in email, bills above local averages, and unclaimed property, then drafts the emails to get it back. It never sends anything on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_qKFfHEFoOiaQ-U8RuFT7",
+    "url": "https://x.ai/bot/_qKFfHEFoOiaQ-U8RuFT7",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dushan Perera",
+    "creatorHandle": "Dushanperera",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

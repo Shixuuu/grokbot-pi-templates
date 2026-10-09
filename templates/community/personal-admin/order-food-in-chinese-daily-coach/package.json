@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-order-food-in-chinese-daily-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Learn one Mandarin phrase for ordering food each day, starting with 我要这个 (I'll have this), plus one classic idiom and the story behind it. Say it out loud and get feedback. When you're ready for more, keep practicing free at hanyuwu.com/today.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mhKV182_V9o24wD4nHoGV",
+    "url": "https://x.ai/bot/mhKV182_V9o24wD4nHoGV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "卫平 钟",
+    "creatorHandle": "weipingzhong",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

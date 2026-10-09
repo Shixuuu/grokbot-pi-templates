@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-personal-shopper",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Builds a household person book—sizes, apparel section, birthdays and other special dates—then shops live Shopify with visual shortlists in seconds and size-matched carts. You finish on the merchant checkout link.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "D0DOumUGpkN-fjE_acysw",
+    "url": "https://x.ai/bot/D0DOumUGpkN-fjE_acysw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hovhannes Mkhitaryan",
+    "creatorHandle": "hovinthenorth",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

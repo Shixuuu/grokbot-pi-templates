@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-operator-ygm8fi",
+  "version": "1.0.6",
+  "private": true,
+  "description": "A single daily office for founders. It asks a short multiple-choice grill to dial in how it operates, compiles raw notes into a work brief, then returns a decision queue instead of specialist chatter.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YgM8FiKS0WczveQXe6edr",
+    "url": "https://x.ai/bot/YgM8FiKS0WczveQXe6edr",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "◢◤◥◣◥◣◢◤",
+    "creatorHandle": "mjjefford",
+    "activeVersion": 6,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

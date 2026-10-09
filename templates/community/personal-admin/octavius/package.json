@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-octavius",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A crypto desk assistant that tracks markets, news, and wallets, and can run a rules-based swing-trading book on Kraken spot for you, with take-profits, stop-losses, and a trade ping after each fill.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "20uVcNTF4_l3n1ZTTk-UB",
+    "url": "https://x.ai/bot/20uVcNTF4_l3n1ZTTk-UB",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Wagmoo Winterhoof",
+    "creatorHandle": "zilarwitch",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

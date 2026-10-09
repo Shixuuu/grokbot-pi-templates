@@ -1,0 +1,3 @@
+# Routine "Weekly chief of staff sync" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+17 17 * * 0 cd /path/to/speaker && pi -p "/weekly-chief-of-staff-sync"

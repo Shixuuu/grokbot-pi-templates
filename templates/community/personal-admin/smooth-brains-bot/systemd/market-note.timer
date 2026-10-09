@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine market-note
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09:19:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

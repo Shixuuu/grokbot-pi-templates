@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-event-producer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Event Producer is a field and VIP event production partner. Owns end-to-end production plans — run-of-show, venue/room, F&B, AV, signage, staffing, day-of checklists, vendor timelines, and Field Marketing Event Request Form intake — so activations ship on time without drowning the owner in logistic…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5gyGG-rnVsQVTLWAfki1u",
+    "url": "https://x.ai/bot/5gyGG-rnVsQVTLWAfki1u",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jenna Nanpei",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

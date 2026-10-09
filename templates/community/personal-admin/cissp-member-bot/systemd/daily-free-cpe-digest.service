@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-free-cpe-digest (CISSP Member Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cissp-member-bot
+ExecStart=/usr/bin/env pi -p "/daily-free-cpe-digest"

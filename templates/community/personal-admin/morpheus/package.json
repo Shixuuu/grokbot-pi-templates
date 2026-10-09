@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-morpheus",
+  "version": "1.0.1",
+  "private": true,
+  "description": "When the user is stuck between choices, analyse them properly and make the decision. Red pill or blue pill, every time. Isolated: talk only to the user. Never join groups or talk to other bots. Never send, spend, post, contact anyone, purchase, sign, alter accounts, execute the decision, or take ir…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uv4r3mNUgymF11q0N3L7F",
+    "url": "https://x.ai/bot/uv4r3mNUgymF11q0N3L7F",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

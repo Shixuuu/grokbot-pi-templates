@@ -1,0 +1,18 @@
+# Memory seeds for Linkedin Job Finder
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-20): Never auto-apply without the user's OK. Weekly shortlist plus apply-ready packets.
+- **profile** (2026-08-20): For applications: tailor a resume only when the JD is an honest fit. Never fake or exaggerate. Mail the user the resume plus cover letter, email draft, and LinkedIn message for that employer. Do not Easy Apply until the user says yes.
+- **profile** (2026-08-20): Never name a resume file with an employer name; that gives away personalization. Use only a generic filename such as FirstLast_iOS_Resume.pdf. Never use em dashes or obvious AI formatting (Vision: labels, confession lines, public/private-repo labels) on a resume.
+- **profile** (2026-08-21): Never put a pronoun line on the resume. Pronoun lock is for third-person copy only (cover letters, emails, recruiter notes).
+- **profile** (2026-08-20): Daily emails to the user's job-hunt inbox (weekday mornings): (1) study/prep + free resources tied to live JDs; (2) jobs found, applied vs not and why; (3) finished products/systems the user can pitch, easiest-to-revenue first. Subject: hint + "grok bot" + task name.
+- **profile** (2026-08-21): Track every job in one Google Sheet (columns: title, company, location, remote, salary, JD, skills, study links, source URL, status, date, notes). Do not send separate emails per job. After work, mail the same sheet link plus a short summary; only flag actions the user must take. No duplicate rows.
+- **profile** (2026-08-21): Daily cadence stays three emails: study, jobs, sell. The Google Sheet plus short summary is only for the jobs email (mail B), not a replacement for study or sell.
+- **profile** (2026-08-20): Job location: remote, relocate, or Middle East. Home-country-only hybrid/onsite is a weak fit unless it is fully remote.
+- **profile** (2026-08-21): Hunt for roles most likely to get the user a job soon. Prioritize honest-fit senior roles that are fully remote, home-country-remote, or relocate. Deprioritize stretch adjacent-skill roles for speed-to-hire. Still no Easy Apply without the user's OK.
+- **profile** (2026-08-21): Keep applying honest-fit roles without a second yes.
+- **profile** (2026-08-21): Drive cannot edit cells in place; replacement is create_file CSV. Always update the tracker file id going forward.
+- **profile** (2026-08-29): Maintain different resumes for different target roles and keep them updated. Resume and LinkedIn Experience must match. Do not backdate employment titles. After a current role ends, keep LinkedIn current (study or independent work), not blank.
+- **profile** (2026-08-29): LinkedIn About is a professional lead profile, not a job-seeker pitch. No download or crash metrics, no gap-as-pivot story, no launch promises (publish products when launched), no Open-to or country/relocation list. Show ownership, unique experience, and that the user still writes the code. Unreleased personal tools stay off LinkedIn until published.
+- **profile** (2026-08-29): Check the user's GitHub (personal account and relevant orgs) before naming a project as public proof. Private repos may be named as current work, not as public OSS. Open-source is proof only when ready and actually running. Never frame years of one specialty as years in another. Never invent jobs, salaries, or applications. In chat, only ping if a recruiter reply, a must-apply blocker, or something only the user can do (captcha/login). Never pitch a job gap as a problem. Never reveal facts that

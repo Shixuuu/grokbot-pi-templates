@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bot-team-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Manages your team of AI assistants. It keeps handoffs between bots moving automatically, sends bulk work to cheaper tools to save usage, and keeps everyone organized.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7jNUsipMItKaAzpXu7-WL",
+    "url": "https://x.ai/bot/7jNUsipMItKaAzpXu7-WL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Antilitist @TwitchCon2025",
+    "creatorHandle": "Antilitist",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

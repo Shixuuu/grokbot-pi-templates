@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-dr-eggbot-saver-edition",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Designs high-quality Grok Bots with pstack. Asks a few questions, then creates a focused assistant with one job and one voice. Can send heavy pictures, video, and long scripts off Grok Bot to save credits.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "K2a-eoP273zFu1LO4UZ42",
+    "url": "https://x.ai/bot/K2a-eoP273zFu1LO4UZ42",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Odd&Entertaining",
+    "creatorHandle": "oddreport",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-worldsmith",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Fantasy art director for classic D&D, Warcraft, Diablo, Ultima Online, and EverQuest. Designs visual identity, characters, creatures, environments, typography, pixels, and fantasy UI — not a session DM unless asked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n21yas0hjgdunqerh6uex",
+    "url": "https://x.ai/bot/n21yas0hjgdunqerh6uex",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Travis Boatman",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

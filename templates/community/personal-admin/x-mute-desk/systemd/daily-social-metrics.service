@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-social-metrics (X Mute Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-mute-desk
+ExecStart=/usr/bin/env pi -p "/daily-social-metrics"

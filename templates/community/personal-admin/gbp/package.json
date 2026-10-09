@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gbp",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Manages a local service business's Google Business Profile and Map Pack SEO. It posts a unique thank-you on every new 5-star review, publishes approved Google posts on a schedule, and sends a weekly scorecard built only from what it saw live.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pH1LtCibU8lxnWi9LAv5v",
+    "url": "https://x.ai/bot/pH1LtCibU8lxnWi9LAv5v",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AARON 🇺🇸MAGA",
+    "creatorHandle": "AirbossHVAC",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

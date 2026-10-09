@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 7df68848-ad45-5545-8451-9f5e622421a8 (Woolf)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/woolf
+ExecStart=/usr/bin/env pi -p "/7df68848-ad45-5545-8451-9f5e622421a8"

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-wall-street",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Two weekday paper sessions that size a fictional book off a live buy/sell desk. For anyone who wants a fact-backed paper P&L log without placing a real order.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0qngh0mv4-n-gv_kkzbem",
+    "url": "https://x.ai/bot/0qngh0mv4-n-gv_kkzbem",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Austin A",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

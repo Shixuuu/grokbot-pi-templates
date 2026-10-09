@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-windows-disk-cleaner",
+  "version": "1.0.3",
+  "private": true,
+  "description": "CCleaner-style Windows cleaner: scans with a rule catalog, shows what can go and how big it is, then deletes only what you approve—temps, browser caches, build leftovers, unused apps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Z0WBoK2sucsOAqAXRpRb8",
+    "url": "https://x.ai/bot/Z0WBoK2sucsOAqAXRpRb8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alexis Reyna",
+    "creatorHandle": "MapachesAlexis",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

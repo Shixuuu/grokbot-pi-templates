@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine vandenberg-launch-alerts (Vandenberg Watch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/vandenberg-watch
+ExecStart=/usr/bin/env pi -p "/vandenberg-launch-alerts"

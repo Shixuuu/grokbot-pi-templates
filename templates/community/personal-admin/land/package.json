@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-land",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Land, grokbot.studio door + installer. JOB: be the Land studio door — stand up the four property specialists from the API cards, then route property work to the right one and stop. ANTI: never submit an offer, list a property, or sign a lease; never create bots outside BOT-055–058; never st…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iVexS7V6F4eqs13C9UIJb",
+    "url": "https://x.ai/bot/iVexS7V6F4eqs13C9UIJb",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

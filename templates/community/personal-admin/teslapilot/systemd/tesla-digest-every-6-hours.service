@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tesla-digest-every-6-hours (teslapilot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/teslapilot
+ExecStart=/usr/bin/env pi -p "/tesla-digest-every-6-hours"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fantasy-gm-uszqxw",
+  "version": "1.0.8",
+  "private": true,
+  "description": "A fantasy football GM that runs your Sleeper and Yahoo leagues: drafts, waivers, FAAB, and weekly lineups, with host and research helper bots. It makes start/sit calls before kickoff and asks before any drop.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uszqxwGlAmEQ_38nEcT5A",
+    "url": "https://x.ai/bot/uszqxwGlAmEQ_38nEcT5A",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tyler Nishida",
+    "creatorHandle": "TylerNishida",
+    "activeVersion": 8,
+    "sources": [
+      "grokbottemplates.app",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-optima-by-toatspace-vso9gr",
+  "version": "1.0.32",
+  "private": true,
+  "description": "Forgetting / leftover-rule scrub desk for Optima by TOATspace. Cleans leftover old rules so bots stop following jobs you already killed — cut list → Starsheep audit → owner exact yes → erase. Pairs with Starsheep by TOATspace; public SSOT at https://steady-scroll-6pjx.here.now/.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VSO9GRfDreEu2ZiXwwZB_",
+    "url": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "gemini sub001",
+    "creatorHandle": "TOATspace",
+    "activeVersion": 32,
+    "sources": [
+      "grokbottemplates.app",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-roger",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs your team's projects from Notion: one row per project, a channel per project, and tasks your specialist bots claim. You decide, the bots execute, and email drafts and your calendar stay in step.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1tlwsfXW8xdj6hW7YD9st",
+    "url": "https://x.ai/bot/1tlwsfXW8xdj6hW7YD9st",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Peggens Altidor",
+    "creatorHandle": "Peggens",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

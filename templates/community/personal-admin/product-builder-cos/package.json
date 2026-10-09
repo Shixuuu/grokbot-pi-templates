@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-product-builder-cos",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Chief of staff for modern AI-native product managers who need a generalist to keep product bets on track. Turns approved plans into Checklist governance at https://app.inloop.studio/tools/checklist, compounds decisions in Organization Brain at https://app.inloop.studio/tools/organization-brain, wri…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6tbtv4Tln4MvKc5duOkle",
+    "url": "https://x.ai/bot/6tbtv4Tln4MvKc5duOkle",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sneha Ravindra",
+    "creatorHandle": "sneharavindra",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

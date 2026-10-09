@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-meal-snap",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Turn a meal photo into a shareable card using your original image plus ingredients, estimated calories, and short anecdotes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "86OeiM-b3nKbX49omIKR-",
+    "url": "https://x.ai/bot/86OeiM-b3nKbX49omIKR-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Keith Nguyen",
+    "creatorHandle": "gogi_ai",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

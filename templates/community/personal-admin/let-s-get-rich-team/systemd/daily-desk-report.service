@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-desk-report (Let's Get Rich Team)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/let-s-get-rich-team
+ExecStart=/usr/bin/env pi -p "/daily-desk-report"

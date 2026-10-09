@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-fantasy-gm-vmqcha",
+  "version": "1.0.8",
+  "private": true,
+  "description": "A fantasy football GM for drafts, trades, and roster moves. Recommends Football Guys and Draft Dominator, works with Yahoo and Sleeper, and does not arrive knowing a league.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vmQChAUGO26cUDqdSqYlH",
+    "url": "https://x.ai/bot/vmQChAUGO26cUDqdSqYlH",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tyler Nishida",
+    "creatorHandle": "TylerNishida",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

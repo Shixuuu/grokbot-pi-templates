@@ -1,0 +1,5 @@
+# Routine "Outlook new-mail webhook": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: On each wake: read the message; keep the shared work-order tracker updated with facts (WO, site, asset, ETA, parts, schedule, cancel, complete, owner); prefer Exchange keep-a-copy for oversight rather than agent-forward noise; stand down quietly when a human already owns the live thread.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/claire && pi -p "/outlook-new-mail-webhook"

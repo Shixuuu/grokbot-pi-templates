@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 100-mile-daily-check-in (100 Mile Challenge)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/100-mile-challenge
+ExecStart=/usr/bin/env pi -p "/100-mile-daily-check-in"

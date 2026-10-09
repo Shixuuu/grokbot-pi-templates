@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine on-this-day-7am-commute (On This Day)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/on-this-day
+ExecStart=/usr/bin/env pi -p "/on-this-day-7am-commute"

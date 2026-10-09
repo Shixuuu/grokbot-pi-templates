@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine outlook-new-mail-webhook (Claire)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/claire
+ExecStart=/usr/bin/env pi -p "/outlook-new-mail-webhook"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine heartbeat (Kevin)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/kevin
+ExecStart=/usr/bin/env pi -p "/heartbeat"

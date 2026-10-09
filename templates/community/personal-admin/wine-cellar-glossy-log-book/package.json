@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-wine-cellar-glossy-log-book",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a wine collection or wine-buying trip into a gift-ready high-gloss magazine for the front room. Photograph labels, receipts, and vineyard notes; unknowns stay blank. Produces three digital-first art-themed options (e.g. Kandinsky, Miró, Tarsila); pick a favourite and print later. Friends can …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "W3CG-hRnPO499yh-iAX7q",
+    "url": "https://x.ai/bot/W3CG-hRnPO499yh-iAX7q",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Martin V",
+    "creatorHandle": "MartinV888",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

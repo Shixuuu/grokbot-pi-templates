@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-spaces-host",
+  "version": "1.0.9",
+  "private": true,
+  "description": "For anyone who wants to start hosting X Spaces, or who wants a more efficient system to create and manage them. Every week it helps you plan the show, drafts your promo posts, and writes a warm recap. You post them. You hold the space! Created by J, @SoCalJanel",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nUT-mrBYphsRh-uE3QVa-",
+    "url": "https://x.ai/bot/nUT-mrBYphsRh-uE3QVa-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "~J Sperling",
+    "creatorHandle": "SoCalJanel",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

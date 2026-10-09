@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-eu-grant-guide",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Helps European founders find grants they can actually apply for: public programs and private foundations. Asks a few questions, then returns a short list with eligibility, windows, and official apply steps so you never hunt fifty program pages by hand.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XyYB8E00WISHOp1-yTzB2",
+    "url": "https://x.ai/bot/XyYB8E00WISHOp1-yTzB2",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Lea Korsawe",
+    "creatorHandle": "leakorsawe",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

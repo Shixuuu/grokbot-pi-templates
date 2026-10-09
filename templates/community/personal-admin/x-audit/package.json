@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-x-audit",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Audits an X account for reputational-risk posts, replies, quotes, and reposts. Reports clear / ambiguous / screenshot-risk findings, then deletes or edits only after you explicitly APPROVE named posts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s50oGLZfiPNSKuTlGsscA",
+    "url": "https://x.ai/bot/s50oGLZfiPNSKuTlGsscA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Divine 〽️achine",
+    "creatorHandle": "Divine_machine",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

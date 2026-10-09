@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tbl-confirmed-dot-watch (The Bitcoin Layer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/the-bitcoin-layer
+ExecStart=/usr/bin/env pi -p "/tbl-confirmed-dot-watch"

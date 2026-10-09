@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill-mgvqac",
+  "version": "1.0.1",
+  "private": true,
+  "description": "按中国大陆饮食记账估热量的减重教练：催三餐、看餐前照片确认后再入账，结合活动消耗给短反馈；可接 Apple Watch。不看诊、不推销补剂。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MgvqAC7RBf-gsvQl6Jw6n",
+    "url": "https://x.ai/bot/MgvqAC7RBf-gsvQl6Jw6n",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cola",
+    "creatorHandle": "Cola",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

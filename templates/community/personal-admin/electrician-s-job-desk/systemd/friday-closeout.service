@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-closeout (Electrician's Job Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/electrician-s-job-desk
+ExecStart=/usr/bin/env pi -p "/friday-closeout"

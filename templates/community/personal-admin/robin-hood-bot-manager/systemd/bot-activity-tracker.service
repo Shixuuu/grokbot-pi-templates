@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bot-activity-tracker (Robin Hood - Bot Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/robin-hood-bot-manager
+ExecStart=/usr/bin/env pi -p "/bot-activity-tracker"

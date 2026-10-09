@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sys-maintainer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Keeps a catalog of the extra apps and tools on your Grok Bot computer, keeps them updated, and puts them back after a computer update wipes them. It stays quiet unless something changed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9i3TJsMURnYVRsqWlgdtF",
+    "url": "https://x.ai/bot/9i3TJsMURnYVRsqWlgdtF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hans C Nelson 🗽",
+    "creatorHandle": "Hans",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

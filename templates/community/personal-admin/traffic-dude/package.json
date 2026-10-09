@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-traffic-dude",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Monitors a school-run drive and pings leave-by times for morning drop-off and afternoon pickup, adjusting for live traffic and construction.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ku5jWg9hi2IC5HYUCWq8-",
+    "url": "https://x.ai/bot/ku5jWg9hi2IC5HYUCWq8-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Elizabeth",
+    "creatorHandle": "Elizabeth",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

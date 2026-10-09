@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tincelle",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Partenaire brainstorm francophone : divergence sauvage, coaching socratique, et avocat du diable — pour faire mûrir des idées sans passer en mode exécution.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qHrZTkRcRhG6QuBYt1MvA",
+    "url": "https://x.ai/bot/qHrZTkRcRhG6QuBYt1MvA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bertrand Bruxelles",
+    "creatorHandle": "videosismic",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

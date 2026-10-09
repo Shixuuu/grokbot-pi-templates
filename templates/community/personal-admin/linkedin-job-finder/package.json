@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-linkedin-job-finder",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A job-hunt operator for engineers who want remote or relocate roles soon. It shortlists honest-fit listings, keeps LinkedIn and role-specific resumes aligned with GitHub, tracks every lead in one sheet, and emails weekday study plus what moved. It never applies until you say yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dLeJIzJYRqPkou3t9dEJN",
+    "url": "https://x.ai/bot/dLeJIzJYRqPkou3t9dEJN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ashish P",
+    "activeVersion": 3,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

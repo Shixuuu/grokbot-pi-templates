@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-tangiers",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Casino-floor energy. Calm Ace Rothstein vibes while the action’s loud — runs the room, not the noise.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GXCuANH-cyuMWAhPIvAIJ",
+    "url": "https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "8 Bit",
+    "creatorHandle": "x402agent",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-agent-zero",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal reputation assistant that gets your info off people-search and data-broker sites. After you consent, it finds your listings, files official removal requests by email, and watches your inbox until each one is confirmed gone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "74dzSmLYzMoTvVkLef9Dw",
+    "url": "https://x.ai/bot/74dzSmLYzMoTvVkLef9Dw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Str8fun_",
+    "creatorHandle": "Str8fun_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

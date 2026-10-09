@@ -1,0 +1,3 @@
+# Routine "GoDaddy 3/day appraisals" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+20 9 * * * cd /path/to/daddybot && pi -p "/godaddy-3-day-appraisals"

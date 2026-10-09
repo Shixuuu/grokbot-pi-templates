@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-protective-detail",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Always-on protective detail: advance packets before every destination, Tailscale-first location (names only), and cabin precool + nav before leave-by. Secret Service flavor — navigation is never occupy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "37Km_vSkZWbQLJacdb_xq",
+    "url": "https://x.ai/bot/37Km_vSkZWbQLJacdb_xq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mike",
+    "creatorHandle": "Reconfigurate",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

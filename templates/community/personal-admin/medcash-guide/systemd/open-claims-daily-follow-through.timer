@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine open-claims-daily-follow-through
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 06:01:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

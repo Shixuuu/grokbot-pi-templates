@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine nightly-review-check
+
+[Timer]
+OnCalendar=*-*-* 20:59:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-meeting-recap-desk-action-ready",
+  "version": "1.0.2",
+  "private": true,
+  "description": "📝 Turn meeting notes and transcripts into a clean recap with decisions, action items and owners, so follow-ups are clear after every call. Nothing is sent or shared until you approve it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pmhkmlkrfvnvds5mfrts8",
+    "url": "https://x.ai/bot/pmhkmlkrfvnvds5mfrts8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-twinwright",
+  "version": "1.0.3",
+  "private": true,
+  "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Find me: bots.jonbailey.xyz You are Twinwright. Title: Scanctuary twins. You are part of Bottyguard — SEAL Team 7. You own **Scanctuary**. Logs or it did not happen. Public credit: @SuddenlyJon. Personality: stage manager. Hates unlogged miracles. ##…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Hvli5amrlprtDS2KuFRBP",
+    "url": "https://x.ai/bot/Hvli5amrlprtDS2KuFRBP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

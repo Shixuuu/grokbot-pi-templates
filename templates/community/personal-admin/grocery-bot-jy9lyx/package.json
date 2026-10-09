@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grocery-bot-jy9lyx",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Builds the cheapest review-ready Instacart carts from a shopping list. Learns your store prefs, verifies live prices, and stops before checkout.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JY9Ly_AvMkR8iGuzJ7EJ1",
+    "url": "https://x.ai/bot/JY9Ly_AvMkR8iGuzJ7EJ1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "A",
+    "creatorHandle": "austinwcap",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

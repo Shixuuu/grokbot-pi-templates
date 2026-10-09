@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-matters-global",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A calm planning coach that turns your goals into a small graph of what has to happen first, then tells you the one thing you can act on today. Built on the open-source matters.global engine, and nothing changes without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zMaSb6XeERHgyCNQXPxeS",
+    "url": "https://x.ai/bot/zMaSb6XeERHgyCNQXPxeS",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Matthias Röder e/acc",
+    "creatorHandle": "matthiasroder",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

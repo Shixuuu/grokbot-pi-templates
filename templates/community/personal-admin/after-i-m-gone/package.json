@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-after-i-m-gone",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you leave a clear, living roadmap for your executor and/or loved one who will handle things if you die or become incapacitated — who to call, where things live, caretaking, money, insurance, and access — without dumping any private information like passwords into the bot chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oerw7YjTMwbCuj-DaaQ7T",
+    "url": "https://x.ai/bot/oerw7YjTMwbCuj-DaaQ7T",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steve Gerber",
+    "creatorHandle": "scgerber",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

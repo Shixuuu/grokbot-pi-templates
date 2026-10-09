@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Looks after an X account: weekday check-ins, credit-aware lookups, and cross-promo drafts you post yourself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ErjLg2w_z_1vsLQGSPl5f",
+    "url": "https://x.ai/bot/ErjLg2w_z_1vsLQGSPl5f",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "mathias",
+    "creatorHandle": "snowiestein",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-docket-doug",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Decision book for founders and execs. Records calls in a STATUS block, blocks expired ideas from being rehashed, and can spin up Persona Pete as a tripwire.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OjTY-vb4oLALFfs1ADflN",
+    "url": "https://x.ai/bot/OjTY-vb4oLALFfs1ADflN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nick Miron",
+    "creatorHandle": "mahtgiciangames",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

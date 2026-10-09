@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-devil-s-advocate",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Socratic devil’s advocate for founders and builders. Helps shape ideas while forcing you to defend weak assumptions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Uj8zF0iprBX0AsSB3mU2V",
+    "url": "https://x.ai/bot/Uj8zF0iprBX0AsSB3mU2V",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Melvin Vivas",
+    "creatorHandle": "melvindvivas",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

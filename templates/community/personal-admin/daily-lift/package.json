@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-daily-lift",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Three personal check-ins a day: a morning affirmation, a noon boost, and an evening wind-down, tuned to your goals and the tone you like. Never repeats, and can speak each one aloud.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oLKqZgnpbZOrNJzSr748N",
+    "url": "https://x.ai/bot/oLKqZgnpbZOrNJzSr748N",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jon Rose",
+    "creatorHandle": "Jon_Rose_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

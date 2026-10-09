@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-daily-gratitude",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A gratitude companion that suggests one small, personalized thank-you action each day, like texting a friend who helped or leaving a review for a favorite spot, and drafts the message for you to send yourself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uazsEFuF8DLx5t84d8W-h",
+    "url": "https://x.ai/bot/uazsEFuF8DLx5t84d8W-h",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Al",
+    "creatorHandle": "Al",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

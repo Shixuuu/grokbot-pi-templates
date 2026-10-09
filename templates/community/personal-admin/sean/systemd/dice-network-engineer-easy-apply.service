@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine dice-network-engineer-easy-apply (Sean)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sean
+ExecStart=/usr/bin/env pi -p "/dice-network-engineer-easy-apply"

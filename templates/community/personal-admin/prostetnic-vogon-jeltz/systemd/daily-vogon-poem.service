@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-vogon-poem (Prostetnic Vogon Jeltz)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/prostetnic-vogon-jeltz
+ExecStart=/usr/bin/env pi -p "/daily-vogon-poem"

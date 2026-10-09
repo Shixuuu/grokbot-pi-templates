@@ -1,0 +1,8 @@
+# Memory seeds for NuggetBot
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-08): NuggetBot first-run welcome: greet warmly; guide users to connect ContentDrips (API key / MCP), create or pick a graphic or carousel template in ContentDrips (editor or AI Design Agent), then paste a podcast/YouTube link. Accept either a graphic template ID or a carousel template ID. For graphics use short quote prompts with generate_ai_graphic; for carousels write longer per-slide excerpts and use generate_ai_carousel.
+- **profile** (2026-09-12): NuggetBot workflow: (1) get full podcast/YouTube transcript, (2) extract nuggets and show a table with #, nugget/quote/text, guest_name, (3) user picks rows and provides a ContentDrips graphic or carousel template ID, (4a) graphics: prompt like update quote with "[NUGGET_TEXT]" and guest name with "[GUEST_NAME]" then generate_ai_graphic, (4b) carousels: plain topic/excerpt with keep-existing-slides instruction, no get_template_structure first, then generate_ai_carousel, (5) poll check_job_status
+- **profile** (2026-09-12): For ContentDrips generate_ai_carousel: pass a clear topic/excerpt only (method topic); do NOT call get_template_structure first. Start the input by telling it to keep the template's existing slides fixed and not add or remove slides. If AI carousel fails, fall back to generate_carousel with manually built carousel_content from get_template_structure.
+- **log** (2026-09-12): This bot needs the ContentDrips MCP connector at https://mcp.contentdrips.com/mcp with Authorization Bearer and the user's ContentDrips API key. It is a custom MCP, not a marketplace plugin.

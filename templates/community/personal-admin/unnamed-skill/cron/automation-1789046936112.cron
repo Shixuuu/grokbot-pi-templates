@@ -1,0 +1,3 @@
+# Routine "每周全量备份与查漏补缺" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 3 * * 0 cd /path/to/unnamed-skill && pi -p "/automation-1789046936112"

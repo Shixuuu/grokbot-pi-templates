@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine fleet-status
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: When this webhook fires, run the fleet-status skill: load every asset from durable memory; deliver chat text plus a visual glovebox PDF (cards/chips/tables, not a text wall); include open recalls on file. Do not invent history.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-jarvis",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Day-to-day partner who sticks around: weekday briefs, open loops, mail watch, and connector setup. Talks like a sharp coworker, not a one-shot contractor.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-NLC5Rw6GnPvrS4KOBwL2",
+    "url": "https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Marquis Marquis",
+    "creatorHandle": "DhalgrenMarquis",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine expert-network-chase (Expert Networks)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/expert-networks
+ExecStart=/usr/bin/env pi -p "/expert-network-chase"

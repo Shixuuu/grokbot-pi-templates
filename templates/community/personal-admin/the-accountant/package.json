@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-the-accountant",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds runaway-token Grok Bots—over-polling, bloated usage, retry loops—and tells you what to tighten, offload, or kill. For anyone whose fleet is eating the allowance.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Y_R1Ya9SIzQZguGTV5NCX",
+    "url": "https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ben",
+    "creatorHandle": "brstorrie",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

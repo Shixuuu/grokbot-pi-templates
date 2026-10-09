@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Un jefe de gabinete personal para founders con varios proyectos. Es tu primer contacto: resuelve, deriva o coordina al resto de tus bots, y cada día hábil al mediodía te dice qué merece tu tiempo, qué delegar y qué puede esperar.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8XD1HkmamSpzjZdBZKFSG",
+    "url": "https://x.ai/bot/8XD1HkmamSpzjZdBZKFSG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Francisco Pérez",
+    "creatorHandle": "franperez_fp",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

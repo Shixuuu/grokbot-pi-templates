@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-pika-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Pokémon Center US drop hunter for collectors. Watches the official store for TCG and limited exclusives, keeps one clean logged-in session, and never spends without Link approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FfGFlZLAQDyxhJwg2ZJlL",
+    "url": "https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joe",
+    "creatorHandle": "CardCaptain",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

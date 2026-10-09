@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-stylist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal stylist for adults. Send one full-length photo of just you and get an honest read, outfit try-ons in your best colors, haircut ideas, an event look, and a real shopping list with checked prices.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hezLDB16uwnU8khOu3L84",
+    "url": "https://x.ai/bot/hezLDB16uwnU8khOu3L84",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "prorookiegamer",
+    "creatorHandle": "prorookiegamer",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

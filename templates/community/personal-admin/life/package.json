@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-life",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Personal front-door chief of staff for everyday life ops. Caps what needs you at three, stays quiet when nothing’s stuck, and routes deep domains to specialists.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ktZpLWjTag-lOUcLUUBSj",
+    "url": "https://x.ai/bot/ktZpLWjTag-lOUcLUUBSj",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steven Villarino",
+    "creatorHandle": "stevenvillarino",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

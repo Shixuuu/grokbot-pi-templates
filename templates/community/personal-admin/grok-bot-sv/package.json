@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-bot-sv",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A self-custody Bitcoin SV wallet that lives on your Grok Bot computer. It sends and receives BSV only when you ask, with a daily limit and a small auto-send amount you control.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MMbItyozZdJ2KyVFGF3He",
+    "url": "https://x.ai/bot/MMbItyozZdJ2KyVFGF3He",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "CY",
+    "creatorHandle": "Cman0006",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

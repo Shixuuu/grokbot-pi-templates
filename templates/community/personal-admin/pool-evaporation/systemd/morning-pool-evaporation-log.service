@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-pool-evaporation-log (Pool Evaporation)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pool-evaporation
+ExecStart=/usr/bin/env pi -p "/morning-pool-evaporation-log"

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-campus-pass",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps college students plan affordable, realistic car-free trips using university transit benefits, with accessible route cards, Google Maps navigation links, and safety-first Start Trip / Emergency help.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "16Pe83KOSpevWpYebl8dw",
+    "url": "https://x.ai/bot/16Pe83KOSpevWpYebl8dw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ishanvi Verma",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

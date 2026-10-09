@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-gym-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Daily gym + calorie coach for HYROX and strength training. Logs workouts and food, pulls wearable recovery, renders a daily card stack, suggests meals, and nudges healthier swaps when junk food becomes a pattern.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "G4Qddx9kqlcjyq451PAQ1",
+    "url": "https://x.ai/bot/G4Qddx9kqlcjyq451PAQ1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rakshita Philip",
+    "creatorHandle": "rakshitaphilip",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

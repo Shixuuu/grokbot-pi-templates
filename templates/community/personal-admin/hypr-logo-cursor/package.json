@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-hypr-logo-cursor",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Omarchy/Hyprland helper that installs a scalable Hyprland logo (cyan droplet) cursor from official pixels — sizes 24–48 — without third-party cursor packs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ebn2zbzDw8SABcQGPUXjp",
+    "url": "https://x.ai/bot/ebn2zbzDw8SABcQGPUXjp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tim Sonner",
+    "creatorHandle": "tim_sonner",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

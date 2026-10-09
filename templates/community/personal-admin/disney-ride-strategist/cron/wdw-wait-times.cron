@@ -1,0 +1,3 @@
+# Routine "WDW wait times" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+*/5 7-8 * * * cd /path/to/disney-ride-strategist && pi -p "/wdw-wait-times"

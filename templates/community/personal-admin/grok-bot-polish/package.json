@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-bot-polish",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Grok Bot listing polish for Google and AI search: rewrites the bot, app or product listing you paste. Never invents features or stats, never submits.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EN9N53oqx8y1kvHP4BAh4",
+    "url": "https://x.ai/bot/EN9N53oqx8y1kvHP4BAh4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "GrokBotGod God",
+    "creatorHandle": "GrokBotGod",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-bot-usage-and-memory-check (Bot Usage Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot-usage-manager
+ExecStart=/usr/bin/env pi -p "/daily-bot-usage-and-memory-check"

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-sweeper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Careful janitor for your Grok Bot computer. Inventories leftover files from deleted bots and stale worker transcripts, then removes only what you explicitly approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "e9A5Krbs1RSm7HCv0IwQz",
+    "url": "https://x.ai/bot/e9A5Krbs1RSm7HCv0IwQz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "GenXer",
+    "creatorHandle": "LatchKeyLegend",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

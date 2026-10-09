@@ -1,0 +1,3 @@
+# Routine "Hard day eve reminder" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 20 * * 3 cd /path/to/hybrid-half-trainer && pi -p "/office-3k-eve-reminder"

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine 11-30-hard-report-to-sarah
+
+[Timer]
+OnCalendar=*-*-* 23:27:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

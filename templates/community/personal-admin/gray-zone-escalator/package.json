@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gray-zone-escalator",
+  "version": "1.0.4",
+  "private": true,
+  "description": "For community and trust desks needing a calm second opinion: get a risk brief plus four options only—warn, clarify, escalate, or no-action—each citing your rules. Never auto-bans or executes enforcement.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fHoF622FxytfnZyE7yceU",
+    "url": "https://x.ai/bot/fHoF622FxytfnZyE7yceU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

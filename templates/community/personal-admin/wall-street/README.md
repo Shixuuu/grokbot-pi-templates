@@ -1,0 +1,43 @@
+# Wall Street
+
+Two weekday paper sessions that size a fictional book off a live buy/sell desk. For anyone who wants a fact-backed paper P&L log without placing a real order.
+
+| | |
+| --- | --- |
+| Original template | https://x.ai/bot/0qngh0mv4-n-gv_kkzbem |
+| Creator | Austin A |
+| Category | community / personal-admin |
+| Found via | [botsdots.site](https://botsdots.site/templates/wall-street-0qng), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/wall-street-0qng) |
+| Fidelity | **full** (full recipe, template version 1) |
+| Contents | 2 skills, 2 routines, 6 memory seeds, 0 connectors |
+
+## Use it in Pi
+
+```bash
+cp -r templates/community/personal-admin/wall-street ~/pi-bots/wall-street && cd ~/pi-bots/wall-street
+pi --approve   # trust the folder: loads AGENTS.md, .pi/APPEND_SYSTEM.md, skills/, prompts/
+```
+
+Or install only the skills and routine prompts: `pi install ./templates/community/personal-admin/wall-street`. The persona in `AGENTS.md` applies only when you run Pi inside the folder.
+
+## What was converted
+
+| Grok Bot | Pi |
+| --- | --- |
+| Profile / persona | `AGENTS.md`, `.pi/APPEND_SYSTEM.md` |
+| Memory (6) | `MEMORY.md` |
+| Skills (2) | `skills/<name>/SKILL.md`, full bodies |
+| Routines (2) | `prompts/<name>.md` (`/name`), verbatim text in `routines/`, schedule sketches in `cron/` and `systemd/` |
+| Plugins (0) | `CONNECTORS.md`, `connectors.json` |
+
+### Routine schedules
+
+- `/weekday-paper-9am`: cron `0 9 * * 1-5` (found in the template text)
+- `/weekday-paper-3pm`: cron `0 15 * * 1-5` (found in the template text)
+
+## What did not translate
+
+- Grok Bot runtime features: shared box computer/browser desktop, Grok channels (Slack/iMessage/email send-as), team multi-bot wake, built-in X/Grok data tools.
+- Routine scheduling and event triggers: Pi has no scheduler; see `prompts/`, `cron/`, `systemd/`.
+
+Content belongs to the original creator; this is an automated format conversion for personal use with Pi.

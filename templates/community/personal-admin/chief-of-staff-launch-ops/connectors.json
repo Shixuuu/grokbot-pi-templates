@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Search events and schedule meetings."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Search, read, create, and share files."
+    },
+    {
+      "name": "MongoDB",
+      "pluginId": "3277",
+      "description": "Connect to any MongoDB deployment (Community, Enterprise Advanced, local dev container via Atlas CLI or Atlas clusters) through a self-managed MongoDB MCP Server using your connection string. Explore data, manage collections, optimize queries, and generate reliable code with MongoDB best practices."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ceo-qj84um",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Owns your Grok Bot roster: assigns work, collects status, pauses idle bots, and keeps the priority stack honest.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qJ84UMp8hFZOOR_Ek0kKC",
+    "url": "https://x.ai/bot/qJ84UMp8hFZOOR_Ek0kKC",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kyle Kane",
+    "creatorHandle": "kylekane",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

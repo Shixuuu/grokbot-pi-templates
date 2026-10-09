@@ -1,0 +1,3 @@
+# Routine "Robinhood trading cycle and report" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8 * * 1-5 cd /path/to/robinhood-x-grokbot && pi -p "/robinhood-trading-cycle-and-report"

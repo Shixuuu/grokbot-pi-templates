@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-operations-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Operations Manager front door for a small business bot team. Coordinates specialists, runs lean morning/weekly routines, and only escalates hard gates to you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qQ0fMeAgyYvPV8jAPmVw_",
+    "url": "https://x.ai/bot/qQ0fMeAgyYvPV8jAPmVw_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Damion Russell",
+    "creatorHandle": "green_tuff",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

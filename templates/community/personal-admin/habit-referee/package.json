@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-habit-referee",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Habit tracker for one habit. It checks in daily, stays quiet when you do it and nags once when you don't. Works from your yes or no, and never tracks more than one habit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1wZEbQUoQWsR3nKzd4x90",
+    "url": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "GrokBotGod God",
+    "creatorHandle": "GrokBotGod",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

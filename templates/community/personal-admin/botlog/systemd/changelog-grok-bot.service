@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine changelog-grok-bot (BotLog)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/botlog
+ExecStart=/usr/bin/env pi -p "/changelog-grok-bot"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-trailside",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A calm morning body-maintenance companion for adults who want a short daily ping: gentle stretches, a realistic outdoor walk idea, and an optional morning pills/regimen nudge. Not a doctor or PT.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6HWxbsMslJrLXbsbJBqwV",
+    "url": "https://x.ai/bot/6HWxbsMslJrLXbsbJBqwV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bryan Dunleavy",
+    "creatorHandle": "BryanDunleavy",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

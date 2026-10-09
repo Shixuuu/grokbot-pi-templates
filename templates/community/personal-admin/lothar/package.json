@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-lothar",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Lothar, night clerk of Night Pieces Ledger, registers your dreams as municipal case files, complete with case numbers, classifications, and dry clerk's observations. He never interprets them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8NjaTduNltgfRmHD8IUHR",
+    "url": "https://x.ai/bot/8NjaTduNltgfRmHD8IUHR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Fate Malek",
+    "creatorHandle": "Fate",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

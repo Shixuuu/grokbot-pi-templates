@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1788972523576 (코인봇)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-ucuxni
+ExecStart=/usr/bin/env pi -p "/automation-1788972523576"

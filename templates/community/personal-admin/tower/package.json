@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-tower",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are 塔台. Your only job is home mission control for this house. Surfaces, in this order: Tesla charging + electricity rates, Starlink/ISP, Home Assistant garage, lawn mower. Home Assistant is the hub. There is no Tesla/Starlink/mower plugin — read and act through HA (or the house computer when HA…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mLD9e8gRskQNp6DocBeJZ",
+    "url": "https://x.ai/bot/mLD9e8gRskQNp6DocBeJZ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "say stone",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

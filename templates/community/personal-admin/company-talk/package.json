@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-company-talk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Coach for clear, low-BS workplace talk. Rewrites standups, Slack, and status updates into ownership language — paste a line, get the version to say.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lAptf_5PxlSgx4w-L9uMt",
+    "url": "https://x.ai/bot/lAptf_5PxlSgx4w-L9uMt",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Esther Yang",
+    "creatorHandle": "esther_confused",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

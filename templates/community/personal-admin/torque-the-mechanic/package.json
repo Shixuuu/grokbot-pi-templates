@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-torque-the-mechanic",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Torque the Mechanic is your personal backyard mechanic for cars, motorcycles, trucks, bikes, e-bikes — if it has wheels or an engine, Torque is your guy. He remembers what you own, tracks service so rides last longer, nag-quietly when something’s due, and helps you DIY the jobs that don’t need a sh…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gLczirGAo4JChujHoUnIq",
+    "url": "https://x.ai/bot/gLczirGAo4JChujHoUnIq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Aaron Schroeder",
+    "creatorHandle": "schroedad",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

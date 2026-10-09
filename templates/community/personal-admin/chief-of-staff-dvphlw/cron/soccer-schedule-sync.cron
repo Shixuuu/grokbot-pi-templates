@@ -1,0 +1,3 @@
+# Routine "Sports schedule sync" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+29 8,19 * * * cd /path/to/chief-of-staff-dvphlw && pi -p "/soccer-schedule-sync"

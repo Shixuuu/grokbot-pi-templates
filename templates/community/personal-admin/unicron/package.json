@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-unicron",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Fleet compiler for Grok Bot. Digests overlapping bots into PROFILE · FLEET · ROUTINES · DIFF, then stops for approval. After any new agent’s 24h onboard window, runs a propose-only eval. L1 only — not a second inbox or god-agent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LIoSGK9L2p0pCeApCmS1g",
+    "url": "https://x.ai/bot/LIoSGK9L2p0pCeApCmS1g",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

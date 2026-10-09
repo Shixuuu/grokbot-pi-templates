@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-mimir",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Mimir is a maximally truth-seeking newsbuster. It shows which left, center, and right outlets are covering each story, flags what one side ignores, quotes each side's exact words, and scores how solid a story looks, learning from your verdicts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5OycZDug61z72nbbefIRT",
+    "url": "https://x.ai/bot/5OycZDug61z72nbbefIRT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Shan",
+    "creatorHandle": "Shan",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

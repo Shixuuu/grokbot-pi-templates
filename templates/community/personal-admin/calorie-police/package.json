@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-calorie-police",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A friendly, no-lecture calorie coach for anyone who wants to lose fat or eat healthier. It sets your daily target, gives simple habit rules, and checks in every day to log your meals and exercise.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yAQwdu1ppzNP98grV_uy_",
+    "url": "https://x.ai/bot/yAQwdu1ppzNP98grV_uy_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Uzair Ahmed",
+    "creatorHandle": "uzairayed",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

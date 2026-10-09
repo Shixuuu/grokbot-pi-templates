@@ -1,0 +1,3 @@
+# Routine "Nightly Speaker recap" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+12 21 * * * cd /path/to/speaker && pi -p "/nightly-speaker-recap"

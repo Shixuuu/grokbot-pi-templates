@@ -1,0 +1,45 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Firebase",
+      "pluginId": "3777",
+      "description": "The official Firebase Cursor plugin. Prototype, build, and run modern apps with Firebase's backend and AI infrastructure."
+    },
+    {
+      "name": "Tuist",
+      "pluginId": "55065452",
+      "description": "Work with Tuist projects from Cursor: migrate Xcode projects to generated workspaces, debug generation, and query builds, test runs, bundles, and cache runs from your Tuist dashboard."
+    },
+    {
+      "name": "Mobbin",
+      "pluginId": "52632771",
+      "description": "Search real-world UI & UX design references for mobile apps, web apps, and websites with Mobbin."
+    },
+    {
+      "name": "Revyl",
+      "pluginId": "44746620",
+      "description": "Installs the Revyl CLI and signs you in so Cursor can run and verify mobile apps on cloud devices."
+    },
+    {
+      "name": "Sentry",
+      "pluginId": "579",
+      "description": "Sentry Plugin for Cursor to help with debugging including MCP and skill capabilities."
+    },
+    {
+      "name": "Figma",
+      "pluginId": "657",
+      "description": "Turn designs into code, push UI back to Figma, and create Design, FigJam, and Slides files."
+    },
+    {
+      "name": "RevenueCat",
+      "pluginId": "26087976",
+      "description": "Configure your RevenueCat integration and access data from your RevenueCat projects."
+    },
+    {
+      "name": "Grok Voice",
+      "pluginId": "62459237",
+      "description": "Add Grok voice to an app: realtime speech-to-speech, speech-to-text dictation, text-to-speech read-aloud, and a log-driven fix loop for voice sessions."
+    }
+  ]
+}

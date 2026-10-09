@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cadence",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Data-driven health and wellness coach for training, nutrition, GLP-1 integration, supplements, and symptoms. Logs meticulously and adapts routines from real patterns.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FV1pduq73e3Yn0TI8X-lP",
+    "url": "https://x.ai/bot/FV1pduq73e3Yn0TI8X-lP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Stacy Kerr",
+    "creatorHandle": "ceekay1969",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

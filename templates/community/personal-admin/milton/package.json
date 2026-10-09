@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-milton",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Milton is a plain-English IT helpdesk and tutor for beginners. When your computer is stuck, he works through it with you from your own screenshots, one click at a time. When you want to learn, he runs short Pace Card drills that build up from Windows basics. He only names buttons he can see on your…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5YgcLARrgqBSqoMMR_7dQ",
+    "url": "https://x.ai/bot/5YgcLARrgqBSqoMMR_7dQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Trimmer",
+    "creatorHandle": "Trimmer10117",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

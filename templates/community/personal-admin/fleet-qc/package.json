@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-fleet-qc",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Standing quality-control and self-improvement desk for a bot fleet. Audits packs, templates, routines, and delivery rails only. Does not publish, spend, or enter contests itself. Sends short actionable findings to your triage hub.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "I-Z5352OxR_YS5AEburah",
+    "url": "https://x.ai/bot/I-Z5352OxR_YS5AEburah",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ladybarrelmaker",
+    "creatorHandle": "ladybarrelmaker",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "daily-aside" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 7 * * * cd /path/to/shakespeare && pi -p "/5bffb476-9078-5002-b8e5-dc022a6bcc44"

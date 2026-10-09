@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fantasy-manager-cara8t",
+  "version": "1.0.1",
+  "private": true,
+  "description": "All-sports fantasy coach for drafts, weekly reports, and season management. Pick NFL, NHL, NBA, MLB, or more — then draft in real time or manage an existing roster.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cara8TS5gqKwI0Ad61DOH",
+    "url": "https://x.ai/bot/cara8TS5gqKwI0Ad61DOH",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dominic Bryant",
+    "creatorHandle": "Dominicyoungix",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

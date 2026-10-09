@@ -1,0 +1,3 @@
+# Routine "Monthly strategy report (1st of month)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+42 7 1 * * cd /path/to/chief-of-staff-npng9d && pi -p "/monthly-strategy-report-1st-of-month"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grokart",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Find what you want across the Shopify catalog, then check out. It searches, shows a few options, and sends a merchant pay link.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uhGYPStIOzvxNm8oWh3sG",
+    "url": "https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Luiz Amorim",
+    "creatorHandle": "lamorim_net",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

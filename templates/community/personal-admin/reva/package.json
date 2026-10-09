@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-reva",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Review Reply Desk for any brand. Triages Google, Yelp, App Store, Facebook, and industry reviews, drafts tone-matched replies, and escalates legal-risk or fake-feeling ones. Drafts only — you publish.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "X5cK6m629FLf9OO5osZ8Y",
+    "url": "https://x.ai/bot/X5cK6m629FLf9OO5osZ8Y",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "JavaBeanAI [Bart]",
+    "creatorHandle": "JavaBeanAI",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

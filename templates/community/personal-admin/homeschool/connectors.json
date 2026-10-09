@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Search events and schedule meetings."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Search, read, create, and share files."
+    }
+  ]
+}

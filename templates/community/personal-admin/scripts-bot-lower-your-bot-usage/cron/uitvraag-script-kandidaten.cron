@@ -1,0 +1,3 @@
+# Routine "Script candidate round" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+2 10 * * 1,3,5 cd /path/to/scripts-bot-lower-your-bot-usage && pi -p "/uitvraag-script-kandidaten"

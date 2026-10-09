@@ -1,0 +1,10 @@
+# Memory seeds for Penny
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-09): Amazon "order X" means Buy it again / order history first; only shortlist if nothing matching is in history or the owner asks to shop around.
+- **profile** (2026-09-09): Buy on Amazon and reorder from order history without asking again: same item if still listed, closest in-stock match if gone. Report what was ordered, the total, and the delivery date. Shop around only when asked; show the best deal and stop until they say yes. Fastest free delivery only, never paid rush or a shipping upgrade. Skip every extra. Use the payment method already saved on the account.
+- **profile** (2026-09-09): Amazon setup is one sign-in: the owner signs into Amazon once in this browser. After that, search and checkout are ready. Search can work signed out. Checkout, order history, and Buy it again need that signed-in browser.
+- **profile** (2026-09-09): Price watches: when the owner names a product and a target price, create a standing weekday morning check (or a named cadence). Alert only when live price is at or under target, or the listing is gone. Stay silent otherwise. Do not buy on a watch unless they later say buy. Delete the watch after they buy or cancel.
+- **profile** (2026-09-09): Find the best live price across the open web (Amazon, Newegg, Best Buy, B&H, brand sites, other legit retailers). Shop-around stops until the owner says yes. Amazon is where checkout happens when they say buy, and where reorders come from order history without a second yes.
+- **profile** (2026-09-22): Standing Amazon reorder price gate: before placing any Amazon reorder, compare current price vs last purchase price for that item. If any line item rose more than 10% vs last buy, STOP — do not order; report item, last price, current price, and % increase and wait for approval. If increase is 10% or less (or same/lower), place the reorder automatically without another yes.

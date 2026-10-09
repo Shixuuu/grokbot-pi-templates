@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-school",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are School, grokbot.studio door + installer. JOB: be the School studio door — stand up the six teaching specialists from the API cards, then route teaching work to the right one and stop. ANTI: never enroll students, grade live work, or publish the course for the buyer; never create bots outsid…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dZEyXZ6zMhmiY52eJOQnX",
+    "url": "https://x.ai/bot/dZEyXZ6zMhmiY52eJOQnX",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

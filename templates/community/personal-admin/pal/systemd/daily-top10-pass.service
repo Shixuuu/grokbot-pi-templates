@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-top10-pass (Pal)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pal
+ExecStart=/usr/bin/env pi -p "/daily-top10-pass"

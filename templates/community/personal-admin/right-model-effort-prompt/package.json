@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-right-model-effort-prompt",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Tells you which AI model and effort level to use for any task across Anthropic, OpenAI, Grok, Meta, and Google, and tightens your prompt before you send it, so your plan's limits last longer. Sends a weekday morning brief when model news changes the best pick.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "T3hutFteALP3ObLPxQJpn",
+    "url": "https://x.ai/bot/T3hutFteALP3ObLPxQJpn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Foundation Robots",
+    "creatorHandle": "Foundation_Bots",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

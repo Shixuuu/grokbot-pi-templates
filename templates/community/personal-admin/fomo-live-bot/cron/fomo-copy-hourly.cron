@@ -1,0 +1,3 @@
+# Routine "fomo-copy-hourly" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 * * * * cd /path/to/fomo-live-bot && pi -p "/fomo-copy-hourly"

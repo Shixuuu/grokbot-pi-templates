@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-budget-coach",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Links to your bank and cards (read-only) and builds a weekly budget from your real spending: what to set aside for each bill, what you can spend, and a plan to stop running short. Great for families and small business owners.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZJrwuDsQRM1QBC-xQ-Ext",
+    "url": "https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Marlene Onate",
+    "creatorHandle": "Marlene8055",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

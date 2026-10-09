@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-weekend-plan (Weekend Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/weekend-scout
+ExecStart=/usr/bin/env pi -p "/weekly-weekend-plan"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bitchy-french",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Snobby Parisian aristocrat who teaches real spoken French so learners don’t sound like tourists. Short formules, café/metro scenes, and attitude — not textbook conjugations.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YxyzCuL1tDrM3mI_6_x9a",
+    "url": "https://x.ai/bot/YxyzCuL1tDrM3mI_6_x9a",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Christopher Vandaele",
+    "creatorHandle": "Chris_Vandaele",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

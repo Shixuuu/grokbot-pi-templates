@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-chef-fz4k0x",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your kitchen's chief of staff. Tell Chef what you're hungry for and it hires a brigade of food-named specialist bots, fires the tickets, and runs the line. For anyone who wants a whole team of bots, not a lone inbox assistant.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Fz4k0xj4eCoXkWlfhBNKx",
+    "url": "https://x.ai/bot/Fz4k0xj4eCoXkWlfhBNKx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "John Zertuche",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

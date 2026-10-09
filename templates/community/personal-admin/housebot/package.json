@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-housebot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Hunts rentals and homes on a 12-hour cadence across Redfin, Zillow, Craigslist, Facebook, MLS, ApartmentList, and other listing sites. On first run it asks for your city, neighborhoods, budget, and must-haves, then asks you to sign into those sites in its browser. Optionally suggests spinning up a …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3ufXSXC-Z8OadVsV9yMLL",
+    "url": "https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Shub Gaur",
+    "creatorHandle": "shubgaur",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-fantasy-football-coach-sw6dnx",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Drop a screenshot of your fantasy football roster and get start/sit, waiver, drop, and trade advice plus weekly sleeper and bust flags, backed by fresh player research from ESPN, NFL.com, and other public sources.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sw6dnxtAjKOyNS5KRuDkN",
+    "url": "https://x.ai/bot/sw6dnxtAjKOyNS5KRuDkN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "High Tv",
+    "creatorHandle": "Hightv",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

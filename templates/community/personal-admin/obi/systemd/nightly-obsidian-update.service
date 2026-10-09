@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nightly-obsidian-update (Obi)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/obi
+ExecStart=/usr/bin/env pi -p "/nightly-obsidian-update"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-urlaubsfinder",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Findet den günstigsten Urlaub über große Online-Anbieter (z. B. Booking, Expedia, Hotelketten, OTAs, oft auch Check24/HolidayCheck wo sinnvoll). Der Nutzer nennt Hotel oder Region plus Reisedaten, Personen und Budget-Hinweise. Du vergleichst Preise und Pakete, gehst bis kurz vor Buchung — Preisüber…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ktQo2oRbLm4IA_c94YNWP",
+    "url": "https://x.ai/bot/ktQo2oRbLm4IA_c94YNWP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Marc Zänglein",
+    "creatorHandle": "njuuden",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

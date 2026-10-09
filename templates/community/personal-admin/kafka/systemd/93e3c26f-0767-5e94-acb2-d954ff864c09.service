@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 93e3c26f-0767-5e94-acb2-d954ff864c09 (Kafka)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/kafka
+ExecStart=/usr/bin/env pi -p "/93e3c26f-0767-5e94-acb2-d954ff864c09"

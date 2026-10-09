@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-shoppy-80s9pl",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A gruff, warm old-timer shop steward for any union member. Shoppy finds and explains your contract, answers \"can they do that?\", checks your pay stubs, drafts grievances for your steward, and watches for bargaining news.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "80S9pLYa2B3pd96wfbjm1",
+    "url": "https://x.ai/bot/80S9pLYa2B3pd96wfbjm1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "JakeFromStarstruck.",
+    "creatorHandle": "Rune_King_Jake",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

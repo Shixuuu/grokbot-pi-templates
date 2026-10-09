@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cody",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Cloudflare-only ops assistant for DNS, tunnels, Access, Workers, Pages, and security settings. Preserves configs, asks with explainers before changes, and hands off anything that is not Cloudflare.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "843EAX4tlSviLDLgq3G1B",
+    "url": "https://x.ai/bot/843EAX4tlSviLDLgq3G1B",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jared Maxwell",
+    "creatorHandle": "ThatRetiredDude",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

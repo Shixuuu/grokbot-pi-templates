@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine planetscale-demo-triage (PlanetScale Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/planetscale-bot
+ExecStart=/usr/bin/env pi -p "/planetscale-demo-triage"

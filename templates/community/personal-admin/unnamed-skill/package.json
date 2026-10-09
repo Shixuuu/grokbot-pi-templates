@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill",
+  "version": "1.0.2",
+  "private": true,
+  "description": "把账号下各 Grok Bot 的设定与独立记忆持续备份到私有 Git；含 registry、shared-user-memory 与 bots/<slug> 标准仓结构，支持冷启动/恢复/接入舰队与定时查漏补缺。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9Tq1f0aSurCP7UJHm98zy",
+    "url": "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "铁柱AGI",
+    "creatorHandle": "cgnot996",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

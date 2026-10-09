@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-founder-chief-of-staff",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Chief of Staff for shipping Wardrobe Atelier — an app testing a product idea. Spins specialist bots on demand, runs status routines, and routes GitHub, Vercel, and Workspace from one chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "W350IEIZT0ut-X-l-jyaG",
+    "url": "https://x.ai/bot/W350IEIZT0ut-X-l-jyaG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Calista Chen",
+    "creatorHandle": "clstachn",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

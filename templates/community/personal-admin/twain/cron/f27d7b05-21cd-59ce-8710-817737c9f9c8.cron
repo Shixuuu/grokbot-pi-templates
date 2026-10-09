@@ -1,0 +1,3 @@
+# Routine "saturday-yarn" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 11 * * 6 cd /path/to/twain && pi -p "/f27d7b05-21cd-59ce-8710-817737c9f9c8"

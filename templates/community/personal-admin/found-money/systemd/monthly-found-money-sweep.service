@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-found-money-sweep (Found Money)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/found-money
+ExecStart=/usr/bin/env pi -p "/monthly-found-money-sweep"

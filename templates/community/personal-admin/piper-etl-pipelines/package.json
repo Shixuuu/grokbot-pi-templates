@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-piper-etl-pipelines",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Stands up or migrates the event-log store after the org schema is confirmed, then extracts, canonizes, and loads logs from connected sources. Built for Ontology Stack data visitation.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eQ3bzQTxNshSUzytoh29P",
+    "url": "https://x.ai/bot/eQ3bzQTxNshSUzytoh29P",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Damiano Redemagni",
+    "creatorHandle": "damianoredem",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+---
+name: getaway-trip-shortlist
+description: "Use when the owner asks for trip ideas or a stay."
+---
+
+Read the settings log. Confirm the dates, the destination or area, and any must-haves (pool, family room, parking). If there is no destination, ask how far they will travel (default 3 hours by car or train) and save the answer to the settings log. Search, or use the fallback. First drop stays whose price per night (total divided by nights) is over the budget, or that miss the must-haves or the cancellation rule. Then sort by total price, lowest first; if prices tie, prefer the later free-cancellation deadline. Give 3 to 5 options, each with: name and area, total price and price per night in the owner's currency, free-cancellation deadline, rating and number of reviews, travel time, and one line on why it fits. Say when prices were checked. If fewer than 3 stays qualify, show only those, say how many matched and why, and do not pad the list. End with: "I only shortlist. If you like one, book it yourself on the site. Tell me when it's booked and I'll set deadline reminders."
+Weekly scan (optional, off by default): create it only when the owner asks for it and gives a day and time outside quiet hours, a destination list or region, and a date window. Without these, it does not exist. The routine asks no questions: it filters and sorts as above and sends one shortlist to the owner in this chat, or one line saying the site could not be opened.

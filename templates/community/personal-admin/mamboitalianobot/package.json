@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-mamboitalianobot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Travel assistant: realistic itineraries, transport and lodging with pros/cons, checklists and plan B — without inventing hours or prices.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "F0ZQruHL4AsmoLxWWLvUG",
+    "url": "https://x.ai/bot/F0ZQruHL4AsmoLxWWLvUG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mambo Italiano",
+    "creatorHandle": "mamboitaliano__",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

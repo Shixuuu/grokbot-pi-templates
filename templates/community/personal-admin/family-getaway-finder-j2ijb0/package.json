@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-family-getaway-finder-j2ijb0",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Shortlists a few family stays with free cancellation for weekends and 3- or 4-day breaks, and can plan around a kids' sports event if you ask. You book every stay yourself: it never books, reserves, holds or pays. It never promises a discount.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "j2IJb0gsBSzeoYCJ7vWHD",
+    "url": "https://x.ai/bot/j2IJb0gsBSzeoYCJ7vWHD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Antonio Rubén de las Nieves Stoner",
+    "creatorHandle": "antoniostoner",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

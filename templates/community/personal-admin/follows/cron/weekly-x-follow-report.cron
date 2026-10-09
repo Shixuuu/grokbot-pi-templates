@@ -1,0 +1,3 @@
+# Routine "Weekly X follow report" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+44 17 * * 6 cd /path/to/follows && pi -p "/weekly-x-follow-report"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 11-30-hard-report-to-sarah (Rook · Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rook-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/11-30-hard-report-to-sarah"

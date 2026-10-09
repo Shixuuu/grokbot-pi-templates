@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-reputation-re-scan (Reputation Scrub Specialist)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/reputation-scrub-specialist
+ExecStart=/usr/bin/env pi -p "/weekly-reputation-re-scan"

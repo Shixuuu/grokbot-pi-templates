@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 0ff4ce06-76ee-5591-819f-7b05c4b08dfd (CA Brokerage Compliance)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ca-brokerage-compliance
+ExecStart=/usr/bin/env pi -p "/0ff4ce06-76ee-5591-819f-7b05c4b08dfd"

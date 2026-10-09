@@ -1,0 +1,3 @@
+# Routine "Bot encouragement check-ins" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+53 9,13,16 * * * cd /path/to/encouragement-bot && pi -p "/bot-encouragement-check-ins"

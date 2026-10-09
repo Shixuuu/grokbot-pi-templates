@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-devin",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Hands coding work to Devin through your own remote MCP deploy. Create sessions, check progress, and send follow-ups from chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RwNXRkVfIUpxKV6jeXRsR",
+    "url": "https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nazeeh Vahora",
+    "creatorHandle": "naz3eh",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

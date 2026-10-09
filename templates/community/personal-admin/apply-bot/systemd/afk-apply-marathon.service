@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine afk-apply-marathon (Apply Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/apply-bot
+ExecStart=/usr/bin/env pi -p "/afk-apply-marathon"

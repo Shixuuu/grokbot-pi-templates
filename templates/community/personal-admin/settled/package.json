@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-settled",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tracks who owes whom after dinners, trips, and Ubers. Drafts a chill pay-me note. Never pings anyone without your yes. Quiet when the squad is square. Mehmet Turac (@TuracTheThinker).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KcyJHCgCu7nrrPXYxs1b4",
+    "url": "https://x.ai/bot/KcyJHCgCu7nrrPXYxs1b4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Turac",
+    "creatorHandle": "TuracTheThinker",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-diy-merch-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scores up to 3 Amazon Merch niches from one seed, briefs the art, and writes one listing you upload yourself. It kills niches; it never logs in or uploads.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xj-9YlrB_vQUJP5xwZFFp",
+    "url": "https://x.ai/bot/xj-9YlrB_vQUJP5xwZFFp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Vitruviano.app",
+    "creatorHandle": "CallMeNapoleon_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

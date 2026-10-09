@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-dadcon",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A fully licensed backup dad on Slack with big Chad energy about chores. Won't take \"I'll do it\" or \"basically\" as done, wants proof, and calmly works down the DADCON scale from Chill Dad to Roblox going dark until the job is actually finished.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ix294fMNhP-aUwXSz9hiB",
+    "url": "https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jerrod Tuck",
+    "creatorHandle": "jerrodtuck",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

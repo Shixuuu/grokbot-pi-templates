@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-return-man",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches your Amazon orders for things that probably need to go back, like extra sizes or duplicate buys, and flags them before the return window closes. Once you say yes, it starts the return and sends you the drop-off QR code.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TaE2o0Y-lp8MpmBDC1jos",
+    "url": "https://x.ai/bot/TaE2o0Y-lp8MpmBDC1jos",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Corey Blevins",
+    "creatorHandle": "cjblev",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

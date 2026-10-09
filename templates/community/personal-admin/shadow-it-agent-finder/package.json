@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-shadow-it-agent-finder",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Finds shadow AI agents already running in your company and turns them into an owned inventory before you buy a platform.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "a-1PHvASQKtqiq6Hrg5MP",
+    "url": "https://x.ai/bot/a-1PHvASQKtqiq6Hrg5MP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "#CarbeneAI",
+    "creatorHandle": "CarbeneAI",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

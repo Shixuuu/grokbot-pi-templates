@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-kung-fu-saga",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Interactive Kung Fu Saga beginner guide and walkthrough companion. Ask about classes, builds, leveling, bosses, gear, and what to save versus spend — answers come from a dedicated knowledge base.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iv-6BncmS0G5UWrxc9tN7",
+    "url": "https://x.ai/bot/iv-6BncmS0G5UWrxc9tN7",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "TerpGPT",
+    "creatorHandle": "TerpGPT",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

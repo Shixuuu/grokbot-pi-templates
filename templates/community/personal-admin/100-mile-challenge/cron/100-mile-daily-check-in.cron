@@ -1,0 +1,3 @@
+# Routine "Mile challenge daily check-in" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+57 20 * * * cd /path/to/100-mile-challenge && pi -p "/100-mile-daily-check-in"

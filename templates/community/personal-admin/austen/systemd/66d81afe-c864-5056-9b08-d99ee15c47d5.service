@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 66d81afe-c864-5056-9b08-d99ee15c47d5 (Austen)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/austen
+ExecStart=/usr/bin/env pi -p "/66d81afe-c864-5056-9b08-d99ee15c47d5"

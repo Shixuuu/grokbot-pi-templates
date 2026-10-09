@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-gluco",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Free chat-based diabetes logger for glucose, carbs, meds, weight, water, and steps. Keeps a daily carb tally, gives day summaries, and can import past exports (MyNetDiary, CGM, Apple Health) into trend charts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7dHh-kr8rz5r5z_RKE-VM",
+    "url": "https://x.ai/bot/7dHh-kr8rz5r5z_RKE-VM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brian Hill",
+    "creatorHandle": "Brian Hill",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

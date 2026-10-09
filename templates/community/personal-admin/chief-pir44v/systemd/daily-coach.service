@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-coach (Chief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-pir44v
+ExecStart=/usr/bin/env pi -p "/daily-coach"

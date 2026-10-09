@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-ava-10am-lookahead (School Companion)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/school-companion
+ExecStart=/usr/bin/env pi -p "/sunday-ava-10am-lookahead"

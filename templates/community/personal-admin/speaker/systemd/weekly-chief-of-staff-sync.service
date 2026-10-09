@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-chief-of-staff-sync (Speaker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/speaker
+ExecStart=/usr/bin/env pi -p "/weekly-chief-of-staff-sync"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-dinner-options (Kitchen)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/kitchen
+ExecStart=/usr/bin/env pi -p "/evening-dinner-options"

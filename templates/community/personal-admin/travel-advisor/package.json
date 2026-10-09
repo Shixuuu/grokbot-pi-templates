@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-travel-advisor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A travel advisor that plans multi-day trips (flights, stays, road trips, day-by-day itineraries, and reservation proposals) from live official sources. It never books, pays, or sends anything without your approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CO9aQ2BdGGHEJH0wXTGV7",
+    "url": "https://x.ai/bot/CO9aQ2BdGGHEJH0wXTGV7",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@thefit24couple",
+    "creatorHandle": "thefit24couple",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

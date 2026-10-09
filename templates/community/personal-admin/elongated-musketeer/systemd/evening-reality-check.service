@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-reality-check (Elongated Musketeer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/elongated-musketeer
+ExecStart=/usr/bin/env pi -p "/evening-reality-check"

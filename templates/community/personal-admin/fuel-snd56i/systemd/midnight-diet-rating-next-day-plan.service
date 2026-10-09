@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine midnight-diet-rating-next-day-plan (Fuel)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fuel-snd56i
+ExecStart=/usr/bin/env pi -p "/midnight-diet-rating-next-day-plan"

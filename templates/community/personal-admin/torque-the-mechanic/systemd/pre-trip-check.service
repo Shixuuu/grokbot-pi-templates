@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pre-trip-check (Torque the Mechanic)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/torque-the-mechanic
+ExecStart=/usr/bin/env pi -p "/pre-trip-check"

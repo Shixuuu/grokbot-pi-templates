@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1791152816187 (地雷系メンヘラギャル)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-i8bwhs
+ExecStart=/usr/bin/env pi -p "/automation-1791152816187"

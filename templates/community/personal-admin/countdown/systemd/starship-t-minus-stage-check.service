@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine starship-t-minus-stage-check (Countdown)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/countdown
+ExecStart=/usr/bin/env pi -p "/starship-t-minus-stage-check"

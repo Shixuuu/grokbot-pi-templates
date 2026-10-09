@@ -1,0 +1,3 @@
+# Routine "Route deal watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+41 */4 * * * cd /path/to/flights && pi -p "/bkk-tbs-deal-watch"

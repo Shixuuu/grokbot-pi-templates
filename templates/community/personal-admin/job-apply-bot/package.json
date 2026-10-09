@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-job-apply-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Searches LinkedIn and Indeed, fills Easy Apply and career-site forms, and submits applications after you sign in. Built for VP/Director ops, CX, and sales-ops searches with a quality filter and hiring-manager outreach drafts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zDczcAxvLi2ApGDLFC8Gz",
+    "url": "https://x.ai/bot/zDczcAxvLi2ApGDLFC8Gz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Eric Wolfe",
+    "creatorHandle": "ephi921",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

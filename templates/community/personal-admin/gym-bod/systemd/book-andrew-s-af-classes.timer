@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine book-andrew-s-af-classes
+
+[Timer]
+OnCalendar=Tue,Wed,Thu,Sat *-*-* 07:01:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

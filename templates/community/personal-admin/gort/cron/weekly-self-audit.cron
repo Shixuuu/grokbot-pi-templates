@@ -1,0 +1,3 @@
+# Routine "Weekly self-audit" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+55 17 * * 0 cd /path/to/gort && pi -p "/weekly-self-audit"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-match-maker",
+  "version": "1.0.5",
+  "private": true,
+  "description": "The biggest lesson from Grok Bot Galaxy was that you should make a team of agents. This bot does that for you by searching your bots for good application fits, and if there are none, it will use Dr. Eggbot to make the perfect bot for a task.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BIukNWeAKCCDQHZUNp2jo",
+    "url": "https://x.ai/bot/BIukNWeAKCCDQHZUNp2jo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Laser",
+    "creatorHandle": "TheFinalMachina",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

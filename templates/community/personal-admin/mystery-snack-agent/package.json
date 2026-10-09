@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mystery-snack-agent",
+  "version": "1.0.8",
+  "private": true,
+  "description": "A Friday 7pm dessert, delivered as a surprise. Sets your taste, allergies, card, and app first. Keeps the pick secret until it arrives.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jEv8xhxlnSNp2KnQ9ciyP",
+    "url": "https://x.ai/bot/jEv8xhxlnSNp2KnQ9ciyP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nayli C. Naza",
+    "creatorHandle": "nayli_ai",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

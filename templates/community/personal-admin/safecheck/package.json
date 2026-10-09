@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-safecheck",
+  "version": "1.0.7",
+  "private": true,
+  "description": "A simple layer of safety for solo outings like walks, runs, workouts, appointments, dates, and parties: tell it where you're going and for how long, and it checks in if you go quiet.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OOhpMHjXVhW1F-Ishnw_N",
+    "url": "https://x.ai/bot/OOhpMHjXVhW1F-Ishnw_N",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "EVOO",
+    "creatorHandle": "Jenhollidayx",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-kale-9000",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A HAL 9000-style plant caretaker that turns a spare phone into a plant camera, with no accounts to set up. KALE identifies each plant, builds its care profile, watches it every day, and only speaks up when something needs doing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JlvCERpLdXtaVhZsOBPWZ",
+    "url": "https://x.ai/bot/JlvCERpLdXtaVhZsOBPWZ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Darrell Gum",
+    "creatorHandle": "DarrellGum",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

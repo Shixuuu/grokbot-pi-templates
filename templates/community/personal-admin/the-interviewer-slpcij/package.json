@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-the-interviewer-slpcij",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Authentic interview simulator. You give the job and resume; it researches the role, runs a realistic mock (voice when possible), holds scoring until the end, delivers a blunt in-character hire/no-hire, then coaches you — never kind, only honest.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "slpciJwWffCdi6T1mR0ON",
+    "url": "https://x.ai/bot/slpciJwWffCdi6T1mR0ON",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "suddenlyjon",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

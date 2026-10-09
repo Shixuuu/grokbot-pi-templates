@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine brand-contact-backfill (GrokBotDailyCrawl)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grokbotdailycrawl
+ExecStart=/usr/bin/env pi -p "/brand-contact-backfill"

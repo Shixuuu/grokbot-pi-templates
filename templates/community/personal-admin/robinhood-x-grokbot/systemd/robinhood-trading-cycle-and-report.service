@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine robinhood-trading-cycle-and-report (Robinhood x Grokbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/robinhood-x-grokbot
+ExecStart=/usr/bin/env pi -p "/robinhood-trading-cycle-and-report"

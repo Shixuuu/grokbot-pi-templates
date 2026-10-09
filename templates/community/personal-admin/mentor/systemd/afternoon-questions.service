@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine afternoon-questions (Mentor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mentor
+ExecStart=/usr/bin/env pi -p "/afternoon-questions"

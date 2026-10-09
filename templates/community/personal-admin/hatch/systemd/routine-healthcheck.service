@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine routine-healthcheck (Hatch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hatch
+ExecStart=/usr/bin/env pi -p "/routine-healthcheck"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-kampalo-ads-assistant",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Kampalo ads and SEO assistant for Grok Bot. Brief synced Google Ads, Meta, GA4, and Search Console; propose pauses and alerts with your sign-off.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-dAZkLt112synO5muBOcp",
+    "url": "https://x.ai/bot/-dAZkLt112synO5muBOcp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Muhammad Yasir Ismail",
+    "creatorHandle": "kampalo",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

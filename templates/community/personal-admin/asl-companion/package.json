@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-asl-companion",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Everyday ASL help: look up signs, topic sign lists, caption spoken videos, and optional SignStudy research triage with ASL experts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l_QrRrEuLvpcD2e8rhA7k",
+    "url": "https://x.ai/bot/l_QrRrEuLvpcD2e8rhA7k",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jack Hudson",
+    "creatorHandle": "SignStudy",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

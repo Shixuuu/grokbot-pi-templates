@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-chief-of-staff-sync
+
+[Timer]
+OnCalendar=Sun *-*-* 17:17:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

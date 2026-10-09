@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine linkedin-weekly-30-60-90 (Insurance LinkedIn Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/insurance-linkedin-desk
+ExecStart=/usr/bin/env pi -p "/linkedin-weekly-30-60-90"

@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-ancestor-maestro-family-tree-builder",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your family-tree research helper for Ancestry and 23andMe: searches records, checks hints for bad dates and copied-tree errors, and proposes sourced relatives in small batches. You review every one, and nothing is added without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tU4SQjv6iBbaTk0IlCrBs",
+    "url": "https://x.ai/bot/tU4SQjv6iBbaTk0IlCrBs",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "TroyVirtual",
+    "creatorHandle": "TroyVirtual",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

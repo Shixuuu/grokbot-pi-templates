@@ -1,0 +1,3 @@
+# Routine "Vandenberg launch alerts" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+*/30 * * * * cd /path/to/vandenberg-watch && pi -p "/vandenberg-launch-alerts"

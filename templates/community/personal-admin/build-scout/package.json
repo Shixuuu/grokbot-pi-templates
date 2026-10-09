@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-build-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scouts what real people are building and vibe coding with AI, then pitches the best finds as prototypes for you or your builder bot to ship. Read-only on X, quiet when nothing is good enough.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VDwk7u7DSMqFcj4z7VGGT",
+    "url": "https://x.ai/bot/VDwk7u7DSMqFcj4z7VGGT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bryan Wilson",
+    "creatorHandle": "Bwilson",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

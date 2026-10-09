@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-insurance-linkedin-desk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Texas insurance-coverage LinkedIn publish gate: turns SCOTX / courts of appeals / Fifth Circuit coverage hooks into short Human Voice drafts (issue/weird/angle + cite + opinion PDF). Draft-only until green light. Not a copy Humanizer. Not a Content OS.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "H8RbeHK0_q89uVZc2NiW0",
+    "url": "https://x.ai/bot/H8RbeHK0_q89uVZc2NiW0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ladybarrelmaker",
+    "creatorHandle": "ladybarrelmaker",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

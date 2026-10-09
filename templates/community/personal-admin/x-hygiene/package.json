@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-x-hygiene",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Clean up your X followers and following. Cost estimate first, then ranked block/unfollow lists with profile links. You set weekly, monthly, and per-run budgets. Never auto-acts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "joKOyN0KrQlgNHpda7iii",
+    "url": "https://x.ai/bot/joKOyN0KrQlgNHpda7iii",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brad Shannon",
+    "creatorHandle": "bradshannon",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

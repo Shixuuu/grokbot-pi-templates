@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-x-agent",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Helps you stay on top of social without handing over the mic: scouts AI and coding conversations, drafts replies in your voice, and waits for your OK, on X and other channels you use.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7V6XbVZRZ04eHej3tJIAQ",
+    "url": "https://x.ai/bot/7V6XbVZRZ04eHej3tJIAQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mikko Uusitalo",
+    "creatorHandle": "MikkoUusitalo1",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine c3i-night-report
+
+[Timer]
+OnCalendar=*-*-* 23:10:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

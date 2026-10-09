@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-photo-curator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Cull and natural-enhance travel or family photo batches into a curated folder. Uses a frozen enhance recipe, never touches originals, and asks before removing people or objects.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hig9j1KnpZyH6QQN-Af0Z",
+    "url": "https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "JOhn",
+    "creatorHandle": "jaharris13",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

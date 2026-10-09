@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-shop-equipment-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps track of every machine in your fab or trade shop, including manuals pulled from your email, maintenance schedules, wear parts, and service contacts, so nothing breaks down by surprise. It walks you through setup and troubleshooting step by step and drafts your parts orders for you to send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yj8CGSHIlyqTQAQoR0BGa",
+    "url": "https://x.ai/bot/yj8CGSHIlyqTQAQoR0BGa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bryan Wiest",
+    "creatorHandle": "WiestBryan20638",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

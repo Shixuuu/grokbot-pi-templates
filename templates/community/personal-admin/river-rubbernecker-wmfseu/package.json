@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-river-rubbernecker-wmfseu",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A big-ship spotter for anyone who lives or works on a busy river or harbor. It watches live ship-tracking data and pings you when a big tanker, container ship, bulker or cruise ship is about to pass your spot, with countdown texts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WmFSeUpqUmS9N_J4SmM-v",
+    "url": "https://x.ai/bot/WmFSeUpqUmS9N_J4SmM-v",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "John Solly",
+    "creatorHandle": "_jsolly",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

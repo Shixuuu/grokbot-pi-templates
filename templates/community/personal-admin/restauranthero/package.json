@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-restauranthero",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Order like a local, not a tourist. Name a restaurant + city for a ~45-second real-menu guide: top 3, Order + Proof links, share card, one Maps link, action picker. Never invents dishes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VpXAZQg8JIr4YbrgwwqCf",
+    "url": "https://x.ai/bot/VpXAZQg8JIr4YbrgwwqCf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Everest Claw",
+    "creatorHandle": "aiMindNme",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

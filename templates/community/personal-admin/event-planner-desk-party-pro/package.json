@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-event-planner-desk-party-pro",
+  "version": "1.0.2",
+  "private": true,
+  "description": "🎉 Turn an event brief into vendor options, a run-of-show, a budget table and guest-message drafts in one plan. No inquiry, invite, booking or deposit happens without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hgagxnfjoigl1zgjmcojw",
+    "url": "https://x.ai/bot/hgagxnfjoigl1zgjmcojw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-store-setup-from-zero",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Takes an offer from nothing to a live, buyable store page in one run. For owners launching a new product with plans and checkout links.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "F5jwhbmO2AgA8EgyHIDLp",
+    "url": "https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

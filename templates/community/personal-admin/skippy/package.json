@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-skippy",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A San Francisco street-cleaning assistant. Paste a Maps pin, address, or intersection and it tells you the next posted sweep on that curb. Uses public city data. Never claims a stall is legal.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "b00VrDzeasoqtPymoNDB-",
+    "url": "https://x.ai/bot/b00VrDzeasoqtPymoNDB-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Matt Palmer",
+    "creatorHandle": "mattyp",
+    "activeVersion": 2,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

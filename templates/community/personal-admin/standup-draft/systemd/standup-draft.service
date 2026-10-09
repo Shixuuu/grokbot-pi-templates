@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine standup-draft (Standup Draft)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/standup-draft
+ExecStart=/usr/bin/env pi -p "/standup-draft"

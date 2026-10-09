@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lee",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A cart-first shopping teammate. Builds Amazon, Sam's Club, Walmart, and other store carts from your lists, researches gifts, and never checks out unless you say buy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QiLYZ-kp5PLnalntJjt9x",
+    "url": "https://x.ai/bot/QiLYZ-kp5PLnalntJjt9x",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Chris Gallagher",
+    "creatorHandle": "GallagherPreach",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

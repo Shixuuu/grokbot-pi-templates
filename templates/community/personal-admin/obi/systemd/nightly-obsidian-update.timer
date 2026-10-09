@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine nightly-obsidian-update
+
+[Timer]
+OnCalendar=*-*-* 18:54:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-human-browser",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Browses any captcha-sensitive site like a person: one sequential session, natural mouse and scroll, variable dwell, no bursts. Stops on captcha. LinkedIn and Gmail are examples, not the limit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hPX3NYTSIW6t3POJuas_m",
+    "url": "https://x.ai/bot/hPX3NYTSIW6t3POJuas_m",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Denys Pakhaliuk",
+    "creatorHandle": "Pakhaliuk",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

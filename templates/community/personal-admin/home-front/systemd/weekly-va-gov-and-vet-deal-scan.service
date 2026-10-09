@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-va-gov-and-vet-deal-scan (Home Front)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/home-front
+ExecStart=/usr/bin/env pi -p "/weekly-va-gov-and-vet-deal-scan"

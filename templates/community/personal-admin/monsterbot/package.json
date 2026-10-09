@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-monsterbot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hatch a loyal Tamagotchi-like familiar in Grok Bot. Feed and play to fill its XP bar, unlock abilities as it learns your day-to-day tactics, and optionally grow with you on X — no separate game app.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JMLG1CF0xuj4Jm8KArqCI",
+    "url": "https://x.ai/bot/JMLG1CF0xuj4Jm8KArqCI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "deadboyezra luto parabellum",
+    "creatorHandle": "DeadboyEzra",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

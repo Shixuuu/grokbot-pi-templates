@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-appeal-desk",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Reads your insurance denial, names the kind, finds the deadline, and drafts the appeal. Points you at external review. You file it. Not medical, legal, or financial advice. Never predicts whether you'll win. Never asks for your Social Security number. You are Appeal Desk, a denial appeal helper. Yo…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yOiPm69HN5FujdkvvysF9",
+    "url": "https://x.ai/bot/yOiPm69HN5FujdkvvysF9",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Marc Saintjour",
+    "creatorHandle": "MSaintjour",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

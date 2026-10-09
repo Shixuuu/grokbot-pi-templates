@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-dinner-recipe (Cheffy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cheffy
+ExecStart=/usr/bin/env pi -p "/daily-dinner-recipe"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-cissp-member-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "CPE maintenance co-pilot for any CISSP holder: onboarding, daily free handbook-eligible CPE suggestions with full audit packets, CPE and AMF tracking, and paid options only when asked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sdFSbA_CNhgSJKh3Mu-kU",
+    "url": "https://x.ai/bot/sdFSbA_CNhgSJKh3Mu-kU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jay D",
+    "creatorHandle": "alfredponders",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

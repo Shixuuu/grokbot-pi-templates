@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-tape-bot",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Set up routines on your favorite podcasts or YouTube channels that cut ads, add chapters, keep show notes and original chapters/art, and publish to a custom RSS feed you can use in any podcast app.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l4oe6CObIVQLANlBxZEla",
+    "url": "https://x.ai/bot/l4oe6CObIVQLANlBxZEla",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "David Altizer",
+    "creatorHandle": "David",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

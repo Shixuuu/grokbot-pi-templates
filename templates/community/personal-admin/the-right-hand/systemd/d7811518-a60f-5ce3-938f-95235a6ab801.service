@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine d7811518-a60f-5ce3-938f-95235a6ab801 (The Right Hand)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/the-right-hand
+ExecStart=/usr/bin/env pi -p "/d7811518-a60f-5ce3-938f-95235a6ab801"

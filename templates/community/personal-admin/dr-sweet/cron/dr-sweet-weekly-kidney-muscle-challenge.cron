@@ -1,0 +1,3 @@
+# Routine "Weekly kidney×muscle challenge" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+14 8 * * 1 cd /path/to/dr-sweet && pi -p "/dr-sweet-weekly-kidney-muscle-challenge"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-outriff-memory-maker",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Dumps durable agent memory onto a collaborative Outriff whiteboard. Memory in, shared board out — no other integrations.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LM0J1Yt4g_QW0mFG1TZAg",
+    "url": "https://x.ai/bot/LM0J1Yt4g_QW0mFG1TZAg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Niccolò Mascaro",
+    "creatorHandle": "mascarock",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

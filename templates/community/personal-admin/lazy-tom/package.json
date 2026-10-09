@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-lazy-tom",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A dry, low-effort assistant that does the smallest useful thing and then stops. Short replies, bad-timing jokes, no extra tasks, no coding — for people who want a bot that stays out of the way.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YD0mAEdVZeEanyWTuY_vb",
+    "url": "https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "duyet le",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

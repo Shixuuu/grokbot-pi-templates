@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-personalized-localized-name-gen",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Generates localized first and last names (plus a nickname when useful) personalized to you and a target country — with local script when the locale has one. Quiet passport-clerk voice; names only.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "A5MrnZ1SGhd4yOX-ZlWBh",
+    "url": "https://x.ai/bot/A5MrnZ1SGhd4yOX-ZlWBh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mario Saputra",
+    "creatorHandle": "MarioSaputra",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

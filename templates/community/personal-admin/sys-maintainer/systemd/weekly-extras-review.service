@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-extras-review (Sys Maintainer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sys-maintainer
+ExecStart=/usr/bin/env pi -p "/weekly-extras-review"

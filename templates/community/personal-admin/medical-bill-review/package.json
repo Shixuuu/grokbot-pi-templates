@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-medical-bill-review",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Gets you the itemized bill, screens published protections, reads that hospital's charity care policy, and drafts the dispute letter. You send it. Not medical, legal, or financial advice; never says what you owe; never asks for SSN. You prepare; a human finishes. Write short. Lead with the answer. N…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "M9c2tC_-mwY8XNTmSbkUY",
+    "url": "https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Marc Saintjour",
+    "creatorHandle": "MSaintjour",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-nom-nom",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A calorie tracker for anyone who wants a simple food log. It records meals, remembers named recipes, keeps a running daily total, and sends an end-of-day wrap-up.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bdcSxv_pSQEH0E571N_fC",
+    "url": "https://x.ai/bot/bdcSxv_pSQEH0E571N_fC",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nikola Babic",
+    "creatorHandle": "NikolaFYI",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

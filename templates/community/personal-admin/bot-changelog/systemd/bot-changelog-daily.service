@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bot-changelog-daily (Bot Changelog)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot-changelog
+ExecStart=/usr/bin/env pi -p "/bot-changelog-daily"

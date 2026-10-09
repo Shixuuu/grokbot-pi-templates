@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-groku-health-coach",
+  "version": "1.0.6",
+  "private": true,
+  "description": "A voice-first workout coach that builds safe, progressive ~45-minute sessions around your equipment, injuries, and goals, then coaches you live in Grok Voice. Pain-aware swaps and a validation check run before every plan.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rzP2etY8_D1Pof_Y9uQHa",
+    "url": "https://x.ai/bot/rzP2etY8_D1Pof_Y9uQHa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "VolkNasty",
+    "creatorHandle": "Volknasty",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

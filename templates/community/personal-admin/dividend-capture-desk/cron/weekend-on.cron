@@ -1,0 +1,3 @@
+# Routine "Weekend on" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 21 * * 0 cd /path/to/dividend-capture-desk && pi -p "/weekend-on"

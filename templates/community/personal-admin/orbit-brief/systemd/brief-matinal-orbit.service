@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine brief-matinal-orbit (Orbit brief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/orbit-brief
+ExecStart=/usr/bin/env pi -p "/brief-matinal-orbit"

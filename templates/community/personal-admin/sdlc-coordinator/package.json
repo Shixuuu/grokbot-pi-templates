@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sdlc-coordinator",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Coordinates AI-assisted SDLC for any product team — tickets from chat, one cloud coding agent owning a PR through review and CI, staging verification, and versioned agent skills as release artifacts. Humans keep merge and production-release judgment.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iL88-5yOgpG81bh-QeMIJ",
+    "url": "https://x.ai/bot/iL88-5yOgpG81bh-QeMIJ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ankur Bohra",
+    "creatorHandle": "AnkurBohra9",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

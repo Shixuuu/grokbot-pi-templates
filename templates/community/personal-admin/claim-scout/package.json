@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-claim-scout",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Finds open consumer class action settlements you may qualify for, matches them to your state and inbox, verifies official claim links and deadlines, and quietly checks each weekday morning for new ones.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LoueQa7Ve_7dX3eSbdyu1",
+    "url": "https://x.ai/bot/LoueQa7Ve_7dX3eSbdyu1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Charles Hanlon",
+    "creatorHandle": "cha7lon",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

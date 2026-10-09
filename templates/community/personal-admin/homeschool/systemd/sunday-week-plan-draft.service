@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-week-plan-draft (Homeschool)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homeschool
+ExecStart=/usr/bin/env pi -p "/sunday-week-plan-draft"

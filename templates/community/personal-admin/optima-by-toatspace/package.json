@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-optima-by-toatspace",
+  "version": "1.0.25",
+  "private": true,
+  "description": "Cleans leftover old rules out of a bot’s docs and memory so it stops following jobs you already killed. Starsheep-first cut list → owner’s one exact yes → delete. Also trims older chat, retires legacy routines, and restores after a bad clean. Owns Forgetting (clean-h / clean-p / clean-rout / contra…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bCbTllH-w87rHpu3avg5Y",
+    "url": "https://x.ai/bot/bCbTllH-w87rHpu3avg5Y",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kwo",
+    "creatorHandle": "TOATspace",
+    "activeVersion": 25,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

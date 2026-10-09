@@ -1,0 +1,3 @@
+# Routine "Zoom ear auto-start" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+*/5 8-19 * * 1-5 cd /path/to/babel-live-translator && pi -p "/zoom-ear-auto-start"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-privacy-sweep",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Data-broker / people-search opt-out specialist. Maps public listings on major people-search sites, then walks free self-serve opt-outs. Give legal name(s), cities/states lived, and optional aliases — get an exposure map, then free official removals.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "L7qSBOOLgC6QuDY3nYc2X",
+    "url": "https://x.ai/bot/L7qSBOOLgC6QuDY3nYc2X",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Noah Weir",
+    "creatorHandle": "_noahweir",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

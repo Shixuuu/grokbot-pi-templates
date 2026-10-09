@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bo-standing-board-refill (BO Provider)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bo-provider
+ExecStart=/usr/bin/env pi -p "/bo-standing-board-refill"

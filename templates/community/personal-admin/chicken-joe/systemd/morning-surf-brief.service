@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-surf-brief (Chicken Joe)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chicken-joe
+ExecStart=/usr/bin/env pi -p "/morning-surf-brief"

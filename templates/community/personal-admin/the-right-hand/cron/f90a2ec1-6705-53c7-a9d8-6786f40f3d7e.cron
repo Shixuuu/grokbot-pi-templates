@@ -1,0 +1,3 @@
+# Routine "Weekday threshold sweep" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+7 15 * * 1-5 cd /path/to/the-right-hand && pi -p "/f90a2ec1-6705-53c7-a9d8-6786f40f3d7e"

@@ -1,0 +1,3 @@
+# Routine "Weekday CoS morning brief backup" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+20 8 * * 1-5 cd /path/to/chief-of-staff-ny5tbg && pi -p "/weekday-cos-morning-brief-backup"

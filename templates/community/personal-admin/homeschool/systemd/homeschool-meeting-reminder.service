@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine homeschool-meeting-reminder (Homeschool)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homeschool
+ExecStart=/usr/bin/env pi -p "/homeschool-meeting-reminder"

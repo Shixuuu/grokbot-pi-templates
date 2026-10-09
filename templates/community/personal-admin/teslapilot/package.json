@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-teslapilot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "All things Tesla — news desk for owners and fans. Digests software updates, offers, Superchargers, Cybercab/Robotaxi, Powerwall, and top X creators. Searches and fact-checks worldwide before sharing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CJayoQDcSkhNlHsBqsy1s",
+    "url": "https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ucdco",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "X reply hunt (10:30am / 2:30pm CT)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 10,14 * * 1-5 cd /path/to/x-reply-scout && pi -p "/x-rising-hunt"

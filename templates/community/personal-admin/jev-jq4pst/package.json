@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-jev-jq4pst",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Typed decision seat for TypeSafe Jev (System One). Assumes LiteLLM/HostServer wiring — other call methods need skill edits. Returns categorize/noul/score answers; not a chat LLM.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JQ4PSTdVDZdIOa8qwfP0G",
+    "url": "https://x.ai/bot/JQ4PSTdVDZdIOa8qwfP0G",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Travis",
+    "creatorHandle": "NeuralCatAccel",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

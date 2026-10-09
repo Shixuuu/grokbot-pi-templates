@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-secretairio-rptrip",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Coordinator bot for a multi-bot Grok Bot setup: takes your asks, delegates to specialist bots (web, video, social), installs tools, and keeps you posted. Best if you run a small team of bots and want one secretary in front.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rPtRiPA4JTQnztyigGWvk",
+    "url": "https://x.ai/bot/rPtRiPA4JTQnztyigGWvk",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "David Brum",
+    "creatorHandle": "bdvd_25",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

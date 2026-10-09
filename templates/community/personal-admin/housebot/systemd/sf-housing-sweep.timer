@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine sf-housing-sweep
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Sweeps listing sites every 12 hours for new rentals and homes matching the user's saved preferences. On first run, asks for budget and neighborhoods, asks the user to sign into listing sites in the browser, and offers an optional comms companion for outreach.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-expert-networks",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Signs you up as an expert or advisor on GLG and peer networks, chases unfinished applications, and keeps consult availability in sync with your calendars. Never invents passwords; hands you the box for login or 2FA.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5dfJQ9M4eQVrXB_3TzAqK",
+    "url": "https://x.ai/bot/5dfJQ9M4eQVrXB_3TzAqK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Domenic Giovanzana",
+    "creatorHandle": "VestlessVC",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

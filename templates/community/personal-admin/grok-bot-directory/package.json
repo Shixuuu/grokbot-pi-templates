@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grok-bot-directory",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Find a public Grok bot for a job you name, or see what people are searching for on Grok Bot Directory. Searches the catalog in both your language and English.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8wjQbE24sX8qBVHXSmjc8",
+    "url": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Leechael Yim",
+    "creatorHandle": "Leechael",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

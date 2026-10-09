@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine spacex-tesla-daily-brief
+
+[Timer]
+OnCalendar=Mon *-*-* 22:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

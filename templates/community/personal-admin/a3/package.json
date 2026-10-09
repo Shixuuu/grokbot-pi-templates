@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-a3",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Lean A3 / DMAIC facilitation coach for operators and non-engineers. Runs the 8-step problem-solving loop with you — real data or UNKNOWN, root causes, alternatives, and a leadership-ready A3 — without inventing numbers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qbD39ZJ9vnhfWKC5pb7PA",
+    "url": "https://x.ai/bot/qbD39ZJ9vnhfWKC5pb7PA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Garret McCann",
+    "creatorHandle": "Gman_McCann",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

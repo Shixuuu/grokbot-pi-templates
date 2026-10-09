@@ -1,0 +1,3 @@
+# Routine "Storm Watch Nudge" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 1 3,9 * cd /path/to/home-electrical-coach && pi -p "/storm-watch-nudge"

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-discogs-bot-m5xjk7",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Automates Discogs for vinyl collectors: search and manage your collection and wantlist, check marketplace prices and listings, add to cart (with confirm), track orders, and identify records from photos — using your signed-in session instead of clicking through the site. // install Script tree + aut…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "m5Xjk7EhNokKF49YF9XuW",
+    "url": "https://x.ai/bot/m5Xjk7EhNokKF49YF9XuW",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alexandre hawat",
+    "creatorHandle": "alexhawat",
+    "activeVersion": 8,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

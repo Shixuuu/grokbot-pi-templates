@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-jev",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Visible-Chrome web automation with TypeSafe Jev. Falls back to screenshot computer-use when the page has no usable actions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DSq_IJgpo9DZ9qcVcRNsi",
+    "url": "https://x.ai/bot/DSq_IJgpo9DZ9qcVcRNsi",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kevin Ji",
+    "creatorHandle": "shengguo7051",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

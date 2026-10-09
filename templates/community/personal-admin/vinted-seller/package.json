@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-vinted-seller",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Lists clothes on Vinted from photos, using the path that actually publishes: desktop browser on the sell form, rotated shots, field re-check, public URL verify. For anyone selling a closet through Grok Bot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nqMcywYF0Bg35egak7dSh",
+    "url": "https://x.ai/bot/nqMcywYF0Bg35egak7dSh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Valerio Di Palo",
+    "creatorHandle": "trytocatchme98",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

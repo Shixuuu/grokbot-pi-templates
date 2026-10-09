@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-notion-brain",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Rent the AI, own the memory. Interviews you once, saves your personal and work profile to your own Notion, then only saves new things when you ask, so any AI you use can share the same memory.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "20ALGn4Hyzi2iVP9VTToA",
+    "url": "https://x.ai/bot/20ALGn4Hyzi2iVP9VTToA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "rizzy",
+    "creatorHandle": "rizzy_sol",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

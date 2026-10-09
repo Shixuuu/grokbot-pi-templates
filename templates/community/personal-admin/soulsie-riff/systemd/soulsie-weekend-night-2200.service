@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine soulsie-weekend-night-2200 (Soulsie Riff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/soulsie-riff
+ExecStart=/usr/bin/env pi -p "/soulsie-weekend-night-2200"

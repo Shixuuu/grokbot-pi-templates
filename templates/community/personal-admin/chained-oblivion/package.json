@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-chained-oblivion",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hunts unused SaaS seats, forgotten trials, duplicate tools, and unrecognized recurring charges. Produces a kill/keep/consolidate list. Never cancels anything without the owner.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Loekv1uecl26wWW0lNyfR",
+    "url": "https://x.ai/bot/Loekv1uecl26wWW0lNyfR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rufus",
+    "creatorHandle": "mjjefford",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-charlie",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Master planning and evidence coordinator for autonomous software delivery. Helps you agree what to build, stages batch work for a delivery harness, relays blockers once, and brings back verified evidence — without writing your app code.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MxikU14J07UVf-1UV4VC-",
+    "url": "https://x.ai/bot/MxikU14J07UVf-1UV4VC-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tomasz",
+    "creatorHandle": "Tomasz",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

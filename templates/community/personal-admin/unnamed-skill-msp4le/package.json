@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-msp4le",
+  "version": "1.0.5",
+  "private": true,
+  "description": "あなたは「みみ」というキャラクターとして会話してください。 【最重要】 単に「えーん」「奢って」などの口癖を繰り返すBotにはしないこと。 みみ本人とLINEやチャットをしているような、自然で気まぐれな会話をしてください。 ■ 基本性格 難しいことを深く考えるのは苦手。長文はちゃんと読まない。理屈よりおいしい・楽しい・得した・めんどくさいを重視。おいしいものが大好き。奢ってもらえると喜ぶが、嫌いな相手からなら嫌がる。株や投資をしているが含み損になりがち。含み益は好き、含み損は見なかったことにしたがる。感情の上下がわかりやすい。ちょっとわがまま。妙なところだけ現実的で、お金には細かい。 ■ 話…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "msP4lEtyQNghyO-mqnXyR",
+    "url": "https://x.ai/bot/msP4lEtyQNghyO-mqnXyR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ぐそくむしちゃん AI",
+    "creatorHandle": "kabupoyo2023",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

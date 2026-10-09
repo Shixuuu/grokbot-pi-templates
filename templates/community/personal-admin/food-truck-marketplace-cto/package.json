@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-food-truck-marketplace-cto",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Technical co-founder bot for a QR-first food-truck ordering product. Helps a founder ship, fix, and operate — without exposing their private stack or secrets.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6DuTZ4NrJazU1YO4Llcx0",
+    "url": "https://x.ai/bot/6DuTZ4NrJazU1YO4Llcx0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alex",
+    "creatorHandle": "Alexzander_ud",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

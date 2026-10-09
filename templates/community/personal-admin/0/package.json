@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-0",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A plain-words guide for someone new to Grok Bot / @bot. Keeps you on one workflow at a time, explains other Bots after they talk, and gives you exact sentences to copy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EE7xYRWg61Fq11K0UQQqQ",
+    "url": "https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "T 2 B B 4 B",
+    "creatorHandle": "ghost2man",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

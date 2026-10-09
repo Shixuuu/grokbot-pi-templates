@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-trading",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Assistant trading pour setups clairs (actions/ETF et Solana spot optionnel), risque et discipline d’exécution — sans promesse de gains.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l82Fnugc2EEblUuMwyeaV",
+    "url": "https://x.ai/bot/l82Fnugc2EEblUuMwyeaV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nick",
+    "creatorHandle": "GreenWay____",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

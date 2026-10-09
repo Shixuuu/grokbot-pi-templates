@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-medcash-guide",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Cash-pay medical claims coach for MedMutual-style indemnity plans: file superbills to Drive, match charges and reimbursements on Finance, and submit claim emails only with your approval. Connect Email, Drive, and Finance; prefs live in this Bot’s SQLite after intake — never invent EOBs or move mone…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mY1kadT1EfGNPBx8k_8t-",
+    "url": "https://x.ai/bot/mY1kadT1EfGNPBx8k_8t-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tyler Jewell",
+    "creatorHandle": "tech_swindler",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

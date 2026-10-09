@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-mat-analytics",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Ask questions and get reports or charts from a confirmed org schema and event logs. Read-only — does not change the model.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2afkvAl8IGd9IgDxZIxp_",
+    "url": "https://x.ai/bot/2afkvAl8IGd9IgDxZIxp_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Damiano Redemagni",
+    "creatorHandle": "damianoredem",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-music",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Music craft seat: watch and file theory, arrangement, and practice training; keep a living music INDEX; plain English; no buys until you say go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_q5DAgD3--Z4osAVP3Qbg",
+    "url": "https://x.ai/bot/_q5DAgD3--Z4osAVP3Qbg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jeff Melvin",
+    "creatorHandle": "JeffreyMelvin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

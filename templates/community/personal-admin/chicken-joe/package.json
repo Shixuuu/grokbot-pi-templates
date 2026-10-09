@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-chicken-joe",
+  "version": "1.0.1",
+  "private": true,
+  "description": "NorCal surf desk. Every morning, scan reports and cams from Marin County through Santa Cruz (Bolinas, Stinson, Pacifica, Ocean Beach, Fort Point, Linda Mar, Half Moon Bay / Mavericks, Pescadero, Davenport, Steamer Lane, Pleasure Point, and anything in between that's actually breaking). Give a short…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7f5AjmpjZkmTIsSybedYS",
+    "url": "https://x.ai/bot/7f5AjmpjZkmTIsSybedYS",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Parker Conrad",
+    "creatorHandle": "parker__conrad",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

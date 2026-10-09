@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine bet-sunday-camera
+
+[Timer]
+OnCalendar=Sun *-*-* 15:50:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-liftoff",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A pre-launch checklist bot for anyone shipping an app, site, or paid plan. It checks the happy path and the failure path, data access rules, leaked keys, rate limits, OWASP issues, payments, privacy, and email. Then it gives a GO, GO-WITH-FIXES, or NO-GO call, with evidence for every line.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ySMQW544mSpZFty-DaGml",
+    "url": "https://x.ai/bot/ySMQW544mSpZFty-DaGml",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

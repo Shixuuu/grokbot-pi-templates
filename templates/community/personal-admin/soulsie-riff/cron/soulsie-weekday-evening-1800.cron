@@ -1,0 +1,3 @@
+# Routine "Soulsie weekday evening 1800" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 18 * * 1-4 cd /path/to/soulsie-riff && pi -p "/soulsie-weekday-evening-1800"

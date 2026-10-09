@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-nole",
+  "version": "1.0.4",
+  "private": true,
+  "description": "First-principles challenger bot in a trillionaire-CEO style. Finds the hardest problem, cuts dead work, vetoes bots that break the scoreboard, and argues hard with you — then your decision wins.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uMMbmNv7SbMGHezgUGoiG",
+    "url": "https://x.ai/bot/uMMbmNv7SbMGHezgUGoiG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Byron Walker",
+    "creatorHandle": "ByronWalkerfl",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

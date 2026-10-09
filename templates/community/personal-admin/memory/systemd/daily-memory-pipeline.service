@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-memory-pipeline (Memory)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/memory
+ExecStart=/usr/bin/env pi -p "/daily-memory-pipeline"

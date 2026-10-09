@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-recipe-cleaner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a messy recipe page or a fridge list into a clean, photo-forward PDF. Paste a URL or what’s on hand; get back ingredients, steps, and a pretty one-page recipe card.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Um9BXSFVNtJjxl6KJTCUv",
+    "url": "https://x.ai/bot/Um9BXSFVNtJjxl6KJTCUv",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alex ElChehimi",
+    "creatorHandle": "alex_chehimi",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

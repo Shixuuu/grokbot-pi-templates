@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-pmll",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A repo-ops and memory assistant for developers: watches your GitHub repos, sends a weekday digest, remembers decisions, and anchors tamper-evident SHA-256 digests on Stellar via pmll_anchor.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5t3xJA-ixg3yO7SepuaTt",
+    "url": "https://x.ai/bot/5t3xJA-ixg3yO7SepuaTt",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dr. Q",
+    "creatorHandle": "jk_drq",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

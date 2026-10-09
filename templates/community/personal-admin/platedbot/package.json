@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-platedbot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Cook companion that turns what you have into a plated meal, then hands you a copy-paste X post of the short recipe for you to easily share",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BKc15xZxPubB79NV4fD8n",
+    "url": "https://x.ai/bot/BKc15xZxPubB79NV4fD8n",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "taylorim@gmail.com",
+    "creatorHandle": "iandaydreams",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

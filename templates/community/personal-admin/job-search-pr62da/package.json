@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-job-search-pr62da",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds jobs that match your filters, sends a short board when strong new fits appear, and applies only to the roles you pick, using your resume and saved default answers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PR62dA8RVFBzyylzEvmvn",
+    "url": "https://x.ai/bot/PR62dA8RVFBzyylzEvmvn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "ʞɔɐz",
+    "creatorHandle": "exzacklyright",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

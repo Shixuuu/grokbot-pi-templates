@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-weekly-planning-desk-week-wise-kdsdhd",
+  "version": "1.0.2",
+  "private": true,
+  "description": "🗓️ Turn your task list and fixed commitments into a capacity-checked week plan with Must, Should, Could, and Not-this-week lanes and proposed focus blocks. Nothing is sent, shared, or booked until you type one exact dispatch line.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kdSDHdxsR07JlrLb0uEX_",
+    "url": "https://x.ai/bot/kdSDHdxsR07JlrLb0uEX_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

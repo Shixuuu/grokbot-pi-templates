@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-red-team",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Attacks your drafts, decisions, and takes before the world does — steelman, kill shots, evidence gaps, and a rewrite that survives scrutiny.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0h3dhN9lfJ3raaAYvqn42",
+    "url": "https://x.ai/bot/0h3dhN9lfJ3raaAYvqn42",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Josh",
+    "creatorHandle": "nearbycoder",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

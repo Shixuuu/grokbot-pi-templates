@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-chargeright-panel-coach",
+  "version": "1.0.4",
+  "private": true,
+  "description": "ChargeRight’s educational panel coach: NEC Article 220 pre-check for Level 2 EV chargers. Locked facts from the audited product — $49.99 web, 220.83(A)/(B) and 220.82, NEC 230.79 verdict test. Not a permit and not Tesla-affiliated.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s9EKFwbfQkmKK9jL44YoP",
+    "url": "https://x.ai/bot/s9EKFwbfQkmKK9jL44YoP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "EV_ChargeRight",
+    "creatorHandle": "EV_ChargeRight",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

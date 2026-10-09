@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-homework-coach-desk-think-it",
+  "version": "1.0.2",
+  "private": true,
+  "description": "✏️ Coach K–12 students with Socratic hints, a check-your-work step and a short parent summary. It never gives final answers for graded work and never helps with tests or quizzes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mkrmzjwbqktb06jnfrjmi",
+    "url": "https://x.ai/bot/mkrmzjwbqktb06jnfrjmi",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

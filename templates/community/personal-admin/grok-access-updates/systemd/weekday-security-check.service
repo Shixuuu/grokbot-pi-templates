@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-security-check (Grok Access Updates)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grok-access-updates
+ExecStart=/usr/bin/env pi -p "/weekday-security-check"

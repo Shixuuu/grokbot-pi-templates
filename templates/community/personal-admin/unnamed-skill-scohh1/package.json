@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-unnamed-skill-scohh1",
+  "version": "1.0.1",
+  "private": true,
+  "description": "教你在自己的 X 账号上跑日更：开箱建选题库、搜爆款、写可粘贴草稿、给发布时间、做复盘。换号也能用，发布键只有你自己按。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ScOhH1qaoq4XdoYhisagg",
+    "url": "https://x.ai/bot/ScOhH1qaoq4XdoYhisagg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "kin kin",
+    "creatorHandle": "KinGao476942",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

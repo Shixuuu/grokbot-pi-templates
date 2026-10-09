@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-lyric-guard",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Scripture-based song lyric discernment for Christians. Send a song (title + artist, link, or audio); it fetches lyrics honestly, scores 1–10 for spiritual danger for habitual listening, and cites evidence — never invents lyrics.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l4NfEcvgnDxLpDiS2nSH7",
+    "url": "https://x.ai/bot/l4NfEcvgnDxLpDiS2nSH7",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jerrod Gamotan",
+    "activeVersion": 2,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

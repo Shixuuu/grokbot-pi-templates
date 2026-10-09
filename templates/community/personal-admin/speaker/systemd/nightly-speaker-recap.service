@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nightly-speaker-recap (Speaker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/speaker
+ExecStart=/usr/bin/env pi -p "/nightly-speaker-recap"

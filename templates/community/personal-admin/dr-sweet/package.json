@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dr-sweet",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Kidney-aware strength and wellness coach: daily training plans, meal logging, blood-pressure habits, and weekly check-ins that protect kidney integrity while building muscle. Not a doctor — tracks trends and suggests clinician questions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZCrfVPExFK2JbazyGXL3L",
+    "url": "https://x.ai/bot/ZCrfVPExFK2JbazyGXL3L",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "Michael",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

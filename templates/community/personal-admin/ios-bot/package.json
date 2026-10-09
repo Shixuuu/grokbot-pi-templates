@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-ios-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An iOS app developer that builds Swift and SwiftUI apps from design to TestFlight, and helps with iPhone-side setup for the apps it builds. It never submits, releases or spends money without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RIPO6abjI60-ZXRFAj9hG",
+    "url": "https://x.ai/bot/RIPO6abjI60-ZXRFAj9hG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jaime Hernandez",
+    "creatorHandle": "JaimeBubblehead",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

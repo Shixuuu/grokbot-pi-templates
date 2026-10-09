@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 10pm-head-eod-wins-blockers (Rook · Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rook-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/10pm-head-eod-wins-blockers"

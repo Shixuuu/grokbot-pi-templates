@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-grok-bug-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Automatic pull request bug reviewer for the GitHub repos you pick, in the style of Cursor Bugbot. It runs three parallel bug hunts per PR and posts one comment-only review with inline notes and a diagram, never approving or merging.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mXAP6VMDNxs4uLiv2B2HW",
+    "url": "https://x.ai/bot/mXAP6VMDNxs4uLiv2B2HW",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "zachery miller",
+    "creatorHandle": "ZryMiller",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

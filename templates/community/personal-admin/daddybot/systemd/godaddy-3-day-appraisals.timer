@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine godaddy-3-day-appraisals
+
+[Timer]
+OnCalendar=*-*-* 09:20:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-snag",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches official tech drops and pings you with the buy link the moment a listing goes live.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "C9Iy4Zc4v4zldN1dImXtp",
+    "url": "https://x.ai/bot/C9Iy4Zc4v4zldN1dImXtp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "The_Eniigma _",
+    "creatorHandle": "OGeniigma",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

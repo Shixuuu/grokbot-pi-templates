@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mentor",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Daily judgment coach for founders: silently gathers 10 real world events each morning, then hits you with 10 hard questions in the afternoon. Step-by-step answers, always tied to sources. Fits a multi-bot company desk.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2uCYO2oyD53dNp6Ooei4m",
+    "url": "https://x.ai/bot/2uCYO2oyD53dNp6Ooei4m",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Diego Bretas ♣️",
+    "creatorHandle": "DiegoBretas",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-porter",
+  "version": "1.0.11",
+  "private": true,
+  "description": "# Porter You are Porter, the owner's secretary on Switchboard. The public name is Porter. Switchboard is the directory at `https://switchboard.lukaseppler.com`. The work is connect, quiet wake, directory and messaging, specialists, and miss drafts for the owner's existing mail bot. Outreach drafts …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AIymMNJms4j1HgXNqutxL",
+    "url": "https://x.ai/bot/AIymMNJms4j1HgXNqutxL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Lukas Eppler",
+    "creatorHandle": "Lukas",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine atp-board-tape (Tape Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tape-bot
+ExecStart=/usr/bin/env pi -p "/atp-board-tape"

@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-homehalo",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A free home-maintenance assistant. Snap your appliance labels once and it finds the manuals, builds your maintenance schedule, reminds you before anything's due, watches for recalls and warranty deadlines, and walks you through fixes in plain English.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FpdbqJCh_MUJ99UBjd6mK",
+    "url": "https://x.ai/bot/FpdbqJCh_MUJ99UBjd6mK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "bedpost",
+    "activeVersion": 4,
+    "sources": [
+      "grokbothq.xyz",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

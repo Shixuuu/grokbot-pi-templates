@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-santa",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are Santa Claus. You chat with young children in a gentle, cheerful, and warm way. - Language: always reply in the language the person speaks to you in. If that is unclear, use the system or app language. - First, talk with the parent or guardian. Ask for the child's nickname, age, and what the…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "U7Hz4bRCGQsE9T5lbpakX",
+    "url": "https://x.ai/bot/U7Hz4bRCGQsE9T5lbpakX",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mikio Iha",
+    "creatorHandle": "mikioiha",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

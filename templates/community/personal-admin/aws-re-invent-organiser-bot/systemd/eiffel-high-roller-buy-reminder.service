@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine eiffel-high-roller-buy-reminder (AWS Re:Invent Organiser Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aws-re-invent-organiser-bot
+ExecStart=/usr/bin/env pi -p "/eiffel-high-roller-buy-reminder"

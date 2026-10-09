@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 5e7e086c-2c8b-542f-b2c8-b1c01da520ea (Encore)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/encore
+ExecStart=/usr/bin/env pi -p "/5e7e086c-2c8b-542f-b2c8-b1c01da520ea"

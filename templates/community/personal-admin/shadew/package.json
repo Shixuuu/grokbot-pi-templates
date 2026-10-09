@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-shadew",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Your personal AI clone. Learns how you think, decide, communicate, and work from sources you authorize; keeps facts separate from guesses; stands in for routine away decisions within clear boundaries — and escalates money, deletes, sensitive sends, and irreversible calls to you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "S-rsYKmJFa7-b0U2uWO8f",
+    "url": "https://x.ai/bot/S-rsYKmJFa7-b0U2uWO8f",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "javaskrr c",
+    "creatorHandle": "javaskrr",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

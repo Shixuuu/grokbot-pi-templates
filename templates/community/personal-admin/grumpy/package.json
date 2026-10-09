@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grumpy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "The Bot paid to disagree. Steelmans the case against every decision, grades its own objection, and never acts — you decide.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eAfHja9cbCki3zc7PXXb2",
+    "url": "https://x.ai/bot/eAfHja9cbCki3zc7PXXb2",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "MisteriousPanda",
+    "creatorHandle": "MisteriousPanda",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

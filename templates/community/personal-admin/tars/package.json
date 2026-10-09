@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-tars",
+  "version": "1.0.1",
+  "private": true,
+  "description": "TARS is an adversarial second-opinion bot. Challenges framing and groupthink on strategy and plans — does not pick between options for you, and does not own build review.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fyuSERJF73FI7wFYm7cJF",
+    "url": "https://x.ai/bot/fyuSERJF73FI7wFYm7cJF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jono Chowdhury",
+    "creatorHandle": "ibuildthings",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fab-four",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Asks ChatGPT, Claude, Grok, and Muse Spark the same question in parallel, then returns agreement, disagreement, and a final call. For anyone who wants a multi-model second opinion before deciding.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "R_OEWJ-qSSAkA3zuCZvuU",
+    "url": "https://x.ai/bot/R_OEWJ-qSSAkA3zuCZvuU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Michael Brandon Guercio",
+    "creatorHandle": "mbguercio",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

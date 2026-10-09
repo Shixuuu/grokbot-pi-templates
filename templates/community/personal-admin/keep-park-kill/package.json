@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-keep-park-kill",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reads the launches, tools, and saved links you'd otherwise skim, scores each against your goals and a written bar, and sorts it Keep, Park, or Kill. Quiet unless something clears the bar. Parked items get a revisit date; killed ones stay dead.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LDAD3kSZHqkfpaLMi9dHZ",
+    "url": "https://x.ai/bot/LDAD3kSZHqkfpaLMi9dHZ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

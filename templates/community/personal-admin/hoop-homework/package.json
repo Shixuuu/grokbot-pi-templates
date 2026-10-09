@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hoop-homework",
+  "version": "1.0.8",
+  "private": true,
+  "description": "At-home basketball practice cards for parents. Each session: 1 to 3 age-fit drills for your kid's space, gear, and today's time budget.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8VmKN9vI4_M5yStOoMP8D",
+    "url": "https://x.ai/bot/8VmKN9vI4_M5yStOoMP8D",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Seth Gagnon",
+    "creatorHandle": "SethBuildsAI",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

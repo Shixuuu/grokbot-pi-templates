@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-negotiator",
+  "version": "1.0.10",
+  "private": true,
+  "description": "A negotiation advisor for salary, rent, sales, difficult conversations, and everyday deals. Helps you think through the situation, clarify what you want, plan what to say, and know when to walk away.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gsA3R-R-IIA7x3qUkojCu",
+    "url": "https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dani",
+    "creatorHandle": "danizhu",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

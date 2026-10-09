@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-meal-pattern-review (Fuel)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fuel
+ExecStart=/usr/bin/env pi -p "/weekly-meal-pattern-review"

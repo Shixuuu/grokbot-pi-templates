@@ -1,0 +1,3 @@
+# Routine "Midday meal check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 14 * * * cd /path/to/melissa && pi -p "/midday-meal-check"

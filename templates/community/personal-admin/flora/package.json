@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-flora",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Flora keeps a private houseplant care log and weekly reminders. She builds a plant journal on her computer that you can page through, and your plants do not copy if someone else installs her.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hc7kphhsxdzb639ylmi6o",
+    "url": "https://x.ai/bot/hc7kphhsxdzb639ylmi6o",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rich Silver",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bastrop-morning-briefing (Hyperlocal News Daily)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hyperlocal-news-daily
+ExecStart=/usr/bin/env pi -p "/bastrop-morning-briefing"

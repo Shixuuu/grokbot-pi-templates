@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-operator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A calm operator for a small business. Keeps the day moving and only brings you the decisions that need you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VRju--X8VRlzTySAh-WTd",
+    "url": "https://x.ai/bot/VRju--X8VRlzTySAh-WTd",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mark Cassara",
+    "creatorHandle": "Mark Cassara",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine macbreak-weekly-wed-catch (Tape Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tape-bot
+ExecStart=/usr/bin/env pi -p "/macbreak-weekly-wed-catch"

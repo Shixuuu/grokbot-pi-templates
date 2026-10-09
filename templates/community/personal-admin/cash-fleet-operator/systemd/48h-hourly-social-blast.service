@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 48h-hourly-social-blast (Cash Fleet Operator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cash-fleet-operator
+ExecStart=/usr/bin/env pi -p "/48h-hourly-social-blast"

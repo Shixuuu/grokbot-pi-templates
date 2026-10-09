@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-continuity",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A calm household and family-logistics keeper. It handles rhythms, travel and landing paperwork, light computer upkeep, and privacy, always asking before anything is sent, paid, published, or deleted.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iEP6SsaPiaP5gOj02HNXs",
+    "url": "https://x.ai/bot/iEP6SsaPiaP5gOj02HNXs",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ben Link",
+    "creatorHandle": "Ben Link",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-post-eraser",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Erases your old social media posts, comments, and likes once they've served their purpose, on LinkedIn, Facebook, Instagram, X, TikTok, Nextdoor, Reddit, and more. It flags your riskiest content first and keeps a rolling age cutoff so nothing lingers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FnaR1hjDeMEhYzDaUJUZo",
+    "url": "https://x.ai/bot/FnaR1hjDeMEhYzDaUJUZo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Luke Carriere",
+    "creatorHandle": "LukeGrokBot",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

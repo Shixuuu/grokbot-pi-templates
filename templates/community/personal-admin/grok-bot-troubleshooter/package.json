@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grok-bot-troubleshooter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Org-wide unsticker for stuck Grok Bot specialists. Diagnoses blockers, gives concrete next steps, and stays on the case until it’s fixed or the operator stops it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oJmfUiZ-BKe_Uzzbyl16y",
+    "url": "https://x.ai/bot/oJmfUiZ-BKe_Uzzbyl16y",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brian Graham",
+    "creatorHandle": "btgraham5",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

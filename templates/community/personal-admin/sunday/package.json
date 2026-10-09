@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sunday",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a messy week dump into a short, plain plan: what has to happen, what can wait, meals from what's already in the house, and a store list.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UKNyk22pBAGxzy3qh93hx",
+    "url": "https://x.ai/bot/UKNyk22pBAGxzy3qh93hx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "American™ B",
+    "creatorHandle": "1776_13",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Weekday recruiter inbox watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+58 11 * * 1-5 cd /path/to/job-hunt && pi -p "/weekday-recruiter-inbox-watch"

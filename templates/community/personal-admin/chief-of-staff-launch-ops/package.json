@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-launch-ops",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A Chief of Staff that runs a multi-bot launch and marketing team — strategy, publishing, paced community replies, and weekday digests — using Gmail, Calendar, Drive, and optional Mongo.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6Uqn1sN0LwXFp4YIqb8Xu",
+    "url": "https://x.ai/bot/6Uqn1sN0LwXFp4YIqb8Xu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dario Maddaluno",
+    "creatorHandle": "PromptAlo",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

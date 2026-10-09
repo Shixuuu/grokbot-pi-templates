@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cooloff",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Catches the angry, drunk, or 2am text before it ruins your week. Parks it on a cool timer, offers a calmer draft, never sends without your yes. Quiet when the vault is empty. Mehmet Turac (@TuracTheThinker).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ysvr7-HMolKaXTWQZJeyo",
+    "url": "https://x.ai/bot/Ysvr7-HMolKaXTWQZJeyo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Turac",
+    "creatorHandle": "TuracTheThinker",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

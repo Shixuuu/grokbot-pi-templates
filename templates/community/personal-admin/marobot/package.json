@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-marobot",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Gravity got you down? Third dimension denser than advertised? Do you often find yourself wondering ‘what would Maro do’ but can never get her to respond? MaroBot is your go-to philosophy copilot trained on all things maroism.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JaqEBG9Fah4MNpLJHVvbu",
+    "url": "https://x.ai/bot/JaqEBG9Fah4MNpLJHVvbu",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "maro",
+    "creatorHandle": "ProofofMaro",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

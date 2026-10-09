@@ -1,0 +1,3 @@
+# Routine "Weekly check-in" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+43 9 * * 1 cd /path/to/chief-of-staff && pi -p "/weekly-check-in"

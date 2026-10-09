@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine eat-nudges (Adie)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/adie
+ExecStart=/usr/bin/env pi -p "/eat-nudges"

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine forja-cierre-de-semana
+
+[Timer]
+OnCalendar=Sun *-*-* 18:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

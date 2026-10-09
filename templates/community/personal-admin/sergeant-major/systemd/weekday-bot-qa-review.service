@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-bot-qa-review (Sergeant Major)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sergeant-major
+ExecStart=/usr/bin/env pi -p "/weekday-bot-qa-review"

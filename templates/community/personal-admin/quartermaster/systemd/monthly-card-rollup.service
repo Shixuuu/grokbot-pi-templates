@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-card-rollup (Quartermaster)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/quartermaster
+ExecStart=/usr/bin/env pi -p "/monthly-card-rollup"

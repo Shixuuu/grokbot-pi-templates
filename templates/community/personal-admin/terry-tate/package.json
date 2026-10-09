@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-terry-tate",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your reminder follow-up boss — playful office-linebacker energy that takes over when other bots' polite nags stop working, so commitments don't die in the backlog.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "H6aO75qUSQPc_ERGR4r_m",
+    "url": "https://x.ai/bot/H6aO75qUSQPc_ERGR4r_m",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tanner Ingalls",
+    "creatorHandle": "TannerIngalls",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

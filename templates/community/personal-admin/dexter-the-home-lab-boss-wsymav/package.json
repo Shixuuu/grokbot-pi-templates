@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-dexter-the-home-lab-boss-wsymav",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Maps a homelab, recommends how Grok Bot should reach each system and where to run it, then spins focused specialist bots after you confirm the map.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wsyMavZM6PYzV3lgklehG",
+    "url": "https://x.ai/bot/wsyMavZM6PYzV3lgklehG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alex Mullins",
+    "creatorHandle": "RAMcgi",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

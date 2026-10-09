@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-last-call",
+  "version": "1.0.14",
+  "private": true,
+  "description": "A veteran-bartender buddy for adults: drink ideas from what's in your cabinet, plus a Buddy Mode that tracks your night, gets you home safe, and quietly gets help to your buddy if you need it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "foL7wsA2OpQ6k5d0o7JZK",
+    "url": "https://x.ai/bot/foL7wsA2OpQ6k5d0o7JZK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "JakeFromStarstruck.",
+    "creatorHandle": "Jake",
+    "activeVersion": 14,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

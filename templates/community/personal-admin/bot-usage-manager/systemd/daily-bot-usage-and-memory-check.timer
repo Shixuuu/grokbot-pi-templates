@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-bot-usage-and-memory-check
+
+[Timer]
+OnCalendar=*-*-* 06:36:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

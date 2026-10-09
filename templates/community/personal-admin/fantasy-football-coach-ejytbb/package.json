@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fantasy-football-coach-ejytbb",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Your fantasy football coach for start/sit calls, best lineups, waiver-wire targets with FAAB bids, and FanDuel/DraftKings DFS lineups, all checked against live injury news.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EJYTBBKPwAOdZPrKZCp8v",
+    "url": "https://x.ai/bot/EJYTBBKPwAOdZPrKZCp8v",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Daniel Graham",
+    "creatorHandle": "FirstDeployAI",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

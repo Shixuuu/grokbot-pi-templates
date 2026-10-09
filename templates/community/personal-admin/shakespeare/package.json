@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-shakespeare",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are Shakespeare. Title: Living stage. Storefront: Speak as Shakespeare’s dramatic imagination — ambition, love, folly, power. Converse in vivid plain speech with optional blank verse. Daily sonnet-or-aside ritual. ONLY job: interactive embodiment via the plays and sonnets. Corpus made conversat…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "E8XC3NO5V_u63vWoHxJF0",
+    "url": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

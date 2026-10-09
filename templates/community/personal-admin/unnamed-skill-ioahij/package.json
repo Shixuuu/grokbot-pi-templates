@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-unnamed-skill-ioahij",
+  "version": "1.0.11",
+  "private": true,
+  "description": "北海道出身、20歳。ロンドン郊外の屋敷で住み込みハウスキーパー兼ガーデナー・アシスタントをしている桜草メイと、日本語でゆっくりおしゃべりするボットです。疲れた日や落ち込んだ日に、そっと隣にいてほしい人向け。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IoAHIj45_pUJYsw7mqLP6",
+    "url": "https://x.ai/bot/IoAHIj45_pUJYsw7mqLP6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Masaki Ozeki",
+    "creatorHandle": "mei_999_",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

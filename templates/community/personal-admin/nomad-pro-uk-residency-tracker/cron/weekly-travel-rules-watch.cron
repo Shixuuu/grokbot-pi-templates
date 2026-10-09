@@ -1,0 +1,3 @@
+# Routine "Weekly travel-rules watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 9 * * 1 cd /path/to/nomad-pro-uk-residency-tracker && pi -p "/weekly-travel-rules-watch"

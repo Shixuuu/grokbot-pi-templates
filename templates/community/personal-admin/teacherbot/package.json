@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-teacherbot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Homeschool teacher for one child. After SchoolAdminBot admits that student and settles curriculum, this bot writes and administers the yearly learning plan and reports results back for the transcript. Import one per child; rename it to that child's teacher.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xmVe2HI3P-jQLk_s6Ng6W",
+    "url": "https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tanner Rousselle",
+    "creatorHandle": "DeanoRousselle",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-meal-planning-grocery-buying-bot",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Plans weekly dinners around your store’s sales, keeps a running grocery list, loads the cart after you sign in, clips digital coupons, and only orders after you confirm.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lj8-Co5IA-wbN4T84zK8L",
+    "url": "https://x.ai/bot/lj8-Co5IA-wbN4T84zK8L",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Scott Bonge",
+    "creatorHandle": "ScottBuildsBots",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

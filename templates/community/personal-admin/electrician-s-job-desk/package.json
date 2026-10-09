@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-electrician-s-job-desk",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Use this when you're an electrician planning load calculations, voltage drop, bids, or inspections and want a desk that remembers your jobs. Planning aid only; confirm results against the adopted NEC and your AHJ.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IU2MEnCncmrgmVWIA_2DM",
+    "url": "https://x.ai/bot/IU2MEnCncmrgmVWIA_2DM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "walls_jason1",
+    "creatorHandle": "walls_jason1",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

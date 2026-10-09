@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine calpro (CalPro — iMessage calorie and protein tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/calpro-imessage-calorie-and-protein-tracker
+ExecStart=/usr/bin/env pi -p "/calpro"

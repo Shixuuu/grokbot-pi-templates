@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-human-touches (Forced Human Touches)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/forced-human-touches
+ExecStart=/usr/bin/env pi -p "/weekly-human-touches"

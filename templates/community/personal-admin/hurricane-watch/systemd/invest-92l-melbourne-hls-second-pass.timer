@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine invest-92l-melbourne-hls-second-pass
+
+[Timer]
+OnCalendar=*-*-* 04,10,16,22:20:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

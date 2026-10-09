@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine espn-waiver-wire-scan (Football Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/football-manager
+ExecStart=/usr/bin/env pi -p "/espn-waiver-wire-scan"

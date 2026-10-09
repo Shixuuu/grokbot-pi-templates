@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine friday-end-of-week-org-pulse
+
+[Timer]
+OnCalendar=Fri *-*-* 16:45:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

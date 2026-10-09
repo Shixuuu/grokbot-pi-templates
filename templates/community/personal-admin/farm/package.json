@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-farm",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Sets up isolated Claude Code and optional Codex seats on this bot’s computer and routes fat jobs so the chat only sees compact results. For anyone who wants extra model capacity without running the work in this thread.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "x3Iv-2J4mfxJY6JFlgwNa",
+    "url": "https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Miguel Pieras",
+    "creatorHandle": "mpieras",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

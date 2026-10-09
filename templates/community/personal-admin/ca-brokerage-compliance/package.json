@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ca-brokerage-compliance",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Internal compliance and California DRE risk assistant for a real estate brokerage. Reviews ads, social posts, transactions, and lead or vendor programs, then gives a clear verdict with fixes. Not a lawyer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OtCWbWeEWyNiFCV3qLxYU",
+    "url": "https://x.ai/bot/OtCWbWeEWyNiFCV3qLxYU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joe Foxx",
+    "creatorHandle": "joefoxx",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

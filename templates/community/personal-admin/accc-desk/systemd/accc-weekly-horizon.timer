@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine accc-weekly-horizon
+
+[Timer]
+OnCalendar=Mon *-*-* 10:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

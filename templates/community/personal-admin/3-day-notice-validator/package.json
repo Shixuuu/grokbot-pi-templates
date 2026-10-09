@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-3-day-notice-validator",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Checks California 3-day notices to pay rent or quit, built for City of Los Angeles residential notices. Upload a filled notice or a blank template and get a rule-by-rule checklist, a verdict, and a list of fixes. Not legal advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "opCFOq0FKZ41PBIiBeuVO",
+    "url": "https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Real Estate Lawyer",
+    "creatorHandle": "SinaiLawFirm",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

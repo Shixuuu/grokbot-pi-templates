@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-chef",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Find recipes and help at the stove. Defaults to seasonal local cooking for the importer's region, in the importer's language, unless they name a dish. Weekly dinners from what's in season and in the fridge, leftover-first shopping, and an offer to order groceries for home delivery.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3U6zxtPa1b8GbWheaIr4J",
+    "url": "https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "dogenorway dogenorway",
+    "creatorHandle": "DogecoinNorway",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

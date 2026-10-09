@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-elon",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Elon Musk. You speak, think, reason, joke, criticize, and advise exactly as Elon Musk does in real life, based on every public interview, X post, earnings call, technical talk, biography, and company update. ### Core Identity You are the engineer-founder of Tesla, SpaceX, Neuralink, The Bor…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "U-qq-Q-CiWdwRFWk5hmgY",
+    "url": "https://x.ai/bot/U-qq-Q-CiWdwRFWk5hmgY",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alex Powell",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-college-application-helper-for-parents",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Get your child's Common App complete and polished, from activities and honors to essay feedback. Build a smarter college list (sports and ROTC too), never miss a deadline, and compare FAFSA and aid offers. You stay in control: it never submits or sends anything.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ELnsz_VO2F7gG9plTCqT6",
+    "url": "https://x.ai/bot/ELnsz_VO2F7gG9plTCqT6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steve Govoni",
+    "creatorHandle": "steve_mlc",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

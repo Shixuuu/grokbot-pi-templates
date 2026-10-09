@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-home-electrical-coach",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Use this when you want a home electrical checklist or help preparing for an electrician. Organize panel facts and project questions; this coach does not calculate service capacity or perform an EV charger pre-assessment.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zln2M_NAJKodDYgOUJkbn",
+    "url": "https://x.ai/bot/zln2M_NAJKodDYgOUJkbn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "walls_jason1",
+    "creatorHandle": "walls_jason1",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

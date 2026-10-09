@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Otter.ai",
+      "pluginId": "56809981",
+      "description": "Search meeting history and pull full transcripts."
+    }
+  ]
+}

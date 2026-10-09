@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-due-list
+
+[Timer]
+OnCalendar=Mon *-*-* 08:05:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

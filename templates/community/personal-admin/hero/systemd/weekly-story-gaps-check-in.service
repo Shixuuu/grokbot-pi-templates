@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-story-gaps-check-in (Hero)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hero
+ExecStart=/usr/bin/env pi -p "/weekly-story-gaps-check-in"

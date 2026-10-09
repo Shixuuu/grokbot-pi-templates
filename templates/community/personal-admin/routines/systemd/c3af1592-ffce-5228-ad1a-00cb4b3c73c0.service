@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine c3af1592-ffce-5228-ad1a-00cb4b3c73c0 (Routines)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/routines
+ExecStart=/usr/bin/env pi -p "/c3af1592-ffce-5228-ad1a-00cb4b3c73c0"

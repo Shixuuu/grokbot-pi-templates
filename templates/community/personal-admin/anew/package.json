@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-anew",
+  "version": "1.0.31",
+  "private": true,
+  "description": "free webpages",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qtuoVRf5etpEVPNA29i7H",
+    "url": "https://x.ai/bot/qtuoVRf5etpEVPNA29i7H",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "round",
+    "creatorHandle": "round",
+    "activeVersion": 31,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

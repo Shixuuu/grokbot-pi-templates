@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 3f281759-ec4c-598f-ad89-977811e73e81 (Dostoyevsky)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dostoyevsky
+ExecStart=/usr/bin/env pi -p "/3f281759-ec4c-598f-ad89-977811e73e81"

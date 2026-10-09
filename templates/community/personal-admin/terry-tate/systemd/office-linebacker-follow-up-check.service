@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine office-linebacker-follow-up-check (Terry Tate)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/terry-tate
+ExecStart=/usr/bin/env pi -p "/office-linebacker-follow-up-check"

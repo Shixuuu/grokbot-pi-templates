@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-afwm3m",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps your top 1 to 3 priorities moving, protects your time, and drafts everything for your OK. It never sends or posts without your say-so. Built for solo creators and small teams by WorldWideVibes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Afwm3MUhTO3TxHYV_wdm6",
+    "url": "https://x.ai/bot/Afwm3MUhTO3TxHYV_wdm6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "WorldWideVibes",
+    "creatorHandle": "W0rldwid3vib3s",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

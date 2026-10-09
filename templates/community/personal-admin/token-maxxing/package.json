@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-token-maxxing",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Keeps Grok Bot limits from dying first. Easy three-login setup, live 20/30/50 vest across Grok Bot / Cursor / Grok Build, and switch nudges to your builder bots.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "f6srhE3vkMevccaw8DLPf",
+    "url": "https://x.ai/bot/f6srhE3vkMevccaw8DLPf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "iggynore",
+    "creatorHandle": "iggynore",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

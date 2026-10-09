@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine zoom-ear-auto-start (Babel - live translator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/babel-live-translator
+ExecStart=/usr/bin/env pi -p "/zoom-ear-auto-start"

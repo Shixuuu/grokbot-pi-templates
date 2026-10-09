@@ -1,0 +1,3 @@
+# Routine "Full NHC advisory check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 3,9,15,21 * * * cd /path/to/hurricane-watch && pi -p "/invest-92l-gulf-threat-watch"

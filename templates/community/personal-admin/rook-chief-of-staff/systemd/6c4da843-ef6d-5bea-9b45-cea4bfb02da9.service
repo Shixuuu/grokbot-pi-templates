@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 6c4da843-ef6d-5bea-9b45-cea4bfb02da9 (Rook · Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rook-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/6c4da843-ef6d-5bea-9b45-cea4bfb02da9"

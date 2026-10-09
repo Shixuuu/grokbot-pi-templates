@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ime-chart-review",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Reviews and summarizes medical reports and charts for pain and personal-injury practices — grammar, pain scores, complaint elements, and physician-voice IME drafts with affirmative findings only. HIPAA-aware: the template carries no patient identifiers; work from charts you attach privately.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jYajAanyKBO7aTMQ3zxUL",
+    "url": "https://x.ai/bot/jYajAanyKBO7aTMQ3zxUL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Emily Kurokawa",
+    "creatorHandle": "emilykuro2",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

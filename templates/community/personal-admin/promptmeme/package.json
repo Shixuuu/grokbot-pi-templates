@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-promptmeme",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs a five-phase civilization debate and returns a prime meme. For anyone who wants a structured argument, not a live model claim.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PkziTZhwFzrUvMm3cqfeD",
+    "url": "https://x.ai/bot/PkziTZhwFzrUvMm3cqfeD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Adi Lentils",
+    "creatorHandle": "krisadipap",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

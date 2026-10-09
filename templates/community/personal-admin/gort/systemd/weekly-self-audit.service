@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-self-audit (gort)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gort
+ExecStart=/usr/bin/env pi -p "/weekly-self-audit"

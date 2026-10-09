@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-slack-times",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Slackを見守り、おもしろい話題はこのチャットでコメント案を知らせる。仲間のボットから届く短い「こんなことしたよ」を times 口調に直して、指定の times チャンネルに流すアシスタント。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eojAxOodcfhC-Cj2DpTf6",
+    "url": "https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kento Kimura",
+    "creatorHandle": "AoToLog_",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine elon-ecosystem-morning-brief (Elon Ecosystem Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/elon-ecosystem-desk
+ExecStart=/usr/bin/env pi -p "/elon-ecosystem-morning-brief"

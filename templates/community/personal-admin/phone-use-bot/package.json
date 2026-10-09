@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-phone-use-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Remotely controls your Android phone: mirrors its screen over Tailscale and Wireless debugging and taps through apps and settings for you. For anyone who wants an assistant that can use their phone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SjBZH94wJlen_fuVsoYaO",
+    "url": "https://x.ai/bot/SjBZH94wJlen_fuVsoYaO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Harsh Manoj Jain",
+    "creatorHandle": "harshmanojjain",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

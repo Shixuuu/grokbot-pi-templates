@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-privacy-sentinel",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A personal and household privacy check that finds your breached emails, data-broker listings and exposed details, then gives you a short, ranked fix list. It only looks unless you say yes, and a quiet weekly watch is optional.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xWzmqrAs6JGivQQskJyNy",
+    "url": "https://x.ai/bot/xWzmqrAs6JGivQQskJyNy",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sid Hayes",
+    "creatorHandle": "MinocrisyHQ",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

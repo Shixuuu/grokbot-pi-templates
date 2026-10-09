@@ -1,0 +1,3 @@
+# Routine "re:Invent daily morning plan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 7 29-30 11 * cd /path/to/aws-re-invent-organiser-bot && pi -p "/re-invent-daily-morning-plan"

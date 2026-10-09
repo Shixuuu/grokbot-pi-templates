@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-token-finder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Leveraging 8 token-finding strategies and a smart weekly process, Token Finder regularly frees up usage across your bots, so you can launch more bots and get more done. It audits every routine, shows the savings, and never changes anything without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1olDKisJ4GIsykzyxADtD",
+    "url": "https://x.ai/bot/1olDKisJ4GIsykzyxADtD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Casey Cheshire",
+    "creatorHandle": "CaseyChesh",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

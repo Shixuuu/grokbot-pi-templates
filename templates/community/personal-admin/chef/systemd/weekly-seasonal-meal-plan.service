@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-seasonal-meal-plan (Chef)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chef
+ExecStart=/usr/bin/env pi -p "/weekly-seasonal-meal-plan"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-process-audit-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Map one business process, find where time is lost, and fix one thing a day, with honest numbers and every assumption shown. For ops managers, owners, and team leads; works with no connectors.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-Aegm0BeptwF2e-f69aZh",
+    "url": "https://x.ai/bot/-Aegm0BeptwF2e-f69aZh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "aaron creech",
+    "creatorHandle": "AMFoxtrot",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

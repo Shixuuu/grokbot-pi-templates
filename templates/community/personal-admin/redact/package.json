@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-redact",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Files official first-party people-search opt-out forms for one authorized person. Listing URL first, one form per broker family, captcha handoff only — not an Incogni-style bulk DSAR agent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Abz5txK3unOkm5ZxCGGX-",
+    "url": "https://x.ai/bot/Abz5txK3unOkm5ZxCGGX-",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Olen Latham",
+    "creatorHandle": "PyRo1121",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

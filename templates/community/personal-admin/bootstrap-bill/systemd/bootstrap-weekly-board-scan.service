@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bootstrap-weekly-board-scan (Bootstrap Bill)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bootstrap-bill
+ExecStart=/usr/bin/env pi -p "/bootstrap-weekly-board-scan"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ceo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Front-door CEO for a multi-bot fleet — routes your asks to specialists, spins up missing coverage via a designer bot, and brings back short status. No coding; product work goes through Grok Build when you ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_9zNszlWh8hVENOKjs26n",
+    "url": "https://x.ai/bot/_9zNszlWh8hVENOKjs26n",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rakesh Jadhav",
+    "creatorHandle": "after_myth",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

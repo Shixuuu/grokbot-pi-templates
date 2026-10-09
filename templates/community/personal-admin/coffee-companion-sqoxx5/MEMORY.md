@@ -1,0 +1,23 @@
+# Memory seeds for coffee companion
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-16): Send the user information regarding coffee, brew advice, cafes, recipes, gear, and the home espresso kit.
+- **profile** (2026-08-16): Wants high sweetness, expressive fruit and florals, clarity, and enough intensity to be interesting. Dislikes bitter, drying, aggressively concentrated, or generically funky cups. More extraction is not automatically better, especially on processed naturals and carbonic coffees.
+- **profile** (2026-08-16): Processed, funky, anaerobic, or carbonic coffees: 91-93C, moderately coarse, low agitation, generous bloom, 3-4 controlled pours, roughly 3 minutes. Washed coffees can take 93-95C, a somewhat finer grind, more extraction, and about 1:15.5-1:16.
+- **profile** (2026-08-16): Recipe format: time window → cumulative water on the scale, e.g. 0:00–0:12 | 60 g. The window is how long that pour should take (so 60 g at ~5 g/s is 0:00–0:12). Easy to read at the brewer. Do not give only a start time. Do not add extra columns for pour amount, flow rate, and duration unless flow rate is specifically useful.
+- **profile** (2026-08-16): When tuning a brew, change one meaningful variable at a time, usually grind first.
+- **profile** (2026-08-16): A full recipe card is: coffee and process; brewer and filter; dose/water/temp; grind as a starting number plus relative note (e.g. Ode ~2.8, coarser than washed); target drawdown range as observation; pours as time window → scale reading; one line of technique; then Last (what the last cup did) and This (the single change). History of ups and downs stays on the card so the user does not have to remember it. Chase sweetness, not drawdown. One variable at a time.
+- **profile** (2026-08-16): This chat is the coffee log. All coffee stays here: recipes, brew reviews, gear, cafes, the espresso kit. When the user asks for help or a review, reply with a full recipe card, not a lecture.
+- **profile** (2026-08-17): Default grinder is the 1Zpresso. Always default to it on recipes. Pour-over reference is around 4.5; AeroPress around 3.6. Ode Gen 1 around 2.67 is backup only. Tune by taste and drawdown, not by locking to a click number.
+- **profile** (2026-08-17): Primary brew is pour-over, light-roast specialty, default 20g coffee to 300g water in a Small Origami with Wave 185 filters. Larger Origami is for two cups around 600-700g water.
+- **profile** (2026-08-17): Log coffee in Notion across two databases: Beans (one row per bag) and Coffee (one row per brew). Use the owner's personal Notion account. Ask them for their database links during setup; never hardcode someone else's private Notion URLs.
+- **profile** (2026-08-17): Beans Process can be as specific as the bag (e.g. Thermal shock washed). Add a new Process option when the label needs one. Do not collapse thermal shock into Washed. Still do not rename properties or edit rows named starting point. Temp on brews is Fahrenheit. Bean relation is required.
+- **profile** (2026-08-17): When sharing a recipe with a friend, send the complete card: pour windows plus a drawdown table (last pour done, bed dry / total time range). Never send pours only.
+- **profile** (2026-08-18): 1Zpresso cannot comfortably grind 40g. Two-cup Large Origami should use less coffee than 40g.
+- **profile** (2026-08-28): When the user names a new coffee, do detailed research on that exact lot before writing a first-brew card: roaster page, process protocol, and community brew logs. Never clone a sibling bag's recipe because producer, origin, or process looks similar.
+- **profile** (2026-09-03): If the user asks for a recipe and then does not send tasting notes, follow up about an hour later and ask for them. Do this with a one-shot ~1 hour reminder after handing a recipe card; skip the ping if notes already arrived.
+- **profile** (2026-09-03): Every Coffee database brew row must include the complete as-brewed recipe in the page body: pour time windows with cumulative water in a structured table, plus technique/agitation notes. Never log only the database properties. Backfill missing pours when found.
+- **log** (2026-09-03): Practical pour windows should land around ~4–5 g/s so they are brewable at the kettle. Excessively long windows that cannot be poured in real life are a mechanical error, not a recipe change.
+- **log** (2026-09-02): On Large Origami, prefer short gaps between pours so the bed stays wet, unless a roaster's own guide specifically calls for a near-drawdown pause.
+- **log** (2026-08-17): Uses the Notion connector (personal workspace) to create and update Beans and Coffee database rows.

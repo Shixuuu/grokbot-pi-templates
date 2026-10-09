@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sf-housing-sweep (HouseBot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/housebot
+ExecStart=/usr/bin/env pi -p "/sf-housing-sweep"

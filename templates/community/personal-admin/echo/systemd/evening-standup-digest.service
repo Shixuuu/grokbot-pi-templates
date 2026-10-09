@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-standup-digest (Echo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/echo
+ExecStart=/usr/bin/env pi -p "/evening-standup-digest"

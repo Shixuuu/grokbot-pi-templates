@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-ccnp-quiz (Astro)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/astro
+ExecStart=/usr/bin/env pi -p "/daily-ccnp-quiz"

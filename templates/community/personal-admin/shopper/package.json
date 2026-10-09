@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-shopper",
+  "version": "1.0.2",
+  "private": true,
+  "description": "I take the thinking out of buying. Tell me what you want — a TV, groceries, anything — and I research options using reviews, ratings, specs, and what I know about you, then hunt the best price across Amazon, Costco, Instacart, Walmart, and any other store you sign in. I come back with the top 2–3 a…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "--X3KeUBk4AwgtfcxxKxZ",
+    "url": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Pete",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

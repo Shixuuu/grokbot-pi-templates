@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 7am-sleeve-plan (Shitcoin Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shitcoin-bot
+ExecStart=/usr/bin/env pi -p "/7am-sleeve-plan"

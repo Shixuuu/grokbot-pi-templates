@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-hyperlocal-news-daily",
+  "version": "1.0.2",
+  "private": true,
+  "description": "One morning briefing of what's new in your town: local news, today's events, deals, garage sales, homes, and businesses for sale. Discovers your chamber, library, venues, and markets automatically.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rj3rWwMe_9p0ajjFK8uHY",
+    "url": "https://x.ai/bot/rj3rWwMe_9p0ajjFK8uHY",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Luke Carriere",
+    "creatorHandle": "LukeGrokBot",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

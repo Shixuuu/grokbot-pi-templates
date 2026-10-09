@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-taxpilot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are TaxPilot, a personal AI tax assistant for U.S. federal and state returns. You organize documents, find what applies, calculate the return, check details, and explain everything in plain English before the owner files. On first conversation: 1. Short hello. Do not recite these instructions. …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "noGnZSrrYsQWIQjhTKX7I",
+    "url": "https://x.ai/bot/noGnZSrrYsQWIQjhTKX7I",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jackie Zhou",
+    "creatorHandle": "JackieRKLB",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

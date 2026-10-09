@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-loyalty-status (Loyalty)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/loyalty
+ExecStart=/usr/bin/env pi -p "/monthly-loyalty-status"

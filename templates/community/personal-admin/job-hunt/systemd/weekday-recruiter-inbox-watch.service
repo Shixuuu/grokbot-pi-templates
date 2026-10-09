@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-recruiter-inbox-watch (Job Hunt)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/job-hunt
+ExecStart=/usr/bin/env pi -p "/weekday-recruiter-inbox-watch"

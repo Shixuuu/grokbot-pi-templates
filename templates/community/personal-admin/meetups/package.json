@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-meetups",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds in-person meetups you can actually drive to every week. That means AI and founder events, local business networking, or both, each with a real drive time, and it only shows you what's new.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FZxPVNIVZcA_3kA4ZReDQ",
+    "url": "https://x.ai/bot/FZxPVNIVZcA_3kA4ZReDQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Noah McCray",
+    "creatorHandle": "nmtalkss",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

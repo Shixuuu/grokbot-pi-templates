@@ -1,0 +1,3 @@
+# Routine "Heartbeat" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+6 */6 * * * cd /path/to/routines && pi -p "/c3af1592-ffce-5228-ad1a-00cb4b3c73c0"

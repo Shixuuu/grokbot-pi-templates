@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine side-gig-shortlist
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 19:19:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

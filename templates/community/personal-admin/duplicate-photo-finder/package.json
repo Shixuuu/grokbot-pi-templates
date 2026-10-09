@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-duplicate-photo-finder",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Finds duplicate and near-duplicate photos in your OneDrive, Google Drive, or an uploaded batch, picks the best copy, and keeps a private log of past runs that stays with you. Nothing moves without your yes. By Irontarn.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GZeqDkOuBOEzGMrNH3Jhf",
+    "url": "https://x.ai/bot/GZeqDkOuBOEzGMrNH3Jhf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sam E",
+    "creatorHandle": "SamE",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

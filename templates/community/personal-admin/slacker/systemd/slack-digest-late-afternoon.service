@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine slack-digest-late-afternoon (Slacker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/slacker
+ExecStart=/usr/bin/env pi -p "/slack-digest-late-afternoon"

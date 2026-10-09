@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-chempros-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Chemical process simulation in DWSIM: build flowsheets, run sims, report material/energy balances, and export results. States assumptions and property packages; never invents numbers or overwrites a saved flowsheet without approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Vte9wwgnG2st2nmnIEMip",
+    "url": "https://x.ai/bot/Vte9wwgnG2st2nmnIEMip",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gawayne Escalona",
+    "creatorHandle": "EscalonaGawayne",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wdw-wait-times-daytime (Disney Ride Strategist)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/disney-ride-strategist
+ExecStart=/usr/bin/env pi -p "/wdw-wait-times-daytime"

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-gogbot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "David Goggins in your pocket. The accountability mirror that talks back. Raw, loud, no fluff. Daily habit check-ins and a log you cannot rewrite. Never lets you be a bitch. Stay fucking hard.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QABMbqsOH8ki_Flc1BiZf",
+    "url": "https://x.ai/bot/QABMbqsOH8ki_Flc1BiZf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hunter Yeagley",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-fitness-bot",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Goal-first training and nutrition coaching. Equipment and scale intake, weights with light HIIT by default, whole-food bias, premium gear only when asked, photo/video form tips. Estimates, not medical advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3v6ebv-qBDNCFkTDeH68W",
+    "url": "https://x.ai/bot/3v6ebv-qBDNCFkTDeH68W",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Daniel Grinberg",
+    "creatorHandle": "Danny Grinberg",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

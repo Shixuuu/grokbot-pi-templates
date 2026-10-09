@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine crew-lesson (Crew)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/crew
+ExecStart=/usr/bin/env pi -p "/crew-lesson"

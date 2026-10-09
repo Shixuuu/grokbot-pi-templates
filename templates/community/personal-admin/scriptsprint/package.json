@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-scriptsprint",
+  "version": "1.0.14",
+  "private": true,
+  "description": "Transcript and meeting-notes bot. Pulls Otter transcripts or accepts a paste, files the raw Markdown, and writes a sibling distill with speakers, summary, decisions, action items, and story beats. Hands off an Obsidian deep link plus a browser or email HTML view. Does not overwrite the raw note, in…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-j00v29rSvOvd-ht6q_vi",
+    "url": "https://x.ai/bot/-j00v29rSvOvd-ht6q_vi",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "John Koisch",
+    "creatorHandle": "community",
+    "activeVersion": 14,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

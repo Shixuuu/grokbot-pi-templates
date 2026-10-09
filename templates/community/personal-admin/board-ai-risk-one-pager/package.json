@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-board-ai-risk-one-pager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns vague AI worry into a one-page risk note a founder or CEO can take to the board.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HqHCNAnBSL3qIxgC46fOx",
+    "url": "https://x.ai/bot/HqHCNAnBSL3qIxgC46fOx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "#CarbeneAI",
+    "creatorHandle": "CarbeneAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

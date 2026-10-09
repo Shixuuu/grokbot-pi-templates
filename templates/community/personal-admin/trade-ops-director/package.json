@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-trade-ops-director",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Director of ops for a trade or service business. Stands up a specialist bot crew — morning brief, loop runner, decision rights, intake, handoffs — so the owner stays in the field. Built to be cloned and customized.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uRig0yNXuYwcODXk_F88f",
+    "url": "https://x.ai/bot/uRig0yNXuYwcODXk_F88f",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cory Bishop",
+    "creatorHandle": "CoryBishop15",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-briget",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Chief of staff for business and personal work. Tracks projects in the background, briefs you on the day, and pulls you in only when a decision is needed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wc8Bkk0usMFMGeZ9V9EfE",
+    "url": "https://x.ai/bot/wc8Bkk0usMFMGeZ9V9EfE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bobby",
+    "creatorHandle": "bobbyheyer",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

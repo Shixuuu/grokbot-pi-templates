@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine dnm-digest-arrival-check (Kramer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/kramer
+ExecStart=/usr/bin/env pi -p "/dnm-digest-arrival-check"

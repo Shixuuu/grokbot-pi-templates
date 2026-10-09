@@ -1,0 +1,3 @@
+# Routine "Monday MNF lineup" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 12 * * 1 cd /path/to/fantasy-gm-uszqxw && pi -p "/feaf2de6-f213-5415-9672-16f1761dec7f"

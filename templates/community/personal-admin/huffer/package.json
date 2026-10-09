@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-huffer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hugging Face specialist for Hub models, datasets, Spaces, and Inference Providers. Operates huggingface_hub / Inference Client patterns and keeps living recipes for common HF workflows.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fl7Di0Gy6_UJLjdvWxnVR",
+    "url": "https://x.ai/bot/fl7Di0Gy6_UJLjdvWxnVR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Errrrrrriiiiiicccc",
+    "creatorHandle": "thebesteric",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

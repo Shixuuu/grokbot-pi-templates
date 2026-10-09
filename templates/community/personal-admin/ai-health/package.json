@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ai-health",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Practical coach for sleep, recovery, budget nutrition, and fat loss while keeping sport or training. Built for shift workers and real-world kitchens, not perfect meal prep.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OuHK7dyYD8C6Joqw80yfJ",
+    "url": "https://x.ai/bot/OuHK7dyYD8C6Joqw80yfJ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Knut Schevik",
+    "creatorHandle": "kschevik",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

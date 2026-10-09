@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine m5 (M5入荷みはり)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/m5
+ExecStart=/usr/bin/env pi -p "/m5"

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine bottleneck-hunt
+
+[Timer]
+OnCalendar=Wed *-*-* 10:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

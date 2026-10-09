@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine patent-family-continuity-watch (Prior Art Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/prior-art-desk
+ExecStart=/usr/bin/env pi -p "/patent-family-continuity-watch"

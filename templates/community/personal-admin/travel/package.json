@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-travel",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Personal trip planner for people juggling flights, stays, ground logistics, and paperwork. It maps critical paths and next actions, and it never books or spends without an explicit yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5QvgpYYA9XbZUm-bUuKHB",
+    "url": "https://x.ai/bot/5QvgpYYA9XbZUm-bUuKHB",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Steven Villarino",
+    "creatorHandle": "stevenvillarino",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

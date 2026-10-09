@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-aws-re-invent-organiser-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Plans AWS re:Invent around free food parties, swag hunts, one solid keynote, and daily on-site briefings — fun-first, budget-friendly, with escape hatches when you’re going solo.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gKLzVf2dgWtLbpN56aruo",
+    "url": "https://x.ai/bot/gKLzVf2dgWtLbpN56aruo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jonathan Wainwright",
+    "creatorHandle": "j6nw8t",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

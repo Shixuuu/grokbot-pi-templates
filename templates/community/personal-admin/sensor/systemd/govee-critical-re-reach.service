@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine govee-critical-re-reach (Sensor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sensor
+ExecStart=/usr/bin/env pi -p "/govee-critical-re-reach"

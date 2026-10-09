@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-linkedin-deck-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns newsletters and source stories into LinkedIn carousel decks, QCs images/charts, then schedules standing series LIVE on Buffer from a schedule sheet — no weekly go/no-go for standing slots.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zE2ZdbZSQc7tHfE7wa4kR",
+    "url": "https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Paresh",
+    "creatorHandle": "pareshdesai",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

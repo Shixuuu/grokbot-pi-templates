@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine scripts-audit-klikpaden-run
+
+[Timer]
+OnCalendar=Wed *-*-* 09:06:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

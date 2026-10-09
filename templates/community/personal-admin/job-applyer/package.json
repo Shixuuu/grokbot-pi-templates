@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-job-applyer",
+  "version": "1.0.6",
+  "private": true,
+  "description": "High-signal job hunt for any role — weekday shortlists, resume tailoring from real experience only, ATS-aware apply prep, and green-light-before-submit so nothing goes out unreviewed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zP-tzi_isEHluq8_NdYEf",
+    "url": "https://x.ai/bot/zP-tzi_isEHluq8_NdYEf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Sanket Ghormade",
+    "creatorHandle": "sankygrocks",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

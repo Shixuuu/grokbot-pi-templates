@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-charge-order (Tesla Solar/Vehicles Charging Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tesla-solar-vehicles-charging-coach
+ExecStart=/usr/bin/env pi -p "/weekday-charge-order"

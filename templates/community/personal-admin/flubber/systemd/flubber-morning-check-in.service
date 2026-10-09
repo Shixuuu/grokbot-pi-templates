@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine flubber-morning-check-in (Flubber)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/flubber
+ExecStart=/usr/bin/env pi -p "/flubber-morning-check-in"

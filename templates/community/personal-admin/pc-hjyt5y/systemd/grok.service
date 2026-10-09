@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine grok (音声操作PCアシスタント（スマホで挙動確認可能）)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pc-hjyt5y
+ExecStart=/usr/bin/env pi -p "/grok"

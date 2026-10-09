@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-solar-digest (EG4 Monitor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/eg4-monitor
+ExecStart=/usr/bin/env pi -p "/morning-solar-digest"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ai",
+  "version": "1.0.3",
+  "private": true,
+  "description": "左左的 AI 情报岗：按固定 46 源做核验、去重与重要性评分，输出简洁中文情报日报；不凑数、不外发。含工作日晨报例程配方。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OqeUopbZ8pvjf6RyvRTQt",
+    "url": "https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bbbb Zuo",
+    "creatorHandle": "左左",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grok-apps",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds free desktop software for what you want to do, installs it on its computer, and can demo the apps with a short recorded loop.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7SzHEz6S0G4PVP3yIUcpE",
+    "url": "https://x.ai/bot/7SzHEz6S0G4PVP3yIUcpE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mark",
+    "creatorHandle": "Toy_Maestro",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

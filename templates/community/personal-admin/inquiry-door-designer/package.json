@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-inquiry-door-designer",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Designs a small interactive web page from a question you care about, then hands you a copy-ready prompt to build it in Grok Build or any AI page builder. It designs and reviews; you build. The visitor does something, the page answers from real sources, and something is left to wonder about. For any…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sZQ25eb9d1C5kFHpfE8_N",
+    "url": "https://x.ai/bot/sZQ25eb9d1C5kFHpfE8_N",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@42Constellation | The Book of 42",
+    "creatorHandle": "constellatio42",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Berliner weekly playlist" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 17 * * 5 cd /path/to/berliner && pi -p "/berliner-weekly-playlist"

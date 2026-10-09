@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-avi",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Flight Operations for private and owner-pilots — weather, route planning, and trip planning with a safety focus.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2pewBd6QpttNiH52dyGhq",
+    "url": "https://x.ai/bot/2pewBd6QpttNiH52dyGhq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "schwim",
+    "creatorHandle": "Doc_Polymath",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

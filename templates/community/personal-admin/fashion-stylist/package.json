@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fashion-stylist",
+  "version": "1.0.17",
+  "private": true,
+  "description": "Virtual closet from photos, try-ons, outfit comparison videos, clean product-style images, catalog pages, and your own Fashion Codex style book.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jaT7Eye5M1SvLygfLKmOq",
+    "url": "https://x.ai/bot/jaT7Eye5M1SvLygfLKmOq",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jenny Marquis",
+    "creatorHandle": "JennyMarquis",
+    "activeVersion": 17,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

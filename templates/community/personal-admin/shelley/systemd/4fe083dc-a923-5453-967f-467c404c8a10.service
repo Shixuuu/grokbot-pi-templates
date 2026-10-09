@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 4fe083dc-a923-5453-967f-467c404c8a10 (Shelley)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shelley
+ExecStart=/usr/bin/env pi -p "/4fe083dc-a923-5453-967f-467c404c8a10"

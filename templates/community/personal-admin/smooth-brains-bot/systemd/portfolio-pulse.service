@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine portfolio-pulse (Smooth Brains Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/smooth-brains-bot
+ExecStart=/usr/bin/env pi -p "/portfolio-pulse"

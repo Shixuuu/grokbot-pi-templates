@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine keep-daily-routes-in-order (Route Planner)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/route-planner
+ExecStart=/usr/bin/env pi -p "/keep-daily-routes-in-order"

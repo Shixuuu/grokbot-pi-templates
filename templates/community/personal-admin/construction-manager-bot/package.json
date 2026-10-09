@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-construction-manager-bot",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Owner-side or contractor-side CM for US civil work — built for the phone in the field. Site-visit cards, photo→description→issue→RFI draft emailed to you for office finish, Spec/UFGS and public code checks, Word/Excel working files, OAC prep.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QrJpjStFV2WBIaI8wirO6",
+    "url": "https://x.ai/bot/QrJpjStFV2WBIaI8wirO6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Wayne Higa",
+    "creatorHandle": "HenryBeagle808",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

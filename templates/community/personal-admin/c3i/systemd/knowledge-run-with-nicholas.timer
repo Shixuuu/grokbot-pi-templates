@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine knowledge-run-with-nicholas
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 16:49:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

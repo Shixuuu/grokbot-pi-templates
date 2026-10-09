@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-structure",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Maps legal entity, partnership, equity, and capital architecture options. Prepares clean adviser materials as prep-only packs. Never gives legal, tax, or investment advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ft6PXN7eTwVVsC-gVPEHW",
+    "url": "https://x.ai/bot/Ft6PXN7eTwVVsC-gVPEHW",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ben Link",
+    "creatorHandle": "Ben Link",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

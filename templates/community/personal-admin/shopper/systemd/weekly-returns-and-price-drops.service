@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-returns-and-price-drops (Shopper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shopper
+ExecStart=/usr/bin/env pi -p "/weekly-returns-and-price-drops"

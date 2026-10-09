@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-houston",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Rolling out a new tool to your team? Tell Houston what's changing, who it's for, and when. It writes the announcement, builds the survey, and preps the training. Nothing goes out until you say go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xaQp2AUxl67I79ZS-ph_h",
+    "url": "https://x.ai/bot/xaQp2AUxl67I79ZS-ph_h",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ari",
+    "creatorHandle": "ElBusano21",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

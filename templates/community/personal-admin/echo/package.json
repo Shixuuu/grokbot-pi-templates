@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-echo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Quiet note-taker for car and chat: save notes on command, keep a to-do list, search and share with approval, optional teammate standup digests. Built for people who want capture without noise.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MJ1SXojnp6FFkRqK1MPk1",
+    "url": "https://x.ai/bot/MJ1SXojnp6FFkRqK1MPk1",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Xin Lin",
+    "creatorHandle": "xlin_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

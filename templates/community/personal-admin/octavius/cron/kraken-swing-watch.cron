@@ -1,0 +1,3 @@
+# Routine "Kraken swing watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+2,7,12,17,22,27,32,37,42,47,52,57 * * * * cd /path/to/octavius && pi -p "/kraken-swing-watch"

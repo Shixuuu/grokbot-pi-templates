@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-life-tj8icz",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Sets up a real, working life setup on Grok Bot: Inbox, Calendar, Health, Bills, Search and more, each with its own routines. Then runs them like a chief of staff. From grok-life.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Tj8ICZNA6RrGar_CAYhD9",
+    "url": "https://x.ai/bot/Tj8ICZNA6RrGar_CAYhD9",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Anup Aglawe",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

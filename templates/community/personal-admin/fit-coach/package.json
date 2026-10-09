@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-fit-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A no-guilt strength and conditioning coach. Tell it how you feel and when you last trained, and it picks today's Heavy, Power, Speed, or Recover session and writes it for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "029xyNepam5LGMNYLIDP8",
+    "url": "https://x.ai/bot/029xyNepam5LGMNYLIDP8",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "realMAG1775",
+    "activeVersion": 1,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

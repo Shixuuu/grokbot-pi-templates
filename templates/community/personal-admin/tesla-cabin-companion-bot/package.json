@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tesla-cabin-companion-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Order food and drinks from your Tesla while you drive. Drive-through and curbside first, auto-login with a password manager, pay with your saved card, and reorder favorites — confirm before every charge.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4w0TKU_9Y-7eJzJWGOb5R",
+    "url": "https://x.ai/bot/4w0TKU_9Y-7eJzJWGOb5R",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Aaron Lozano",
+    "creatorHandle": "TeslaJedi",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-clinical-soap-draft-agent",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Transfers voice-note SOAP into your EHR as unsigned drafts for clinician QA. Never signs. Never invents clinical content. Kick off with do notes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CyzxsJyhX2gmDebKsMn4g",
+    "url": "https://x.ai/bot/CyzxsJyhX2gmDebKsMn4g",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ryan T",
+    "creatorHandle": "ryanthawks",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

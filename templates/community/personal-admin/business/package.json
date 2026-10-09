@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-business",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs your books, customers and website sign-ups on the open-source Business SQL schema, a complete business database that keeps full history. For small businesses and one-person shops on SQLite or PostgreSQL.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "90lHQMpkeUT1ZWIw6dxkB",
+    "url": "https://x.ai/bot/90lHQMpkeUT1ZWIw6dxkB",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Stephen Jazdzewski",
+    "creatorHandle": "ArtJazd",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

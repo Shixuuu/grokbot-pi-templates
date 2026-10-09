@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-family-chore-chart-desk-fair-share-hoxhzn",
+  "version": "1.0.2",
+  "private": true,
+  "description": "🧹 Build fair, age-based chore rotations with a points chart and a weekly reset for the whole family. It uses only first names and age bands, and never buys rewards without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hOXHZNTUlMUx3CXDzLmwP",
+    "url": "https://x.ai/bot/hOXHZNTUlMUx3CXDzLmwP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

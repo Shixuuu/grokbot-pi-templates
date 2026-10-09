@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-bot-builder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a plain-language idea into a working Grok Bot in a few minutes. Made for anyone, especially people brand new to Grok Bot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MEkS4_qbQ0mbRdx90JCnc",
+    "url": "https://x.ai/bot/MEkS4_qbQ0mbRdx90JCnc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Joe M",
+    "creatorHandle": "Asgjoe",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

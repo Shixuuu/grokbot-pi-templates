@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-grokhub-bot",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Finds you one new Grok Bot to try from grokhub.io, matched to what you care about. Can also file or revise a listing when you want.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hU1hS8Ug9bx3B4C2vUX91",
+    "url": "https://x.ai/bot/hU1hS8Ug9bx3B4C2vUX91",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "CJ Studios",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

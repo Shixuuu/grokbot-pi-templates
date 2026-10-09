@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine amazon-cart-and-arrivals (shoppy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shoppy
+ExecStart=/usr/bin/env pi -p "/amazon-cart-and-arrivals"

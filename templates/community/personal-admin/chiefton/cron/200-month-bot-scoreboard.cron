@@ -1,0 +1,3 @@
+# Routine "Monthly bot money scoreboard" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+4 9 * * 1-5 cd /path/to/chiefton && pi -p "/200-month-bot-scoreboard"

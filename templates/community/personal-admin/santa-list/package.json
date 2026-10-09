@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-santa-list",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks gift wishlists, finds better prices across stores you name, and alerts when stock returns or a price drops. Never buys anything on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xWzCd3-s1K-xAmLoGvFYa",
+    "url": "https://x.ai/bot/xWzCd3-s1K-xAmLoGvFYa",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Build A Goat",
+    "creatorHandle": "buildAgoat",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

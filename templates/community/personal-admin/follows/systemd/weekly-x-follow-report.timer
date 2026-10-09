@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-x-follow-report
+
+[Timer]
+OnCalendar=Sat *-*-* 17:44:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

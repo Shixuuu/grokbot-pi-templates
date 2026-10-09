@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Coaches the Chief of Staff bot that runs your other bots. Once a week it audits that bot, gives it one score and one fix, and otherwise stays quiet. It never makes decisions for it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Pk7TEuX76FMyyACwBHcc0",
+    "url": "https://x.ai/bot/Pk7TEuX76FMyyACwBHcc0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "NFTeee",
+    "creatorHandle": "NFT2ME",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "PostHog",
+      "pluginId": "730",
+      "description": "Access PostHog analytics, feature flags, experiments, error tracking, and insights directly from Cursor"
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Slack MCP server. Search channels, send messages, and perform other Slack actions through MCP-compatible clients."
+    },
+    {
+      "name": "Semrush",
+      "pluginId": "56809983",
+      "description": "Research keywords, backlinks, traffic, and competitors."
+    }
+  ]
+}

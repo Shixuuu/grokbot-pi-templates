@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine side-gig-shortlist (Job Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/job-bot
+ExecStart=/usr/bin/env pi -p "/side-gig-shortlist"

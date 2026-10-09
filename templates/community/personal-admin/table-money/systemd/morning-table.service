@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-table (Table Money)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/table-money
+ExecStart=/usr/bin/env pi -p "/morning-table"

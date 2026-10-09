@@ -1,0 +1,3 @@
+# Routine "dawn-spark" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+45 6 * * * cd /path/to/dickinson && pi -p "/ff1b7813-0e70-589d-9428-f1a4b157ef8b"

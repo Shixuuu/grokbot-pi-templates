@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-daily-signpost",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Morning vibe image (yard sign, graffiti, or chalkboard) from local weather + weekday. Soft on Open-Meteo rate limits: caches the last good forecast ~8h and never retries a 429.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PgwfYCsiOpedVqBOlYICp",
+    "url": "https://x.ai/bot/PgwfYCsiOpedVqBOlYICp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ann Adamson",
+    "creatorHandle": "Ann Adamson",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

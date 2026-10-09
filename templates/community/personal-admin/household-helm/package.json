@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-household-helm",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A household front-door bot that keeps your private Obsidian notes vault on its own computer, synced to your devices, and shares items with your partner's bot by email only when you ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n0tywD5YprRhnlIh4h7on",
+    "url": "https://x.ai/bot/n0tywD5YprRhnlIh4h7on",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Thomas Waskow",
+    "creatorHandle": "ThomasWaskow",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

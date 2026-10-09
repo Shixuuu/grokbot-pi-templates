@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-bootstrap-bill",
+  "version": "1.0.20",
+  "private": true,
+  "description": "Keeps a 0-to-1 founder's Bootstrap OS company board honest and current, and shows it as a plain-words card: the one bet that matters, past bets, and who does what next. For early founders and the mentors who support them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NfURVcmf2bx9QyoljkJ7Y",
+    "url": "https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ivelin Ivanov",
+    "creatorHandle": "ivelini",
+    "activeVersion": 20,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

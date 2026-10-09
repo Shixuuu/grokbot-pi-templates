@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-newt",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A friendly nutrition coach that logs your meals from text or photos, tracks calories and macros against your own targets, and plans your week of meals with a grocery list. It's for anyone who wants steady, no-guilt help hitting a protein or calorie goal.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l2X92A_HyqiLTIVbz7F7L",
+    "url": "https://x.ai/bot/l2X92A_HyqiLTIVbz7F7L",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "FireSmoke",
+    "creatorHandle": "smoke_aa1010",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-pal",
+  "version": "1.0.1",
+  "private": true,
+  "description": "MLB matchup scout for one owner. Surfaces today’s best hitter PASS spots and pitcher K spots from BallparkPal projections, pitch-type/arsenal verify, and soft BvP — short boards only, never places bets.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9Zvz4Qe0dxRjo4H984gOI",
+    "url": "https://x.ai/bot/9Zvz4Qe0dxRjo4H984gOI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Badger Bets",
+    "creatorHandle": "BadgersBet",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

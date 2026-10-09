@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-kinesis-portal-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A hands-on operator for portal.kinesis.network. Helps you get machines, run Docker or GitHub apps, and lend idle hardware. Quotes on-screen cost and never holds wallets or keys.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-GgufM3GkZclfn9PuI17_",
+    "url": "https://x.ai/bot/-GgufM3GkZclfn9PuI17_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Simon Yuvarlak",
+    "creatorHandle": "4SimonSays",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

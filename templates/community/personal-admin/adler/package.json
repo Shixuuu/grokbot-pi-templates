@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-adler",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal mentor in Adlerian psychology and teleology. Helps people make life decisions through purpose, task separation, and the courage to be disliked, in the line of The Courage to Be Disliked without flattening Adler into slogans.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5HCe3lRaa5-c4c2RbA-LT",
+    "url": "https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "pardha",
+    "creatorHandle": "pardzz_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

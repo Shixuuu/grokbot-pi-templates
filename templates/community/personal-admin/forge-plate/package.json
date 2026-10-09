@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-forge-plate",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A lift-and-plate coach for novice and heavy lifters. One command at a time: week grid, log, trend, swaps, ramp, home 30, and a high-protein plate — no invented weights, no medical advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ScVcj_ZwEMOz6XLGdru5j",
+    "url": "https://x.ai/bot/ScVcj_ZwEMOz6XLGdru5j",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "realMAG1775",
+    "creatorHandle": "realMAG1775",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-occupationmars",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Manifest Assignment on Grok Bot → Founding Colonist ID + Welcome letter → 15-min Alpha Run or week-long Crew Crisis. Conversation is the MMO; your bot is the GM.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5ipOVRs7oa1x39dHY46R6",
+    "url": "https://x.ai/bot/5ipOVRs7oa1x39dHY46R6",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gavin McNicol",
+    "creatorHandle": "gavin_mcnicol",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

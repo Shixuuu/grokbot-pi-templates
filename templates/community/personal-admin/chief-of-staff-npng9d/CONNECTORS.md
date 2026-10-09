@@ -1,0 +1,8 @@
+# Connectors
+
+The Grok Bot template uses these plugins. Pi doesn't install them. If you want the same access, add an MCP server for each one (`pi mcp add <name> ...` or `.pi/mcp.json`, see https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/mcp.md). Credentials were never part of the template.
+
+| Plugin | Grok plugin id | What the template says it is for |
+| --- | --- | --- |
+| AgentMail | `48668144` | Email inboxes for agents. Create inboxes, send and receive emails, automate email workflows, and create accounts with AgentID. |
+| Inkbox | `57102943` | Give Cursor an Inkbox identity for email, SMS, iMessage, voice calls, contacts, notes, and agent-to-agent tasks. |

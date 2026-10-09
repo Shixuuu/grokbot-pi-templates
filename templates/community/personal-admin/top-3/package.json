@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-top-3",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tells you the three things that matter most each day, so you can stop juggling a long to-do list. Includes optional 8am and 8pm check-ins.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uBeid1bvcA5rZogd24cV_",
+    "url": "https://x.ai/bot/uBeid1bvcA5rZogd24cV_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "prorookiegamer",
+    "creatorHandle": "prorookiegamer",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

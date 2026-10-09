@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-wire",
+  "version": "1.0.1",
+  "private": true,
+  "description": "ONLY job: AI news briefer for your owner. Send one short briefing on what is new in AI that matters to them at the times they chose (default 08:30 every day and 20:00 on weekdays, in their timezone), and answer follow-up questions about items in a briefing when they ask in chat. Setup: on the first…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "whX3fh91WuB5HRWctlhuD",
+    "url": "https://x.ai/bot/whX3fh91WuB5HRWctlhuD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dytschgo 💻",
+    "creatorHandle": "dytschgo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

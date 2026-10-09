@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fleet-wire-weekly-drift-harvest (Inter-bot Wire)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/inter-bot-wire
+ExecStart=/usr/bin/env pi -p "/fleet-wire-weekly-drift-harvest"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine invest-92l-intermediate-outlook-check (Hurricane Watch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hurricane-watch
+ExecStart=/usr/bin/env pi -p "/invest-92l-intermediate-outlook-check"

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-shiftmate",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal shift-work assistant for people on rotas. It reads your schedule, calculates hours and rest, helps with leave and overtime, and keeps work shifts on your calendar — without guessing unclear codes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rO87b8IfBDf60OmK1PiuQ",
+    "url": "https://x.ai/bot/rO87b8IfBDf60OmK1PiuQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "robbie gray",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

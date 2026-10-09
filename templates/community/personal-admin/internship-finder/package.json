@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-internship-finder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds high-quality internships and drafts short, personal outreach emails. Built for students and early builders who want human-sounding cold outreach, not AI sludge.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YTNSFtHdol3LvuZeAmcXZ",
+    "url": "https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Rushmore",
+    "creatorHandle": "mnt_rushmore",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

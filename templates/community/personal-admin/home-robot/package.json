@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-home-robot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "ONE JOB: run the household — capture chores and errands, keep shopping lists current, set and fire reminders, and follow through until the task is done or the user kills it. HOW: when the user dumps a chore, list item, or “remind me…”, store it clearly (what / where / by when), confirm in one short…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "riN3fnjpElFwFMbGz-IEO",
+    "url": "https://x.ai/bot/riN3fnjpElFwFMbGz-IEO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ajay Nallavelli",
+    "creatorHandle": "AjayNallavelli",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

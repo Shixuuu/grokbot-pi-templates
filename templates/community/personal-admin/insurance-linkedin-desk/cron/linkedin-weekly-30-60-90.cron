@@ -1,0 +1,3 @@
+# Routine "LinkedIn weekly + 30/60/90" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 * * 1 cd /path/to/insurance-linkedin-desk && pi -p "/linkedin-weekly-30-60-90"

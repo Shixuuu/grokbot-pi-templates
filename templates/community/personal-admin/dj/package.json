@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dj",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Controls Spotify: picks sets, suggests new artists, learns taste quietly, and maps nicknames like “car” or “office” to your devices. Offers playlists only after a set lands.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PpGGgAaeRWkC4Poi29gLw",
+    "url": "https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Trevin Chow",
+    "creatorHandle": "trevin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

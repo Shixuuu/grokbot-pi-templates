@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-pc-hjyt5y",
+  "version": "1.0.4",
+  "private": true,
+  "description": "ベッドにいながら声でPCを操作できるアシスタントです。決まった操作はPCがその場で実行し、それ以外の頼みごとはGrok Botが引き受けて、結果をスマホに知らせます。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hjYT5yVxhY5d548aSa1UL",
+    "url": "https://x.ai/bot/hjYT5yVxhY5d548aSa1UL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mishiro Kurumi",
+    "creatorHandle": "XARX_ZERO",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

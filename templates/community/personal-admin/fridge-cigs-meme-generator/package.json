@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fridge-cigs-meme-generator",
+  "version": "1.0.2",
+  "private": true,
+  "description": "$CIGS image editor: swap cigarettes for Diet Coke cans in uploaded photos, keep everything else exact, stamp a small $cigs mark.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RrZNfN062oERy27w3kGhR",
+    "url": "https://x.ai/bot/RrZNfN062oERy27w3kGhR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tzvi Wiesel",
+    "creatorHandle": "FridgeCigsSol",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

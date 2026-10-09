@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-kev-checkpoint",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A safety checkpoint for a Grok Bot team. Before a bot acts, it runs the action through Kev, a free open-source model on your own Mac, rules allow, ask a person, or deny, and logs every call. That gives your team a second, offline check on every action, so risky moves get caught before they happen a…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-bQneXWluIgnKo6iJrDYN",
+    "url": "https://x.ai/bot/-bQneXWluIgnKo6iJrDYN",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Franklin Miller",
+    "creatorHandle": "AgenticDad",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

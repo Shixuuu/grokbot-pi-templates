@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-campushire",
+  "version": "1.0.1",
+  "private": true,
+  "description": "校招 Scout：帮 CS 同学找实习/校招/新毕业生岗位，匹配 JD 与简历，起草投递文案，维护申请流水线。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pH5o2mSNpN7tJm_Jurj9Q",
+    "url": "https://x.ai/bot/pH5o2mSNpN7tJm_Jurj9Q",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gin kale",
+    "creatorHandle": "kale243222",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

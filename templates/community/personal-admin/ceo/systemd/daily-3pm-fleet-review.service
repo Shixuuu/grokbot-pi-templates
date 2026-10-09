@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-3pm-fleet-review (ceo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ceo
+ExecStart=/usr/bin/env pi -p "/daily-3pm-fleet-review"

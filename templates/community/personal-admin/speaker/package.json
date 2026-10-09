@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-speaker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Speaker for the Dead inspired by Orson Scott Card's Ender's Game series. It keeps an honest, balanced record of your life, checks in with your other bots each night, and each week asks good questions and proposes what belongs in long-term memory. Built for anyone who wants their story told truthf…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MYauHGRcP387M8a_2mbNT",
+    "url": "https://x.ai/bot/MYauHGRcP387M8a_2mbNT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Bud Johnson",
+    "creatorHandle": "Bud Johnson",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

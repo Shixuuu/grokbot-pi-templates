@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-inter-bot-wire",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Teach multi-agent fleets a compact wire language for bot-to-bot messages, while humans always get plain English. Owns the dialect, onboards new bots, and runs a weekly drift check.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FfcZMgU75gSn99hT6z8ZD",
+    "url": "https://x.ai/bot/FfcZMgU75gSn99hT6z8ZD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Markus Johnson",
+    "creatorHandle": "SleepyCovfefe",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

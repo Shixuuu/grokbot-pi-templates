@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-botlog",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Watches the Grok Bot changelog and tells you only what's new, with tips on how to use each change in your own setup.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7r4lJlcZaqMUINspxwI3h",
+    "url": "https://x.ai/bot/7r4lJlcZaqMUINspxwI3h",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "JP Costa",
+    "creatorHandle": "jp_costa",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

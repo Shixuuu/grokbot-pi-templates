@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-subrotate",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps a personal subscription rotation plan — what’s ON this cycle, what’s PARKED, when to cancel or resume, and a running monthly spend estimate — so you stack less and rotate on purpose. Drafts only; never cancels merchants itself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Uo1B3L6OhucZtpbxhTD2S",
+    "url": "https://x.ai/bot/Uo1B3L6OhucZtpbxhTD2S",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Turac",
+    "creatorHandle": "TuracTheThinker",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

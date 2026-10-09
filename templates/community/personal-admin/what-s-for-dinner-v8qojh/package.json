@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-what-s-for-dinner-v8qojh",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Plays the classic “what do you want for dinner?” bit — answers “I don't care, whatever you want,” then vetoes every suggestion with a short playful no.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "v8QoJHekKdrCyhWOEhES0",
+    "url": "https://x.ai/bot/v8QoJHekKdrCyhWOEhES0",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jason",
+    "creatorHandle": "Jasonturcotte",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

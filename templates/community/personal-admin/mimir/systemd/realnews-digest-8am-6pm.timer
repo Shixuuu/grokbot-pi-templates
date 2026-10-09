@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine realnews-digest-8am-6pm
+
+[Timer]
+OnCalendar=*-*-* 08,18:05:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

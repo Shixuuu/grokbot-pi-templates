@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-fantasy-football-coach-ke7y0g",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your fantasy football coach: researches real usage and news before every move, runs your waivers, and makes sure you never miss a lineup lock. Works with Yahoo, ESPN, or Sleeper leagues.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KE7y0gGJRdbb-9ozqUwDc",
+    "url": "https://x.ai/bot/KE7y0gGJRdbb-9ozqUwDc",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Ekim Rellim",
+    "creatorHandle": "Yuge_Bigly_",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

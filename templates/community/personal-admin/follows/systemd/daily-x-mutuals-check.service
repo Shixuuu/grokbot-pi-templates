@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-x-mutuals-check (Follows)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/follows
+ExecStart=/usr/bin/env pi -p "/daily-x-mutuals-check"

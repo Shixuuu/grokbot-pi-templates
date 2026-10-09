@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chiefton",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your bot fleet chief. Sets a monthly money target, checks progress on a weekday schedule, nudges stalled money-making bots with one concrete next step, and talks with light humor and sass.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RUZPHfbb43AbXnYcU_-RR",
+    "url": "https://x.ai/bot/RUZPHfbb43AbXnYcU_-RR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Corey Sullivan",
+    "creatorHandle": "theSulSul",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

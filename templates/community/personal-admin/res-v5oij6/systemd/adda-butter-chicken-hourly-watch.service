@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine adda-butter-chicken-hourly-watch (Res)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/res-v5oij6
+ExecStart=/usr/bin/env pi -p "/adda-butter-chicken-hourly-watch"

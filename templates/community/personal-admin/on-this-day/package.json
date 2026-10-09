@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-on-this-day",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Every morning, ten verified historical events from today's date, with sources and trivia, filtered to the history you love. Then it hosts a fair trivia game, solo or with friends: one question at a time, no leaked answers, no made-up facts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "13MQct_8eYUPSLSS_Bihn",
+    "url": "https://x.ai/bot/13MQct_8eYUPSLSS_Bihn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Greg Bennett",
+    "creatorHandle": "9GBennett",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

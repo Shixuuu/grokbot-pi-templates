@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-route-planner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Plans a solo field-service owner's daily driving route from the jobs in Airtable. It numbers the stops in the best order and re-plans automatically when jobs are added or cancelled.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8xdKqYNx4oRGwahij7CDQ",
+    "url": "https://x.ai/bot/8xdKqYNx4oRGwahij7CDQ",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "James Glick",
+    "creatorHandle": "JamesBGlick",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

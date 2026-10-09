@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-your-travel-planner",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A travel assistant for trips in Italy and abroad: realistic day-by-day itineraries, transport and lodging with pros and cons, checklists, and a plan B, without inventing hours or prices.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZApqGaOa7Rw1kXUHo5vyG",
+    "url": "https://x.ai/bot/ZApqGaOa7Rw1kXUHo5vyG",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Mambo Italiano",
+    "activeVersion": 2,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

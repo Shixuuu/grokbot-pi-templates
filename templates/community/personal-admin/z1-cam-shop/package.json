@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-z1-cam-shop",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Makera Z1 CAM shop assistant for toolpaths, feeds and speeds, fixturing, tooling, stock matching, and setup sheets. For desktop CNC millers who want production packages ready to cut.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4TxZ2KVW5aM6bfOleofNb",
+    "url": "https://x.ai/bot/4TxZ2KVW5aM6bfOleofNb",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "MSMage",
+    "creatorHandle": "msmage",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

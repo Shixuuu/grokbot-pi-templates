@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 5bffb476-9078-5002-b8e5-dc022a6bcc44 (Shakespeare)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shakespeare
+ExecStart=/usr/bin/env pi -p "/5bffb476-9078-5002-b8e5-dc022a6bcc44"

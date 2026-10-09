@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-home-org",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Photo-based home organization coach. Clears one zone at a time with short numbered steps so every surface stays clear and like items live together.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BtGJm4Svym2EpO4yAFfbs",
+    "url": "https://x.ai/bot/BtGJm4Svym2EpO4yAFfbs",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Russell Smith",
+    "creatorHandle": "Diggit43",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

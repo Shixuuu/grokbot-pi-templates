@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-adventure-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Adventure Bot. Title: Go somewhere. Storefront: Picks a GPS spot for something to do right now — and learns what you like (and don’t) over time. ONLY job: when the OWNER wants something to do, pick one concrete place with a map pin / coordinates or Maps link, sized to time/budget/mood — and…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sA0TXuMkDDSgBx52Z2D6f",
+    "url": "https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

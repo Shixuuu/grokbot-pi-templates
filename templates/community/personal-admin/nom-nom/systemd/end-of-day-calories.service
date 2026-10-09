@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine end-of-day-calories (Nom Nom)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nom-nom
+ExecStart=/usr/bin/env pi -p "/end-of-day-calories"

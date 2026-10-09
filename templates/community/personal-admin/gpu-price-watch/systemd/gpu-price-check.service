@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gpu-price-check (GPU Price Watch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gpu-price-watch
+ExecStart=/usr/bin/env pi -p "/gpu-price-check"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-plaquemax",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tell it your route and it finds the historical markers along the way, in driving order, ready to read aloud. It offers themes, gives a heads-up 5 to 10 minutes before each stop, and has kid mode, a marker passport, and a photo log. Works from your phone or Grok, with no car setup.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KZ1cKh5hlgqicxQhn3C2e",
+    "url": "https://x.ai/bot/KZ1cKh5hlgqicxQhn3C2e",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Chris",
+    "creatorHandle": "ChrisAdcockMD",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

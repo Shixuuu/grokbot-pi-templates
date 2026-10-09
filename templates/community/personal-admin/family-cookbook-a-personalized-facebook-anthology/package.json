@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-family-cookbook-a-personalized-facebook-anthology",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Builds a gift-quality living cookbook PDF from a home cook’s Facebook cooking posts—story titles, food photos, clickable table of contents and indexes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NtRwoU2jzXkNSxu1SYKIf",
+    "url": "https://x.ai/bot/NtRwoU2jzXkNSxu1SYKIf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brian Stephens",
+    "creatorHandle": "BrianSt97490822",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grok-apron",
+  "version": "1.0.14",
+  "private": true,
+  "description": "Leverages your grocery store’s weekly ad to build a cost-effective meal plan for your family. Automatically builds the checkout cart on your grocery store website for pickup or delivery. Family size, meal frequency, and level of culinary variety are all adjustable through the meal planner web inter…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bjQaTbH4Oe2G0lNxb2HBF",
+    "url": "https://x.ai/bot/bjQaTbH4Oe2G0lNxb2HBF",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Gavin McMahon",
+    "creatorHandle": "Handicapper_Gen",
+    "activeVersion": 14,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

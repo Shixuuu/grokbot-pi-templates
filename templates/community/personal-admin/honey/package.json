@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-honey",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Warm helper for day-to-day work in Thai or English — move files, use Google Drive, and keep Thai text readable on the bot computer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oXVLzHzy4WVpw4rLytMv4",
+    "url": "https://x.ai/bot/oXVLzHzy4WVpw4rLytMv4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "horsezy Ruaywanasa",
+    "creatorHandle": "unixdevth",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

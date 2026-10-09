@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-calpro-imessage-calorie-and-protein-tracker",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Track calories and protein by texting. Log 650 45 or 650 cal 45 g, set a daily goal, undo the last meal, reset at 4 AM. Private daily log. Add this Grok Bot, track your calories and protein.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JFMi_AFkoA2xw6ontMEMp",
+    "url": "https://x.ai/bot/JFMi_AFkoA2xw6ontMEMp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "prorookiegamer",
+    "creatorHandle": "prorookiegamer",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

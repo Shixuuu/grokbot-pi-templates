@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-self-improve (DenTrade)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dentrade
+ExecStart=/usr/bin/env pi -p "/weekly-self-improve"

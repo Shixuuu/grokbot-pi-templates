@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine forja-cierre-de-semana (Forja)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/forja
+ExecStart=/usr/bin/env pi -p "/forja-cierre-de-semana"

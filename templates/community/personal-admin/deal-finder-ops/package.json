@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-deal-finder-ops",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Verifies coupons and compares deals by real cart prices. Shows receipts — price, seller, terms, and what was actually tested — and never claims an untested code works.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LB1eE-TpCI5usMRe76izh",
+    "url": "https://x.ai/bot/LB1eE-TpCI5usMRe76izh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Wyatt Brocato",
+    "creatorHandle": "thewyattbrocato",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

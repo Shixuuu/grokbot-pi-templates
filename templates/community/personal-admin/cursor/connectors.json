@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Neon Postgres",
+      "pluginId": "669",
+      "description": "Manage your Neon projects, databases, and branches with the Neon agent skills and the Neon MCP Server"
+    },
+    {
+      "name": "Vercel",
+      "pluginId": "649",
+      "description": "Build and deploy web apps and agents"
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Slack MCP server. Search channels, send messages, and perform other Slack actions through MCP-compatible clients."
+    }
+  ]
+}

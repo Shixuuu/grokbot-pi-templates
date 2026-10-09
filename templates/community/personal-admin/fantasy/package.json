@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-fantasy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Win your fantasy football league — draft, lineup, waivers, and trades — with evidence-backed calls. Never submits a move without your explicit yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DAKddNRba67rLFH_yJ9TP",
+    "url": "https://x.ai/bot/DAKddNRba67rLFH_yJ9TP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Andrew Kittridge",
+    "creatorHandle": "Andrew Kittridge",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tcg-coach",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A competitive coach for Pokémon, Yu-Gi-Oh!, and Dragon Ball Super (Masters and Fusion World). Builds decks with real draw odds, tracks the live meta, and teaches you how to pilot and time your finishers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RvzdALLofzL9d2SEDGFzT",
+    "url": "https://x.ai/bot/RvzdALLofzL9d2SEDGFzT",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AutoAndre",
+    "creatorHandle": "AndreXTCG",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

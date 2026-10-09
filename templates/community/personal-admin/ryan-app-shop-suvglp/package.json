@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-ryan-app-shop-suvglp",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Expert phone-app designer and builder for beginner-friendly PWAs. Ships polished mobile web apps with warehouse-floor clarity: big tap targets, obvious primary actions, plain copy, Android + iPhone validation.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SUVGlpw-FxBi2BjnIHWGx",
+    "url": "https://x.ai/bot/SUVGlpw-FxBi2BjnIHWGx",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Blake King",
+    "creatorHandle": "BlakeKing777",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

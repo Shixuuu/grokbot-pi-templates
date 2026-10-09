@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-mckondo",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Marie Kondo for a Mac. Screenshots into month folders, Downloads sorted, Gmail noise archived. Keep what matters, put the rest away.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Kki8WwXYkmKYfr1IY2ABA",
+    "url": "https://x.ai/bot/Kki8WwXYkmKYfr1IY2ABA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "vandy meares",
+    "activeVersion": 4,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

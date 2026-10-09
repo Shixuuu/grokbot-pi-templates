@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-volt",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Finds the best consumer or business Tesla lease/buy deals in your country and area. Compares official finance, brokers, sacrifice schemes, and used — never invents quotes or applies for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QZ6VW1zRJTb4ZY5DNk5pm",
+    "url": "https://x.ai/bot/QZ6VW1zRJTb4ZY5DNk5pm",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Benn Garnish",
+    "creatorHandle": "benngarnish",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

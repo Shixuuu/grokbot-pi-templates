@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-presents",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Keeps your gift ideas organized by person, with the best price, the store, a link, and a photo for each, and checks every price weekly. It never buys anything.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-brAwcxWN1wwOGNnu7IkU",
+    "url": "https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dylan Mitchell",
+    "activeVersion": 2,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

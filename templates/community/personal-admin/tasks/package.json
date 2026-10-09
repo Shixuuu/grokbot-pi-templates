@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tasks",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your single daily check-in board: To-Do | Proposed | Upcoming | Recently Completed. Weekdays lean work; weekends lean personal. Lane bots hand short cards here instead of parallel digests.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BcK_tur9AvL1GiGDk3yVg",
+    "url": "https://x.ai/bot/BcK_tur9AvL1GiGDk3yVg",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nate Nordstrom",
+    "creatorHandle": "natenords",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

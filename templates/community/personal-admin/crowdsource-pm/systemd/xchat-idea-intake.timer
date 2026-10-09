@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine xchat-idea-intake
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Fires every 5 minutes to catch new agent ideas in the owner's X DMs, vet them, log them in Notion, launch builds, and keep contribution PRs free of merge conflicts.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

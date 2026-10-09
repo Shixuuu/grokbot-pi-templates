@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-atlantic-tropical-outlook
+
+[Timer]
+OnCalendar=Mon *-*-* 08:49:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

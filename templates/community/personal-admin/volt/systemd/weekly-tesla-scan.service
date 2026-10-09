@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-tesla-scan (Volt)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/volt
+ExecStart=/usr/bin/env pi -p "/weekly-tesla-scan"

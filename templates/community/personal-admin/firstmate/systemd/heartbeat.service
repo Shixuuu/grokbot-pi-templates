@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine heartbeat (Firstmate)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/firstmate
+ExecStart=/usr/bin/env pi -p "/heartbeat"

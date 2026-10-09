@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine personal-open-to-dos-weekdays
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 17:08:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

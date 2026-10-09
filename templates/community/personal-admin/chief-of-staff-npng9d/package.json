@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-chief-of-staff-npng9d",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Coordinates your crew of Grok Bots: routes work, keeps shared rules and a trust ladder, checks results, and only interrupts you when something needs your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "npnG9DhKdJOlD1nmzJxXK",
+    "url": "https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Hank Jackson",
+    "creatorHandle": "hjackson2",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

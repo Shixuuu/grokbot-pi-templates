@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-botoween",
+  "version": "1.0.7",
+  "private": true,
+  "description": "A bot that will help you pick out and buy your favorite bot mask for Halloween this year 🎃",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5mzwroI2pRFvH84Md1Ufj",
+    "url": "https://x.ai/bot/5mzwroI2pRFvH84Md1Ufj",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jenna",
+    "creatorHandle": "jenna8A",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

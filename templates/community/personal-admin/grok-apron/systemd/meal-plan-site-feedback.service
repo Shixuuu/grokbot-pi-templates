@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine meal-plan-site-feedback (Grok Apron)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grok-apron
+ExecStart=/usr/bin/env pi -p "/meal-plan-site-feedback"

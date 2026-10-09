@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-orbit-brief",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Brief matinal en français sur SpaceX/Starship, xAI/Grok Bot, et architecture orbitale & débris. Cinq faits sourcés, trois actions concrètes, tous les jours ouvrés à 9h.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EkX7yjLCie8Phae6Fh4nE",
+    "url": "https://x.ai/bot/EkX7yjLCie8Phae6Fh4nE",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "V.Y@n",
+    "creatorHandle": "VYCanisMajori",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

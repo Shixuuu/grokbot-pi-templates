@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-house-sniffer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds Active detached houses that match a standing filter stack—area, price, baths, lot, garage, and status—and pulls them from the usual listing sites.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DGrpAJax-wqx_NwaBpPyA",
+    "url": "https://x.ai/bot/DGrpAJax-wqx_NwaBpPyA",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Genealogy by Brad",
+    "creatorHandle": "Bradfrogger",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

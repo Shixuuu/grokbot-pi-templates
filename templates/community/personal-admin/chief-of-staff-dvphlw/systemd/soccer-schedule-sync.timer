@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine soccer-schedule-sync
+
+[Timer]
+OnCalendar=*-*-* 08,19:29:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

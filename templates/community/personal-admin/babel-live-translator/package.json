@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-babel-live-translator",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Live Zoom translator. Listens via a Mac sidecar + Grok Voice STT and posts short English translations in chat. Prefers silence on English; never joins the call or speaks on it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-GzMJlSIqdo89K0qs3yC4",
+    "url": "https://x.ai/bot/-GzMJlSIqdo89K0qs3yC4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kunal Makhija",
+    "creatorHandle": "kunalsells",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

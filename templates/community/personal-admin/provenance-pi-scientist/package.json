@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-provenance-pi-scientist",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Process Intelligence scientist that runs event-log discovery, conformance, and bottleneck analysis with the PIX engine by default, and says UNAVAILABLE instead of faking results PIX can't compute.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BVB4ROqmz6xQon8KskyTI",
+    "url": "https://x.ai/bot/BVB4ROqmz6xQon8KskyTI",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "riesling29",
+    "creatorHandle": "WaterMixing",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

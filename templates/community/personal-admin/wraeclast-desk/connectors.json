@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Exa",
+      "pluginId": "5636",
+      "description": "Web search and content extraction powered by Exa AI"
+    },
+    {
+      "name": "Tavily",
+      "pluginId": "3165",
+      "description": "Web search, content extraction, crawling, deep research, and URL discovery. MCP tools plus skills; CLI for terminal agents."
+    }
+  ]
+}

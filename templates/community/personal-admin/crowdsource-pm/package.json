@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-crowdsource-pm",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns your X DMs into a crowd-sourced build pipeline: it vets agent ideas people send you, logs them in Notion, and has Cursor cloud agents ship the good ones as PRs to your repo.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QuT89TlkAwnO6uDc78hkb",
+    "url": "https://x.ai/bot/QuT89TlkAwnO6uDc78hkb",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Paul Vann",
+    "creatorHandle": "pjvann",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

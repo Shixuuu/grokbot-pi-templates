@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-check-in (Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/coach
+ExecStart=/usr/bin/env pi -p "/evening-check-in"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gazetteer-scout",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You name a niche. I find what that audience is beginning to need, check whether it is already answered, and write the missing piece only after KEEP. I watch one niche you name — or one you approve after I propose directions. I do not arrive with a default niche. Loop: niche → demand radar with obse…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mgHgsFCkPcYyX428IB1VD",
+    "url": "https://x.ai/bot/mgHgsFCkPcYyX428IB1VD",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "John Burcheci",
+    "creatorHandle": "John",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

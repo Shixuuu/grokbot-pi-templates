@@ -1,0 +1,3 @@
+# Routine "Product restock watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+35 9-17 * * * cd /path/to/hunter && pi -p "/ff-resonance-ce-restock"

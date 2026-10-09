@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine afternoon-workout-check-in (Gym Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gym-bot
+ExecStart=/usr/bin/env pi -p "/afternoon-workout-check-in"

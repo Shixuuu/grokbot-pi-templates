@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-albert",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Analyzes municipal police collective bargaining agreements (CBAs), extracts wages, benefits, and related terms, and builds comparable Excel summaries.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jtFHKaEKzEZ0zSDVCl6BP",
+    "url": "https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Skyler Miller",
+    "creatorHandle": "Skyler_Miller56",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

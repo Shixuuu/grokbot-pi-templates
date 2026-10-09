@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-orphan-scan (Sweeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sweeper
+ExecStart=/usr/bin/env pi -p "/daily-orphan-scan"

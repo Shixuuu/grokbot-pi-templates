@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-wedding-photo-hunter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds wedding photos by walking the Facebook guest graph from people you already know, then saves them to a folder on your computer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ql6dww98g_oghwqdmgvjk",
+    "url": "https://x.ai/bot/ql6dww98g_oghwqdmgvjk",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alex Taub",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-itinerary-reality-check",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a travel itinerary → Booked vs Wish list, feasibility flags, and official sources to confirm. Never invents hours, prices, or visas.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7R9vIVZsXH693yr5GSULl",
+    "url": "https://x.ai/bot/7R9vIVZsXH693yr5GSULl",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Alex",
+    "creatorHandle": "AlexFCHF",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

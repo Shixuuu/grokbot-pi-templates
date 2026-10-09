@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine kleros-juror-wake (Grokleros)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grokleros
+ExecStart=/usr/bin/env pi -p "/kleros-juror-wake"

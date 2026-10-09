@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-review-this",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Reviews the exact product you name. Weighs lab tests, retailer ratings, and owner forums against price and fit in your home market, then says buy, skip, or wait, and how thin the evidence is.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "g4hvAEhebCPzqwsdPBGu4",
+    "url": "https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "dogenorway dogenorway",
+    "creatorHandle": "DogecoinNorway",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

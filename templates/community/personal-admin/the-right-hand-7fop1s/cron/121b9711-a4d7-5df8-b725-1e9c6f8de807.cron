@@ -1,0 +1,3 @@
+# Routine "End of day wrap" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+14 18 * * 1-5 cd /path/to/the-right-hand-7fop1s && pi -p "/121b9711-a4d7-5df8-b725-1e9c6f8de807"

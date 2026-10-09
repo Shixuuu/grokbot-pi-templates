@@ -1,0 +1,3 @@
+# Routine "Build Scout weekly roundup" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+40 8 * * 6 cd /path/to/build-scout && pi -p "/build-scout-weekly-roundup"

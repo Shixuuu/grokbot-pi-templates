@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-gym-food-maker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "High-protein meal planner for muscle building. Builds a weekly menu from what you actually buy, with calories and protein, and never checks out unless you say so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UFKxL8MM1NFCYsaevZV16",
+    "url": "https://x.ai/bot/UFKxL8MM1NFCYsaevZV16",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Charlie OS ᯅ🇵🇷𝕏 Rodriguez Garcia",
+    "creatorHandle": "CharioBro",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

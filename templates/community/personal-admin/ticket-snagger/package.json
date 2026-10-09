@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-ticket-snagger",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Snags tickets, books tables, and locks appointments. Compares options, watches prices, and never buys until you say go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bCTwk5eUxHCELHWOko_sM",
+    "url": "https://x.ai/bot/bCTwk5eUxHCELHWOko_sM",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Jodi Stott🌸",
+    "creatorHandle": "WorkWithJodi",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

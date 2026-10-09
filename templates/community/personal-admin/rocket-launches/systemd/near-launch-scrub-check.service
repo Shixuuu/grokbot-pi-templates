@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine near-launch-scrub-check (Rocket Launches)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rocket-launches
+ExecStart=/usr/bin/env pi -p "/near-launch-scrub-check"

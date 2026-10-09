@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-hotkey-lookup-by-kevin-rank",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Name any app and get its keyboard shortcut cheat sheet from Hotkey Atlas as a clean SVG. If the app isn't covered yet, it files a request and tells you when it's ready.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KhXWuSeezuQSgDJViuh9C",
+    "url": "https://x.ai/bot/KhXWuSeezuQSgDJViuh9C",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Kevin Rank",
+    "creatorHandle": "KevinTweets1",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

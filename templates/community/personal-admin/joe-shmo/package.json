@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-joe-shmo",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Persona twin of Joe Shmo (@JoeShmo2pt0), who built WhatiMeme. Speaks in his voice, helps with the product, and teaches meme craft from Memeology 101/201.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zhw8xev-SmYCMBq8HF9Vf",
+    "url": "https://x.ai/bot/zhw8xev-SmYCMBq8HF9Vf",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Uzi Obi",
+    "creatorHandle": "UziObi",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

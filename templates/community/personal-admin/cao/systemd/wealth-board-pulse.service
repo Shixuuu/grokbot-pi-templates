@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wealth-board-pulse (CAO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cao
+ExecStart=/usr/bin/env pi -p "/wealth-board-pulse"

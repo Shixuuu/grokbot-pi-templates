@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-first-draft",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Emails, posts, one-pagers, and outreach written in your voice. It never adds facts you didn't give it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "79yjaR6vn29O_NonxTDwr",
+    "url": "https://x.ai/bot/79yjaR6vn29O_NonxTDwr",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "AdventureNLearn Main",
+    "creatorHandle": "AdventureNLearn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

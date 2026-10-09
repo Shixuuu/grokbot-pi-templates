@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine perishables-spoil-nudge (Grocery Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grocery-bot-kxbz2x
+ExecStart=/usr/bin/env pi -p "/perishables-spoil-nudge"

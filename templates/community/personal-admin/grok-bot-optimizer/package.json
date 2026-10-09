@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-grok-bot-optimizer",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Cuts wasted tokens on real Bot work you route through an opt-in gateway — collapsing duplicate tool results and repeated messages before they hit the model. Live provider-measured cuts (e.g. 571→330, 455→228, 810→462); native chats stay uncovered until a platform hook exists. No invented dollar sav…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_YJdQ3bYXlYPOsX0NBmaV",
+    "url": "https://x.ai/bot/_YJdQ3bYXlYPOsX0NBmaV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Thomas Albrecht",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

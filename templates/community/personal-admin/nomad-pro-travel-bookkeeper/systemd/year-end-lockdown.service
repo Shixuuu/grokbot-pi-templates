@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine year-end-lockdown (Nomad Pro – Travel Bookkeeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nomad-pro-travel-bookkeeper
+ExecStart=/usr/bin/env pi -p "/year-end-lockdown"

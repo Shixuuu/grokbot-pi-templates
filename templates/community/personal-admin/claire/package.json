@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-claire",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Reactive commercial Service Coordinator. Watches the service mailbox, stamps the shared work-order tracker, runs digests and reminders, and flags angry customers, repeat failures, and money or scope issues for the owner.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "G6MW63VZ6uLP6tPnL0nCR",
+    "url": "https://x.ai/bot/G6MW63VZ6uLP6tPnL0nCR",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Thomas Matteson",
+    "creatorHandle": "MattesonAI",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

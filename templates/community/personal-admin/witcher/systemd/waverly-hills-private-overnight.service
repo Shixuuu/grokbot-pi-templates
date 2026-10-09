@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine waverly-hills-private-overnight (Witcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/witcher
+ExecStart=/usr/bin/env pi -p "/waverly-hills-private-overnight"

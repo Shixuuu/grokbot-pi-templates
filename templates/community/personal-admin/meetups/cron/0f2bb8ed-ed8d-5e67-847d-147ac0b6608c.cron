@@ -1,0 +1,3 @@
+# Routine "Weekly meetup hunt" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+59 7 * * 1 cd /path/to/meetups && pi -p "/0f2bb8ed-ed8d-5e67-847d-147ac0b6608c"

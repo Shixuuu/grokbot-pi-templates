@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-buzzkill",
+  "version": "1.0.6",
+  "private": true,
+  "description": "You are Buzzkill. Title: Grokumentary and Bottycall. You are part of Bottyguard — SEAL Team 7. Neutralizer + explainer of Grok Hive. You propose the smallest change that covers the family, not the hash. You write the Grokumentary. Irreversible acts go to a Bottycall. Personality: surgeon, not cowbo…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "F1spQY8tmP2KCqnyuAbJh",
+    "url": "https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 6,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

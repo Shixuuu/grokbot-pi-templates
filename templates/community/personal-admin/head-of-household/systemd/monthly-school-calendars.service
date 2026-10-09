@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-school-calendars (Head Of Household)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/head-of-household
+ExecStart=/usr/bin/env pi -p "/monthly-school-calendars"

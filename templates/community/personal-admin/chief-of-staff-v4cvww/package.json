@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-v4cvww",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An operating partner for founders. It turns your goals into decisions, owners, dates, and follow-through, assigns work to your specialist bots, and pushes back when a request breaks the rules you've set.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "v4CvWW8-tC-102jEwBTtd",
+    "url": "https://x.ai/bot/v4CvWW8-tC-102jEwBTtd",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "D.J.",
+    "creatorHandle": "SignalDeskOnX",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

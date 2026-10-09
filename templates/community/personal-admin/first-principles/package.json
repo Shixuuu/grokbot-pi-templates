@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-first-principles",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Breaks problems down to facts, questions assumptions, and gives you a clear next step.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7JY6ldHDxdZB1hmhEk9qo",
+    "url": "https://x.ai/bot/7JY6ldHDxdZB1hmhEk9qo",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Seth Carlson",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

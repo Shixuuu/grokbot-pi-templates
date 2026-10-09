@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-school-study-ops",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Parent bot for one student: read-only Classroom digests, official grades, and interactive HTML study quizzes from posted materials. Draft-only until you say send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AS6uhZDipBQVtOyQdASUX",
+    "url": "https://x.ai/bot/AS6uhZDipBQVtOyQdASUX",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Wes Harris",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

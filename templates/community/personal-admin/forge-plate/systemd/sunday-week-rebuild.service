@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-week-rebuild (FORGE PLATE)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/forge-plate
+ExecStart=/usr/bin/env pi -p "/sunday-week-rebuild"

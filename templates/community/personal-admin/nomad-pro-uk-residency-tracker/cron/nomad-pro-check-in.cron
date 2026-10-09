@@ -1,0 +1,3 @@
+# Routine "Nomad Pro check-in" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 21 * * * cd /path/to/nomad-pro-uk-residency-tracker && pi -p "/nomad-pro-check-in"

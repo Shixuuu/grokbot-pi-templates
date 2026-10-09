@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-evening-check-in (AI fitness coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai-fitness-coach
+ExecStart=/usr/bin/env pi -p "/weekday-evening-check-in"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-trash-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs a weekly litter-pickup league for apartment crews: staff text photos, the bot scores them, updates a live TV board, and pays Friday cash prizes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2FnrAQ_WZ5FcNEN1XA6Px",
+    "url": "https://x.ai/bot/2FnrAQ_WZ5FcNEN1XA6Px",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Karen Patterson",
+    "creatorHandle": "karenlgeig",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

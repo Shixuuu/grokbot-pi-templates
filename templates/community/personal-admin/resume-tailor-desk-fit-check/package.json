@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-resume-tailor-desk-fit-check",
+  "version": "1.0.2",
+  "private": true,
+  "description": "✂️ Map your real resume to one job posting as Match, Stretch or Gap, then get a tailored resume and cover note without a single invented title, date or metric. Nothing is sent or submitted for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xhes67kz7pq_sizfiirtb",
+    "url": "https://x.ai/bot/xhes67kz7pq_sizfiirtb",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

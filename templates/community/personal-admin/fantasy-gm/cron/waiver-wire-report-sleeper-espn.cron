@@ -1,0 +1,3 @@
+# Routine "Waiver wire report" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+24 10 * * 2 cd /path/to/fantasy-gm && pi -p "/waiver-wire-report-sleeper-espn"

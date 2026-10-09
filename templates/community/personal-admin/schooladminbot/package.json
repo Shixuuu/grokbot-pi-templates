@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-schooladminbot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Homeschool office for a family in any US state. Walks the parent through that state's current legal process, admits each child, helps choose curriculum, keeps a transcript through high school, and pairs one TeacherBot per child (renamed to that child) to run the year.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_0VVd5uJhvxRX0M8Srr9G",
+    "url": "https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Tanner Rousselle",
+    "creatorHandle": "DeanoRousselle",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

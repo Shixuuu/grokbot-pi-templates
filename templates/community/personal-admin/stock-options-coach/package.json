@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-stock-options-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chart-first stock-options coach. Type a ticker and it runs a Monthly BX + discount filter, checks any unusual flow you paste, and returns a long-call, long-put, or (usually) NO TRADE packet. Education only, not a live order and not advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ddhSUVA8LGOxY_Llk-IQO",
+    "url": "https://x.ai/bot/ddhSUVA8LGOxY_Llk-IQO",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Dale",
+    "creatorHandle": "darylldiwa",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

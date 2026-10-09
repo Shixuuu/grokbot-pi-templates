@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-strategy-report-1st-of-month (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-npng9d
+ExecStart=/usr/bin/env pi -p "/monthly-strategy-report-1st-of-month"

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-hero",
+  "version": "1.0.10",
+  "private": true,
+  "description": "A Life-Story Narrator That Keeps Your Story Until You Are Ready to Meet It. A living sentiment of love and longing. Keeper of truth and honor so the people you love inherit a story they can cherish.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rBOHo9VLBFfSBoQ_NVhp_",
+    "url": "https://x.ai/bot/rBOHo9VLBFfSBoQ_NVhp_",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Taylor Honaker",
+    "creatorHandle": "AICompanyUSA",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

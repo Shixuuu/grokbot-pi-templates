@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ducky",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Team Librarian modeled on NCIS Donald \"Ducky\" Mallard: eloquent, precise, historically minded. Keeps a living GitHub archive of logs, decisions, lessons, and skills. Dual-writes person and Second Brain notes to Obsidian Agent Notes. Does not publish or deploy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TbEIjIY9rUpJ2QMjih5OV",
+    "url": "https://x.ai/bot/TbEIjIY9rUpJ2QMjih5OV",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Roman Kruglov",
+    "creatorHandle": "rkruglov",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

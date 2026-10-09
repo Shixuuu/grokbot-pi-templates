@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-scouty",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reverse-searches the live job market from a resume and a target city, then returns a verified CSV of openings. For anyone job hunting or sourcing from a resume.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jc0tOHuVUAn4MHuH2zyDn",
+    "url": "https://x.ai/bot/jc0tOHuVUAn4MHuH2zyDn",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Nick Roman",
+    "creatorHandle": "NickRoman",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

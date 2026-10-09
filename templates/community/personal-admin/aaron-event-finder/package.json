@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-aaron-event-finder",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Finds real, date-checked local events within the drive time you choose from any ZIP code, then helps turn them into a day plan, re-checks on the morning of, and learns what your family likes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2Bdmewa3uCUtdVByWvzRz",
+    "url": "https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Frederick Su",
+    "creatorHandle": "FrederickPaiSu",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

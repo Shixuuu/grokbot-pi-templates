@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bot-directory-weekly-study (Nero · CEO / SPOT)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nero-ceo-spot
+ExecStart=/usr/bin/env pi -p "/bot-directory-weekly-study"

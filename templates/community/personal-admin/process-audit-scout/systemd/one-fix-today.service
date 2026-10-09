@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine one-fix-today (Process Audit Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/process-audit-scout
+ExecStart=/usr/bin/env pi -p "/one-fix-today"

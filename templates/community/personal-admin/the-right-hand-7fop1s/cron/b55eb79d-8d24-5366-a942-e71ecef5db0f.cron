@@ -1,0 +1,3 @@
+# Routine "Friday weekly review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 15 * * 5 cd /path/to/the-right-hand-7fop1s && pi -p "/b55eb79d-8d24-5366-a942-e71ecef5db0f"

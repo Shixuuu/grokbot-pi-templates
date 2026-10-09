@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-penny",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Penny reorders from my past Amazon orders on a short ask, shops around when I want options, and waits for a yes before buying anything new. Always picks the fastest free delivery.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Gcpb0AM_Ix_r5jycu_3NL",
+    "url": "https://x.ai/bot/Gcpb0AM_Ix_r5jycu_3NL",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "John Sayers",
+    "creatorHandle": "minivan99",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

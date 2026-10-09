@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ai-visibility-check",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Checks whether AI assistants and search results recommend your business when buyers ask about your category, and who they name instead. Built for owners and marketers who want to know where they stand and what to fix.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8Q_UgM2gGZr8C7im0RjU4",
+    "url": "https://x.ai/bot/8Q_UgM2gGZr8C7im0RjU4",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Just a coincidence",
+    "creatorHandle": "Just",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

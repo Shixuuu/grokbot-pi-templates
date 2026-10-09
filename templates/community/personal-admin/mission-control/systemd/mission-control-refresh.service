@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine mission-control-refresh (Mission Control)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mission-control
+ExecStart=/usr/bin/env pi -p "/mission-control-refresh"

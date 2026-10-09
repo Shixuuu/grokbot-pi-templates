@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine minimax-daily-check-in
+
+[Timer]
+OnCalendar=*-*-* 08:03:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
