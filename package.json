@@ -3,12 +3,17 @@
   "private": true,
   "type": "module",
   "description": "Grok Bot templates converted to Pi packages, plus the scrape/convert/validate pipeline",
-  "engines": { "node": ">=22.19.0" },
+  "engines": {
+    "node": ">=22.19.0"
+  },
   "scripts": {
     "enumerate": "node scripts/01-enumerate.mjs",
     "enrich": "node scripts/02-enrich.mjs",
     "convert": "node scripts/03-convert.mjs",
     "index": "node scripts/04-index.mjs",
     "validate": "node scripts/05-validate.mjs --community-sample 30"
+  },
+  "dependencies": {
+    "yaml": "^2.9.1"
   }
 }

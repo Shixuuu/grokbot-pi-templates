@@ -7,6 +7,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { ROOT, readJson, writeJson, writeText } from "./lib/util.mjs";
+import YAML from "yaml";
 import { toSkillSlug, toBotSlug } from "../vendor/pi-grokbot-import-src/schema.mjs";
 import { TRANSFER_MATRIX } from "../vendor/pi-grokbot-import-src/import-bundle.mjs";
 
@@ -43,13 +44,16 @@ const CRON_RE = /(?<![\w*/,-])((?:\*|\d{1,2}(?:[-,/]\d{1,2})*|\*\/\d+)\s+(?:\*|\
 function splitFrontmatter(content) {
   const m = String(content ?? "").match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
   if (!m) return { fm: null, body: String(content ?? "") };
-  const fm = {};
-  for (const line of m[1].split(/\r?\n/)) {
-    const kv = line.match(/^([A-Za-z_-]+):\s*(.*)$/);
-    if (kv) { let v = kv[2].trim(); if (/^["'].*["']$/.test(v)) { try { v = JSON.parse(v.replace(/^'(.*)'$/, '"$1"')); } catch { v = v.slice(1, -1); } } fm[kv[1]] = v; }
+  let fm = null;
+  try { const y = YAML.parse(m[1]); if (y && typeof y === "object" && !Array.isArray(y)) fm = y; } catch {}
+  if (!fm) { // tolerant fallback: simple key: value lines
+    fm = {};
+    for (const line of m[1].split(/\r?\n/)) { const kv = line.match(/^([A-Za-z_-]+):\s*(.*)$/); if (kv) fm[kv[1]] = kv[2].replace(/^["']|["']$/g, ""); }
+    fm.__unparsed = m[1];
   }
   return { fm, fmRaw: m[1], body: m[2] };
 }
+const PI_SKILL_KEYS = ["license", "compatibility", "metadata", "allowed-tools", "disable-model-invocation"];
 function findSchedule(r) {
   const text = `${r.description || ""}\n${r.content || ""}`;
   const m = text.match(CRON_RE);
@@ -82,10 +86,12 @@ function render(t, rec, info) {
     const slug = uniq(toSkillSlug(origName), usedSkills);
     const fullDesc = String(fm?.description || s.description || origName);
     const desc = oneLine(fullDesc);
-    const extraFm = fmRaw ? fmRaw.split(/\r?\n/).filter((l) => l.trim() && !/^(name|description):/.test(l)) : [];
-    let md = `---\nname: ${slug}\ndescription: ${yamlStr(desc)}\n---\n\n`;
+    const extra = {}, keep = {};
+    for (const [k, v] of Object.entries(fm || {})) { if (k === "name" || k === "description" || k === "__unparsed") continue; (PI_SKILL_KEYS.includes(k) ? keep : extra)[k] = v; }
+    const extraFm = fm?.__unparsed ? fm.__unparsed.split(/\r?\n/) : Object.keys(extra).length ? YAML.stringify(extra).trimEnd().split("\n") : [];
+    let md = `---\nname: ${slug}\ndescription: ${yamlStr(desc)}\n${Object.keys(keep).length ? YAML.stringify(keep) : ""}---\n\n`;
     if (desc !== oneLine(fullDesc, 1e9)) md += `> Full original description: ${oneLine(fullDesc, 1e9)}\n\n`;
-    if (extraFm.length) md += `<!-- original SKILL frontmatter (non name/description keys):\n${extraFm.join("\n")}\n-->\n\n`;
+    if (extraFm.length) md += `<!-- original SKILL frontmatter (other keys):\n${extraFm.join("\n")}\n-->\n\n`;
     md += body.trim() ? body.trim() + "\n" : `_(The template shipped this skill with no body; only its name and description.)_\n`;
     if (!body.trim()) notes.push(`Skill \`${origName}\` has no body in the template.`);
     files[`skills/${slug}/SKILL.md`] = md;
