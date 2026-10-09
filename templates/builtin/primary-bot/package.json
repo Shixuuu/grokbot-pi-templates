@@ -1,0 +1,17 @@
+{
+  "name": "grokbot-primary-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Your primary assistant: takes any task, routes it to the right specialist, and proactively checks in with only what you can act on.",
+  "keywords": ["pi-package", "grok-bot-template"],
+  "pi": { "skills": ["./skills"], "prompts": ["./prompts"] },
+  "grokbot": {
+    "shareId": null,
+    "official": false,
+    "category": "builtin",
+    "fidelity": "self-export",
+    "creator": "Grok Bot (Sh1xu's primary bot)",
+    "sources": ["self-export"],
+    "notes": "Written by the bot from its own profile, settings, and routine behavior. The Grok Bot app's internal system instructions are not included."
+  }
+}

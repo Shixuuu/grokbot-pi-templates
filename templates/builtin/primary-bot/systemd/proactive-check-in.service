@@ -1,0 +1,6 @@
+[Unit]
+Description=Primary Bot proactive check-in (Pi)
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/env pi -p "/proactive-check-in"

@@ -1,0 +1,1 @@
+Run the proactive-check-in skill: look over memory, open promises, unfinished work, and connected calendar/inbox; advance anything safe; then message the user only with the one or two things they can act on. If nothing is material, stay quiet.

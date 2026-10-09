@@ -1,0 +1,9 @@
+[Unit]
+Description=Primary Bot proactive check-in, weekdays 9:07 and 14:07
+
+[Timer]
+OnCalendar=Mon..Fri 09:07,14:07
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,2 @@
+# Suggested schedule: weekdays at 9:07 and 14:07 local time. Adjust to taste.
+7 9,14 * * 1-5  cd "$HOME" && pi -p "/proactive-check-in"
