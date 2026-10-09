@@ -15,6 +15,9 @@
 | https://grokbottemplates.app/api/v1/templates.json | directory | yes |
 | https://templatebot.lol/llms.txt | directory (has a paid leaderboard) | yes |
 | research/x-findings.* | X/Twitter research by teammate bot Side | yes |
+| research/x-trading-findings.* | Side's X sweep for stock/crypto/options/trading bots (95; 8 not in any directory) | yes → `community/trading-investing` |
+| research/in-app-builtin-starters.txt | The Grok Bot app's own template picker (55 starters) | yes → `builtin/` |
+| /workspace/primary-bot-pi | The user's Primary Bot, written by the bot itself (no share link) | yes → `builtin/primary-bot` |
 | https://thegrokbots.com | directory (~1,473); machine catalog has no share ids, mostly overlaps the above | no |
 | https://templatesgrokbot.com | 7,116 site-written paste-in "definitions", not x.ai share templates; copying needs an account | no (not Grok Bot share templates) |
 | https://gtemplate.net | directory, no machine-readable list found | no |

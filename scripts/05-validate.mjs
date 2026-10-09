@@ -24,6 +24,13 @@ function isolatedCopy(rel) {
   fs.cpSync(path.join(ROOT, rel), dst, { recursive: true });
   return dst;
 }
+// Packages without .pi/settings.json (e.g. hand-written self-exports) are meant for `pi install`: load their manifest paths.
+function manifestPaths(dir) {
+  if (fs.existsSync(path.join(dir, ".pi", "settings.json"))) return { skills: [], prompts: [] };
+  const pkg = readJson(path.join(dir, "package.json"), {});
+  const abs = (a) => (a || []).map((p) => path.resolve(dir, p));
+  return { skills: abs(pkg.pi?.skills), prompts: abs(pkg.pi?.prompts) };
+}
 const countDirs = (d) => (fs.existsSync(d) ? fs.readdirSync(d).filter((x) => fs.existsSync(path.join(d, x, "SKILL.md"))).length : 0);
 const countMd = (d) => (fs.existsSync(d) ? fs.readdirSync(d).filter((x) => x.endsWith(".md")).length : 0);
 
@@ -34,7 +41,8 @@ if (!process.argv.includes("--skip-loader")) {
     const dir = isolatedCopy(t.path);
     const r = { shareId: t.shareId, path: t.path, fidelity: t.fidelity };
     try {
-      const loader = new pi.DefaultResourceLoader({ cwd: dir, agentDir, noExtensions: true, settingsManager: pi.SettingsManager.create(dir, agentDir) });
+      const extra = manifestPaths(dir);
+      const loader = new pi.DefaultResourceLoader({ cwd: dir, agentDir, noExtensions: true, settingsManager: pi.SettingsManager.create(dir, agentDir), additionalSkillPaths: extra.skills, additionalPromptTemplatePaths: extra.prompts });
       await loader.reload({ resolveProjectTrust: async () => true });
       const sk = loader.getSkills(), pr = loader.getPrompts();
       const agents = loader.getAgentsFiles().agentsFiles.filter((f) => f.path.startsWith(dir));
@@ -68,16 +76,20 @@ if (!process.argv.includes("--skip-cli")) {
   await new Promise((r) => setTimeout(r, 800));
   const agentDir = fs.mkdtempSync(path.join(os.tmpdir(), "gbpt-cli-agent-"));
   fs.writeFileSync(path.join(agentDir, "models.json"), JSON.stringify({ providers: { mock: { baseUrl: `http://127.0.0.1:${port}/v1`, api: "openai-completions", apiKey: "mock", models: [{ id: "mock" }] } } }));
+  const also = (arg("--also", "") || "").split(",").filter(Boolean);
+  for (const t of catalog) if (also.includes(t.shareId) && !official.includes(t) && !sample.includes(t)) sample.push(t);
   for (const t of [...official, ...sample]) {
     const dir = isolatedCopy(t.path);
     const prompts = fs.existsSync(path.join(dir, "prompts")) ? fs.readdirSync(path.join(dir, "prompts")).filter((f) => f.endsWith(".md")) : [];
     const cmd = prompts.length ? `/${prompts[0].replace(/\.md$/, "")} VALIDATION-ARG-42` : "Introduce yourself in one line.";
     fs.rmSync(log, { force: true });
-    const p = spawnSync("pi", ["-p", "--approve", "--no-session", "--no-extensions", "--model", "mock/mock", cmd], { cwd: dir, env: { ...process.env, PI_CODING_AGENT_DIR: agentDir, PI_OFFLINE: "1" }, input: "", encoding: "utf8", timeout: 90000 });
+    const mp = manifestPaths(dir);
+    const extraArgs = [...mp.skills.flatMap((x) => ["--skill", x]), ...mp.prompts.flatMap((x) => ["--prompt-template", x])];
+    const p = spawnSync("pi", ["-p", "--approve", "--no-session", "--no-extensions", ...extraArgs, "--model", "mock/mock", cmd], { cwd: dir, env: { ...process.env, PI_CODING_AGENT_DIR: agentDir, PI_OFFLINE: "1" }, input: "", encoding: "utf8", timeout: 90000 });
     const r = { shareId: t.shareId, path: t.path, official: t.official, builtin: t.builtin, fidelity: t.fidelity, command: cmd.split(" ")[0], exit: p.status, stdout: (p.stdout || "").trim().slice(0, 80) };
     try {
       const req = JSON.parse(fs.readFileSync(log, "utf8").trim().split("\n")[0]);
-      const txt = (c) => (typeof c === "string" ? c : JSON.stringify(c));
+      const txt = (c) => (typeof c === "string" ? c : Array.isArray(c) ? c.map((x) => (typeof x === "string" ? x : x?.text ?? JSON.stringify(x))).join("\n") : JSON.stringify(c));
       const sys = req.messages.filter((m) => m.role === "system" || m.role === "developer").map((m) => txt(m.content)).join("\n");
       const user = txt(req.messages.filter((m) => m.role === "user").at(-1).content);
       const agentsMd = fs.readFileSync(path.join(dir, "AGENTS.md"), "utf8");
@@ -85,9 +97,11 @@ if (!process.argv.includes("--skip-cli")) {
       r.personaInSystem = sys.includes(agentsMd.split("\n")[0].replace(/^# /, "")) && sys.includes(agentsMd.slice(0, 200).split("\n").slice(2).join("\n").trim().slice(0, 60));
       r.skillsAdvertised = skillNames.filter((s) => sys.includes(s)).length + "/" + skillNames.length;
       if (prompts.length) {
-        const routineFile = path.join(dir, "routines", prompts[0]);
-        const routineBody = fs.existsSync(routineFile) ? fs.readFileSync(routineFile, "utf8").split("\n").find((l) => l.trim() && !l.startsWith("#") && !l.startsWith(">")) || "" : "";
-        r.routineExpanded = user.includes("VALIDATION-ARG-42") && (user.includes(routineBody.trim().slice(0, 50)) || user.includes(`routines/${prompts[0]}`));
+        // Expanded prompt = prompt-template body (minus frontmatter); the extra argument must appear when the template takes arguments.
+        const promptSrc = fs.readFileSync(path.join(dir, "prompts", prompts[0]), "utf8").replace(/^---\n[\s\S]*?\n---\n?/, "");
+        const firstLine = (promptSrc.split("\n").find((l) => l.trim() && !/\$\{?[@0-9A]/.test(l)) || "").trim().slice(0, 50);
+        const takesArgs = /\$\{?(@|ARGUMENTS|\d)/.test(promptSrc);
+        r.routineExpanded = user.includes(firstLine) && (!takesArgs || user.includes("VALIDATION-ARG-42"));
       }
       r.ok = p.status === 0 && r.stdout.includes("MOCK_OK") && r.personaInSystem && (!prompts.length || r.routineExpanded) && r.skillsAdvertised.split("/")[0] === r.skillsAdvertised.split("/")[1];
     } catch (e) { r.ok = false; r.error = String(e.message || e).slice(0, 300); r.stderr = (p.stderr || "").slice(0, 300); }

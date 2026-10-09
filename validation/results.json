@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T13:21:13.953Z",
+  "generatedAt": "2026-10-09T13:27:35.100Z",
   "piVersion": "1.0.4",
   "loader": [
     {
@@ -2175,7 +2175,7 @@
     },
     {
       "shareId": "_CIeV4P17QVoxuaEyeiFZ",
-      "path": "templates/community/finance-ops/tradey",
+      "path": "templates/community/trading-investing/tradey",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -2305,7 +2305,7 @@
     },
     {
       "shareId": "_ICGTFLfhc98B8xzTLGzg",
-      "path": "templates/community/personal-admin/x402-bot",
+      "path": "templates/community/trading-investing/x402-bot",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -2825,7 +2825,7 @@
     },
     {
       "shareId": "-1jDLDwW_6HvtXCXwQF3V",
-      "path": "templates/community/research-briefings/market-morning",
+      "path": "templates/community/trading-investing/market-morning",
       "fidelity": "full",
       "expectedSkills": 4,
       "loadedSkills": 4,
@@ -3852,7 +3852,7 @@
     },
     {
       "shareId": "0dutdroToJ4yVB7xHHGCJ",
-      "path": "templates/community/finance-ops/grokinhood",
+      "path": "templates/community/trading-investing/grokinhood",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -4112,7 +4112,7 @@
     },
     {
       "shareId": "0POhIGmUHjJm9gR30O3mZ",
-      "path": "templates/community/finance-ops/premium-financial-newsletter-research-drip-link",
+      "path": "templates/community/trading-investing/premium-financial-newsletter-research-drip-link",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -4138,7 +4138,7 @@
     },
     {
       "shareId": "0qNgH0mv4-N-gv_KkZbEm",
-      "path": "templates/community/personal-admin/wall-street-0qngh0",
+      "path": "templates/community/trading-investing/wall-street",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -5022,7 +5022,7 @@
     },
     {
       "shareId": "20uVcNTF4_l3n1ZTTk-UB",
-      "path": "templates/community/personal-admin/octavius",
+      "path": "templates/community/trading-investing/octavius",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -5711,7 +5711,7 @@
     },
     {
       "shareId": "2vgMdaQRj4mBWUMygUThf",
-      "path": "templates/community/research-briefings/find-good-stocks",
+      "path": "templates/community/trading-investing/find-good-stocks",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -6816,7 +6816,7 @@
     },
     {
       "shareId": "4AYUWc2XcQ64qluMXPV8l",
-      "path": "templates/community/personal-admin/cybercab-fund-desk",
+      "path": "templates/community/trading-investing/cybercab-fund-desk",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -6972,7 +6972,7 @@
     },
     {
       "shareId": "4fmde5VhCGJGeCiqn96D3",
-      "path": "templates/community/personal-admin/fomo-live-bot",
+      "path": "templates/community/trading-investing/fomo-live-bot",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -7960,7 +7960,7 @@
     },
     {
       "shareId": "5nnJJwVjO4EwThIaaaynu",
-      "path": "templates/community/research-briefings/yahoo-pulse",
+      "path": "templates/community/trading-investing/yahoo-pulse",
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
@@ -8753,7 +8753,7 @@
     },
     {
       "shareId": "6rORf8SNvR8Sl1hl3THjO",
-      "path": "templates/community/research-briefings/trading-journal",
+      "path": "templates/community/trading-investing/trading-journal",
       "fidelity": "full",
       "expectedSkills": 6,
       "loadedSkills": 6,
@@ -8870,7 +8870,7 @@
     },
     {
       "shareId": "6XD2O5ulgL-dNxQUyU90s",
-      "path": "templates/community/uncategorized/radar",
+      "path": "templates/community/trading-investing/radar",
       "fidelity": "full",
       "expectedSkills": 4,
       "loadedSkills": 4,
@@ -9416,7 +9416,7 @@
     },
     {
       "shareId": "7M8RpppF2AistbVbeEPyN",
-      "path": "templates/community/research-briefings/precog-wars",
+      "path": "templates/community/trading-investing/precog-wars",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -9715,7 +9715,7 @@
     },
     {
       "shareId": "7wv5WYGOnMMImpWdicU3E",
-      "path": "templates/community/research-briefings/crypto-7wv5wy",
+      "path": "templates/community/trading-investing/crypto",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -10105,7 +10105,7 @@
     },
     {
       "shareId": "8bejcAowVfEVjSuPSl1PT",
-      "path": "templates/community/research-briefings/rugradar-ai-8bejca",
+      "path": "templates/community/trading-investing/rugradar-ai",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -11645,6 +11645,19 @@
       "loadedSkills": 3,
       "expectedPrompts": 0,
       "loadedPrompts": 0,
+      "agentsMd": true,
+      "appendSystem": true,
+      "diagnostics": [],
+      "ok": true
+    },
+    {
+      "shareId": "a10zTknoDfcxpxN9XhSmy",
+      "path": "templates/community/trading-investing/options-desk",
+      "fidelity": "full",
+      "expectedSkills": 2,
+      "loadedSkills": 2,
+      "expectedPrompts": 1,
+      "loadedPrompts": 1,
       "agentsMd": true,
       "appendSystem": true,
       "diagnostics": [],
@@ -13303,7 +13316,7 @@
     },
     {
       "shareId": "BcSPHebyU3Gkqqqhn3QRr",
-      "path": "templates/community/finance-ops/trading-bot-3-0-bcsphe",
+      "path": "templates/community/trading-investing/trading-bot-3-0",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -14083,7 +14096,7 @@
     },
     {
       "shareId": "BT47pPtgjRk5qylFBqoeV",
-      "path": "templates/community/finance-ops/fodda-earnings-context-analyst-bt47pp",
+      "path": "templates/community/trading-investing/fodda-earnings-context-analyst",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -14629,7 +14642,7 @@
     },
     {
       "shareId": "CB02Bgg8ZEI1fT9H2GJtM",
-      "path": "templates/community/finance-ops/livermore",
+      "path": "templates/community/trading-investing/livermore",
       "fidelity": "full",
       "expectedSkills": 11,
       "loadedSkills": 11,
@@ -15032,7 +15045,7 @@
     },
     {
       "shareId": "Cjn6YQ377TLVjJYGwkLEq",
-      "path": "templates/community/personal-admin/rsi-indicator-bot",
+      "path": "templates/community/trading-investing/rsi-indicator-bot",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -15110,7 +15123,7 @@
     },
     {
       "shareId": "CLpDye-rKhP9cFMFRet3z",
-      "path": "templates/community/finance-ops/moola",
+      "path": "templates/community/trading-investing/moola",
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
@@ -15214,7 +15227,7 @@
     },
     {
       "shareId": "cO_Eyf-3dMnc6eNiB4vMq",
-      "path": "templates/community/personal-admin/nfl-dual-rail-prop-desk",
+      "path": "templates/community/trading-investing/nfl-dual-rail-prop-desk",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -15734,7 +15747,7 @@
     },
     {
       "shareId": "Czgr3EViXAkdzZ_jM3hAZ",
-      "path": "templates/community/personal-admin/macd-indicator-bot",
+      "path": "templates/community/trading-investing/macd-indicator-bot",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -15864,7 +15877,7 @@
     },
     {
       "shareId": "d48QaYERwvgtUmYsGlyz8",
-      "path": "templates/community/research-briefings/unnamed-skill-d48qay",
+      "path": "templates/community/trading-investing/unnamed-skill",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -15994,7 +16007,7 @@
     },
     {
       "shareId": "d8O5qFdVTuffqePhAVd1J",
-      "path": "templates/community/research-briefings/investing-agent",
+      "path": "templates/community/trading-investing/investing-agent",
       "fidelity": "full",
       "expectedSkills": 6,
       "loadedSkills": 6,
@@ -16319,7 +16332,7 @@
     },
     {
       "shareId": "di6vIWc5BcaN7aghHpC8C",
-      "path": "templates/community/research-briefings/wakeup-2-day-trade",
+      "path": "templates/community/trading-investing/wakeup-2-day-trade",
       "fidelity": "full",
       "expectedSkills": 5,
       "loadedSkills": 5,
@@ -16722,7 +16735,7 @@
     },
     {
       "shareId": "dpEIOmZE65XCVEnPJUp_-",
-      "path": "templates/community/finance-ops/market-sentiment-bot",
+      "path": "templates/community/trading-investing/market-sentiment-bot",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -16774,7 +16787,7 @@
     },
     {
       "shareId": "dqRd0b5Tl61lVkjtP6OrY",
-      "path": "templates/community/research-briefings/markets-digest",
+      "path": "templates/community/trading-investing/markets-digest",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -17047,7 +17060,7 @@
     },
     {
       "shareId": "dvReNtZxTHNmvmRINZlNA",
-      "path": "templates/community/personal-admin/tokenization-market-desk",
+      "path": "templates/community/trading-investing/tokenization-market-desk",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -17385,7 +17398,7 @@
     },
     {
       "shareId": "E9fQj_z8gnmjS6bYcfK8D",
-      "path": "templates/community/inbox-calendar/deep-value-season",
+      "path": "templates/community/trading-investing/deep-value-season",
       "fidelity": "full",
       "expectedSkills": 8,
       "loadedSkills": 8,
@@ -18000,6 +18013,19 @@
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
+      "expectedPrompts": 0,
+      "loadedPrompts": 0,
+      "agentsMd": true,
+      "appendSystem": true,
+      "diagnostics": [],
+      "ok": true
+    },
+    {
+      "shareId": "eK9lF3ZkDKI6-4gqDoUfp",
+      "path": "templates/community/trading-investing/risk-controller",
+      "fidelity": "full",
+      "expectedSkills": 1,
+      "loadedSkills": 1,
       "expectedPrompts": 0,
       "loadedPrompts": 0,
       "agentsMd": true,
@@ -18685,7 +18711,7 @@
     },
     {
       "shareId": "exSOooSSp0Pc4W_K9DQ4T",
-      "path": "templates/community/research-briefings/markets-brief-scout",
+      "path": "templates/community/trading-investing/markets-brief-scout",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -19400,7 +19426,7 @@
     },
     {
       "shareId": "fEKm3hXOWNegRH_DKKYqg",
-      "path": "templates/community/inbox-calendar/stock-video-summaries",
+      "path": "templates/community/trading-investing/stock-video-summaries",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -19881,7 +19907,7 @@
     },
     {
       "shareId": "FReKiR82_-lF359lhshpR",
-      "path": "templates/community/finance-ops/fenrir",
+      "path": "templates/community/trading-investing/fenrir",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -19900,6 +19926,19 @@
       "loadedSkills": 2,
       "expectedPrompts": 1,
       "loadedPrompts": 1,
+      "agentsMd": true,
+      "appendSystem": true,
+      "diagnostics": [],
+      "ok": true
+    },
+    {
+      "shareId": "FRPgDTB8gD_iSm6aWIp_Z",
+      "path": "templates/community/trading-investing/portfolio-adviser",
+      "fidelity": "full",
+      "expectedSkills": 1,
+      "loadedSkills": 1,
+      "expectedPrompts": 0,
+      "loadedPrompts": 0,
       "agentsMd": true,
       "appendSystem": true,
       "diagnostics": [],
@@ -20323,7 +20362,7 @@
     },
     {
       "shareId": "FZ2y08eidLg4yvW5ygz01",
-      "path": "templates/community/personal-admin/shitcoin-bot",
+      "path": "templates/community/trading-investing/shitcoin-bot",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -20570,7 +20609,7 @@
     },
     {
       "shareId": "g5J-pr8mBUjLbY2LktOl1",
-      "path": "templates/community/coding-shipping/tesla-bot",
+      "path": "templates/community/trading-investing/tesla-bot",
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
@@ -21206,6 +21245,19 @@
       "ok": true
     },
     {
+      "shareId": "Gktb--JKwBVtPuZo5vcvM",
+      "path": "templates/community/trading-investing/trading-coach",
+      "fidelity": "full",
+      "expectedSkills": 2,
+      "loadedSkills": 2,
+      "expectedPrompts": 0,
+      "loadedPrompts": 0,
+      "agentsMd": true,
+      "appendSystem": true,
+      "diagnostics": [],
+      "ok": true
+    },
+    {
       "shareId": "GkX6X536UK2MlbkfGLQnb",
       "path": "templates/community/research-briefings/x-brief",
       "fidelity": "full",
@@ -21415,7 +21467,7 @@
     },
     {
       "shareId": "grZdTeKVtXFVtIYEe6g_H",
-      "path": "templates/community/finance-ops/spcx-watch",
+      "path": "templates/community/trading-investing/spcx-watch",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -22611,7 +22663,7 @@
     },
     {
       "shareId": "Hlnvwim1_YI32ybXZ0hI3",
-      "path": "templates/community/research-briefings/the-great-gatsby",
+      "path": "templates/community/trading-investing/the-great-gatsby",
       "fidelity": "full",
       "expectedSkills": 5,
       "loadedSkills": 5,
@@ -22728,7 +22780,7 @@
     },
     {
       "shareId": "Ho_6yW-icLF6xWHnNVhNo",
-      "path": "templates/community/research-briefings/orchestrator",
+      "path": "templates/community/trading-investing/orchestrator",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -22936,7 +22988,7 @@
     },
     {
       "shareId": "hsP8X6sbzyqEaVeX65C-z",
-      "path": "templates/community/research-briefings/stock-market-portfolio-manager",
+      "path": "templates/community/trading-investing/stock-market-portfolio-manager",
       "fidelity": "full",
       "expectedSkills": 9,
       "loadedSkills": 9,
@@ -22949,7 +23001,7 @@
     },
     {
       "shareId": "hSRFXCKSpKGcBA9q8BOw8",
-      "path": "templates/community/finance-ops/survivor",
+      "path": "templates/community/trading-investing/survivor",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -23040,7 +23092,7 @@
     },
     {
       "shareId": "HU8kdK5ustStqJMLKsOfY",
-      "path": "templates/community/research-briefings/lyn-alden-for-retards-bot",
+      "path": "templates/community/trading-investing/lyn-alden-for-retards-bot",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -23124,6 +23176,19 @@
       "loadedSkills": 2,
       "expectedPrompts": 1,
       "loadedPrompts": 1,
+      "agentsMd": true,
+      "appendSystem": true,
+      "diagnostics": [],
+      "ok": true
+    },
+    {
+      "shareId": "hXcLFYI8KfsU8r18uK-ey",
+      "path": "templates/community/trading-investing/whobought-agent",
+      "fidelity": "full",
+      "expectedSkills": 7,
+      "loadedSkills": 7,
+      "expectedPrompts": 0,
+      "loadedPrompts": 0,
       "agentsMd": true,
       "appendSystem": true,
       "diagnostics": [],
@@ -26758,7 +26823,7 @@
     },
     {
       "shareId": "KDGstUb-ZOovXP6p_v0nO",
-      "path": "templates/community/finance-ops/tray",
+      "path": "templates/community/trading-investing/tray",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -27486,7 +27551,7 @@
     },
     {
       "shareId": "KtMjZLEGpkN0K6XuLH2UJ",
-      "path": "templates/community/uncategorized/memecoin-report",
+      "path": "templates/community/trading-investing/memecoin-report",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -27564,7 +27629,7 @@
     },
     {
       "shareId": "kuhoazDWLEsY-kXvHBwtU",
-      "path": "templates/community/research-briefings/volatile-stock-options",
+      "path": "templates/community/trading-investing/volatile-stock-options",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -27759,7 +27824,7 @@
     },
     {
       "shareId": "KZEcx_uMDR-zJIXLlYw5I",
-      "path": "templates/community/finance-ops/clawd",
+      "path": "templates/community/trading-investing/clawd",
       "fidelity": "full",
       "expectedSkills": 26,
       "loadedSkills": 26,
@@ -27954,7 +28019,7 @@
     },
     {
       "shareId": "l4hipk4BQ-0Kn3ua16zQB",
-      "path": "templates/community/research-briefings/compression-scanner-grok-bot",
+      "path": "templates/community/trading-investing/compression-scanner-grok-bot",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -28123,7 +28188,7 @@
     },
     {
       "shareId": "L7E3Eh2-CBKZbq4EsO6mt",
-      "path": "templates/community/finance-ops/rental-investor-research-desk",
+      "path": "templates/community/trading-investing/rental-investor-research-desk",
       "fidelity": "full",
       "expectedSkills": 4,
       "loadedSkills": 4,
@@ -28747,7 +28812,7 @@
     },
     {
       "shareId": "lKv-z0iBQb0hzYyrFf6_s",
-      "path": "templates/community/finance-ops/max",
+      "path": "templates/community/trading-investing/max",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -29215,7 +29280,7 @@
     },
     {
       "shareId": "LS2cnDAX30vNkWNb1Rv_7",
-      "path": "templates/community/personal-admin/the-bitcoin-layer",
+      "path": "templates/community/trading-investing/the-bitcoin-layer",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -29774,7 +29839,7 @@
     },
     {
       "shareId": "m9p839QVulo48OQa04cds",
-      "path": "templates/community/personal-admin/elon-bot",
+      "path": "templates/community/trading-investing/elon-bot",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -30749,7 +30814,7 @@
     },
     {
       "shareId": "mrKPFB6yT13jZZITaCDEV",
-      "path": "templates/community/research-briefings/signal-sleeve",
+      "path": "templates/community/trading-investing/signal-sleeve",
       "fidelity": "full",
       "expectedSkills": 7,
       "loadedSkills": 7,
@@ -30801,7 +30866,7 @@
     },
     {
       "shareId": "MT6acytP70wHR526vPvM3",
-      "path": "templates/community/research-briefings/grok-bot-mt6acy",
+      "path": "templates/community/trading-investing/grok-bot",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -30820,6 +30885,19 @@
       "loadedSkills": 1,
       "expectedPrompts": 2,
       "loadedPrompts": 2,
+      "agentsMd": true,
+      "appendSystem": true,
+      "diagnostics": [],
+      "ok": true
+    },
+    {
+      "shareId": "mthHv9pksQ6KNBr-hAc09",
+      "path": "templates/community/trading-investing/quant-researcher",
+      "fidelity": "full",
+      "expectedSkills": 1,
+      "loadedSkills": 1,
+      "expectedPrompts": 0,
+      "loadedPrompts": 0,
       "agentsMd": true,
       "appendSystem": true,
       "diagnostics": [],
@@ -30879,7 +30957,7 @@
     },
     {
       "shareId": "MvgLJbHeHFjc7J9D419_J",
-      "path": "templates/community/finance-ops/polly",
+      "path": "templates/community/trading-investing/polly",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -31442,6 +31520,19 @@
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
+      "expectedPrompts": 0,
+      "loadedPrompts": 0,
+      "agentsMd": true,
+      "appendSystem": true,
+      "diagnostics": [],
+      "ok": true
+    },
+    {
+      "shareId": "n8nC9GmY6ZBdnTE0zRs1T",
+      "path": "templates/community/trading-investing/quant-desk-lead",
+      "fidelity": "full",
+      "expectedSkills": 1,
+      "loadedSkills": 1,
       "expectedPrompts": 0,
       "loadedPrompts": 0,
       "agentsMd": true,
@@ -32816,7 +32907,7 @@
     },
     {
       "shareId": "nxJpEb_kwY2NqXnGA0krW",
-      "path": "templates/community/uncategorized/ccn",
+      "path": "templates/community/trading-investing/ccn",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -33206,7 +33297,7 @@
     },
     {
       "shareId": "O9GVEhA_dlBr1uxomyy8L",
-      "path": "templates/community/finance-ops/alpaca",
+      "path": "templates/community/trading-investing/alpaca",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -33232,7 +33323,7 @@
     },
     {
       "shareId": "OA53XZkeW0g0HZEOim6iV",
-      "path": "templates/community/research-briefings/ticker-wire",
+      "path": "templates/community/trading-investing/ticker-wire",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -33349,7 +33440,7 @@
     },
     {
       "shareId": "oEDvMidjbGpncvbLsROau",
-      "path": "templates/community/personal-admin/fail-dig",
+      "path": "templates/community/trading-investing/fail-dig",
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
@@ -33596,7 +33687,7 @@
     },
     {
       "shareId": "ojDgaVLzjbxpPV74VzQrM",
-      "path": "templates/community/research-briefings/fed-x-brief",
+      "path": "templates/community/trading-investing/fed-x-brief",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -33973,7 +34064,7 @@
     },
     {
       "shareId": "Opkg9YD0R9Ck1n9NGaB2f",
-      "path": "templates/community/research-briefings/kalshi-bot",
+      "path": "templates/community/trading-investing/kalshi-bot",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -35403,7 +35494,7 @@
     },
     {
       "shareId": "pNrTRI1edl4MdKsTSYBKb",
-      "path": "templates/community/research-briefings/single-stock-options",
+      "path": "templates/community/trading-investing/single-stock-options",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -36560,7 +36651,7 @@
     },
     {
       "shareId": "qdwm8-zhhSfaenUa6DIjD",
-      "path": "templates/community/finance-ops/kalshi",
+      "path": "templates/community/trading-investing/kalshi",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -36664,7 +36755,7 @@
     },
     {
       "shareId": "QgvPQkHy3RwHJ7pPcKdPG",
-      "path": "templates/community/personal-admin/9-ema-grok-bot",
+      "path": "templates/community/trading-investing/9-ema-grok-bot",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -36846,7 +36937,7 @@
     },
     {
       "shareId": "QjTkw3I8tK0aJxUhjhTwJ",
-      "path": "templates/community/personal-admin/spacex-tesla-radar",
+      "path": "templates/community/trading-investing/spacex-tesla-radar",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -37093,7 +37184,7 @@
     },
     {
       "shareId": "QOQRcpreItQijaazrJ7wp",
-      "path": "templates/community/finance-ops/coin",
+      "path": "templates/community/trading-investing/coin",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -38419,7 +38510,7 @@
     },
     {
       "shareId": "rpqMXPRdUiyk6Dc1LF3U9",
-      "path": "templates/community/finance-ops/hold-my-stock",
+      "path": "templates/community/trading-investing/hold-my-stock",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -39082,7 +39173,7 @@
     },
     {
       "shareId": "s495_rZYq6LpYVTuurgkr",
-      "path": "templates/community/research-briefings/markets-weekday-brief",
+      "path": "templates/community/trading-investing/markets-weekday-brief",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -40668,7 +40759,7 @@
     },
     {
       "shareId": "sZvrsCSynGeSuBVA7lA2x",
-      "path": "templates/community/finance-ops/pelosi",
+      "path": "templates/community/trading-investing/pelosi",
       "fidelity": "full",
       "expectedSkills": 7,
       "loadedSkills": 7,
@@ -40772,7 +40863,7 @@
     },
     {
       "shareId": "t1qudulqFK7nq4rOnxlem",
-      "path": "templates/community/research-briefings/earnest",
+      "path": "templates/community/trading-investing/earnest",
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
@@ -40954,7 +41045,7 @@
     },
     {
       "shareId": "TAD58vAxB2qfo2pY1jtjJ",
-      "path": "templates/community/research-briefings/spcx-bot-tad58v",
+      "path": "templates/community/trading-investing/spcx-bot",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -41019,7 +41110,7 @@
     },
     {
       "shareId": "Tbe0NY4XAKYvpTGo7NI2m",
-      "path": "templates/community/personal-admin/robinhood-x-grokbot",
+      "path": "templates/community/trading-investing/robinhood-x-grokbot",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -41513,7 +41604,7 @@
     },
     {
       "shareId": "TolT21zChD6bYj0ZEA7pE",
-      "path": "templates/community/finance-ops/quant-backtest-lab-tolt21",
+      "path": "templates/community/trading-investing/quant-backtest-lab",
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
@@ -41656,7 +41747,7 @@
     },
     {
       "shareId": "TSgExceGHVJN9U2E4-_23",
-      "path": "templates/community/research-briefings/crypto-buddy-tsgexc",
+      "path": "templates/community/trading-investing/crypto-buddy",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -42475,7 +42566,7 @@
     },
     {
       "shareId": "uDOZ5nRFJFFOelPE9Alee",
-      "path": "templates/community/personal-admin/strive-daily",
+      "path": "templates/community/trading-investing/strive-daily",
       "fidelity": "full",
       "expectedSkills": 6,
       "loadedSkills": 6,
@@ -43216,7 +43307,7 @@
     },
     {
       "shareId": "UWNGpcghM9H79JCb4of5Q",
-      "path": "templates/community/research-briefings/butters-investor-bot",
+      "path": "templates/community/trading-investing/butters-investor-bot",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -43788,7 +43879,7 @@
     },
     {
       "shareId": "vEyqj8oJwHAb0NjdhWJSz",
-      "path": "templates/community/finance-ops/earnings-desk",
+      "path": "templates/community/trading-investing/earnings-desk",
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
@@ -43827,7 +43918,7 @@
     },
     {
       "shareId": "VFQeZWpVL_euCJbWzhJOF",
-      "path": "templates/community/finance-ops/warren",
+      "path": "templates/community/trading-investing/warren",
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
@@ -44880,7 +44971,7 @@
     },
     {
       "shareId": "vzno777FpCyMe0-ja5u28",
-      "path": "templates/community/personal-admin/let-s-get-rich-team",
+      "path": "templates/community/trading-investing/let-s-get-rich-team",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -45478,7 +45569,7 @@
     },
     {
       "shareId": "we_JMJA8IuOvy1eUX6EQz",
-      "path": "templates/community/teams-handoffs/chief-of-staff-wexjmj",
+      "path": "templates/community/trading-investing/chief-of-staff",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -45621,7 +45712,7 @@
     },
     {
       "shareId": "WgRHcw_tJ99GG2Bzc52rj",
-      "path": "templates/community/uncategorized/si-exchange",
+      "path": "templates/community/trading-investing/si-exchange",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -46505,7 +46596,7 @@
     },
     {
       "shareId": "x_TnIafQbUyz5XbDGMz20",
-      "path": "templates/community/finance-ops/polymarket-scans",
+      "path": "templates/community/trading-investing/polymarket-scans",
       "fidelity": "full",
       "expectedSkills": 4,
       "loadedSkills": 4,
@@ -46739,7 +46830,7 @@
     },
     {
       "shareId": "XayB4rqAREYwJcPmKwtSP",
-      "path": "templates/community/personal-admin/dentrade",
+      "path": "templates/community/trading-investing/dentrade",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -47388,6 +47479,19 @@
       "ok": true
     },
     {
+      "shareId": "xPH7Wtomq5RqzPaCc_H6f",
+      "path": "templates/community/trading-investing/robinhood-trader",
+      "fidelity": "full",
+      "expectedSkills": 0,
+      "loadedSkills": 0,
+      "expectedPrompts": 0,
+      "loadedPrompts": 0,
+      "agentsMd": true,
+      "appendSystem": true,
+      "diagnostics": [],
+      "ok": true
+    },
+    {
       "shareId": "XPiIoybgpw_Oo2QmOQ9AR",
       "path": "templates/community/personal-admin/unnamed-skill-xpiioy",
       "fidelity": "full",
@@ -47636,7 +47740,7 @@
     },
     {
       "shareId": "XW2DibYh5BRunhH_f373u",
-      "path": "templates/community/finance-ops/trading",
+      "path": "templates/community/trading-investing/trading",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -48000,7 +48104,7 @@
     },
     {
       "shareId": "y73FMiyQPFY_IdrbckyFj",
-      "path": "templates/community/finance-ops/wire",
+      "path": "templates/community/trading-investing/wire",
       "fidelity": "full",
       "expectedSkills": 1,
       "loadedSkills": 1,
@@ -48078,7 +48182,7 @@
     },
     {
       "shareId": "yaix3I-36pEloG1XpLVOb",
-      "path": "templates/community/research-briefings/insidermillions-big-insider-stock-buys",
+      "path": "templates/community/trading-investing/insidermillions-big-insider-stock-buys",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -48156,7 +48260,7 @@
     },
     {
       "shareId": "YbX8HTAePBjwpwP05CVJS",
-      "path": "templates/community/finance-ops/theta-vantage-desk",
+      "path": "templates/community/trading-investing/theta-vantage-desk",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -50899,7 +51003,7 @@
     },
     {
       "shareId": "ZYVnoJMU4earifCeQzJdQ",
-      "path": "templates/community/research-briefings/serenity",
+      "path": "templates/community/trading-investing/serenity",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -50946,6 +51050,19 @@
       "loadedPrompts": 0,
       "agentsMd": true,
       "appendSystem": true,
+      "diagnostics": [],
+      "ok": true
+    },
+    {
+      "shareId": null,
+      "path": "templates/builtin/primary-bot",
+      "fidelity": "self-export",
+      "expectedSkills": 2,
+      "loadedSkills": 2,
+      "expectedPrompts": 1,
+      "loadedPrompts": 1,
+      "agentsMd": true,
+      "appendSystem": false,
       "diagnostics": [],
       "ok": true
     }
@@ -52891,6 +53008,20 @@
       "ok": true
     },
     {
+      "shareId": null,
+      "path": "templates/builtin/primary-bot",
+      "official": false,
+      "builtin": true,
+      "fidelity": "self-export",
+      "command": "/proactive-check-in",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "2/2",
+      "routineExpanded": true,
+      "ok": true
+    },
+    {
       "shareId": "__4FfrkUdvpdMk6-LKg5r",
       "path": "templates/community/personal-admin/firstmate",
       "official": false,
@@ -52998,6 +53129,20 @@
       "ok": true
     },
     {
+      "shareId": "_CIeV4P17QVoxuaEyeiFZ",
+      "path": "templates/community/trading-investing/tradey",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "/9-05-research-catch",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "1/1",
+      "routineExpanded": true,
+      "ok": true
+    },
+    {
       "shareId": "_eLwi7ul7T9Bs_fXvB4Ha",
       "path": "templates/community/uncategorized/cfo",
       "official": false,
@@ -53091,16 +53236,16 @@
       "ok": true
     },
     {
-      "shareId": "-0F1AbQupf4CTqCfYcVcJ",
-      "path": "templates/community/finance-ops/gerente-ops",
+      "shareId": "-4Hs8iXe_p6Cfc1IRbilu",
+      "path": "templates/community/finance-ops/property-scanner",
       "official": false,
       "builtin": false,
       "fidelity": "full",
-      "command": "/cierre-diario-discovery",
+      "command": "/property-scanner-weekday-scan",
       "exit": 0,
       "stdout": "MOCK_OK",
       "personaInSystem": true,
-      "skillsAdvertised": "4/4",
+      "skillsAdvertised": "2/2",
       "routineExpanded": true,
       "ok": true
     },
@@ -53118,22 +53263,8 @@
       "ok": true
     },
     {
-      "shareId": "AINP9mLXBIt__NMVeFXGO",
-      "path": "templates/community/uncategorized/ancestry-bot",
-      "official": false,
-      "builtin": false,
-      "fidelity": "full",
-      "command": "/genealogy-keep-alive-never-idle",
-      "exit": 0,
-      "stdout": "MOCK_OK",
-      "personaInSystem": true,
-      "skillsAdvertised": "5/5",
-      "routineExpanded": true,
-      "ok": true
-    },
-    {
-      "shareId": "_q3eTYtyYQ3osyCZk9t95",
-      "path": "templates/community/personal-admin/self",
+      "shareId": "4AYUWc2XcQ64qluMXPV8l",
+      "path": "templates/community/trading-investing/cybercab-fund-desk",
       "official": false,
       "builtin": false,
       "fidelity": "full",
@@ -53141,7 +53272,33 @@
       "exit": 0,
       "stdout": "MOCK_OK",
       "personaInSystem": true,
-      "skillsAdvertised": "0/0",
+      "skillsAdvertised": "2/2",
+      "ok": true
+    },
+    {
+      "shareId": "AqMmDjN21kW2eeegOg8en",
+      "path": "templates/community/uncategorized/buildkeeper",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "Introduce",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "10/10",
+      "ok": true
+    },
+    {
+      "shareId": "_q5DAgD3--Z4osAVP3Qbg",
+      "path": "templates/community/personal-admin/music",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "Introduce",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "1/1",
       "ok": true
     },
     {
@@ -53197,22 +53354,8 @@
       "ok": true
     },
     {
-      "shareId": "-JaP_is4JDAIoXwceMw_n",
-      "path": "templates/community/research-briefings/chief-of-staff",
-      "official": false,
-      "builtin": false,
-      "fidelity": "full",
-      "command": "/53-trailer-deals-2-daily",
-      "exit": 0,
-      "stdout": "MOCK_OK",
-      "personaInSystem": true,
-      "skillsAdvertised": "0/0",
-      "routineExpanded": true,
-      "ok": true
-    },
-    {
-      "shareId": "0bhvgIzOyOCg5L-hv40DL",
-      "path": "templates/community/finance-ops/count",
+      "shareId": "-Q6NUVktJo7EBMLb9Y3xw",
+      "path": "templates/community/research-briefings/news",
       "official": false,
       "builtin": false,
       "fidelity": "full",
@@ -53220,7 +53363,20 @@
       "exit": 0,
       "stdout": "MOCK_OK",
       "personaInSystem": true,
-      "skillsAdvertised": "1/1",
+      "skillsAdvertised": "0/0",
+      "ok": true
+    },
+    {
+      "shareId": "0havI1dJhzL_gG11rueQN",
+      "path": "templates/community/finance-ops/rental-desk",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "Introduce",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "2/2",
       "ok": true
     },
     {
@@ -53238,8 +53394,61 @@
       "ok": true
     },
     {
-      "shareId": "fEBImi9N-_B_LMW59m2nM",
-      "path": "templates/community/uncategorized/solvscore",
+      "shareId": "a10zTknoDfcxpxN9XhSmy",
+      "path": "templates/community/trading-investing/options-desk",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "/weekday-morning-put-spread-top-5",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "2/2",
+      "routineExpanded": true,
+      "ok": true
+    },
+    {
+      "shareId": "gL7FcTFcs1SHMCD3pozTM",
+      "path": "templates/community/uncategorized/cline",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "Introduce",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "3/3",
+      "ok": true
+    },
+    {
+      "shareId": "eK9lF3ZkDKI6-4gqDoUfp",
+      "path": "templates/community/trading-investing/risk-controller",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "Introduce",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "1/1",
+      "ok": true
+    },
+    {
+      "shareId": "FRPgDTB8gD_iSm6aWIp_Z",
+      "path": "templates/community/trading-investing/portfolio-adviser",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "Introduce",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "1/1",
+      "ok": true
+    },
+    {
+      "shareId": "Gktb--JKwBVtPuZo5vcvM",
+      "path": "templates/community/trading-investing/trading-coach",
       "official": false,
       "builtin": false,
       "fidelity": "full",
@@ -53251,8 +53460,8 @@
       "ok": true
     },
     {
-      "shareId": "--EeqFnYoW0S2yUH-EQDo",
-      "path": "templates/community/personal-admin/stability-validator",
+      "shareId": "hXcLFYI8KfsU8r18uK-ey",
+      "path": "templates/community/trading-investing/whobought-agent",
       "official": false,
       "builtin": false,
       "fidelity": "full",
@@ -53260,26 +53469,12 @@
       "exit": 0,
       "stdout": "MOCK_OK",
       "personaInSystem": true,
-      "skillsAdvertised": "0/0",
+      "skillsAdvertised": "7/7",
       "ok": true
     },
     {
-      "shareId": "2KqJB94h5bTpQ95swMI6i",
-      "path": "templates/community/customer-sales/emotional-support-ops",
-      "official": false,
-      "builtin": false,
-      "fidelity": "full",
-      "command": "/daily-bot-wellness-check-ins",
-      "exit": 0,
-      "stdout": "MOCK_OK",
-      "personaInSystem": true,
-      "skillsAdvertised": "6/6",
-      "routineExpanded": true,
-      "ok": true
-    },
-    {
-      "shareId": "5mreuhpytba6nj2anvlqn",
-      "path": "templates/community/coding-shipping/helidon-engineer",
+      "shareId": "mthHv9pksQ6KNBr-hAc09",
+      "path": "templates/community/trading-investing/quant-researcher",
       "official": false,
       "builtin": false,
       "fidelity": "full",
@@ -53288,6 +53483,32 @@
       "stdout": "MOCK_OK",
       "personaInSystem": true,
       "skillsAdvertised": "1/1",
+      "ok": true
+    },
+    {
+      "shareId": "n8nC9GmY6ZBdnTE0zRs1T",
+      "path": "templates/community/trading-investing/quant-desk-lead",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "Introduce",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "1/1",
+      "ok": true
+    },
+    {
+      "shareId": "xPH7Wtomq5RqzPaCc_H6f",
+      "path": "templates/community/trading-investing/robinhood-trader",
+      "official": false,
+      "builtin": false,
+      "fidelity": "full",
+      "command": "Introduce",
+      "exit": 0,
+      "stdout": "MOCK_OK",
+      "personaInSystem": true,
+      "skillsAdvertised": "0/0",
       "ok": true
     }
   ]

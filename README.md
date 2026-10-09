@@ -5,8 +5,8 @@ Every public **Grok Bot template** we could find, converted into a **Pi** packag
 Three sections:
 
 - **Official**, `templates/official/<slug>/`: exactly the bots listed on the marketplace, https://x.ai/bot/marketplace (all category tabs).
-- **Built-in**, `templates/builtin/<slug>/`: the starter templates in the Grok Bot app's own template picker ([research/in-app-builtin-starters.txt](research/in-app-builtin-starters.txt)). One starter, SWE, is also on the marketplace; it stays in `official/` and is tagged `builtin` in the catalog and its `package.json`.
-- **Community**, `templates/community/<category>/<slug>/`: everything not on the marketplace and not a built-in starter, from community directories, awesome-lists and X posts. Each one is tagged with the sources it was found in.
+- **Built-in**, `templates/builtin/<slug>/`: the starter templates in the Grok Bot app's own template picker ([research/in-app-builtin-starters.txt](research/in-app-builtin-starters.txt)). One starter, SWE, is also on the marketplace; it stays in `official/` and is tagged `builtin` in the catalog and its `package.json`. `templates/builtin/primary-bot/` is the user's own Primary Bot, written by the bot from its own setup (fidelity `self-export`, no x.ai link). It is a plain Pi package: `pi install ./templates/builtin/primary-bot`.
+- **Community**, `templates/community/<category>/<slug>/`: everything not on the marketplace and not a built-in starter, from community directories, awesome-lists and X posts. Each one is tagged with the sources it was found in. `community/trading-investing/` holds the stock, crypto, options and other market bots from Side's X sweep ([research/x-trading-findings.json](research/x-trading-findings.json)). Each one carries a subtag (`stocks`, `crypto`, `options`, `portfolio`, `earnings`, `macro`, `other-markets`) in `catalog.json` and its `package.json`. One share id from that sweep (`NsCDfZMFctaP1WIp_48k4`) now resolves to a different bot, so it is filed by its current content.
 - [CATALOG.md](CATALOG.md) / [catalog.json](catalog.json): the index (name, creator, original `x.ai/bot/<id>` link, category, fidelity, contents, sources).
 
 ## Counts
@@ -14,27 +14,28 @@ Three sections:
 <!-- counts:start -->
 _Generated 2026-10-09 by `scripts/04-index.mjs`._
 
-- **3951** unique share ids found, **3919** live, **32** dead links
-- **3913** converted from the full recipe, **6** metadata-only (full fetch failed)
-- **90** official (listed on x.ai/bot/marketplace), **55** built-in in-app starters (SWE is also on the marketplace and stays in official/, tagged builtin), **3775** community (not on the marketplace)
-- Totals: 8185 skills, 2029 routines (1896 with a cron expression in the text), 19037 memory seeds, 2318 connector references
+- **3959** unique share ids found, **3928** live, **32** dead links
+- **3921** converted from the full recipe, **6** metadata-only (full fetch failed), **1** hand-written self-export (the user's Primary Bot, no share link)
+- **90** official (listed on x.ai/bot/marketplace), **56** built-in in-app starters (SWE is also on the marketplace and stays in official/, tagged builtin), **3783** community (not on the marketplace)
+- Totals: 8202 skills, 2031 routines (1898 with a cron expression in the text), 19062 memory seeds, 2318 connector references
 
 ### By section and category
 
 | Section / category | Templates | Full | Skills | Routines |
 | --- | --- | --- | --- | --- |
 | **official** (x.ai/bot/marketplace) → `templates/official/` | 90 | 90 | 448 | 146 |
-| **builtin** (in-app starters) → `templates/builtin/` | 55 | 55 | 7 | 0 |
-| **community** (not on the marketplace) → `templates/community/` | 3775 | 3769 | 7737 | 1883 |
-| &nbsp;&nbsp;community/coding-shipping | 327 | 327 | 672 | 76 |
+| **builtin** (in-app starters) → `templates/builtin/` | 56 | 55 | 9 | 1 |
+| **community** (not on the marketplace) → `templates/community/` | 3783 | 3777 | 7752 | 1884 |
+| &nbsp;&nbsp;community/coding-shipping | 326 | 326 | 669 | 74 |
 | &nbsp;&nbsp;community/content-publishing | 405 | 404 | 845 | 114 |
 | &nbsp;&nbsp;community/customer-sales | 242 | 241 | 501 | 159 |
-| &nbsp;&nbsp;community/finance-ops | 270 | 269 | 541 | 158 |
-| &nbsp;&nbsp;community/inbox-calendar | 304 | 304 | 555 | 259 |
-| &nbsp;&nbsp;community/personal-admin | 1324 | 1323 | 2865 | 604 |
-| &nbsp;&nbsp;community/research-briefings | 617 | 615 | 1153 | 365 |
-| &nbsp;&nbsp;community/teams-handoffs | 233 | 233 | 460 | 129 |
-| &nbsp;&nbsp;community/uncategorized | 53 | 53 | 145 | 19 |
+| &nbsp;&nbsp;community/finance-ops | 242 | 241 | 465 | 131 |
+| &nbsp;&nbsp;community/inbox-calendar | 302 | 302 | 546 | 259 |
+| &nbsp;&nbsp;community/personal-admin | 1305 | 1304 | 2833 | 582 |
+| &nbsp;&nbsp;community/research-briefings | 586 | 584 | 1080 | 335 |
+| &nbsp;&nbsp;community/teams-handoffs | 232 | 232 | 460 | 129 |
+| &nbsp;&nbsp;community/trading-investing | 94 | 94 | 218 | 84 |
+| &nbsp;&nbsp;community/uncategorized | 49 | 49 | 135 | 17 |
 
 ### By source (a template can appear in many sources)
 
@@ -53,11 +54,12 @@ _Generated 2026-10-09 by `scripts/04-index.mjs`._
 | cs68614-hash/awesome-grokbot-templates | 2740 | 2717 | 2711 |
 | ZeroPointRepo/GrokBotDev | 1577 | 1566 | 1564 |
 | x-research | 3886 | 3879 | 3874 |
+| x-trading-research | 95 | 95 | 95 |
 
 ### Validation (Pi 1.0.4, 2026-10-09)
 
-- Resource load with Pi's own `DefaultResourceLoader`: **3919/3919** templates load with every skill, prompt, AGENTS.md and APPEND_SYSTEM.md and no diagnostics
-- CLI end-to-end (`pi -p --approve` against a local mock model): **174/174** (90 official, 54 builtin, 30 community): persona in the system prompt, all skills advertised, routine prompt expanded with arguments
+- Resource load with Pi's own `DefaultResourceLoader`: **3928/3928** templates load with every skill, prompt, AGENTS.md and APPEND_SYSTEM.md and no diagnostics
+- CLI end-to-end (`pi -p --approve` against a local mock model): **182/182** (90 official, 55 builtin, 37 community): persona in the system prompt, all skills advertised, routine prompt expanded with arguments
 - Details: [validation/results.json](validation/results.json)
 <!-- counts:end -->
 

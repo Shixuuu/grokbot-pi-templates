@@ -19,6 +19,11 @@ const RECIPES = path.join(ROOT, "data", "raw", "full-recipes");
 const OUT = path.join(ROOT, "templates");
 const BUILTIN_FILE = path.join(ROOT, "research", "in-app-builtin-starters.txt");
 const BUILTIN = new Map(fs.existsSync(BUILTIN_FILE) ? fs.readFileSync(BUILTIN_FILE, "utf8").split("\n").filter((l) => l.trim() && !l.startsWith("#")).map((l) => l.split("\t").map((x) => x.trim())) : []);
+// Trading/investing bots found by Side on X (research/x-trading-findings.json). Subtag = Side's category (stocks, crypto, options, ...).
+const TRADING_FILE = path.join(ROOT, "research", "x-trading-findings.json");
+const TRADING = new Map(fs.existsSync(TRADING_FILE) ? readJson(TRADING_FILE).bots.map((b) => [b.shareId, b.category || "other-markets"]) : []);
+// Filed by current content, not by the X post: the share link now resolves to a different bot.
+const TRADING_EXCLUDE = { NsCDfZMFctaP1WIp_48k4: "X post described a memecoin scout, but the share id now resolves to 'Solopreneur Chief of Staff'; filed by its current content" };
 const isOfficial = (t) => t.sources.some((s) => s.source === "xai-marketplace");
 
 const TAX = ["personal-admin", "research-briefings", "content-publishing", "coding-shipping", "inbox-calendar", "customer-sales", "finance-ops", "teams-handoffs"];
@@ -69,7 +74,7 @@ function findSchedule(r) {
 function uniq(name, used) { let n = name, i = 2; while (used.has(n)) n = `${name}-${i++}`.slice(0, 64); used.add(n); return n; }
 
 function render(t, rec, info) {
-  const { dir, fidelity, official, builtin, category } = info;
+  const { dir, fidelity, official, builtin, category, tags } = info;
   const tpl = rec?.details?.template || {};
   const recipe = rec?.recipe || {};
   const m = meta[t.shareId] || {};
@@ -169,7 +174,7 @@ function render(t, rec, info) {
     name: `grokbot-${slug}`.slice(0, 214), version: `1.0.${tpl.activeVersion || m.activeVersion || 0}`, private: true,
     description: oneLine(description, 300), keywords: ["pi-package", "grok-bot-template"],
     pi: { skills: ["./skills"], prompts: ["./prompts"] },
-    grokbot: { shareId: t.shareId, url, official, builtin: builtin || undefined, category, fidelity, creator: creator || undefined, creatorHandle: handle || undefined,
+    grokbot: { shareId: t.shareId, url, official, builtin: builtin || undefined, category, tags, fidelity, creator: creator || undefined, creatorHandle: handle || undefined,
       activeVersion: tpl.activeVersion ?? m.activeVersion, sources, convertedWith: "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)" },
   }, null, 2) + "\n";
 
@@ -185,7 +190,7 @@ function render(t, rec, info) {
     `| | |`, `| --- | --- |`,
     `| Original template | ${url} |`,
     `| Creator | ${creator || "unknown"}${handle ? ` ([@${handle}](https://x.com/${handle}))` : ""} |`,
-    `| Category | ${official ? `official (x.ai/bot/marketplace)${builtin ? "; also a built-in starter in the Grok Bot app" : ""}` : builtin ? "builtin (starter template in the Grok Bot app's template picker)" : `community / ${category} (not on the x.ai marketplace)`} |`,
+    `| Category | ${official ? `official (x.ai/bot/marketplace)${builtin ? "; also a built-in starter in the Grok Bot app" : ""}` : builtin ? "builtin (starter template in the Grok Bot app's template picker)" : `community / ${category}${tags ? ` (${tags.join(", ")})` : ""} (not on the x.ai marketplace)`} |`,
     `| Found via | ${t.sources.map((s) => (s.listingUrl && /^https?:/.test(s.listingUrl) ? `[${s.source}](${s.listingUrl})` : s.source)).join(", ")} |`,
     `| Fidelity | **${fidelity}**${fidelity === "full" ? ` (full recipe, template version ${tpl.activeVersion ?? "?"})` : " (full recipe couldn't be fetched; only public name and description)"} |`,
     `| Contents | ${skills.length} skills, ${routines.length} routines, ${mem.length} memory seeds, ${plugins.length} connectors |`, "",
@@ -219,6 +224,22 @@ function cronToOnCalendar(cron) {
 }
 
 // ---------------- main
+// Hand-written self-exports (package.json grokbot.fidelity === "self-export", no share id) are not generated:
+// keep them across regenerations and list them in the catalog as-is.
+const selfExports = [];
+for (const sec of ["builtin", "official", "community"]) {
+  const d = path.join(OUT, sec);
+  if (!fs.existsSync(d)) continue;
+  for (const name of fs.readdirSync(d)) {
+    const pj = path.join(d, name, "package.json");
+    if (!fs.existsSync(pj)) continue;
+    const pkg = readJson(pj, {});
+    if (pkg?.grokbot?.fidelity !== "self-export") continue;
+    const tmp = fs.mkdtempSync(path.join(ROOT, "data", "raw", "selfexport-"));
+    fs.cpSync(path.join(d, name), tmp, { recursive: true });
+    selfExports.push({ sec, name, tmp, pkg });
+  }
+}
 fs.rmSync(OUT, { recursive: true, force: true });
 const usedSlugs = new Map();
 const catalog = [];
@@ -233,8 +254,9 @@ for (const t of sorted) {
   const rec = fs.existsSync(recPath) ? readJson(recPath) : null;
   const failPath = path.join(RECIPES, `${t.shareId}.failed.json`);
   const fail = fs.existsSync(failPath) ? readJson(failPath) : null;
-  const category = official ? "official" : builtin ? "builtin" : categoryOf(t);
-  const base = { shareId: t.shareId, url: `https://x.ai/bot/${t.shareId}`, official, builtin, category, sources: [...t.sources.map((s) => s.source), ...(builtin ? ["in-app-builtin"] : [])] };
+  const trading = TRADING.has(t.shareId) && !TRADING_EXCLUDE[t.shareId] ? TRADING.get(t.shareId) : null;
+  const category = official ? "official" : builtin ? "builtin" : trading ? "trading-investing" : categoryOf(t);
+  const base = { shareId: t.shareId, url: `https://x.ai/bot/${t.shareId}`, official, builtin, category, tags: trading ? ["trading", trading] : undefined, note: TRADING_EXCLUDE[t.shareId], sources: [...t.sources.map((s) => s.source), ...(builtin ? ["in-app-builtin"] : [])] };
   if (m.status && m.status !== 200 && !rec) {
     catalog.push({ ...base, name: t.name || "", description: t.description || "", status: "dead", fidelity: "none", note: `public API HTTP ${m.status} ${m.error || ""}`.trim() });
     continue;
@@ -253,7 +275,7 @@ for (const t of sorted) {
   }
   usedSlugs.set(`${parent}/${slug}`, true);
   const dir = path.join(parent, slug);
-  const r = render(t, rec, { dir, fidelity, official, builtin, category });
+  const r = render(t, rec, { dir, fidelity, official, builtin, category, tags: base.tags });
   if (fidelity !== "full") {
     // Metadata-only: never invent persona content. Write README + package + a stub AGENTS.md quoting the public description.
     r.files["AGENTS.md"] = `# ${r.name}\n\n> **Metadata-only conversion.** The full Grok Bot recipe for ${base.url} could not be fetched (${fail?.reason || "not fetched"}). Below is only the public description, not the bot's real instructions.\n\n${r.description}\n`;
@@ -266,7 +288,22 @@ for (const t of sorted) {
     scheduledRoutines: r.routines.filter((x) => x.cron).length, notes: r.notes.length ? r.notes : undefined,
   });
 }
+for (const x of selfExports) {
+  const dir = path.join(OUT, x.sec, x.name);
+  fs.mkdirSync(path.dirname(dir), { recursive: true });
+  fs.cpSync(x.tmp, dir, { recursive: true });
+  fs.rmSync(x.tmp, { recursive: true, force: true });
+  const g = x.pkg.grokbot || {};
+  const cntDir = (sub, f) => (fs.existsSync(path.join(dir, sub)) ? fs.readdirSync(path.join(dir, sub)).filter(f).length : 0);
+  catalog.push({
+    shareId: g.shareId ?? null, url: null, official: !!g.official, builtin: x.sec === "builtin" || g.category === "builtin", category: g.category || x.sec,
+    sources: g.sources || ["self-export"], name: (fs.readFileSync(path.join(dir, "AGENTS.md"), "utf8").match(/^# (.+)$/m) || [])[1] || x.name,
+    slug: x.name, path: path.relative(ROOT, dir), description: oneLine(x.pkg.description || "", 500), creator: g.creator, status: "live", fidelity: "self-export",
+    skills: cntDir("skills", (n) => fs.existsSync(path.join(dir, "skills", n, "SKILL.md"))), routines: cntDir("prompts", (n) => n.endsWith(".md")), memories: 0,
+    connectors: [], scheduledRoutines: cntDir("cron", (n) => n.endsWith(".cron")), notes: g.notes ? [g.notes] : undefined,
+  });
+}
 writeJson(path.join(ROOT, "catalog.json"), { generatedAt: new Date().toISOString(), count: catalog.length, templates: catalog });
 writeJson(path.join(ROOT, "data", "convert-failures.json"), failures);
 const c = (f) => catalog.filter(f).length;
-console.log(JSON.stringify({ total: catalog.length, live: c((x) => x.status === "live"), dead: c((x) => x.status === "dead"), full: c((x) => x.fidelity === "full"), metadataOnly: c((x) => x.fidelity === "metadata-only"), official: c((x) => x.official), builtin: c((x) => x.builtin), community: c((x) => x.status === "live" && !x.official && !x.builtin), officialFull: c((x) => x.official && x.fidelity === "full") }));
+console.log(JSON.stringify({ total: catalog.length, live: c((x) => x.status === "live"), dead: c((x) => x.status === "dead"), full: c((x) => x.fidelity === "full"), metadataOnly: c((x) => x.fidelity === "metadata-only"), official: c((x) => x.official), builtin: c((x) => x.builtin), selfExport: c((x) => x.fidelity === "self-export"), community: c((x) => x.status === "live" && !x.official && !x.builtin), officialFull: c((x) => x.official && x.fidelity === "full") }));

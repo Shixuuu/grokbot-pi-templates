@@ -157,6 +157,13 @@ const SOURCES = {
     }
     return out;
   },
+  // Side's trading/investing sweep of X (research/x-trading-findings.json).
+  async "x-trading-research"() {
+    const p = path.join(ROOT, "research", "x-trading-findings.json");
+    if (!fs.existsSync(p)) return [];
+    return readJson(p).bots.map((b) => ({ shareId: b.shareId || shareIdFrom(b.shareUrl), name: b.name, description: b.description || "",
+      creator: { name: b.ownerDisplayName || "", handle: b.authorHandle || "" }, category: b.category || "", tags: ["trading", b.category].filter(Boolean), listingUrl: b.postUrl || b.shareUrl }));
+  },
   // Teammate (Side) research drop + any manual additions.
   async "x-research"() {
     const out = [];
