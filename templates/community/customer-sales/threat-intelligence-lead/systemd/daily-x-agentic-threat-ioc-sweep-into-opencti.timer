@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-x-agentic-threat-ioc-sweep-into-opencti
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:48:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

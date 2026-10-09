@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine tam-map-expand
+
+[Timer]
+OnCalendar=Tue,Thu *-*-* 09:32:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

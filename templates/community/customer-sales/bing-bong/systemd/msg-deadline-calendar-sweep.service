@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine msg-deadline-calendar-sweep (Bing Bong)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bing-bong
+ExecStart=/usr/bin/env pi -p "/msg-deadline-calendar-sweep"

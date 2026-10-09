@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-one-page-bid",
+  "version": "1.0.1",
+  "private": true,
+  "description": "For consultants, freelancers, and agency owners coming off a discovery or sales call. Paste the notes or transcript; get a one-page priced proposal with scope, price, timeline, and assumptions. Draft only.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uaqH_2upECHDL-Pn3cKEY",
+    "url": "https://x.ai/bot/uaqH_2upECHDL-Pn3cKEY",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Sol Wright",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

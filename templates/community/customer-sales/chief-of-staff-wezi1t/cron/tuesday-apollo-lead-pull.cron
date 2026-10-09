@@ -1,0 +1,3 @@
+# Routine "Tuesday Apollo lead pull" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 14 * * 2 cd /path/to/chief-of-staff-wezi1t && pi -p "/tuesday-apollo-lead-pull"

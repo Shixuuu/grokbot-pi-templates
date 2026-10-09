@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-founder-growth-pilot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A founder growth desk with weekday routines, a send-approval gate, and a Drive ledger. It researches and drafts for any product; you approve every send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4KvT7CVIPLS35OwLuxcwQ",
+    "url": "https://x.ai/bot/4KvT7CVIPLS35OwLuxcwQ",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Guy Suter",
+    "creatorHandle": "guysuter",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

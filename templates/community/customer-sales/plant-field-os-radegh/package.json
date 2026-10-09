@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-plant-field-os-radegh",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Zero-friction field sales OS: daily planning cockpit, installed-base map, Free Site Audit that trains the rep, and a lightweight leadership dashboard — so the right sales behavior is the easy path.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rAdegh2szovJbQjFsdxYa",
+    "url": "https://x.ai/bot/rAdegh2szovJbQjFsdxYa",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Quantumcowgirl1",
+    "creatorHandle": "Quantumcowgirl1",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

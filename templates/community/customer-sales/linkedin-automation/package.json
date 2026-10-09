@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-linkedin-automation",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Drafts and publishes LinkedIn posts in your voice, runs topic-based like passes, and saves buyer-looking prospects into one Google Sheet with a tab per topic.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wmWF7EgQD3c1O3cSHFA0v",
+    "url": "https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Melvin Vivas",
+    "creatorHandle": "melvindvivas",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

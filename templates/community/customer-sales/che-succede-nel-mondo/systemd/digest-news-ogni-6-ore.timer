@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine digest-news-ogni-6-ore
+
+[Timer]
+OnCalendar=*-*-* 07,19:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-buying-signal-scan (Miles)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/miles
+ExecStart=/usr/bin/env pi -p "/weekday-buying-signal-scan"

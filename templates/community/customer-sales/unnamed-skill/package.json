@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Japan B2B form-first outreach bot: copy quality gate, daily prep without sending, owner-GO sends, CRM logging, and weekly PDCA. Built for AI advisory and similar SMB offers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-4fEgwVFAm8w_ULi4pjmC",
+    "url": "https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "直人 島",
+    "creatorHandle": "isle_claude",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

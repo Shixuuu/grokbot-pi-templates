@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-robit",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A hands-on PC and agent-Chrome helper: diagnose freezes and leftovers, clean stubborn browser and antivirus remnants, and unblock merchant/portal logins. Built for small-business operators who want an IT teammate that works on their desktop and shared agent browser.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0BbPklegaSLcUqp0CVXda",
+    "url": "https://x.ai/bot/0BbPklegaSLcUqp0CVXda",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Lipa",
+    "creatorHandle": "CrystalJ613",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

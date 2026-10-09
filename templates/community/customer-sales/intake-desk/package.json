@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-intake-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste the requests, leads, and jobs coming at you from everywhere, and get one sorted, prioritized queue with a next step for each.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "in_PtzvudSXOJ178cNxv0",
+    "url": "https://x.ai/bot/in_PtzvudSXOJ178cNxv0",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "aaron creech",
+    "creatorHandle": "AMFoxtrot",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

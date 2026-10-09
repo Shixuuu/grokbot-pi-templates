@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-website-agency-lead-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds a few businesses that actually need a website for one agency. Delivers a weekday morning board of up to five verified leads, each with a short outreach draft, and never sends until the owner says yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FBSTEPfTxj7ekvSml-nUJ",
+    "url": "https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

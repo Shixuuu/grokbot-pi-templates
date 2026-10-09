@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-draft-seller",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Photos in → comps, ask price, and listing draft. Inbox checks draft buyer replies and flag scams. Never posts or sends without your yes. Prefers a residential computer for Marketplace.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4B2bBEXQ-c4c3JT8eMvyh",
+    "url": "https://x.ai/bot/4B2bBEXQ-c4c3JT8eMvyh",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Dode",
+    "creatorHandle": "dode",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

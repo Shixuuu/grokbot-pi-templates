@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gotcha-grid",
+  "version": "1.0.4",
+  "private": true,
+  "description": "For procurement and founders comparing vendor bids: get a side-by-side gotcha grid of what’s actually in each quote, with silent gaps flagged as questions—not conclusions—plus an ask-these list. Not legal advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TemeQ_BwE1Vbnv7eIanfp",
+    "url": "https://x.ai/bot/TemeQ_BwE1Vbnv7eIanfp",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

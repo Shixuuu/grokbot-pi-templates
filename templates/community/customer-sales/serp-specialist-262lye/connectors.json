@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Semrush",
+      "pluginId": "56809983",
+      "description": "Research keywords, backlinks, traffic, and competitors."
+    },
+    {
+      "name": "Treg",
+      "pluginId": "55647425",
+      "description": "OpenRouter for tools — 2,896 agent-callable endpoints across 60 providers: SEO and SERP data, backlinks, social and trends, people and company enrichment, ads, scraping. Search by the task, see the price, then call it. Credentials are injected server-side, so the agent never holds a key. Pay per call, not per subscription."
+    },
+    {
+      "name": "Netlify",
+      "pluginId": "20992516",
+      "description": "Netlify platform skills — functions, edge functions, blobs, database, identity, image CDN, forms, config, CLI, frameworks, caching, AI gateway, and deployment"
+    }
+  ]
+}

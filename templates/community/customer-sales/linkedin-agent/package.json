@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-linkedin-agent",
+  "version": "1.0.1",
+  "private": true,
+  "description": "LinkedIn specialist that audits and rewrites profiles so the current role leads, and runs weekday blank connection-invite batches on a signed-in LinkedIn session. Human-in-the-loop on posts, edits, and DMs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TtbtDOEfnPntO9DWANx3P",
+    "url": "https://x.ai/bot/TtbtDOEfnPntO9DWANx3P",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Scott Metcalf",
+    "creatorHandle": "scottxmetcalf",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

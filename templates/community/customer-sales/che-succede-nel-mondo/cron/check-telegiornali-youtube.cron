@@ -1,0 +1,3 @@
+# Routine "Check telegiornali YouTube" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+59 23 * * * cd /path/to/che-succede-nel-mondo && pi -p "/check-telegiornali-youtube"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-qdixzo",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Lightweight ops lead for a multi-venture founder: go/no-go decisions, specialist routing, and draft-only reply radar. You approve every send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QDI-ZOjwekiMKsaukby8w",
+    "url": "https://x.ai/bot/QDI-ZOjwekiMKsaukby8w",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Don Watza",
+    "creatorHandle": "djwatza",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

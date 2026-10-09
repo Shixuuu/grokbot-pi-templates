@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sue-bouclier",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Soutien en mode COMMENTAIRE sur X: éclaire sans attaquer. Reformule, ajoute un fait sourcé, puis un lien. Court, factuel, humain.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3QlpCJKENU1wC7ka7e9O0",
+    "url": "https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Steve Boudrias",
+    "creatorHandle": "LArchitecteuh",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

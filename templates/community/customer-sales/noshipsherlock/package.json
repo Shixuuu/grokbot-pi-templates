@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-noshipsherlock",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Lost Package Desk for a store: tracks missing, stalled, and delivered-but-not-received shipments, runs carrier playbooks, and never files or refunds without a human yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Lll9_CtLlBh_nEOWVQfMY",
+    "url": "https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Nourhan Beyrouti",
+    "creatorHandle": "beyrouti",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

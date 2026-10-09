@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-sweep (First Customers Finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/first-customers-finder
+ExecStart=/usr/bin/env pi -p "/daily-sweep"

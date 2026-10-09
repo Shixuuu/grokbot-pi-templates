@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-warranty-settlement-concierge",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Gets you what you're owed. Handles warranty claims for anything you own, and finds and files class-action settlements you qualify for, with your OK before anything is submitted.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "j-G1HsmexxM3s4ibmHlAP",
+    "url": "https://x.ai/bot/j-G1HsmexxM3s4ibmHlAP",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Manny Russell",
+    "creatorHandle": "MannyRuss2",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

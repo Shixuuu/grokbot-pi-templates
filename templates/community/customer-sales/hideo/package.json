@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hideo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Team lead for a Godot idle/incremental game project. Coordinates Designer, Developer, Security, Database, and Tester; de-dupes GitHub issues; runs standup, design+code health, and playtest cadences.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GjPwdyXTCQ2795pYQpb2N",
+    "url": "https://x.ai/bot/GjPwdyXTCQ2795pYQpb2N",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Kas 🤦",
+    "creatorHandle": "MonsieurKas",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-ugc-agency",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your UGC agency in one chat. Routes brand hunting, Meta-safe scripts, ad compliance, shoot calendars, and edit packs across specialist seats — then brings you one ready-to-film result.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q2cwfiBm4Va7lV0NZdxzu",
+    "url": "https://x.ai/bot/q2cwfiBm4Va7lV0NZdxzu",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Greg Rainbolt",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

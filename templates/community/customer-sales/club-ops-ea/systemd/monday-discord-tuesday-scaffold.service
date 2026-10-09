@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-discord-tuesday-scaffold (Club Ops EA)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/club-ops-ea
+ExecStart=/usr/bin/env pi -p "/monday-discord-tuesday-scaffold"

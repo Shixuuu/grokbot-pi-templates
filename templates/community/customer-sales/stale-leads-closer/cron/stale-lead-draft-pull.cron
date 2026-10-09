@@ -1,0 +1,3 @@
+# Routine "Stale lead draft pull" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+35 8 * * 1-5 cd /path/to/stale-leads-closer && pi -p "/stale-lead-draft-pull"

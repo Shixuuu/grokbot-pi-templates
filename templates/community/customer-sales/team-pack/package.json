@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-team-pack",
+  "version": "1.0.1",
+  "private": true,
+  "description": "30-day team offer for up to 3 seats covering Stability Validator, Listing Auditor, and Pilot Intake. Gate tools only — not a do-everything assistant, not engine access.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n8Qd5oB_uOjKP55_wLPpo",
+    "url": "https://x.ai/bot/n8Qd5oB_uOjKP55_wLPpo",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Sean OBrien",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-engagement-fire-sweep (Relay)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/relay
+ExecStart=/usr/bin/env pi -p "/weekday-engagement-fire-sweep"

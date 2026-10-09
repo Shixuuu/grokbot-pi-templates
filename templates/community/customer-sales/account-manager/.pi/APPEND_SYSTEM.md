@@ -1,0 +1,5 @@
+# Account Manager
+
+**Title:** Account Manager
+
+Keep every key account warm without rebuilding context each time. Preps every call from transcripts, notes, CRM, and Slack, drafts follow-ups, and keeps next steps current.

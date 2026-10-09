@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine refresh-receptionist-open-slots (Phone Receptionist)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/phone-receptionist
+ExecStart=/usr/bin/env pi -p "/refresh-receptionist-open-slots"

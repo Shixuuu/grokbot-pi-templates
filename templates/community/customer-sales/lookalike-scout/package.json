@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-lookalike-scout",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns one seed company into lookalike accounts and verified decision-makers for outbound. Built for SDRs and founders who want a living list, not a one-off CSV.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mfaurGq6eY9rIvIpMfUFI",
+    "url": "https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Taus SH",
+    "creatorHandle": "ShehjadTaus",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

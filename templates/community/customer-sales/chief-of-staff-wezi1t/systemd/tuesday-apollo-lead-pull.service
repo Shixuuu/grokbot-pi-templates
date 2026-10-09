@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tuesday-apollo-lead-pull (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-wezi1t
+ExecStart=/usr/bin/env pi -p "/tuesday-apollo-lead-pull"

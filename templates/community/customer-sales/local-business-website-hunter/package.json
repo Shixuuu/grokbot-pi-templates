@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-local-business-website-hunter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds active local businesses with no website, builds each a demo site from its own content, and prepares a quote PDF and outreach message, all held for your approval. Built for freelance web developers who want a steady flow of clients.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "U87LeqeLNEIKRe9ctpRxG",
+    "url": "https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Kevin Milo",
+    "activeVersion": 1,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

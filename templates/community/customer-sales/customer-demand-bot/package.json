@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-customer-demand-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds people publicly asking for a product or service near you. You set the category and distance; it brings matching posts to you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "u5KGTAihFddbb2qQxOtDh",
+    "url": "https://x.ai/bot/u5KGTAihFddbb2qQxOtDh",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Dominic Bryant",
+    "creatorHandle": "Dominicyoungix",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

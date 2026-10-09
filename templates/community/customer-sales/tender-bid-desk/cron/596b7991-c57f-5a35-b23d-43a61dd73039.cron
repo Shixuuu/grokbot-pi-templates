@@ -1,0 +1,3 @@
+# Routine "Weekday morning tender brief" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+51 5 * * 1-5 cd /path/to/tender-bid-desk && pi -p "/596b7991-c57f-5a35-b23d-43a61dd73039"

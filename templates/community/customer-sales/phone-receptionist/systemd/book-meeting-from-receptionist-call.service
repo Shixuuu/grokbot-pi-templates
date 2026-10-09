@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine book-meeting-from-receptionist-call (Phone Receptionist)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/phone-receptionist
+ExecStart=/usr/bin/env pi -p "/book-meeting-from-receptionist-call"

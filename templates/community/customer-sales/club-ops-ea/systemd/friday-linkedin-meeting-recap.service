@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-linkedin-meeting-recap (Club Ops EA)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/club-ops-ea
+ExecStart=/usr/bin/env pi -p "/friday-linkedin-meeting-recap"

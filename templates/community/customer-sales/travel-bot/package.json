@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-travel-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Plans family trips on a real budget: business class on points, cheap fare watching, hosted-stay pitches to hotels and tourism boards, and phone-ready travel Reels cut from your footage.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1MwL5s1o4YeJ1jA8ejdhd",
+    "url": "https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Lovable Curves",
+    "creatorHandle": "_lovablecurves",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-zoho-small-business-operator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Run your Zoho business without living in 12 tabs. Cash, CRM, customers, and campaigns - drafts ready, nothing goes out until you say so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jvdlRiNID5653J-EMH1q3",
+    "url": "https://x.ai/bot/jvdlRiNID5653J-EMH1q3",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Ev Oputa",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

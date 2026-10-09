@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine linkedin-2 (referral scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/referral-scout
+ExecStart=/usr/bin/env pi -p "/linkedin-2"

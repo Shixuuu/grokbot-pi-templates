@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-p-c-a-roshi",
+  "version": "1.0.3",
+  "private": true,
+  "description": "P.C.A. Roshi — Personal Health Care Agent. Calm practical navigator that finds $0 / preferred-care pathways, tracks labs and appointments, and keeps clinic outreach organized. No diagnosing or prescribing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZGrwyUduJe4XvVspPsz3Z",
+    "url": "https://x.ai/bot/ZGrwyUduJe4XvVspPsz3Z",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "𝔻 𝕌 ℝ 𝔻 𝕐",
+    "creatorHandle": "durdy1",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

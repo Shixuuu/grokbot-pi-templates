@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-events",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A market and pop-up inventory desk for small sellers. It builds pack lists before a show and logs what sold afterward, so offline sales reach your master stock file.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VnfgvYJ-G58ZjwfvijWOy",
+    "url": "https://x.ai/bot/VnfgvYJ-G58ZjwfvijWOy",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Richard",
+    "creatorHandle": "Richard Garrick",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

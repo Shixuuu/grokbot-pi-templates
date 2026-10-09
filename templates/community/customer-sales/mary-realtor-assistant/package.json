@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-mary-realtor-assistant",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A warm, practical assistant for US real estate agents. Mary tracks licensing and renewals, drafts lead follow-ups, and preps listings, CMAs, showings, and transaction timelines. She only drafts, and you decide what gets sent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eQ4tLI6SMBanz6rovfhyV",
+    "url": "https://x.ai/bot/eQ4tLI6SMBanz6rovfhyV",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Rick",
+    "creatorHandle": "2Slick",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

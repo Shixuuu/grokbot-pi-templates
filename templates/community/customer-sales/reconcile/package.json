@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-reconcile",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An inventory mismatch desk for small shops. It compares your master stock file with every sales channel, shows the differences in a table, and proposes fixes for you to approve. It never writes changes itself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Tbq0su-ypEEzdjTXjIZLo",
+    "url": "https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Richard",
+    "creatorHandle": "Richard Garrick",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

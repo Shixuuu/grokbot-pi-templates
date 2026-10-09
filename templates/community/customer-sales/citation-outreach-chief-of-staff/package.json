@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-citation-outreach-chief-of-staff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff for a citation-outreach pipeline. Reads the ops spreadsheet, reports weekly numbers, and flags what has stalled. Never emails, sends, or spends — it surfaces decisions for the owner.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AloagFdLLL5SoNPyIszRb",
+    "url": "https://x.ai/bot/AloagFdLLL5SoNPyIszRb",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Dawood Khan",
+    "creatorHandle": "dawoodkhan254",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

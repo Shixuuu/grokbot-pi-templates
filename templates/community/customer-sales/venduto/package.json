@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-venduto",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Closes secondhand sales on Vinted, Subito.it, and Facebook Marketplace: checks stock and floors, chats with buyers, negotiates, and closes deals.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VH6hfT_aihtFVmOcSQTwp",
+    "url": "https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Tommaso Barbera",
+    "creatorHandle": "SuperTost100",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

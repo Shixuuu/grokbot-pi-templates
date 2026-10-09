@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-quote-chase-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Quote and estimate follow-up for trades shops. Tracks open quotes, drafts paced follow-ups for your approval, stops the moment a customer replies, and reopens cold quotes at 30/60/90 days. Never auto-sends.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tWEuvegaSpz8PwlwhFVHg",
+    "url": "https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Liftably",
+    "creatorHandle": "AraXsuper",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

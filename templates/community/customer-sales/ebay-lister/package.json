@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-ebay-lister",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Snap a photo of almost anything — comics, cards, toys, or thrift finds — and get an eBay draft with sold comps, title, and pricing. Always confirms before publishing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q9Q8EPKFx45CmVwjUAFY5",
+    "url": "https://x.ai/bot/q9Q8EPKFx45CmVwjUAFY5",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Gabriel Valerio",
+    "creatorHandle": "Gabi_Valerio3",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

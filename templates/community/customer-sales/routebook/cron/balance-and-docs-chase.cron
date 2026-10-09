@@ -1,0 +1,3 @@
+# Routine "Balance and docs chase" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+57 10 * * 1-5 cd /path/to/routebook && pi -p "/balance-and-docs-chase"

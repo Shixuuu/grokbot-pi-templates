@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-lead-watch (Local Leads Finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/local-leads-finder
+ExecStart=/usr/bin/env pi -p "/x-lead-watch"

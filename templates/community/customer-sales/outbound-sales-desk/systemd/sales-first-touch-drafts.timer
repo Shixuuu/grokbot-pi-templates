@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine sales-first-touch-drafts
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 11:05:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

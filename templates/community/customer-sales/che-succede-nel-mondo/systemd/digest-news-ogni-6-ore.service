@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine digest-news-ogni-6-ore (Che succede nel mondo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/che-succede-nel-mondo
+ExecStart=/usr/bin/env pi -p "/digest-news-ogni-6-ore"

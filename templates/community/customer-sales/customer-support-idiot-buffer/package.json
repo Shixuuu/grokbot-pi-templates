@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-customer-support-idiot-buffer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Calls customer support for you with a Twilio ↔ Grok Voice bridge (or similar). Steers mid-call from chat and only hangs up when the job is done.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PMCHyvumlOdCFNRifTDJW",
+    "url": "https://x.ai/bot/PMCHyvumlOdCFNRifTDJW",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Mitchell Rudoll",
+    "creatorHandle": "MitcelloRudoll",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

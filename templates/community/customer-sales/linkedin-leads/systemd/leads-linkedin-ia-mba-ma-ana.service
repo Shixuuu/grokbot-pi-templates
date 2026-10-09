@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine leads-linkedin-ia-mba-ma-ana (Linkedin Leads)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/linkedin-leads
+ExecStart=/usr/bin/env pi -p "/leads-linkedin-ia-mba-ma-ana"

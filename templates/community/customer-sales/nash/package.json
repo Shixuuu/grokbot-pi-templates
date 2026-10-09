@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-nash",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Nash maps the game behind a high-stakes negotiation or deal — who's involved, what each side wants, how they'll likely respond — and gives you a clear next move. Then it checks your own plan for blind spots. Inspired by Chamath Palihapitiya's Nash-equilibrium agent idea; not affiliated with or endo…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "96mwrkqcL-8lqFvBUtejM",
+    "url": "https://x.ai/bot/96mwrkqcL-8lqFvBUtejM",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

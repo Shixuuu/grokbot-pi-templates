@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-precision-3d-helper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A helper for running a small local 3D printing shop. It answers customer questions, works out quotes with quantity discounts, picks materials and colors, gets models ready to print, and troubleshoots Bambu Lab printers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bna2wMqlfX6-F4TBmAEBJ",
+    "url": "https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Srini Maram",
+    "creatorHandle": "srinimaram",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

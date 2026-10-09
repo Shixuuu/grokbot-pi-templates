@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-contra-job-sniper-xxsnwx",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Scrapes Contra's For you feed every 6 hours, archives listings in Notion, closed-checks open leads, and emails an HTML digest only when something new or newly closed appears.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "__sNWxlx-8H08UluQuOeo",
+    "url": "https://x.ai/bot/__sNWxlx-8H08UluQuOeo",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Srujal Shah",
+    "creatorHandle": "techking_007",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

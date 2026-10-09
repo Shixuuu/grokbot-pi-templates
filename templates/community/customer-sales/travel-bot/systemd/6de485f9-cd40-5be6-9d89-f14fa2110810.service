@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 6de485f9-cd40-5be6-9d89-f14fa2110810 (Travel Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/travel-bot
+ExecStart=/usr/bin/env pi -p "/6de485f9-cd40-5be6-9d89-f14fa2110810"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine voiceagent-post-call-transcript-sync (Voice Calls)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/voice-calls
+ExecStart=/usr/bin/env pi -p "/voiceagent-post-call-transcript-sync"

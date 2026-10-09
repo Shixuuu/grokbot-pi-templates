@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-goal-and-bottleneck-review
+
+[Timer]
+OnCalendar=Sun *-*-* 18:32:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

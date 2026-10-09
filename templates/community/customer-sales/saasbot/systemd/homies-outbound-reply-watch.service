@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine homies-outbound-reply-watch (SaaSbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/saasbot
+ExecStart=/usr/bin/env pi -p "/homies-outbound-reply-watch"

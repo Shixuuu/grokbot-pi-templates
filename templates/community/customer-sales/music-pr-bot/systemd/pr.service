@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pr (Music PR Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/music-pr-bot
+ExecStart=/usr/bin/env pi -p "/pr"

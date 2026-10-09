@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-shadow-chief",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Apps growth chief for indie App Store builders: sales/reviews briefs, ASO proposals, and careful X engagement. Drafts first for spend, price, or deploy. Voice: she/her, sharp, short lowercase.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sNh9WUT_7BY83jm1w3GJh",
+    "url": "https://x.ai/bot/sNh9WUT_7BY83jm1w3GJh",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Robert Corbin",
+    "creatorHandle": "Shadowfetch",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

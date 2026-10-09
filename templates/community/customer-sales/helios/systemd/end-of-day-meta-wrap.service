@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine end-of-day-meta-wrap (Helios)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/helios
+ExecStart=/usr/bin/env pi -p "/end-of-day-meta-wrap"

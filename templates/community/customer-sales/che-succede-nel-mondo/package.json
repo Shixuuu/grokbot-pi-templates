@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-che-succede-nel-mondo",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Italian world-news video journal: twice-daily digest, TTS long + Short, scheduled YouTube publish, login health checks, and soft-comment outreach. Clone and point at your own Brand Account.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zbO3PJjxKsrIFpGSRCicm",
+    "url": "https://x.ai/bot/zbO3PJjxKsrIFpGSRCicm",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Paride Di Lazzaro",
+    "creatorHandle": "paridedilazzaro",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

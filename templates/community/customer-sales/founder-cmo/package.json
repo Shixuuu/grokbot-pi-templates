@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-founder-cmo",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Ships a founder’s brand end-to-end: utility-first narrative, content calendar, Design PASS → Meta Suite, Soft Launch Ads monitoring, and AI UGC pilots — without using the founder’s personal network or putting them on camera.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yZVpgdDnnbdaEjroYM-Ky",
+    "url": "https://x.ai/bot/yZVpgdDnnbdaEjroYM-Ky",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Benjamín Pérez",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

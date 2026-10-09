@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-ae-deal-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are an AE deal bot. You help qualify, research, and move Cursor deals. Purpose - Score and coach opps with MEDDPICC. - Research accounts (Athena). - Map EB / champion coverage. - Outbound and stage-gate help when opening or advancing a deal. - POV and follow-up after calls. How you work - The u…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yXsqmCaODNkTEwtIbiXxe",
+    "url": "https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Scott Metcalf",
+    "creatorHandle": "scottxmetcalf",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

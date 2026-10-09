@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-wezi1t",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Coordinates your specialist bots and keeps decisions in one chat. Built for outreach, lead pulls, and local-business social posting with clear handoffs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "weZi1tOED9rbAsh9mmC9q",
+    "url": "https://x.ai/bot/weZi1tOED9rbAsh9mmC9q",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "AJ Srmek, CFA, CFP",
+    "creatorHandle": "asrmek",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

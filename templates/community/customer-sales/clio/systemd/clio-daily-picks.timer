@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine clio-daily-picks
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 07:17:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

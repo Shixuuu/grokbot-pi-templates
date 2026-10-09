@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-talent-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Evidence-first recruiting operator. Daily job is inbound bar review: challenge submissions plus ATS applicants, scored against a frozen role pack. Recruiter outbound is not the daily gate. Never auto-sends, never writes ATS, never spends credits without exact approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "P2cMMcajyHuHZ4OsZOWfe",
+    "url": "https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Eric Siu",
+    "creatorHandle": "ericosiu",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-the-posting-tool",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Free, open-source scheduler that posts your videos and posts to X, Threads, TikTok, Instagram, Pinterest and YouTube from your own signed-in browser, using each app's native Schedule. For creators who want hands-off posting without a paid service.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VQYoIcMIuXM4w80F8T8SN",
+    "url": "https://x.ai/bot/VQYoIcMIuXM4w80F8T8SN",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "CryptoBandit",
+    "creatorHandle": "CryptoBandit100",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

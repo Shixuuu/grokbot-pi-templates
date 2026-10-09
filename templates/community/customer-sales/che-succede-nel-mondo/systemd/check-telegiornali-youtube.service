@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine check-telegiornali-youtube (Che succede nel mondo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/che-succede-nel-mondo
+ExecStart=/usr/bin/env pi -p "/check-telegiornali-youtube"

@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-phone-receptionist",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A Grok Bot that answers your phone and books meetings on your Google Calendar — Agent Phone Plan $15 first month → $30/mo, with voice library or upload/clone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Z7LfRtBtwfaojaomMrAuX",
+    "url": "https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Cole Baker",
+    "activeVersion": 4,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

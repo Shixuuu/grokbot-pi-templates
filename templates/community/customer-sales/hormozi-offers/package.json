@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hormozi-offers",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Audits and tightens an offer using Alex Hormozi's $100M Offers frameworks: Grand Slam Offer, value equation, bonuses, guarantees, naming, niche, and ethical scarcity. Every critique names the broken variable and the fix that raises value or drops friction.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Lq3agwG85x4dhZPOVcSHh",
+    "url": "https://x.ai/bot/Lq3agwG85x4dhZPOVcSHh",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Arturo Rodés",
+    "creatorHandle": "arturorodes",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

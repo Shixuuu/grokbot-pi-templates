@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-pipeline-brief (Elena)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/elena
+ExecStart=/usr/bin/env pi -p "/weekly-pipeline-brief"

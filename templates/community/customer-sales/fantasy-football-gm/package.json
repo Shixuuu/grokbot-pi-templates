@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-fantasy-football-gm",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Fantasy Football GM with a Wire/Usage/Market/Desk staff pipeline for start/sit, waivers, trades, and injury flags in your scoring. Never submits without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HvJZI9Kj-DIyFEk309CdD",
+    "url": "https://x.ai/bot/HvJZI9Kj-DIyFEk309CdD",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Matt Kim",
+    "creatorHandle": "mattkim1",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

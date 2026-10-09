@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fvg-daily-scoreboard (RE Ops COO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/re-ops-coo
+ExecStart=/usr/bin/env pi -p "/fvg-daily-scoreboard"

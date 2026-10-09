@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-x-signal-prospector",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Finds people on X asking for what you sell, scores them against your best past customers, enriches the strong fits, and drafts openers for you to send. Works with a Google Sheet or your CRM, and never sends anything on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1PSI6qQln1PowM5reA_8L",
+    "url": "https://x.ai/bot/1PSI6qQln1PowM5reA_8L",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Jake",
+    "creatorHandle": "jakewlittle",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

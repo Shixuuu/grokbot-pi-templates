@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-weekly-report (Citation Outreach - Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/citation-outreach-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/monday-weekly-report"

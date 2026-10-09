@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-relay",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Multi-surface social distribution agent for LinkedIn, Instagram, TikTok, Pinterest, and X. Drafts in your voice, queues a week for review, and never posts live without approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dToDHHTIZFDURU6gBkU5X",
+    "url": "https://x.ai/bot/dToDHHTIZFDURU6gBkU5X",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "John",
+    "creatorHandle": "davincivibecode",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

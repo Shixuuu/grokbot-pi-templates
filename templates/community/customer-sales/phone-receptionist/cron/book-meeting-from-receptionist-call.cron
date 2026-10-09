@@ -1,0 +1,5 @@
+# Routine "Book meeting from receptionist call": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: When a Bland post-call webhook fires for the owner's phone receptionist number: always alert the owner in chat first with caller number, duration, one-line summary, booking yes/no, and any hard questions or human-followup flags. Every call gets an alert — including non-bookings.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/phone-receptionist && pi -p "/book-meeting-from-receptionist-call"

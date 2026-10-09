@@ -1,0 +1,5 @@
+# Routine "Partnership Slack on-point": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: - DEADLINES: If the message contains a new dated partner deadline, put it on the owner's calendar as an all-day free hold with a reminder. Route the hold to the calendar EA (FILL_IN). Owner-only unless they named other guests. For dates more than ~1 month out, also add a weekday 1-month reminder ho…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/bing-bong && pi -p "/msg-reply-harry-styles-numbers"

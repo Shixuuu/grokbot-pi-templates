@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-chef-by-michael",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Practical pastry recipe R&D and menu partner for dessert businesses. Clear, no cheerleading.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TK4dlegma4fLQQqMzWkds",
+    "url": "https://x.ai/bot/TK4dlegma4fLQQqMzWkds",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "Michael",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

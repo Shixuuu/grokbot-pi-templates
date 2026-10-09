@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-support-reply-desk-calm-reply-8g9eqs",
+  "version": "1.0.3",
+  "private": true,
+  "description": "💬 Turn a customer ticket and your policy into an empathetic, on-policy reply draft plus an internal note. It never issues refunds or credits, and nothing is sent without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8g9eQsRNCFNxhZBuKTbY-",
+    "url": "https://x.ai/bot/8g9eQsRNCFNxhZBuKTbY-",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

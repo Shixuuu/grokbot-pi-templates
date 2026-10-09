@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine appeeky-daily-mrr (Stripe Expert)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/stripe-expert
+ExecStart=/usr/bin/env pi -p "/appeeky-daily-mrr"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-clio",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Reading Scout that picks a few real, recent, worthwhile reads each weekday morning, tied to your work and personal goals, and learns your taste from your reactions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CdAsPk_CDqQDtMPVwfN5s",
+    "url": "https://x.ai/bot/CdAsPk_CDqQDtMPVwfN5s",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Thomas Gere",
+    "creatorHandle": "Tom_Gere",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

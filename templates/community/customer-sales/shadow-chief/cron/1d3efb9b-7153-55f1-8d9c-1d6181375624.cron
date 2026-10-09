@@ -1,0 +1,3 @@
+# Routine "weekday web analytics brief" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+11 13 * * 1-5 cd /path/to/shadow-chief && pi -p "/1d3efb9b-7153-55f1-8d9c-1d6181375624"

@@ -1,0 +1,3 @@
+# Routine "Pitch reply watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+18 8-20/2 * * * cd /path/to/webb-knox && pi -p "/bees-knees-reply-watch"

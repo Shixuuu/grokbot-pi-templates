@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-serp-specialist-262lye",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A local SEO specialist that researches SERPs and keyword volumes, finds rank-and-rent opportunities, audits sites for SEO and AEO, and builds conversion-first local business sites as preview deploys. Built for agencies and rank-and-rent operators.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "262LyEVXcAKuQuohFeXop",
+    "url": "https://x.ai/bot/262LyEVXcAKuQuohFeXop",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Corey Putney",
+    "creatorHandle": "ascndnt_alchmy",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

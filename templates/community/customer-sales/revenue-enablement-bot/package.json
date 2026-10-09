@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-revenue-enablement-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A generalist sales and revenue enablement manager for enablement leads, sales managers, and RevOps. It routes an ask to the right specialist skill and produces a reviewable draft for messaging, coaching, launches, programs, measurement, and account work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LlldYnfUbSX5Z5ogLkHik",
+    "url": "https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Nathan Clark",
+    "creatorHandle": "nathanclark_",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

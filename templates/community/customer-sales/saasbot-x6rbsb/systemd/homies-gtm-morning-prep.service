@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine homies-gtm-morning-prep (SaaSbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/saasbot-x6rbsb
+ExecStart=/usr/bin/env pi -p "/homies-gtm-morning-prep"

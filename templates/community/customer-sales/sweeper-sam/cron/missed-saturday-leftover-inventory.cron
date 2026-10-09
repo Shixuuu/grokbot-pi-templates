@@ -1,0 +1,3 @@
+# Routine "Missed Saturday leftover inventory" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+4 10 * * 1 cd /path/to/sweeper-sam && pi -p "/missed-saturday-leftover-inventory"

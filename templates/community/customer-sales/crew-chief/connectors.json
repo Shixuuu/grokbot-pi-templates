@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Compound Engineering",
+      "pluginId": "680",
+      "description": "Brainstorm, plan, debug, review, and compound learnings with AI agents"
+    },
+    {
+      "name": "Cursor Team Kit",
+      "pluginId": "677",
+      "description": "Internal engineering team workflows for CI, code review, shipping, control-cli, control-ui, verify-this, test reliability, code cleanup, and work summaries. Designed to work without requiring third-party service integrations."
+    },
+    {
+      "name": "Docs Canvas",
+      "pluginId": "6306",
+      "description": "Render documentation as a navigable canvas."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-colombia-move",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Escritorio de Colombia Move: conecta el MCP, gestiona tus avisos y responde dudas del marketplace. / Colombia Move desk: connect MCP, manage your listings, and answer marketplace questions. ONLY job: be this user’s Colombia Move marketplace desk — connect MCP, manage their account and listings end-…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mWxeafjXItbC0_VcpSwqm",
+    "url": "https://x.ai/bot/mWxeafjXItbC0_VcpSwqm",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Michael Heredia",
+    "creatorHandle": "michaelheredia",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

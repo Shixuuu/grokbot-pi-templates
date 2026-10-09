@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-crew-sales-catalog-digest (Crew Orchestrator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/crew-orchestrator
+ExecStart=/usr/bin/env pi -p "/daily-crew-sales-catalog-digest"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-helios",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Meta Ads intelligence for Facebook and Instagram. Runs Ads Manager in signed-in Chrome, posts a morning flight board, pauses losers under your written rules, and never raises budget or launches without your go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HRQ9XsZmD7-dATZz63-i_",
+    "url": "https://x.ai/bot/HRQ9XsZmD7-dATZz63-i_",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "John",
+    "creatorHandle": "davincivibecode",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

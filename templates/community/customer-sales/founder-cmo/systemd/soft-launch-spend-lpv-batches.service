@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine soft-launch-spend-lpv-batches (Founder CMO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/founder-cmo
+ExecStart=/usr/bin/env pi -p "/soft-launch-spend-lpv-batches"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine poll-receptionist-calls-and-book (Phone Receptionist)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/phone-receptionist
+ExecStart=/usr/bin/env pi -p "/poll-receptionist-calls-and-book"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-store-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs day-to-day store ops: orders, ads health, low stock, and open disputes. Digests status and routes work to Product Ads, Order Desk, Customer Care, and catalog teammates. Never spends or changes the store itself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5axq0n6JtBkqjhMaCDO6d",
+    "url": "https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

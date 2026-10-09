@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dan-lanning",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery calls. Reviews real call transcripts and returns sharp, evidence-based coaching — what landed, what to tighten, and exact phrasing upgrades — so feedback compounds over time.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1xyC1R0zvv2vKTQHLzYWS",
+    "url": "https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Jenna Nanpei",
+    "creatorHandle": "jennananpei",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

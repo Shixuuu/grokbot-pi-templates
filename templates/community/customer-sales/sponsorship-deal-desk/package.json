@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-sponsorship-deal-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A creator sponsorship deal desk. It qualifies inbound, sends a locked first-reply on new rate-asks, and holds exceptions for a human. Built for operators who want consistent commercial terms without giving the bot free send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bFrGNsUsXpsIfnCIUEvKy",
+    "url": "https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Eric Siu",
+    "creatorHandle": "ericosiu",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

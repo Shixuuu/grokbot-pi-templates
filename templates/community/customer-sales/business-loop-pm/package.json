@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-business-loop-pm",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Operates Acquire → Monetize → Retain for Launch (Level 1 Solopreneur Pack). Gates on Deployment=Done and human-approved Offer + Price; never invents leads.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "buqKPC6jkQxBPdY93HL-w",
+    "url": "https://x.ai/bot/buqKPC6jkQxBPdY93HL-w",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Ash Naik",
+    "creatorHandle": "ashvinn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

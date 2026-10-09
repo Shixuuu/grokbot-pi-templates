@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine radar-30-min-reply-sweep (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-qdixzo
+ExecStart=/usr/bin/env pi -p "/radar-30-min-reply-sweep"

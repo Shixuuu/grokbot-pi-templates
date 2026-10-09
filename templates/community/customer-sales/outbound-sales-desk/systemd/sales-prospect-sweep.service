@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sales-prospect-sweep (Outbound Sales Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/outbound-sales-desk
+ExecStart=/usr/bin/env pi -p "/sales-prospect-sweep"

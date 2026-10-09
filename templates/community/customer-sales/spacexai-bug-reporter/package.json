@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-spacexai-bug-reporter",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Prepares paste-ready SpaceXAI / xAI / Grok bug reports for official Report an issue, billing, API, and X Help Center paths. Does not file tickets.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "g_xmlbEvupO0b1Emk9ohZ",
+    "url": "https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Fine_Computer_4451",
+    "creatorHandle": "Fine_4451",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

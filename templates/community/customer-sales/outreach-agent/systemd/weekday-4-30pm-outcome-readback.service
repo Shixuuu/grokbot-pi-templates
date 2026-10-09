@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-4-30pm-outcome-readback (Outreach Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/outreach-agent
+ExecStart=/usr/bin/env pi -p "/weekday-4-30pm-outcome-readback"

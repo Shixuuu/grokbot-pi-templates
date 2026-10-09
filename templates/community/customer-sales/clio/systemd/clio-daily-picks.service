@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine clio-daily-picks (Clio)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/clio
+ExecStart=/usr/bin/env pi -p "/clio-daily-picks"

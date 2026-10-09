@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-crowdreply-finder",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds and verifies the people who can add a mention on shortlisted editorial pages. Read-only: never emails anyone, never invents generic inboxes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5HgM7_cL2xIikkIxLa_4v",
+    "url": "https://x.ai/bot/5HgM7_cL2xIikkIxLa_4v",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Dawood Khan",
+    "creatorHandle": "dawoodkhan254",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

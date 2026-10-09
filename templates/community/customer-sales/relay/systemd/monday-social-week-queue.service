@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-social-week-queue (Relay)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/relay
+ExecStart=/usr/bin/env pi -p "/monday-social-week-queue"

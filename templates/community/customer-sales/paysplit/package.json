@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-paysplit",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Tracks shared costs for group trips, events, and gifts - reads payments confirmations from apps worldwide, and quietly nudges late payers. Can also track one-on-one debts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RaGMQSYjhYObHyGSKlEvn",
+    "url": "https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Dr. Misty Melillo",
+    "creatorHandle": "SurrealSpin",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

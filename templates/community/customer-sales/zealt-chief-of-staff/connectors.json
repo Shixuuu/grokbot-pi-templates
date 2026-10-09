@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Firebase",
+      "pluginId": "3777",
+      "description": "The official Firebase Cursor plugin. Prototype, build, and run modern apps with Firebase's backend and AI infrastructure."
+    }
+  ]
+}

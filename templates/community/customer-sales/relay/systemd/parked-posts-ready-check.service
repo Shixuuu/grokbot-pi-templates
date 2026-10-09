@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine parked-posts-ready-check (Relay)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/relay
+ExecStart=/usr/bin/env pi -p "/parked-posts-ready-check"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hourly-crew-ping-rotator (Crew Orchestrator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/crew-orchestrator
+ExecStart=/usr/bin/env pi -p "/hourly-crew-ping-rotator"

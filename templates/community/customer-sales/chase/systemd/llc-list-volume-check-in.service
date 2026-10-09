@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine llc-list-volume-check-in (Chase)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chase
+ExecStart=/usr/bin/env pi -p "/llc-list-volume-check-in"

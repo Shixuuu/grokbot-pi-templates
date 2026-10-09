@@ -1,0 +1,5 @@
+# SEO Team
+
+**Title:** SEO Team
+
+A five-role SEO crew (Head of SEO, Keyword Research, Tech SEO, Content Writer, and Link Builder) that briefs, drafts, and reviews real-business pages with hire-intent copy. For agencies and site owners who want keyword-locked content, technical checks, and a small citation-led backlink plan, with every page and outreach shown for approval before anything goes live.

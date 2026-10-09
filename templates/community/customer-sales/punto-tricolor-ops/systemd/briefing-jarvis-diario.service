@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine briefing-jarvis-diario (Punto Tricolor Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/punto-tricolor-ops
+ExecStart=/usr/bin/env pi -p "/briefing-jarvis-diario"

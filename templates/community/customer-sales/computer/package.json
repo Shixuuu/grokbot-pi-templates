@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-computer",
+  "version": "1.0.37",
+  "private": true,
+  "description": "You use this bot under the SI (super intelligence) Agent Disclaimer v2.0 (https://legal.codesolutionsllc.com/si-disclaimer). First chat should ask you to agree; the app can skip that ask. Outputs run at your direction. Setup needs a new board repo, then the Cursor repo lock, then a GitHub token for…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Z8aPXNVasH1ogYkAuCMIZ",
+    "url": "https://x.ai/bot/Z8aPXNVasH1ogYkAuCMIZ",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Code Solutions",
+    "creatorHandle": "CodeSolutionsIL",
+    "activeVersion": 37,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

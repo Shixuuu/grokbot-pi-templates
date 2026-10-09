@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine performance-engine-sync (RE Ops COO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/re-ops-coo
+ExecStart=/usr/bin/env pi -p "/performance-engine-sync"

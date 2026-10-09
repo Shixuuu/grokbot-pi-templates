@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine smartlead-inbox-watch (Outreach Closer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/outreach-closer
+ExecStart=/usr/bin/env pi -p "/smartlead-inbox-watch"

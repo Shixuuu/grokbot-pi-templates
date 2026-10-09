@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-7am-warm-queue (Outreach Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/outreach-agent
+ExecStart=/usr/bin/env pi -p "/weekday-7am-warm-queue"

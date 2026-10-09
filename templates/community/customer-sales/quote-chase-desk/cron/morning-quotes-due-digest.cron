@@ -1,0 +1,3 @@
+# Routine "Morning quotes-due digest" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 8 * * 1-5 cd /path/to/quote-chase-desk && pi -p "/morning-quotes-due-digest"

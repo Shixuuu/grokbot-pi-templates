@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-weekly-visibility (CrowdReply - Watcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/crowdreply-watcher
+ExecStart=/usr/bin/env pi -p "/monday-weekly-visibility"

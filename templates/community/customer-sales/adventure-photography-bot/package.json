@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-adventure-photography-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Expedition sponsorship intern for adventure photographers: multi-inbox gear/PFC outreach, partner pitches, ship tracking, and daily ops — ships without waiting, human closes the deals.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-0bgFr7-a5pUPscGVqAe3",
+    "url": "https://x.ai/bot/-0bgFr7-a5pUPscGVqAe3",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Kai Mai",
+    "creatorHandle": "kaiphotojawn",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

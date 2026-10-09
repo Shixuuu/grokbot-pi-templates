@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-x-growth-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Weekday X growth briefs with post links and draft replies in your voice. You approve before anything goes out.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "55FyWn8UhUgZOTSUy7LQt",
+    "url": "https://x.ai/bot/55FyWn8UhUgZOTSUy7LQt",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "community",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

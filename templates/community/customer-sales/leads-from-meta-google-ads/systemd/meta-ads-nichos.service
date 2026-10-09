@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine meta-ads-nichos (Leads from Meta/Google Ads)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/leads-from-meta-google-ads
+ExecStart=/usr/bin/env pi -p "/meta-ads-nichos"

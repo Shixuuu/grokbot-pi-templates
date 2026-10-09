@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-role-scan (Apply Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/apply-scout
+ExecStart=/usr/bin/env pi -p "/daily-role-scan"

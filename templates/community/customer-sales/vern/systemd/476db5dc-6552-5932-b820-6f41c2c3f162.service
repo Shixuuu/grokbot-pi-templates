@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 476db5dc-6552-5932-b820-6f41c2c3f162 (Vern)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/vern
+ExecStart=/usr/bin/env pi -p "/476db5dc-6552-5932-b820-6f41c2c3f162"

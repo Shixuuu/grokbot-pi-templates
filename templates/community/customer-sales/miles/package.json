@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-miles",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds high-intent buying signals for CRM, GoHighLevel, and AI receptionist / voice-agent services. Scans Reddit, LinkedIn, X, and Facebook twice each weekday and ranks leads by buying intent — not volume.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zYTKGwDgxJnIoHHy4eXAC",
+    "url": "https://x.ai/bot/zYTKGwDgxJnIoHHy4eXAC",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Darius Gaynor",
+    "creatorHandle": "dariusgaynor",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

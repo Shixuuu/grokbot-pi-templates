@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gtm-chief-of-staff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of staff for enterprise sales. Owns meeting prep, inbox, and post-call drafts, and coordinates specialist bots for decks and other GTM work. Never sends or changes anything in Salesforce or any CRM without the owner.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "r9Svkbs3dN6CY1Iy_Au4b",
+    "url": "https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "creatorHandle": "thekuchh",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

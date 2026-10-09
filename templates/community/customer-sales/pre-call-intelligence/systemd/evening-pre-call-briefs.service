@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-pre-call-briefs (Pre-Call Intelligence)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pre-call-intelligence
+ExecStart=/usr/bin/env pi -p "/evening-pre-call-briefs"

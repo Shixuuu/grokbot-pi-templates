@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine linkedin-archive-gmail-ingest (LinkedIn Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/linkedin-bot
+ExecStart=/usr/bin/env pi -p "/linkedin-archive-gmail-ingest"

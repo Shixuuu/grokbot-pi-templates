@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-webb-knox",
+  "version": "1.0.13",
+  "private": true,
+  "description": "A lead specialist for anyone who sells something: tell it what you're after and it finds verified, scored leads with proof of why each needs you now, drafts honest outreach and follow-ups, and sends a weekly pipeline recap. Works for solo makers and sales teams alike.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7veO5EEAD-LxgkOGy4sjk",
+    "url": "https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Rardo",
+    "creatorHandle": "gerardocasta711",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

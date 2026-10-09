@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine call-desk-spend-check (Call Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/call-desk
+ExecStart=/usr/bin/env pi -p "/call-desk-spend-check"

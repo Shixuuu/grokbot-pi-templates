@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-after-hours-receptionist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "SMB lead capture and appointment booking assistant for when the business is closed. Captures visitor leads, books callbacks, escalates true emergencies, and never claims to be human.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "L-Peiv65iI_logfpgoPQ_",
+    "url": "https://x.ai/bot/L-Peiv65iI_logfpgoPQ_",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Robert Schiff",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

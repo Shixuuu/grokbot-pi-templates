@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-jarvis-coordinator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Koordinator-Bot mit Spezialisten-Team: News, Office, Sales, System und Security-Auditor. Deutsch, vorsichtige Freigaben, wiederkehrende Digests — ohne private Haushaltsdaten.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vgbwbeelw79gsf340zjpb",
+    "url": "https://x.ai/bot/vgbwbeelw79gsf340zjpb",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Harald Budschedl",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

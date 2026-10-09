@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-linkedin-leads",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Busca leads en LinkedIn en publicaciones y comentarios a partir de las palabras clave que le des, con filtros de incluir/excluir opcionales.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-BdTEtBnZEq9K1ef-bn6W",
+    "url": "https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Angel Espinoza",
+    "creatorHandle": "angelesp",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

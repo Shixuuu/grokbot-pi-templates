@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-geo-seo-optimierung",
+  "version": "1.0.1",
+  "private": true,
+  "description": "GEO- und SEO-Assistent für Unternehmenswebsites: Sichtbarkeit in Suchmaschinen und generativen Engines verbessern, Landingpages und technische Basis schärfen.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RbJ2x4neT6ePfZbz22spM",
+    "url": "https://x.ai/bot/RbJ2x4neT6ePfZbz22spM",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Christian Reik",
+    "creatorHandle": "christian_reik",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

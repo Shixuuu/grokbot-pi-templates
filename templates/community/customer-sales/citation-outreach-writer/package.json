@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-citation-outreach-writer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Writes short mention-outreach emails and loads them into a Smartlead draft sequence. For teams who want a citation in an existing roundup, not a guest post. Never sends.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "L4sWZ2981T7YzegQffkVz",
+    "url": "https://x.ai/bot/L4sWZ2981T7YzegQffkVz",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Dawood Khan",
+    "creatorHandle": "dawoodkhan254",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Monday.com",
+      "pluginId": "21010834",
+      "description": "Seven skills for monday CRM users — first-run setup, morning briefings, forecast dashboards, board diagnosis, bulk data hygiene, workspace setup, and meeting-to-opportunity sync. Each skill publishes a monday artifact (update, doc, or dashboard) so work stays inside monday. Composes the official monday MCP connector; no custom server, no new auth."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Slack MCP server. Search channels, send messages, and perform other Slack actions through MCP-compatible clients."
+    }
+  ]
+}

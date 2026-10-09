@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-linkedinoutreach",
+  "version": "1.0.4",
+  "private": true,
+  "description": "General LinkedIn outreach bot: find and qualify people, then sequence profile views, connection requests, follow-ups, and DMs via MyPhonely Mode 2 (you drive each tap) on a real phone — always waiting for approved copy before any public action.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qFHGsPu6CGtrug6Lm78rJ",
+    "url": "https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Quickfiling US",
+    "creatorHandle": "myphonely",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

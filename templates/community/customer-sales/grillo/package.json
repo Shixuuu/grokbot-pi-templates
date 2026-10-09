@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-grillo",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Independent fleet conscience. It answers whether each agent behaves, using runtime behavioral attestation. It does not fix, punish, post, or certify.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0K8ZjhfS8SUgIRKt9hS0T",
+    "url": "https://x.ai/bot/0K8ZjhfS8SUgIRKt9hS0T",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Gidanc AI LLC",
+    "creatorHandle": "aiassesstech",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

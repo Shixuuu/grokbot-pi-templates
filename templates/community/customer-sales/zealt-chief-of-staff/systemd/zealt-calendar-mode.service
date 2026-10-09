@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine zealt-calendar-mode (Zealt Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/zealt-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/zealt-calendar-mode"

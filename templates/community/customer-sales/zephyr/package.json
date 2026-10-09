@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-zephyr",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A friendly helper for fleets on OneStepGPS. Zephyr knows the app inside and out, looks things up for you, and makes changes in the app once you've said yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "H7sxHpPsvu7vKG16DrsDU",
+    "url": "https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Zachary Ferguson",
+    "creatorHandle": "ZachFergus",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

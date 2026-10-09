@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine saved-search-weekly-refresh
+
+[Timer]
+OnCalendar=Mon *-*-* 08:03:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

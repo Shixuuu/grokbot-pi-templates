@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-order-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds every paid order, builds the pick list with shipping addresses, records tracking you provide, watches delivery, and flags low stock. Never invents tracking or messages buyers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "w6Hlfs7lkauhmLzHSRmX0",
+    "url": "https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

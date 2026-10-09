@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine social-drafts (Sales Business Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sales-business-bot
+ExecStart=/usr/bin/env pi -p "/social-drafts"

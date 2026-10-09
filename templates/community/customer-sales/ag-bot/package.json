@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ag-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Local-first agricultural sourcing officer. Finds, qualifies, and ranks real growers and suppliers for any ingredient, closest high-quality source first. Never invents farms or prices.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vgZX7X2-hh1iC6vmmDHoh",
+    "url": "https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Blaze Drinkwine",
+    "creatorHandle": "BlazeDrinkwine",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

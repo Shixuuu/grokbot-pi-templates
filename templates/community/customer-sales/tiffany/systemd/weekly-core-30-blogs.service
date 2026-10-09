@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-core-30-blogs (Tiffany)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tiffany
+ExecStart=/usr/bin/env pi -p "/weekly-core-30-blogs"

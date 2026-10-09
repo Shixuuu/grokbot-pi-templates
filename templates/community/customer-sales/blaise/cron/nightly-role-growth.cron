@@ -1,0 +1,3 @@
+# Routine "Nightly role growth" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+21 21 * * * cd /path/to/blaise && pi -p "/nightly-role-growth"

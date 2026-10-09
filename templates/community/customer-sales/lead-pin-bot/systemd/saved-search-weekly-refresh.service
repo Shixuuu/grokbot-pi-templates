@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine saved-search-weekly-refresh (Lead Pin Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lead-pin-bot
+ExecStart=/usr/bin/env pi -p "/saved-search-weekly-refresh"

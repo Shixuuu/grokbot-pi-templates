@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-security-warden",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A careful second opinion before risky bot actions. Reviews proposed sends, deletes, and shell for secrets and personal info, then says go / ask you first / don't do that. Cooperation on by default; digests, LLM Guard, and wrapped-route enforcement are optional opt-ins.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Y3xV-T0yxz2UihvOrlIK6",
+    "url": "https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Mayur Darji",
+    "creatorHandle": "myrrazor",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

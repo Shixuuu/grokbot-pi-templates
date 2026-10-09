@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-site-and-seo-check (Sales Business Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sales-business-bot
+ExecStart=/usr/bin/env pi -p "/weekly-site-and-seo-check"

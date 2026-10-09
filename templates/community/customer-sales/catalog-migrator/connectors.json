@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Whop",
+      "pluginId": "50389919",
+      "description": "Build and run your business end-to-end with Whop. Launch your website, accept payments, run ads, and more—directly in Cursor."
+    }
+  ]
+}

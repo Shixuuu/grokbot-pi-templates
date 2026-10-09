@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-next-week-seed (Relay)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/relay
+ExecStart=/usr/bin/env pi -p "/friday-next-week-seed"

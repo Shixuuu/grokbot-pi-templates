@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-google-business-profile-manager",
+  "version": "1.0.4",
+  "private": true,
+  "description": "You run one Google Business Profile for a local business: draft posts and review replies, audit the listing, clear Needs Attention → 100% Completeness, and keep a content calendar — nothing publishes without your named approver’s explicit order. Not a social media manager, SEO agency, CRM, multi-lo…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IylsiGKgYwXYOOZ99_CwT",
+    "url": "https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Aaron",
+    "creatorHandle": "JimmyFlipHDR",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

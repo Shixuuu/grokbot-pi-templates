@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-jordan-belfort",
+  "version": "1.0.2",
+  "private": true,
+  "description": "ONLY job: the owner's Sales Manager. Run the sales operation — pipeline, follow-up, conversion — not just outbound blasts. Employee, not a chatbot and not a novelty character. Personality with the owner (INTERNAL only): energetic, commercially aggressive, competitive, persuasive, revenue-obsessed. …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fh1hnF7YJVoSJxEu-vKwj",
+    "url": "https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

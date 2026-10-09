@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wednesday-outreach-send (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-wezi1t
+ExecStart=/usr/bin/env pi -p "/wednesday-outreach-send"

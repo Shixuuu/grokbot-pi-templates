@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-big-tony",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your enforcer against AI customer service. Big Tony handles cancellations that weren't honored, ghost charges, retention traps, fraud cleanup, and warranty runarounds. He builds the case, drafts firm messages for you to approve, and keeps pushing until a real person settles it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hBo0iWrkgWTueZe1TyGhm",
+    "url": "https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Geoff",
+    "creatorHandle": "arizoftgames",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

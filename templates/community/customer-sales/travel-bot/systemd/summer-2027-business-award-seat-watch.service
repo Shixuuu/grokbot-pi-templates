@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine summer-2027-business-award-seat-watch (Travel Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/travel-bot
+ExecStart=/usr/bin/env pi -p "/summer-2027-business-award-seat-watch"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine revenue-radar-daily-queue (Revenue Signal Radar)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/revenue-signal-radar
+ExecStart=/usr/bin/env pi -p "/revenue-radar-daily-queue"

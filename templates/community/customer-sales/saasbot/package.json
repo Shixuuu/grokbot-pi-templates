@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-saasbot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A weekday operator for SaaS founders. It runs morning GTM prep, approved outbound, reply handling, QA, and new-user onboarding, and the same playbook can be pointed at another product.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "x6rbsbeylvq_i5k3zu4im",
+    "url": "https://x.ai/bot/x6rbsbeylvq_i5k3zu4im",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Daniel Foch",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

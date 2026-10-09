@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine outbound-list-refresh (Lookalike Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lookalike-scout
+ExecStart=/usr/bin/env pi -p "/outbound-list-refresh"

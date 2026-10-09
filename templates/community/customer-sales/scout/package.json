@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-scout",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds accounts already using the product that are ready for more: self-serve upgrades and sales PQLs. Learns from won and lost deals, scores usage plus company plus intent, and routes through a growth lead. Never contacts a customer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Axr06_abjVj29IjBhJrQ_",
+    "url": "https://x.ai/bot/Axr06_abjVj29IjBhJrQ_",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Jay Sahnan",
+    "creatorHandle": "JaySahnan",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

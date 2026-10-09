@@ -1,0 +1,3 @@
+# Routine "Award seat watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 8 * * 1-5 cd /path/to/travel-bot && pi -p "/summer-2027-business-award-seat-watch"

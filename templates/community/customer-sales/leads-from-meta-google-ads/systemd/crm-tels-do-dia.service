@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine crm-tels-do-dia (Leads from Meta/Google Ads)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/leads-from-meta-google-ads
+ExecStart=/usr/bin/env pi -p "/crm-tels-do-dia"

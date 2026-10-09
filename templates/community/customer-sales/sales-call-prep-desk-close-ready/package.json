@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-sales-call-prep-desk-close-ready",
+  "version": "1.0.4",
+  "private": true,
+  "description": "🎯 Walk into every call prepared: a cited brief on the account, discovery questions, objection handling and a clear next-step ask. It never writes to your CRM, and nothing is emailed without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8qpqcguvgupxg5rr4mwnl",
+    "url": "https://x.ai/bot/8qpqcguvgupxg5rr4mwnl",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

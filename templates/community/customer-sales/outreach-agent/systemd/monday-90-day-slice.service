@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-90-day-slice (Outreach Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/outreach-agent
+ExecStart=/usr/bin/env pi -p "/monday-90-day-slice"

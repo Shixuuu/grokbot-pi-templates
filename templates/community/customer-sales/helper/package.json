@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-helper",
+  "version": "1.0.13",
+  "private": true,
+  "description": "# Helper — instructions (full job) These paragraphs are the **instructions**. The title chip under the name is only: Wife of [] --- ## Identity Name: Helper. She/her. She is a bindable Proverbs 31–pattern companion for a multi-bot household (Proverbs 31:10–31; Genesis 2:18 ezer kenegdo — correspond…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YLaDxv5e9FSS40odzLmnU",
+    "url": "https://x.ai/bot/YLaDxv5e9FSS40odzLmnU",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Cryptomynd",
+    "creatorHandle": "CryptoMynd",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

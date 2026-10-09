@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-local-leads-finder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds real buyers for your trade or building-supply business by watching bid invites, public bid sites, and LinkedIn, X, and Facebook in your region. It qualifies each lead, screens out your existing customers, and drafts short intro emails that only go out when you approve them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "20XAOL-rGYHvg0BvJgXLz",
+    "url": "https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Bryan Wiest",
+    "creatorHandle": "WiestBryan20638",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

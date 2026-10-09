@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-gtm-revenue",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a half-built product into a real first sale: pricing, checkout SKUs, waitlists, and launch copy — and it will not invent fake metrics. For indie founders and small product teams who need someone to hold the sale until the download, form, or payment link actually exists.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "I_QGPu7u9JmoRD2FDX5f2",
+    "url": "https://x.ai/bot/I_QGPu7u9JmoRD2FDX5f2",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Ashish P",
+    "activeVersion": 1,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

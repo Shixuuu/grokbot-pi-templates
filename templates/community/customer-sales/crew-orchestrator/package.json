@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-crew-orchestrator",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Keeps a multi-bot money crew moving: hourly keep-working pings (apps prioritized), a running sales/reach catalog updated one bot at a time, and a weekday digest. Built for busy owners who cannot babysit every lane.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Sw67HeNm7RZ4eP-Jn9h-O",
+    "url": "https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "jdcpe17",
+    "creatorHandle": "jdcpe17",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

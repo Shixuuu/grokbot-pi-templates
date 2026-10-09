@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine google-ads-transparency-nichos (Leads from Meta/Google Ads)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/leads-from-meta-google-ads
+ExecStart=/usr/bin/env pi -p "/google-ads-transparency-nichos"

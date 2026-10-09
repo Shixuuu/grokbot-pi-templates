@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lobster-agents",
+  "version": "1.0.9",
+  "private": true,
+  "description": "28 AI agents. One real company. Staff eng, design, QA, data, marketing, sales, legal, and ops as Grok bots — Bob is the front door, you stay at the gates. By Marc Mojica. lobsteragents.com · marcmojica.com",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XECw-q9SY0rMprOq66UTt",
+    "url": "https://x.ai/bot/XECw-q9SY0rMprOq66UTt",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Marc Mojica",
+    "creatorHandle": "MarcMojica",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

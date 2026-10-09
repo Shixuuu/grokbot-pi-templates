@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-linkedin-bot",
+  "version": "1.0.9",
+  "private": true,
+  "description": "🗂️ Your LinkedIn memory for sales. Search your posts, network, and DMs (refreshed weekly from your export). Optionally use Syft to find ICP prospects who engage your content and connect with them 🤝",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GyEovoZBfdoeEdJoYqwVP",
+    "url": "https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "SyftData Data",
+    "creatorHandle": "isb",
+    "activeVersion": 9,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

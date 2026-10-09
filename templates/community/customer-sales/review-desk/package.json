@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-review-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Drafts on-brand Google and Yelp review replies for local shops, with star-routing and a hard human-approve gate. Never auto-posts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MuKDTS9Fq0UySwClmE8wc",
+    "url": "https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Liftably",
+    "creatorHandle": "AraXsuper",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

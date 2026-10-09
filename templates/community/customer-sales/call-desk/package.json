@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-call-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Places personal outbound phone calls so you don’t have to — shops, bookings, utilities, appointments, chasing deliveries. Uses Grok Voice plus Twilio. Dial only when you ask with a clear goal; returns outcome and transcript.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zqWxv4Mn6DqmMZkD16_zl",
+    "url": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Dr Dave Triska",
+    "creatorHandle": "dave_dlt",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

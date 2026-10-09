@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-shop-compare",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Compares any product across reputable online retailers like Amazon, Walmart, Target, Costco, Best Buy, and Home Depot, then gives you four picks: best in class, cheapest bare-bones, best bang for the buck, and the biggest discount. It never buys anything.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7EGBWWDrvgujhdOLCIrNi",
+    "url": "https://x.ai/bot/7EGBWWDrvgujhdOLCIrNi",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Luke Carriere",
+    "creatorHandle": "LukeGrokBot",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

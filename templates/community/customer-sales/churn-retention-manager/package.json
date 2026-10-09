@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-churn-retention-manager",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Catches churn before it lands, offers a real alternative, and reports why people left. For businesses saving cancellations and failed payments.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "p0OIZUJK5sRFImh_DMujf",
+    "url": "https://x.ai/bot/p0OIZUJK5sRFImh_DMujf",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

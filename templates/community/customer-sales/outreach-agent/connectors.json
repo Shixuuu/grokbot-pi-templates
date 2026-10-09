@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "HubSpot",
+      "pluginId": "49339689",
+      "description": "Search and update contacts, companies, deals, and tickets."
+    },
+    {
+      "name": "Clay",
+      "pluginId": "49110469",
+      "description": "Enrich people and companies, run AI research agents."
+    }
+  ]
+}

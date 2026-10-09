@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine afternoon-reply-sweep (Quote Chase Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/quote-chase-desk
+ExecStart=/usr/bin/env pi -p "/afternoon-reply-sweep"

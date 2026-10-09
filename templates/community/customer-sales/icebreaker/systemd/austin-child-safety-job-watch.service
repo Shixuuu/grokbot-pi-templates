@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine austin-child-safety-job-watch (Icebreaker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/icebreaker
+ExecStart=/usr/bin/env pi -p "/austin-child-safety-job-watch"

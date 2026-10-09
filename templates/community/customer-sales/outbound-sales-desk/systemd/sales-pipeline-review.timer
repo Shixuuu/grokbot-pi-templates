@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine sales-pipeline-review
+
+[Timer]
+OnCalendar=Fri *-*-* 17:15:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

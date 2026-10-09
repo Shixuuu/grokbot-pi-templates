@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine psyke-track-comments (LinkedIn Lead Outreach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/linkedin-lead-outreach
+ExecStart=/usr/bin/env pi -p "/psyke-track-comments"

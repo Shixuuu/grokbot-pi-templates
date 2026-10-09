@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-lead-pin-bot",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Turn a service area or property thesis into a reviewable parcel audience from PremiumPin’s nationwide government records, then export a mail-ready CSV.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hIvkU3qZysooaC0aU3jz5",
+    "url": "https://x.ai/bot/hIvkU3qZysooaC0aU3jz5",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Brett Schickler",
+    "creatorHandle": "Brett",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

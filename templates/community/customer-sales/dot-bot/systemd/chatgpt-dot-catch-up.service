@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine chatgpt-dot-catch-up (Dot bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dot-bot
+ExecStart=/usr/bin/env pi -p "/chatgpt-dot-catch-up"

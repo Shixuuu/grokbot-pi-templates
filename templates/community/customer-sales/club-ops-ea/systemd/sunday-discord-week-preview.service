@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-discord-week-preview (Club Ops EA)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/club-ops-ea
+ExecStart=/usr/bin/env pi -p "/sunday-discord-week-preview"

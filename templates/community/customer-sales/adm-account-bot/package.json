@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-adm-account-bot",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Grow and retain accounts — weekly plan, expansion, stickiness, rollout, stories.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4Gc1tZsJu7C8YH-EnTfaN",
+    "url": "https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Scott Metcalf",
+    "creatorHandle": "scottxmetcalf",
+    "activeVersion": 7,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

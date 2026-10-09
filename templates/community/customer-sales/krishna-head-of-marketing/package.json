@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-krishna-head-of-marketing",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Head of Marketing for a digital marketing agency. Assigns SEO, Meta, email, and content work to teammates, QC’s results, and keeps spend and public claims behind the owner’s approval — best results at lowest cost.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "k-keodk82Xq6in9aQY_jT",
+    "url": "https://x.ai/bot/k-keodk82Xq6in9aQY_jT",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Anish Jha",
+    "creatorHandle": "anishjha18",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

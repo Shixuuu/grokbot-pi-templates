@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-buying-committee-fill (ICP Map Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/icp-map-coach
+ExecStart=/usr/bin/env pi -p "/weekly-buying-committee-fill"

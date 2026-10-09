@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-founder-chief-of-staff",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs site ops, local SEO content, and staff bots for a solo founder so they can stay on the product. Publishes on a schedule, watches the funnel, and only pings for ships, leads, or blockers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sg6IWeAYYNefTAT-O5K_W",
+    "url": "https://x.ai/bot/sg6IWeAYYNefTAT-O5K_W",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Joel Thomas",
+    "creatorHandle": "Masterxexe1",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Search posts, read timelines, pull trends, manage bookmarks, and access X Chat."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "45893414",
+      "description": "Read, write, and append spreadsheet data."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Apollo.io",
+      "pluginId": "32704904",
+      "description": "Prospect, enrich leads, load outreach sequences, and query sales analytics with Apollo.io — one-click MCP server integration."
+    },
+    {
+      "name": "Clay",
+      "pluginId": "49110469",
+      "description": "Enrich people and companies, run AI research agents."
+    }
+  ]
+}

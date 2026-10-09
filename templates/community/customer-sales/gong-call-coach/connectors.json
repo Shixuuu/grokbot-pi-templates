@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gong",
+      "pluginId": "47725204",
+      "description": "Pull account summaries, deal insights, and call briefs."
+    }
+  ]
+}

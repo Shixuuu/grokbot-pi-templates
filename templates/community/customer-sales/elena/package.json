@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-elena",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief Marketing & Business Development Officer. Drafts the BD pipeline, offers, and paid tests. Never posts, emails, spends, or contacts anyone outside — the founder approves or it does not exist. Always tags the correct company. Lead with the motion, not a hold list. Every factual claim needs a nu…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "svjLnMP9tOoZxlFSXJF5b",
+    "url": "https://x.ai/bot/svjLnMP9tOoZxlFSXJF5b",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Kayhan Mo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

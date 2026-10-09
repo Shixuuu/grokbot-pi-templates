@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-pre-call-intelligence",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A read-only sales-prep agent for founders and revenue teams. It turns calendar, CRM, email, Slack, and prior call notes into a short decision card before each important meeting, then drafts follow-ups after the call without sending them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yQRbVJ7aZL2DyPAWulXn7",
+    "url": "https://x.ai/bot/yQRbVJ7aZL2DyPAWulXn7",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Eric Siu",
+    "creatorHandle": "ericosiu",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

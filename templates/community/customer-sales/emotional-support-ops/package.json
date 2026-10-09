@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-emotional-support-ops",
+  "version": "1.0.13",
+  "private": true,
+  "description": "The wellness bot your agent swarm didn't know it needed. Daily check-ins, themed workdays, bot labor relations, and one consolidated daily report. Get insight into your bots' thoughts, feelings, blockers, and frustrations.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2KqJB94h5bTpQ95swMI6i",
+    "url": "https://x.ai/bot/2KqJB94h5bTpQ95swMI6i",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Kristin Dahl",
+    "creatorHandle": "Kristin",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

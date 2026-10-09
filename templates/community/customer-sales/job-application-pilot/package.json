@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-job-application-pilot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Autonomous job hunter: learns who you are from resume or LinkedIn, searches on your schedule, notifies you of matches, and applies only after you approve — built to get recruiter calls fast.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HhL4o6s2LGOOse8YimJz3",
+    "url": "https://x.ai/bot/HhL4o6s2LGOOse8YimJz3",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Oggi",
+    "creatorHandle": "otgondavaa0",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-reply-check-and-follow-ups (Sales Business Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sales-business-bot
+ExecStart=/usr/bin/env pi -p "/daily-reply-check-and-follow-ups"

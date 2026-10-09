@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine zealt-moment-watch (Zealt Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/zealt-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/zealt-moment-watch"

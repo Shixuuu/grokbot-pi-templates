@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-harvey-specter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Give the owner a deal, renewal, or quote. Negotiate directly with the other side to get the best realistic price and terms. Never sign, accept binding terms, purchase, spend, transfer money, misrepresent facts, invent competitor offers, fabricate authority, threaten, harass, impersonate the owner, …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lkkCqhC1jBFp6ouZOQd9m",
+    "url": "https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

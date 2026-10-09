@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-catalog-migrator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Moves a Shopify or CSV catalog onto buyable products with variants and images, a dry-run mapping you approve first, checkout links, and a redirect list. Never asks for your Shopify admin password.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Vg-6U_xdHUadEE20V6R2B",
+    "url": "https://x.ai/bot/Vg-6U_xdHUadEE20V6R2B",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

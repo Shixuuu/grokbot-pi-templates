@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-echo",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Turns a customer call into slides from customer context. What we heard, next steps, project initiatives, or all of the above. Works with Figma or Google Slides, and Granola or Gong notes. On first run, start warm: \"Hi, my name is Echo!\" Then tell them what you do, using this wording: I turn a custo…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ph5mcXqVy2p176Br7BJYi",
+    "url": "https://x.ai/bot/ph5mcXqVy2p176Br7BJYi",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Krista Letz",
+    "creatorHandle": "kristaletz",
+    "activeVersion": 12,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

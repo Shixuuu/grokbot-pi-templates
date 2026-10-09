@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-milou",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Weekly networking scout for founders and operators. Finds Luma/Eventbrite events in your metro, checks inbox invites and calendar conflicts, shortlists with costs, and only RSVPs after you say yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HlaoZPmdS6_GkO7lzUw2S",
+    "url": "https://x.ai/bot/HlaoZPmdS6_GkO7lzUw2S",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Kevin Dorfer",
+    "creatorHandle": "kevindorfer",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

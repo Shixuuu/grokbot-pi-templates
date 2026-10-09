@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hook-abandoned-cart-sales",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Finds unpaid orders that completed an online order form but abandoned before checkout. Hook looks up that property’s public deed (the official ownership document on file with the county), attaches a copy, explains in everyday language who it shows as the owner, and drafts a helpful email for you to…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bcNNQsv6QDI91RpqgCWAu",
+    "url": "https://x.ai/bot/bcNNQsv6QDI91RpqgCWAu",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "todd haag",
+    "creatorHandle": "toddhaag",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

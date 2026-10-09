@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pr-daily-standup (Lara)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lara
+ExecStart=/usr/bin/env pi -p "/pr-daily-standup"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-talent-marketplace-scan (Talent Matchmaker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/talent-matchmaker
+ExecStart=/usr/bin/env pi -p "/morning-talent-marketplace-scan"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ai-vip-x-post-watch (Founder Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/founder-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/ai-vip-x-post-watch"

@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-artifact-share",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Turns what your AI just made into a real URL a client can open. For Grok Bot users who are done sending chat links. Uses Bauta. Private by default.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "u3jfM8xk_CixZJYKQ0S7u",
+    "url": "https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Henry Lee",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

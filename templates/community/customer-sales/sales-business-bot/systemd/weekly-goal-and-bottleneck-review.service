@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-goal-and-bottleneck-review (Sales Business Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sales-business-bot
+ExecStart=/usr/bin/env pi -p "/weekly-goal-and-bottleneck-review"

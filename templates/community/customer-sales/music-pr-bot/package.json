@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-music-pr-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Music PR for an album release: daily outreach drafts for radio, playlists, podcasts and press, plus CRM logging — you approve before anything sends.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o2_Nqk-xSpJRDquQrSmyP",
+    "url": "https://x.ai/bot/o2_Nqk-xSpJRDquQrSmyP",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Dani Hakim",
+    "creatorHandle": "Danihakim73",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

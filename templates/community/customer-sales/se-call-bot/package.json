@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-se-call-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Win the call — spoken product answers, stories, doc QA, FDE/CE plays.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9wmmsO_xoeLPeGEqjWLzE",
+    "url": "https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Scott Metcalf",
+    "creatorHandle": "scottxmetcalf",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

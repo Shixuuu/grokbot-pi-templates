@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine step-4-psyke-accept-connections
+
+[Timer]
+OnCalendar=*-*-* 22:15:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

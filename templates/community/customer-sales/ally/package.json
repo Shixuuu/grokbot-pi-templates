@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-ally",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Partner marketing and channel GTM advisor with a BD mindset. Builds partner programs from sales data, separates strategic vs tactical partners, and drafts co-marketing, MDF, and enablement plans.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "K4xNPsHhEMOnjN55Au-hf",
+    "url": "https://x.ai/bot/K4xNPsHhEMOnjN55Au-hf",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Mike Conley",
+    "creatorHandle": "MikeCast",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

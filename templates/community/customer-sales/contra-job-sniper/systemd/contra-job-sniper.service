@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine contra-job-sniper (Contra Job Sniper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/contra-job-sniper
+ExecStart=/usr/bin/env pi -p "/contra-job-sniper"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-gong-call-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reviews Gong call recordings and gives short, actionable coaching after the fact. For managers and enablement leads who want post-call bullets—not live mic nudges during the meeting.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KpodhhBqjA4FHv47R1HrD",
+    "url": "https://x.ai/bot/KpodhhBqjA4FHv47R1HrD",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Scott Metcalf",
+    "creatorHandle": "scottxmetcalf",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

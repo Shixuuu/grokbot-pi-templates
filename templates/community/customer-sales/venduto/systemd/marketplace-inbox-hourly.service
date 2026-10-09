@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine marketplace-inbox-hourly (Venduto)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/venduto
+ExecStart=/usr/bin/env pi -p "/marketplace-inbox-hourly"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine psyke-dm-send (LinkedIn Lead Outreach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/linkedin-lead-outreach
+ExecStart=/usr/bin/env pi -p "/psyke-dm-send"

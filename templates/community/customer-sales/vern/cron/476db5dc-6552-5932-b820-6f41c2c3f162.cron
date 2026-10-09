@@ -1,0 +1,3 @@
+# Routine "daily-kin-due" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+33 16 * * * cd /path/to/vern && pi -p "/476db5dc-6552-5932-b820-6f41c2c3f162"

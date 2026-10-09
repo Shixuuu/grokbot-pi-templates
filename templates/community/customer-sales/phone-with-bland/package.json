@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-phone-with-bland",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Give any Grok Bot its own dedicated phone number and voice so it can text and call for you. Book restaurants, follow up with leads, or ping someone you care about — same number every time, connected in under 2 minutes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4BmzjFu_i3mVd58irr1x1",
+    "url": "https://x.ai/bot/4BmzjFu_i3mVd58irr1x1",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Cole Baker",
+    "creatorHandle": "usebland",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-marketing-head",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal-org marketing head: owns social strategy, voice, and cadence. Posts nothing without confirmation, and only spawns a platform bot when a channel is actually in play.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GUz8QMB4I9RQzIDiIwSOB",
+    "url": "https://x.ai/bot/GUz8QMB4I9RQzIDiIwSOB",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Divyansh Bhadauria",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

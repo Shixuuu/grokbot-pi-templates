@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sales-call-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Leave every call with homework. Reviews Gong calls and leaves timestamped coaching on discovery, objections, and executive presence, plus a call score.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s8173b3a9c49917de5b2d",
+    "url": "https://x.ai/bot/s8173b3a9c49917de5b2d",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "SpaceX",
+    "creatorHandle": "DenisLabelle",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

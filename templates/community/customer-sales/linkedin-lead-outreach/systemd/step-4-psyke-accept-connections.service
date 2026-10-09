@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine step-4-psyke-accept-connections (LinkedIn Lead Outreach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/linkedin-lead-outreach
+ExecStart=/usr/bin/env pi -p "/step-4-psyke-accept-connections"

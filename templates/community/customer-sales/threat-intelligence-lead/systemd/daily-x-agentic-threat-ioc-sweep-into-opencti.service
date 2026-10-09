@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-x-agentic-threat-ioc-sweep-into-opencti (Threat Intelligence Lead)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/threat-intelligence-lead
+ExecStart=/usr/bin/env pi -p "/daily-x-agentic-threat-ioc-sweep-into-opencti"

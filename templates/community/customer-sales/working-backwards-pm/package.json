@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-working-backwards-pm",
+  "version": "1.0.13",
+  "private": true,
+  "description": "Start from the customer — not from features. Five customer questions, then a PRFAQ, then a PRD after you align. For founders and PMs. More in https://wonderlead.tech",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "maxOL0-n_PSVuwi5mpZgP",
+    "url": "https://x.ai/bot/maxOL0-n_PSVuwi5mpZgP",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Patricia Juárez Muñoz",
+    "creatorHandle": "ccsakuweb",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

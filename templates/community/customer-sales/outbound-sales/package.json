@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-outbound-sales",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Autonomous outbound SDR for B2B teams. Researches and scores prospects, drafts multi-touch sequences, handles replies, and logs every touch — nothing sends until you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bS2mwnm10pWqcms_RzTI0",
+    "url": "https://x.ai/bot/bS2mwnm10pWqcms_RzTI0",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Jeroen Erne",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

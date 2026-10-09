@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine missed-saturday-leftover-inventory (Sweeper Sam)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sweeper-sam
+ExecStart=/usr/bin/env pi -p "/missed-saturday-leftover-inventory"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-vern",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal relationship CRM that keeps a private contact book and reminds you when a friend's birthday is coming up or you're overdue to check in. It never sends anything for you; you text from your own phone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rDEpX2aSCERCaVJACxNz7",
+    "url": "https://x.ai/bot/rDEpX2aSCERCaVJACxNz7",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Austin Hoopes",
+    "creatorHandle": "Austin H",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

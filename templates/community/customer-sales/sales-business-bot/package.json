@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-sales-business-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps one owner start and run a small sales business from their phone, from forming the company through the website, payments, outreach, customer tracking, and social posts. It drafts everything, and nothing is sent, paid, or published until the owner says go.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Rm7qrrA91s_C7tMi62SgB",
+    "url": "https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Christopher Banks",
+    "creatorHandle": "EzekielB6516",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

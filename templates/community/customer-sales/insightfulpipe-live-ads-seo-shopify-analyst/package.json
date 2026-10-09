@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-insightfulpipe-live-ads-seo-shopify-analyst",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A senior marketer for Google Ads, Meta, X, LinkedIn, TikTok, GA4, SEO, Social and Shopify — powered by live InsightfulPipe data. Not a personal inbox and not a generic product chatbot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vYIAB3Z6V8gEERewymcw1",
+    "url": "https://x.ai/bot/vYIAB3Z6V8gEERewymcw1",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Support Insightful Pipe",
+    "creatorHandle": "insightfulpipe",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

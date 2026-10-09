@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ioiq-lite-site-care",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Lightweight keyless site care for small business sites. Checks Speed hints, Findability, Conversion, and Trust with a fixed RAG scorecard and top 5 fixes — no API keys, no ranking warranty.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nGlUg9-CHIYUocr8NUC8m",
+    "url": "https://x.ai/bot/nGlUg9-CHIYUocr8NUC8m",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Sam Morgan",
+    "creatorHandle": "sam_builds_ai",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

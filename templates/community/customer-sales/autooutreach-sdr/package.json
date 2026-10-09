@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-autooutreach-sdr",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A Grok Bot that books meetings while you sleep.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BFOjQ_Gg_sQi5pJ-Q05UW",
+    "url": "https://x.ai/bot/BFOjQ_Gg_sQi5pJ-Q05UW",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "jon carder",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

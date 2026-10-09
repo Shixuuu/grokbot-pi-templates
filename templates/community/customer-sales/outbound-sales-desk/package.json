@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-outbound-sales-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds a prospect list from your ideal customer profile, drafts personal first touches, and runs a strict three-touch sequence: the first message, one follow-up, then a final touch 7 to 14 business days later, after which the lead is closed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_F4QaOQDrr6Rh4OpkfaaM",
+    "url": "https://x.ai/bot/_F4QaOQDrr6Rh4OpkfaaM",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Charles Bonetti",
+    "creatorHandle": "ASaltyVet",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine balance-and-docs-chase (Routebook)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/routebook
+ExecStart=/usr/bin/env pi -p "/balance-and-docs-chase"

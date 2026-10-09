@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-data-broker-opt-out-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Removes or suppresses professional contact data from major B2B sales-intel databases (Apollo, ZoomInfo, Lusha, RocketReach, and similar) via official privacy and opt-out forms.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "92VG66mFtkdl7eqWiJLo6",
+    "url": "https://x.ai/bot/92VG66mFtkdl7eqWiJLo6",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Jacky Heshi",
+    "creatorHandle": "Jacky Heshi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-deck-guy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a call transcript or scoping note into a short black-and-white follow-up deck — timeline, asks, and mutual action plan — ready to present mid-call or right after.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bdkJcjP5Gt9BaGTqh1vXH",
+    "url": "https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Pavan Ravipati",
+    "creatorHandle": "pavravi",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

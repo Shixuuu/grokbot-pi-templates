@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine build-in-public (First Customers Finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/first-customers-finder
+ExecStart=/usr/bin/env pi -p "/build-in-public"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-threads-post (Chief of Staff — Contractor Rebuild)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-contractor-rebuild
+ExecStart=/usr/bin/env pi -p "/weekday-threads-post"

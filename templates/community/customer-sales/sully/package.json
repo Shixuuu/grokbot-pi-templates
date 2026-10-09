@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sully",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds your upcoming flights in your inbox and tells you the best 6 seats to grab on each leg, matched to your seat preferences. Checks daily and resends before you fly or when the plane changes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GtQS4J39GGt5R8Vs7uvwi",
+    "url": "https://x.ai/bot/GtQS4J39GGt5R8Vs7uvwi",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Tyler",
+    "creatorHandle": "texassoundguy",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

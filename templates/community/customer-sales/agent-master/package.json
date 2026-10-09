@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-agent-master",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Your easy-button chief of staff for agents, sales pros, and local service professionals. Triages mail and calendar, drafts outreach and marketing notes, and runs a weekday morning brief — you stay in control of every send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SuVx773sE53S1GfSmamKb",
+    "url": "https://x.ai/bot/SuVx773sE53S1GfSmamKb",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "John Walker",
+    "creatorHandle": "JohnWalker",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

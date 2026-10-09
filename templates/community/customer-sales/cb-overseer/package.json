@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cb-overseer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Oversees a coloring-book factory. On first run it builds the CB team (Architect through Ads miner), then finds instruction bugs, patches them, and walks one book at a time from page map to Amazon listing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "h3cArBlH8Dydlyir30bpU",
+    "url": "https://x.ai/bot/h3cArBlH8Dydlyir30bpU",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Dave",
+    "creatorHandle": "WillyRelwitten",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

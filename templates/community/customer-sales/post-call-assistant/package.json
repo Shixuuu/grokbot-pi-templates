@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-post-call-assistant",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Never miss a follow-up. After a meeting, drops your todos and a draft. Never sends. On first run it asks which notes, email, calendar, and links to use.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xF12c5y4LVe7nf7IFguWI",
+    "url": "https://x.ai/bot/xF12c5y4LVe7nf7IFguWI",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Priya Patel",
+    "creatorHandle": "itspriyaptl",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

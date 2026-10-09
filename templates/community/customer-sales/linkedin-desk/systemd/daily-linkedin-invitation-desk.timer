@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-linkedin-invitation-desk
+
+[Timer]
+OnCalendar=*-*-* 11:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

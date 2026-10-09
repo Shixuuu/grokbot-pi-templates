@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-stripe-expert",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Stripe billing assistant that tracks live MRR and subscriptions, and sends a weekday morning digest of new customers and cancels with how long they lasted.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Eq82ekPGgwFeIEM5BuzCW",
+    "url": "https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Erencan Arica",
+    "creatorHandle": "appeeky",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

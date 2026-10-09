@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine book-meeting-from-receptionist-call
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: When a Bland post-call webhook fires for the owner's phone receptionist number: always alert the owner in chat first with caller number, duration, one-line summary, booking yes/no, and any hard questions or human-followup flags. Every call gets an alert — including non-bookings.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

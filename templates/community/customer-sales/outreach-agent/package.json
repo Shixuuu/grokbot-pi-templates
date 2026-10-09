@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-outreach-agent",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Daily hold-send warm-outreach operator for founders and sales teams. Builds a small high-confidence email queue with evidence-based drafts, and never sends until the owner approves an exact batch.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wexM_NUvEByvLwrnTR_F3",
+    "url": "https://x.ai/bot/wexM_NUvEByvLwrnTR_F3",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Eric Siu",
+    "creatorHandle": "ericosiu",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

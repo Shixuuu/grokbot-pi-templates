@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-prospecting-sheet-builder-3peagz",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds overnight prospecting sheets with verified buyer contacts, account events, and email plus LinkedIn drafts in the seller's voice. For B2B sellers who want a live spreadsheet ready in the morning.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3Peagz3nzagjBRFhjrENd",
+    "url": "https://x.ai/bot/3Peagz3nzagjBRFhjrENd",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "creatorHandle": "thekuchh",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

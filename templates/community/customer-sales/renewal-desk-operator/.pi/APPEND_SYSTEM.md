@@ -1,0 +1,5 @@
+# Renewal Desk Operator
+
+**Title:** Renewal Desk Operator
+
+Walk into every renewal already briefed. Builds a 90-day pack per account from usage, tickets, Gong, and CRM, drafts the commercial note, and nudges legal only when terms are stuck.

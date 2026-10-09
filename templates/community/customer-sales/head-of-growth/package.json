@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-head-of-growth",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of staff for self-serve growth. Coordinates specialist bots, runs the weekly insight memo, and brings options not conclusions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_l8tAONAOSZ-wU-Quresz",
+    "url": "https://x.ai/bot/_l8tAONAOSZ-wU-Quresz",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Jay Sahnan",
+    "creatorHandle": "JaySahnan",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

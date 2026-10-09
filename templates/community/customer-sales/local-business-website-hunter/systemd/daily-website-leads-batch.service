@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-website-leads-batch (Local Business Website Hunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/local-business-website-hunter
+ExecStart=/usr/bin/env pi -p "/daily-website-leads-batch"

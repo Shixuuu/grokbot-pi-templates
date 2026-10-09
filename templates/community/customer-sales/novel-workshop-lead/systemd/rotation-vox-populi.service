@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine rotation-vox-populi (Novel Workshop Lead)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/novel-workshop-lead
+ExecStart=/usr/bin/env pi -p "/rotation-vox-populi"

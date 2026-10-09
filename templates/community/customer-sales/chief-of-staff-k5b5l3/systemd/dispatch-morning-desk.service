@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine dispatch-morning-desk (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-k5b5l3
+ExecStart=/usr/bin/env pi -p "/dispatch-morning-desk"

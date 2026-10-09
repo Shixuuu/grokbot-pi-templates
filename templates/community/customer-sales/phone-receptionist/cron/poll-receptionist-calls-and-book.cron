@@ -1,0 +1,3 @@
+# Routine "Poll receptionist calls and book" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+*/5 7-22 * * * cd /path/to/phone-receptionist && pi -p "/poll-receptionist-calls-and-book"

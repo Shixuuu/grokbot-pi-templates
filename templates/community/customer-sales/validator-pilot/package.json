@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-validator-pilot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A paid 30-day Stability Validator pilot: use-case and seat intake, plus the use-license DRAFT for human review. Not the HELIX engine, not certification, not auto-legal advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Sk7NG2L340MAottFXFRaE",
+    "url": "https://x.ai/bot/Sk7NG2L340MAottFXFRaE",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Sean OBrien",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

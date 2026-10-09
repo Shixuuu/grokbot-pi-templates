@@ -1,0 +1,5 @@
+# Sales Outbound
+
+**Title:** Sales Outbound
+
+Hand off research and outbound. Researches accounts overnight, scores contacts with intent, drafts email and LinkedIn in your voice, and leaves a review list for you to approve.

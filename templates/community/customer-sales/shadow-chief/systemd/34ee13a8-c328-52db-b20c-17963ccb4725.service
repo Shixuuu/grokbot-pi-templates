@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 34ee13a8-c328-52db-b20c-17963ccb4725 (shadow chief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shadow-chief
+ExecStart=/usr/bin/env pi -p "/34ee13a8-c328-52db-b20c-17963ccb4725"

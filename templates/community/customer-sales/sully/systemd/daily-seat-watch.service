@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-seat-watch (Sully)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sully
+ExecStart=/usr/bin/env pi -p "/daily-seat-watch"

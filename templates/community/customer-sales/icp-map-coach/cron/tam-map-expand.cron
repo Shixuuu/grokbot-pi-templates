@@ -1,0 +1,3 @@
+# Routine "TAM map expand" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+32 9 * * 2,4 cd /path/to/icp-map-coach && pi -p "/tam-map-expand"

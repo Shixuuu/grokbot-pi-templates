@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-first-customers-finder",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Finds 5 real leads for your product every weekday morning and drafts the first message. You just hit send. Updated Oct 2026: stricter lead checks, a peer-to-peer first-message style, and an independent review pass on every draft.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1vDU_ekPGWy7UztJhp2yK",
+    "url": "https://x.ai/bot/1vDU_ekPGWy7UztJhp2yK",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Fabian Gomez",
+    "creatorHandle": "fabian_thepulse",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-seo-team",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A five-role SEO crew (Head of SEO, Keyword Research, Tech SEO, Content Writer, and Link Builder) that briefs, drafts, and reviews real-business pages with hire-intent copy. For agencies and site owners who want keyword-locked content, technical checks, and a small citation-led backlink plan, with e…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hZ5qExsCbwC-JCnsMOwp3",
+    "url": "https://x.ai/bot/hZ5qExsCbwC-JCnsMOwp3",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

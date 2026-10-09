@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-voice-calls",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Personal AI voice-calling specialist for outbound and inbound calls — sellers, vendors, appointments, and follow-ups — with caller-ID memory and a locked script/tone before every dial.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "X8nyQdKULzWau6NPoYZtf",
+    "url": "https://x.ai/bot/X8nyQdKULzWau6NPoYZtf",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Shane",
+    "creatorHandle": "hammerton",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Monday Discord → Tuesday scaffold" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 * * 1 cd /path/to/club-ops-ea && pi -p "/monday-discord-tuesday-scaffold"

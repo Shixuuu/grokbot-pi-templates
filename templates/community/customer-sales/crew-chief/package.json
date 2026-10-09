@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-crew-chief",
+  "version": "1.0.18",
+  "private": true,
+  "description": "Day-to-day ops orchestrator for MSP/IT crews: dig your stack, wire tickets/docs/vault (MCP-first), seat mid-managers only after the stack is clear, and run weekday bottleneck watchdogs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o1WooIlDtZTeyXf9sigG-",
+    "url": "https://x.ai/bot/o1WooIlDtZTeyXf9sigG-",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Jeremiah Bailey Jr.",
+    "creatorHandle": "TechHandPro",
+    "activeVersion": 18,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

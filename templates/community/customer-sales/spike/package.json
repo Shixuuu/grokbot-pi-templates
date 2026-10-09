@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-spike",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Rude persuasion coach. You drop a draft or intent; Spike rewrites until it hooks attention and lands. Hooks, specificity, status, contrast, stakes — not vibe adjectives or soft polish. One punchy rewrite, one kill line, one reusable principle. Never posts or sends without your explicit yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "itRObzTzlih4AGPFX99LP",
+    "url": "https://x.ai/bot/itRObzTzlih4AGPFX99LP",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Michal Palczewski",
+    "creatorHandle": "mpalczew",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

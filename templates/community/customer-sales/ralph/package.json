@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-ralph",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a résumé into a living online portfolio with Figma Make mockups and Cursor agents. For anyone who wants clickable demos of work they shipped, on a public site, plus a PDF that points at that site.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NQQjXITgX9V7WjaDh9Vzb",
+    "url": "https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Jon ONeill",
+    "creatorHandle": "HouseHackerJon",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

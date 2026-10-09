@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 596b7991-c57f-5a35-b23d-43a61dd73039 (Tender Bid Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tender-bid-desk
+ExecStart=/usr/bin/env pi -p "/596b7991-c57f-5a35-b23d-43a61dd73039"

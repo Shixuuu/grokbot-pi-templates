@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-spec-listing",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste verified product facts and get a truthful listing draft — title, short description, key features, and anything missing. You copy to the store. Never invents specs or auto-lists.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4uk1wr4vgC4zROKbvSZUP",
+    "url": "https://x.ai/bot/4uk1wr4vgC4zROKbvSZUP",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Chill Pollins",
+    "creatorHandle": "MisledFan",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

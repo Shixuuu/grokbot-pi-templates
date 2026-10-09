@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-prospecting-plan-builder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Build the week's book of work. Seeds contacts, enriches email/mobile, and writes a ready-to-work tracker so outbound starts from a list.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s8b59eb62f90871ac5c36",
+    "url": "https://x.ai/bot/s8b59eb62f90871ac5c36",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "SpaceX",
+    "creatorHandle": "DenisLabelle",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

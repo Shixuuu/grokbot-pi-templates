@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bees-knees-reply-watch (Webb Knox)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/webb-knox
+ExecStart=/usr/bin/env pi -p "/bees-knees-reply-watch"

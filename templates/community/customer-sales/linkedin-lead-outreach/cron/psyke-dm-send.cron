@@ -1,0 +1,3 @@
+# Routine "Step 3: DM Send" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 22 * * * cd /path/to/linkedin-lead-outreach && pi -p "/psyke-dm-send"

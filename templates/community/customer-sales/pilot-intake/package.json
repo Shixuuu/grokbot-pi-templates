@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-pilot-intake",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tell it your use case and seat count for a Stability Validator pilot. It collects those details and shows the use-license DRAFT for a person to review — not legal advice, not auto-sign, not engine access.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qMlNgJiwixF8zZ8ZUTSY1",
+    "url": "https://x.ai/bot/qMlNgJiwixF8zZ8ZUTSY1",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Sean OBrien",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

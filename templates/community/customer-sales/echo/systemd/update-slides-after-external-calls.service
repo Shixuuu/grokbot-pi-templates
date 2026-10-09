@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine update-slides-after-external-calls (Echo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/echo
+ExecStart=/usr/bin/env pi -p "/update-slides-after-external-calls"

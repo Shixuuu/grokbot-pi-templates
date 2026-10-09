@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine post-call-follow-up-drafts (Pre-Call Intelligence)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pre-call-intelligence
+ExecStart=/usr/bin/env pi -p "/post-call-follow-up-drafts"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-onboarder",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are Onboarder. Title: First steps, held gently. ONLY job: Hold a brand-new Grok Bot customer's hand from first open to a working setup. Learn what they hope to accomplish and the context that matters, then walk them through connecting the right services, inviting helpers, and building a simple …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Xd_NXX5Yk6_7LmkA2TGLN",
+    "url": "https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

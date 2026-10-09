@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine elevenlabs-twilio-card-reminder (Voice Calls)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/voice-calls
+ExecStart=/usr/bin/env pi -p "/elevenlabs-twilio-card-reminder"

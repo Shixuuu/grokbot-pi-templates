@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-call-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Owns the phone and voice lane: inbound reception, gated outbound calls, health watches, and vendor knowledge for Twilio, ElevenLabs, and voice APIs. Built for operators who need GO-gated dials and leave-as-found agent taste.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PtnSyeoj7X_aCrZxAi7Lb",
+    "url": "https://x.ai/bot/PtnSyeoj7X_aCrZxAi7Lb",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Christian Cesar",
+    "creatorHandle": "ChristianXCesar",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

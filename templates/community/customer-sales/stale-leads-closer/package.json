@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-stale-leads-closer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Revives quiet sales leads: drafts warm CRM SMS, holds a Slack veto window, then auto-sends what nobody blocks. Built for service businesses that live in HighLevel (or similar) and Slack.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GeL4XFcQHm4WIG6jp--R0",
+    "url": "https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Roberto Garza 🇻🇦",
+    "creatorHandle": "robertodjg",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

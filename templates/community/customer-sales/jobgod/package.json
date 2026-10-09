@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-jobgod",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A single job-hunt coach for any field: wizard setup, Sheets tracker, gated scout digests, resume tailor on approval, and apply packets — you always click Apply.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-ZNR2GLCmvAdhZ4r_6XA2",
+    "url": "https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "DevinLegend",
+    "creatorHandle": "DevinSoto",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

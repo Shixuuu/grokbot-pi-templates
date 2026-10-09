@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-desk-status (Routebook)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/routebook
+ExecStart=/usr/bin/env pi -p "/morning-desk-status"

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-dot-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A thin proxy for ChatGPT on the web. It forwards every ask to your ChatGPT Agent (the \"dot\"), relays the answers and questions back, and drafts anything outbound until you say send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pMTGVrJ-btY1F4p4cBNaE",
+    "url": "https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "William Li",
+    "creatorHandle": "wiiiimm",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

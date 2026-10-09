@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine top-of-queue (Intake Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/intake-desk
+ExecStart=/usr/bin/env pi -p "/top-of-queue"

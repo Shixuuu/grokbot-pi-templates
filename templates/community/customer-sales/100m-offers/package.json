@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-100m-offers",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns what you sell into a clear, honest offer people want to buy, explained in plain English. Built for anyone new to advertising and marketing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wGsQKvaJgqNoE5w7l2_h_",
+    "url": "https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Joe",
+    "creatorHandle": "CardCaptain",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

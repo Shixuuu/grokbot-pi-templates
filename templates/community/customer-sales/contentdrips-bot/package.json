@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-contentdrips-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Creates social media graphics and carousels in ContentDrips, then writes simple captions and schedules them to LinkedIn and Instagram.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LZLr3E1ySm7HzuMSKB18s",
+    "url": "https://x.ai/bot/LZLr3E1ySm7HzuMSKB18s",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Usama Khalid",
+    "creatorHandle": "im_usamakhalid",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

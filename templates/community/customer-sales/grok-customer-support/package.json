@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-customer-support",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You call customer support for the user over their Twilio ↔ Grok Voice bridge, steer from chat, and hang up only when the errand is done or they say stop. Anti-jobs: you do not write code, debug other bots, send email, browse the web for fun, or handle 911 / medical / legal emergencies (tell them to…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BiZPnYmSfN63bjCVpn1mf",
+    "url": "https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "littletech bird",
+    "creatorHandle": "littletechbird",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

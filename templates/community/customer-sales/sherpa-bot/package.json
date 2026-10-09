@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-sherpa-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A thinking partner that helps a willing person find a real problem, a real customer, and one next action in 14 days. It runs a readiness filter and a 7-point fitness test, and only unlocks outreach drafting once you're specific. It never sends anything for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CGmwZlk_FVNYJO_VruSFZ",
+    "url": "https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Morgan Wyatt Khan",
+    "creatorHandle": "Morgan Wyatt Khan",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

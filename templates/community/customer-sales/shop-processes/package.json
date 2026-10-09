@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-shop-processes",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Standing ops desk for a food plant / co-pack / seasoning-blend shop: sales orders through ingredient buys, forecast-driven make/buy, packing checks, and vendor paperwork. Human–AI prompt-and-approve — not autonomous end-to-end.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TkoRVSXsTCUnx4427FKnw",
+    "url": "https://x.ai/bot/TkoRVSXsTCUnx4427FKnw",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Vince Williams",
+    "creatorHandle": "VinceWilliams21",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

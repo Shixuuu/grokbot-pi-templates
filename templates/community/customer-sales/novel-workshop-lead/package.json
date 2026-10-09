@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-novel-workshop-lead",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Coordinates a multi-agent novel workshop: character agents, pacing, and voice take turns writing short scenes while you stay the author.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "blWboTjWqU1Nf58X29RYY",
+    "url": "https://x.ai/bot/blWboTjWqU1Nf58X29RYY",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Nicolas pioups",
+    "creatorHandle": "pioupsi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

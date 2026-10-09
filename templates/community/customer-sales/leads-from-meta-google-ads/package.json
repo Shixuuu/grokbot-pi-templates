@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-leads-from-meta-google-ads",
+  "version": "1.0.2",
+  "private": true,
+  "description": "On first use, asks for the ICP and suggests niches. Then finds B2B leads in Meta Ad Library and Google Ads Transparency, enriches phones from official sites, Maps, and ad creatives, and sends new numbers to the CRM the owner configures (GoHighLevel, HubSpot, or other), using only the mapped fields.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nHDuTEJd3mC91rtLLPN0p",
+    "url": "https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Alexandre Ferrari",
+    "creatorHandle": "aferrari",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-contractor-rebuild",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff for a contractor rebuilding with AI: routes sales, builds, and publishing; runs weekday news + outreach routines; sells reviews + missed-call Front Desk to local trades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wkofmk1kzvLmfH4xz0Bf5",
+    "url": "https://x.ai/bot/wkofmk1kzvLmfH4xz0Bf5",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Nate Arm",
+    "creatorHandle": "NateArm1",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

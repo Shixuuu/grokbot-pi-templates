@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-scouty",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A hidden-gem supplier scout. It finds specialist companies, contractors and service providers that do excellent work but have a weak web presence, in any trade or region.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nHcd0TQbcY0pJ38YzdbU8",
+    "url": "https://x.ai/bot/nHcd0TQbcY0pJ38YzdbU8",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Andrea Pasqualotto",
+    "creatorHandle": "logicZA12",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

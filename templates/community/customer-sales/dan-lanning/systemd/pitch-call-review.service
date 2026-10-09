@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pitch-call-review (Dan Lanning)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dan-lanning
+ExecStart=/usr/bin/env pi -p "/pitch-call-review"

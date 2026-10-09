@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine linkedin-invite-quota-follow-up (Chase)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chase
+ExecStart=/usr/bin/env pi -p "/linkedin-invite-quota-follow-up"

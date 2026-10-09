@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine morning-meta-flight-board
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:46:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine parked-posts-ready-check
+
+[Timer]
+OnCalendar=Tue,Thu *-*-* 10:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

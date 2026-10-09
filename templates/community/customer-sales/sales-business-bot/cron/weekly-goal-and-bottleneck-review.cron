@@ -1,0 +1,3 @@
+# Routine "Weekly goal and bottleneck review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+32 18 * * 0 cd /path/to/sales-business-bot && pi -p "/weekly-goal-and-bottleneck-review"

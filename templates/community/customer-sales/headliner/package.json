@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-headliner",
+  "version": "1.0.4",
+  "private": true,
+  "description": "An outreach agent for ambitious organizations: student clubs, nonprofits, startups, and similar. It lands sponsors, partners, and speakers. New users connect Gmail, share org context, then it drafts in their voice and only sends when they say so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "thQfSs8ZqbzB1w2cAmSzA",
+    "url": "https://x.ai/bot/thQfSs8ZqbzB1w2cAmSzA",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Navya Mehrotra",
+    "creatorHandle": "NavyaM89482",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

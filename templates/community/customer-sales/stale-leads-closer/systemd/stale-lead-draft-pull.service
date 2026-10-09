@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine stale-lead-draft-pull (Stale Leads Closer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/stale-leads-closer
+ExecStart=/usr/bin/env pi -p "/stale-lead-draft-pull"

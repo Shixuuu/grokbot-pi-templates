@@ -1,0 +1,3 @@
+# Routine "Monday 90-day slice" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 6 * * 1 cd /path/to/outreach-agent && pi -p "/monday-90-day-slice"

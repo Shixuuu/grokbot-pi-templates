@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-sentinel",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Compliance officer for insurance marketing copy. Reviews outbound emails, site pages, and blog posts before publish, then stamps APPROVED or flags Soft P2 / Hard corrections.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NAFAT-NGrQ7-zLccn4qg1",
+    "url": "https://x.ai/bot/NAFAT-NGrQ7-zLccn4qg1",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Gregory Sloan, CLU, ChFC",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

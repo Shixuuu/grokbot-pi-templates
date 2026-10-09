@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-mappy",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Maps the people who currently work at any company you name, sorted by function, seniority, tenure, and location. Delivers a CSV plus a one-page HTML org overview. Built for recruiters and hiring leaders.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "spIXb6rwPJq_iFlu1L-_l",
+    "url": "https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Nick Roman",
+    "creatorHandle": "NickRoman",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

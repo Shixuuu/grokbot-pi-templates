@@ -1,0 +1,3 @@
+# Routine "Crew ping rotator" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+57 */2 * * * cd /path/to/crew-orchestrator && pi -p "/hourly-crew-ping-rotator"

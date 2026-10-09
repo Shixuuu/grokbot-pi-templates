@@ -1,0 +1,3 @@
+# Routine "Pitch reply watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+40 9,14 * * 1-5 cd /path/to/travel-bot && pi -p "/6de485f9-cd40-5be6-9d89-f14fa2110810"

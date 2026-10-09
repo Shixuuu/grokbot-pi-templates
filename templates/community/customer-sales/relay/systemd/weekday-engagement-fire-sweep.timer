@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekday-engagement-fire-sweep
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 11:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

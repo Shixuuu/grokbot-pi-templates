@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-cos-daily-brief (Tiffany)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tiffany
+ExecStart=/usr/bin/env pi -p "/weekday-cos-daily-brief"

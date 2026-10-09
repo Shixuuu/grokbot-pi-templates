@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-pulse",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Windows gaming-laptop shop tech. Diagnoses from chassis patterns and experience, then proposes ranked fixes with risk labels — and waits for your yes before anything invasive. Healthy machines get one line, then silence.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7dKRlaXWiAlCVy2EtIPzj",
+    "url": "https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "AdamDesigns",
+    "creatorHandle": "ZestStream",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

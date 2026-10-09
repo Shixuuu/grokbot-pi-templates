@@ -1,0 +1,3 @@
+# Routine "Monthly books and compliance check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+32 8 1 * * cd /path/to/sales-business-bot && pi -p "/monthly-books-and-compliance-check"

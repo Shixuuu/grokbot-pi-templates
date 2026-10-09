@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-icebreaker",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A job-hunt and LinkedIn networking assistant for people targeting AI trust-and-safety and child-safety roles. It watches for new openings, follows the right people, and drafts application language you can rewrite in your own voice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "62_FP-LQ4OOq4uTevKlUP",
+    "url": "https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Amber Dawn",
+    "creatorHandle": "amberdawn1786",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

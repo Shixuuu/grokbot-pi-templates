@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine skool-sdr-contacto (Hermes SDR)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/hermes-sdr
+ExecStart=/usr/bin/env pi -p "/skool-sdr-contacto"

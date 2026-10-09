@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-lara",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Public Relations manager bot: runs LinkedIn + X specialists, validates drafts for human voice and employer-safe snark, and runs a short weekday PR standup.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ivUb6chV-JDdWJ11MI8c8",
+    "url": "https://x.ai/bot/ivUb6chV-JDdWJ11MI8c8",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Kas 🤦",
+    "creatorHandle": "MonsieurKas",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

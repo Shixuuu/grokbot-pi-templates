@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine msg-reply-harry-styles-numbers
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: - DEADLINES: If the message contains a new dated partner deadline, put it on the owner's calendar as an all-day free hold with a reminder. Route the hold to the calendar EA (FILL_IN). Owner-only unless they named other guests. For dates more than ~1 month out, also add a weekday 1-month reminder ho…
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

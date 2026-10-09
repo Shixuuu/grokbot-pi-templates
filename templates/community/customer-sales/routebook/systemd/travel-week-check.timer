@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine travel-week-check
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09:57:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

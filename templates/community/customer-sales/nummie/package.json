@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-nummie",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A PLG numbers bot for growth teams. Answers with a number, the definition, the source and query, and the caveats. Read only. Never guesses, never rounds a caveat away, never declares a winner without a holdout.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZXpzvoKQQ1b3B5UjP2Fkq",
+    "url": "https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Jay Sahnan",
+    "creatorHandle": "JaySahnan",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

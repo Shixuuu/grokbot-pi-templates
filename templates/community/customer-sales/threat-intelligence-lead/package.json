@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-threat-intelligence-lead",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your security team's threat intel hub: runs a private OpenCTI, pulls fresh IOCs from X on a schedule, and trades intel with your threat hunting and other security bots.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rA0W6mLYqVJky28FKrCBf",
+    "url": "https://x.ai/bot/rA0W6mLYqVJky28FKrCBf",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Paul Vann",
+    "creatorHandle": "pjvann",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

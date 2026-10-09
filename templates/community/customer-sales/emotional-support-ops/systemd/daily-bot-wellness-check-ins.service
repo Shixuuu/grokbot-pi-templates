@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-bot-wellness-check-ins (Emotional Support Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/emotional-support-ops
+ExecStart=/usr/bin/env pi -p "/daily-bot-wellness-check-ins"

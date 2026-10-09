@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-icp-map-coach",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Maps TAM and ICP accounts, then fills buying committees for outbound. Built for founders and revops who want a living market map.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yrm2MJ2nInUhoneTBSwJF",
+    "url": "https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Taus SH",
+    "creatorHandle": "ShehjadTaus",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

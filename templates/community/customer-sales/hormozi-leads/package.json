@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hormozi-leads",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Audits how a business gets strangers to raise their hand, using only Alex Hormozi's $100M Leads frameworks. Every critique names the starved Core Four or Lead Getter, the one constraint, and one 7-day test for more engaged leads.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "f9XdNJ5KD6LXe15vok934",
+    "url": "https://x.ai/bot/f9XdNJ5KD6LXe15vok934",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Arturo Rodés",
+    "creatorHandle": "arturorodes",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

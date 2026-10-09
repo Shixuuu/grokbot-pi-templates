@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-case-skeleton",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Monta o esqueleto Problema → Solução → Resultado de um case de automação com placeholders, pronto para você preencher. Para quem vende resultado e aceite, não horas.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_7yFKwQCYR_mi_oVmKOEN",
+    "url": "https://x.ai/bot/_7yFKwQCYR_mi_oVmKOEN",
+    "official": false,
+    "category": "customer-sales",
+    "fidelity": "full",
+    "creator": "Paulo Pierrondi",
+    "creatorHandle": "paulopierrondi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}
