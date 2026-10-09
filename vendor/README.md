@@ -1,0 +1,1 @@
+`pi-grokbot-import-src/` is a copy of the `src/` of pi-grokbot-import v1.2.0 (https://github.com/Shixuuu/pi-grokbot-import), MIT. Used for the Cursor ConnectRPC client, session handling (`~/.pi/agent/grokbot-import/cursor-session.json`), slug rules and the Grok Bot → Pi transfer matrix. No tokens are stored here.

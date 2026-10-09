@@ -1,0 +1,5 @@
+data/raw/
+data/candidates.json
+data/public-meta.json
+node_modules/
+*.log
