@@ -16,7 +16,7 @@ _Generated 2026-10-09 by `scripts/04-index.mjs`._
 
 - **3959** unique share ids found, **3928** live, **32** dead links
 - **3921** converted from the full recipe, **6** metadata-only (full fetch failed), **1** hand-written self-export (the user's Primary Bot, no share link)
-- **90** official (listed on x.ai/bot/marketplace), **56** built-in in-app starters (SWE is also on the marketplace and stays in official/, tagged builtin), **3783** community (not on the marketplace)
+- **90** official (listed on x.ai/bot/marketplace), **56** built-in (55 in-app starters + the user's Primary Bot self-export) (SWE is also on the marketplace and stays in official/, tagged builtin), **3783** community (not on the marketplace)
 - Totals: 8202 skills, 2031 routines (1898 with a cron expression in the text), 19062 memory seeds, 2318 connector references
 
 ### By section and category
