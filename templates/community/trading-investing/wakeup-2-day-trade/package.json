@@ -1,0 +1,46 @@
+{
+  "name": "grokbot-wakeup-2-day-trade",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Type Dig $TICKER for a source-dated first pass on why a stock is moving, the catalyst, dilution and cash risk, and speculative 12–18 month scenarios, with a scorecard, price-range card, and chart.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "di6vIWc5BcaN7aghHpC8C",
+    "url": "https://x.ai/bot/di6vIWc5BcaN7aghHpC8C",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "stocks"
+    ],
+    "fidelity": "full",
+    "creator": "D.Shi",
+    "creatorHandle": "derekshi",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

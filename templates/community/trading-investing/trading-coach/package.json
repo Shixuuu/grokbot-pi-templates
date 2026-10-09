@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-trading-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An evidence-first coach for momentum day traders. It turns your broker statement, session recordings, and notes into a 7-part daily review, an updated edge playbook, and a size-up, hold, or size-down verdict for each session. It never places trades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Gktb--JKwBVtPuZo5vcvM",
+    "url": "https://x.ai/bot/Gktb--JKwBVtPuZo5vcvM",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "stocks"
+    ],
+    "fidelity": "full",
+    "creator": "Dayron Caveda",
+    "creatorHandle": "CGI_Caveda",
+    "activeVersion": 1,
+    "sources": [
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

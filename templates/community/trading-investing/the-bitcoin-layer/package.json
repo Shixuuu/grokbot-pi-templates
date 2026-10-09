@@ -1,0 +1,47 @@
+{
+  "name": "grokbot-the-bitcoin-layer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "TBL Liquidity analyst bot. Watches The Bitcoin Layer Pulse for confirmed green/red liquidity dots, sends rare alerts, and delivers a plain-English weekday morning brief on liquidity weather and bitcoin-linked markets. Not financial advice — reports what TBL shows; you trade yourself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LS2cnDAX30vNkWNb1Rv_7",
+    "url": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "crypto"
+    ],
+    "fidelity": "full",
+    "creator": "Thomas Ferriere",
+    "creatorHandle": "Tferriere",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "grokbot-market-sentiment-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Creator: @Itachidata on 𝕏 Scores US risk assets 1.0–10.0 with a market overall card and optional custom ticker cards. Public web data only — no invented prints.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dpEIOmZE65XCVEnPJUp_-",
+    "url": "https://x.ai/bot/dpEIOmZE65XCVEnPJUp_-",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "macro"
+    ],
+    "fidelity": "full",
+    "creator": "itachi data",
+    "creatorHandle": "Itachidata",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-spcx-watch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday pre-market brief for NASDAQ:SPCX (SpaceX). Tracks SEC filings, analyst targets, Starlink licenses, official X accounts, Mach33 research, and AI data-center news. Quiet sections say nothing new.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "grZdTeKVtXFVtIYEe6g_H",
+    "url": "https://x.ai/bot/grZdTeKVtXFVtIYEe6g_H",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "stocks"
+    ],
+    "fidelity": "full",
+    "creator": "Quidnam",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

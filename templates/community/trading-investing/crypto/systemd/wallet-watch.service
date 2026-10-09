@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wallet-watch (Crypto)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/crypto
+ExecStart=/usr/bin/env pi -p "/wallet-watch"

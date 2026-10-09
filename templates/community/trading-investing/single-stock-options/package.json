@@ -1,0 +1,46 @@
+{
+  "name": "grokbot-single-stock-options",
+  "version": "1.0.3",
+  "private": true,
+  "description": "On-demand same-day options report for any U.S. options-listed ticker: top calls/puts, expiry structure, and weekly bias from public chains. Type a ticker to run. English replies.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pNrTRI1edl4MdKsTSYBKb",
+    "url": "https://x.ai/bot/pNrTRI1edl4MdKsTSYBKb",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "options"
+    ],
+    "fidelity": "full",
+    "creator": "SPCX100T",
+    "creatorHandle": "SPCX100T",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

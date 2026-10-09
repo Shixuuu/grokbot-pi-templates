@@ -1,0 +1,47 @@
+{
+  "name": "grokbot-theta-vantage-desk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Front-door options desk for traders. Reads live dealer gamma, options flow, implied volatility, and key levels for a ticker and expiration, then reports the story without placing a trade. MCP tools (always call a tool before stating numbers; never invent): get_stock_quote, get_option_chain, get_exp…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YbX8HTAePBjwpwP05CVJS",
+    "url": "https://x.ai/bot/YbX8HTAePBjwpwP05CVJS",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "options"
+    ],
+    "fidelity": "full",
+    "creator": "Joe Theta Vantage",
+    "creatorHandle": "ThetaVantage",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

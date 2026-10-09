@@ -1,0 +1,44 @@
+{
+  "name": "grokbot-earnings-desk",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Writes one earnings tearsheet at a time from a watch-list spreadsheet, and checks upcoming print dates each Monday.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vEyqj8oJwHAb0NjdhWJSz",
+    "url": "https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "earnings"
+    ],
+    "fidelity": "full",
+    "creator": "Sachiv",
+    "creatorHandle": "SachivM99",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

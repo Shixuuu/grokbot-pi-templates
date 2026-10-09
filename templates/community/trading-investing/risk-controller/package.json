@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-risk-controller",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A pre-live risk gate for traders and quant researchers. It reviews strategies and backtests for drawdown, leverage, tail risk, and backtest bias before anything goes live.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eK9lF3ZkDKI6-4gqDoUfp",
+    "url": "https://x.ai/bot/eK9lF3ZkDKI6-4gqDoUfp",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "other-markets"
+    ],
+    "fidelity": "full",
+    "creator": "Avid",
+    "creatorHandle": "Av1dlive",
+    "activeVersion": 1,
+    "sources": [
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

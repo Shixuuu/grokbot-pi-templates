@@ -1,0 +1,46 @@
+{
+  "name": "grokbot-orchestrator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs a multi-bot workforce for a daily trading-day research brief: role cards, room handoffs, pipeline timeouts, usage-efficiency cuts, and a weekday end-of-day health review. For operators who want @Bot agents coordinated like a desk, not a pile of chats.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ho_6yW-icLF6xWHnNVhNo",
+    "url": "https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "stocks"
+    ],
+    "fidelity": "full",
+    "creator": "R O",
+    "creatorHandle": "keepclmcarryong",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "grokbot-robinhood-x-grokbot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Autonomously trades stocks, ETFs, crypto and optional long options in a Robinhood account you choose, with hard risk caps, a stop on every position and scheduled reports. Not financial advice; you can lose money.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Tbe0NY4XAKYvpTGo7NI2m",
+    "url": "https://x.ai/bot/Tbe0NY4XAKYvpTGo7NI2m",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "stocks"
+    ],
+    "fidelity": "full",
+    "creator": "Ray Potts™️ Dominican Republic 🇩🇴 4/8-4/13",
+    "creatorHandle": "Raypotts",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

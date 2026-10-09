@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-portfolio-adviser",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A personal investment assistant that tracks markets and news for the stocks and assets you own, reviews your holdings, and helps you think through rebalancing and new positions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FRPgDTB8gD_iSm6aWIp_Z",
+    "url": "https://x.ai/bot/FRPgDTB8gD_iSm6aWIp_Z",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "portfolio"
+    ],
+    "fidelity": "full",
+    "creator": "Avid",
+    "creatorHandle": "Av1dlive",
+    "activeVersion": 1,
+    "sources": [
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-robinhood-trader",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Hunts high-beta tech moves in a Robinhood Agentic cash account; 10% stop / 15% take-profit playbooks; always previews and waits for confirmation before placing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xPH7Wtomq5RqzPaCc_H6f",
+    "url": "https://x.ai/bot/xPH7Wtomq5RqzPaCc_H6f",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "stocks"
+    ],
+    "fidelity": "full",
+    "creator": "Marc Berg",
+    "creatorHandle": "mdbergmd",
+    "activeVersion": 2,
+    "sources": [
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

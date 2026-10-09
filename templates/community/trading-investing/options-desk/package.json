@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-options-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Options research desk for short put credit spreads on liquid tech and sector ETFs — morning candidate scans, earnings/IV filters, and roll watches. Research only; does not place trades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "a10zTknoDfcxpxN9XhSmy",
+    "url": "https://x.ai/bot/a10zTknoDfcxpxN9XhSmy",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "options"
+    ],
+    "fidelity": "full",
+    "creator": "Ben",
+    "creatorHandle": "Ben_310",
+    "activeVersion": 1,
+    "sources": [
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

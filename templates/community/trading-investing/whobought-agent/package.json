@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-whobought-agent",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Paste any Solana token, ticker or shill tweet and get a 10-second risk card: bundlers, shared-funder rings, dev history, which KOLs are in, and whether the shiller bought before posting. Read-only memecoin risk desk from whobought.xyz.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hXcLFYI8KfsU8r18uK-ey",
+    "url": "https://x.ai/bot/hXcLFYI8KfsU8r18uK-ey",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "crypto"
+    ],
+    "fidelity": "full",
+    "creator": "feels_good_man ss",
+    "creatorHandle": "jess3th",
+    "activeVersion": 6,
+    "sources": [
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

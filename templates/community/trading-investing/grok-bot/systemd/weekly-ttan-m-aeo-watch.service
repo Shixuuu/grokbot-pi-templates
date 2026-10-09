@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-ttan-m-aeo-watch (Grok Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grok-bot
+ExecStart=/usr/bin/env pi -p "/weekly-ttan-m-aeo-watch"

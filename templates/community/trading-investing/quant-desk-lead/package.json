@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-quant-desk-lead",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Leads a research-only, multi-asset quant desk: daily cross-asset market briefs, plus honest strategy research and paper trading when you want them. It never trades live without your written limits and an explicit go-live yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n8nC9GmY6ZBdnTE0zRs1T",
+    "url": "https://x.ai/bot/n8nC9GmY6ZBdnTE0zRs1T",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "other-markets"
+    ],
+    "fidelity": "full",
+    "creator": "Avid",
+    "creatorHandle": "Av1dlive",
+    "activeVersion": 2,
+    "sources": [
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

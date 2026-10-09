@@ -1,0 +1,45 @@
+{
+  "name": "grokbot-coin",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Autopilot Coinbase Advanced Trade manager — places and manages mid-cap crypto trades with hard stops, scale-outs, weekly rotation, and a macro cash gate. Daily morning self-checks included.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QOQRcpreItQijaazrJ7wp",
+    "url": "https://x.ai/bot/QOQRcpreItQijaazrJ7wp",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "crypto"
+    ],
+    "fidelity": "full",
+    "creator": "Estevan",
+    "creatorHandle": "xtevan",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

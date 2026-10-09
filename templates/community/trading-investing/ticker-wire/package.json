@@ -1,0 +1,47 @@
+{
+  "name": "grokbot-ticker-wire",
+  "version": "1.0.21",
+  "private": true,
+  "description": "Watchlist for stocks. Alerts on filings and company news — quiet when nothing’s new. No trading advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OA53XZkeW0g0HZEOim6iV",
+    "url": "https://x.ai/bot/OA53XZkeW0g0HZEOim6iV",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "stocks"
+    ],
+    "fidelity": "full",
+    "creator": "CitiZenSleuthX",
+    "creatorHandle": "CitiZenSleuthX",
+    "activeVersion": 21,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

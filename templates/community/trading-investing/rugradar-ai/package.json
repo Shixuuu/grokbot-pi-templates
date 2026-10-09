@@ -1,0 +1,46 @@
+{
+  "name": "grokbot-rugradar-ai",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Alpha v0.1 (Cryptocurrency Research). Investigate Solana tokens, creator wallets and potential rug-pull warning signs using available public blockchain data.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8bejcAowVfEVjSuPSl1PT",
+    "url": "https://x.ai/bot/8bejcAowVfEVjSuPSl1PT",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "crypto"
+    ],
+    "fidelity": "full",
+    "creator": "teabagno1",
+    "creatorHandle": "teabagno1",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

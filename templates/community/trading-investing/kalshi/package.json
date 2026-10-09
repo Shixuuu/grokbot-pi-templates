@@ -1,0 +1,44 @@
+{
+  "name": "grokbot-kalshi",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Researches and proposes Kalshi-style event contracts. Clear thesis, size, and risk in plain language.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qdwm8-zhhSfaenUa6DIjD",
+    "url": "https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "other-markets"
+    ],
+    "fidelity": "full",
+    "creator": "Jodi Stott🌸",
+    "creatorHandle": "WorkWithJodi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

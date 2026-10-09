@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-morning-put-spread-top-5 (Options Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/options-desk
+ExecStart=/usr/bin/env pi -p "/weekday-morning-put-spread-top-5"

@@ -1,0 +1,46 @@
+{
+  "name": "grokbot-fomo-live-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Hourly paper-first copy of traders you already follow on FOMO (fomo.family). Locks size and exits with no discretion; live only when you say go live and the account is funded.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4fmde5VhCGJGeCiqn96D3",
+    "url": "https://x.ai/bot/4fmde5VhCGJGeCiqn96D3",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "crypto"
+    ],
+    "fidelity": "full",
+    "creator": "NM",
+    "creatorHandle": "The Advisor.btc",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

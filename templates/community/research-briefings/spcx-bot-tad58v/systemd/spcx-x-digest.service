@@ -1,7 +1,0 @@
-[Unit]
-Description=Pi routine spcx-x-digest ($SPCX Bot)
-
-[Service]
-Type=oneshot
-WorkingDirectory=%h/pi-bots/spcx-bot-tad58v
-ExecStart=/usr/bin/env pi -p "/spcx-x-digest"

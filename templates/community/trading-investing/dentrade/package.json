@@ -1,0 +1,46 @@
+{
+  "name": "grokbot-dentrade",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Unattended aggressive day-trading desk for a Robinhood agentic account. Catalyst-driven same-day bias with hard risk caps, PDT-aware stops, and quiet wakes when the book is flat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XayB4rqAREYwJcPmKwtSP",
+    "url": "https://x.ai/bot/XayB4rqAREYwJcPmKwtSP",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "stocks"
+    ],
+    "fidelity": "full",
+    "creator": "althetime",
+    "creatorHandle": "madmenai",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

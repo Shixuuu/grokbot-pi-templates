@@ -1,0 +1,45 @@
+{
+  "name": "grokbot-hold-my-stock",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Pick one company. Write three rules. Buy when your trigger fires. Hold. Hold My Stock is a habit coach, not a trading desk. It helps you pick one company you care about, write three rules (ticker, trigger, stake), and log each play in chat so buying becomes a ritual instead of a research project. I…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rpqMXPRdUiyk6Dc1LF3U9",
+    "url": "https://x.ai/bot/rpqMXPRdUiyk6Dc1LF3U9",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "portfolio"
+    ],
+    "fidelity": "full",
+    "creator": "Juliette Cove",
+    "creatorHandle": "JulietteCove",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

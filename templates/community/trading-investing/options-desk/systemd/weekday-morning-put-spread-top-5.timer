@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekday-morning-put-spread-top-5
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 07:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

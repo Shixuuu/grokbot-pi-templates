@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-paper-3pm (Wall Street)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/wall-street
+ExecStart=/usr/bin/env pi -p "/weekday-paper-3pm"

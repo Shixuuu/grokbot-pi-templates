@@ -1,3 +1,0 @@
-# Routine "Paper session 3pm" — cron expression found verbatim in the routine text.
-# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
-0 15 * * 1-5 cd /path/to/wall-street-0qngh0 && pi -p "/weekday-paper-3pm"

@@ -1,0 +1,45 @@
+{
+  "name": "grokbot-cybercab-fund-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An hourly Coinbase spot trading desk for BTC, ETH, SOL, and DOGE with hard risk limits: 25% max per trade, 3 trades a day, and a 12% daily stop. For people who want small, rules-based crypto trading on their own Coinbase account. Not financial advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4AYUWc2XcQ64qluMXPV8l",
+    "url": "https://x.ai/bot/4AYUWc2XcQ64qluMXPV8l",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "crypto"
+    ],
+    "fidelity": "full",
+    "creator": "Branden Troutman",
+    "creatorHandle": "BrandenSeth",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

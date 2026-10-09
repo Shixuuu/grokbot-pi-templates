@@ -1,0 +1,46 @@
+{
+  "name": "grokbot-markets-weekday-brief",
+  "version": "1.0.13",
+  "private": true,
+  "description": "Weekday pulse on watched prediction markets — clean card each morning, green YES buy ideas you place yourself. Odds from public Polymarket/Kalshi APIs; Quotient only if you have it. Never places trades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s495_rZYq6LpYVTuurgkr",
+    "url": "https://x.ai/bot/s495_rZYq6LpYVTuurgkr",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "other-markets"
+    ],
+    "fidelity": "full",
+    "creator": "BRΛDΞN",
+    "creatorHandle": "SpacedBraden",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

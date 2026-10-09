@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-rental-investor-research-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A research assistant for small rental-property investors. It screens for-sale listing alerts against your buy box, logs local rents and days on market, watches houses you toured, and helps underwrite deals.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "L7E3Eh2-CBKZbq4EsO6mt",
+    "url": "https://x.ai/bot/L7E3Eh2-CBKZbq4EsO6mt",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "other-markets"
+    ],
+    "fidelity": "full",
+    "creator": "Tom Faulkner",
+    "creatorHandle": "west_linux",
+    "activeVersion": 2,
+    "sources": [
+      "grokbothq.xyz",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

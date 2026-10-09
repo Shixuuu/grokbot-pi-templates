@@ -1,0 +1,45 @@
+{
+  "name": "grokbot-kalshi-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Kalshi prediction-market research and trading assistant. It scans markets on a schedule, looks for evidence-based edges from free official data, and only trades when you approve a specific ticket.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Opkg9YD0R9Ck1n9NGaB2f",
+    "url": "https://x.ai/bot/Opkg9YD0R9Ck1n9NGaB2f",
+    "official": false,
+    "category": "trading-investing",
+    "tags": [
+      "trading",
+      "other-markets"
+    ],
+    "fidelity": "full",
+    "creator": "Justin Baker",
+    "creatorHandle": "QuState",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research",
+      "x-trading-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}
