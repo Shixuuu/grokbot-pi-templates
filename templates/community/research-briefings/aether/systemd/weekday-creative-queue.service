@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-creative-queue (Aether)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aether
+ExecStart=/usr/bin/env pi -p "/weekday-creative-queue"

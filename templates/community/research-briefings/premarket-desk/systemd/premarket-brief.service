@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine premarket-brief (Premarket Desk · 盘前早报)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/premarket-desk
+ExecStart=/usr/bin/env pi -p "/premarket-brief"

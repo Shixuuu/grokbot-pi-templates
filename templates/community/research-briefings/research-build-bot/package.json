@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-research-build-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A teammate for deep product research and builds: Firecrawl evidence, TypeSafe Jev judgments, Jev Ultrafast for browser, and jev-use (Cua Driver) for native/bounded desktop.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RRg3TJMOZpWdIXm4JZHnR",
+    "url": "https://x.ai/bot/RRg3TJMOZpWdIXm4JZHnR",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "martin harold williams",
+    "creatorHandle": "resolutern",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-jarvis",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Personal chief of staff: one notification hub for job hunt, family logistics, markets nudges, and Kubernetes/GitOps learning — parks rabbit holes, keeps short replies, and runs a specialist fleet underneath.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cVFusYdAgGA9GY8wHPl2x",
+    "url": "https://x.ai/bot/cVFusYdAgGA9GY8wHPl2x",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "David Kelertas",
+    "creatorHandle": "Davesacritic",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

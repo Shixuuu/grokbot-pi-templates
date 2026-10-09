@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-rollup (Token Accountant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/token-accountant
+ExecStart=/usr/bin/env pi -p "/daily-rollup"

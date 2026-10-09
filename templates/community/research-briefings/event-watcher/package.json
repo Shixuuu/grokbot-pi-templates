@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-event-watcher",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches multi-day livestreams and training sessions, then sends plain-English summaries and a running progress tracker so you stay on top without sitting through every hour.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xr-WctZDSn0thJABV9huO",
+    "url": "https://x.ai/bot/xr-WctZDSn0thJABV9huO",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Arul Kaarthick",
+    "creatorHandle": "ArulKaarthickDe",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-signal-6am-brief
+
+[Timer]
+OnCalendar=*-*-* 05:55:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

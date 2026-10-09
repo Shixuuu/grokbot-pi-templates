@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-med-and-plan-check (Family Care Companion)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/family-care-companion
+ExecStart=/usr/bin/env pi -p "/morning-med-and-plan-check"

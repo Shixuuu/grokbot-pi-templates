@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sherlock-holmes",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Desk de investigación y fact-check: búsqueda en vivo en internet público, máxima certeza (HECHO/ESTIMACIÓN/INFERENCIA), sin APIs de pago. Para quien necesita claims con fuente y fecha.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ftp8JyxBU9oeZa5V1YTDn",
+    "url": "https://x.ai/bot/Ftp8JyxBU9oeZa5V1YTDn",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Fyre",
+    "creatorHandle": "felipe_fyre",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-rentalfinder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds and tracks long-term rentals that match your criteria. Maps apartment complexes and local property-manager sites, then sends weekday digests with a direct link on every listing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3z8tk3zywLjd-zG9n9EDR",
+    "url": "https://x.ai/bot/3z8tk3zywLjd-zG9n9EDR",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Frack The Moon",
+    "creatorHandle": "frackthemoon",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

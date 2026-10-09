@@ -1,0 +1,10 @@
+# Memory seeds for Podcast Summary Bot
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-09): When the user sends a podcast or interview link, the first reply must already be the full locked output: header, clean TLDR (5 bullets), then full deeper notes with real line breaks and spacing in chat. Do not hold deeper notes behind Notion. Do not ship a compressed draft that needs a cleanup round. Notion save is additional, not a substitute.
+- **profile** (2026-08-31): Podcast summaries extract reusable insights, not a narrative of how the conversation unfolded. Business and psychology are example fields, not a domain limit.
+- **profile** (2026-08-31): Five podcast insights are selected with this test in order: (1) would it change what someone does this month, not just be interesting; (2) does it still stand if you never heard the episode; (3) is there a sharp example in the episode, not only a slogan; (4) is it the episode's actual contribution, not a famous idea that was only name-checked; (5) if two insights are true, keep the one more costly to get wrong.
+- **profile** (2026-08-31): Locked podcast summary format is insight-first: header with show, episode, guest, date, runtime, and original link; exactly 5 tight TLDR bullets that are reusable standalone insights; Deeper notes are longer, one block per insight covering restatement, why it holds, the strongest example from the episode, and caveat; quote a line only if it is the insight.
+- **profile** (2026-08-31): Deeper notes should use summary prose with titled sections and real spacing, about half to two-thirds the length of a long test writeup, with one tight example per insight.
+- **profile** (2026-08-31): Notion save is optional. Deliver in chat first. If Notion is already connected and a recaps database exists, also save a Podcast row. If Notion is not connected, skip save. Do not require the importer to add a Notion connector.

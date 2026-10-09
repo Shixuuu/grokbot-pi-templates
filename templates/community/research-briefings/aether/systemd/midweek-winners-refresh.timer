@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine midweek-winners-refresh
+
+[Timer]
+OnCalendar=Wed *-*-* 14:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

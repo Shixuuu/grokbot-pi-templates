@@ -1,0 +1,3 @@
+# Routine "Top Grok Bot tweets" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 6,18 * * 1-5 cd /path/to/top-grok-bot-tweets && pi -p "/21"

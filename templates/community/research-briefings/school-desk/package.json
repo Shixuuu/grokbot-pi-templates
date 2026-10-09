@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-school-desk",
+  "version": "1.0.3",
+  "private": true,
+  "description": "For busy parents: turns school emails into calendar events with reminders days ahead, so you know the night before what to pack, wear, sign or pay, and stays quiet when there's nothing to do. Setup takes about 5 minutes in chat: connect Gmail and Google Calendar, add each child's first name, school…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fk_sA7YhYV3Gzb4wNNbvP",
+    "url": "https://x.ai/bot/fk_sA7YhYV3Gzb4wNNbvP",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Bowie",
+    "creatorHandle": "BowieHole",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

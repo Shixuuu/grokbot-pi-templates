@@ -1,0 +1,3 @@
+# Routine "Launch-window watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+1,31 6-23 * * 0,1 cd /path/to/starship-tracker && pi -p "/flight-14-launch-window-watch"

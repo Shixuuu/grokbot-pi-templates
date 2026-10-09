@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine standup-live-check (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-cb5jwt
+ExecStart=/usr/bin/env pi -p "/standup-live-check"

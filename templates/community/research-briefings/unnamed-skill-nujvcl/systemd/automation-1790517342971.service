@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1790517342971 (もらえるお金ナビゲーター)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-nujvcl
+ExecStart=/usr/bin/env pi -p "/automation-1790517342971"

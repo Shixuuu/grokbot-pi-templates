@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-video-montage",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a storyline and ordered scene list into a finished 16:9 montage: research public clips, trim tight, stitch with captions/music, and deliver the MP4 plus a short source report.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZB_RCjIlBno2eVFhApMIj",
+    "url": "https://x.ai/bot/ZB_RCjIlBno2eVFhApMIj",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Joshua Konkle",
+    "creatorHandle": "7SwanSwimming",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

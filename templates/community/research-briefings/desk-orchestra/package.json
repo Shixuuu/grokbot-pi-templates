@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-desk-orchestra",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Point person for a multi-bot work desk. Routes plain-English asks to specialists, folds their feeds into one HTML brief four times a day, and stays quiet when nothing needs a decision.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2AZse0mx1Rg0m6jAt0m-U",
+    "url": "https://x.ai/bot/2AZse0mx1Rg0m6jAt0m-U",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Yuvraj",
+    "creatorHandle": "Uv_i",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

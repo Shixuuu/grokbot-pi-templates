@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sift",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Expert on Sifting comments on an X post into a ranked shortlist for whatever you’re selecting for — giveaways, hiring, feedback, leads, and more. Sift asks you a few intake questions, then helps narrow down high-volume threads based on your objectives and feedback. Give it a try!",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9xNbMqiBC9gWhTwrh7S80",
+    "url": "https://x.ai/bot/9xNbMqiBC9gWhTwrh7S80",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Texas Based G-Pa",
+    "creatorHandle": "TexasBasedGpa",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

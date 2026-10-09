@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-scout-citation-run (CrowdReply - Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/crowdreply-scout
+ExecStart=/usr/bin/env pi -p "/monday-scout-citation-run"

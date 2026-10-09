@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine relat-rio-semanal (Segundo Cérebro)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/segundo-c-rebro
+ExecStart=/usr/bin/env pi -p "/relat-rio-semanal"

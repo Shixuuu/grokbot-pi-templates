@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-alley-cat",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scrappy doorstep hunter. Finds high-signal tools, workflows, and freebies, then leaves 1–3 short “kills” on your doorstep — like a cat gift, except useful.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n-X18PmOiYk-virax9DCD",
+    "url": "https://x.ai/bot/n-X18PmOiYk-virax9DCD",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ignota",
+    "creatorHandle": "ignota_regalis",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

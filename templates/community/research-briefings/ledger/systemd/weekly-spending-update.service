@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-spending-update (Ledger)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ledger
+ExecStart=/usr/bin/env pi -p "/weekly-spending-update"

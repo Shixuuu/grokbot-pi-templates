@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-earnest",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Earnings report grading bot. Plain-English quarter briefs from SEC filings.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "t1qudulqFK7nq4rOnxlem",
+    "url": "https://x.ai/bot/t1qudulqFK7nq4rOnxlem",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Thomas Kramer",
+    "creatorHandle": "tkinfinance",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

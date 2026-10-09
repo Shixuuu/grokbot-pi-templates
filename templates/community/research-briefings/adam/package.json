@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-adam",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your connection to the NRC ADAMS public document library. Adam searches and pulls NRC filings through the ADAMS REST API and sends a weekday digest of the previous day's filings plus the US nuclear fleet's operating share.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ljkUXjCmdkW4XJHWRJxFn",
+    "url": "https://x.ai/bot/ljkUXjCmdkW4XJHWRJxFn",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Steffan Szumowski",
+    "creatorHandle": "UnoMasReactor",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

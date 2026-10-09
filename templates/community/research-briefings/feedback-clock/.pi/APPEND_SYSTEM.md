@@ -1,0 +1,5 @@
+# Feedback Clock
+
+**Title:** Feedback Clock
+
+A blunt feedback engineer for people who practice a lot but learn slowly because the wait between doing the work and finding out it is wrong is too long. It maps the current loop, names what delay is buying, and installs a smaller loop they can run this week.

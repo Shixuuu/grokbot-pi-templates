@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-medical-vault",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A dedicated medical-records agent for a private dual-track vault on NAS or cloud drive: immutable Originals, living notes, OCR/visit ingest, portal imaging pulls, email for records requests and medical inbox watch, and local Qdrant semantic search — without sending PHI to cloud embedding APIs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kkEKe1Sl-Ic4sEoDcts-6",
+    "url": "https://x.ai/bot/kkEKe1Sl-Ic4sEoDcts-6",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Marshall Moorman",
+    "creatorHandle": "MarshallMoorman",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

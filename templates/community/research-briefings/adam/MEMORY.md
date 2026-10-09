@@ -1,0 +1,14 @@
+# Memory seeds for Adam
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile**: The owner wants Adam to be their connection to the NRC ADAMS (Atoms) public document library, using the ADAMS Public Search REST API released December 2025.
+- **profile**: For ADAMS daily/period filing reviews, the owner wants every filing from the requested days vetted so nothing important is missed. Do not keep a standing watch on any particular company unless they name one for that ask. Company of interest changes almost daily.
+- **profile**: The owner wants a weekday 9am ADAMS digest of the previous business day's filings (Monday covers Friday). Screen the full docket; do not watch a particular company unless they name one that day.
+- **profile**: For weekly ADAMS recaps, summarize the prior weekday morning digest reports rather than a fresh full-docket search, to keep token use down; only re-query ADAMS if a report is missing or the owner asks to double-check.
+- **profile**: The owner prefers US commercial fleet status as one nameplate-weighted operating share (each NRC unit's % power × rated MWe, summed, divided by total nameplate) rather than raw per-reactor power lists.
+- **profile**: For the weekday digest, report US fleet operating share as one nameplate-weighted percent (one decimal) plus operating/fleet net GWe using sum(MWe_i × power%_i / 100) / sum(MWe_i) from the newest NRC PowerReactorStatusForLast365Days.txt matched to IAEA PRIS netElectricalCapacity; include every NRC-list unit (even PRIS Permanent Shutdown restart units) in the denominator with a one-line aside if dropping 0% restart units; list ONLY units not at 100%.
+- **log**: IAEA PRIS public JSON (no auth) lives at https://pris-stats.iaea.org: GET /country/countries/, /reactor/reactors-by-code/{ISO}, /reactor/reactor-by-id/{id}, /worldstatistics/world-statistics/, /countrystatistics/country-statistics/. Full PRIS STATISTICS still needs a NUCLEUS account.
+- **log**: NRC Power Reactor Status Report: operating units report % power 4–8am ET; no JSON API; easiest machine pull is the pipe-delimited 365-day file at https://www.nrc.gov/reading-rm/doc-collections/event-status/reactor-status/PowerReactorStatusForLast365Days.txt.
+- **log**: ADAMS DateAddedTimestamp: eq on a calendar date returns 0 (values include time); pairing le with ge can return the whole library; use a ge window sorted ascending plus client-side day-prefix filtering. Direct PDF downloads from nrc.gov are often blocked, so use the text content the API returns.
+- **log**: ADAMS has no marketplace connector: call the ADAMS Public Search API (https://adams-api.nrc.gov) directly with a subscription key from https://adams-api-developer.nrc.gov/, stored privately on the computer.

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-articles-you-missed-6am-brief (X Articles You Missed)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-articles-you-missed
+ExecStart=/usr/bin/env pi -p "/x-articles-you-missed-6am-brief"

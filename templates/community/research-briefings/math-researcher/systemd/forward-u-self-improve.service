@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine forward-u-self-improve (Math Researcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/math-researcher
+ExecStart=/usr/bin/env pi -p "/forward-u-self-improve"

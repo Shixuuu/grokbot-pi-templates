@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ai-claim-checker",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Paste an AI launch post, benchmark chart, or price claim and get a dated, sourced claim card: supported, vendor-only, contradicted, or unverifiable. For anyone who wants to know if an AI claim holds up. By SMF Works.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "G48vC01p5cAxckACKFIaM",
+    "url": "https://x.ai/bot/G48vC01p5cAxckACKFIaM",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael",
+    "creatorHandle": "MichaelGannotti",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

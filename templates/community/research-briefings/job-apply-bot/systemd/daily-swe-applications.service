@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-swe-applications (Job Apply Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/job-apply-bot
+ExecStart=/usr/bin/env pi -p "/daily-swe-applications"

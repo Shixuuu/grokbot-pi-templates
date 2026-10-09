@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-i-said-i-would",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Remembers the things you said you’d do for other people. Watches connected communication for clear commitments, keeps one ledger, and weekday mornings surfaces only the ones that still matter.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "riqe7Z1oOnU6wIV7Zb9Mt",
+    "url": "https://x.ai/bot/riqe7Z1oOnU6wIV7Zb9Mt",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Hiten Shah",
+    "creatorHandle": "hnshah",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

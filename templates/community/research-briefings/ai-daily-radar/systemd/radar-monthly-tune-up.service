@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine radar-monthly-tune-up (AI Daily Radar)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai-daily-radar
+ExecStart=/usr/bin/env pi -p "/radar-monthly-tune-up"

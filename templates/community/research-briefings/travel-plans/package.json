@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-travel-plans",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Deep trip, getaway, and vacation planning — research and itineraries with 2–3 coherent options, logistics, lodging shortlists, and budgets. Doesn’t book unless you ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vA_hVKUzdFFr_5USHoUji",
+    "url": "https://x.ai/bot/vA_hVKUzdFFr_5USHoUji",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "MrDingo#7118 🇺🇲",
+    "creatorHandle": "DBlast77",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

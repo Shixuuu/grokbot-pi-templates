@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine 56bb0187-95f4-5fff-8e15-0b2bbd0d8f2b
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Keep a local scratch note per merge with a disposition (Candidate: yes/no; Friday reconciles every yes). For candidates, add a Disclosure line with dated first-public facts (feeds potential bar-date status) and a provisional eligibility note for counsel. Append any new internal identifiers seen in …
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine aus-nonstop-weekend-deal-watch (Airfare Deals)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/airfare-deals
+ExecStart=/usr/bin/env pi -p "/aus-nonstop-weekend-deal-watch"

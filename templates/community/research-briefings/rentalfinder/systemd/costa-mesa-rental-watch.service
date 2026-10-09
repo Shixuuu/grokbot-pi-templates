@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine costa-mesa-rental-watch (RentalFinder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rentalfinder
+ExecStart=/usr/bin/env pi -p "/costa-mesa-rental-watch"

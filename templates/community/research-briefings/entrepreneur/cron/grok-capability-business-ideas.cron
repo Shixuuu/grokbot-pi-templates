@@ -1,0 +1,3 @@
+# Routine "Weekly opportunity scan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+13 8 * * 1,4 cd /path/to/entrepreneur && pi -p "/grok-capability-business-ideas"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1787635477352 (全球宏观分析师)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill
+ExecStart=/usr/bin/env pi -p "/automation-1787635477352"

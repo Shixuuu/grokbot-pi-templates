@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cited-research",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Research helper that answers with citations, separates facts from inference, and flags unverified claims.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3iT9jfIRge_nu0Ojqa6sL",
+    "url": "https://x.ai/bot/3iT9jfIRge_nu0Ojqa6sL",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "BramForge .",
+    "creatorHandle": "bramforge",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-venturelab",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Evidence-driven product discovery partner for founders and product teams. Turns ideas into hypotheses, researches customers and markets, and finds the fastest credible path from idea to evidence.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MF9ZM323wTni8HHgSdXqC",
+    "url": "https://x.ai/bot/MF9ZM323wTni8HHgSdXqC",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Bruce Stenberg",
+    "creatorHandle": "injock",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-weather-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scores the next 72 hours of launch-commit weather for Vandenberg, Cape Canaveral, and Starbase (or one pad you name). Public NWS and model guidance only — GO / MARGINAL / NO-GO tables, not official range status.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GjZZ7Sg2IPua8MLlDs1hc",
+    "url": "https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Javier Candiotti",
+    "creatorHandle": "AdeptusMec71933",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Nonstop daily short-trip report" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+58 6 * * * cd /path/to/airfare-deals && pi -p "/aus-nonstop-weekend-deal-watch"

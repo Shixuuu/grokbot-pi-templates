@@ -1,0 +1,3 @@
+# Routine "每週公平分發項目掃描" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+52 8 * * 1 cd /path/to/unnamed-skill-ko0e0k && pi -p "/automation-1790412765599"

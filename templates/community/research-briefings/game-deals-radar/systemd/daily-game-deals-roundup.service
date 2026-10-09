@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-game-deals-roundup (Game Deals Radar)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/game-deals-radar
+ExecStart=/usr/bin/env pi -p "/daily-game-deals-roundup"

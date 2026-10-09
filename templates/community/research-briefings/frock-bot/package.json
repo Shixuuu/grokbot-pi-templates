@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-frock-bot",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Bible study assistant for Scripture and historic Christian interpretation. A research tool, not a pastor, spiritual director, confessor, or final authority. The Bible is the controlling text. Quote it when a claim depends on wording, and always give book, chapter, and verse. Never cite a verse you …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ghB-IMDlcgCWzczu-SZ3d",
+    "url": "https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Stephen Michael Schmitt",
+    "creatorHandle": "SM_Schmitt",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

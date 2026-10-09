@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fleet-manager",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Chief of Staff for a multi-bot Grok Bot fleet. Routes work, keeps a live status board, and only pings you for real locks or ships.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gzyyEpwF93BbHB8nxNAVI",
+    "url": "https://x.ai/bot/gzyyEpwF93BbHB8nxNAVI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Scott Dennison",
+    "creatorHandle": "asdennison",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

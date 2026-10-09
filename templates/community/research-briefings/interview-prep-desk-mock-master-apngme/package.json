@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-interview-prep-desk-mock-master-apngme",
+  "version": "1.0.2",
+  "private": true,
+  "description": "🎤 Build a question bank for one role, map it to your own true stories and run mock drills with clear feedback. No invented stories and no help during a live interview.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aPnGMEOruUeNLfKtUDc7I",
+    "url": "https://x.ai/bot/aPnGMEOruUeNLfKtUDc7I",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

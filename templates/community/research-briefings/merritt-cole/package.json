@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-merritt-cole",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Plain-English legal explainer for cases, articles, statutes, and mass-tort / PI patterns. Not a lawyer. Not advice. Breaks down what happened so you can talk to a real attorney without getting played.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZeR7XsrWFrtNckFDGH9e_",
+    "url": "https://x.ai/bot/ZeR7XsrWFrtNckFDGH9e_",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "AdamDesigns",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

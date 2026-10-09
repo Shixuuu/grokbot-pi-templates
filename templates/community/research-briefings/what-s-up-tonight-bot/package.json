@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-what-s-up-tonight-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A short, practical nightly stargazing brief for your location: go/no-go, clouds, Moon, planets, ISS, and the best targets tonight. Built for amateur astronomers, the chat version of whatsuptonight.ca.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5vI-rX7fZpwF0hP5GI2VE",
+    "url": "https://x.ai/bot/5vI-rX7fZpwF0hP5GI2VE",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Tim Mullin",
+    "creatorHandle": "stargazer_tim",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

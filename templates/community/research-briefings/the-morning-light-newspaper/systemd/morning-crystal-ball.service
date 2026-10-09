@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-crystal-ball (The Morning Light (Newspaper))
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/the-morning-light-newspaper
+ExecStart=/usr/bin/env pi -p "/morning-crystal-ball"

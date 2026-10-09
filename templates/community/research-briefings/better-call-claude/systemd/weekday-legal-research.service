@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-legal-research (Better Call Claude)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/better-call-claude
+ExecStart=/usr/bin/env pi -p "/weekday-legal-research"

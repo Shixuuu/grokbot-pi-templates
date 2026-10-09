@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine aus-nonstop-weekend-deal-watch
+
+[Timer]
+OnCalendar=*-*-* 06:58:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

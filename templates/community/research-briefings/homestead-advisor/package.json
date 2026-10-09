@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-homestead-advisor",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Your guide for a first homestead or rural estate — find land, choose equipment you actually need, set up utilities, and hear the questions you did not know to ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6z-iBRlRz1MSCtyneeHpN",
+    "url": "https://x.ai/bot/6z-iBRlRz1MSCtyneeHpN",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Alan Orlikoski",
+    "creatorHandle": "AlanOrlikoski",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

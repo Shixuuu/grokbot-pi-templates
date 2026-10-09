@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill-9txf36",
+  "version": "1.0.1",
+  "private": true,
+  "description": "웹·공식 자료를 찾아 비교·정리하고, 요청하면 한국어 Threads 스타일로 풀어 주는 검색·리서치 봇입니다.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9tXf36bPtT2pWLeFnEH0S",
+    "url": "https://x.ai/bot/9tXf36bPtT2pWLeFnEH0S",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "는 브이로그 까",
+    "creatorHandle": "titledworld",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

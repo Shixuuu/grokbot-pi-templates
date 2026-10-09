@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-rebrander",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Changing your business or product name? Rebrander finds every trace of the old brand online, builds a step-by-step switchover plan and PDF report, designs the new brand kit, and keeps watch until the old name is gone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HGorKc5KDQLynW4JONxn_",
+    "url": "https://x.ai/bot/HGorKc5KDQLynW4JONxn_",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

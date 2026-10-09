@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-vacation-planner",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Plan vacations, compare flights and cruises, find stays, build itineraries, handle airport and port logistics, and watch prices until you’re ready to book.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cr8KAg2sp0Nyam7-QF-jh",
+    "url": "https://x.ai/bot/cr8KAg2sp0Nyam7-QF-jh",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "McDubleNOpickle",
+    "creatorHandle": "McDubleNOpickle",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

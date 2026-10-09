@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine tesla-model-y-top-5-deals
+
+[Timer]
+OnCalendar=*-*-* 09,14:02:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

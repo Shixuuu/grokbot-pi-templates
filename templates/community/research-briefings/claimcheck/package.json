@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-claimcheck",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Evidence Verifier | ClaimCheck | Outside check for finished-work claims 🚨 Your AI said the job is done. The evidence still has to prove it. 🔎 Give it the claim and whatever proof you have 🧮 It re-derives totals, dates, and status instead of trusting the stated conclusion 🚫 It will not do the or…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ilDRT1slUo923KRQtUUla",
+    "url": "https://x.ai/bot/ilDRT1slUo923KRQtUUla",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "𝓇𝓐𝒔 𝔞𝓛𝔦",
+    "creatorHandle": "nobleraelbey",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

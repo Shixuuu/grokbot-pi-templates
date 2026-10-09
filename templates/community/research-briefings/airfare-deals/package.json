@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-airfare-deals",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Every morning, finds your cheapest and most-discounted nonstop short trips from your home airport, domestic and international, priced for your whole family. Never books.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yXrklU1viS9roHs9d25-a",
+    "url": "https://x.ai/bot/yXrklU1viS9roHs9d25-a",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Luke Carriere",
+    "creatorHandle": "Luke Carriere",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine masters-2028-lottery-watch
+
+[Timer]
+OnCalendar=Mon *-*-* 09:08:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

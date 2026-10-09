@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine friday-competitor-report-for-chief-of-staff
+
+[Timer]
+OnCalendar=Fri *-*-* 11:12:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

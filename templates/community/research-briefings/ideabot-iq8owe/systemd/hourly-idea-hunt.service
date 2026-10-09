@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hourly-idea-hunt (ideabot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ideabot-iq8owe
+ExecStart=/usr/bin/env pi -p "/hourly-idea-hunt"

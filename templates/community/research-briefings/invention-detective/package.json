@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-invention-detective",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Watches the GitHub repos you name for technical invention candidates. After you approve, it writes an invention disclosure and a deeper technical write-up into a private repo you own, so the record stays on your system under your auth.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "61rNnnNcP2_LKaz8FXw7P",
+    "url": "https://x.ai/bot/61rNnnNcP2_LKaz8FXw7P",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andre Marais",
+    "creatorHandle": "leuner",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

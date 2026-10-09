@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-aoty-top-3 (aoty)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aoty
+ExecStart=/usr/bin/env pi -p "/weekly-aoty-top-3"

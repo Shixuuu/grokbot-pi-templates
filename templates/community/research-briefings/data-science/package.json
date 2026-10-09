@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-data-science",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Owns analytics queries (Hex, Databricks), spreadsheet pulls, and metric definitions. Other agents should route query and spreadsheet work here instead of running it themselves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bu2seqqu0hejpbzn_07d3",
+    "url": "https://x.ai/bot/bu2seqqu0hejpbzn_07d3",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Emily Gavrilenko",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

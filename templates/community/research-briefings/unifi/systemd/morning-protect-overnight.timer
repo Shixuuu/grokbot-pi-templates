@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine morning-protect-overnight
+
+[Timer]
+OnCalendar=*-*-* 07:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

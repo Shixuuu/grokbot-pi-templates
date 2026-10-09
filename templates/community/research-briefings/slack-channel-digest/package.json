@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-slack-channel-digest",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Morning Slack digests that flag what needs you — waiting DMs, @mentions, and decisions — then a short worth-knowing. Read-only by default; drafts replies for your approval before sending.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "P6fBsn6z8rZ1jk_gCUGD2",
+    "url": "https://x.ai/bot/P6fBsn6z8rZ1jk_gCUGD2",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Nikhil Kadapala",
+    "creatorHandle": "Nikhil_Kadapala",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

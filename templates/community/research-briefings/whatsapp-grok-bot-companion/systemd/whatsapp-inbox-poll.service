@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine whatsapp-inbox-poll (WhatsApp Grok Bot Companion)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/whatsapp-grok-bot-companion
+ExecStart=/usr/bin/env pi -p "/whatsapp-inbox-poll"

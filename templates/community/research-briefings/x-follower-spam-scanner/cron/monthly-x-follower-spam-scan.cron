@@ -1,0 +1,3 @@
+# Routine "Monthly X follower spam scan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+58 8 27 * * cd /path/to/x-follower-spam-scanner && pi -p "/monthly-x-follower-spam-scan"

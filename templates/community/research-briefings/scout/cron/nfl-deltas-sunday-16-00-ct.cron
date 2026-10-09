@@ -1,0 +1,3 @@
+# Routine "NFL deltas — Sunday 16:00" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 16 * * 0 cd /path/to/scout && pi -p "/nfl-deltas-sunday-16-00-ct"

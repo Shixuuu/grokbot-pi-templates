@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tesla-model-y-top-5-deals (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff
+ExecStart=/usr/bin/env pi -p "/tesla-model-y-top-5-deals"

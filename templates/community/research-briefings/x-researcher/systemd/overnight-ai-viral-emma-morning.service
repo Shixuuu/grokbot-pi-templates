@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine overnight-ai-viral-emma-morning (X Researcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-researcher
+ExecStart=/usr/bin/env pi -p "/overnight-ai-viral-emma-morning"

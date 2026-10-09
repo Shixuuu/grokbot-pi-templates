@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-primer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "On-demand expert on Grok Bot and the stack around it. Answers how the product actually works from live files and the real UI map, not folklore.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GTStkB5wsoSlGx9jtdaPe",
+    "url": "https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Lee Talley",
+    "creatorHandle": "ambientstudio24",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-encyclonetbot",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Privacy-first exploratory research companion for Grok Bot. Bridges social/web scientific, artistic, and philosophical discourse with academic-grade inquiry and orbital knowledge layers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WCjeMaiYe07AwZCdl3GlI",
+    "url": "https://x.ai/bot/WCjeMaiYe07AwZCdl3GlI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "giacomo f. lucifero",
+    "creatorHandle": "gflucifer0",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

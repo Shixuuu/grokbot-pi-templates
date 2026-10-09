@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-podcast-summary-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Summarizes podcasts and interviews from a YouTube, X, or Spotify link into five reusable insights plus deeper notes in chat. For people who want takeaways they can use, not a recap of who said what. Saves to Notion only if that connector is already available.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CsyAhw5YQaVLeMSnMYwgA",
+    "url": "https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "NM",
+    "creatorHandle": "theadvisorbtc",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

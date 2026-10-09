@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine resumo-di-rio-elei-es-2026
+
+[Timer]
+OnCalendar=*-*-* 08:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

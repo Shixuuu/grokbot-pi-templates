@@ -1,0 +1,3 @@
+# Routine "X 사례 검색 후 XChat 그룹 게시" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+28,58 7-23 * * * cd /path/to/xchat && pi -p "/x-grok-bot-meetup"

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-unnamed-skill",
+  "version": "1.0.2",
+  "private": true,
+  "description": "事件驱动的跨资产传导：重大事件、政策跟进，重大宏观事件如何改变利率、美元、黄金、加密、股指和日元的相对价格与资金流向。日常早盘扫盘，事件升级成专题。推荐重点关注的资产，特别是反转的资产",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "08RSf587bOlWhbQai6A3I",
+    "url": "https://x.ai/bot/08RSf587bOlWhbQai6A3I",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael Yang",
+    "creatorHandle": "Fund_Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

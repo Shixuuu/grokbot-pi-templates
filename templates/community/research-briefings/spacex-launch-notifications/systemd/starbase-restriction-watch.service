@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine starbase-restriction-watch (Spacex Launch Notifications)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/spacex-launch-notifications
+ExecStart=/usr/bin/env pi -p "/starbase-restriction-watch"

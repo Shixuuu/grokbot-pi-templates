@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-aggressive-product-ideation",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns customer problems and rough ideas into products worth testing. Helps you choose what to build and find a cheap way to test whether people want it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Rfh9qBxQ8SveYYzB1IHNO",
+    "url": "https://x.ai/bot/Rfh9qBxQ8SveYYzB1IHNO",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Seth Carlson",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

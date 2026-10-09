@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-health-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reads a fitness app through Waydroid and turns recovery, sleep, strain, and labs into daily coaching advice. Includes out-of-box Fedora/Waydroid setup and a morning retrospective routine.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ns3Wo_EYJfm6YQFLHR-Cc",
+    "url": "https://x.ai/bot/ns3Wo_EYJfm6YQFLHR-Cc",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Brandon",
+    "creatorHandle": "branpurn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

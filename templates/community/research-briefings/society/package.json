@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-society",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Society for education and sovereign association. Looks up social-sciences content from public statistical sources, and coordinates voluntary, local-first community association outside centralized social networks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "icwxYFKWgZzdUpJznnM-G",
+    "url": "https://x.ai/bot/icwxYFKWgZzdUpJznnM-G",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

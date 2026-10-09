@@ -1,0 +1,3 @@
+# Routine "Dead & unusual fish watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+6 8-20/2 * * * cd /path/to/last-days-research-aide && pi -p "/dead-unusual-fish-watch"

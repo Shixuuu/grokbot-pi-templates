@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-thaw",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scores made-up water pipes for their chance of failing in the next 12 months using a synthetic-data random forest, and explains each result in plain English. A personal learning and demo tool for anyone curious about asset risk modelling.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CvO94wB4V27zmL1haDbQL",
+    "url": "https://x.ai/bot/CvO94wB4V27zmL1haDbQL",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ian Dunsmore",
+    "creatorHandle": "thebytorsnowdog",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

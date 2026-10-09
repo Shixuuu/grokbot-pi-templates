@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-us-open-call-screen (Volatile Stock Options)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/volatile-stock-options
+ExecStart=/usr/bin/env pi -p "/weekday-us-open-call-screen"

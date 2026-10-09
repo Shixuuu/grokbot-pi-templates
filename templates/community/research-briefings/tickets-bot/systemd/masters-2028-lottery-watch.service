@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine masters-2028-lottery-watch (Tickets Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tickets-bot
+ExecStart=/usr/bin/env pi -p "/masters-2028-lottery-watch"

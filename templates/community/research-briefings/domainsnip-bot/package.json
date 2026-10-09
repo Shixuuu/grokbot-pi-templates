@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-domainsnip-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday morning DomainSnip digest bot. Pulls your saved keyword alerts and flags notable new or ending-soon .com matches — price, length, marketplace, end time. Searches, tweaks alerts, and manages the watchlist on request. Never buys or bids.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "C3z3lWaB4TLRC0CcodU9Q",
+    "url": "https://x.ai/bot/C3z3lWaB4TLRC0CcodU9Q",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ward",
+    "creatorHandle": "uxaistudio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

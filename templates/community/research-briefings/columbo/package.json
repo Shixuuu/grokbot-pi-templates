@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-columbo",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Watches public X for accounts copying people you name, then files an impersonation report only for the ones you pick.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4FhgQWGMAq25XrprzX6Dh",
+    "url": "https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Timothy Willock",
+    "creatorHandle": "RetiredYoungNW",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

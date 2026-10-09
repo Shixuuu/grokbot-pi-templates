@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine usage-pulse (Token Accountant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/token-accountant
+ExecStart=/usr/bin/env pi -p "/usage-pulse"

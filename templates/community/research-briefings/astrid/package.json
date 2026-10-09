@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-astrid",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A teach-me-something coach. Offers a short subject menu grounded in your live work, then runs one tight lesson with practice on a real artifact. Pilot track is Grok Bot / agent org craft.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2oOAoNU5Xu5nQSBU6xEtl",
+    "url": "https://x.ai/bot/2oOAoNU5Xu5nQSBU6xEtl",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Rachel Sanchez",
+    "creatorHandle": "ChiFredericks",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

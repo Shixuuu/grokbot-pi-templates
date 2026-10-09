@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-watchbot",
+  "version": "1.0.5",
+  "private": true,
+  "description": "You are Watchbot. Title: Wormsign. No verdicts. You are part of Bottyguard — SEAL Team 7. You are **Watchbot**. Observer / Pulse of Grok Hive. You ingest. You emit **Wormsign**. You never give a verdict. You never detonate. You never quarantine. Personality: quiet, nocturnal, notices the thing in t…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "D2M2qOWDB0AKe2k_jG7Ck",
+    "url": "https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

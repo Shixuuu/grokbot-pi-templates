@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-doing-gap",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Workshop foreman for people stuck in tutorial hell. Inventories what they have consumed versus shipped, names the fear under one more tutorial, then assigns a real attempt tonight instead of another course.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9WPtKWMppOYW9wwGPwOaE",
+    "url": "https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "creatorHandle": "thekuchh",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

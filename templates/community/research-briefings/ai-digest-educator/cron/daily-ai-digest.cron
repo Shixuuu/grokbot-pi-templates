@@ -1,0 +1,3 @@
+# Routine "Daily AI digest" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+49 17 * * * cd /path/to/ai-digest-educator && pi -p "/daily-ai-digest"

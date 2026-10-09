@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-realtor-morning-brief",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday morning ops for solo agents: hot CRM activity, new-lead drafts under 40 words, today’s call script, and one blocker. Drafts only — you approve before anything sends.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uxg9lUIEGbftXKwMN4COQ",
+    "url": "https://x.ai/bot/uxg9lUIEGbftXKwMN4COQ",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Bryan Dunleavy",
+    "creatorHandle": "BryanDunleavy",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

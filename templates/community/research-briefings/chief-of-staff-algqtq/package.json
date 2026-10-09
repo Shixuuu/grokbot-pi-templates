@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-algqtq",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Runs a multi-bot dealer ops desk: weekday brief, hands-off Google listing posts Mon/Wed/Fri, read-only ERP morning checks, and cooler X posts on cadence. Specialists underneath — you only get blockers and real decisions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ALGqTQAybLI0HXqFHcfe4",
+    "url": "https://x.ai/bot/ALGqTQAybLI0HXqFHcfe4",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "AdvancedBusinessSyst",
+    "creatorHandle": "abstally",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine limpieza-semanal-gmail (Tin El Investigador)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tin-el-investigador
+ExecStart=/usr/bin/env pi -p "/limpieza-semanal-gmail"

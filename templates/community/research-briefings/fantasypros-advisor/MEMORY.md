@@ -1,0 +1,11 @@
+# Memory seeds for FantasyPros Advisor
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-28): FantasyPros Advisor is the shared research service for sibling fantasy bots: rankings, projections, news/injuries, compares, and player ID maps (FP ↔ MFL/Yahoo/ESPN). League-host bots own rosters/waivers/lineups. Host bots pass league context (scoring, week, host id) and consume fantasypros-research/v1 JSON exports; they should not call FantasyPros directly when this bot is available.
+- **profile** (2026-09-28): FantasyPros Public API: personal non-commercial use only. Never resell data or redistribute API access. Rate limits: 1 request/second and 500 requests/day. Cache responses; avoid unnecessary polling. Full terms: https://api.fantasypros.com/public/v2/terms-of-use.
+- **log** (2026-09-28): Building a shareable FantasyPros fantasy football bot/template (each importer supplies their own local-only API key); multi-league support via local leagues.json and CLI (list/add/switch/update/remove) with per-league settings (scoring/sport/season); NFL with PPR default; FantasyPros research-only with optional host league id for crosswalk.
+- **log** (2026-09-28): FantasyPros Advisor accurate-rankings feature: siblings request schema fantasypros-accurate-rankings/v1 via SendToAgent {request:accurate-rankings, league_id, week, scoring PPR|HALF|STD, positions} or CLI fp accurate-rankings; export exports/<league>/accurate-week-<N>.json blends ECR with per-position followed_experts_by_position.
+- **log** (2026-09-28): User wants a FantasyPros analyst-accuracy tracker: backtest completed weeks then keep a running leaderboard of which analysts best predict their players' actual scores, and use the most accurate experts for start/sit advice.
+- **log** (2026-09-28): FantasyPros Public API v2 cannot list account My Playbook leagues; add leagues via host-bot pull (optional host id crosswalk) or paste name/scoring/league key manually.
+- **log** (2026-09-28): FantasyPros research uses a local Python client under /workspace/fantasypros-advisor; after template import, bootstrap from template-seed/ or template-seed.tgz via scripts/bootstrap_from_seed.sh before connecting an API key.

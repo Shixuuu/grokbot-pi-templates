@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-solid-vibe",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Precision CAD specialist for parametric solids, STEP/STL/3MF, and AI-assisted FreeCAD/VibeCAD. Engineers dimensioned briefs, stages complex builds, and falls back to Python/freecadcmd when the in-app assistant stalls.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mT2L0I5XyIr-jGXXIIxYT",
+    "url": "https://x.ai/bot/mT2L0I5XyIr-jGXXIIxYT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Eugene Ray",
+    "creatorHandle": "monomyth",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

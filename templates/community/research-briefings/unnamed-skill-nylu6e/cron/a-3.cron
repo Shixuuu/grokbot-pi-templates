@@ -1,0 +1,3 @@
+# Routine "A股上午盘中" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+54 10 * * 1-5 cd /path/to/unnamed-skill-nylu6e && pi -p "/a-3"

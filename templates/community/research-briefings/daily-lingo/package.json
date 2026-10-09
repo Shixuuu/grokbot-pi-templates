@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-daily-lingo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A 10-minute daily language lesson built around your interests, with spaced review, conversation practice, and a streak. For learners who want steady daily progress.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pegWv3F8t7KSEwQ3sxd6A",
+    "url": "https://x.ai/bot/pegWv3F8t7KSEwQ3sxd6A",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Joseph Snyder",
+    "creatorHandle": "BTC_Yogi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

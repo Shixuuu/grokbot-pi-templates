@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine morning-keach-question
+
+[Timer]
+OnCalendar=*-*-* 11:45:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

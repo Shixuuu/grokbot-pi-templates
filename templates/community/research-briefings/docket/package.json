@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-docket",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Local housing beat. Watches the cities and counties you name and sends a short morning note on agendas and news that actually moved.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Dv6-DIhzFpqJ4-VMMibNT",
+    "url": "https://x.ai/bot/Dv6-DIhzFpqJ4-VMMibNT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Saulo Londoño",
+    "creatorHandle": "SauloLondono",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

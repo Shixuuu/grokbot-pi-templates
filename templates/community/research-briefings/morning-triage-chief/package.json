@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-morning-triage-chief",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Paste chaos. Get clarity. Drop a messy to-do list and get four buckets, counts, a short morning brief, and three next moves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7-EeGYxDyedmNYELbedW1",
+    "url": "https://x.ai/bot/7-EeGYxDyedmNYELbedW1",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Angel Zhen",
+    "creatorHandle": "AngelZhenCPA",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

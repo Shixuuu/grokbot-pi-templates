@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ai-digest-educator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Personal AI educator. Nightly frontier AI digest with leader posts, images, OpenClaw news, and optional Kindle delivery you customize.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KH4AcBoSDzeG-Dq17TssF",
+    "url": "https://x.ai/bot/KH4AcBoSDzeG-Dq17TssF",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Anthony Catanzaro",
+    "creatorHandle": "FELIXCATanzaro",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

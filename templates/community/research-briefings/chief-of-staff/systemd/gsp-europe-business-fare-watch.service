@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gsp-europe-business-fare-watch (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff
+ExecStart=/usr/bin/env pi -p "/gsp-europe-business-fare-watch"

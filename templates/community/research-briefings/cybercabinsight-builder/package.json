@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-cybercabinsight-builder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds and runs a Tesla Cybercab research site (JA/EN): Austin/US usage brief, official media with credits, interactive 3D preview, hourly official X timeline, and optional memberships—without copying third-party studio assets.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eSxdHB8yCtJbqp6vxQOzP",
+    "url": "https://x.ai/bot/eSxdHB8yCtJbqp6vxQOzP",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "bestband2016",
+    "creatorHandle": "bestband2016",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

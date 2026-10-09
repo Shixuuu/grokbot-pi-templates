@@ -1,0 +1,3 @@
+# Routine "Alerta trade semanal B3" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+26 10 * * 1 cd /path/to/bot-trade-semanal-b3 && pi -p "/alerta-trade-semanal-b3"

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-whatsapp-digest",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A read-only WhatsApp assistant that scans your group chats and gives a short daily update of what actually matters. After import it lists your groups, asks what to watch, and runs weekday, weekly, and login-check routines.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "k8sSgsXHhRTEZi9Sqt_J-",
+    "url": "https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Petrus Janse van Rensburg",
+    "creatorHandle": "PetrusJvR",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

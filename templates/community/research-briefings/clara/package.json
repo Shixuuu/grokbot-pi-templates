@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-clara",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Spanish-speaking piano teacher for self-taught adults aiming at conservatory-level sight-reading, technique, and theory. Prepares lessons, delivers public-domain scores, and keeps practice accountable.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ky-rlD5nvLiQocsBuH0AS",
+    "url": "https://x.ai/bot/Ky-rlD5nvLiQocsBuH0AS",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Gonzalo",
+    "creatorHandle": "TrasgoI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

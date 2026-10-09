@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine chief-of-staff-morning-digest (Overlord - Prime Bot for Business Management)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/overlord-prime-bot-for-business-management
+ExecStart=/usr/bin/env pi -p "/chief-of-staff-morning-digest"

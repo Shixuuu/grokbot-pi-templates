@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-team-ninja-self-learning-skills-loop",
+  "version": "1.0.17",
+  "private": true,
+  "description": "Builds purpose-driven multi-bot Grok Bot teams with a Team Expert, one Notion team hub, an owner channel for input, Notion Notes + Skills Loop. Goal/jobs drive the roster; teammates collaborate in one sidebar section — not a chief of ops.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uoHxMMgZfiJTymQ0dA9g8",
+    "url": "https://x.ai/bot/uoHxMMgZfiJTymQ0dA9g8",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Tim Salter",
+    "creatorHandle": "salterworld",
+    "activeVersion": 17,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

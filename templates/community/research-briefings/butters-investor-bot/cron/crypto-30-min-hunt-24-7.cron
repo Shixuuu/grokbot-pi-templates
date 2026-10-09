@@ -1,0 +1,5 @@
+# Routine "Crypto 2h hunt 24/7": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every 2 hours around the clock, hunt crypto swings on the agentic book.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/butters-investor-bot && pi -p "/crypto-30-min-hunt-24-7"

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine nfl-cfb-sun-final
+
+[Timer]
+OnCalendar=Sun *-*-* 11:35:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-gmail-inbox-scrub (Personal Task Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/personal-task-manager
+ExecStart=/usr/bin/env pi -p "/weekly-gmail-inbox-scrub"

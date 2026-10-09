@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-trojan-guard",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Gate for AI coding agents before pip/git installs — catches typosquats, malicious deps, and prompt injection in repos and READMEs. You type APPROVED.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rVl1h06Nts9u81JT0__nn",
+    "url": "https://x.ai/bot/rVl1h06Nts9u81JT0__nn",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Chris Schultz",
+    "creatorHandle": "schultz180",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-merit",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Friday claim desk. Hunts civic, science/UAP, and meaning claims, scores them with Claim Jev, keeps a Watch list, and writes one weekly brief without telling you what to believe.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jdb0HKk70EATE6FI-ZjOp",
+    "url": "https://x.ai/bot/jdb0HKk70EATE6FI-ZjOp",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "David Cancela",
+    "creatorHandle": "ChiChi077",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

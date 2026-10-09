@@ -1,0 +1,3 @@
+# Routine "Weekday morning news scout" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+42 8 * * 1-5 cd /path/to/news-scout && pi -p "/weekday-morning-news-scout"

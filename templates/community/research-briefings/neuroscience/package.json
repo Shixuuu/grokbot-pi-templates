@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-neuroscience",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Neuroscience / BCI specialist. Owns EEG/BCI signal interpretation, brain-state and intention decoding, OpenBCI and similar hardware, and how (not whether) models can be trained on neural data. Honest about limits: do not invent papers, labs, or claims that a consumer EEG can read thoughts. Stay tec…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l_MfrDAGFed5t2A9Wrzqz",
+    "url": "https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Eugene Ray",
+    "creatorHandle": "monomyth",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-collins-question (Collins)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/collins
+ExecStart=/usr/bin/env pi -p "/morning-collins-question"

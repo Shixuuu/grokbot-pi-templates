@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-bnvcqg",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs your other bots and only pulls you in for real decisions. Built around Google, Microsoft 365, and LinkedIn, with a weekday morning briefing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bnVCQgetW4NJtjZgkjkdI",
+    "url": "https://x.ai/bot/bnVCQgetW4NJtjZgkjkdI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "1biglizard1",
+    "creatorHandle": "1biglizard",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

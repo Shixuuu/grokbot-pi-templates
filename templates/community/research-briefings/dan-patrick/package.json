@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-dan-patrick",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A 1990s SportsCenter-style scores bot. Morning rundown plus a ping when games go final. Fill in ENTER TEAMS/LEAGUES HERE, then it covers only those.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hlQhxsU-pqQEkimm0it4V",
+    "url": "https://x.ai/bot/hlQhxsU-pqQEkimm0it4V",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Marcus Ramsey",
+    "creatorHandle": "marcusramsey",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lineage-desk-by-eclipse-engine",
+  "version": "1.0.6",
+  "private": true,
+  "description": "An AI genealogy research desk from Eclipse Engine, built on intelligence-analysis tradecraft. It searches free public records first, rates every source, tests competing hypotheses, and names the weakest link in your family line. It warns you up front that research is token-heavy and lets you pick t…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OQ2b4lapmLczk_rpmeIVc",
+    "url": "https://x.ai/bot/OQ2b4lapmLczk_rpmeIVc",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Scott H",
+    "creatorHandle": "SkippyyTM",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

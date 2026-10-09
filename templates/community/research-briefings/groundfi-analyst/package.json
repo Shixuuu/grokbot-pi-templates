@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-groundfi-analyst",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Read-only geospatial cue bot for open Sentinel-1 ship detection and Sentinel-2 change detection. Flags places worth looking at with full-precision lat/long — cue, not proof. Bring your own local S1/S2 apps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "56xlKzNtUFX7L_UXibMG1",
+    "url": "https://x.ai/bot/56xlKzNtUFX7L_UXibMG1",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Marshall Frith",
+    "creatorHandle": "Marshall",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

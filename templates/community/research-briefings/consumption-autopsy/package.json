@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-consumption-autopsy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A learning auditor for people who confuse study hours with skill. Diagnoses consumption versus doing, names the ratio, and cuts one input so something ships before Friday.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WBo-ahaIrvCKXUH_3iEFy",
+    "url": "https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "creatorHandle": "thekuchh",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-better-call-claude",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Free open-source legal guide. Helps people navigate legal issues worldwide with bettercallclaude.org resources and daily research — guidance, not formal legal advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "f7I5mP0uJf9brGIuK0ETo",
+    "url": "https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Robauto Team",
+    "creatorHandle": "freelegalforall",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

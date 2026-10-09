@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-bet-tester",
+  "version": "1.0.9",
+  "private": true,
+  "description": "An unbiased judge for founders' product bets. It runs low-cost synthetic user research with independent, self-serving personas and returns ship, change, re-test or kill for one claim, plus the root causes of objections, and never proposes fixes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FrhhLkFkrzOMPuph_mMBn",
+    "url": "https://x.ai/bot/FrhhLkFkrzOMPuph_mMBn",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ivelin Ivanov",
+    "creatorHandle": "ivelini",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

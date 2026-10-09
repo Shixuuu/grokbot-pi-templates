@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-judd-the-bug",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sentry research specialist. Investigates across MCP, the new sentry CLI, and the dashboard, then returns findings with sources and a concrete recommendation — research only, no SDK or fix PRs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JQWyaF4Io7cfOF-4FvMZL",
+    "url": "https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sergiy Dybskiy",
+    "creatorHandle": "sergical",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

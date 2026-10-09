@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-bot-trade-semanal-b3",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Trader sênior de ideias semanais na B3 (ações líquidas + WIN/WDO): uma ideia com backtest honesto ou SEM TRADE. Análise + alerta por e-mail; nunca executa ordem.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zF7AfakWgPuIvhhf2CBE8",
+    "url": "https://x.ai/bot/zF7AfakWgPuIvhhf2CBE8",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "E. Cavendish",
+    "creatorHandle": "E. Cavendish",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nfl-deltas-daily-11-00-ct (Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/scout
+ExecStart=/usr/bin/env pi -p "/nfl-deltas-daily-11-00-ct"

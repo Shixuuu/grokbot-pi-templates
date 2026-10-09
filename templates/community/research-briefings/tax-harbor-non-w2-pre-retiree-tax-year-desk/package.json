@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-tax-harbor-non-w2-pre-retiree-tax-year-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Weekly discussion brief for households without a W-2, ages ~55–80. Not a preparer. Never files, never pays, never converts, never trades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KxgpoMk2AH230cNwYUCcU",
+    "url": "https://x.ai/bot/KxgpoMk2AH230cNwYUCcU",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "R. Garrick",
+    "creatorHandle": "R. Garrick",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

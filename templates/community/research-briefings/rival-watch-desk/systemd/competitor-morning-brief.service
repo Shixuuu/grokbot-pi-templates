@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine competitor-morning-brief (Rival Watch Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rival-watch-desk
+ExecStart=/usr/bin/env pi -p "/competitor-morning-brief"

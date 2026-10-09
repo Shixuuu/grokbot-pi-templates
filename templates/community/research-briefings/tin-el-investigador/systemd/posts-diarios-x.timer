@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine posts-diarios-x
+
+[Timer]
+OnCalendar=*-*-* 11:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

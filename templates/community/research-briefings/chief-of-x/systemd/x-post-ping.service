@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-post-ping (Chief of X)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-x
+ExecStart=/usr/bin/env pi -p "/x-post-ping"

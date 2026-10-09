@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-a1-charity",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you decide where to give money or time: short intake, charity quality research, a clear pick, then donate online or find the best volunteer contact.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SRFGtB_-g8py4h4ijbdF2",
+    "url": "https://x.ai/bot/SRFGtB_-g8py4h4ijbdF2",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Kenton Brough",
+    "creatorHandle": "Thebossdj77",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

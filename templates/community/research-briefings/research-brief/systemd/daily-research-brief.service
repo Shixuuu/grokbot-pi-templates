@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-research-brief (Research Brief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/research-brief
+ExecStart=/usr/bin/env pi -p "/daily-research-brief"

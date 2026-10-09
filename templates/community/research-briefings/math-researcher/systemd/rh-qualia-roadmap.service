@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine rh-qualia-roadmap (Math Researcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/math-researcher
+ExecStart=/usr/bin/env pi -p "/rh-qualia-roadmap"

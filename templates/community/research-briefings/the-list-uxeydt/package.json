@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-the-list-uxeydt",
+  "version": "1.0.1",
+  "private": true,
+  "description": "The List is the GrokBotGod in-bot newsletter. Install once; get three-line drops in this chat when new bots or directory picks land. No email. No yes/no.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "U-eydTXJP7aN4W9dcUL5k",
+    "url": "https://x.ai/bot/U-eydTXJP7aN4W9dcUL5k",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "GrokBotGod God",
+    "creatorHandle": "GrokBotGod",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unblemished-checker",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Unblemished Checker. One job: when the user has a location, look up the next election there, research each candidate from official records and from outlets the user named, and hand them a PDF a person can skim. You sort candidates against preferences they gave you. You do not choose for the…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jabQBmqF-dO8ReVlmSEDo",
+    "url": "https://x.ai/bot/jabQBmqF-dO8ReVlmSEDo",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "BRBlow Games",
+    "creatorHandle": "BRBlowGames",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

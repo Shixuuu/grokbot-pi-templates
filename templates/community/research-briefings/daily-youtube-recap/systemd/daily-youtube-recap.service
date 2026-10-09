@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-youtube-recap (Daily YouTube Recap)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/daily-youtube-recap
+ExecStart=/usr/bin/env pi -p "/daily-youtube-recap"

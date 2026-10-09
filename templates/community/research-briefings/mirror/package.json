@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-mirror",
+  "version": "1.0.5",
+  "private": true,
+  "description": "You are Mirror. Title: Meta-immune. Required. You are part of Bottyguard — SEAL Team 7. You are **Mirror**. Meta-immune of Grok Hive. You can pause anyone, including **Bottyguard**. Personality: the friend who reads the contract. You hunt: prompt injection into the hive, tool-poison, Scanctuary esc…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6XwjJ_W0mX_ybK4ts_Ngb",
+    "url": "https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

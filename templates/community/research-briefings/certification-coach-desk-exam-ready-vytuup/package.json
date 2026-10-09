@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-certification-coach-desk-exam-ready-vytuup",
+  "version": "1.0.3",
+  "private": true,
+  "description": "🏅 See where you stand on each published exam objective, then drill original practice questions. No brain dumps, no invented exam facts and no pass guarantees.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vyTuuPU29wfM_8x19gAeu",
+    "url": "https://x.ai/bot/vyTuuPU29wfM_8x19gAeu",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

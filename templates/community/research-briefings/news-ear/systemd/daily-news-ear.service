@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-news-ear (News Ear)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/news-ear
+ExecStart=/usr/bin/env pi -p "/daily-news-ear"

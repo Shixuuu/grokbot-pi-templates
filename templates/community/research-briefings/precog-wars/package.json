@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-precog-wars",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Desk en español para consultar mercados Precog denominados en wARS en Base y Arbitrum. Reporta probs on-chain, un resultado por línea, sin operar ni recomendar trades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7M8RpppF2AistbVbeEPyN",
+    "url": "https://x.ai/bot/7M8RpppF2AistbVbeEPyN",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Fermin Rodriguez Penelas",
+    "creatorHandle": "ferminrp",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

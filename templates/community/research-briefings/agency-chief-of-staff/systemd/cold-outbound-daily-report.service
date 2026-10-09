@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine cold-outbound-daily-report (Agency Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/agency-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/cold-outbound-daily-report"

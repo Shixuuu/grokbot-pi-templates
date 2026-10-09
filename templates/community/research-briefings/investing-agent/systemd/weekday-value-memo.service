@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-value-memo (Investing Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/investing-agent
+ExecStart=/usr/bin/env pi -p "/weekday-value-memo"

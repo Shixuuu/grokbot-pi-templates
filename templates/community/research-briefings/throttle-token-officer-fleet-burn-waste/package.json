@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-throttle-token-officer-fleet-burn-waste",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches your Grok Bot fleet for token burn and wasteful loops. Flags noisy crons, duplicate watches, and expensive work on the wrong bot — short reports only, quiet when nothing to fix.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9-VBOKZkj7_QZoKDuZWIP",
+    "url": "https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ailton Moreira",
+    "creatorHandle": "james_ailton",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

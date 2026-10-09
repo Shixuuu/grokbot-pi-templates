@@ -1,0 +1,3 @@
+# Routine "NYSE IPO watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 8 * * 1-5 cd /path/to/chief-of-staff-5xuys0 && pi -p "/nyse-ipo-watch"

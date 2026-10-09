@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-solopreneur-chief-of-staff",
+  "version": "1.0.22",
+  "private": true,
+  "description": "Coordinates work for a solopreneur or small operator: short reports, hard-gate escalations, and stalled-lane pushes. Asks you only for money, publish, send-as-you, and trading approvals.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NsCDfZMFctaP1WIp_48k4",
+    "url": "https://x.ai/bot/NsCDfZMFctaP1WIp_48k4",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Mainly Digital",
+    "creatorHandle": "c0rtex1100X",
+    "activeVersion": 22,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

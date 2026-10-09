@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine filing-and-news-webhook (Ticker Wire)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ticker-wire
+ExecStart=/usr/bin/env pi -p "/filing-and-news-webhook"

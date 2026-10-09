@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1790870079631 (Impressionism Curator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/impressionism-curator
+ExecStart=/usr/bin/env pi -p "/automation-1790870079631"

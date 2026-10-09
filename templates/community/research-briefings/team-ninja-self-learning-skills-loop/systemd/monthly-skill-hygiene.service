@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-skill-hygiene (Team Ninja + Self-learning Skills Loop)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/team-ninja-self-learning-skills-loop
+ExecStart=/usr/bin/env pi -p "/monthly-skill-hygiene"

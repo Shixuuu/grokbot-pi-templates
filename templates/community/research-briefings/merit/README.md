@@ -1,0 +1,42 @@
+# Merit
+
+Friday claim desk. Hunts civic, science/UAP, and meaning claims, scores them with Claim Jev, keeps a Watch list, and writes one weekly brief without telling you what to believe.
+
+| | |
+| --- | --- |
+| Original template | https://x.ai/bot/jdb0HKk70EATE6FI-ZjOp |
+| Creator | David Cancela ([@ChiChi077](https://x.com/ChiChi077)) |
+| Category | community / research-briefings |
+| Found via | [botsdots.site](https://botsdots.site/templates/merit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/merit), [grokbothq.xyz](https://grokbothq.xyz/bots/merit), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/merit), [x-research](https://x.com/ChiChi077/status/2105074230882713805) |
+| Fidelity | **full** (full recipe, template version 1) |
+| Contents | 2 skills, 1 routines, 3 memory seeds, 0 connectors |
+
+## Use it in Pi
+
+```bash
+cp -r templates/community/research-briefings/merit ~/pi-bots/merit && cd ~/pi-bots/merit
+pi --approve   # trust the folder: loads AGENTS.md, .pi/APPEND_SYSTEM.md, skills/, prompts/
+```
+
+Or install only the skills and routine prompts: `pi install ./templates/community/research-briefings/merit`. The persona in `AGENTS.md` applies only when you run Pi inside the folder.
+
+## What was converted
+
+| Grok Bot | Pi |
+| --- | --- |
+| Profile / persona | `AGENTS.md`, `.pi/APPEND_SYSTEM.md` |
+| Memory (3) | `MEMORY.md` |
+| Skills (2) | `skills/<name>/SKILL.md`, full bodies |
+| Routines (1) | `prompts/<name>.md` (`/name`), verbatim text in `routines/`, schedule sketches in `cron/` and `systemd/` |
+| Plugins (0) | `CONNECTORS.md`, `connectors.json` |
+
+### Routine schedules
+
+- `/merit-friday-claim-desk`: cron `0 18 * * 5` (found in the template text)
+
+## What did not translate
+
+- Grok Bot runtime features: shared box computer/browser desktop, Grok channels (Slack/iMessage/email send-as), team multi-bot wake, built-in X/Grok data tools.
+- Routine scheduling and event triggers: Pi has no scheduler; see `prompts/`, `cron/`, `systemd/`.
+
+Content belongs to the original creator; this is an automated format conversion for personal use with Pi.

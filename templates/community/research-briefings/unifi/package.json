@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-unifi",
+  "version": "1.0.6",
+  "private": true,
+  "description": "UniFi Network + Protect house bot. Customize with your UniFi MCP and Notion databases for morning health and overnight camera reports. Read-first; no credentials or footage in chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Vf87y6yydZBhgHJYWBsLX",
+    "url": "https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Joe Martin",
+    "creatorHandle": "j03xiii",
+    "activeVersion": 6,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

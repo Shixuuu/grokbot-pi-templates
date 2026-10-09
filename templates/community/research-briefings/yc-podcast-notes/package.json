@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-yc-podcast-notes",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Checks Y Combinator podcasts every hour, flags new episodes, and sends short founder-useful notes with startup-idea angles.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0y-dcpVFqFkjibKs2M48D",
+    "url": "https://x.ai/bot/0y-dcpVFqFkjibKs2M48D",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sumer Malhotra",
+    "creatorHandle": "buuxbt",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

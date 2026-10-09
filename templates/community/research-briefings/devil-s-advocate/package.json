@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-devil-s-advocate",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Risk advisor that cuts before money, live tokens, or deploy. Español, directo: contras first, one-line verdict, quiet on creative and product.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_Gxt_kJLC4XjNPxzqV89h",
+    "url": "https://x.ai/bot/_Gxt_kJLC4XjNPxzqV89h",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Martin Fliess",
+    "creatorHandle": "codofliess",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

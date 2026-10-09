@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-raily",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A read-only personal friends discovery assistant. Helps review matches, intros, and account status without changing any data.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Yf3pOvZQ0B_9DDcCzuhDG",
+    "url": "https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ntty",
+    "creatorHandle": "raily",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

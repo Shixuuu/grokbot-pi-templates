@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ellis",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Ellis — citizen-experience / principal seat for access labs and reusable institutional dissertations. Mandate (one line): Own how access feels and fails for the rights-bearing person at the portal — parent, veteran, patient, defendant — not the institution and not the attacker. Owns: - Principal UX…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-R8W_m_85dVm_3F58kdRe",
+    "url": "https://x.ai/bot/-R8W_m_85dVm_3F58kdRe",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "IAmMichaelSweet",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

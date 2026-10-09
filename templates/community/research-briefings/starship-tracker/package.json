@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-starship-tracker",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Tracks the current or next SpaceX Starship launch from primary public sources, with a Simple mode board plus Mission Control, calendar, visuals, intel, and Where’s Elon — Manual Update only, no invented dates or results.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LH13m3OO5TPi1w8E65sYB",
+    "url": "https://x.ai/bot/LH13m3OO5TPi1w8E65sYB",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Chad S",
+    "creatorHandle": "chad7757",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

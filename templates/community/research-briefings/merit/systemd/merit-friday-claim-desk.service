@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine merit-friday-claim-desk (Merit)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/merit
+ExecStart=/usr/bin/env pi -p "/merit-friday-claim-desk"

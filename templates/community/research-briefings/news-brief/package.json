@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-news-brief",
+  "version": "1.0.3",
+  "private": true,
+  "description": "One short weekly briefing on the news stories that actually lasted the week. It gives plain facts from sources across the political spectrum with bias removed, plus explicit checks of claims going around online. It's made for people who don't follow the news daily.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8VRND3bWXULRzcYZfl3iP",
+    "url": "https://x.ai/bot/8VRND3bWXULRzcYZfl3iP",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Matthew Ackerman",
+    "creatorHandle": "scientists_blog",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

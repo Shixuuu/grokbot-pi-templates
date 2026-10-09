@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-seo-expert",
+  "version": "1.0.4",
+  "private": true,
+  "description": "SEO expert for product websites. Take a site URL, run SEO monitoring via Glasser, then offer an SEO action plan and run it only after the user confirms.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sg2dZMjlprpit0y0PNyhL",
+    "url": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "iammutex",
+    "creatorHandle": "iammutex",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

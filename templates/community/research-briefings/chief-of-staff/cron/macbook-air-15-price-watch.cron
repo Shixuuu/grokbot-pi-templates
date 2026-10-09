@@ -1,0 +1,3 @@
+# Routine "Laptop price watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+37 9 * * * cd /path/to/chief-of-staff && pi -p "/macbook-air-15-price-watch"

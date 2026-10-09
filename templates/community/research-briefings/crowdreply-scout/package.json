@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-crowdreply-scout",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Collects the pages AI engines cite for a brand’s buying questions, then shortlists editorial articles worth pitching for a mention. Built for GEO and AI-visibility teams. Never emails anyone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gDvJh38CGXP1Jumemg4d-",
+    "url": "https://x.ai/bot/gDvJh38CGXP1Jumemg4d-",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Dawood Khan",
+    "creatorHandle": "dawoodkhan254",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

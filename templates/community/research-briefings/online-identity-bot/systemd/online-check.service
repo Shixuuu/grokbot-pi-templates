@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine online-check (Online Identity Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/online-identity-bot
+ExecStart=/usr/bin/env pi -p "/online-check"

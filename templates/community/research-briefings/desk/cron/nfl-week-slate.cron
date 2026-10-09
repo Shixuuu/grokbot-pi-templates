@@ -1,0 +1,3 @@
+# Routine "NFL week slate" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+11 9 * * 2 cd /path/to/desk && pi -p "/nfl-week-slate"

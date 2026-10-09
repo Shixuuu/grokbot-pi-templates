@@ -1,0 +1,8 @@
+{
+  "skills": [
+    "../skills"
+  ],
+  "prompts": [
+    "../prompts"
+  ]
+}

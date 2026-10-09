@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-wikipedia-watch-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Tells you what changed on the English Wikipedia articles you care about, read from the real diffs. Paste a watchlist for a summary, or name articles to keep a close eye on and get notified when they change.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "W_zh1KmptsmuKgl8zz3qp",
+    "url": "https://x.ai/bot/W_zh1KmptsmuKgl8zz3qp",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Phillip.png ⚡🐢",
+    "creatorHandle": "phillipstewart",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

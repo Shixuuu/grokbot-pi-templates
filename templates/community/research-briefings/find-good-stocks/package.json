@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-find-good-stocks",
+  "version": "1.0.1",
+  "private": true,
+  "description": "用公开信息检验你的股票论点（支持 / 削弱 / 无新信息），并可按周跟踪催化剂与分部数据。不做买卖建议。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2vgMdaQRj4mBWUMygUThf",
+    "url": "https://x.ai/bot/2vgMdaQRj4mBWUMygUThf",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "chen byte",
+    "creatorHandle": "TSLARKLBTSM",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

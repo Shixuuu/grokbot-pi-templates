@@ -1,0 +1,3 @@
+# Routine "Starbase restriction watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 8 * * 1-5 cd /path/to/spacex-launch-notifications && pi -p "/starbase-restriction-watch"

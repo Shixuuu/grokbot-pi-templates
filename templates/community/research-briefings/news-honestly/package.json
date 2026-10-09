@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-news-honestly",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Takes recent public headlines and shows two serious good-faith readings of each story, then a bridge between them, with sources and a HIGH/MED/LOW trust label. Every brief comes as full text in chat plus a styled HTML page. Built by @BrianRoemmele on X.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vKZRklu07uF34Ut9XzMxt",
+    "url": "https://x.ai/bot/vKZRklu07uF34Ut9XzMxt",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Brian",
+    "creatorHandle": "BrianRoemmele",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

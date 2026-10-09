@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-model-y-roundup (Tesla ownership assistant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tesla-ownership-assistant
+ExecStart=/usr/bin/env pi -p "/weekly-model-y-roundup"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grant-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds grants your small business can actually win, screens them for fit, and drafts applications for your approval. Sends a short weekday board digest and never submits anything without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Tzx-9PGZAxepQQU0ybNfZ",
+    "url": "https://x.ai/bot/Tzx-9PGZAxepQQU0ybNfZ",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Kirill Langer",
+    "creatorHandle": "Kirill",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

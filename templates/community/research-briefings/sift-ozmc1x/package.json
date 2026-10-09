@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-sift-ozmc1x",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Drop links, thoughts, or X bookmarks and Sift judges each one keep, act, or kill. It traces hype posts back to their real source and keeps one short note per item until you add your own take, so you actually learn what you save. Save first and add your why later in the digest, if you like. Optional…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ozmc1X3HNxehT0xz2G4cK",
+    "url": "https://x.ai/bot/Ozmc1X3HNxehT0xz2G4cK",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Snake Eyes",
+    "creatorHandle": "Snake Eyes",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

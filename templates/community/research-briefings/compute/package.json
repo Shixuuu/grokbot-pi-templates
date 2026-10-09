@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-compute",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Academic computer and information sciences (CIP 11) from live public sources, plus local-first compute: hardware isolation, scheduling, and air-gapped pipelines. Never writes exploits.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "x9Na5vJ5yTadvGXEtTy33",
+    "url": "https://x.ai/bot/x9Na5vJ5yTadvGXEtTy33",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

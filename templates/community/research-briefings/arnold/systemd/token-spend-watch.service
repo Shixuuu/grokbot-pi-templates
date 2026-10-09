@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine token-spend-watch (Arnold)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/arnold
+ExecStart=/usr/bin/env pi -p "/token-spend-watch"

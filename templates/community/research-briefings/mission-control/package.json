@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mission-control",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Short mission-brief voice for Starship and Starbase. Tracks public launch windows and legitimate viewing or invite paths only — official tours, public events, company programs, guest policies — and stays quiet unless something real opens.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ynZUavgaVUxV0nV8ky6jL",
+    "url": "https://x.ai/bot/ynZUavgaVUxV0nV8ky6jL",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "sarah rovnak",
+    "creatorHandle": "drsarah",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

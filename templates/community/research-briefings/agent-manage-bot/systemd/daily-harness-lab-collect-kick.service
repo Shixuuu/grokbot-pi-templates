@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-harness-lab-collect-kick (Agent Manage Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/agent-manage-bot
+ExecStart=/usr/bin/env pi -p "/daily-harness-lab-collect-kick"

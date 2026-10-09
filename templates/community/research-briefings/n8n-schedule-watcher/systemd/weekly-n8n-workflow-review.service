@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-n8n-workflow-review (n8n Schedule Watcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/n8n-schedule-watcher
+ExecStart=/usr/bin/env pi -p "/weekly-n8n-workflow-review"

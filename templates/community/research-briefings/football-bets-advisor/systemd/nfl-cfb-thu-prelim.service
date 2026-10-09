@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nfl-cfb-thu-prelim (Football Bets Advisor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/football-bets-advisor
+ExecStart=/usr/bin/env pi -p "/nfl-cfb-thu-prelim"

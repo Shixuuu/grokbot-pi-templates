@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-look-up",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches the sky over your home and messages you only when something is worth stepping outside for: the space station, Starlink trains, planets, meteor showers, eclipses, comets and aurora. It checks the clouds first and tells you exactly where to look.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iz7aaohdhfe_qawcv3zg-",
+    "url": "https://x.ai/bot/iz7aaohdhfe_qawcv3zg-",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Chef McMakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

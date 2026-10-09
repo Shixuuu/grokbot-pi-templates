@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-self-improvement (GrokBot Awesome Use Cases)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grokbot-awesome-use-cases
+ExecStart=/usr/bin/env pi -p "/weekly-self-improvement"

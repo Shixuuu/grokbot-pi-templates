@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine twice-weekly-spend-check-in
+
+[Timer]
+OnCalendar=Mon,Thu *-*-* 08:36:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

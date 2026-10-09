@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-wirey",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Owns a daily AI Hard News briefing end-to-end: last-~24h high-signal AI/tech/policy events → neutral wire script → ElevenLabs VO → edit dual-gate → social handoff + newsletter draft. External product name stays AI Hard News.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1xWEw-4E6aSOxIpQM1xJp",
+    "url": "https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Farzad",
+    "creatorHandle": "farzyness",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

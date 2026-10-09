@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine interrogator-monday-register (Interrogator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/interrogator
+ExecStart=/usr/bin/env pi -p "/interrogator-monday-register"

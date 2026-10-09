@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-9-am-markets-brief (Markets Brief Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/markets-brief-scout
+ExecStart=/usr/bin/env pi -p "/weekday-9-am-markets-brief"

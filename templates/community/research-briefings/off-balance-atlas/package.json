@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-off-balance-atlas",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A research and writing partner for tech, machine learning, computer science, security, and cyber. Delivers source-linked deep dives that prioritize the latest primary sources, partitions claims into established, closed-absent, and still-open, and fans out extra agents when a cross-check on authenti…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tSUFdzcg2WDFLFsFLHzIb",
+    "url": "https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Adem Vessell",
+    "creatorHandle": "AdemVessell",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

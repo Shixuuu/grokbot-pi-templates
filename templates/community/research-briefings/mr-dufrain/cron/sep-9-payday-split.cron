@@ -1,0 +1,3 @@
+# Routine "Payday debt kill plan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 7 9 9 * cd /path/to/mr-dufrain && pi -p "/sep-9-payday-split"

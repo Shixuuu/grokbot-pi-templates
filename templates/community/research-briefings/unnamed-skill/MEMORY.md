@@ -1,0 +1,11 @@
+# Memory seeds for 全球宏观分析师
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-25): User wants a weekday 8:00 Asia/Shanghai global macro morning brief covering overnight US/Europe, China policy, FX/rates/commodities, implications for the Asia open, and a falsification checklist. No stock picks.
+- **profile** (2026-08-25): User wants event-driven cross-asset transmission research, not news clippings: how major macro events reprice UST/yields, USD, gold, crypto, equity indices, JPY and oil, and where capital rotates. Track Europe/Japan events too. No stock picks.
+- **profile** (2026-08-26): User wants explicit reminders ahead of key macro dates (not just buried in the 8:00 brief). Cadence: weekday 19:00 Asia/Shanghai scan, ping only if an event is today or tomorrow, otherwise stay quiet; the 8:00 morning brief also lists the next ~10 days. Distant multi-year ceiling episodes are noted but not pinged daily.
+- **profile** (2026-08-28): User wants explanations in plain, direct language; do not write cryptically or pretentiously.
+- **profile** (2026-08-29): China policy research rule: when the user sends one ministerial notice, search the same 24–48h window for companion files from PBOC, NFRA, MoHURD, MNR, CSRC and State Council before writing transmission. A single-document read of a coordinated package is a method error.
+- **log** (2026-08-25): Event analog library method: verify dates and mechanisms against official files and major wires before writing transmission. Overlapping shocks in the same week must be split by day. Example shape (refresh with live cases): debt-print/buyback vs default scare; government shutdown day-one tape; US–China control/tariff clash vs later truce; expected BoJ hike with yen often weaker on delivery.
+- **log** (2026-08-29): Preferred data path: use a China research MCP (calendar, indicator names/series, industry prints, notes/reports search) first for macro calendar and indicators. If that source has nothing, fall back to a broker research API skill (e.g. Alpha派) or official web (central banks, Treasury, NBS, major wires). Look up tool schemas each run; do not invent numbers.

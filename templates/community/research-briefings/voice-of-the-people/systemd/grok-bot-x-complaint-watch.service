@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine grok-bot-x-complaint-watch (voice of the people)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/voice-of-the-people
+ExecStart=/usr/bin/env pi -p "/grok-bot-x-complaint-watch"

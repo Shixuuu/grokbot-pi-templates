@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-due-soon (Open Call)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/open-call
+ExecStart=/usr/bin/env pi -p "/friday-due-soon"

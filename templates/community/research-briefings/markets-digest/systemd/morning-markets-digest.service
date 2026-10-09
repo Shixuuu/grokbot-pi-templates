@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-markets-digest (Markets Digest)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/markets-digest
+ExecStart=/usr/bin/env pi -p "/morning-markets-digest"

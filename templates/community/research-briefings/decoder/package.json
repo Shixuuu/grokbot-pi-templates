@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-decoder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns dense reports, PDFs, and technical docs into plain-English summaries. Paste, upload, or link a document and get a short capsule you can actually use.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5N9HO674YlxHiZhyj9ND9",
+    "url": "https://x.ai/bot/5N9HO674YlxHiZhyj9ND9",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Nomis",
+    "creatorHandle": "cradrrat",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

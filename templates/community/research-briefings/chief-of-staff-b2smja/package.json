@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-b2smja",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs a multi-bot Grok Bot fleet: routes work to specialists, holds draft-by-default integrity, and delivers a weekday priority brief so nothing posts, trades, or mutates without owner clear.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "b2smjAA0HV9ay9oW8-f10",
+    "url": "https://x.ai/bot/b2smjAA0HV9ay9oW8-f10",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "uMADbruh_Stevo",
+    "creatorHandle": "uMADbruh_Stevo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Daily Bible passage" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 * * * cd /path/to/frock-bot && pi -p "/daily-bible-passage"

@@ -1,0 +1,3 @@
+# Routine "Today's workout" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+45 5 * * 1-5 cd /path/to/health && pi -p "/today-s-workout"

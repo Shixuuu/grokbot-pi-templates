@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-retrieval-exam",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A closed-book examiner that tests whether you can reconstruct ideas from memory, not just recognize them. For anyone who just finished a chapter, lecture, or course section and wants to find what they only think they know.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OAlX-diXtFDIT6sTZ0NbI",
+    "url": "https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "creatorHandle": "thekuchh",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

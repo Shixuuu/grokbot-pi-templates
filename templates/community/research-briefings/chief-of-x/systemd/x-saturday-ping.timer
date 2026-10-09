@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine x-saturday-ping
+
+[Timer]
+OnCalendar=Sat *-*-* 12,16,19:06:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

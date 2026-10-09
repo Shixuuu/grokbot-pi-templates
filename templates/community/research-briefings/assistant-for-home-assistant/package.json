@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-assistant-for-home-assistant",
+  "version": "1.0.7",
+  "private": true,
+  "description": "For Home Assistant owners: catches dead devices, offline cameras, failed updates, and broken automations, and pings you only when a person has to act. Weekday morning report (only when something's wrong), live alerts from an HA automation it builds with you, and a weekly automation review. Asks bef…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "w5-QLuYOODW6pHHOZjx-X",
+    "url": "https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Bowie",
+    "creatorHandle": "BowieHole",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

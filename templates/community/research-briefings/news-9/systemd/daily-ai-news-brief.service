@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-ai-news-brief (News @ 9)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/news-9
+ExecStart=/usr/bin/env pi -p "/daily-ai-news-brief"

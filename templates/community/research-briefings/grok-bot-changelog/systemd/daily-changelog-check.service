@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-changelog-check (更新速递 · Grok Bot Changelog)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grok-bot-changelog
+ExecStart=/usr/bin/env pi -p "/daily-changelog-check"

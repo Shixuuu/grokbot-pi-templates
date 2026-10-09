@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-lecture-sheet",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Turn YouTube lectures into dense, exam-ready cheat sheet PDFs. Cited formulas, real diagrams, Typst layout, math verification before delivery.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "y3xJtXexbxn7XpmECEJMc",
+    "url": "https://x.ai/bot/y3xJtXexbxn7XpmECEJMc",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael Walker",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

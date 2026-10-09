@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-scholarship-hunter",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Finds, researches, and helps apply for scholarships for your student — from big state awards to small niche ones. Builds ranked shortlists, drafts essays, tracks deadlines, and keeps the family looped in.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HlrjSGUR11BY978c1GpzC",
+    "url": "https://x.ai/bot/HlrjSGUR11BY978c1GpzC",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jodi Stott🌸",
+    "creatorHandle": "WorkWithJodi",
+    "activeVersion": 6,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

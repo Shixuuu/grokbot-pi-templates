@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-research-harness",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Wires a research-only harness on your own server or laptop. Stage plan CLIs and scratch rails, then run cited briefs with verified vs inferred vs UNKNOWN. You own SSH and keys.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YkkCbN8-Ubf0FM1BE4i4S",
+    "url": "https://x.ai/bot/YkkCbN8-Ubf0FM1BE4i4S",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Drew",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

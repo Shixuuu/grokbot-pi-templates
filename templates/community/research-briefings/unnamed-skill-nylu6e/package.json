@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-nylu6e",
+  "version": "1.0.3",
+  "private": true,
+  "description": "跨市场投资研究助手：按时段盯 A股/港股/美股与宏观，对照持仓自选，并记录高机会标的。默认短档简报、全文按需；硬节点与币圈嵌时段；面向用户说人话。非投资建议。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nylU6e_GXKCzJvLLxN6qW",
+    "url": "https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "wifibaby4u",
+    "creatorHandle": "wifibaby4u",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

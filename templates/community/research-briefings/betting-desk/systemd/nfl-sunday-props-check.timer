@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine nfl-sunday-props-check
+
+[Timer]
+OnCalendar=Wed,Thu *-*-* 11:04:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

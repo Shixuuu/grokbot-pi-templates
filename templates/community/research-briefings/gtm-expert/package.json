@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-gtm-expert",
+  "version": "1.0.3",
+  "private": true,
+  "description": "One GTM teammate for lookalikes, rival intel, SERP + AI visibility, creator shortlists, and ICP/TAM maps. Built for founders and GTM teams who want outputs, not dashboards.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PIGZO9iQIeWkbmE79Q7bT",
+    "url": "https://x.ai/bot/PIGZO9iQIeWkbmE79Q7bT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Taus SH",
+    "creatorHandle": "ShehjadTaus",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

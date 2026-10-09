@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-startup-sleuth",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sources unusual early-stage startups for angel investors — under $1M raised, strong teams, select geos — and emails a twice-weekly shortlist table.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DlhUriPFrGv6jTJ_H3RJx",
+    "url": "https://x.ai/bot/DlhUriPFrGv6jTJ_H3RJx",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Francis Santora 🎌",
+    "creatorHandle": "FrancisPSantora",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

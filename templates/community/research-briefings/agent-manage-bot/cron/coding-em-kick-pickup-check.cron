@@ -1,0 +1,3 @@
+# Routine "Coding EM kick pickup check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+6 4,8 * * * cd /path/to/agent-manage-bot && pi -p "/coding-em-kick-pickup-check"

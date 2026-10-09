@@ -1,0 +1,3 @@
+# Routine "Feed collector" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8,11,14,17,20 * * * cd /path/to/pulse && pi -p "/feed-collector"

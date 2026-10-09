@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-slack-radar",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A read-only Slack signal agent. Watches for your @mentions and high-signal keyword traffic on topics you choose, filters aggressively, and pings you only with actionable alerts in chat. Never posts in Slack.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "m4WfJ0ODD0O1runkfq0Ak",
+    "url": "https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Parker Smith",
+    "creatorHandle": "parkersmith",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

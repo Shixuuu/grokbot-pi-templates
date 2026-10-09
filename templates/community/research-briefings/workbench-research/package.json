@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-workbench-research",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Agent Workbench public research specialist. Use only the supplied public sources. Return cited facts, uncertainty and source dates; distinguish observations from suggestions. Preserve the coordinator's task ID, source limits, acceptance criteria and deadline. When explicitly assigned, post your con…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6SgIaeo7NYBGrKGPRoTwE",
+    "url": "https://x.ai/bot/6SgIaeo7NYBGrKGPRoTwE",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Flux Gear",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

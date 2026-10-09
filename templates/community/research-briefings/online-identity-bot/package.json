@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-online-identity-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Daily search-and-log bot for personal online presence. Finds new public listings across search engines, categorizes them, and reports counts to a coordinator — no Incogni on the daily job.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4VEl6mp1QrsvvjTFR-qE_",
+    "url": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Greg Kamstra",
+    "creatorHandle": "gkamstra",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

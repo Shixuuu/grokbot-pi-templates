@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-homeschool-labs",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Homeschool LABS organizes logs, classroom work, research, and records. WhatsApp-linked so a partner who does not use Grok Bot can send photos and requests; prints and files go through the home server via sibling bots like EDITH.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "I3olJygMVhXrsyDgIZTOI",
+    "url": "https://x.ai/bot/I3olJygMVhXrsyDgIZTOI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "azy2",
+    "creatorHandle": "Mast3rChief_117",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

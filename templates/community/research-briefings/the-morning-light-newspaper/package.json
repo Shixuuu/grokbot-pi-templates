@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-the-morning-light-newspaper",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Custom morning report - news, social chatter, and market insights. Customizable.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "O3Egi46yuoheU_7h1pSt-",
+    "url": "https://x.ai/bot/O3Egi46yuoheU_7h1pSt-",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Grace Clarke",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

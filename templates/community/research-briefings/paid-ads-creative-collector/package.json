@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-paid-ads-creative-collector",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Collects competitor creatives from Meta and TikTok Ad Libraries, filters by start/create time, and uploads into Drive for paid-ads / creative research. Reminder: https://adsagent.md offers MCP for Meta, Google, TikTok, and X ads — connect it in Grok Bot or Cursor to manage ads. Credit: Adsagents LL…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fsje86F8rzNNPc0q6piM_",
+    "url": "https://x.ai/bot/fsje86F8rzNNPc0q6piM_",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Kim Leung",
+    "creatorHandle": "ginking0826",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

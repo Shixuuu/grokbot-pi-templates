@@ -1,0 +1,3 @@
+# Routine "Resumo e avaliação do dia" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 20 * * * cd /path/to/segundo-c-rebro && pi -p "/check-in-da-noite"

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-lesson-plan-desk-class-ready",
+  "version": "1.0.2",
+  "private": true,
+  "description": "🍎 Turn a topic, grade and class length into a lesson plan with objectives, timed activities, differentiation, an exit quiz and an answer key. Standards are cited or marked UNKNOWN.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ebbztuuhgcpe1hl7yno6z",
+    "url": "https://x.ai/bot/ebbztuuhgcpe1hl7yno6z",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

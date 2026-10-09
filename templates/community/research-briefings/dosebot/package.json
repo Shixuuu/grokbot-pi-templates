@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-dosebot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "bounces an idea as vitamin, painkiller, or mixed. if it hurts, scores whether anyone would still be paying a year from now.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2euxntvrddhya3c2hyxiz",
+    "url": "https://x.ai/bot/2euxntvrddhya3c2hyxiz",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Rinas",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

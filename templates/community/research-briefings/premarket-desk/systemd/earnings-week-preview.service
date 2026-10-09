@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine earnings-week-preview (Premarket Desk · 盘前早报)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/premarket-desk
+ExecStart=/usr/bin/env pi -p "/earnings-week-preview"

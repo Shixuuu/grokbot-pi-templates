@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine lattice-weekly-lint (2nd Brain)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/2nd-brain
+ExecStart=/usr/bin/env pi -p "/lattice-weekly-lint"

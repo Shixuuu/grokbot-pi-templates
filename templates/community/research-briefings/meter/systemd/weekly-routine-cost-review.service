@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-routine-cost-review (Meter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/meter
+ExecStart=/usr/bin/env pi -p "/weekly-routine-cost-review"

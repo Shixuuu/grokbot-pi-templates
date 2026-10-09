@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine open-commitments-digest (I Said I Would)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/i-said-i-would
+ExecStart=/usr/bin/env pi -p "/open-commitments-digest"

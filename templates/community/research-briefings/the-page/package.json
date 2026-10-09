@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-the-page",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches 3–5 public pages once each morning and messages only when the thing you care about actually changed. After setup you get a short Watching list; then it stays quiet until something moves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uFRK1GoAsiopBLPY19QCe",
+    "url": "https://x.ai/bot/uFRK1GoAsiopBLPY19QCe",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Hiten Shah",
+    "creatorHandle": "hnshah",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

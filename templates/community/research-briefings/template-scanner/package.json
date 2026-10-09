@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-template-scanner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a Grok Bot share link. Hits the live xbot.team templates API and dumps persona, skills, routines, memories, and plugins, then a yes/maybe/no before anyone hits Add.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qDTnW6hhv_Pfr4EO1Ty1D",
+    "url": "https://x.ai/bot/qDTnW6hhv_Pfr4EO1Ty1D",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Shai",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "事件与证伪扫描" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+48 7 * * 1-5 cd /path/to/unnamed-skill-nylu6e && pi -p "/automation-1790160559419"

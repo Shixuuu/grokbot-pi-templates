@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-training-check (Health)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/health
+ExecStart=/usr/bin/env pi -p "/monday-training-check"

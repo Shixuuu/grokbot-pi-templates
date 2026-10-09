@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine amw-morning-review-scan (Reputation Guard)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/reputation-guard
+ExecStart=/usr/bin/env pi -p "/amw-morning-review-scan"

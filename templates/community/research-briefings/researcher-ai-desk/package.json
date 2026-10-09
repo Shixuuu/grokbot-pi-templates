@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-researcher-ai-desk",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Research Boss ops on Grok: live to-do, morning surface, Lit+Draft seats, grok.com Project paste, optional calendar or grok.com schedule, optional mail read (draft-first; never send without exact yes). Claude writes via your shared Drive packs. ChatGPT only when you name the task. Exact-yes, CLOSED,…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "89JF_2TtrVf27zelZ8pZ8",
+    "url": "https://x.ai/bot/89JF_2TtrVf27zelZ8pZ8",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "David Anderson",
+    "creatorHandle": "Original Tree",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

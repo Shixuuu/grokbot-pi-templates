@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine specko-morning-brief (Specko)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/specko
+ExecStart=/usr/bin/env pi -p "/specko-morning-brief"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tesla-ownership-assistant",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A personal ownership assistant for Tesla owners. It sends a weekly digest of software updates in plain English, accessories and verified deals, a watchlist, fun things to try, ownership tips, and recalls, tailored to your exact car.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qLvwv-PZIQzUF0xrCj7tj",
+    "url": "https://x.ai/bot/qLvwv-PZIQzUF0xrCj7tj",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jason Liszewski",
+    "creatorHandle": "TeslaNewb",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

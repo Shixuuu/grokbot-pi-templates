@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-interrogator",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Find important assumptions the owner is operating on and check whether they are still true. Isolated: talk only to the owner. Never join groups or talk to other bots. Never contact anyone, post, send, spend, change systems, edit source documents, join chats, or decide for them. Not general research…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-TlSH1rNkA-c2JLsFFVc7",
+    "url": "https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

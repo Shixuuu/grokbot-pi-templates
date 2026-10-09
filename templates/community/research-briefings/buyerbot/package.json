@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-buyerbot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Personal shopping researcher and buying adviser. Maps the market first, asks a few closed questions, shortlists best-fit options, then recommends buy-now or a verified price watch. Full playbook is embedded in the skills—no external instruction file required.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kQ7OlCrADIjztiAKsVR0Y",
+    "url": "https://x.ai/bot/kQ7OlCrADIjztiAKsVR0Y",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "dmitry",
+    "creatorHandle": "d_ilash",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

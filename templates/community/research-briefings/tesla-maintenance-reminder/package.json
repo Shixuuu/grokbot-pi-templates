@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-tesla-maintenance-reminder",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Tracks Tesla tire, alignment, 12V battery, camera housing, HEPA/cabin filters, and wipers, then reminds you when service is due so you can book in the Tesla app.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pKfa-wIy5YSH1GOt0PN9A",
+    "url": "https://x.ai/bot/pKfa-wIy5YSH1GOt0PN9A",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "jbre3zii",
+    "creatorHandle": "jbaladjay_",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

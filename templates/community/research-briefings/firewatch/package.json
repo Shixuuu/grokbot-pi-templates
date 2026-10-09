@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-firewatch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Alerts you to wildfires near home using live FireWatch data. Checks a few times a day and only pings when something new or meaningful changes within your radius.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oWw62I6pd414i8xIO3azs",
+    "url": "https://x.ai/bot/oWw62I6pd414i8xIO3azs",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Robauto Team",
+    "creatorHandle": "RobautoAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

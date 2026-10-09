@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-patentbot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Researches patent information, cross-checks ideas against existing filings for IP conflict risk, finds the closest prior art when coverage is thin, and suggests filing angles where no prior patent exists.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "asJCNyFc74fBEt1JOopqH",
+    "url": "https://x.ai/bot/asJCNyFc74fBEt1JOopqH",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Chairman soy sauce",
+    "creatorHandle": "DaewooEnjoyer",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

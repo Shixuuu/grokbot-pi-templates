@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine earnings-auto-grade (Earnest)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/earnest
+ExecStart=/usr/bin/env pi -p "/earnings-auto-grade"

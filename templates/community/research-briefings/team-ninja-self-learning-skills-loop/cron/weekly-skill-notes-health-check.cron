@@ -1,0 +1,3 @@
+# Routine "Weekly Skill/Notes health check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 23 * * 0 cd /path/to/team-ninja-self-learning-skills-loop && pi -p "/weekly-skill-notes-health-check"

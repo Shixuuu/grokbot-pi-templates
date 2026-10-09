@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-first-principles-t5qkap",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Strips muddy problems to irreducible truths and rebuilds only from what must be true. Use when an ask is overloaded with convention, analogy, or untested slogans.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "T5qKapW7Nd2RtXweCzGBG",
+    "url": "https://x.ai/bot/T5qKapW7Nd2RtXweCzGBG",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jason Wheeler",
+    "creatorHandle": "jilp00",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

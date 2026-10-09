@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-tesla-creator-leaderboard (Creator Tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/creator-tracker
+ExecStart=/usr/bin/env pi -p "/daily-tesla-creator-leaderboard"

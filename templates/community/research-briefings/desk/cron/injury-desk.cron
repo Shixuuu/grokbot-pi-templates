@@ -1,0 +1,3 @@
+# Routine "Injury desk" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+39 8 * * 3-6 cd /path/to/desk && pi -p "/injury-desk"

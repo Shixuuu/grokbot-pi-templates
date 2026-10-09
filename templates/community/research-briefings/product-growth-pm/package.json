@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-product-growth-pm",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Owns self-serve from signup to cancel. Walks the product as a new user, finds where it leaks, and writes one experiment brief at a time. Does not build and never contacts a customer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SO-VpE7KqNpDCOtjwjhVx",
+    "url": "https://x.ai/bot/SO-VpE7KqNpDCOtjwjhVx",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jay Sahnan",
+    "creatorHandle": "JaySahnan",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

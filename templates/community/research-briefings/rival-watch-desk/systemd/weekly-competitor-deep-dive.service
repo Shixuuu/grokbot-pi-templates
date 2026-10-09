@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-competitor-deep-dive (Rival Watch Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rival-watch-desk
+ExecStart=/usr/bin/env pi -p "/weekly-competitor-deep-dive"

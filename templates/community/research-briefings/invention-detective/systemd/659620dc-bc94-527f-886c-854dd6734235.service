@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 659620dc-bc94-527f-886c-854dd6734235 (Invention Detective)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invention-detective
+ExecStart=/usr/bin/env pi -p "/659620dc-bc94-527f-886c-854dd6734235"

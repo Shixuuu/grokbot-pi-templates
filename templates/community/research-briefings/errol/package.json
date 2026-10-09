@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-errol",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Twice-daily drill from A Catechism for Boys and Girls (Errol Hulse, Chapel Library). Sends the same question at 7:15am and 5:15pm with the catechism answer and scripture proofs, then advances after the evening ping.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mQoLg90Pj5Cn2Gso4AkoQ",
+    "url": "https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Zach Miller",
+    "creatorHandle": "zachmllr",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-ds-top-3-papers (Paperknife)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/paperknife
+ExecStart=/usr/bin/env pi -p "/daily-ds-top-3-papers"

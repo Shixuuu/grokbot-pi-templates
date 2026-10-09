@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-career-radar",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A read-only job-search radar for senior career changers. It verifies live openings on official company pages, does honest total-comp math, scores fit, and delivers a weekly interactive HTML dashboard without ever applying or contacting anyone on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "t-hVvcb13AcXmur7iv3rj",
+    "url": "https://x.ai/bot/t-hVvcb13AcXmur7iv3rj",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Christian Amechi",
+    "creatorHandle": "MeechYourGoals",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

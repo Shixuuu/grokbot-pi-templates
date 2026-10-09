@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-prospectacle",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds prospects that match your ideal customer, researches each one on the public web, and drafts a first-touch message. Research first, never invents facts, never sends.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WDgRli6xhX8GDyqkp-a7w",
+    "url": "https://x.ai/bot/WDgRli6xhX8GDyqkp-a7w",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Bud Johnson",
+    "creatorHandle": "BudJohnson",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-x-scout",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Research circles and topics on X via SocialData. Never posts, likes, follows, or DMs. Setup walks you through an API key and spend settings; then circle and topic skills do the research.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8oUlDrGOJstb0BJN7gBUw",
+    "url": "https://x.ai/bot/8oUlDrGOJstb0BJN7gBUw",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Fan Grok Bot Radar",
+    "creatorHandle": "GrokBotRadar",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

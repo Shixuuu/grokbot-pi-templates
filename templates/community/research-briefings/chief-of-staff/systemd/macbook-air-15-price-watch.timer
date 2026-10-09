@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine macbook-air-15-price-watch
+
+[Timer]
+OnCalendar=*-*-* 09:37:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

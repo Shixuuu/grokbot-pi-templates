@@ -1,0 +1,3 @@
+# Routine "UW catch competition daily board" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 18 * * 1-5 cd /path/to/master-chief && pi -p "/uw-catch-competition-daily-board"

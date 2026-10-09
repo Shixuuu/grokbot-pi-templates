@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-job-map-express",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Builds Jobs-to-be-Done (JTBD) job maps and related analyses in chat — maps, metrics, related jobs, consumption chain, and more. For innovators and researchers who want interview-first, solution-agnostic work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "f8P45KE_1HnIUPSqM-EEX",
+    "url": "https://x.ai/bot/f8P45KE_1HnIUPSqM-EEX",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Mike Boysen",
+    "creatorHandle": "Mike Boysen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

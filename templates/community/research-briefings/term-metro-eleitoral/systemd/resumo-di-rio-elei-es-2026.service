@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine resumo-di-rio-elei-es-2026 (Termômetro Eleitoral)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/term-metro-eleitoral
+ExecStart=/usr/bin/env pi -p "/resumo-di-rio-elei-es-2026"

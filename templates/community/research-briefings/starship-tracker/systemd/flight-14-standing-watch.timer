@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine flight-14-standing-watch
+
+[Timer]
+OnCalendar=Fri,Sat *-*-* 08,12,16,20:18:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

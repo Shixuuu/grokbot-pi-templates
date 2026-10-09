@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tesla-no-wake-poll-every-1h (Tesla Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tesla-bot
+ExecStart=/usr/bin/env pi -p "/tesla-no-wake-poll-every-1h"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-bot-journal-dispatch (Historian)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/historian
+ExecStart=/usr/bin/env pi -p "/daily-bot-journal-dispatch"

@@ -1,0 +1,3 @@
+# Routine "Biggs new & updated video tracker" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+16 8,12,16 * * * cd /path/to/last-days-research-aide && pi -p "/biggs-new-updated-video-tracker"

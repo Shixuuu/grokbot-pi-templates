@@ -1,0 +1,3 @@
+# Routine "Seasonal credit expiry check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+16 9 * * 1-5 cd /path/to/benefits-concierge && pi -p "/seasonal-credit-expiry-check"

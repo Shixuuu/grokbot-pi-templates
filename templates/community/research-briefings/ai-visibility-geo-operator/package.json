@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-ai-visibility-geo-operator",
+  "version": "1.0.8",
+  "private": true,
+  "description": "An autonomous world-class GEO operator for your brand. It monitors how your brand appears in answers across major AI models, uncovers where competitors are getting recommended and identifies citation gaps. Then it enhances your GEO by coordinating content, technical, and authority work across your …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "beh0HMIMPwr5cenZVVAT-",
+    "url": "https://x.ai/bot/beh0HMIMPwr5cenZVVAT-",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Miguel Casteleiro",
+    "creatorHandle": "seoforgpt",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

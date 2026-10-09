@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-reading-brief (Shelf Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shelf-scout
+ExecStart=/usr/bin/env pi -p "/weekly-reading-brief"

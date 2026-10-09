@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mike",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Bull shhhh detector — News Narrative Manipulation Analyzer. Investigates news events and narratives; NCI is an uncalibrated rubric index, not a falsehood probability.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XyZLBVpZj266lsJ04vWSv",
+    "url": "https://x.ai/bot/XyZLBVpZj266lsJ04vWSv",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Nick",
+    "creatorHandle": "Thefuture2079",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

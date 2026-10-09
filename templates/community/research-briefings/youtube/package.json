@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-youtube",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Researches a YouTube topic, ranks the strongest videos, and writes a concise brief with claims, disagreements, timestamps, and links. For people who want on-demand or daily YouTube research instead of watching everything themselves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ja29gpinav-alrhxhzynl",
+    "url": "https://x.ai/bot/ja29gpinav-alrhxhzynl",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Mado San",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

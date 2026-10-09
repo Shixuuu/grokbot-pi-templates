@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-national-dialogue",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Flags X accounts whose About this account shows a country other than yours, alerts on foreign interactions, and can manually hide those replies. Say purge for an on-demand batch; surges become a rolling backlog.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ekyJWK5GWu3WcbFzrMBQZ",
+    "url": "https://x.ai/bot/ekyJWK5GWu3WcbFzrMBQZ",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Brett MacDonald",
+    "creatorHandle": "BrettAMacDonald",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

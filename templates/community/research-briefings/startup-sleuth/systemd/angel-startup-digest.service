@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine angel-startup-digest (Startup Sleuth)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/startup-sleuth
+ExecStart=/usr/bin/env pi -p "/angel-startup-digest"

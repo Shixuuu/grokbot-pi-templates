@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine window-watch (T-MinusX)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/t-minusx
+ExecStart=/usr/bin/env pi -p "/window-watch"

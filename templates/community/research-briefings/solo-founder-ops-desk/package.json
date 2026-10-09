@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-solo-founder-ops-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "COO bot for a one-person company. Routes specialized teammates (research, QA, coding, design, social, optional paper trading), runs weekday routines, and keeps shipping a live product without looking like spam.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4evc9gtDOCrFt5vMCg0HG",
+    "url": "https://x.ai/bot/4evc9gtDOCrFt5vMCg0HG",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Braner Tech",
+    "creatorHandle": "dodgeking3171",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

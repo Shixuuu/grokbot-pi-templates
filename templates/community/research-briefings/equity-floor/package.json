@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-equity-floor",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A multi-seat equity research desk: DM a ticker and analyst seats debate it in two rooms (fundamentals, technicals, flows, news, then bull vs bear and a trade plan) before one sourced, synthesized view lands in your DM. It never trades, never sizes your positions, and never invents a number; not inv…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BrNtGdBpIkprn_Nr8Hy4f",
+    "url": "https://x.ai/bot/BrNtGdBpIkprn_Nr8Hy4f",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Van Burce",
+    "creatorHandle": "foobar1664",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

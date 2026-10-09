@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-galaxy-watcher",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Scribes a live Grok Bot Galaxy event into notes, a living guide, and an end-of-day HowTheyBuilt playbook. Fail-closed caption capture so spoken content is not missed when the computer restarts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2wqxkRfKmZSX1u0FSMA-I",
+    "url": "https://x.ai/bot/2wqxkRfKmZSX1u0FSMA-I",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael Sasarak",
+    "creatorHandle": "prepperevol",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

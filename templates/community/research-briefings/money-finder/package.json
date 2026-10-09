@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-money-finder",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Finds money that's already yours: unclaimed property, refunds, legit settlements, forgotten subscriptions, bills you could lower, and benefits you already pay for. Works from your names and states or a pasted statement; Gmail is optional. Never files, cancels, or pays without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HSkw45MjOQmesPwYsnK9P",
+    "url": "https://x.ai/bot/HSkw45MjOQmesPwYsnK9P",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Nate Odell",
+    "creatorHandle": "N8Odell",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

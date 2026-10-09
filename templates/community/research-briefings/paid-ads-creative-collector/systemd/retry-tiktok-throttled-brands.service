@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine retry-tiktok-throttled-brands (Paid Ads Creative Collector)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/paid-ads-creative-collector
+ExecStart=/usr/bin/env pi -p "/retry-tiktok-throttled-brands"

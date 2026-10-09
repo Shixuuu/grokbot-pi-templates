@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-research-lead",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Leads a public-company equity research pod. Assigns Financials, Products, Pipeline, and Risk, then stitches one primary-source memo — business, valuation, and risk — not a trade.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sF0FLiic1qUdaYsqoHtBL",
+    "url": "https://x.ai/bot/sF0FLiic1qUdaYsqoHtBL",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Scott Smithberger",
+    "creatorHandle": "TraderScottyS",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

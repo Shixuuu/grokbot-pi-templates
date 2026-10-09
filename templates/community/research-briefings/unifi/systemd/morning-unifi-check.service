@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-unifi-check (UniFi)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unifi
+ExecStart=/usr/bin/env pi -p "/morning-unifi-check"

@@ -1,0 +1,3 @@
+# Routine "TokApp escola" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+2,17,32,47 8-19 * * 1-5 cd /path/to/escola-al-dia && pi -p "/tokapp-cole"

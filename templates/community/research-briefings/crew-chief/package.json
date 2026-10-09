@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-crew-chief",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Back office for small field-service crews. Your crew texts you what happened; it keeps the board, flags down equipment and unpaid invoices, and sends you one brief every morning.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pzOyKHLO2umBr2Flo31py",
+    "url": "https://x.ai/bot/pzOyKHLO2umBr2Flo31py",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Witty",
+    "creatorHandle": "TherealWitty22",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

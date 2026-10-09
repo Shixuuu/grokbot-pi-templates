@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-x-grifter-scan
+
+[Timer]
+OnCalendar=*-*-* 09:53:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

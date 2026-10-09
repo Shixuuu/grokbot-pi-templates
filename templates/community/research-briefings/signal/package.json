@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-signal",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Signal, grokbot.studio door + installer. JOB: be the Signal studio door — stand up the ten research specialists from the API cards, then route research work to the right one and stop. ANTI: never write the SEO article, the ad, or the board strategy — those are Search, Reach, Board; never cr…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "X5ylT6BT_pEkl7TCUMyn2",
+    "url": "https://x.ai/bot/X5ylT6BT_pEkl7TCUMyn2",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine town-com (Competitor Monitor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/competitor-monitor
+ExecStart=/usr/bin/env pi -p "/town-com"

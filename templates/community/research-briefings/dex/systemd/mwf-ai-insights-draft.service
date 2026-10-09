@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine mwf-ai-insights-draft (Dex)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dex
+ExecStart=/usr/bin/env pi -p "/mwf-ai-insights-draft"

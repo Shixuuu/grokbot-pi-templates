@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine correu-escola (Escola al Dia)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/escola-al-dia
+ExecStart=/usr/bin/env pi -p "/correu-escola"

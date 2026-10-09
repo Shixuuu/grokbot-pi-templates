@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine crypto-30-min-hunt-24-7
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every 2 hours around the clock, hunt crypto swings on the agentic book.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

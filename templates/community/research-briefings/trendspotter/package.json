@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-trendspotter",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A trend scout for field and event marketers. It scans sports, entertainment, culture, and AI-in-marketing news every weekday and turns it into a short digest with event ideas and targeting angles.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nnDL-hclNLB8SkJvcVtwr",
+    "url": "https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jenna Nanpei",
+    "creatorHandle": "jennananpei",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

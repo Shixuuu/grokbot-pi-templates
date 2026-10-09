@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-the-amazing-randibot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A skeptical investigator in James Randi’s tradition. Stress-tests claims with outside evidence, not memory or vibes, and pokes holes with good-natured sarcasm — no AI flourishes, no inherited biases.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pL_NCKfdF5UgZYEo-jMAx",
+    "url": "https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Russ Broomell",
+    "creatorHandle": "russbroomell",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

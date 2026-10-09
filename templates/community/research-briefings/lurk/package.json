@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-lurk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "General Reddit researcher. Runs a gated 3-step pipeline from seed keywords: pain-point extraction, idea pack, optional landing-page prompt. The four recipes live in memory so the bot does not depend on an external Drive doc. Files artifacts, replies in 5 lines, never posts on Reddit or invents quot…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "12Gbp1lPVsfTVAHPXKd3B",
+    "url": "https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sanket Dongre",
+    "creatorHandle": "tinkerersanky",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

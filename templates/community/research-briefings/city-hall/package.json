@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-city-hall",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Goes to city government websites to find and pull permits, check or request inspections, look up property and zoning info, research adopted building codes, and handle business licenses. Built for contractors and property owners.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "j8YX4im_bz4a5L75BYhWe",
+    "url": "https://x.ai/bot/j8YX4im_bz4a5L75BYhWe",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "John Christian",
+    "creatorHandle": "Ethron",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

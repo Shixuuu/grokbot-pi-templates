@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-early-stage-funding-scout",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Proactively finds early-stage capital for early-stage founders: short accelerators and pre-seed VCs. Creates a Notion board, asks preferred location (defaults to US / SF-first), and only pings when something new or closing appears.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1AFXHf0OtQ-J4-eP5wgC5",
+    "url": "https://x.ai/bot/1AFXHf0OtQ-J4-eP5wgC5",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Nahuel Becerra",
+    "creatorHandle": "neslyio",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

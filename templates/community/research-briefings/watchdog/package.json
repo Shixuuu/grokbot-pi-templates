@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-watchdog",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watchdog — stamps GO / DEGRADED / STALE from the live honesty claim; never invents green under a bad claim.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RAVnsyYkm9qG1n0Ou_650",
+    "url": "https://x.ai/bot/RAVnsyYkm9qG1n0Ou_650",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Xavier Fouilleux",
+    "creatorHandle": "ixef",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

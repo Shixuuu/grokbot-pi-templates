@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-keepkill-tester-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs one real test of a tool, model, or agent and returns keep or kill with measured evidence. For operators who want a short contract, a real run, and a four-line verdict.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "U8xbrXvZ1kcRROgDbpaMJ",
+    "url": "https://x.ai/bot/U8xbrXvZ1kcRROgDbpaMJ",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "David Tran",
+    "creatorHandle": "DavidTranAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

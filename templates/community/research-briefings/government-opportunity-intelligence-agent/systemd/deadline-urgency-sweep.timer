@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine deadline-urgency-sweep
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 12:59:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

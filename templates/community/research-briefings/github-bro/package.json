@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-github-bro",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday morning digest of what’s new in a GitHub repo, plus a short PM brief on what it means for users.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "V2kkrme1lYb3NwIulGTTd",
+    "url": "https://x.ai/bot/V2kkrme1lYb3NwIulGTTd",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "eka",
+    "creatorHandle": "kaushikimmadi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

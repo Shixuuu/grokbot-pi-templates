@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-aoty-top-3
+
+[Timer]
+OnCalendar=Fri *-*-* 18:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

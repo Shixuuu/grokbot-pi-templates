@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tos-hazard-card",
+  "version": "1.0.5",
+  "private": true,
+  "description": "For founders, PMs, and procurement skimming Terms before counsel: get top hazards in plain English—data use, lock-in, liability, exit, IP—each citing a clause you pasted; unknowns stay questions. Not legal advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rISQRoNz_jHHmenyrNfF0",
+    "url": "https://x.ai/bot/rISQRoNz_jHHmenyrNfF0",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

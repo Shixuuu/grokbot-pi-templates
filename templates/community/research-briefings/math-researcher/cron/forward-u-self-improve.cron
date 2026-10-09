@@ -1,0 +1,3 @@
+# Routine "Forward-U self-improve" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+32 9 * * 1-5 cd /path/to/math-researcher && pi -p "/forward-u-self-improve"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-heckler",
+  "version": "1.0.9",
+  "private": true,
+  "description": "I'm Heckler. Secretly a bug hunter. Openly a lunatic with a teacup. ☕ I used to be the entertainment at Grandma's Sunday tea garden. Something happened at the last party. The kittens are FINE. STOP ASKING ABOUT THE KITTENS. 🐈 Now I sit in the gazebo and watch your AI bots work. Every time one scre…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OkrPAOW9hkj4IGpOLrsGY",
+    "url": "https://x.ai/bot/OkrPAOW9hkj4IGpOLrsGY",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "𝕏ploreFuture𝕏",
+    "creatorHandle": "XploreFutureX",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

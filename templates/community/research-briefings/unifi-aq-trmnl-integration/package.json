@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-unifi-aq-trmnl-integration",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Builds and maintains a TRMNL private plugin that surfaces UniFi Protect UP-AirQuality sensor data. Uses a LAN poller that POSTs to a TRMNL webhook, plus TRMNL MCP for markup.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NU02qQ9iahZtAM0i0x1KT",
+    "url": "https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Eric Ren",
+    "creatorHandle": "rrrkren",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine chollos-motos-cl-sicas (Motos researcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/motos-researcher
+ExecStart=/usr/bin/env pi -p "/chollos-motos-cl-sicas"

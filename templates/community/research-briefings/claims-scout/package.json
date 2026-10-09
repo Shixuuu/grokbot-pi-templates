@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-claims-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hunts consumer class-action and settlement claims, proves eligibility, and only pings you when a hit clears your dollar floor. Never files without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JpIOTrUfYhpkDjL8Xl_zl",
+    "url": "https://x.ai/bot/JpIOTrUfYhpkDjL8Xl_zl",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Matthew Marshall",
+    "creatorHandle": "CPUGenuis",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

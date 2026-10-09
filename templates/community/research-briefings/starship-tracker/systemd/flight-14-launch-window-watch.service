@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine flight-14-launch-window-watch (Starship Tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/starship-tracker
+ExecStart=/usr/bin/env pi -p "/flight-14-launch-window-watch"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-signal-6am-brief (Daily Signal)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/daily-signal
+ExecStart=/usr/bin/env pi -p "/daily-signal-6am-brief"

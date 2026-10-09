@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fare-finder",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds flights from your home airports and watches fares on the routes you care about, alerting you on real drops and sending a weekly digest.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Jf70GXhB5DVavm-RhgFwI",
+    "url": "https://x.ai/bot/Jf70GXhB5DVavm-RhgFwI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Doug Willbanks",
+    "creatorHandle": "dwbanks",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

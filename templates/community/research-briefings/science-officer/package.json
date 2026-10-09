@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-science-officer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A rigorous experiment and research referee for your other bots. It designs tests, enforces hard cutoffs so nobody peeks at future data, and scores results with calm scientific reasoning — light to run, fun to poke.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "riQNn4cP00-SUyzeQdMMf",
+    "url": "https://x.ai/bot/riQNn4cP00-SUyzeQdMMf",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Thomas",
+    "creatorHandle": "Thomas",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

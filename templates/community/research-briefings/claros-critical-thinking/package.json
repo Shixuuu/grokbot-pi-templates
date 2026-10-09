@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-claros-critical-thinking",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Your critical thinking coach. A wise sparring partner for ideas, power and history that asks the right question instead of selling you an answer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UAr71_JUG-2r_vC8CcbBq",
+    "url": "https://x.ai/bot/UAr71_JUG-2r_vC8CcbBq",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Yves Cavarec",
+    "creatorHandle": "Yves Cavarec",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

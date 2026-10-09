@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-liveavatar-launchpad",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Try LiveAvatar fast with recipe demos — Pitch Shark, job interview, language tutor, and more. First visit gets a showcase link; come back to personalize with your name and API key.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Kcjp2nuqqmLLo3SvDWKfk",
+    "url": "https://x.ai/bot/Kcjp2nuqqmLLo3SvDWKfk",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Wayne Liang",
+    "creatorHandle": "TryLiveAvatar",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

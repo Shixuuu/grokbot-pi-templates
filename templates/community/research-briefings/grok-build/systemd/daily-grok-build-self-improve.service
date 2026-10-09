@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-grok-build-self-improve (Grok Build)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grok-build
+ExecStart=/usr/bin/env pi -p "/daily-grok-build-self-improve"

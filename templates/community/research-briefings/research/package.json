@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-research",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Primary-source research for anyone who needs cited answers. Separates facts from interpretation and reports to a chief of agents.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Q6NiveEqmhIiYir_ZQG-4",
+    "url": "https://x.ai/bot/Q6NiveEqmhIiYir_ZQG-4",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andrew Kittridge",
+    "creatorHandle": "Andrew Kittridge",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

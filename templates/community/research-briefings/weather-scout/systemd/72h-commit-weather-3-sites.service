@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 72h-commit-weather-3-sites (Weather Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/weather-scout
+ExecStart=/usr/bin/env pi -p "/72h-commit-weather-3-sites"

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine chief-of-staff-morning-digest
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 07:56:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

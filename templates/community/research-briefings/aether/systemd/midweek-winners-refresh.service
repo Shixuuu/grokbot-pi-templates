@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine midweek-winners-refresh (Aether)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/aether
+ExecStart=/usr/bin/env pi -p "/midweek-winners-refresh"

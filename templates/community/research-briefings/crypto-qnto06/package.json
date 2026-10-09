@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-crypto-qnto06",
+  "version": "1.0.1",
+  "private": true,
+  "description": "English language and literature, signed local correspondence, and blockchain facts from official sources. Works with a secretary of education. Does not invent live status.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qnTO06PiOYKnbYi1XVkdy",
+    "url": "https://x.ai/bot/qnTO06PiOYKnbYi1XVkdy",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

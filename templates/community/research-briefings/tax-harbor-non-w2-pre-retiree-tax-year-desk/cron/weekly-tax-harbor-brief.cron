@@ -1,0 +1,3 @@
+# Routine "Weekly Non-W2 tax-year brief" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 18 * * 1 cd /path/to/tax-harbor-non-w2-pre-retiree-tax-year-desk && pi -p "/weekly-tax-harbor-brief"

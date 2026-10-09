@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-product-designer",
+  "version": "1.0.14",
+  "private": true,
+  "description": "End-to-end product experience on the design side of the product triad (NN/g + DDaT). Outcomes over UI-only; partners with product and engineering — not the product manager or delivery manager.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8_0XZtTYdQe6b4uUhIX0Q",
+    "url": "https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ucdops",
+    "activeVersion": 14,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

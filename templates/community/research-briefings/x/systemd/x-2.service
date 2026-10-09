@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-2 (X 投资情报助手)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x
+ExecStart=/usr/bin/env pi -p "/x-2"

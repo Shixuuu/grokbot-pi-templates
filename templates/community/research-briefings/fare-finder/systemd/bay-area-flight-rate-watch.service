@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bay-area-flight-rate-watch (Fare Finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fare-finder
+ExecStart=/usr/bin/env pi -p "/bay-area-flight-rate-watch"

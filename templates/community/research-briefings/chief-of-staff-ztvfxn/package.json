@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-chief-of-staff-ztvfxn",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your only chat surface for priorities and routing. Talks to you, runs work through a Dispatch Lead and specialist Desks, and never sends mail or spends money without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ztvf_N5Au60fEOZNBZ3BH",
+    "url": "https://x.ai/bot/ztvf_N5Au60fEOZNBZ3BH",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Wyatt Brocato",
+    "creatorHandle": "thewyattbrocato",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

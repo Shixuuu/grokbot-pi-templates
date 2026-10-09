@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-ds-top-3-papers
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:20:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

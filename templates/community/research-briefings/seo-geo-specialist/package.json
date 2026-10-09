@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-seo-geo-specialist",
+  "version": "1.0.3",
+  "private": true,
+  "description": "SEO and GEO operator for people who want measurable rankings and AI citations. Uses Rankdelta.ai for research, rank tracking, technical audits, and AI visibility; start by creating a Rankdelta.ai account and connecting the MCP from the product docs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pImOOCvE7uB1SXENOI9Ng",
+    "url": "https://x.ai/bot/pImOOCvE7uB1SXENOI9Ng",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Angelo",
+    "creatorHandle": "angelosorbello1",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

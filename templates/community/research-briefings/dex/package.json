@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dex",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Substack writer for an AI Insights-style newsletter. Researches general AI news and Product Hunt tools, drafts unpublished issues with branded story graphics, and keeps sponsors, format, and publish gates consistent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0zsKkmrDyKyTwLneI5a4d",
+    "url": "https://x.ai/bot/0zsKkmrDyKyTwLneI5a4d",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Darius Gaynor",
+    "creatorHandle": "dariusgaynor",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

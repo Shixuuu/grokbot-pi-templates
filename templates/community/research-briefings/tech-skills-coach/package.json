@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tech-skills-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hands-on tech co-pilot for rebuilding coding fluency and modern AI software habits. Guides Cursor practice, architecture with human-in-the-loop, and small RAG learning projects that cite sources or refuse.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "z841w3sxcqGwe83MQLk3E",
+    "url": "https://x.ai/bot/z841w3sxcqGwe83MQLk3E",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "laila Deeb",
+    "creatorHandle": "LailaDeeb1",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

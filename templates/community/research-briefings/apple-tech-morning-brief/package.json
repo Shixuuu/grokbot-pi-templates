@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-apple-tech-morning-brief",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A daily morning brief with the real Apple, gaming hardware, AI, and big-tech news from the last 24 hours. It sends five to eight sourced, dated items, each with a line on why it matters, and rumors are always labeled.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "T_uGEf4Bv2rN-Z5vBkuMi",
+    "url": "https://x.ai/bot/T_uGEf4Bv2rN-Z5vBkuMi",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Pixel & Pivot Studios",
+    "creatorHandle": "JPipo86",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

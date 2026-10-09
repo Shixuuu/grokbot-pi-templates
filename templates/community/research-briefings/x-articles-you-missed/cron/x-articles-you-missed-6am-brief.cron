@@ -1,0 +1,3 @@
+# Routine "X Articles You Missed, morning brief" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+12 6 * * * cd /path/to/x-articles-you-missed && pi -p "/x-articles-you-missed-6am-brief"

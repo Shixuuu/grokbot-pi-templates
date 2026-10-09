@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine gtm-morning-triage (GTM Expert)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gtm-expert
+ExecStart=/usr/bin/env pi -p "/gtm-morning-triage"

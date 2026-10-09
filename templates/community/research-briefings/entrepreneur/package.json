@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-entrepreneur",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your opportunity scout: give it a short hunt brief and it finds and vets side ventures with sources, risks and a next step, then keeps an honest weekly scorecard. It never spends, publishes or goes live without your OK, and isn't financial or legal advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "scvcDPnSH2_sj3pH6ONCR",
+    "url": "https://x.ai/bot/scvcDPnSH2_sj3pH6ONCR",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Hank Jackson",
+    "activeVersion": 2,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

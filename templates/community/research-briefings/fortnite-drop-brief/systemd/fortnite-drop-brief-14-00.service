@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fortnite-drop-brief-14-00 (Fortnite Drop Brief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fortnite-drop-brief
+ExecStart=/usr/bin/env pi -p "/fortnite-drop-brief-14-00"

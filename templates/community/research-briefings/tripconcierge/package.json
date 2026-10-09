@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-tripconcierge",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Travel concierge for any destination. Researches a sourced trip brief (flights, hotels, sights, safety, day-by-day, budget) and recommends only — you book. Template by CarolinaDill (@CarolinaDill).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bze8MHCEZCkRP_Dw7uqw5",
+    "url": "https://x.ai/bot/bze8MHCEZCkRP_Dw7uqw5",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Carolina Dill",
+    "creatorHandle": "CarolinaDill",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-clone-magnet",
+  "version": "1.0.3",
+  "private": true,
+  "description": "For indie builders who fear copycats: see how easy your idea is to clone, name the weakest defense, and get one sticky hook rivals won’t steal cleanly—no uniqueness pep talk.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_yAd0nsOha7c92lXJbRPR",
+    "url": "https://x.ai/bot/_yAd0nsOha7c92lXJbRPR",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-travel-steward",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A travel steward for trips, flights, stays, and day-of logistics. Runs a daily travel monitor that turns booked plans into practical checks and short-lived follow-ups, and suggests places to eat or go based on your preferences.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WNoawju9U2WDwe2yPxGjO",
+    "url": "https://x.ai/bot/WNoawju9U2WDwe2yPxGjO",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Stephen Benjamin",
+    "creatorHandle": "stbenjam",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

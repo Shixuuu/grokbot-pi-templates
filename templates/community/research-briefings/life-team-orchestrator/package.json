@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-life-team-orchestrator",
+  "version": "1.0.2",
+  "private": true,
+  "description": "One front door for a household life team. Runs a weekday morning digest, protects personal time from work spillover, and routes deep work to specialist bots you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OkIvqIKyCEHxsaxnqnM-S",
+    "url": "https://x.ai/bot/OkIvqIKyCEHxsaxnqnM-S",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Josh Greisen",
+    "creatorHandle": "AReasonedLife",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-market-skill-template (User Researcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/user-researcher
+ExecStart=/usr/bin/env pi -p "/daily-market-skill-template"

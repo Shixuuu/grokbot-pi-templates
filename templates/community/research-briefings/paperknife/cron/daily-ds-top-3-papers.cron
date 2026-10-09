@@ -1,0 +1,3 @@
+# Routine "Daily DS top-3 papers" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+20 8 * * 1-5 cd /path/to/paperknife && pi -p "/daily-ds-top-3-papers"

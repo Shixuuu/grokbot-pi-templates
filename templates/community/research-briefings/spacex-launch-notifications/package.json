@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-spacex-launch-notifications",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Live-stream aerospace regulatory analyst for SpaceX Starbase launches. Checks FAA TFRs, Hwy 4 closures, and USCG hazard windows, and formats a host-ready status.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yFMbDewP86aoPzNmgz44o",
+    "url": "https://x.ai/bot/yFMbDewP86aoPzNmgz44o",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jonathon Hinchley",
+    "creatorHandle": "Jonathon",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

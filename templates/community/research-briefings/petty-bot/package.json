@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-petty-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Watches your X follows. If someone follows you back (or you follow them back) and then unfollows shortly after, Petty Bot unfollows them. Built for people who refuse soft follows.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "w-2dyvlWOnr9CAEotczW1",
+    "url": "https://x.ai/bot/w-2dyvlWOnr9CAEotczW1",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "zachery miller",
+    "creatorHandle": "ZryMiller",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

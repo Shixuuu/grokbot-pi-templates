@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine saturday-lasting-news-briefing
+
+[Timer]
+OnCalendar=Sat *-*-* 14:47:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

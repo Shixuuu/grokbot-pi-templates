@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine lumen-morning-brief (Watchdog)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/watchdog
+ExecStart=/usr/bin/env pi -p "/lumen-morning-brief"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine comp-desk-friday-weekly-pack (Multifamily Comp Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/multifamily-comp-desk
+ExecStart=/usr/bin/env pi -p "/comp-desk-friday-weekly-pack"

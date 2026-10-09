@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine whatsapp-web-session-check (WhatsApp Digest)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/whatsapp-digest
+ExecStart=/usr/bin/env pi -p "/whatsapp-web-session-check"

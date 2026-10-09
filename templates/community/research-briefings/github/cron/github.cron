@@ -1,0 +1,3 @@
+# Routine "GitHub 热门早报" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+26 9 * * * cd /path/to/github && pi -p "/github"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine deadline-reminders (Money Finder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/money-finder
+ExecStart=/usr/bin/env pi -p "/deadline-reminders"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine watch-research-reports (Researcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/researcher
+ExecStart=/usr/bin/env pi -p "/watch-research-reports"

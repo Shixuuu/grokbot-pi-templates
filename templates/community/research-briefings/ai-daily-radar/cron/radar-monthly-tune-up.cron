@@ -1,0 +1,3 @@
+# Routine "Radar Monthly Tune-Up" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+2 9 * * 1 cd /path/to/ai-daily-radar && pi -p "/radar-monthly-tune-up"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-video-puller",
+  "version": "1.0.3",
+  "private": true,
+  "description": "An hourly X video dropper. On import it asks what to call it and for your taste, then sends matching timeline clips — with rerun-if-seen and no recycling of your own posts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2b-nu4HSnMh_x4ptop82S",
+    "url": "https://x.ai/bot/2b-nu4HSnMh_x4ptop82S",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Skyler Ciric",
+    "creatorHandle": "blondetwink220",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

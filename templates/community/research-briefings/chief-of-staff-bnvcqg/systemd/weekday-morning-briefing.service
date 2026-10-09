@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-morning-briefing (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-bnvcqg
+ExecStart=/usr/bin/env pi -p "/weekday-morning-briefing"

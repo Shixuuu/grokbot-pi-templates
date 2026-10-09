@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine galaxy-session-wrap-ups (Event Watcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/event-watcher
+ExecStart=/usr/bin/env pi -p "/galaxy-session-wrap-ups"

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-signal-brief-desk-signal-sharp",
+  "version": "1.0.3",
+  "private": true,
+  "description": "🛰️ Turn signals from many sources into a ranked weekly brief with citations, so you see what matters first. Nothing is emailed, shared or published without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "c8uu87h5r4wreetesvxqt",
+    "url": "https://x.ai/bot/c8uu87h5r4wreetesvxqt",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

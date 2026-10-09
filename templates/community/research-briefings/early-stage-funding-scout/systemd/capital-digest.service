@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine capital-digest (Early-Stage Funding Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/early-stage-funding-scout
+ExecStart=/usr/bin/env pi -p "/capital-digest"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine mot-pbi-flight-price-watch (Vacation Planner)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/vacation-planner
+ExecStart=/usr/bin/env pi -p "/mot-pbi-flight-price-watch"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "NFL PropDesk research assistant. Stamps named player props and totals with TypeSafe Jev language-support probabilities — never picks, never places bets.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9EMVK1X_bv5hA5pAdZCpt",
+    "url": "https://x.ai/bot/9EMVK1X_bv5hA5pAdZCpt",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Contravious Battle",
+    "creatorHandle": "ConWanZo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

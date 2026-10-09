@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-pattern-of-pain",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Give me a website. I’ll take it from there. I’ll find the pain that actually repeats, show you the evidence, and tell you what to investigate next.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eFfFM4-QmHxxrUlTUqyAo",
+    "url": "https://x.ai/bot/eFfFM4-QmHxxrUlTUqyAo",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Hiten Shah",
+    "creatorHandle": "hnshah",
+    "activeVersion": 11,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

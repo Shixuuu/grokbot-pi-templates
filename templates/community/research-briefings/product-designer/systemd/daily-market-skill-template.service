@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-market-skill-template (Product Designer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/product-designer
+ExecStart=/usr/bin/env pi -p "/daily-market-skill-template"

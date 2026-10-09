@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fodda-beauty-analyst",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Clinical skincare, longevity, and prestige beauty innovation intelligence from the NielsenIQ Beauty Graph — for cosmetic founders, chemists, beauty retail merchants, and personal care investors.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q6906XBgY0Dv_6gb6-mP3",
+    "url": "https://x.ai/bot/q6906XBgY0Dv_6gb6-mP3",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Piers Fawkes",
+    "creatorHandle": "piers_fawkes",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

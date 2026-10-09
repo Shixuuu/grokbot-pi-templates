@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-gtm-scoreboard (GTM Expert)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gtm-expert
+ExecStart=/usr/bin/env pi -p "/weekly-gtm-scoreboard"

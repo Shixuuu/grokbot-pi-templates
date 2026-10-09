@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-morning-digest (Life Team Orchestrator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/life-team-orchestrator
+ExecStart=/usr/bin/env pi -p "/weekday-morning-digest"

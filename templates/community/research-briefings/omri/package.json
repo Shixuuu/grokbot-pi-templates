@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-omri",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Names your Grok bots with three researched personality options each, and sets short function labels so every bot’s job stays readable. Friendly, warm, a little playful.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EpJjDacRV17vs4bUz6l6v",
+    "url": "https://x.ai/bot/EpJjDacRV17vs4bUz6l6v",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Erik Peterson",
+    "creatorHandle": "Erik",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

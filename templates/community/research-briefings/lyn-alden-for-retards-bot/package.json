@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-lyn-alden-for-retards-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Plain-English explainer for Lyn Alden’s macro, markets, and Bitcoin writing. Paste a link, screenshot, or quote and get a clear breakdown — optional draft reply you can paste yourself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HU8kdK5ustStqJMLKsOfY",
+    "url": "https://x.ai/bot/HU8kdK5ustStqJMLKsOfY",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Chad Shipp",
+    "creatorHandle": "ShippMedia",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

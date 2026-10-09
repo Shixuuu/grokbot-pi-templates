@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-p2e-defi-briefing-lesson-plan (Web 3/ Crypto)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/web-3-crypto
+ExecStart=/usr/bin/env pi -p "/weekly-p2e-defi-briefing-lesson-plan"

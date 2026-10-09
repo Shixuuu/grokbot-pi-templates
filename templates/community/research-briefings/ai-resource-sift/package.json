@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-ai-resource-sift",
+  "version": "1.0.1",
+  "private": true,
+  "description": "For one AI topic, sweep papers, code, lectures, courses, Reddit, and official lab docs, then keep a large filtered stack. Short card in chat, full stack in a file. No posting, no installs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3XvYxSCGJRY6x1woq-hdL",
+    "url": "https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Alen Rylov",
+    "creatorHandle": "beamnxw",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

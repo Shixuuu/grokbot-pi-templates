@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine outbound-finish-to-send-watch (Agency Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/agency-chief-of-staff
+ExecStart=/usr/bin/env pi -p "/outbound-finish-to-send-watch"

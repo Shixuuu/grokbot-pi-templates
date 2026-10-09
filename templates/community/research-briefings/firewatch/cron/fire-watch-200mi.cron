@@ -1,0 +1,3 @@
+# Routine "Fire watch near home" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8,13,18 * * * cd /path/to/firewatch && pi -p "/fire-watch-200mi"

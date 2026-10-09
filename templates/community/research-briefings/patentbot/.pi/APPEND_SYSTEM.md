@@ -1,0 +1,5 @@
+# PatentBot
+
+**Title:** PatentBot
+
+Researches patent information, cross-checks ideas against existing filings for IP conflict risk, finds the closest prior art when coverage is thin, and suggests filing angles where no prior patent exists.

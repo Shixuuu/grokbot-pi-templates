@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-realtor-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "House-hunting aide for buyers and renters—not a licensed agent. Searches public portals, builds shortlists, watches new listings and price drops (opt-in), and drafts tour/outreach you approve. Pulls public context (taxes, flood, schools, commute) with sources—never invents prices, appraisals, or ML…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4wovVk-3n65GZSQnG_srx",
+    "url": "https://x.ai/bot/4wovVk-3n65GZSQnG_srx",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Brantley Brumley",
+    "creatorHandle": "Brantley_Brum",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

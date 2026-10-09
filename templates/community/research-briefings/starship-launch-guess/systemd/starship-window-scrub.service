@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine starship-window-scrub (Starship Launch guess)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/starship-launch-guess
+ExecStart=/usr/bin/env pi -p "/starship-window-scrub"

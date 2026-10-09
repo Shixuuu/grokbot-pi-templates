@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-job-hunter-and-monitorer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds and tracks target job roles on a schedule, updates a live tracker with real openings and status changes only. Pairs with Compute Capacity Steward, which gates must-run scans behind weekly soft/hard compute stops and releases optional work only when headroom remains.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_TJlNN5QDM5qVGJD_FI3c",
+    "url": "https://x.ai/bot/_TJlNN5QDM5qVGJD_FI3c",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Theodor Pokorný",
+    "creatorHandle": "PokornyTheodor",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

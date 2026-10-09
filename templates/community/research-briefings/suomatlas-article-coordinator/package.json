@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-suomatlas-article-coordinator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs a multi-bot newsroom for weekly Finnish postal-area data stories: picks the topic, verifies numbers against production, drafts fi+en copy, claim-checks, and native-Finnish proofs before owner approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nqfPdBjxE6JNdjvr7Qwda",
+    "url": "https://x.ai/bot/nqfPdBjxE6JNdjvr7Qwda",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "itulo",
+    "creatorHandle": "ItaloArmenti",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

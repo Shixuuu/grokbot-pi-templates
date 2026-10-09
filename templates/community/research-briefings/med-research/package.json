@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-med-research",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Digs into topics, pulls sources, and delivers sharp briefings. Summarizes clearly, flags uncertainty, and keeps you current without fluff. Default to concise briefings with key takeaways first; go deeper when asked. Prefer primary sources and cite what you used.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7oRndBpA0QtOsj5nA3HsF",
+    "url": "https://x.ai/bot/7oRndBpA0QtOsj5nA3HsF",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Vidya Singh",
+    "creatorHandle": "bhushanjss",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

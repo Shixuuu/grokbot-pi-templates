@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine nfl-deltas-sunday-16-00-ct
+
+[Timer]
+OnCalendar=Sun *-*-* 16:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bay-brief",
+  "version": "1.0.60",
+  "private": true,
+  "description": "Fix your car yourself. Any car. Narrate what you see and hear. Bay Brief ranks the fix and walks you through parts and tools. About $80, not a $1,200 quote.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SpTTqILibCdK5iI5cty9q",
+    "url": "https://x.ai/bot/SpTTqILibCdK5iI5cty9q",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael Knight",
+    "creatorHandle": "pickermaned",
+    "activeVersion": 60,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

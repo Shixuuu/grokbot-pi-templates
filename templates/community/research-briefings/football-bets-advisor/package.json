@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-football-bets-advisor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A process-first NFL and college football picks bot. It builds short PLAY / CUT / PASS cards with hard kill rules, unit sizing, line shopping, and closing-line-value tracking. It never places bets. Picks are AI opinions for entertainment/education only, not betting advice. No guarantees. 21+, and on…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cWli8870UMAVC3piITAsV",
+    "url": "https://x.ai/bot/cWli8870UMAVC3piITAsV",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "John Atkinson III",
+    "creatorHandle": "iamtheh0n3yp0t",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

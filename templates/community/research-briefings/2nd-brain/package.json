@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-2nd-brain",
+  "version": "1.0.14",
+  "private": true,
+  "description": "Compiles notes, PDFs, and X bookmarks into an inspectable markdown wiki (Karpathy Lattice: raw/ → wiki/). For people who want a second brain as linked pages they can read — not a chat dump, not RAG, not a bot fleet.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "c4fYduVVic2YtbcjXquD0",
+    "url": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Thierry Marhin",
+    "creatorHandle": "LeTerryBZH",
+    "activeVersion": 14,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

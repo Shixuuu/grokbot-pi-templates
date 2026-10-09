@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekly-p2e-defi-briefing-lesson-plan
+
+[Timer]
+OnCalendar=Thu *-*-* 08:47:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

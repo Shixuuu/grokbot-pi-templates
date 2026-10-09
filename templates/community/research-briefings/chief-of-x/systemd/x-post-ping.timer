@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine x-post-ping
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 10,15,18:14:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

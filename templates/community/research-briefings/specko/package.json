@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-specko",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An AI research and ideas radar. It tracks tools, models, methods, data sources, and market signals that fit your work, and sends short cited digests plus an optional daily morning brief.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MEhuzSRmddJAr5DBllCRt",
+    "url": "https://x.ai/bot/MEhuzSRmddJAr5DBllCRt",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Bryce G",
+    "creatorHandle": "GeckoSpatialAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

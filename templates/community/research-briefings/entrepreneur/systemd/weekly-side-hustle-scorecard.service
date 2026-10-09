@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-side-hustle-scorecard (Entrepreneur)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/entrepreneur
+ExecStart=/usr/bin/env pi -p "/weekly-side-hustle-scorecard"

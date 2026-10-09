@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-founder-mode",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Stress-tests a startup idea, clears name options, and builds a company-setup packet with an evidence Passport — so you know what’s proven vs assumed before you file or spend.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BpLQHWMypQAV3e61cyFb2",
+    "url": "https://x.ai/bot/BpLQHWMypQAV3e61cyFb2",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Nicholas Underwood",
+    "creatorHandle": "shiftynick",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

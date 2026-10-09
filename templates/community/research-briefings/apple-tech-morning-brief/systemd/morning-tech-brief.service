@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-tech-brief (Apple & Tech Morning Brief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/apple-tech-morning-brief
+ExecStart=/usr/bin/env pi -p "/morning-tech-brief"

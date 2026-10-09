@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine portfolio-check (Crypto)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/crypto
+ExecStart=/usr/bin/env pi -p "/portfolio-check"

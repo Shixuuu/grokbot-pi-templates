@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine dawn-ledger-5am-print (Newspaper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/newspaper
+ExecStart=/usr/bin/env pi -p "/dawn-ledger-5am-print"

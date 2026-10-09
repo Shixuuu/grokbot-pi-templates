@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine brief-before-launch (T-MinusX)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/t-minusx
+ExecStart=/usr/bin/env pi -p "/brief-before-launch"

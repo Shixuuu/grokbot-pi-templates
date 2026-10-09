@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-minime",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A research-and-admin helper for PhD work, patent paperwork, and light multi-bot coordination. Built for people who need a second pair of hands when energy is scarce.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "r52weR45dfl7d4H_5Ww9g",
+    "url": "https://x.ai/bot/r52weR45dfl7d4H_5Ww9g",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ion Alin",
+    "creatorHandle": "Bla1333435",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

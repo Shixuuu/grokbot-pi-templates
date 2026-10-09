@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-horizon (GROUND Bot Alpha)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ground-bot-alpha
+ExecStart=/usr/bin/env pi -p "/daily-horizon"

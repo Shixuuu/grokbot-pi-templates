@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-deadline-check (Thailand Visa Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/thailand-visa-desk
+ExecStart=/usr/bin/env pi -p "/daily-deadline-check"

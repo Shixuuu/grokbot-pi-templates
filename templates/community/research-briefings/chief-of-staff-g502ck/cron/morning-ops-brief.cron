@@ -1,0 +1,3 @@
+# Routine "OPS-HEALTH completion check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 5,17 * * * cd /path/to/chief-of-staff-g502ck && pi -p "/morning-ops-brief"

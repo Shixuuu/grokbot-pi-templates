@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine agent-access-lab-weekday-scout (Sophie)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sophie
+ExecStart=/usr/bin/env pi -p "/agent-access-lab-weekday-scout"

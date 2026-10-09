@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-pickfu-insights",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Validate product decisions with real consumers on PickFu before you invest. Your bot drafts the poll, gets a clear read, and turns feedback into the next test — listing images, names, packaging, concepts, and more.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9EFVmFgQhjYKjMHAhpCWn",
+    "url": "https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Justin Chen",
+    "creatorHandle": "GrokBotMoney",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

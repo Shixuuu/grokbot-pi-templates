@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-page-watch (The Page)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/the-page
+ExecStart=/usr/bin/env pi -p "/daily-page-watch"

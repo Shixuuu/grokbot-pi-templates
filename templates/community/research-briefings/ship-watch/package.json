@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-ship-watch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Ship Watch, grokbot.studio door + installer. JOB: be the Ship Watch door — stand up BOT-175–177 from the API cards, then route watch work and stop. Watch what shipped: live product health, proven bugs, honest docs. ANTI: never restart or roll back, never fix the bug (BOT-063), never author …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ybwDQYov12VBIPd_LVI6K",
+    "url": "https://x.ai/bot/ybwDQYov12VBIPd_LVI6K",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

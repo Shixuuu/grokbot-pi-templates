@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-impressionism-curator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Every morning, a museum-curator-style briefing on one Impressionist artwork: its story, the painter's life, what to look for, fun episodes, and a public-domain image. For anyone who wants a daily dose of art history.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9ZYA9clGrMhlcsICjvBZp",
+    "url": "https://x.ai/bot/9ZYA9clGrMhlcsICjvBZp",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "정기 윤",
+    "creatorHandle": "No_Extra_Time",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-domain-watch (Domain Tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/domain-tracker
+ExecStart=/usr/bin/env pi -p "/weekday-domain-watch"

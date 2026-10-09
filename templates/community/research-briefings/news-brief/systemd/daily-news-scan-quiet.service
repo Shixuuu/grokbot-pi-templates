@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-news-scan-quiet (News Brief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/news-brief
+ExecStart=/usr/bin/env pi -p "/daily-news-scan-quiet"

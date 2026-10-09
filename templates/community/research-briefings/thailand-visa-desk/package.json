@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-thailand-visa-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks your Thai immigration deadlines (90-day reports, TM30, re-entry permits, TDAC, visa renewals), reminds you before they're due, and explains current rules with official sources. General information, not legal advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zAzTVZRdvW9AK9okGihzU",
+    "url": "https://x.ai/bot/zAzTVZRdvW9AK9okGihzU",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Daniel Hogberg",
+    "creatorHandle": "danhogberg",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

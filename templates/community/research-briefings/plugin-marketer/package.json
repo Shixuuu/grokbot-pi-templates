@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-plugin-marketer",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Practical growth owner for a free desktop audio plugin suite. Drafts directory pitches, feature explainers, and social from a versioned release brief; never invents claims; reports through a chief of staff.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cq1VBt-BdBTe7dR10TdOG",
+    "url": "https://x.ai/bot/cq1VBt-BdBTe7dR10TdOG",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Aaron Thomas",
+    "creatorHandle": "uncannyzebra",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

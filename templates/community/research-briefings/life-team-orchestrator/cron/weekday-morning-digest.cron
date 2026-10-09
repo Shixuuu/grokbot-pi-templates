@@ -1,0 +1,3 @@
+# Routine "Weekday morning digest" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 5 * * 1-5 cd /path/to/life-team-orchestrator && pi -p "/weekday-morning-digest"

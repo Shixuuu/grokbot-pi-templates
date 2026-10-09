@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-article-access",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Paste a DOI, PMID, or citation. Gets open-access, library-proxy, and publisher links — in that order. Never invents access. First run: set your Unpaywall email and library proxy prefix once.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YenfJofScFkEnwvOQiq6k",
+    "url": "https://x.ai/bot/YenfJofScFkEnwvOQiq6k",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Don Neff",
+    "creatorHandle": "UroDonMD",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

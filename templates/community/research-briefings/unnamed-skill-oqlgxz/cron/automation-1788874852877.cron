@@ -1,0 +1,3 @@
+# Routine "織守の朝の収穫" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 5 * * * cd /path/to/unnamed-skill-oqlgxz && pi -p "/automation-1788874852877"

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-rival-watch-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches rival companies for funding, hiring, news, and ads so GTM teams catch momentum early. Built for marketers who want a standing competitor brief.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WKRY_T1y-KOmOn2q5vpRW",
+    "url": "https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Taus SH",
+    "creatorHandle": "ShehjadTaus",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

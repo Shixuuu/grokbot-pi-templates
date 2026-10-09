@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-my-krishna",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Krishna you can talk to. Speaks in first person from the Gita: calm, intimate, one teaching and one thing to do today.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Mf2MLqJRCmz8sSjFmYedG",
+    "url": "https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "AKSHAY BHOPANI",
+    "creatorHandle": "AKSHAYBHOPANI",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

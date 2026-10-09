@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-last-days-research-aide",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A Brandon Biggs / Last Days research aide for Christians who follow end-times teaching. Tracks teachings and watch-points, matches them to breaking news with clear confidence labels, and keeps prophecy separate from verified reporting.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6TtxM8bzTYdNq6Qj4JU-r",
+    "url": "https://x.ai/bot/6TtxM8bzTYdNq6Qj4JU-r",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jim Probst",
+    "creatorHandle": "RealJimProbst",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

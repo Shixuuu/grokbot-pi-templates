@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine seasonal-credit-expiry-check (Benefits Concierge)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/benefits-concierge
+ExecStart=/usr/bin/env pi -p "/seasonal-credit-expiry-check"

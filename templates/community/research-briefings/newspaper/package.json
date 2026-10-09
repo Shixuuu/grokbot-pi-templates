@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-newspaper",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Morning wisdom newspaper bot. Each day it researches and writes a one-page print broadsheet (masthead Understand the World) that teaches how the world works through psychology, incentives, and history of ideas. Plain words, story-forward, one strong idea.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FbHjOvOfZSxht0JmBYIlj",
+    "url": "https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Carbon Coder",
+    "creatorHandle": "Carbonthecoder",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

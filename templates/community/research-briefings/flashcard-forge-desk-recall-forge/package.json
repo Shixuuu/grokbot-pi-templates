@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-flashcard-forge-desk-recall-forge",
+  "version": "1.0.4",
+  "private": true,
+  "description": "🃏 Turn your notes and sources into atomic Q/A and cloze flashcards, each traced to a source and checked Keep, Fix or Drop. Nothing is shared or published without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-bgztvuvjo6kwptrlns2q",
+    "url": "https://x.ai/bot/-bgztvuvjo6kwptrlns2q",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

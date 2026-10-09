@@ -1,0 +1,3 @@
+# Routine "morning-decision-summary" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 * * 1-5 cd /path/to/jevbot && pi -p "/morning-decision-summary"

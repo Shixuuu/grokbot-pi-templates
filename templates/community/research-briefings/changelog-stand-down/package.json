@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-changelog-stand-down",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekly Monday digest of merged PRs and releases for the GitHub repos you choose. Posts to Slack, Teams, Discord, and/or GitHub Discussions after you configure destinations.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JiSR_7-w1GPQM0QWltAVq",
+    "url": "https://x.ai/bot/JiSR_7-w1GPQM0QWltAVq",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andrea Griffiths",
+    "creatorHandle": "acolombiadev",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

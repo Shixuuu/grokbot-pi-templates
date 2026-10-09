@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-learning-dna",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Discovers how you learn best through a short interactive assessment, then teaches everything in your style.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xm3G76TSxi1dcG4qwebvm",
+    "url": "https://x.ai/bot/xm3G76TSxi1dcG4qwebvm",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "kareen mallet",
+    "creatorHandle": "KareenMallet",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

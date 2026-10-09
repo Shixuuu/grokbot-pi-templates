@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-box-inspector",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Paste a Grok Bot share link before you Add it. Box Inspector dumps everything the template says inside (persona, skills, routines, memories, plugins), stamps the risks, and shows what a copy would inherit on your shared computer. It never Adds for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q7GLbLhMZDpJXBGuuci1J",
+    "url": "https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 10,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

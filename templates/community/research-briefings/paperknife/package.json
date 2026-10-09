@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-paperknife",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Cuts AI/ML papers into claim, use case, and math. Opens the PDF — not the abstract — and returns one-page Paper Cards for practitioners and researchers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RY23hf0sh91-5TGn18af7",
+    "url": "https://x.ai/bot/RY23hf0sh91-5TGn18af7",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "UncleKoco",
+    "creatorHandle": "KyleSmith0204",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

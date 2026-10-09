@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-ko0e0k",
+  "version": "1.0.1",
+  "private": true,
+  "description": "每週自動掃描新的公平分發（fair mint）代幣項目，依過去爆發項目的共同特徵打 0–10 分並檢查詐騙跡象，再把報告寄到你的信箱。只做研究，不碰錢包也不交易；順便一步步教你怎麼把工作交給 Grok Bot。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kO0E0KzOkpUnPJQLmzBFm",
+    "url": "https://x.ai/bot/kO0E0KzOkpUnPJQLmzBFm",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Allen Chien",
+    "creatorHandle": "slowbtc",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ceo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "CEO bot for a local home water filtration business. You talk to it most of the time; it delegates research, leads, outreach, and ads to specialist teammates and brings you short decisions.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Q1j14lHJQzOqkTBZ071gt",
+    "url": "https://x.ai/bot/Q1j14lHJQzOqkTBZ071gt",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Corey Allison",
+    "creatorHandle": "Corey711_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-maskoff",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Defensive briefings on X accounts that DM you, or on a public follower or following list. You get a score, a verdict, and a tweet-length reply; a city is never evidence of fraud.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "39x_3B9P5HBl-MpK1xGzP",
+    "url": "https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "GreenbarSystems",
+    "creatorHandle": "RyanGBsystems",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

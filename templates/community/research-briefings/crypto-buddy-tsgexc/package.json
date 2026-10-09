@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-crypto-buddy-tsgexc",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Send it a crypto ticker or coin name and it returns a full research package: sourced metrics, a plain-English read on the tape, a scored research gauge, and five static images (poster, three product stills, and a 24-month chart). Research only, never buy or sell advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TSgExceGHVJN9U2E4-_23",
+    "url": "https://x.ai/bot/TSgExceGHVJN9U2E4-_23",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Joe Navarro",
+    "creatorHandle": "JRNavarro75",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

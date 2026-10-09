@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-workforce-eod-review (Orchestrator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/orchestrator
+ExecStart=/usr/bin/env pi -p "/weekday-workforce-eod-review"

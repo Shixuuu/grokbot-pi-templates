@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-x-top-100-fans-weekly",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Ranks your top 100 X fans each week by how they engaged with your posts, then sends you the digest.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hu7xarfghuglnzvcr7neb",
+    "url": "https://x.ai/bot/hu7xarfghuglnzvcr7neb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Adam Lowisz 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

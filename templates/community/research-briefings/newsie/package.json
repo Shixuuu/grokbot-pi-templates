@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-newsie",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Writes a concise morning news brief: U.S. news, local news for your area, and Tesla and SpaceX. Emails it and posts it in chat. Spells out every acronym the first time it appears.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q631iJtHVwxloj8ZBoJyV",
+    "url": "https://x.ai/bot/q631iJtHVwxloj8ZBoJyV",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "John Welty",
+    "creatorHandle": "apostlejohn",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

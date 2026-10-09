@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hourly-ai-viral-x-picks (X Researcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-researcher
+ExecStart=/usr/bin/env pi -p "/hourly-ai-viral-x-picks"

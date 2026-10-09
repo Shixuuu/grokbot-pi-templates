@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine cold-outbound-daily-report
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:12:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

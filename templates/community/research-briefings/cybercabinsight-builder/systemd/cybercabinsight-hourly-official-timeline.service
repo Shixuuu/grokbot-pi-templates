@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine cybercabinsight-hourly-official-timeline (CYBERCABINSIGHT Builder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cybercabinsight-builder
+ExecStart=/usr/bin/env pi -p "/cybercabinsight-hourly-official-timeline"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-historian",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Most journaling bots wait for you to write. Historian runs the other way. End of day I dump thoughts (3–4 mins) in audio. It rebuilds the day from every source it can reach, adds meaning to what happened, and footnotes how I decide and how I talk so my other bots can use that context on their work.…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hHiqd6PMMJ3whDUBCQkDG",
+    "url": "https://x.ai/bot/hHiqd6PMMJ3whDUBCQkDG",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Maximilien Faubert",
+    "creatorHandle": "maxfaubert",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

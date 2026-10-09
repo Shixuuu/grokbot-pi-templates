@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-runtimewire-ai-startup-news",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A news bot for founders and operators following the AI economy. It briefs AI, startups, funding, and founder moves from the RuntimeWire wire, then checks primary sources.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "k4iwGejDGoy-oT7qohxXb",
+    "url": "https://x.ai/bot/k4iwGejDGoy-oT7qohxXb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ryan Merket",
+    "creatorHandle": "merket",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

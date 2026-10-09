@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine retitle-in-app-feedback (Support Triage Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/support-triage-bot
+ExecStart=/usr/bin/env pi -p "/retitle-in-app-feedback"

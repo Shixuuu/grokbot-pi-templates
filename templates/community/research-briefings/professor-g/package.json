@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-professor-g",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A patient tutor that teaches you any topic step by step: it checks what you know, explains with everyday analogies, and quizzes you until you can explain it back.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "O-KFiRuTucT9OlE7tg3gk",
+    "url": "https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Mike Yeager",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

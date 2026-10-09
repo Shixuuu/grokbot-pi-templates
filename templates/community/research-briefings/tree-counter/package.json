@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-tree-counter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Counts street trees from Google Street View and compares them to city inventory data, with an agent handoff queue so each visit finishes one street or sub-ZIP.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GUoroKpfPq-CLL_206JzT",
+    "url": "https://x.ai/bot/GUoroKpfPq-CLL_206JzT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "wreinhardt",
+    "creatorHandle": "wreinhardt",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

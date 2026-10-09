@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-fantasy-football-advisor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A fantasy football GM that preps your drafts and runs your teams week to week (lineups, waivers, trades, injury news), always asking before roster moves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "E273ZIwirOOdwMfeCp97t",
+    "url": "https://x.ai/bot/E273ZIwirOOdwMfeCp97t",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cole Hollander",
+    "creatorHandle": "Colehollander10",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

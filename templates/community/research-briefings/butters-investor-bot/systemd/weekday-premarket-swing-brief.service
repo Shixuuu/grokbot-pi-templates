@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-premarket-swing-brief (Butters | Investor Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/butters-investor-bot
+ExecStart=/usr/bin/env pi -p "/weekday-premarket-swing-brief"

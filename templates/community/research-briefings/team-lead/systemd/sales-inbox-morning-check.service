@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sales-inbox-morning-check (Team Lead)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/team-lead
+ExecStart=/usr/bin/env pi -p "/sales-inbox-morning-check"

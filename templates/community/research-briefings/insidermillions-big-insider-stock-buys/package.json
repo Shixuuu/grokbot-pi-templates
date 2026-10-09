@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-insidermillions-big-insider-stock-buys",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Brief digest of $1M+ officer and director stock buys. Not financial advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yaix3I-36pEloG1XpLVOb",
+    "url": "https://x.ai/bot/yaix3I-36pEloG1XpLVOb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Rajit Marwah",
+    "creatorHandle": "rmarwah",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

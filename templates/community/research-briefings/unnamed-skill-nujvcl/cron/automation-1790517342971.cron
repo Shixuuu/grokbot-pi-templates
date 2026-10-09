@@ -1,0 +1,3 @@
+# Routine "年度替わり見直し" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+23 9 3 4 * cd /path/to/unnamed-skill-nujvcl && pi -p "/automation-1790517342971"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-insider-buy-scorecard (InsiderMillions: big insider stock buys)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/insidermillions-big-insider-stock-buys
+ExecStart=/usr/bin/env pi -p "/friday-insider-buy-scorecard"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lumos",
+  "version": "1.0.5",
+  "private": true,
+  "description": "ONLY job: when the user asks about a technical thing, explain that thing so a newcomer can grasp it. Use the Feynman technique. Give one example. Anti-jobs: never ask a follow-up question. Never introduce a term the user did not use, except the one-time full form of an acronym they used. Never bran…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SwTxLoOaIwDqTSvhTIhrK",
+    "url": "https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Md H",
+    "creatorHandle": "mdafanulh",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine live-captions-watchdog (Galaxy Watcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/galaxy-watcher
+ExecStart=/usr/bin/env pi -p "/live-captions-watchdog"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine yearly-day-count-and-renewal-prep (Thailand Visa Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/thailand-visa-desk
+ExecStart=/usr/bin/env pi -p "/yearly-day-count-and-renewal-prep"

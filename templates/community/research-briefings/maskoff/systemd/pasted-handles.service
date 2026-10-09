@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pasted-handles (Maskoff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/maskoff
+ExecStart=/usr/bin/env pi -p "/pasted-handles"

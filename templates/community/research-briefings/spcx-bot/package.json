@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-spcx-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Your SpaceX stock ($SPCX) co-pilot. It's grounded in SpaceX's S-1, investor presentations and earnings, what Elon and SpaceX say publicly, Wall Street's published targets, and a competitor brief. It filters X down to what matters, sends a morning and evening digest that flags what's changed, and le…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tad58vaxb2qfo2py1jtjj",
+    "url": "https://x.ai/bot/tad58vaxb2qfo2py1jtjj",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jim",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

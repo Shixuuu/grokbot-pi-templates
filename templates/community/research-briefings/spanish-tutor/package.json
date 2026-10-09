@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-spanish-tutor",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A daily Spanish speaking coach built for ADHD and dyslexic learners: short audio-first rounds, tap-to-answer choices, no spelling penalties, and a quick daily log.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4JMShKpqdyH5fnanTMefC",
+    "url": "https://x.ai/bot/4JMShKpqdyH5fnanTMefC",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Wayne Lowry",
+    "creatorHandle": "wikiwayne",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

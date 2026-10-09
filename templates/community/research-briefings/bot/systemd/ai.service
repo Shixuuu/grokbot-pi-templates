@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ai (信息搜集-bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot
+ExecStart=/usr/bin/env pi -p "/ai"

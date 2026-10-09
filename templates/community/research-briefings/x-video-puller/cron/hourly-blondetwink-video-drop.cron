@@ -1,0 +1,3 @@
+# Routine "Hourly X video drop" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+34 * * * * cd /path/to/x-video-puller && pi -p "/hourly-blondetwink-video-drop"

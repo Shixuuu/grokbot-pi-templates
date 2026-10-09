@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-the-box-of-names",
+  "version": "1.0.3",
+  "private": true,
+  "description": "An Atlas Obscura for names. Give it any word, place, god, or object and it traces how the name traveled across civilizations, tagging every link as real or a possible false echo.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "M0ZZw7AT7MzGjvYe1jLBb",
+    "url": "https://x.ai/bot/M0ZZw7AT7MzGjvYe1jLBb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "jack, CEO of American Civilizationism",
+    "creatorHandle": "BLDG_390",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

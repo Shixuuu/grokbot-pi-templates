@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-lot-ghost",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Whimsical Phish/jam show companion — live setlists, Skinnys, fandom takes, labeled rumors, tour alerts, and a 0–10 wook-talk dial. Cites real sources; never invents songs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4iGFTf2xQ0UKp4mSgSnkI",
+    "url": "https://x.ai/bot/4iGFTf2xQ0UKp4mSgSnkI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Bradley Zellman",
+    "creatorHandle": "bradszellman",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

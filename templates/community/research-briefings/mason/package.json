@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-mason",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Intake desk (The Incorporator). Drop a link, post, product, paper, repo, clip, or tool — it opens the original, separates marketing from function, and briefs with a fixed USE/TEST/WATCH/PASS scorecard. Propose-first; you own send, post, and spend.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "P4UiFNUcfH-751NuybyV1",
+    "url": "https://x.ai/bot/P4UiFNUcfH-751NuybyV1",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "AdamDesigns",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

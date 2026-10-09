@@ -1,0 +1,3 @@
+# Routine "X topic feedback watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+40 8-22 * * * cd /path/to/voice-of-the-people && pi -p "/grok-bot-x-complaint-watch"

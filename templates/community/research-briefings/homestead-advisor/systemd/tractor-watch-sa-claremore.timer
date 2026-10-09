@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine tractor-watch-sa-claremore
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:26:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

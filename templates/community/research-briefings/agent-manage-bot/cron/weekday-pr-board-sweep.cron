@@ -1,0 +1,3 @@
+# Routine "PR board sweep" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+9 9 * * * cd /path/to/agent-manage-bot && pi -p "/weekday-pr-board-sweep"

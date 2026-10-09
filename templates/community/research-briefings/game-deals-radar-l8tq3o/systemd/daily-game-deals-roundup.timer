@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-game-deals-roundup
+
+[Timer]
+OnCalendar=*-*-* 08:58:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

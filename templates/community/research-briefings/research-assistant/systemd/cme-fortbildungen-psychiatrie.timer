@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine cme-fortbildungen-psychiatrie
+
+[Timer]
+OnCalendar=Mon,Wed,Fri *-*-* 12:13:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

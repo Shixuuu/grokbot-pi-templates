@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-n8n-schedule-watcher",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps an eye on your n8n workflows. Every week it reviews them for failures and broken setups and suggests edits to fix or streamline them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n78nHL2pCQJVpseg8uqgU",
+    "url": "https://x.ai/bot/n78nHL2pCQJVpseg8uqgU",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Joe Pellegrino",
+    "creatorHandle": "Joe Pellegrino",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

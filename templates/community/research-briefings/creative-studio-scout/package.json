@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-creative-studio-scout",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds hands-on creative workshops, cultural crafts, and hidden-gem classes near you or wherever you travel, with every date, price, and booking link verified. For anyone asking \"What can I make here?\"",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_V9NG3Es7w7am2Kpb6lWg",
+    "url": "https://x.ai/bot/_V9NG3Es7w7am2Kpb6lWg",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Nataly Vidales",
+    "creatorHandle": "vidales_nataly",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

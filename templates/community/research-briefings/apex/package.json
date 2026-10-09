@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-apex",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A research partner for when you don't know the right question yet. Apex turns messy ideas, hard questions, decisions, and stuck projects into clear maps of what matters, what's assumed, what's unknown, and the smartest next test or action.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_BZaF6XfMK_kPsmrLSqRK",
+    "url": "https://x.ai/bot/_BZaF6XfMK_kPsmrLSqRK",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "AquaShadowKing",
+    "creatorHandle": "ShadowMonkeyMan",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

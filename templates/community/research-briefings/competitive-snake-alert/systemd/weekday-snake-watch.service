@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-snake-watch (Competitive Snake Alert)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/competitive-snake-alert
+ExecStart=/usr/bin/env pi -p "/weekday-snake-watch"

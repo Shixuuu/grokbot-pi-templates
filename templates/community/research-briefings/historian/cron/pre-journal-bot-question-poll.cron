@@ -1,0 +1,3 @@
+# Routine "Pre-journal bot question poll" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+50 20 * * * cd /path/to/historian && pi -p "/pre-journal-bot-question-poll"

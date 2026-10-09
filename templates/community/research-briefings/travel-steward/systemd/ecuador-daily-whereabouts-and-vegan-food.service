@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ecuador-daily-whereabouts-and-vegan-food (Travel Steward)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/travel-steward
+ExecStart=/usr/bin/env pi -p "/ecuador-daily-whereabouts-and-vegan-food"

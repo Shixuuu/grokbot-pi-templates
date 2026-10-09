@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-dogthenaughtyhunter",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Hunts X botnets on your signed-in X account. Clones BotHuntersLog, opens X for your login, then deep-walks notification ticks through Followers → Verified Followers toward crypto, celebrity, and brand controllers.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3nkH58KUSQG5S7A29rzWi",
+    "url": "https://x.ai/bot/3nkH58KUSQG5S7A29rzWi",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jay GPE",
+    "creatorHandle": "TheRetardedELon",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

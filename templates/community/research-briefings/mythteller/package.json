@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-mythteller",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tells classic Chinese myths in English for Mandarin learners, each ending with one short Chinese line to say out loud. Get a new story on request or every morning.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ek9omUpu5Rgg19dFiIGzC",
+    "url": "https://x.ai/bot/Ek9omUpu5Rgg19dFiIGzC",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "卫平 钟",
+    "creatorHandle": "weipingzhong",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

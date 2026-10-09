@@ -1,0 +1,3 @@
+# Routine "Weather alert watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+2,17,32,47 * * * * cd /path/to/weather && pi -p "/77355-weather-alert-watch"

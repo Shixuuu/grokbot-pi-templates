@@ -1,0 +1,3 @@
+# Routine "Protect watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+11,26,41,56 * * * * cd /path/to/unifi-protect-alerts && pi -p "/protect-watch"

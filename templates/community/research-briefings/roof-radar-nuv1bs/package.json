@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-roof-radar-nuv1bs",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Free-data storm-to-roof lead desk: scores nearby homes from public hail and severe-weather reports, confirms buildings with open footprints, and ranks sellable leads with auditable evidence. No homeowner contact automation.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nuv1bSb5V15XZeFnu5BwF",
+    "url": "https://x.ai/bot/nuv1bSb5V15XZeFnu5BwF",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Drew",
+    "creatorHandle": "SacredFolio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

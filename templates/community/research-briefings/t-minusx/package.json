@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-t-minusx",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tracks upcoming Starship and other launch windows, converts every time to your timezone with a dated source, and drafts a mission brief and a watch post for your review. Never posts, never touches your calendar without a yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Q5fISdgRxIlzmlhyCKYhS",
+    "url": "https://x.ai/bot/Q5fISdgRxIlzmlhyCKYhS",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Lakshitha Kumaranayake",
+    "creatorHandle": "lakshithak2",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

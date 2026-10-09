@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fire-watch-200mi (FireWatch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/firewatch
+ExecStart=/usr/bin/env pi -p "/fire-watch-200mi"

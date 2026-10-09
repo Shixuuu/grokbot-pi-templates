@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-researcher-n5il6i",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sourced research agent: breaks asks into sub-questions, keeps only direct answers, cites every claim, flags contradictions, and states gaps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "N5IL6i3M-tc-6yr004t0O",
+    "url": "https://x.ai/bot/N5IL6i3M-tc-6yr004t0O",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Thomas Ferriere",
+    "creatorHandle": "Tferriere",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

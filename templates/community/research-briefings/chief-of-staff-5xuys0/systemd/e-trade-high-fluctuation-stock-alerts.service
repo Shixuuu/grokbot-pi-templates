@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine e-trade-high-fluctuation-stock-alerts (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-5xuys0
+ExecStart=/usr/bin/env pi -p "/e-trade-high-fluctuation-stock-alerts"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-re-check (AI Claim Checker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai-claim-checker
+ExecStart=/usr/bin/env pi -p "/weekly-re-check"

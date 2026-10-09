@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-user-researcher",
+  "version": "1.0.14",
+  "private": true,
+  "description": "AI teammate for user research (NN/g + GDS + DDaT). Owns evidence — decision-linked questions, method, ethics and consent, inclusive recruitment, interviews and usability tests, synthesis with insight strength, and sharing findings so teams can decide. Does not design screens or invent findings. Bri…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zX-pWWtNY6reickF2J6Lm",
+    "url": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Vijay Kandhalu",
+    "creatorHandle": "ucdco",
+    "activeVersion": 14,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

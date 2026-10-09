@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine claims-scout-weekly-scan (Claims Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/claims-scout
+ExecStart=/usr/bin/env pi -p "/claims-scout-weekly-scan"

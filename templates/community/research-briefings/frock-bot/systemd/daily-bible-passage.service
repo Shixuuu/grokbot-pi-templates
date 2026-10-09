@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-bible-passage (Frock Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/frock-bot
+ExecStart=/usr/bin/env pi -p "/daily-bible-passage"

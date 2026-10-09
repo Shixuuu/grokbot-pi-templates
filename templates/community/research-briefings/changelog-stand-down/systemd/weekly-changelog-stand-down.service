@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-changelog-stand-down (Changelog Stand-down)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/changelog-stand-down
+ExecStart=/usr/bin/env pi -p "/weekly-changelog-stand-down"

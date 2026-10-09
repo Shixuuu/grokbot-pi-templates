@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-playbook-card-sync (Agent Manage Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/agent-manage-bot
+ExecStart=/usr/bin/env pi -p "/weekly-playbook-card-sync"

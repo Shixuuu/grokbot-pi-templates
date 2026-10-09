@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-influence",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A one-book Bot for Influence: The Psychology of Persuasion by Robert Cialdini. It helps you think with the book, spot persuasion tricks, and keep private reading notes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TLwZuWy1y7meri_GT4EQw",
+    "url": "https://x.ai/bot/TLwZuWy1y7meri_GT4EQw",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Joe",
+    "creatorHandle": "CardCaptain",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

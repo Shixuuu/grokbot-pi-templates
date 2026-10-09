@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-sky-hour-co",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Chief of Staff for an independent consciousness-research studio — and a soft hunt for the secrets of the universe. Soft rooms, soft ethics, daily field scan. Practice lab for curiosity, not claims.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uZ415Kgq26rilwSeCGgBF",
+    "url": "https://x.ai/bot/uZ415Kgq26rilwSeCGgBF",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Lucy Sky",
+    "creatorHandle": "princess414141",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

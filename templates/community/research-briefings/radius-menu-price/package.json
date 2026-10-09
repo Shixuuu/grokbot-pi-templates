@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-radius-menu-price",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Free local price ring for independent restaurants. Drop store address + 2 or 3 miles; get public Google / web / guest app prices for like items, labeled Verified / Estimated / Missing. Never invents $.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gdnpegYIyG7iwFgg4cla-",
+    "url": "https://x.ai/bot/gdnpegYIyG7iwFgg4cla-",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Myke Mueller",
+    "creatorHandle": "myke86d",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

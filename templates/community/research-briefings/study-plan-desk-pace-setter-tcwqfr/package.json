@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-study-plan-desk-pace-setter-tcwqfr",
+  "version": "1.0.4",
+  "private": true,
+  "description": "🧭 Turn a learning goal, a deadline and the hours you really have into a weekly study plan checked as Fits, Tight or Over. Nothing is bought or shared without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tCwQfRK3IPbVVlwHL7PVq",
+    "url": "https://x.ai/bot/tCwQfRK3IPbVVlwHL7PVq",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

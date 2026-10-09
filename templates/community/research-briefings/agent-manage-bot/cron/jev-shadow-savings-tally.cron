@@ -1,0 +1,3 @@
+# Routine "Jev shadow savings tally" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+4 8 * * 1-5 cd /path/to/agent-manage-bot && pi -p "/jev-shadow-savings-tally"

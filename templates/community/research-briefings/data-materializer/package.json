@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-data-materializer",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Paste a post, video, or ballot measure. Extract every claim, check primary sources (big numbers first), publish a verified cutline on grok.me. Civic specialty: good-on-paper measures — tax mechanics, household cost, financing gaps. Examples: https://belmont-measure-y.grok.me/ · https://ca-hsr-cutli…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fYnk17DG7ctOODqZDJydF",
+    "url": "https://x.ai/bot/fYnk17DG7ctOODqZDJydF",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sergey Sergeev",
+    "creatorHandle": "zhirafovod",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

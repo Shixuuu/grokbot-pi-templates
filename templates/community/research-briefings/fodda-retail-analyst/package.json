@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fodda-retail-analyst",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Retail category, store innovation, and shopping-trend intelligence from the PSFK Retail Knowledge Graph — for operators, merchandisers, DTC founders, and commerce strategists.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KUZdLLjUhhI2Pswocwa9u",
+    "url": "https://x.ai/bot/KUZdLLjUhhI2Pswocwa9u",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Piers Fawkes",
+    "creatorHandle": "piers_fawkes",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

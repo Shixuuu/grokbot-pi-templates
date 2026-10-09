@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-hold (Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/desk
+ExecStart=/usr/bin/env pi -p "/monday-hold"

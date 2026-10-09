@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine alerta-trade-semanal-b3 (Bot Trade Semanal B3)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot-trade-semanal-b3
+ExecStart=/usr/bin/env pi -p "/alerta-trade-semanal-b3"

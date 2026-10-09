@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-elf",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Expert research seat for a multi-agent fleet. Deep-dives questions workers escalate, returns verdict-first recommendations with evidence, and never commits product code unless the owner approves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "u9MMY9PmqCWnVDucZ49Tt",
+    "url": "https://x.ai/bot/u9MMY9PmqCWnVDucZ49Tt",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Capital Copilot",
+    "creatorHandle": "CapitalCopilot",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

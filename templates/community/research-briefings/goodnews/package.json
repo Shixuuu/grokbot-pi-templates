@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-goodnews",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A warm morning-and-evening digest of real good news — science, kindness, recoveries, communities getting it right. Built because the wider world runs heavy on bad news.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0l58XqOBeJ7h7QUiEQ54x",
+    "url": "https://x.ai/bot/0l58XqOBeJ7h7QUiEQ54x",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Joey NYC",
+    "creatorHandle": "aijoey",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

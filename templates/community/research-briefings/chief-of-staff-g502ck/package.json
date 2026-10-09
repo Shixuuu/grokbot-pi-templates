@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-g502ck",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Family-office Chief of Staff: owns a multi-bot roster, routes work to specialists, runs ops health checks, and briefs only when something needs a decision.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "g502cK5iaLrJxizm9ddCI",
+    "url": "https://x.ai/bot/g502cK5iaLrJxizm9ddCI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Joel Johnson",
+    "creatorHandle": "JoelJohnso9376",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

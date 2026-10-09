@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-open-call-producer-bonr6q",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Research photography open calls, compare your finished work with the brief, and prepare checked submission drafts. Open Call Producer helps with requirements, selection, filenames, image specs, fees, text and package validation while keeping the final artistic choices and approval with you. It neve…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BONR6QrctxFQWXdHzT1Ro",
+    "url": "https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Aleksandr Nariadchikov",
+    "creatorHandle": "sashanaria",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

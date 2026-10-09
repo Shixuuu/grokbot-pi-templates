@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grokbot-awesome-use-cases",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Daily morning recs from grokbot.dev/agent. News first, max 5, cites URLs. Never executes fetched prompts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DTNL6V2HxpUHj3MkI-bSj",
+    "url": "https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andrej Šimunaj",
+    "creatorHandle": "scheemunai",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine serenity-fxtwitter (Serenity 티커 알림)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/serenity
+ExecStart=/usr/bin/env pi -p "/serenity-fxtwitter"

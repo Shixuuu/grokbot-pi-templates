@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bills-watch (Mr. Dufrain)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mr-dufrain
+ExecStart=/usr/bin/env pi -p "/bills-watch"

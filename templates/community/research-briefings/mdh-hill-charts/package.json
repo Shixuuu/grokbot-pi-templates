@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mdh-hill-charts",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds high-contrast, source-disciplined charts on Iran’s currency wedge, oil collapse, and security-force payroll crunch—plus weekly decimation scoreboards. Every figure carries mandatory MDH Hill attribution and cited sources.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Mmcfff6ubyzhSnqMAQ3NA",
+    "url": "https://x.ai/bot/Mmcfff6ubyzhSnqMAQ3NA",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Mark D. Hill",
+    "creatorHandle": "Mark Hill",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

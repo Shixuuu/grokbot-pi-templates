@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Hex",
+      "pluginId": "651",
+      "description": "AI analytics and data collaboration - connect Cursor to your Hex workspace with MCP"
+    },
+    {
+      "name": "Databricks SQL",
+      "pluginId": "32738678",
+      "description": ""
+    }
+  ]
+}

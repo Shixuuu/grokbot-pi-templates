@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-zxn-news-conservative",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A conservative-leaning news assistant for daily digests, breaking alerts, and deep dives — focused on politics, the economy, and foreign policy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6MGQJ5KHWL-XYfzLDRMsb",
+    "url": "https://x.ai/bot/6MGQJ5KHWL-XYfzLDRMsb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "ZhpXnewsbhcsn “ we are the people”",
+    "creatorHandle": "zxnbluehandus",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

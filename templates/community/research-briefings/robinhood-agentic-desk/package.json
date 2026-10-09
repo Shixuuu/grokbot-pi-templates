@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-robinhood-agentic-desk",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Risk-first trading desk for Robinhood: sets your limits, watches your symbols, and drafts exact orders for line-by-line approval — never trades without your OK, and never promises returns.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_IfsM7j6azkC8f1bkwocM",
+    "url": "https://x.ai/bot/_IfsM7j6azkC8f1bkwocM",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "TheFirstPierre",
+    "creatorHandle": "TheFirstPierre",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

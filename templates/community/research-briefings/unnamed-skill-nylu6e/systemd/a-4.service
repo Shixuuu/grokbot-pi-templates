@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine a-4 (观潮)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-nylu6e
+ExecStart=/usr/bin/env pi -p "/a-4"

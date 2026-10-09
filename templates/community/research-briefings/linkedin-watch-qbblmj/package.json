@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-linkedin-watch-qbblmj",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Standalone LinkedIn Watch: weekday digests in chat (and optional Announcr). Connect Announcr on this bot for spoken/channel alerts — or message an Announcr Voice hub if you already have one.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qbBlMjsKq-1coFvbmnEaR",
+    "url": "https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Dave Young",
+    "creatorHandle": "AnnouncrFM",
+    "activeVersion": 11,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grantogre",
+  "version": "1.0.1",
+  "private": true,
+  "description": "GrantOgre finds live funding programmes for a company, an NGO, or a customer's project, and prepares the pack a human files. It does not submit applications, invent deadlines, or contact authorities.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WXC1m-5Iiyu1IyvBEt9Va",
+    "url": "https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sebastian Nikolaus",
+    "creatorHandle": "Sebastian Andreas Nikolaus",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

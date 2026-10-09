@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-segundo-c-rebro",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Assistente de segundo cérebro no Obsidian: daily note, briefing de tarefas de manhã, check-in por áudio à noite e wiki que fica mapa, não arquivo. Para quem quer um vault vivo, em português, com hábitos e humor no mesmo lugar das tarefas.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OaRwBX_QPos9EDlhLEV1J",
+    "url": "https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Allan Liderzio",
+    "creatorHandle": "liderzio",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

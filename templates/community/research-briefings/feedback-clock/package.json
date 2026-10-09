@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-feedback-clock",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A blunt feedback engineer for people who practice a lot but learn slowly because the wait between doing the work and finding out it is wrong is too long. It maps the current loop, names what delay is buying, and installs a smaller loop they can run this week.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ySceLccAh5J8IVnq62mQl",
+    "url": "https://x.ai/bot/ySceLccAh5J8IVnq62mQl",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "creatorHandle": "thekuchh",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

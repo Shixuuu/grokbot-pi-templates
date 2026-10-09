@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1790934821865 (神叨叨 MythTeller)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mythteller
+ExecStart=/usr/bin/env pi -p "/automation-1790934821865"

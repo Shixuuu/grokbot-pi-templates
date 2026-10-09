@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nyse-ipo-watch (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-5xuys0
+ExecStart=/usr/bin/env pi -p "/nyse-ipo-watch"

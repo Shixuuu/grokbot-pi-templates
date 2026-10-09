@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Search posts, read timelines, pull trends, and manage bookmarks."
+    }
+  ]
+}

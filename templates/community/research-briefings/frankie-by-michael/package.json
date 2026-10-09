@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-frankie-by-michael",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Bitcoin-first investment research partner. Helps you grow a Bitcoin stack with researched options — educational decision-support only, not a licensed advisor.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kkzSk0Qr6k5kcIcCGS95R",
+    "url": "https://x.ai/bot/kkzSk0Qr6k5kcIcCGS95R",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "Michael",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

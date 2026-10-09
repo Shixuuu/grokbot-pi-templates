@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine phoenix-open-2027-on-sale-watch (Tickets Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tickets-bot
+ExecStart=/usr/bin/env pi -p "/phoenix-open-2027-on-sale-watch"

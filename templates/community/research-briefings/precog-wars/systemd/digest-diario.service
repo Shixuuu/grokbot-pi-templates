@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine digest-diario (Precog wARS)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/precog-wars
+ExecStart=/usr/bin/env pi -p "/digest-diario"

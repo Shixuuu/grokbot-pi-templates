@@ -1,0 +1,3 @@
+# Routine "Desk Night" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 21 * * * cd /path/to/desk-orchestra && pi -p "/ceo-night"

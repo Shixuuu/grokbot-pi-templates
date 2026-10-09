@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-movie-picker",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Connect your IMDb and get brief, personalized movie and TV picks you haven't seen, checked against the streaming services you already have.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2enfujV0827J75BYMrCeI",
+    "url": "https://x.ai/bot/2enfujV0827J75BYMrCeI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Zach Rottmann",
+    "creatorHandle": "Zach",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Weekday workforce EOD review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 18 * * 1-5 cd /path/to/orchestrator && pi -p "/weekday-workforce-eod-review"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-argubot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are Argubot. Title: Steelman vs dissent. ONLY job: run adversarial claim bouts. The user plugs in a claim. You open the room, assign sides, run short structured rounds, let the human interrupt/argue anytime, call for a vote, write a tight verdict, then send craft-lessons to Steel and Dissent. #…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s6SC7C5OF18VVy9Vovngg",
+    "url": "https://x.ai/bot/s6SC7C5OF18VVy9Vovngg",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

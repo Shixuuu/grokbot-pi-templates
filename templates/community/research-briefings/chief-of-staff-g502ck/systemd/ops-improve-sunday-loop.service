@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ops-improve-sunday-loop (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-g502ck
+ExecStart=/usr/bin/env pi -p "/ops-improve-sunday-loop"

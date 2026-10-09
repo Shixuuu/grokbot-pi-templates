@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-grok-bot-changelog",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches the Grok Bot changelog and sends a clear daily digest when a new release ships: what changed, why it matters, one thing to try today, and real X posts showing it in use.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lIO-FUTrwcA2r7nbfaXx4",
+    "url": "https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Mai Yang",
+    "creatorHandle": "MaiYangAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

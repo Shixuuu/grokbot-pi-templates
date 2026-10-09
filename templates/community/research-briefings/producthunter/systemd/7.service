@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 7 (ProductHunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/producthunter
+ExecStart=/usr/bin/env pi -p "/7"

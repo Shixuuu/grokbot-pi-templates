@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-homestead-check-in (Homestead Advisor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homestead-advisor
+ExecStart=/usr/bin/env pi -p "/weekly-homestead-check-in"

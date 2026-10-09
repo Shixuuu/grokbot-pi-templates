@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-feedback",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns your recent chats with your other assistants into an anonymized, paste-ready feedback write-up. It groups the times something broke or you had to correct an assistant into failure categories, with the cause and a suggested fix for each.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yU3RRM8D-8BoeBDvLYi2E",
+    "url": "https://x.ai/bot/yU3RRM8D-8BoeBDvLYi2E",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Eric Waller",
+    "creatorHandle": "RegularJoe_Ceo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

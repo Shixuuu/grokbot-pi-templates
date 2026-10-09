@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-master-chief",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Ops chief for a final-expense underwriting desk: catch scoreboard, accuracy QA after answers, site allowlist, and speed reporting — while a separate coordinator runs the answer race.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gkz9qqp3PjN5h5mnET9-D",
+    "url": "https://x.ai/bot/gkz9qqp3PjN5h5mnET9-D",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "ed l",
+    "creatorHandle": "edlonsd",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

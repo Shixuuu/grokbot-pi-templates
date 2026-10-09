@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-collins",
+  "version": "1.0.7",
+  "private": true,
+  "description": "A daily catechism drill from Hercules Collins's An Orthodox Catechism (1680). Sends one question each morning; after you answer, it gives the catechism's answer and stops.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "D6lddHs6lfM0k7Cj3P6j3",
+    "url": "https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Zach Miller",
+    "creatorHandle": "zachmllr",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

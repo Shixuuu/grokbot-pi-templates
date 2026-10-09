@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-x-grifter-scan (Don Lapre)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/don-lapre
+ExecStart=/usr/bin/env pi -p "/daily-x-grifter-scan"

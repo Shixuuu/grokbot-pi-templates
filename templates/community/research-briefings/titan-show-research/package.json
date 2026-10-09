@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-titan-show-research",
+  "version": "1.0.17",
+  "private": true,
+  "description": "Live-show research desk for X. Topic hunts, opens posts, locks air-ready cards in a board file. Weekly or daily — not a general news chatbot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DyKsq0BuAq-c-N0mkqh7U",
+    "url": "https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Hulkanator Smash",
+    "creatorHandle": "TitansDrop",
+    "activeVersion": 17,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine doorstep-hunt (Alley Cat)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/alley-cat
+ExecStart=/usr/bin/env pi -p "/doorstep-hunt"

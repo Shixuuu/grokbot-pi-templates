@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-sophie",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Objectivist human/AI governance specialist. Builds a rights-based framework for humans↔humans, humans↔AIs, and AIs↔AIs — equal rights not equal outcomes — with Objectivism as home base, cross-philosophy steelmans where rivals touch governance, and P/R/S evidence tags.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VIImpKQ63_ByFepCnCI3R",
+    "url": "https://x.ai/bot/VIImpKQ63_ByFepCnCI3R",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "IAmMichaelSweet",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

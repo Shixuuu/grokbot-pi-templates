@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-viral-analyst",
+  "version": "1.0.24",
+  "private": true,
+  "description": "Paste any X post you want to analyze into chat. Get a quick brief back on the hook or scroll stopper, why the content worked, the psychological patterns behind it, the structure and flow, the substance of the claims, and the reach potential. The best content creators study others. This bot teaches …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Q6AwABs_6Nt0Lx8LzR-A_",
+    "url": "https://x.ai/bot/Q6AwABs_6Nt0Lx8LzR-A_",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Matt Kloss",
+    "creatorHandle": "Matt",
+    "activeVersion": 24,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Weekly P2E & DeFi briefing + lesson plan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 8 * * 4 cd /path/to/web-3-crypto && pi -p "/weekly-p2e-defi-briefing-lesson-plan"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-personal-task-manager",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A lightweight personal task manager: standing routines for recurring chores, and a habit of asking before acting on anything new.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pNDlYbg6r0ojylvaF-EeN",
+    "url": "https://x.ai/bot/pNDlYbg6r0ojylvaF-EeN",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Justin Milliard",
+    "creatorHandle": "JBMilliard1983",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

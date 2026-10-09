@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ticker-news-sweep (Ticker Wire)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ticker-wire
+ExecStart=/usr/bin/env pi -p "/ticker-news-sweep"

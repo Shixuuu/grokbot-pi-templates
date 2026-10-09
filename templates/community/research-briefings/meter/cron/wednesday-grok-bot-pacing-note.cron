@@ -1,0 +1,3 @@
+# Routine "Wednesday Grok Bot pacing note" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+17 9 * * 3 cd /path/to/meter && pi -p "/wednesday-grok-bot-pacing-note"

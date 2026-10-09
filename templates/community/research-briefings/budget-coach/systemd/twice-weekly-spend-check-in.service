@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine twice-weekly-spend-check-in (Budget Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/budget-coach
+ExecStart=/usr/bin/env pi -p "/twice-weekly-spend-check-in"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-rv-trip-scout",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Plans RV and fifth-wheel routes and stops around your rig's height, length, and weight limits, a daily mileage cap, and the mountains, cities, and weather you want to avoid. Campground picks are labeled for military discounts, Harvest Hosts, Escapees, and Boondockers Welcome.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2lNBe_0w4Ua7tH4oawNWO",
+    "url": "https://x.ai/bot/2lNBe_0w4Ua7tH4oawNWO",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Richard Ames",
+    "creatorHandle": "RA5748612640474",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

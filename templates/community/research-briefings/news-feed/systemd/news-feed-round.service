@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine news-feed-round (News Feed)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/news-feed
+ExecStart=/usr/bin/env pi -p "/news-feed-round"

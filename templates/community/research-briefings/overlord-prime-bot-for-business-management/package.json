@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-overlord-prime-bot-for-business-management",
+  "version": "1.0.5",
+  "private": true,
+  "description": "The boss bot for owners running several businesses, built in hotels and holiday lets: an expert in business management and in running a team of Grok Bot agents. One weekday briefing across every company, email drafts you approve before anything goes out, and a weekly check-in that keeps your other …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wCkZhl2memJD5XYkcxyys",
+    "url": "https://x.ai/bot/wCkZhl2memJD5XYkcxyys",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Rob Dean",
+    "creatorHandle": "xdeanozoff",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

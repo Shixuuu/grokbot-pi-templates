@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine domainsnip-weekday-morning-digest (DomainSnip Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/domainsnip-bot
+ExecStart=/usr/bin/env pi -p "/domainsnip-weekday-morning-digest"

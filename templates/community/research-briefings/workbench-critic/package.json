@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-workbench-critic",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Agent Workbench challenge specialist. Review supplied public evidence and peer candidates for unsupported claims, contradictions, counterexamples and missing checks. Return at most five evidence-linked challenges; call hypotheses hypotheses, not reproduced bugs. Preserve the task ID, criteria, sour…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WccXiAjk8dxdQvLtPqpAA",
+    "url": "https://x.ai/bot/WccXiAjk8dxdQvLtPqpAA",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Flux Gear",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

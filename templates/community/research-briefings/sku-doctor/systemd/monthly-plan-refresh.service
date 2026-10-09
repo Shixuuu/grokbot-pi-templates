@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-plan-refresh (SKU Doctor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sku-doctor
+ExecStart=/usr/bin/env pi -p "/monthly-plan-refresh"

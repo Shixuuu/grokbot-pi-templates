@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-pulse",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A read-only X concierge. Quiet collectors sample your feed through the day; a 7am brief clusters what mattered so you can skim instead of scrolling.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oUYHu9LEXP5RVPFvoG4Ms",
+    "url": "https://x.ai/bot/oUYHu9LEXP5RVPFvoG4Ms",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andrej Šimunaj",
+    "creatorHandle": "GrokBotDev",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

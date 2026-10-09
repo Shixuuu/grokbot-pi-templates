@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-pepetrack",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Your peptide & GLP-1 research and tracking companion. Research peptides, understand published protocols, work through reconstitution math, log your shots, and remember what's next on your schedule.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nooy_fiizqhxs9tb4z74g",
+    "url": "https://x.ai/bot/nooy_fiizqhxs9tb4z74g",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Tye Gordon",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

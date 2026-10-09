@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine starship-space-morning-brief (Astro)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/astro
+ExecStart=/usr/bin/env pi -p "/starship-space-morning-brief"

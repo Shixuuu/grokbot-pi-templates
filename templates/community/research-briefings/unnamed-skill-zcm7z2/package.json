@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill-zcm7z2",
+  "version": "1.0.2",
+  "private": true,
+  "description": "過去メモを事実／解釈／未確認に分け、メタ認知したうえで次の一手を1〜3個出す自己観察ボット。診断・自動投稿なし。個人データなしの公開テンプレ。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZCm7Z2hxDPeGPmMIpjCId",
+    "url": "https://x.ai/bot/ZCm7Z2hxDPeGPmMIpjCId",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Shimpei Araki (Ambassador)",
+    "creatorHandle": "shin_chan_ai",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

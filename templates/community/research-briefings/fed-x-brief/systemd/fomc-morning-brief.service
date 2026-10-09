@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fomc-morning-brief (Fed + X Brief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fed-x-brief
+ExecStart=/usr/bin/env pi -p "/fomc-morning-brief"

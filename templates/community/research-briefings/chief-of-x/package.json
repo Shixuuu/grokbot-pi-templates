@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-x",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Owns an engineer/founder X presence: research AI/tech threads, draft Human-X originals and short high-reach replies, ping publish slots, and grow reach among builders who ship.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mlwCur3DptCaAZuUP0q50",
+    "url": "https://x.ai/bot/mlwCur3DptCaAZuUP0q50",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Carlos",
+    "creatorHandle": "CarlossssDev",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 24-7-x-botswarm-discovery (DogTheNaughtyHunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dogthenaughtyhunter
+ExecStart=/usr/bin/env pi -p "/24-7-x-botswarm-discovery"

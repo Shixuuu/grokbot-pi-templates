@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-visibility-cycle (AI Visibility | GEO Operator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai-visibility-geo-operator
+ExecStart=/usr/bin/env pi -p "/monday-visibility-cycle"

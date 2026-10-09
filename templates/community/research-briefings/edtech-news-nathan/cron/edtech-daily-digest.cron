@@ -1,0 +1,3 @@
+# Routine "EdTech daily digest" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 12 * * 1-4 cd /path/to/edtech-news-nathan && pi -p "/edtech-daily-digest"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-us-law-index-builder-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds a private, non-commercial educational library of US primary law from official and law-school sources, then a citation-backed local search engine. Retrieval first; the LLM only writes from small retrieved passages.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "G2eeD6pM6N6TNfnHbsC8c",
+    "url": "https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "EchoField Visuals",
+    "creatorHandle": "EchoFieldVisual",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

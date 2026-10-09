@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-keach-question (Keach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/keach
+ExecStart=/usr/bin/env pi -p "/morning-keach-question"

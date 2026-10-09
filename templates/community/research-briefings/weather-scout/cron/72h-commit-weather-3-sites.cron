@@ -1,0 +1,3 @@
+# Routine "72h commit weather (3 sites)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+48 */6 * * * cd /path/to/weather-scout && pi -p "/72h-commit-weather-3-sites"

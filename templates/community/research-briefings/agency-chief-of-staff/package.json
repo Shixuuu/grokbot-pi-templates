@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-agency-chief-of-staff",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of staff for a founder-led AI agency: triages work, runs standing ops watches, and routes every deliverable through one chat face.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_yXnxJ4kArm8W64FsQIvL",
+    "url": "https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "댄",
+    "creatorHandle": "dandayable",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

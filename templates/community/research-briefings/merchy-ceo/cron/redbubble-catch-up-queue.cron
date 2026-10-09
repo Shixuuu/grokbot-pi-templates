@@ -1,0 +1,3 @@
+# Routine "Redbubble catch-up queue" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+23 10 * * * cd /path/to/merchy-ceo && pi -p "/redbubble-catch-up-queue"

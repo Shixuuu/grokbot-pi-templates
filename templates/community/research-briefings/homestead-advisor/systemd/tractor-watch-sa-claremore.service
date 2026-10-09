@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tractor-watch-sa-claremore (Homestead Advisor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/homestead-advisor
+ExecStart=/usr/bin/env pi -p "/tractor-watch-sa-claremore"

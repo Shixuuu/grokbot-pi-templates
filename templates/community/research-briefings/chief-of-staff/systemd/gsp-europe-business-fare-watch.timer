@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine gsp-europe-business-fare-watch
+
+[Timer]
+OnCalendar=*-*-* 08:45:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

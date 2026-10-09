@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-struggle-gate",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A tutor that refuses to think for the student on the first pass. It puts a 10-minute struggle gate between the learner and the answer, so they get better at solving problems instead of faster at pasting them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tjN1LsaYsuR7u0dQQvOGV",
+    "url": "https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "creatorHandle": "thekuchh",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

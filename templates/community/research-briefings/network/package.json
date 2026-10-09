@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-network",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Before: one fleet firmware hour hits every site at noon. After: UNIFI proposes site-aware windows via UniFi MCP, and you only poke when the health digest misses — quiet when green. Network-slice watchdog for UniFi-heavy crews; pairs with UNIFI in the Network Ops pack.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hHi18RsdYNRzehXwCZvmS",
+    "url": "https://x.ai/bot/hHi18RsdYNRzehXwCZvmS",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jeremiah Bailey Jr.",
+    "creatorHandle": "TechHandPro",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

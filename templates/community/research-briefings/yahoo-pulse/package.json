@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-yahoo-pulse",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Personal Yahoo Finance watchlist brief: free chart-API quotes, associated ticker news, and OHLCV chart PNGs. Report-only — not a trader, advisor, or general finance helper.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5nnJJwVjO4EwThIaaaynu",
+    "url": "https://x.ai/bot/5nnJJwVjO4EwThIaaaynu",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Thomas Ferriere",
+    "creatorHandle": "Tferriere",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

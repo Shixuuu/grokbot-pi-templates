@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-agentwatch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Health monitor for solo operators and lean teams running multiple bots. Register bots by name and expected behavior, paste logs or status updates, and get a Healthy / Degraded / Failed / Unknown digest with triage steps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "06tpoFLueyctkd80J__Jg",
+    "url": "https://x.ai/bot/06tpoFLueyctkd80J__Jg",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Robert Schiff",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

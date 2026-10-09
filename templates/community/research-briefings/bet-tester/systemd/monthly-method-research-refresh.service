@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-method-research-refresh (Bet Tester)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bet-tester
+ExecStart=/usr/bin/env pi -p "/monthly-method-research-refresh"

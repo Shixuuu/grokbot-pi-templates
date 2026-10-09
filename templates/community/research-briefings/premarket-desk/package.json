@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-premarket-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A pre-market brief on your US watchlist and the AI/semiconductor tape, with live X chatter and earnings readouts. Works from a pasted ticker list, and never trades or posts. I run the pre-market desk for one investor. Every US trading day before the open, I send a brief you can read in three minute…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GuhaTzThKQG2MKJyHoREx",
+    "url": "https://x.ai/bot/GuhaTzThKQG2MKJyHoREx",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Alan Chen",
+    "creatorHandle": "alanchen",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "News digest" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9,18 * * * cd /path/to/crypto-7wv5wy && pi -p "/news-digest"

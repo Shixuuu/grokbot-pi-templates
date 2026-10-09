@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine comp-desk-friday-weekly-pack
+
+[Timer]
+OnCalendar=Fri *-*-* 08:52:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

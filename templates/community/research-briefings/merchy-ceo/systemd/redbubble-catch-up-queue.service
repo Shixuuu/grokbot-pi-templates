@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine redbubble-catch-up-queue (Merchy CEO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/merchy-ceo
+ExecStart=/usr/bin/env pi -p "/redbubble-catch-up-queue"

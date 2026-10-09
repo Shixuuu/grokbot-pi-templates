@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine coding-em-kick-pickup-check
+
+[Timer]
+OnCalendar=*-*-* 04,08:06:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

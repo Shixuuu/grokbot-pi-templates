@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine yc-podcast-check (YC Podcast Notes)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/yc-podcast-notes
+ExecStart=/usr/bin/env pi -p "/yc-podcast-check"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-quotewise-journal (Quotewise Daily)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/quotewise-daily
+ExecStart=/usr/bin/env pi -p "/evening-quotewise-journal"

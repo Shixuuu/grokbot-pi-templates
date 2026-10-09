@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-competitive-snake-alert",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Watches a named competitor list and drafts short snake alerts when pricing, launches, or positioning move — human-in-the-loop before any outbound. For GTM teams who want a light compete radar, not a full battlecard bot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NqCINqE9LDY9XTw2vP_XT",
+    "url": "https://x.ai/bot/NqCINqE9LDY9XTw2vP_XT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Scott Metcalf",
+    "creatorHandle": "scottxmetcalf",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

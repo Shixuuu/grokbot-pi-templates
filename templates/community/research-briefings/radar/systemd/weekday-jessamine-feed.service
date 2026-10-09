@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-jessamine-feed (Radar)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/radar
+ExecStart=/usr/bin/env pi -p "/weekday-jessamine-feed"

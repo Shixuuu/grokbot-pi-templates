@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-decision-summary (JevBot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/jevbot
+ExecStart=/usr/bin/env pi -p "/morning-decision-summary"

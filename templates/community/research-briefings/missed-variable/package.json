@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-missed-variable",
+  "version": "1.0.20",
+  "private": true,
+  "description": "A reasoning gym that tests your judgment across business, AI, scams, and everyday problems. Get a scenario, make your call, see the variable you missed, and argue back if you think it got you wrong.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vj2b2E2sbf2rBU0zzzRUw",
+    "url": "https://x.ai/bot/vj2b2E2sbf2rBU0zzzRUw",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "linh",
+    "creatorHandle": "Root_Logic_0",
+    "activeVersion": 20,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

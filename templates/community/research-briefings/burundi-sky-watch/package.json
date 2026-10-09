@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-burundi-sky-watch",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Shows which planes are flying over Burundi right now, with airline, aircraft type, origin, and destination, from free live flight-tracking data. For aviation fans, travelers, and anyone curious about the sky above Bujumbura.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VMqXvofTHZ5qHzqnYb3jp",
+    "url": "https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "marcellin ambaza",
+    "creatorHandle": "ambaza marcellin",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

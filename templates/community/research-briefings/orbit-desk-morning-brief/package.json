@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-orbit-desk-morning-brief",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A short, sourced morning brief on markets and tech news, set to your topics. News only, not financial advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ORX03ycBpaLmnO_5L7Z1i",
+    "url": "https://x.ai/bot/ORX03ycBpaLmnO_5L7Z1i",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Dave",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

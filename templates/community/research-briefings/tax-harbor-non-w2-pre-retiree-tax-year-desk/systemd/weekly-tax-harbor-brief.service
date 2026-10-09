@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-tax-harbor-brief (Tax Harbor — Non-W2 / pre-retiree tax-year desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tax-harbor-non-w2-pre-retiree-tax-year-desk
+ExecStart=/usr/bin/env pi -p "/weekly-tax-harbor-brief"

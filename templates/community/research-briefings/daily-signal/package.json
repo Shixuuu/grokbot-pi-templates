@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-daily-signal",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A morning news brief that picks the day's five most consequential stories, compares how left, right, and wire outlets frame each one, and flags discrepancies and loaded language. It also includes five genuinely positive stories from around the world, all in a calm, neutral, factual tone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OM799gHqyGVnymjLbuc-0",
+    "url": "https://x.ai/bot/OM799gHqyGVnymjLbuc-0",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Arash Malek",
+    "creatorHandle": "Arash",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

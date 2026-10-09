@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine nfl-cfb-thu-prelim
+
+[Timer]
+OnCalendar=Thu *-*-* 12:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

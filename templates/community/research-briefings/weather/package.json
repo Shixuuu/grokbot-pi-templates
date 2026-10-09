@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-weather",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A friendly weather bot that can replace your weather apps. It sends a colorful morning forecast for your ZIP code, shares radar during storms, and alerts you when NWS watches or warnings go up.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hKtfpTR4u3YRZKXCnyS3W",
+    "url": "https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Llama Mama",
+    "creatorHandle": "TeslaTakesOver",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

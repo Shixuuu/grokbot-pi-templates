@@ -1,0 +1,43 @@
+# Escola al Dia
+
+Escola al Dia (TokApp + correu): resumeix TokApp i, si vols, el correu de l'escola, i t'avisa al xat en català.
+
+| | |
+| --- | --- |
+| Original template | https://x.ai/bot/pY08FtAuc9QGwrtZL3wHz |
+| Creator | Marc Güell Segarra ([@mguellsegarra](https://x.com/mguellsegarra)) |
+| Category | community / research-briefings |
+| Found via | [botsdots.site](https://botsdots.site/templates/escola-al-dia), [grokbotwiki.com](https://www.grokbotwiki.com/bots/escola-al-dia), [grokbothq.xyz](https://grokbothq.xyz/bots/escola-al-dia), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/escola-al-dia), [x-research](https://botsdots.site/templates/escola-al-dia) |
+| Fidelity | **full** (full recipe, template version 12) |
+| Contents | 2 skills, 2 routines, 3 memory seeds, 0 connectors |
+
+## Use it in Pi
+
+```bash
+cp -r templates/community/research-briefings/escola-al-dia ~/pi-bots/escola-al-dia && cd ~/pi-bots/escola-al-dia
+pi --approve   # trust the folder: loads AGENTS.md, .pi/APPEND_SYSTEM.md, skills/, prompts/
+```
+
+Or install only the skills and routine prompts: `pi install ./templates/community/research-briefings/escola-al-dia`. The persona in `AGENTS.md` applies only when you run Pi inside the folder.
+
+## What was converted
+
+| Grok Bot | Pi |
+| --- | --- |
+| Profile / persona | `AGENTS.md`, `.pi/APPEND_SYSTEM.md` |
+| Memory (3) | `MEMORY.md` |
+| Skills (2) | `skills/<name>/SKILL.md`, full bodies |
+| Routines (2) | `prompts/<name>.md` (`/name`), verbatim text in `routines/`, schedule sketches in `cron/` and `systemd/` |
+| Plugins (0) | `CONNECTORS.md`, `connectors.json` |
+
+### Routine schedules
+
+- `/tokapp-cole`: cron `2,17,32,47 8-19 * * 1-5` (found in the template text)
+- `/correu-escola`: cron `23,53 8-19 * * 1-5` (found in the template text)
+
+## What did not translate
+
+- Grok Bot runtime features: shared box computer/browser desktop, Grok channels (Slack/iMessage/email send-as), team multi-bot wake, built-in X/Grok data tools.
+- Routine scheduling and event triggers: Pi has no scheduler; see `prompts/`, `cron/`, `systemd/`.
+
+Content belongs to the original creator; this is an automated format conversion for personal use with Pi.

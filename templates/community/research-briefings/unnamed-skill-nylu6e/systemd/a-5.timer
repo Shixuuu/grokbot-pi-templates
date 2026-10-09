@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine a-5
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 12:52:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

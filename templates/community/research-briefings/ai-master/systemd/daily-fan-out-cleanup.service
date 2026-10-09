@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-fan-out-cleanup (AI Master)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai-master
+ExecStart=/usr/bin/env pi -p "/daily-fan-out-cleanup"

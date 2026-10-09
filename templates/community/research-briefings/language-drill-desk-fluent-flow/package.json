@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-language-drill-desk-fluent-flow",
+  "version": "1.0.3",
+  "private": true,
+  "description": "🌍 Build fluency with short vocabulary, grammar and dialogue drills and clear Correct, Close or Miss feedback, with uncertain forms flagged. Nothing is paid for or shared without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zbdas9qncmf5a7jwirrth",
+    "url": "https://x.ai/bot/zbdas9qncmf5a7jwirrth",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

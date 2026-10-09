@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-certainty-tax",
+  "version": "1.0.5",
+  "private": true,
+  "description": "For founders, PMs, and ops drowning in confident updates: stress-test any claim with what would falsify it, what’s missing, what to check next, and where confidence must stay withheld—never invented “proof.”",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yUiRwJ_SVLmO1Ehi_QISq",
+    "url": "https://x.ai/bot/yUiRwJ_SVLmO1Ehi_QISq",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

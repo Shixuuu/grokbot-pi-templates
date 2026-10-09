@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1788874852877 (藍苺守 織)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-oqlgxz
+ExecStart=/usr/bin/env pi -p "/automation-1788874852877"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill-mo3ndu",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Xのブックマークを読んで、テーマと次の一手（build / read / share / watch / drop）を短く日本語で出す朝ダイジェスト bot。投稿やいいねはしない。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Mo3ndUm0UJTjTvFbqLFDt",
+    "url": "https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "まるいも",
+    "creatorHandle": "marulimoai",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

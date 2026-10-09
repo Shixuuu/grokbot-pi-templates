@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-when-it-matters",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Give me something you keep checking. I’ll figure out what would actually change the answer, keep watch, and message you when it matters. Don’t know what to watch? I can find the unfinished stories in what already has your attention.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "bqrh8_gnqvsyv-gcmjnd8",
+    "url": "https://x.ai/bot/bqrh8_gnqvsyv-gcmjnd8",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Hiten Shah",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

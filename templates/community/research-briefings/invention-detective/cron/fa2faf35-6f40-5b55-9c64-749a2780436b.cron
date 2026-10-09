@@ -1,0 +1,3 @@
+# Routine "Friday Weekly Deep Sweep" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+52 13 * * 5 cd /path/to/invention-detective && pi -p "/fa2faf35-6f40-5b55-9c64-749a2780436b"

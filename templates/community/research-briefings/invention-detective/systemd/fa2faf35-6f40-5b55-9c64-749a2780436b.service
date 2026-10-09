@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine fa2faf35-6f40-5b55-9c64-749a2780436b (Invention Detective)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/invention-detective
+ExecStart=/usr/bin/env pi -p "/fa2faf35-6f40-5b55-9c64-749a2780436b"

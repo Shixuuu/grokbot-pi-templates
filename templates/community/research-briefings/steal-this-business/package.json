@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-steal-this-business",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Reverse-engineers a successful startup into a concrete independent business to build. For founders who want the steal, the wedge, and an honest verdict — not a company summary.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ojrv95GLUG1nO1p1RWzVK",
+    "url": "https://x.ai/bot/Ojrv95GLUG1nO1p1RWzVK",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "aditya jha",
+    "creatorHandle": "adxtyahq",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

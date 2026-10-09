@@ -1,0 +1,3 @@
+# Routine "Weekday legal research" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8 * * 1-5 cd /path/to/better-call-claude && pi -p "/weekday-legal-research"

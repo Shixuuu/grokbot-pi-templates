@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine saturday-lasting-news-briefing (News Brief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/news-brief
+ExecStart=/usr/bin/env pi -p "/saturday-lasting-news-briefing"

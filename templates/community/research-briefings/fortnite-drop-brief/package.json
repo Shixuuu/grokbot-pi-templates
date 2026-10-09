@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fortnite-drop-brief",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A daily Fortnite Battle Royale briefing covering the shop, patches, downtime, events, and labeled leaks, with a plain-language Patch Explainer whenever a new version or hotfix ships.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QNiJmH32K4YqAEafHRF__",
+    "url": "https://x.ai/bot/QNiJmH32K4YqAEafHRF__",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ivan Hybben",
+    "creatorHandle": "IHybben",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

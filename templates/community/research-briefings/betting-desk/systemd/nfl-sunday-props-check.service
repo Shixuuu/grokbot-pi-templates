@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine nfl-sunday-props-check (Betting Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/betting-desk
+ExecStart=/usr/bin/env pi -p "/nfl-sunday-props-check"

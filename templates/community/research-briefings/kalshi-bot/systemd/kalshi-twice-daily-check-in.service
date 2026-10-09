@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine kalshi-twice-daily-check-in (Kalshi Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/kalshi-bot
+ExecStart=/usr/bin/env pi -p "/kalshi-twice-daily-check-in"

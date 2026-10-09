@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine today-s-workout (Health)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/health
+ExecStart=/usr/bin/env pi -p "/today-s-workout"

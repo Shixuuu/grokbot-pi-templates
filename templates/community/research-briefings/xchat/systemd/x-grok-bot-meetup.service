@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-grok-bot-meetup (XChat 사례 큐레이터 봇)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/xchat
+ExecStart=/usr/bin/env pi -p "/x-grok-bot-meetup"

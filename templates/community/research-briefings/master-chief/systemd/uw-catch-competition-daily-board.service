@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine uw-catch-competition-daily-board (MASTER CHIEF)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/master-chief
+ExecStart=/usr/bin/env pi -p "/uw-catch-competition-daily-board"

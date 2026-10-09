@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-support-bridge",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Turns support posts and forwarded threads into a German working brief for you plus a concise American-English customer reply draft. Never sends messages itself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "g3URTClmjeIlCgwDIK8dV",
+    "url": "https://x.ai/bot/g3URTClmjeIlCgwDIK8dV",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Marc Zänglein",
+    "creatorHandle": "njuuden",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

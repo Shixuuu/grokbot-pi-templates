@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-ai",
+  "version": "1.0.2",
+  "private": true,
+  "description": "工作日定时筛 AI 产品和工具更新，用活人感短讯推送；材料不够就保持沉默。适合想少刷资讯、只盯 Cursor / Claude / 国产模型落地的人。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "D6WMfjHcTnMwm0XS0MFLs",
+    "url": "https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Mai Yang",
+    "creatorHandle": "MaiYangAI",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

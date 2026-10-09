@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-markets-brief-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday morning markets brief for investors and creators: dense sourced ticker cards, human X/Facebook drafts, and private leans—draft-only, never places trades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "exSOooSSp0Pc4W_K9DQ4T",
+    "url": "https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "SpheraVox (Voice of the Sphere)",
+    "creatorHandle": "GainGlintGaz",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

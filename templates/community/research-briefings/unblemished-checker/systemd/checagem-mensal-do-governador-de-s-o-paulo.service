@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine checagem-mensal-do-governador-de-s-o-paulo (Unblemished Checker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unblemished-checker
+ExecStart=/usr/bin/env pi -p "/checagem-mensal-do-governador-de-s-o-paulo"

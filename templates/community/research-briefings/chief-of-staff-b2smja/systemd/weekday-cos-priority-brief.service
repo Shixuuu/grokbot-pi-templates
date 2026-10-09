@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-cos-priority-brief (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-b2smja
+ExecStart=/usr/bin/env pi -p "/weekday-cos-priority-brief"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 77355-weather-alert-watch (Weather)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/weather
+ExecStart=/usr/bin/env pi -p "/77355-weather-alert-watch"

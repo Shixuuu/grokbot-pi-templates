@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ai-youtube (Youtube分析官)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/youtube-ja29gp
+ExecStart=/usr/bin/env pi -p "/ai-youtube"

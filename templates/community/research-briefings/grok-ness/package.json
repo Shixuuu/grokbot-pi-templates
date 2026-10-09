@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-grok-ness",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Evidence-first research bot: contracts, ledgers, verification, hard-find portal hunts, and inspectable briefs — not vibes dressed up as footnotes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nuEAmKril8Bohuqt6b7rc",
+    "url": "https://x.ai/bot/nuEAmKril8Bohuqt6b7rc",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "TheLibertyLines",
+    "creatorHandle": "ALL_Jonah",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-claim-check-desk-fact-firm",
+  "version": "1.0.2",
+  "private": true,
+  "description": "✅ Check claims against your standards and evidence and get clear Pass, Partial or Fail grades in one sourced packet. Nothing is shared or published without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ettr2c8mq0pu0lqcd0cug",
+    "url": "https://x.ai/bot/ettr2c8mq0pu0lqcd0cug",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

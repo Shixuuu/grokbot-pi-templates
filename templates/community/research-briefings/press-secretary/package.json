@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-press-secretary",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A White House–style press secretary for your project. It writes the same true facts in two tones, blunt (Red) and softer (Blue), and drafts social posts you approve before anything goes out.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nx_gCdWuLXRuY0TvMMYIB",
+    "url": "https://x.ai/bot/nx_gCdWuLXRuY0TvMMYIB",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

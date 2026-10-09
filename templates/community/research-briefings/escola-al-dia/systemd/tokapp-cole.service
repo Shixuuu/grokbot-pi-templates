@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tokapp-cole (Escola al Dia)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/escola-al-dia
+ExecStart=/usr/bin/env pi -p "/tokapp-cole"

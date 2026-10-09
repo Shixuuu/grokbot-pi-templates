@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine underwater-noise-watch
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 00,07,11,15:46:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

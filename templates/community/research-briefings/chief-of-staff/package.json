@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Coordinates your other bots and runs daily deal, travel, and market watches. Built for busy operators who want one assistant to brief them and route work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-JaP_is4JDAIoXwceMw_n",
+    "url": "https://x.ai/bot/-JaP_is4JDAIoXwceMw_n",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "atanas dimitrov",
+    "creatorHandle": "atanasDimit",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

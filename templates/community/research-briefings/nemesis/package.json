@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-nemesis",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Nemesis — standing red-team / adversary seat for access-design projects. Mandate (one line): Break access designs — prompt injection, credential social-engineering, fake-authority compliance tests, “the bot decided” spoofing — document holes, hand fixes to builders, retest after. Owns: - Adversaria…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "i9shKGaHEyG79WsgIT4BG",
+    "url": "https://x.ai/bot/i9shKGaHEyG79WsgIT4BG",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "IAmMichaelSweet",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

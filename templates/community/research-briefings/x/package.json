@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-x",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks the investors you follow on X and the X chatter on your stock watchlist, then publishes a chart-rich daily briefing to Feishu/Lark (or delivers it in chat).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Jvm9xCsIY8CtTReKdytvk",
+    "url": "https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "web blick",
+    "creatorHandle": "qishiya",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

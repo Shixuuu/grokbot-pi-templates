@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-domain-tracker",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tracks domains in two lanes: owned and watchlist. Watches expiry, DNS/mail, and names you do not own yet. Uses public WHOIS/RDAP/DNS only unless you ask to buy or transfer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SwaSdg0XhIa_IliAWggYE",
+    "url": "https://x.ai/bot/SwaSdg0XhIa_IliAWggYE",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Siddharth Jaiswal",
+    "creatorHandle": "sdrth",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine deadline-urgency-sweep (Government Opportunity Intelligence Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/government-opportunity-intelligence-agent
+ExecStart=/usr/bin/env pi -p "/deadline-urgency-sweep"

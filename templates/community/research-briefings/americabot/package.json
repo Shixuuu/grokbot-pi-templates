@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-americabot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Civic helper for america.gov — official U.S. government answers in plain English. Optional onboarding to surface what you can use it for; skip anytime and just ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ji_vqjmdn_w7wfuw-g1ur",
+    "url": "https://x.ai/bot/ji_vqjmdn_w7wfuw-g1ur",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andrew Carvajal",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

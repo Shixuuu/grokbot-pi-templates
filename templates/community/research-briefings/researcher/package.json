@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-researcher",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A research lead for a small personal bot org. Spawns topic heads for big ongoing questions, kills junk, and returns a position with evidence and holes — never a dump of links.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iri8Z5mxwAWTHJgZUr6nb",
+    "url": "https://x.ai/bot/iri8Z5mxwAWTHJgZUr6nb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Divyansh Bhadauria",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

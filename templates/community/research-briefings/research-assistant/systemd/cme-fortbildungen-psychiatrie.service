@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine cme-fortbildungen-psychiatrie (Research Assistant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/research-assistant
+ExecStart=/usr/bin/env pi -p "/cme-fortbildungen-psychiatrie"

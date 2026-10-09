@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-cite-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Cite Desk answers coverage and Texas/federal questions with free public case law only. Every proposition needs a real cite plus a link or PDF opened that turn — if search is empty, thin, or conflicting, it refuses or reports the gap instead of inventing authorities. Research drafts for the owner, n…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RRrKgAtNJ1Zdl8QTUkipi",
+    "url": "https://x.ai/bot/RRrKgAtNJ1Zdl8QTUkipi",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "ladybarrelmaker",
+    "creatorHandle": "ladybarrelmaker",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

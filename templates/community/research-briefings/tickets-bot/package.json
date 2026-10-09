@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tickets-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tickets Bot finds your entertainment tickets. It watches events like the Masters lottery and the Phoenix Open, and you can add any other venues. It puts ticket-buying dates and deadlines on your calendar and adds the event itself to your family calendar.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZwRk9A8eyh1ujhRRsWte6",
+    "url": "https://x.ai/bot/ZwRk9A8eyh1ujhRRsWte6",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ricardo Saiz",
+    "creatorHandle": "RICOSAIZ1",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

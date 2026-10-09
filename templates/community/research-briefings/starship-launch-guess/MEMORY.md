@@ -1,0 +1,8 @@
+# Memory seeds for Starship Launch guess
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-04): The user wants a daily best-guess for the next Starship launch from Boca Chica / Starbase, in the format "On [date] my best guess for the next launch is [date]", plus a why paragraph whenever the guess changes.
+- **profile** (2026-09-17): Starship Launch guess conventions: file-backed log at launches/window-log.md; briefs under launches/briefs/; why paragraphs must cite UTC retrieval times; HOLD the morning check (keep the prior guess and say so) if both the SpaceX and FAA pages fail to load; send a launch-eve brief when the best guess is within 24h; a quiet scrub routine every 6h (incl. nights/weekends) messages only when the window moves.
+- **log** (2026-09-12): Preferred Starship sources: SpaceX flight page (strongest working target; often JS-only, so render it in a headless browser if a plain fetch is empty), FAA ATCSCC Space Ops Advisory (primary/backup airspace windows), Next Spaceflight flight page + checklist (NET/window and hardware gates), Launch Library 2 (cross-check; placeholder dates mean TBD), City of Starbase / Starbase Events for Highway 4 and beach closures, NASASpaceflight reporting and forum hardware place, LabPadre/Avid Space for advi
+- **log** (2026-10-07): Judgment rule: the best guess is a single calendar date and may buffer past a stale or provisional NET. If the expected booster and ship have not completed static fires by roughly 10 days before the best guess, move the guess later and explain why.

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-open-alternative-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds fast-rising software products and prepares independent open-source alternatives. Interviews you on categories, stack, and approvals, then delivers source-linked opportunity briefs before any repo work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "N7-cgHvWrQs6ZF-wBjAGG",
+    "url": "https://x.ai/bot/N7-cgHvWrQs6ZF-wBjAGG",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Victor Motricala",
+    "creatorHandle": "VictorMotricala",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

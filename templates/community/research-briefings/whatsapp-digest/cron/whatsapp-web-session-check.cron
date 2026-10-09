@@ -1,0 +1,3 @@
+# Routine "WhatsApp Web session check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 18 * * 0-5 cd /path/to/whatsapp-digest && pi -p "/whatsapp-web-session-check"

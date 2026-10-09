@@ -1,0 +1,3 @@
+# Routine "Friday competitor report" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+12 11 * * 5 cd /path/to/competitor-intel && pi -p "/friday-competitor-report-for-chief-of-staff"

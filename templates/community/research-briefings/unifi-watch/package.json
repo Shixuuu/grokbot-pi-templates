@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unifi-watch",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your UniFi site watchdog. Watches Network health (gateways, switches, APs, critical uplinks, always-on clients) and Protect activity (people, vehicles, animals, sensors), with quiet alert-only routines and on-demand overnight or since-you-left digests. Connect your own UniFi cloud API key to get st…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qV6FAPsH8Yox5VNuYQ8al",
+    "url": "https://x.ai/bot/qV6FAPsH8Yox5VNuYQ8al",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Eric Mann",
+    "creatorHandle": "ericdmann",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

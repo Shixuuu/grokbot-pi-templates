@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine coast-jet-watch-bro-hrl
+
+[Timer]
+OnCalendar=Sun,Mon,Fri,Sat *-*-* 08,12,16,20:51:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-x-articles-you-missed",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds the substantive long-form X Articles from the last 24 hours on the topics you choose and delivers up to 10 summaries as one copyable brief, on demand or every morning.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UmGyUKTHDS4-ziSOlsUeV",
+    "url": "https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Brian",
+    "activeVersion": 1,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

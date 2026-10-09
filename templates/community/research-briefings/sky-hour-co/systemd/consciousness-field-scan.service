@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine consciousness-field-scan (Sky-Hour Co)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sky-hour-co
+ExecStart=/usr/bin/env pi -p "/consciousness-field-scan"

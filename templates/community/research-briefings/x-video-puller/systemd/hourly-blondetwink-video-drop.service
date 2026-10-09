@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hourly-blondetwink-video-drop (X Video Puller)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/x-video-puller
+ExecStart=/usr/bin/env pi -p "/hourly-blondetwink-video-drop"

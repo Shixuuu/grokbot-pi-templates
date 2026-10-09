@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-stonkie",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Long-only equity research PM for individual investors and small desks. Send a ticker and get one plain-English Buy / Hold / Sell memo—valuation, fundamentals, market, and technical—on a 6–18 month moderate-risk mandate.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wwl0H_pZIaZOinxuT7VcR",
+    "url": "https://x.ai/bot/wwl0H_pZIaZOinxuT7VcR",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ali Dakroub",
+    "creatorHandle": "thoughtsofdax",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine edtech-weekly-roundup (EdTech News Nathan)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/edtech-news-nathan
+ExecStart=/usr/bin/env pi -p "/edtech-weekly-roundup"

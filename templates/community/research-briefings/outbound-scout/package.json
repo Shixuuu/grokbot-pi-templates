@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-outbound-scout",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds outbound customers from a product URL or description: sets up Glasser, locks an ICP, then finds companies and decision-maker emails/phones.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7FPx_GNADVyb36VRYoKz1",
+    "url": "https://x.ai/bot/7FPx_GNADVyb36VRYoKz1",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "iammutex",
+    "creatorHandle": "iammutex",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

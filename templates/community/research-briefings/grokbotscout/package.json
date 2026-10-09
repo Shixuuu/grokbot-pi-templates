@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grokbotscout",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Scouts public Grok Bot templates and shares short batches of 7 with ADD / ADD-NARROW / SKIP verdicts so you can decide what to add. Read-only on X; never installs bots for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_KMuKhK4yVbCD8BVLhvAP",
+    "url": "https://x.ai/bot/_KMuKhK4yVbCD8BVLhvAP",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Carolina Dill",
+    "creatorHandle": "CarolinaDill",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

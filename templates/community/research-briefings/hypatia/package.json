@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-hypatia",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An inspiration librarian: send her links, posts, articles, videos, and quotes, and she reads them properly, checks the source, saves a note on each, and sends a short digest of the sparks worth your time.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BWqyJWdEtiJVpz2OJBdBQ",
+    "url": "https://x.ai/bot/BWqyJWdEtiJVpz2OJBdBQ",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "David Chou",
+    "creatorHandle": "davidzhouyu",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

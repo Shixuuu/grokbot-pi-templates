@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1790412765599 (每週公平分發代幣掃描)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-ko0e0k
+ExecStart=/usr/bin/env pi -p "/automation-1790412765599"

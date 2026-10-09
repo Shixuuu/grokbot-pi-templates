@@ -1,0 +1,3 @@
+# Routine "Limpieza semanal Gmail" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+1 18 * * 1 cd /path/to/tin-el-investigador && pi -p "/limpieza-semanal-gmail"

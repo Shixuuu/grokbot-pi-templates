@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-unnamed-skill-j2agmx",
+  "version": "1.0.1",
+  "private": true,
+  "description": "把微信公众号文章链接原样抓成 Markdown 和 JSON，标题、公众号、发布时间、正文、图片都会带上。首次启动会自动搭好抓取环境，也可以给其他 Bot 当抓取底座调用。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "J2AgMXbgmrqq2zyRt8y7g",
+    "url": "https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "铁柱AGI",
+    "creatorHandle": "cgnot996",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

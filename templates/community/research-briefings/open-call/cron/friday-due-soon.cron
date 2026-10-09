@@ -1,0 +1,3 @@
+# Routine "friday-due-soon" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 * * 5 cd /path/to/open-call && pi -p "/friday-due-soon"

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-stuck-cycle",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Puts one skill onto the cycle learn → do → get stuck → learn only what the stuck point requires → try again, then starts the next lap with a do-today using what they already know. For people who keep consuming tutorials instead of getting stuck on real work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fihe4nAy0jFWoygo4JCAW",
+    "url": "https://x.ai/bot/fihe4nAy0jFWoygo4JCAW",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "creatorHandle": "thekuchh",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

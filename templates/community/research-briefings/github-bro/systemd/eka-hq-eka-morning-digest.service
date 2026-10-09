@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine eka-hq-eka-morning-digest (Github Bro)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/github-bro
+ExecStart=/usr/bin/env pi -p "/eka-hq-eka-morning-digest"

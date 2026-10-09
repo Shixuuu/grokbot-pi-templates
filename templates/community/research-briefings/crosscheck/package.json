@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-crosscheck",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Before you publish or send, checks the claims that matter in two separate lanes: one reasons each claim through, the other verifies it against live sources on its own. Returns aligned, partial, contested, or insufficient, plus the exact lines to fix. Never edits or posts for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "U4E-bNBzYlVcl_hMYf-kZ",
+    "url": "https://x.ai/bot/U4E-bNBzYlVcl_hMYf-kZ",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lookalikes-6gtghp",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Shows you public X accounts that look like they are pretending to be you: a copied name, a lookalike handle, a copied bio, or a claim to be you. It does not report them to X, fill out the impersonation form, post, follow, or message anyone. Installing it adds a new bot. It does not edit or replace …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6GtgHP0lCXamLe_wI7mZd",
+    "url": "https://x.ai/bot/6GtgHP0lCXamLe_wI7mZd",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Lacey",
+    "creatorHandle": "LaceyPresley",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

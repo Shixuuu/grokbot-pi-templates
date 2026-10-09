@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine biggs-new-updated-video-tracker (Last Days Research Aide)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/last-days-research-aide
+ExecStart=/usr/bin/env pi -p "/biggs-new-updated-video-tracker"

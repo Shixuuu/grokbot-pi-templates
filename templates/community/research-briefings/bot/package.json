@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "每天自动搜集 AI 热点资讯和热门争议话题，按固定格式写成一份中文日报，每条都附来源链接，适合做内容、追行业动态的人。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Swm4NLf4yPCzuANa4ghaT",
+    "url": "https://x.ai/bot/Swm4NLf4yPCzuANa4ghaT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Yunn",
+    "creatorHandle": "Yunn260414",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-glasser-pyfetn",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Gives your agent access to premium research data via Glasser.ai — company and people enrichment, SEO, ads, traffic, funding, competitor intel, and outbound contacts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pYFETnU1TFsADlz0hJD1y",
+    "url": "https://x.ai/bot/pYFETnU1TFsADlz0hJD1y",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "iammutex",
+    "creatorHandle": "Glasserai",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-spot-brief",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Daily day-ahead electricity briefs with an hourly price graph and light tips on when to run dishwasher, laundry, or EV charge. Set your market once; get a short ping when prices publish.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vRNPIvLFS4OA1RkRxwtBN",
+    "url": "https://x.ai/bot/vRNPIvLFS4OA1RkRxwtBN",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jan Håvard Bleka",
+    "creatorHandle": "Jan",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

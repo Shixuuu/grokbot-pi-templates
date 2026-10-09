@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-bookmark-miner",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reads your X bookmarks and turns them into a short, ranked list of things worth doing: skills to write, projects to build, features for your existing projects, ways to earn, and changes to your AI setup. Read-only on X.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2KoI66uCOtx0PSf3do4tK",
+    "url": "https://x.ai/bot/2KoI66uCOtx0PSf3do4tK",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Reuben H",
+    "creatorHandle": "therookiehacker",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

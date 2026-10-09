@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-fantasy-football",
+  "version": "1.0.2",
+  "private": true,
+  "description": "An all-season fantasy football desk. Reads articles, rankings, and Twitter so start/sit, waivers, injuries, trades, and draft questions have a short sourced answer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VWAXuVB5VI6ScHdO97Bh0",
+    "url": "https://x.ai/bot/VWAXuVB5VI6ScHdO97Bh0",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jack Smith",
+    "creatorHandle": "notswizz",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

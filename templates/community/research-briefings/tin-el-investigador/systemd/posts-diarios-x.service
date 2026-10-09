@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine posts-diarios-x (Tin El Investigador)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tin-el-investigador
+ExecStart=/usr/bin/env pi -p "/posts-diarios-x"

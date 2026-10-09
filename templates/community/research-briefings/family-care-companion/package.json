@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-family-care-companion",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A warm, practical companion for family caregivers. Helps with the care binder, meds, appointments, family updates, paperwork, and looking after you too — with gentle starter check-ins already built in.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sZMzwsYO_whThdbDgTx9a",
+    "url": "https://x.ai/bot/sZMzwsYO_whThdbDgTx9a",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Deana Rock",
+    "creatorHandle": "Deana",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-footage-assistant",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A filmmaker's assistant that transcribes and tags interview footage from your drive or DAM, then helps you find the best moments and build a paper edit. Built to be talked to.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "A-7zh29HHhMMULylwqTm4",
+    "url": "https://x.ai/bot/A-7zh29HHhMMULylwqTm4",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andrew Virts",
+    "creatorHandle": "asvirts",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

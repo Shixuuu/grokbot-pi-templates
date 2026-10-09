@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine fortnite-drop-brief-14-00
+
+[Timer]
+OnCalendar=*-*-* 13:46:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

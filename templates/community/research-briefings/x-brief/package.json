@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-x-brief",
+  "version": "1.0.8",
+  "private": true,
+  "description": "An end-of-day brief on what's moving in your corner of X, plus a playbook built from your own best posts: what works, fill-in-the-blank templates, and suggested next posts. For people who take posting seriously and want to put out content worth saving.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GkX6X536UK2MlbkfGLQnb",
+    "url": "https://x.ai/bot/GkX6X536UK2MlbkfGLQnb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Daniel McAteer",
+    "creatorHandle": "daniel_mac8",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-meraki-health",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Read-only health checks, quiet monitoring and weekly digests for your Cisco Meraki network. It gives you plain-English findings backed by real Dashboard numbers, and only pings you when something new breaks or clears.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6jV9JYRKSoq4aaV-r-JvT",
+    "url": "https://x.ai/bot/6jV9JYRKSoq4aaV-r-JvT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Lee Van",
+    "creatorHandle": "iamleevg",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

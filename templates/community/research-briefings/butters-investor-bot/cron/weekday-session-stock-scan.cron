@@ -1,0 +1,3 @@
+# Routine "Weekday session stock scan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 7,9,11,13 * * 1-5 cd /path/to/butters-investor-bot && pi -p "/weekday-session-stock-scan"

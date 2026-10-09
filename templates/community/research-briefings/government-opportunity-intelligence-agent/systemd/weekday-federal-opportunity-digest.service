@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-federal-opportunity-digest (Government Opportunity Intelligence Agent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/government-opportunity-intelligence-agent
+ExecStart=/usr/bin/env pi -p "/weekday-federal-opportunity-digest"

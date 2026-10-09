@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bot-phone-line-by-cosvoice",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Answers your phone and makes calls for you on CosVoice. After every call you get a written email summary; ask any time to hear the latest. $29 a month with 60 minutes of calls.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jnIfY8WX6xUVvjs26aDnI",
+    "url": "https://x.ai/bot/jnIfY8WX6xUVvjs26aDnI",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andy F.",
+    "creatorHandle": "getCoSVoice",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

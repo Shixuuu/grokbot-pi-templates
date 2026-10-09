@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-kids-daily-spark",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Makes a sticky one-page STEM learning brief for each kid every day: real concept, memorable hook, 30-second try-it, soft hero art, and optional parent copies. Child names stay off the card.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Lpl_fDQ5Jhj2sfoCWy1Hf",
+    "url": "https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Ben L",
+    "creatorHandle": "HelloBenL",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

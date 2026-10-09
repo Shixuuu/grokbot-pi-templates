@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-merchy-ceo",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Print-on-demand shop CEO: picks winning tee lines, briefs a designer, publishes daily to TeePublic (and optionally Redbubble). Creative, trend-aware, volume-plus-quality.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OlyD6yQ15RNPeOoQCPtea",
+    "url": "https://x.ai/bot/OlyD6yQ15RNPeOoQCPtea",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Dr. Luminos",
+    "creatorHandle": "Dr. Luminos",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

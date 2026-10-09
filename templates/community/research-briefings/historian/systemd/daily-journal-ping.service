@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-journal-ping (Historian)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/historian
+ExecStart=/usr/bin/env pi -p "/daily-journal-ping"

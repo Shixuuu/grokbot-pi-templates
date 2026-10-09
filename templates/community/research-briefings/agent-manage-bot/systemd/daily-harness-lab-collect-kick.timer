@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-harness-lab-collect-kick
+
+[Timer]
+OnCalendar=*-*-* 08:55:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

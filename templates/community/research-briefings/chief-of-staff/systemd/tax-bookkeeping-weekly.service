@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tax-bookkeeping-weekly (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff
+ExecStart=/usr/bin/env pi -p "/tax-bookkeeping-weekly"

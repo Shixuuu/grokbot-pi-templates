@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-red-team",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Pressure-tests your side of a contested argument before you jump in. Makes the other side's best case, finds your weak spots, and tells you whether the fight is worth it. It never posts for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "osA2hXnEON9LTol1Z2q7q",
+    "url": "https://x.ai/bot/osA2hXnEON9LTol1Z2q7q",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "TechOperator",
+    "creatorHandle": "TechOperator",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

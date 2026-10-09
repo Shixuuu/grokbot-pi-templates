@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-investing-agent",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scores one public software name at a time and drafts a buy or a pass. Research only, until the owner approves a specific order.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "d8O5qFdVTuffqePhAVd1J",
+    "url": "https://x.ai/bot/d8O5qFdVTuffqePhAVd1J",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Vijar Kohli",
+    "creatorHandle": "VijarKohli",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

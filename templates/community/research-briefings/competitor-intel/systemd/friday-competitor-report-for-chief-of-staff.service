@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-competitor-report-for-chief-of-staff (Competitor Intel)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/competitor-intel
+ExecStart=/usr/bin/env pi -p "/friday-competitor-report-for-chief-of-staff"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-team-lead",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Sales team lead for a small multi-bot shop. Reviews lead finder, price watch, and site bots; keeps outreach human; never sends or publishes unless the owner says so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "enoVHCmgV3gHhw4IPXvLW",
+    "url": "https://x.ai/bot/enoVHCmgV3gHhw4IPXvLW",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Matt Dotson",
+    "creatorHandle": "mattdotson74",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

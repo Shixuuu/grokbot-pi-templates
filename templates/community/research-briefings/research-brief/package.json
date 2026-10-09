@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-research-brief",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Daily chat brief of scientific findings that strain textbook claims — aiming for field-opening weight, not niche refinements. For readers who want curated challenge papers they can score in-thread.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0Hefzi8k2Za0bMU0I7eQT",
+    "url": "https://x.ai/bot/0Hefzi8k2Za0bMU0I7eQT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Matthew Ackerman",
+    "creatorHandle": "scientists_blog",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

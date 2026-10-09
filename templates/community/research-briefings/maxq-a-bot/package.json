@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-maxq-a-bot",
+  "version": "1.0.13",
+  "private": true,
+  "description": "On-demand SpaceXAI Mission kits for teachers—grade-banded orbital lessons, real-number worksheets, and classroom video recaps.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qwFZeLb9JL2N3rXuM6Fkz",
+    "url": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Buck",
+    "creatorHandle": "buckwatia",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

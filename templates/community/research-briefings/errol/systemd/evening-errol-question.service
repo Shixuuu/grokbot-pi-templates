@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-errol-question (Errol)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/errol
+ExecStart=/usr/bin/env pi -p "/evening-errol-question"

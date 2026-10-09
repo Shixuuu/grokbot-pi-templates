@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-term-metro-eleitoral",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Monitora o X sobre uma corrida eleitoral (nacional e estadual), cruza com pesquisas e notícias, e envia digests diários de volume, sentimento e temperatura — com a ressalva de que não é intenção de voto.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n6DQhcTSPHdlVpQtEinpS",
+    "url": "https://x.ai/bot/n6DQhcTSPHdlVpQtEinpS",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cristiano Vallory",
+    "creatorHandle": "crisvallory",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

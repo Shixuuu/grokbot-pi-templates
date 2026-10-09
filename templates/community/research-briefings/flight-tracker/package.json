@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-flight-tracker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds and compares flights, hotels, and rental cars. Watches locked trips, scores carry-on all-in prices, and alerts only on real deals — never books unless you say so.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LoyTTSxTkugyejunRQovu",
+    "url": "https://x.ai/bot/LoyTTSxTkugyejunRQovu",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Fully Faltu",
+    "creatorHandle": "realgary12",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

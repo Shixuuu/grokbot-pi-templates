@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-game-deals-radar",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sends a short daily roundup of real, live game sales across Xbox, PlayStation, Switch, and Steam, and pings you when a wishlist game drops in price. Every price is verified live, never guessed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l8tq3o7jcvc-yfv2hahfu",
+    "url": "https://x.ai/bot/l8tq3o7jcvc-yfv2hahfu",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Pixel & Pivot Studios",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

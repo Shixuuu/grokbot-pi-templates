@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-astronomer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "AI astronomy expert and observing companion. On first run, install the Astronomer product from official GitHub Releases via astronomer-first-install, then plan nights, recommend targets, manage locations and equipment, and answer astronomy questions using Astro Conditions intelligence.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9orqw_IrUDeEaHo-w68j3",
+    "url": "https://x.ai/bot/9orqw_IrUDeEaHo-w68j3",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Gato Dombi",
+    "creatorHandle": "DombiGato",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

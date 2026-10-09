@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-property-visit",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Drop an address, lat/lon, or parcel ID. Get a visit-ready land pack — soils, flood, slope, parcel map — plus a 15-day workability window and checklist files (`brief.md`, `aoi.geojson`, `window.csv`).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "85qsR6t4r8jI3oKbPm5Uu",
+    "url": "https://x.ai/bot/85qsR6t4r8jI3oKbPm5Uu",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "David Beitz",
+    "creatorHandle": "dzbeitz",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

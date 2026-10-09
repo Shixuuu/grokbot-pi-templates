@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-summarize-bot",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Point at any URL, YouTube, podcast, or file — get a short gist in chat via the summarize CLI. On-demand; never invents without the CLI.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9vk3KOm7wJzYVXlyKXxj7",
+    "url": "https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Vincent Peng",
+    "creatorHandle": "Vincent Peng",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

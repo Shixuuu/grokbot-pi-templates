@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-job-apply-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds and applies to senior/lead full-stack software engineer roles (Singapore & Bangkok focus), tracks submissions, and sends a brief daily recap.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kQ1LcFRNGrPDl7Pz_q4mb",
+    "url": "https://x.ai/bot/kQ1LcFRNGrPDl7Pz_q4mb",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Oliver Sim",
+    "creatorHandle": "olishiz",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

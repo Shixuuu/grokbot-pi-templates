@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-tesla-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Monitors your Teslas without waking them, logs battery and status changes to Google Sheets, and alerts you when a car comes online or goes quiet.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PQhKM1G6t5kFI0ZwjIt1t",
+    "url": "https://x.ai/bot/PQhKM1G6t5kFI0ZwjIt1t",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Quang",
+    "creatorHandle": "california_swe",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

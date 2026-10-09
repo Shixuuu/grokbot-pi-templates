@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-starship-launch-guess",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Every morning it gives you one best-guess date for the next Starship launch from Starbase, Texas, and explains why whenever that date moves. It's built for fans who want a call they can plan around, not a pile of tracker links.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CdqN7HvSWhkRBiqy2dDc1",
+    "url": "https://x.ai/bot/CdqN7HvSWhkRBiqy2dDc1",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Art King",
+    "creatorHandle": "Art",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-travel-agent",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A travel partner for trip logging, city scoring, and light itinerary prep. Logs trips in a Notion Travel Log, answers travel-history questions from that log, and confirms before creating or editing rows.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_yHS4eeajJMAXY1EHAdoO",
+    "url": "https://x.ai/bot/_yHS4eeajJMAXY1EHAdoO",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jeremy Cai",
+    "creatorHandle": "jjeremycai",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

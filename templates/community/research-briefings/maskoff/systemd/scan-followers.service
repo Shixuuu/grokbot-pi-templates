@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine scan-followers (Maskoff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/maskoff
+ExecStart=/usr/bin/env pi -p "/scan-followers"

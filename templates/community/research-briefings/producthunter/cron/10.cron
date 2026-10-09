@@ -1,0 +1,3 @@
+# Routine "产品雷达 · 上午10点" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 * * * cd /path/to/producthunter && pi -p "/10"

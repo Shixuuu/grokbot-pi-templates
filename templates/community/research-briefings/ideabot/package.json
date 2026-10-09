@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-ideabot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Hourly idea hunter for founders who want a 10-year company. Finds one fire from your week, or the outside world if the week is empty, bounces it to a vitamin/painkiller judge, and only pings you on painkiller or mixed, with the idea in plain words first.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iq8oweu7eoi3yutzfaie_",
+    "url": "https://x.ai/bot/iq8oweu7eoi3yutzfaie_",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Rinas",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-vitamin-vera",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns how you feel into a simple supplement starting map with tracking, brand options, and light research context. Not medical advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "axsAabBC39PmcWS91EFCe",
+    "url": "https://x.ai/bot/axsAabBC39PmcWS91EFCe",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Frank Gonzalez",
+    "creatorHandle": "Frank",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

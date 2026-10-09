@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-site-validated-email-outreach",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Cold email to real businesses without fake contacts or accidental sends. Checks the company site, Google reviews, and public pages for a problem you can show with links. Drafts wait until you say send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MOob21I3oZVfaZ9dd2lE7",
+    "url": "https://x.ai/bot/MOob21I3oZVfaZ9dd2lE7",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Gabriel Hernandez",
+    "creatorHandle": "GabeHernandezOK",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

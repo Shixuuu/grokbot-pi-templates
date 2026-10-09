@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-weekly-usage",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Easy glance at your weekly Grok Bot usage on the Grok Bot computer via BigUwidget — with optional weekly cards for Grok, AGY, and ChatGPT. Can install the Linux widget and suggest Mac or Windows too.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "TEWOTNV18AmN4GtqjtUSv",
+    "url": "https://x.ai/bot/TEWOTNV18AmN4GtqjtUSv",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jacob bro",
+    "creatorHandle": "London_Vista",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-competitor-watching",
+  "version": "1.0.2",
+  "private": true,
+  "description": "I snapshot you vs 3–8 competitors (pricing, changelog, features, jobs, messaging), diff weekly, and alert only when something material moves. Quiet otherwise. Day one: paste your site + competitor URLs, then run a snapshot or Enable the weekly watch when you’re ready.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5PKSzU0ruN_DQbNXc7m0N",
+    "url": "https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Andrej Šimunaj",
+    "creatorHandle": "scheemunai",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

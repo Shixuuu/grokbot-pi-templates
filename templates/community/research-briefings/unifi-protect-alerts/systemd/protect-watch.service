@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine protect-watch (UniFi Protect Alerts)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unifi-protect-alerts
+ExecStart=/usr/bin/env pi -p "/protect-watch"

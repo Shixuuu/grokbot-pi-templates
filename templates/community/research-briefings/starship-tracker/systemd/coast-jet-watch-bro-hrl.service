@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine coast-jet-watch-bro-hrl (Starship Tracker)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/starship-tracker
+ExecStart=/usr/bin/env pi -p "/coast-jet-watch-bro-hrl"

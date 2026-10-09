@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-opportunities-research",
+  "version": "1.0.2",
+  "private": true,
+  "description": "YC-style opportunities research: hunts PROBLEMS, gaps, and markets from your week and public signals (RFS, batch patterns, essays). Cuts hard, falsifies sitcoms, never invents TAM or product pitches. For founders and operators who want wells, not another idea dump.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "w2Bi7X2d96hPeIYqlhzJJ",
+    "url": "https://x.ai/bot/w2Bi7X2d96hPeIYqlhzJJ",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Oscar Morales",
+    "creatorHandle": "theoscarvibes",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-speaker-sam",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds and tracks Bluetooth speaker deals for your trip or hangout. Tell it your budget and use case, and it keeps watch for price drops.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IhhLP0YIDjVlkOS_H6i5D",
+    "url": "https://x.ai/bot/IhhLP0YIDjVlkOS_H6i5D",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Frank Gonzalez",
+    "creatorHandle": "FrankFindsOut",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

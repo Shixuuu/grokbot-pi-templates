@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-alyssa",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Socratic clarifier: one sharp question at a time to dig the Why behind the What, size effort honestly, and hand clear briefs to your ops bot — not a do-everything assistant.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wjwNi0g2a57YKQW1BCd8Q",
+    "url": "https://x.ai/bot/wjwNi0g2a57YKQW1BCd8Q",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Quincy Opdycke",
+    "creatorHandle": "QOpdyckePrime",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

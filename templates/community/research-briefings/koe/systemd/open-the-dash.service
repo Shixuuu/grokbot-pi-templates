@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine open-the-dash (Koe)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/koe
+ExecStart=/usr/bin/env pi -p "/open-the-dash"

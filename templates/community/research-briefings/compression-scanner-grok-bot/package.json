@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-compression-scanner-grok-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Finds stocks, ETFs and crypto coiling in tight compression patterns and draws one clean two-sided chart per setup, with long and short entries and targets on real swing levels. A setup counts only on a candle close through an entry. Charts and captions only, not financial advice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l4hipk4BQ-0Kn3ua16zQB",
+    "url": "https://x.ai/bot/l4hipk4BQ-0Kn3ua16zQB",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Right Wing Inkorporated",
+    "creatorHandle": "rightwingink1",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

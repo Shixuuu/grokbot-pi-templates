@@ -1,0 +1,3 @@
+# Routine "Understand the World 5am" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 5 * * * cd /path/to/newspaper && pi -p "/dawn-ledger-5am-print"

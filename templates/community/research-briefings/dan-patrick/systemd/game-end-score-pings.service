@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine game-end-score-pings (Dan Patrick)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dan-patrick
+ExecStart=/usr/bin/env pi -p "/game-end-score-pings"

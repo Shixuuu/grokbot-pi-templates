@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-competitive-landscape-desk-edge-finder",
+  "version": "1.0.2",
+  "private": true,
+  "description": "🥊 See how you stack up with a sourced competitor comparison table, clear options and a recommendation. Nothing is shared or published without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2pbiwrtpclt7kdq3nngxy",
+    "url": "https://x.ai/bot/2pbiwrtpclt7kdq3nngxy",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

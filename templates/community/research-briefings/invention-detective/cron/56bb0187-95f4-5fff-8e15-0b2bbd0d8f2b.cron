@@ -1,0 +1,5 @@
+# Routine "Mode A: watched repo merge": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Keep a local scratch note per merge with a disposition (Candidate: yes/no; Friday reconciles every yes). For candidates, add a Disclosure line with dated first-public facts (feeds potential bar-date status) and a provisional eligibility note for counsel. Append any new internal identifiers seen in …
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/invention-detective && pi -p "/56bb0187-95f4-5fff-8e15-0b2bbd0d8f2b"

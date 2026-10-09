@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-orders",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Tracks your online orders: incoming, shipments, spend, and refunds. Connect Tracker with OAuth, then ask what's coming.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0taQ6RZdkjsnOfda_A8Ie",
+    "url": "https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "bashful",
+    "creatorHandle": "wafffls",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

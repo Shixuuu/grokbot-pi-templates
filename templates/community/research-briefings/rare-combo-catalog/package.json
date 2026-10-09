@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-rare-combo-catalog",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Maps rare disease combinations and findings to a gap table, kitchen-table page, and clinician discussion prompts (workup/avoid-discuss only). Public sources; printable table PDF by default; not a doctor.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9J6OME5--PpDmAuCxFYBG",
+    "url": "https://x.ai/bot/9J6OME5--PpDmAuCxFYBG",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Bianca Bell-Chambers",
+    "creatorHandle": "Bianca Bell-Chambers",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

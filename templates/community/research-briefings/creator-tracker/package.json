@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-creator-tracker",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Follow any creators on X: get alerts when they post (optionally only about a topic you pick), with a link and a one-line summary, plus a daily leaderboard ranking them by views, engagement, and followers. For fans, creators, and brands who want to keep up without scrolling.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VybQINyBDKmSOgy-wua_A",
+    "url": "https://x.ai/bot/VybQINyBDKmSOgy-wua_A",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "IG: Stancedmdl3",
+    "creatorHandle": "16luca",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

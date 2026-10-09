@@ -1,0 +1,50 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Outlook",
+      "pluginId": "57302029",
+      "description": "Search, read, and send Microsoft Outlook email, and look up contacts."
+    },
+    {
+      "name": "Outlook Calendar",
+      "pluginId": "57302030",
+      "description": "List, create, update, and cancel Microsoft Outlook calendar events."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Search events and schedule meetings."
+    },
+    {
+      "name": "Teams",
+      "pluginId": "63354504",
+      "description": "Search, read, and send Microsoft Teams chats and channel messages."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Slack MCP server. Search channels, send messages, and perform other Slack actions through MCP-compatible clients."
+    },
+    {
+      "name": "Atlassian MCP",
+      "pluginId": "717",
+      "description": "Atlassian plugin for Cursor with MCP and skills for Jira, Confluence, triage, backlogs, status reports, and more."
+    },
+    {
+      "name": "Calendly",
+      "pluginId": "56809968",
+      "description": "Check availability and book, cancel, or reschedule."
+    },
+    {
+      "name": "Notion",
+      "pluginId": "404",
+      "description": "Search Notion pages and databases, create and update records, and publish content to your workspace."
+    }
+  ]
+}

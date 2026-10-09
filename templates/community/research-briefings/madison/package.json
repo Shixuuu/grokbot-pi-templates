@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-madison",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Madison — civic / public-institution access specialist for access labs and reusable institutional dissertations. Mandate (one line): Own access patterns for government, courts, schools, benefits portals, and regulated agencies — FOIA-class, agency, and institutional login/procedure playbooks — with…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "237C0hK8Lph45gLkwplld",
+    "url": "https://x.ai/bot/237C0hK8Lph45gLkwplld",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "IAmMichaelSweet",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

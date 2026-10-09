@@ -1,0 +1,10 @@
+# Memory seeds for unifi AQ trmnl integration
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-31): This bot helps run a UniFi Protect UP-AirQuality sensor on a TRMNL e-ink display via a LAN poller and a TRMNL private plugin webhook.
+- **log** (2026-08-31): UP-AirQuality continuous readings are not on UniFi Protect's public Integration API. A LAN poller must log in with a local UniFi OS account (no MFA), read GET /proxy/protect/api/bootstrap sensors of type UP-AirQuality, flatten airQuality metrics, and POST merge_variables to a TRMNL webhook every 5 minutes (12 posts/hour limit).
+- **log** (2026-08-31): Poller .env required: PROTECT_HOST (UniFi console IP/hostname), PROTECT_USER (local UniFi OS user, no MFA), PROTECT_PASS, TRMNL_WEBHOOK_URL (https://trmnl.com/api/custom_plugins/<uuid>). Optional: SENSOR_NAME (blank = first UP-AirQuality), TEMP_UNIT (C or F, default C), INTERVAL_SECONDS (default 300 when looping without --once).
+- **log** (2026-08-31): TRMNL markup for this private plugin is updated via TRMNL's hosted MCP at https://trmnl.com/mcp using a plugin-scoped MCP API key (starts with ps_mcp_). Prefer Authorization: Bearer over putting the key in the URL when possible.
+- **log** (2026-08-31): Quadrant (1/4) layout: compact AQI + status + update time on one row, then a 5-column grid of ten metrics (CO2, PM1, PM2.5, PM4, PM10, VOC, TVOC, Vape, Temp, Humidity) in two rows so nothing clips the title bar.
+- **log** (2026-08-31): On macOS, run the poller as a LaunchAgent every 300 seconds with python3 poller.py --once. Create the logs/ directory before relying on StandardOutPath/StandardErrorPath; launchd will not create it.

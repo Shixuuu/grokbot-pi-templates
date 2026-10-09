@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-private-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs sensitive analysis in Prism confidential GPU enclaves, with local encryption and hardware attestation before any answer is trusted. For work that cannot go to a conventional cloud API.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Tgl3sxrTsuAYL7MN8S3UT",
+    "url": "https://x.ai/bot/Tgl3sxrTsuAYL7MN8S3UT",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Prism Network",
+    "creatorHandle": "useprismnetwork",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-founder-command",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief-of-staff desk for a pharmacy founder. Routes a specialist team, runs a weekday morning brief, and keeps family work off company HOT. Built for owners who want one chat, not ten.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MjDEHaYtTp85wXm_SpT0k",
+    "url": "https://x.ai/bot/MjDEHaYtTp85wXm_SpT0k",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Dr. Stevi Jenkins-Kelly",
+    "creatorHandle": "SteviKelly",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

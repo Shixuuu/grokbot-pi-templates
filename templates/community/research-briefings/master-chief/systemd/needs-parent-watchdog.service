@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine needs-parent-watchdog (MASTER CHIEF)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/master-chief
+ExecStart=/usr/bin/env pi -p "/needs-parent-watchdog"

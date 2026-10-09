@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Robinhood",
+      "pluginId": "68492778",
+      "description": "View portfolios, positions, orders, watchlists, and market data, and trade in a Robinhood Agentic account."
+    }
+  ]
+}

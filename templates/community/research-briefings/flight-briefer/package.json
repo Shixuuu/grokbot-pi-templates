@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-flight-briefer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Writes lean, one-page preflight briefing cards (weather, NOTAMs, TFRs, FBO, aircraft notes) from official free FAA and aviationweather.gov sources. For pilots and dispatchers who want a fast, digestible brief for any leg.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YQjlMLtWiWq14ixfZ7ig0",
+    "url": "https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Jernau Gurgeh",
+    "creatorHandle": "thatsnotallxd",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-connection-mapper",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Give it two people, groups, or companies and it maps every direct and one-step connection between them (money, boards, donations, societies, photos, news and X) into Wikipedia-style Obsidian notes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9zEVJ7Eya66BLQ11xhPlD",
+    "url": "https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Michael A.M.E.",
+    "creatorHandle": "MindandEmotion7",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

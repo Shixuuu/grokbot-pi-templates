@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-research-runner",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Rents NVIDIA GPUs on Prism Network for private analysis and CUDA jobs that cannot run on the shared computer. Confidential prompts are encrypted into a GPU enclave; spend waits on the operator.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "P2qgQokuPHVJhrkmRDmLv",
+    "url": "https://x.ai/bot/P2qgQokuPHVJhrkmRDmLv",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Prism Network",
+    "creatorHandle": "useprismnetwork",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

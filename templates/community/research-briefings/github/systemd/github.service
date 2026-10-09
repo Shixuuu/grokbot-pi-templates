@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine github (github 优秀仓库)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/github
+ExecStart=/usr/bin/env pi -p "/github"

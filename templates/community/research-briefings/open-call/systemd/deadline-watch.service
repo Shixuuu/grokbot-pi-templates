@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine deadline-watch (Open Call)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/open-call
+ExecStart=/usr/bin/env pi -p "/deadline-watch"

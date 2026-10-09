@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unifi-protect-alerts",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Watches your UniFi Protect cameras and emails you (and anyone you choose) only for events that matter at your entrances, like a person while you're Away or late at night. Read-only against Protect.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "t9-UluNtR8-sZdrr_bxQU",
+    "url": "https://x.ai/bot/t9-UluNtR8-sZdrr_bxQU",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Matt Routa",
+    "creatorHandle": "atuor",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

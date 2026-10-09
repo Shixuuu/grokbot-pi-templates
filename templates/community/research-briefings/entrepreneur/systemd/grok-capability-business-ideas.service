@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine grok-capability-business-ideas (Entrepreneur)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/entrepreneur
+ExecStart=/usr/bin/env pi -p "/grok-capability-business-ideas"

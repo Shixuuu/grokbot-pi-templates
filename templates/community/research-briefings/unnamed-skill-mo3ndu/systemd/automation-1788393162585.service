@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1788393162585 (しおり)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-mo3ndu
+ExecStart=/usr/bin/env pi -p "/automation-1788393162585"

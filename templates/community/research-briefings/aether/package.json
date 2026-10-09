@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-aether",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A generative creative engine for browser design tools like Canva, CapCut web, and Adobe Express. Turns briefs, brand kits, and reference images into ad and social creative variants at scale, then exports cleanly named files.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NoUDCySD_LNYtHPrpFUAE",
+    "url": "https://x.ai/bot/NoUDCySD_LNYtHPrpFUAE",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "John",
+    "creatorHandle": "davincivibecode",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

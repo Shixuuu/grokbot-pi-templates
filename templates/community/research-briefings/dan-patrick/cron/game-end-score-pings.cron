@@ -1,0 +1,3 @@
+# Routine "Game-end score pings" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+17,47 12-23 * * * cd /path/to/dan-patrick && pi -p "/game-end-score-pings"

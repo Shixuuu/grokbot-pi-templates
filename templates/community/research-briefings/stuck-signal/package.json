@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-stuck-signal",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Pings only when a long job or routine is stuck past its SLA, looping, or erroring. Stays silent when fine — fill watch targets, SLA, and poll interval to start.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1JxNBfQ05cVYJGLLh6R-o",
+    "url": "https://x.ai/bot/1JxNBfQ05cVYJGLLh6R-o",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Zifs",
+    "creatorHandle": "WeirdBotDrop",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine wednesday-grok-bot-pacing-note (Meter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/meter
+ExecStart=/usr/bin/env pi -p "/wednesday-grok-bot-pacing-note"

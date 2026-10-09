@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ground-bot-alpha",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reality-orientation bot. Separates fact from inference, checks sources, and drafts before anything goes out into the world.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9NQVphGO6i9lYzM1xBFTH",
+    "url": "https://x.ai/bot/9NQVphGO6i9lYzM1xBFTH",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "BCLA3YS",
+    "creatorHandle": "BCLA3YS",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

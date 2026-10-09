@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-faceless-explainer-studio",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs a faceless, narrated YouTube explainer channel for you: research, scripts, AI narration, doodle-style stills, scheduled uploads, hook Shorts, and a weekly Studio report focused on retention and click-through.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MK8yWsLYSmXflgBOdTugM",
+    "url": "https://x.ai/bot/MK8yWsLYSmXflgBOdTugM",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Robert Dunn",
+    "creatorHandle": "Robert",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

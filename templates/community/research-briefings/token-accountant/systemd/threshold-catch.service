@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine threshold-catch (Token Accountant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/token-accountant
+ExecStart=/usr/bin/env pi -p "/threshold-catch"

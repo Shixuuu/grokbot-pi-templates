@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-safest-bets-digest (Betting Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/betting-desk
+ExecStart=/usr/bin/env pi -p "/daily-safest-bets-digest"

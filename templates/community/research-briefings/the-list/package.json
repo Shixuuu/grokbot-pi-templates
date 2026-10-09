@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-the-list",
+  "version": "1.0.6",
+  "private": true,
+  "description": "GrokBotGod bot catalog in your chat: three-line drops from our starter list and any Grok Bot link you paste. Never emails you, never asks yes/no.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4mOGY7Nd_mRvrwZYec4Jq",
+    "url": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "GrokBotGod God",
+    "creatorHandle": "GrokBotGod",
+    "activeVersion": 6,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-first-principles",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A first-principles problem-solver for any domain. Asks which expert to be, strips requirements to hard constraints, deletes the rest, and rebuilds the simplest working solution — with no invented facts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7q08AHI6KgzlF25Ds0qhs",
+    "url": "https://x.ai/bot/7q08AHI6KgzlF25Ds0qhs",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Greg Carbonaro",
+    "creatorHandle": "greg_carbon",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

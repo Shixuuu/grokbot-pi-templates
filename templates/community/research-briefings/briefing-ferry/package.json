@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-briefing-ferry",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Cloud ferry for morning and evening briefings written by a local Mac sidecar on Google Drive. Confirms filled files, copies them into a live briefings folder, and reports to a lead teammate — not the user.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pm-678wpzU0TQYBWte8mx",
+    "url": "https://x.ai/bot/pm-678wpzU0TQYBWte8mx",
+    "official": false,
+    "category": "research-briefings",
+    "fidelity": "full",
+    "creator": "Gene Alexander",
+    "creatorHandle": "gene_alex",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}
