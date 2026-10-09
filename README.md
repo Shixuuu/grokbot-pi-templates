@@ -2,8 +2,11 @@
 
 Every public **Grok Bot template** we could find, converted into a **Pi** package ([`@earendil-works/pi-coding-agent`](https://github.com/earendil-works/pi)).
 
-- `templates/official/<slug>/`: the bots listed on the official marketplace, https://x.ai/bot/marketplace (all category tabs). That page alone defines "official".
-- `templates/community/<category>/<slug>/`: everything else, from community directories, awesome-lists and X posts. Each one is tagged with the sources it was found in.
+Three sections:
+
+- **Official**, `templates/official/<slug>/`: exactly the bots listed on the marketplace, https://x.ai/bot/marketplace (all category tabs).
+- **Built-in**, `templates/builtin/<slug>/`: the starter templates in the Grok Bot app's own template picker ([research/in-app-builtin-starters.txt](research/in-app-builtin-starters.txt)). One starter, SWE, is also on the marketplace; it stays in `official/` and is tagged `builtin` in the catalog and its `package.json`.
+- **Community**, `templates/community/<category>/<slug>/`: everything not on the marketplace and not a built-in starter, from community directories, awesome-lists and X posts. Each one is tagged with the sources it was found in.
 - [CATALOG.md](CATALOG.md) / [catalog.json](catalog.json): the index (name, creator, original `x.ai/bot/<id>` link, category, fidelity, contents, sources).
 
 ## Counts
@@ -13,23 +16,25 @@ _Generated 2026-10-09 by `scripts/04-index.mjs`._
 
 - **3951** unique share ids found, **3919** live, **32** dead links
 - **3913** converted from the full recipe, **6** metadata-only (full fetch failed)
-- **90** official (listed on x.ai/bot/marketplace), **3829** community
+- **90** official (listed on x.ai/bot/marketplace), **55** built-in in-app starters (SWE is also on the marketplace and stays in official/, tagged builtin), **3775** community (not on the marketplace)
 - Totals: 8185 skills, 2029 routines (1896 with a cron expression in the text), 19037 memory seeds, 2318 connector references
 
-### By category
+### By section and category
 
-| Category | Templates | Full | Skills | Routines |
+| Section / category | Templates | Full | Skills | Routines |
 | --- | --- | --- | --- | --- |
-| official | 90 | 90 | 448 | 146 |
-| coding-shipping | 338 | 338 | 672 | 76 |
-| content-publishing | 409 | 408 | 845 | 114 |
-| customer-sales | 261 | 260 | 501 | 159 |
-| finance-ops | 276 | 275 | 541 | 158 |
-| inbox-calendar | 304 | 304 | 555 | 259 |
-| personal-admin | 1327 | 1326 | 2865 | 604 |
-| research-briefings | 619 | 617 | 1153 | 365 |
-| teams-handoffs | 242 | 242 | 460 | 129 |
-| uncategorized | 53 | 53 | 145 | 19 |
+| **official** (x.ai/bot/marketplace) → `templates/official/` | 90 | 90 | 448 | 146 |
+| **builtin** (in-app starters) → `templates/builtin/` | 55 | 55 | 7 | 0 |
+| **community** (not on the marketplace) → `templates/community/` | 3775 | 3769 | 7737 | 1883 |
+| &nbsp;&nbsp;community/coding-shipping | 327 | 327 | 672 | 76 |
+| &nbsp;&nbsp;community/content-publishing | 405 | 404 | 845 | 114 |
+| &nbsp;&nbsp;community/customer-sales | 242 | 241 | 501 | 159 |
+| &nbsp;&nbsp;community/finance-ops | 270 | 269 | 541 | 158 |
+| &nbsp;&nbsp;community/inbox-calendar | 304 | 304 | 555 | 259 |
+| &nbsp;&nbsp;community/personal-admin | 1324 | 1323 | 2865 | 604 |
+| &nbsp;&nbsp;community/research-briefings | 617 | 615 | 1153 | 365 |
+| &nbsp;&nbsp;community/teams-handoffs | 233 | 233 | 460 | 129 |
+| &nbsp;&nbsp;community/uncategorized | 53 | 53 | 145 | 19 |
 
 ### By source (a template can appear in many sources)
 
@@ -52,7 +57,7 @@ _Generated 2026-10-09 by `scripts/04-index.mjs`._
 ### Validation (Pi 1.0.4, 2026-10-09)
 
 - Resource load with Pi's own `DefaultResourceLoader`: **3919/3919** templates load with every skill, prompt, AGENTS.md and APPEND_SYSTEM.md and no diagnostics
-- CLI end-to-end (`pi -p --approve` against a local mock model): **120/120** (90 official, 30 community): persona in the system prompt, all skills advertised, routine prompt expanded with arguments
+- CLI end-to-end (`pi -p --approve` against a local mock model): **174/174** (90 official, 54 builtin, 30 community): persona in the system prompt, all skills advertised, routine prompt expanded with arguments
 - Details: [validation/results.json](validation/results.json)
 <!-- counts:end -->
 
@@ -78,7 +83,7 @@ _Generated 2026-10-09 by `scripts/04-index.mjs`._
 
 ```bash
 # Option 1: run the bot as a project (persona + memory + skills + routines)
-cp -r templates/official/overheard ~/pi-bots/overheard
+cp -r templates/official/overheard ~/pi-bots/overheard   # or templates/builtin/<slug>, templates/community/<category>/<slug>
 cd ~/pi-bots/overheard
 pi --approve            # trust the folder so .pi/ and AGENTS.md load
 /overheard-setup        # skills are also /skill:<name>; routines are /<routine-name>

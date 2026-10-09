@@ -56,9 +56,9 @@ if (!process.argv.includes("--skip-loader")) {
 
 if (!process.argv.includes("--skip-cli")) {
   const n = Number(arg("--community-sample", 30));
-  const official = catalog.filter((t) => t.official);
+  const official = catalog.filter((t) => t.official || t.builtin);
   // deterministic community sample: spread across categories, prefer full recipes with routines + skills
-  const comm = catalog.filter((t) => !t.official && t.fidelity === "full").sort((a, b) => a.shareId.localeCompare(b.shareId));
+  const comm = catalog.filter((t) => !t.official && !t.builtin && t.fidelity === "full").sort((a, b) => a.shareId.localeCompare(b.shareId));
   const byCat = {}; for (const t of comm) (byCat[t.category] ||= []).push(t);
   const sample = []; let k = 0;
   while (sample.length < n && Object.values(byCat).some((v) => v.length)) { for (const v of Object.values(byCat)) { const x = v.splice((k * 7) % Math.max(v.length, 1), 1)[0]; if (x && sample.length < n) sample.push(x); } k++; }
@@ -74,7 +74,7 @@ if (!process.argv.includes("--skip-cli")) {
     const cmd = prompts.length ? `/${prompts[0].replace(/\.md$/, "")} VALIDATION-ARG-42` : "Introduce yourself in one line.";
     fs.rmSync(log, { force: true });
     const p = spawnSync("pi", ["-p", "--approve", "--no-session", "--no-extensions", "--model", "mock/mock", cmd], { cwd: dir, env: { ...process.env, PI_CODING_AGENT_DIR: agentDir, PI_OFFLINE: "1" }, input: "", encoding: "utf8", timeout: 90000 });
-    const r = { shareId: t.shareId, path: t.path, official: t.official, fidelity: t.fidelity, command: cmd.split(" ")[0], exit: p.status, stdout: (p.stdout || "").trim().slice(0, 80) };
+    const r = { shareId: t.shareId, path: t.path, official: t.official, builtin: t.builtin, fidelity: t.fidelity, command: cmd.split(" ")[0], exit: p.status, stdout: (p.stdout || "").trim().slice(0, 80) };
     try {
       const req = JSON.parse(fs.readFileSync(log, "utf8").trim().split("\n")[0]);
       const txt = (c) => (typeof c === "string" ? c : JSON.stringify(c));
@@ -96,7 +96,7 @@ if (!process.argv.includes("--skip-cli")) {
   }
   mock.kill();
   const bad = results.cli.filter((r) => !r.ok);
-  console.log(`cli: ${results.cli.length - bad.length}/${results.cli.length} ok (official ${official.length}, community ${sample.length})`);
+  console.log(`cli: ${results.cli.length - bad.length}/${results.cli.length} ok (official+builtin ${official.length}, community ${sample.length})`);
   for (const b of bad.slice(0, 15)) console.log("  FAIL", b.path, JSON.stringify({ ...b, path: undefined }).slice(0, 400));
 }
 writeJson(path.join(ROOT, "validation", "results.json"), results);

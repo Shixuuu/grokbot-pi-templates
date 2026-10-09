@@ -1,0 +1,56 @@
+# Built-in starter templates from the Grok Bot app's template picker (SearchBotTemplates, 2026-10-09). Format: id<TAB>name
+s5465ebb9e192551741f7	Account Health
+sd4333bc337078a9752ac	Account Manager
+sa7d7f82d0068c2367a17	Account Research Specialist
+sd6f165284d7fd2f25e56	Apartment Scout
+sfcf5d046a2784045938d	Beta Adoption Watcher
+s2d62197e15bd11a1bd63	Bug Reproduction
+s634fd63ee875502d8df9	Calendar Coordinator
+s297976f738dc390d23df	Call FAQ Miner
+sc0a0ec3ce9c675824106	Chief of Staff
+s20b2c65ebeebb7362fa7	Cloud Agent Orchestrator
+seb9d6ba6765c64113941	Community Operations Manager
+sdeb02761a9d185e5899f	Compelling Events Monitor
+sa2d131975aaab07e43f2	Competitive Intelligence Analyst
+sd358e6cf5e8bed188eec	Contract Desk
+s162b4ed38d6cf1d56731	CRM Operations Manager
+sb94d44175e650dbb703e	Daily Briefing Writer
+sb434ef300dea2b88aa58	Deal Desk Coordinator
+s2a289081613e5e361c79	Deck Updater
+s1025e1ebe0b11f048bd4	Docs Auditor
+s0dfd5486dc759d409d69	Enablement Fulfillment Specialist
+s47ebc74c9fcf9359b5a9	Event Guest Screener
+s50bb9361d891bd788a23	Expense Manager
+s229dcca5bc0eaa01b09c	Feature Request Tracker
+scfddc8ad204a669484d0	Hiring Screener
+s4f048c7b7da9e010c2c3	Inbox Manager
+s066a9145d936e74d0c80	Internal Communications Manager
+s072bae9387b9fc03cac8	Invoice Coordinator
+s4d10d16bdbe2391aa753	LinkedIn Campaign Manager
+se318a72a31fad75c277e	Marketing Calendar Owner
+s445a0c9a2ca4bea7729e	Meeting Prep Buddy
+se479952f3c9e373dfd64	Merch Fulfillment Operator
+s5d2839123b973b4480f9	Newsletter Writer
+s9c881536413c0bbfa776	Onboarding Manager
+s59facc90a46a8b4f59da	Paid Media
+s45471f3a8af234c13047	Paid Media Creative Strategist
+s3c76c85a840b32b8fed8	Personal Site Builder
+s98af8b9dcde521e1a9fa	Pipeline Analyst
+s2cfcbb8a38b8e22b7d18	Playtest Operator
+s25997c2d0308b4e76024	Presentation Designer
+s9e2a2591b97ca74fbeaa	Product Feedback Analyst
+s6d5f1cc3a564c8da972a	Product Performance
+s8b59eb62f90871ac5c36	Prospecting Plan Builder
+s2e4acfb8db3cc0669a1b	Prototype Builder
+s4c86a54f188668096400	Renewal Desk Operator
+s8ff03023f140bab479f7	Sales Outbound
+s1bde25ba45eca88ff276	Security Questionnaire Filler
+sb6d579c33f7a32d0e7af	SEO / AEO Auditor
+s634cb1edf26493e86be2	Social Media Manager
+sde2c69536d2f2564fe1b	Status Report Writer
+sb36667ce9e1fdc00cfe7	Subscription Cleaner
+sac3a109dfe021c555c7c	Talent Scout
+s7aaf6431077930df326f	Ticket Triage Specialist
+sc693906bdeded166b7ba	Travel Coordinator
+s98a7368e786130ad172b	Vendor Portal Operator
+sd4474cf03cd8552905ff	SWE

@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // Convert every enumerated Grok Bot template into a Pi package.
 // Inputs: data/candidates.json, data/public-meta.json, data/raw/full-recipes/<id>.json (from 02-enrich)
-// Output: templates/official/<slug>/, templates/community/<category>/<slug>/, catalog.json
+// Output: templates/official/<slug>/ (x.ai/bot/marketplace), templates/builtin/<slug>/ (in-app starters, research/in-app-builtin-starters.txt),
+//         templates/community/<category>/<slug>/ (everything else), catalog.json
 // Pi mapping follows pi-grokbot-import (vendor/pi-grokbot-import-src): persona -> AGENTS.md + .pi/APPEND_SYSTEM.md,
 // memories -> MEMORY.md, skills -> SKILL.md dirs, routines -> prompt templates + cron/systemd sketches, plugins -> connector notes.
 import fs from "node:fs";
@@ -16,6 +17,9 @@ const cand = readJson(path.join(ROOT, "data", "candidates.json"));
 const meta = readJson(path.join(ROOT, "data", "public-meta.json"));
 const RECIPES = path.join(ROOT, "data", "raw", "full-recipes");
 const OUT = path.join(ROOT, "templates");
+const BUILTIN_FILE = path.join(ROOT, "research", "in-app-builtin-starters.txt");
+const BUILTIN = new Map(fs.existsSync(BUILTIN_FILE) ? fs.readFileSync(BUILTIN_FILE, "utf8").split("\n").filter((l) => l.trim() && !l.startsWith("#")).map((l) => l.split("\t").map((x) => x.trim())) : []);
+const isOfficial = (t) => t.sources.some((s) => s.source === "xai-marketplace");
 
 const TAX = ["personal-admin", "research-briefings", "content-publishing", "coding-shipping", "inbox-calendar", "customer-sales", "finance-ops", "teams-handoffs"];
 const CAT_PRIORITY = ["botsdots.site", "grokbotwiki.com", "Maimuzamilhu/awesome-grok-bot-templates", "kydlikebtc/awesome-grokbot", "majiayu000/awesome-grok-bot"];
@@ -65,7 +69,7 @@ function findSchedule(r) {
 function uniq(name, used) { let n = name, i = 2; while (used.has(n)) n = `${name}-${i++}`.slice(0, 64); used.add(n); return n; }
 
 function render(t, rec, info) {
-  const { dir, fidelity, official, category } = info;
+  const { dir, fidelity, official, builtin, category } = info;
   const tpl = rec?.details?.template || {};
   const recipe = rec?.recipe || {};
   const m = meta[t.shareId] || {};
@@ -165,7 +169,7 @@ function render(t, rec, info) {
     name: `grokbot-${slug}`.slice(0, 214), version: `1.0.${tpl.activeVersion || m.activeVersion || 0}`, private: true,
     description: oneLine(description, 300), keywords: ["pi-package", "grok-bot-template"],
     pi: { skills: ["./skills"], prompts: ["./prompts"] },
-    grokbot: { shareId: t.shareId, url, official, category, fidelity, creator: creator || undefined, creatorHandle: handle || undefined,
+    grokbot: { shareId: t.shareId, url, official, builtin: builtin || undefined, category, fidelity, creator: creator || undefined, creatorHandle: handle || undefined,
       activeVersion: tpl.activeVersion ?? m.activeVersion, sources, convertedWith: "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)" },
   }, null, 2) + "\n";
 
@@ -181,7 +185,7 @@ function render(t, rec, info) {
     `| | |`, `| --- | --- |`,
     `| Original template | ${url} |`,
     `| Creator | ${creator || "unknown"}${handle ? ` ([@${handle}](https://x.com/${handle}))` : ""} |`,
-    `| Category | ${official ? "official (x.ai/bot/marketplace)" : `community / ${category}`} |`,
+    `| Category | ${official ? `official (x.ai/bot/marketplace)${builtin ? "; also a built-in starter in the Grok Bot app" : ""}` : builtin ? "builtin (starter template in the Grok Bot app's template picker)" : `community / ${category} (not on the x.ai marketplace)`} |`,
     `| Found via | ${t.sources.map((s) => (s.listingUrl && /^https?:/.test(s.listingUrl) ? `[${s.source}](${s.listingUrl})` : s.source)).join(", ")} |`,
     `| Fidelity | **${fidelity}**${fidelity === "full" ? ` (full recipe, template version ${tpl.activeVersion ?? "?"})` : " (full recipe couldn't be fetched; only public name and description)"} |`,
     `| Contents | ${skills.length} skills, ${routines.length} routines, ${mem.length} memory seeds, ${plugins.length} connectors |`, "",
@@ -219,16 +223,18 @@ fs.rmSync(OUT, { recursive: true, force: true });
 const usedSlugs = new Map();
 const catalog = [];
 const failures = [];
-const sorted = [...cand.templates].sort((a, b) => (a.official === b.official ? a.shareId.localeCompare(b.shareId) : a.sources.some((s) => s.source === "xai-marketplace") ? -1 : 1));
+const rank = (t) => (isOfficial(t) ? 0 : BUILTIN.has(t.shareId) ? 1 : 2);
+const sorted = [...cand.templates].sort((a, b) => rank(a) - rank(b) || a.shareId.localeCompare(b.shareId));
 for (const t of sorted) {
-  const official = t.sources.some((s) => s.source === "xai-marketplace");
+  const official = isOfficial(t);
+  const builtin = BUILTIN.has(t.shareId);
   const m = meta[t.shareId] || {};
   const recPath = path.join(RECIPES, `${t.shareId}.json`);
   const rec = fs.existsSync(recPath) ? readJson(recPath) : null;
   const failPath = path.join(RECIPES, `${t.shareId}.failed.json`);
   const fail = fs.existsSync(failPath) ? readJson(failPath) : null;
-  const category = official ? "official" : categoryOf(t);
-  const base = { shareId: t.shareId, url: `https://x.ai/bot/${t.shareId}`, official, category: official ? "official" : category, sources: t.sources.map((s) => s.source) };
+  const category = official ? "official" : builtin ? "builtin" : categoryOf(t);
+  const base = { shareId: t.shareId, url: `https://x.ai/bot/${t.shareId}`, official, builtin, category, sources: [...t.sources.map((s) => s.source), ...(builtin ? ["in-app-builtin"] : [])] };
   if (m.status && m.status !== 200 && !rec) {
     catalog.push({ ...base, name: t.name || "", description: t.description || "", status: "dead", fidelity: "none", note: `public API HTTP ${m.status} ${m.error || ""}`.trim() });
     continue;
@@ -236,8 +242,9 @@ for (const t of sorted) {
   const fidelity = rec ? "full" : "metadata-only";
   if (!rec) failures.push({ shareId: t.shareId, reason: fail?.reason || "not-fetched", status: fail?.status });
   const nm = rec?.recipe?.profile?.name || m.name || t.name || "bot";
-  let slug = official && t.marketplaceSlug ? t.marketplaceSlug : toBotSlug(nm).slice(0, 56).replace(/-+$/, "");
-  const parent = official ? path.join(OUT, "official") : path.join(OUT, "community", category);
+  // Marketplace slugs are readable except auto-generated "seed-xxxx" ones; fall back to a name-based slug for those.
+  let slug = official && t.marketplaceSlug && !/^seed-/.test(t.marketplaceSlug) ? t.marketplaceSlug : toBotSlug(nm).slice(0, 56).replace(/-+$/, "");
+  const parent = official ? path.join(OUT, "official") : builtin ? path.join(OUT, "builtin") : path.join(OUT, "community", category);
   const key = `${parent}/${slug}`;
   if (usedSlugs.has(key)) {
     // share ids are case-sensitive; folder names must be unique on case-insensitive filesystems too
@@ -246,7 +253,7 @@ for (const t of sorted) {
   }
   usedSlugs.set(`${parent}/${slug}`, true);
   const dir = path.join(parent, slug);
-  const r = render(t, rec, { dir, fidelity, official, category });
+  const r = render(t, rec, { dir, fidelity, official, builtin, category });
   if (fidelity !== "full") {
     // Metadata-only: never invent persona content. Write README + package + a stub AGENTS.md quoting the public description.
     r.files["AGENTS.md"] = `# ${r.name}\n\n> **Metadata-only conversion.** The full Grok Bot recipe for ${base.url} could not be fetched (${fail?.reason || "not fetched"}). Below is only the public description, not the bot's real instructions.\n\n${r.description}\n`;
@@ -262,4 +269,4 @@ for (const t of sorted) {
 writeJson(path.join(ROOT, "catalog.json"), { generatedAt: new Date().toISOString(), count: catalog.length, templates: catalog });
 writeJson(path.join(ROOT, "data", "convert-failures.json"), failures);
 const c = (f) => catalog.filter(f).length;
-console.log(JSON.stringify({ total: catalog.length, live: c((x) => x.status === "live"), dead: c((x) => x.status === "dead"), full: c((x) => x.fidelity === "full"), metadataOnly: c((x) => x.fidelity === "metadata-only"), official: c((x) => x.official), officialFull: c((x) => x.official && x.fidelity === "full") }));
+console.log(JSON.stringify({ total: catalog.length, live: c((x) => x.status === "live"), dead: c((x) => x.status === "dead"), full: c((x) => x.fidelity === "full"), metadataOnly: c((x) => x.fidelity === "metadata-only"), official: c((x) => x.official), builtin: c((x) => x.builtin), community: c((x) => x.status === "live" && !x.official && !x.builtin), officialFull: c((x) => x.official && x.fidelity === "full") }));
