@@ -4,10 +4,10 @@ Trust auditor for Grok Bot agents, skills, routines, and shareable templates. Fl
 
 | | |
 | --- | --- |
-| Original template | https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo |
-| Creator | Preston Cox ([@pcoxproductions](https://x.com/pcoxproductions)) |
+| Original template | https://x.ai/bot/fcanjjxw7nu_zl0zq6ixo |
+| Creator | Preston Cox |
 | Category | community / teams-handoffs |
-| Found via | [botsdots.site](https://botsdots.site/templates/bouncer-fcan), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bouncer-fcan), [grokbothq.xyz](https://grokbothq.xyz/bots/bouncer-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bouncer-fleet), [x-research](https://botsdots.site/templates/bouncer-fcan) |
+| Found via | [botsdots.site](https://botsdots.site/templates/bouncer-fcanj), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bouncer-fcanj) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |
 

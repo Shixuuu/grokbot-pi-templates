@@ -16,23 +16,16 @@
     ]
   },
   "grokbot": {
-    "shareId": "Rj9uN1lhqYP-kLpRVShG0",
-    "url": "https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0",
+    "shareId": "rj9un1lhqyp-klprvshg0",
+    "url": "https://x.ai/bot/rj9un1lhqyp-klprvshg0",
     "official": false,
     "category": "personal-admin",
     "fidelity": "full",
     "creator": "Anand",
-    "creatorHandle": "anandVragav",
     "activeVersion": 1,
     "sources": [
       "botsdots.site",
-      "grokbotwiki.com",
-      "grokbothq.xyz",
-      "templatebot.lol",
-      "kydlikebtc/awesome-grokbot",
-      "majiayu000/awesome-grok-bot",
       "Maimuzamilhu/awesome-grok-bot-templates",
-      "ZeroPointRepo/GrokBotDev",
       "x-research"
     ],
     "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"

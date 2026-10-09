@@ -16,23 +16,16 @@
     ]
   },
   "grokbot": {
-    "shareId": "EJYTBBKPwAOdZPrKZCp8v",
-    "url": "https://x.ai/bot/EJYTBBKPwAOdZPrKZCp8v",
+    "shareId": "ejytbbkpwaodzprkzcp8v",
+    "url": "https://x.ai/bot/ejytbbkpwaodzprkzcp8v",
     "official": false,
     "category": "personal-admin",
     "fidelity": "full",
     "creator": "Daniel Graham",
-    "creatorHandle": "FirstDeployAI",
     "activeVersion": 7,
     "sources": [
       "botsdots.site",
-      "grokbotwiki.com",
-      "grokbot-templates.com",
-      "kydlikebtc/awesome-grokbot",
-      "majiayu000/awesome-grok-bot",
       "Maimuzamilhu/awesome-grok-bot-templates",
-      "cs68614-hash/awesome-grokbot-templates",
-      "ZeroPointRepo/GrokBotDev",
       "x-research"
     ],
     "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"

@@ -1,0 +1,3 @@
+# Routine "Meal check-in 7pm" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 19 * * * cd /path/to/personal-trainer-7d7be0f773 && pi -p "/meal-check-in-7pm"

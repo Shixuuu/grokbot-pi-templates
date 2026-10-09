@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:49:38.768Z",
+  "generatedAt": "2026-10-09T11:52:23.505Z",
   "count": 3951,
   "templates": [
     {
@@ -42125,8 +42125,8 @@
         "x-research"
       ],
       "name": "Fantasy Football Coach",
-      "slug": "fantasy-football-coach-ejytbb",
-      "path": "templates/community/personal-admin/fantasy-football-coach-ejytbb",
+      "slug": "fantasy-football-coach-024fb6c487",
+      "path": "templates/community/personal-admin/fantasy-football-coach-024fb6c487",
       "description": "Your fantasy football coach for start/sit calls, best lineups, waiver-wire targets with FAAB bids, and FanDuel/DraftKings DFS lineups, all checked against live injury news.",
       "creator": "Daniel Graham",
       "creatorHandle": "FirstDeployAI",
@@ -45302,8 +45302,8 @@
         "x-research"
       ],
       "name": "Bouncer",
-      "slug": "bouncer-fcanjj",
-      "path": "templates/community/teams-handoffs/bouncer-fcanjj",
+      "slug": "bouncer-47b4b20c9d",
+      "path": "templates/community/teams-handoffs/bouncer-47b4b20c9d",
       "description": "Trust auditor for Grok Bot agents, skills, routines, and shareable templates. Flags silent phone-home, secret harvest, and undeclared creator telemetry — Pass / Conditional / Fail with quoted evidence.",
       "creator": "Preston Cox",
       "creatorHandle": "pcoxproductions",
@@ -62164,8 +62164,8 @@
         "x-research"
       ],
       "name": "Grocery Bot",
-      "slug": "grocery-bot-kxbz2x",
-      "path": "templates/community/personal-admin/grocery-bot-kxbz2x",
+      "slug": "grocery-bot-e0968b46ba",
+      "path": "templates/community/personal-admin/grocery-bot-e0968b46ba",
       "description": "Receipt-first grocery tracker that also builds meal shopping lists. Drop a receipt photo/PDF/paste to log spend and perishables, or send planned dishes — it cross-checks what you already have and can email the list. No invented trips or auto-checkout.",
       "creator": "Brantley Brumley",
       "creatorHandle": "Brantley Brum",
@@ -90892,8 +90892,8 @@
         "x-research"
       ],
       "name": "Tutor",
-      "slug": "tutor-rj9un1",
-      "path": "templates/community/personal-admin/tutor-rj9un1",
+      "slug": "tutor-86ad98ab61",
+      "path": "templates/community/personal-admin/tutor-86ad98ab61",
       "description": "A one-to-one tutor that teaches any subject in short lessons: one everyday picture, then a check. For a student, a parent, or a colleague who wants the idea to stick, not a bot that does the work.",
       "creator": "Anand",
       "creatorHandle": "anandVragav",
@@ -98914,8 +98914,8 @@
         "x-research"
       ],
       "name": "Personal Trainer",
-      "slug": "personal-trainer-t9tike",
-      "path": "templates/community/personal-admin/personal-trainer-t9tike",
+      "slug": "personal-trainer-7d7be0f773",
+      "path": "templates/community/personal-admin/personal-trainer-7d7be0f773",
       "description": "Warm, brief nutrition and workout logging bot for one client. Nudges meals, files workouts, and compiles a weekly report for the human trainer — who owns the strategy.",
       "creator": "Nathan Glass",
       "creatorHandle": "nathanglass",
@@ -107899,8 +107899,8 @@
         "x-research"
       ],
       "name": "Optima by TOATspace",
-      "slug": "optima-by-toatspace-vso9gr",
-      "path": "templates/community/personal-admin/optima-by-toatspace-vso9gr",
+      "slug": "optima-by-toatspace-2d6da0e8ed",
+      "path": "templates/community/personal-admin/optima-by-toatspace-2d6da0e8ed",
       "description": "Forgetting / leftover-rule scrub desk for Optima by TOATspace. Cleans leftover old rules so bots stop following jobs you already killed — cut list → Starsheep audit → owner exact yes → erase. Pairs with Starsheep by TOATspace; public SSOT at https://steady-scroll-6pjx.here.now/.",
       "creator": "gemini sub001",
       "creatorHandle": "TOATspace",
@@ -117339,8 +117339,8 @@
         "x-research"
       ],
       "name": "Dispatch",
-      "slug": "dispatch-ykmzez",
-      "path": "templates/community/inbox-calendar/dispatch-ykmzez",
+      "slug": "dispatch-98d40e711c",
+      "path": "templates/community/inbox-calendar/dispatch-98d40e711c",
       "description": "A close-the-day desk. Nightly scan of email, Slack, LinkedIn, and X DMs; if someone agreed to a call and no calendar invite exists, book it. Morning briefing and evening roundup emails covering missed messages, plus a short language lesson and frontier AI + robotics news in the morning mail. Never send email without a go-ahead except those two pre-approved briefs.",
       "creator": "Filippo Fonseca",
       "creatorHandle": "FilippoFonseca",
@@ -118717,8 +118717,8 @@
         "x-research"
       ],
       "name": "Scout",
-      "slug": "scout-ywadcw",
-      "path": "templates/community/research-briefings/scout-ywadcw",
+      "slug": "scout-bdb4fac7bb",
+      "path": "templates/community/research-briefings/scout-bdb4fac7bb",
       "description": "Weekly client research packs: last-seven-days audience engagement, competitor posts, and one format that is working now, with a link on every claim. Research only, never final copy or publishing.",
       "creator": "ZEU$ Ⓜ️Ⓜ️T⚡️",
       "creatorHandle": "zeuuss_01",

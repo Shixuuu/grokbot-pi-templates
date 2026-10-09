@@ -4,10 +4,10 @@ Forgetting / leftover-rule scrub desk for Optima by TOATspace. Cleans leftover o
 
 | | |
 | --- | --- |
-| Original template | https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_ |
-| Creator | gemini sub001 ([@TOATspace](https://x.com/TOATspace)) |
+| Original template | https://x.ai/bot/vso9grfdreeu2zixwwzb_ |
+| Creator | gemini sub001 |
 | Category | community / personal-admin |
-| Found via | [grokbottemplates.app](https://grokbottemplates.app/t/optima), [grokbotwiki.com](https://www.grokbotwiki.com/bots/optima-by-toatspace-vso9), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/optima-by-toatspace), [x-research](https://x.com/TOATspace/status/2102970382378529216) |
+| Found via | [botsdots.site](https://botsdots.site/templates/optima-by-toatspace), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/optima-by-toatspace) |
 | Fidelity | **full** (full recipe, template version 32) |
 | Contents | 9 skills, 1 routines, 12 memory seeds, 1 connectors |
 

@@ -4,10 +4,10 @@ Receipt-first grocery tracker that also builds meal shopping lists. Drop a recei
 
 | | |
 | --- | --- |
-| Original template | https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp |
-| Creator | Brantley Brumley ([@Brantley Brum](https://x.com/Brantley Brum)) |
+| Original template | https://x.ai/bot/k-bz2_bfptzdwaaw7phxp |
+| Creator | Brantley Brumley |
 | Category | community / personal-admin |
-| Found via | [botsdots.site](https://botsdots.site/templates/grocery-bot-kbz2), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grocery-bot-kbz2), [grokbothq.xyz](https://grokbothq.xyz/bots/grocery-bot-2), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/K-bz2_bFptZdWAAW7Phxp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grocery-bot), [x-research](https://x.com/Brantley_Brum/status/2098899659804606766) |
+| Found via | [botsdots.site](https://botsdots.site/templates/grocery-bot-kbz2b), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/grocery-bot-kbz2b) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 1 routines, 4 memory seeds, 0 connectors |
 

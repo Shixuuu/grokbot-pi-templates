@@ -4,10 +4,10 @@ Weekly client research packs: last-seven-days audience engagement, competitor po
 
 | | |
 | --- | --- |
-| Original template | https://x.ai/bot/ywADCWWZP0Bcq6bOeQpGt |
-| Creator | ZEU$ Ⓜ️Ⓜ️T⚡️ ([@zeuuss_01](https://x.com/zeuuss_01)) |
+| Original template | https://x.ai/bot/ywadcwwzp0bcq6boeqpgt |
+| Creator | ZEU$ Ⓜ️Ⓜ️T⚡️ |
 | Category | community / research-briefings |
-| Found via | [botsdots.site](https://botsdots.site/templates/scout-ywad), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scout), [grokbothq.xyz](https://grokbothq.xyz/bots/scout-2), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/ywADCWWZP0Bcq6bOeQpGt), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/scout), [x-research](https://botsdots.site/templates/scout-ywad) |
+| Found via | [botsdots.site](https://botsdots.site/templates/scout-ywadc), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/scout-ywadc) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 1 connectors |
 

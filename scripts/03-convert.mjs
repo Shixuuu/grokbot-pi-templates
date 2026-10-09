@@ -5,6 +5,7 @@
 // Pi mapping follows pi-grokbot-import (vendor/pi-grokbot-import-src): persona -> AGENTS.md + .pi/APPEND_SYSTEM.md,
 // memories -> MEMORY.md, skills -> SKILL.md dirs, routines -> prompt templates + cron/systemd sketches, plugins -> connector notes.
 import fs from "node:fs";
+import crypto from "node:crypto";
 import path from "node:path";
 import { ROOT, readJson, writeJson, writeText } from "./lib/util.mjs";
 import YAML from "yaml";
@@ -238,7 +239,11 @@ for (const t of sorted) {
   let slug = official && t.marketplaceSlug ? t.marketplaceSlug : toBotSlug(nm).slice(0, 56).replace(/-+$/, "");
   const parent = official ? path.join(OUT, "official") : path.join(OUT, "community", category);
   const key = `${parent}/${slug}`;
-  if (usedSlugs.has(key)) slug = `${slug}-${t.shareId.slice(0, 6).toLowerCase().replace(/[^a-z0-9]/g, "x")}`;
+  if (usedSlugs.has(key)) {
+    // share ids are case-sensitive; folder names must be unique on case-insensitive filesystems too
+    const alt = `${slug}-${t.shareId.slice(0, 6).toLowerCase().replace(/[^a-z0-9]/g, "x")}`;
+    slug = usedSlugs.has(`${parent}/${alt}`) ? `${slug}-${crypto.createHash("sha1").update(t.shareId).digest("hex").slice(0, 10)}` : alt;
+  }
   usedSlugs.set(`${parent}/${slug}`, true);
   const dir = path.join(parent, slug);
   const r = render(t, rec, { dir, fidelity, official, category });

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine nightly-dm-scan-and-booking
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 22:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

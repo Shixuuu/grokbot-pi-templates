@@ -16,24 +16,16 @@
     ]
   },
   "grokbot": {
-    "shareId": "fcAnJJxw7NU_zL0Zq6Ixo",
-    "url": "https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo",
+    "shareId": "fcanjjxw7nu_zl0zq6ixo",
+    "url": "https://x.ai/bot/fcanjjxw7nu_zl0zq6ixo",
     "official": false,
     "category": "teams-handoffs",
     "fidelity": "full",
     "creator": "Preston Cox",
-    "creatorHandle": "pcoxproductions",
     "activeVersion": 2,
     "sources": [
       "botsdots.site",
-      "grokbotwiki.com",
-      "grokbothq.xyz",
-      "grokbot-templates.com",
-      "kydlikebtc/awesome-grokbot",
-      "majiayu000/awesome-grok-bot",
       "Maimuzamilhu/awesome-grok-bot-templates",
-      "cs68614-hash/awesome-grokbot-templates",
-      "ZeroPointRepo/GrokBotDev",
       "x-research"
     ],
     "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"

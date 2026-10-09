@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:49:50.584Z",
+  "generatedAt": "2026-10-09T11:52:29.099Z",
   "piVersion": "1.0.4",
   "loader": [
     {
@@ -17268,7 +17268,7 @@
     },
     {
       "shareId": "EJYTBBKPwAOdZPrKZCp8v",
-      "path": "templates/community/personal-admin/fantasy-football-coach-ejytbb",
+      "path": "templates/community/personal-admin/fantasy-football-coach-024fb6c487",
       "fidelity": "full",
       "expectedSkills": 5,
       "loadedSkills": 5,
@@ -18581,7 +18581,7 @@
     },
     {
       "shareId": "fcAnJJxw7NU_zL0Zq6Ixo",
-      "path": "templates/community/teams-handoffs/bouncer-fcanjj",
+      "path": "templates/community/teams-handoffs/bouncer-47b4b20c9d",
       "fidelity": "full",
       "expectedSkills": 2,
       "loadedSkills": 2,
@@ -25627,7 +25627,7 @@
     },
     {
       "shareId": "K-bz2_bFptZdWAAW7Phxp",
-      "path": "templates/community/personal-admin/grocery-bot-kxbz2x",
+      "path": "templates/community/personal-admin/grocery-bot-e0968b46ba",
       "fidelity": "full",
       "expectedSkills": 3,
       "loadedSkills": 3,
@@ -37561,7 +37561,7 @@
     },
     {
       "shareId": "Rj9uN1lhqYP-kLpRVShG0",
-      "path": "templates/community/personal-admin/tutor-rj9un1",
+      "path": "templates/community/personal-admin/tutor-86ad98ab61",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -40902,7 +40902,7 @@
     },
     {
       "shareId": "t9TIKE_igItEQd6tOyyRd",
-      "path": "templates/community/personal-admin/personal-trainer-t9tike",
+      "path": "templates/community/personal-admin/personal-trainer-7d7be0f773",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -44646,7 +44646,7 @@
     },
     {
       "shareId": "VSO9GRfDreEu2ZiXwwZB_",
-      "path": "templates/community/personal-admin/optima-by-toatspace-vso9gr",
+      "path": "templates/community/personal-admin/optima-by-toatspace-2d6da0e8ed",
       "fidelity": "full",
       "expectedSkills": 9,
       "loadedSkills": 9,
@@ -48533,7 +48533,7 @@
     },
     {
       "shareId": "YkmZEZYBk-BqylyQbM3kq",
-      "path": "templates/community/inbox-calendar/dispatch-ykmzez",
+      "path": "templates/community/inbox-calendar/dispatch-98d40e711c",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,
@@ -49105,7 +49105,7 @@
     },
     {
       "shareId": "ywADCWWZP0Bcq6bOeQpGt",
-      "path": "templates/community/research-briefings/scout-ywadcw",
+      "path": "templates/community/research-briefings/scout-bdb4fac7bb",
       "fidelity": "full",
       "expectedSkills": 0,
       "loadedSkills": 0,

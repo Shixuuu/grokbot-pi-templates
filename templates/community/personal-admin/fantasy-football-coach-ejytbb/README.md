@@ -4,10 +4,10 @@ Your fantasy football coach for start/sit calls, best lineups, waiver-wire targe
 
 | | |
 | --- | --- |
-| Original template | https://x.ai/bot/EJYTBBKPwAOdZPrKZCp8v |
-| Creator | Daniel Graham ([@FirstDeployAI](https://x.com/FirstDeployAI)) |
+| Original template | https://x.ai/bot/ejytbbkpwaodzprkzcp8v |
+| Creator | Daniel Graham |
 | Category | community / personal-admin |
-| Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-coach-ejyt), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-coach-ejyt), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-football-coach), [x-research](https://botsdots.site/templates/fantasy-football-coach-ejyt) |
+| Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-coach-ejytb), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/fantasy-football-coach-ejytb) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 5 skills, 0 routines, 4 memory seeds, 0 connectors |
 

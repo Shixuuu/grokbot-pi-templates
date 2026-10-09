@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-bouncer-47b4b20c9d",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Trust auditor for Grok Bot agents, skills, routines, and shareable templates. Flags silent phone-home, secret harvest, and undeclared creator telemetry — Pass / Conditional / Fail with quoted evidence.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fcAnJJxw7NU_zL0Zq6Ixo",
+    "url": "https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Preston Cox",
+    "creatorHandle": "pcoxproductions",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

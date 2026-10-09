@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-grocery-bot-e0968b46ba",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Receipt-first grocery tracker that also builds meal shopping lists. Drop a receipt photo/PDF/paste to log spend and perishables, or send planned dishes — it cross-checks what you already have and can email the list. No invented trips or auto-checkout.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "K-bz2_bFptZdWAAW7Phxp",
+    "url": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
+    "official": false,
+    "category": "personal-admin",
+    "fidelity": "full",
+    "creator": "Brantley Brumley",
+    "creatorHandle": "Brantley Brum",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

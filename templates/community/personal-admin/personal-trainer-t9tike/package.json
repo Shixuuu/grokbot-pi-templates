@@ -16,24 +16,16 @@
     ]
   },
   "grokbot": {
-    "shareId": "t9TIKE_igItEQd6tOyyRd",
-    "url": "https://x.ai/bot/t9TIKE_igItEQd6tOyyRd",
+    "shareId": "t9tike_igiteqd6toyyrd",
+    "url": "https://x.ai/bot/t9tike_igiteqd6toyyrd",
     "official": false,
     "category": "personal-admin",
     "fidelity": "full",
     "creator": "Nathan Glass",
-    "creatorHandle": "nathanglass",
     "activeVersion": 1,
     "sources": [
       "botsdots.site",
-      "grokbotwiki.com",
-      "grokbothq.xyz",
-      "grokbot-templates.com",
-      "kydlikebtc/awesome-grokbot",
-      "majiayu000/awesome-grok-bot",
       "Maimuzamilhu/awesome-grok-bot-templates",
-      "cs68614-hash/awesome-grokbot-templates",
-      "ZeroPointRepo/GrokBotDev",
       "x-research"
     ],
     "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"

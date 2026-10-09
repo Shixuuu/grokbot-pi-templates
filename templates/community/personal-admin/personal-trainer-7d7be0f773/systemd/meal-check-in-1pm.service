@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine meal-check-in-1pm (Personal Trainer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/personal-trainer-7d7be0f773
+ExecStart=/usr/bin/env pi -p "/meal-check-in-1pm"
