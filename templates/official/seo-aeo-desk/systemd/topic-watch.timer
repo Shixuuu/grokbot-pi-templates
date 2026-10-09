@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine topic-watch
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Each weekday morning, speaks up only when a new question or topic worth a page shows up in the user's space.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

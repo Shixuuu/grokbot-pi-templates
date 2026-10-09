@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine post-event-recap-draft
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run two days after the event date at the hour the user picked, in the timezone saved in memory. Take the event date from the event brief and compute the cron from that date and timezone. Read the guest list, the vendor tracker, and the measures set in the brief. Draft the recap: the outcome against…
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

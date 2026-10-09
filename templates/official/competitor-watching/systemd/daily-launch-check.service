@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-launch-check (Competitor Watch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/competitor-watching
+ExecStart=/usr/bin/env pi -p "/daily-launch-check"

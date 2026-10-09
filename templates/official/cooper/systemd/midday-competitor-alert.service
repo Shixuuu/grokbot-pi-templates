@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine midday-competitor-alert (Cooper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cooper
+ExecStart=/usr/bin/env pi -p "/midday-competitor-alert"

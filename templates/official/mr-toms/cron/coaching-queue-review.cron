@@ -1,0 +1,5 @@
+# Routine "Interview coaching review": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run once a week on the afternoon the user picked, in the timezone saved in memory. Compute the cron from that timezone. Read the coaching queue and any scorecards or candidate messages the user added since the last run. For each scorecard, check that every rating has a quote or an observed behavior…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/mr-toms && pi -p "/coaching-queue-review"

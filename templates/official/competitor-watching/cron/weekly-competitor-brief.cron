@@ -1,0 +1,5 @@
+# Routine "Weekly competitor brief": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Monday morning, diffs the pages on the watch list against the last snapshot and delivers a brief of what changed with a source link on every line.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/competitor-watching && pi -p "/weekly-competitor-brief"

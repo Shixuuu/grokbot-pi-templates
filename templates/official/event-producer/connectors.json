@@ -1,0 +1,40 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post the day-of brief and countdown checks in the channel your crew already reads."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the event brief, run of show, and trackers where the team looks things up."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Give every prep task an owner and a due date in the tracker your team already uses."
+    },
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Pull signage, name badges, and slide files from your real design files."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Vendor and invite mail waits in your drafts, unsent."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Load-in, the event, and vendor deadlines sit on a real calendar."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Keep the vendor tracker and guest list editable by the whole team."
+    }
+  ]
+}

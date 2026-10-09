@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine daily-spend-check
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every weekday morning, checks the newest ad numbers against your thresholds and flags what broke, with the one change to make on each urgent line.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,5 @@
+# Routine "Weekly X recap": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Friday, pulls the week's briefs into the themes that held, the voices worth adding, the accounts that went quiet, and what to read this weekend.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/x-brief && pi -p "/weekly-x-recap"

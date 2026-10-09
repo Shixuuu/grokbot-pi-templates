@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-deal-qualification",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Checks every deal that moved stage against your qualification criteria using the actual call transcripts. Quotes the evidence, flags what is missing, recommends promote or close, and proposes the CRM updates for your approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vZfC76-4UC1XU7qC4m726",
+    "url": "https://x.ai/bot/vZfC76-4UC1XU7qC4m726",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Jon Grigull",
+    "activeVersion": 4,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

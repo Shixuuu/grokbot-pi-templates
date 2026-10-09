@@ -1,0 +1,5 @@
+# Routine "Monthly paid media report": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run on the first business day of the month at the hour the user picked, in the timezone saved in memory. Compute the cron from that timezone. Cover the month that just closed. Read the column map, the exports on hand, and the metrics history for the two months before it. Build the report with the M…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/tally && pi -p "/monthly-paid-media-report"

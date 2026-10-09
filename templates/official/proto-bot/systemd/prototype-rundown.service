@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine prototype-rundown (Proto Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/proto-bot
+ExecStart=/usr/bin/env pi -p "/prototype-rundown"

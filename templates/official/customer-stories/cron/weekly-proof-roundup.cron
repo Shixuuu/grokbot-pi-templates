@@ -1,0 +1,5 @@
+# Routine "Weekly proof roundup": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Monday morning, what new proof came in, which customers are ready for a case study, which approvals are still sitting, and which claims have nothing behind them.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/customer-stories && pi -p "/weekly-proof-roundup"

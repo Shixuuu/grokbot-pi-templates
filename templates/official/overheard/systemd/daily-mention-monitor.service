@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-mention-monitor (Overheard)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/overheard
+ExecStart=/usr/bin/env pi -p "/daily-mention-monitor"

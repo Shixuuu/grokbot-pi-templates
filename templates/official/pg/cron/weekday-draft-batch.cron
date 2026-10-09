@@ -1,0 +1,5 @@
+# Routine "Weekday draft batch": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every weekday morning, researches the next few names on the target list and leaves a first-touch draft for each one, waiting on your yes.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/pg && pi -p "/weekday-draft-batch"

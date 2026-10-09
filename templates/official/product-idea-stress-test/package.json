@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-product-idea-stress-test",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Investigates a product or startup idea for founders. Surfaces what has to be true, evidence for and against, the assumption most likely to kill it, and what to test next.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ph-u_zkF5Vui1GdGnysn9",
+    "url": "https://x.ai/bot/ph-u_zkF5Vui1GdGnysn9",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Hiten Shah",
+    "creatorHandle": "hnshah",
+    "activeVersion": 4,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

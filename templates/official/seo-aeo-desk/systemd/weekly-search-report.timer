@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-search-report
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Monday morning, what moved in Search Console last week, why, and the two to four things worth doing about it.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

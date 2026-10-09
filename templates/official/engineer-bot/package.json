@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-engineer-bot",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A hands-off engineering supervisor. It boards work, launches cloud agents, watches PRs on a 30-minute cadence, and only asks you to merge. For anyone who wants this pipeline without a specific repo.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "SxqbG1NT5qEw7ggmHqQu_",
+    "url": "https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Lingxi Li",
+    "creatorHandle": "lingxi",
+    "activeVersion": 5,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

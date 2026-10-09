@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine listed-weekday-attention-list (PM bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pm-bot
+ExecStart=/usr/bin/env pi -p "/listed-weekday-attention-list"

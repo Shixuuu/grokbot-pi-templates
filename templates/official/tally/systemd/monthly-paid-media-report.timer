@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine monthly-paid-media-report
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run on the first business day of the month at the hour the user picked, in the timezone saved in memory. Compute the cron from that timezone. Cover the month that just closed. Read the column map, the exports on hand, and the metrics history for the two months before it. Build the report with the M…
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

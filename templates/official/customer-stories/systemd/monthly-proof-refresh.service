@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-proof-refresh (Customer Proof Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/customer-stories
+ExecStart=/usr/bin/env pi -p "/monthly-proof-refresh"

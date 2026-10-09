@@ -1,0 +1,5 @@
+# Routine "Daily X brief": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Once a day at the hour you pick, reads your watch list and sends the day's items grouped by theme with a link on every line.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/x-brief && pi -p "/daily-x-brief"

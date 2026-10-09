@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-qa-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Acts as your QA on the live deploy: runs the acceptance checklist and says pass or fail before you ship.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lKQWoQAvYgg_7Bkg2R-m7",
+    "url": "https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Ulysses Ng",
+    "activeVersion": 4,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

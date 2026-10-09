@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine quarterly-company-ai-operating-model-review (Alfred)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/alfred
+ExecStart=/usr/bin/env pi -p "/quarterly-company-ai-operating-model-review"

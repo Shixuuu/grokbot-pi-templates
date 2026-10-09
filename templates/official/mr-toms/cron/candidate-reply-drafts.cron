@@ -1,0 +1,5 @@
+# Routine "Candidate reply drafts": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run a few times through the workday on weekdays, during the interview hours saved in memory, in the user's timezone. Compute the cron from that timezone. This one needs Gmail. Without it, stay quiet. Read candidate and interviewer mail that arrived since the last run. For each new thread that needs…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/mr-toms && pi -p "/candidate-reply-drafts"

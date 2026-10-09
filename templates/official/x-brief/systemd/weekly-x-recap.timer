@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-x-recap
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Friday, pulls the week's briefs into the themes that held, the voices worth adding, the accounts that went quiet, and what to read this weekend.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

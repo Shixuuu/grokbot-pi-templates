@@ -1,0 +1,5 @@
+# Routine "Daily hiring brief": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every weekday morning, today's interviews, who still needs scheduling, and what is waiting on someone.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/mr-toms && pi -p "/daily-hiring-brief"

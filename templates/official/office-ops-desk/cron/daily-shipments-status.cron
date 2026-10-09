@@ -1,0 +1,5 @@
+# Routine "Daily shipment status": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every weekday morning, a short status on what was delivered, what is late, and what has stopped moving.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/office-ops-desk && pi -p "/daily-shipments-status"

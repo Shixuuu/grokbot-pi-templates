@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-x-tech-scout (Tech Demos)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tech-demos
+ExecStart=/usr/bin/env pi -p "/daily-x-tech-scout"

@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine clip-queue-pass
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every weekday morning, transcribes any new recording waiting in the clip queue and comes back with the moments worth cutting.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

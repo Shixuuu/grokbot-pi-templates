@@ -1,0 +1,5 @@
+# Routine "Weekly pipeline report": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Monday morning, the week's lead counts by source, the tier mix, what moved, what is stuck, and pacing against the goal.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/leadsworth && pi -p "/weekly-pipeline-report"

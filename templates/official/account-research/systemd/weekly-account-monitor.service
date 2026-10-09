@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-account-monitor (GTM Account Research)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/account-research
+ExecStart=/usr/bin/env pi -p "/weekly-account-monitor"

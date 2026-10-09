@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-pipeline-review
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Friday afternoon, what moved per role, who is stuck and with whom, next week's interview load, and the calls that need the user.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,5 @@
+# Routine "Friday clip recap": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Friday, a short recap of what got clipped this week, which strong moments are still uncut, and the three worth cutting next.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/clip-bot && pi -p "/friday-clip-recap"

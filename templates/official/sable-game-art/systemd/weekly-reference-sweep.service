@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-reference-sweep (Game Art Director)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sable-game-art
+ExecStart=/usr/bin/env pi -p "/weekly-reference-sweep"

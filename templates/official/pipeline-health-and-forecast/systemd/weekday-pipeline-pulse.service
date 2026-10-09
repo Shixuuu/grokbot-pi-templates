@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-pipeline-pulse (Pipeline Pulse)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pipeline-health-and-forecast
+ExecStart=/usr/bin/env pi -p "/weekday-pipeline-pulse"

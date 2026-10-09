@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-mr-toms",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Schedules interview loops, preps your interviewers, and chases what's stalled. Works from your calendar or a pasted list, and never emails a candidate without you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KDahOjiDbbAvxqx9KaGcq",
+    "url": "https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Tommy Hansen",
+    "creatorHandle": "TommyHansenTA",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

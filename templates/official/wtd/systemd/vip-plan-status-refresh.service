@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine vip-plan-status-refresh (WTD)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/wtd
+ExecStart=/usr/bin/env pi -p "/vip-plan-status-refresh"

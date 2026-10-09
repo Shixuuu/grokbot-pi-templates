@@ -1,0 +1,35 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "AgentMail",
+      "pluginId": "48668144",
+      "description": "Preferred. Research inboxes for newsletters, trials, and sales sequences. Create inboxes and read mail via the plugin MCP."
+    },
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Needed for the X radar and complaint mining modules. Read-only: posts, mentions, replies for competitor and founder handles."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Fallback only. Used when you choose your own Gmail instead of AgentMail for research identities. Puts newsletters and trials on your address."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. Deliver the pulse to a channel you name instead of this chat."
+    },
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": "Optional, churn module only. Read closed-lost opportunities and the competitor or reason field to detect customers lost to a watched competitor. Read only. A sheet or a paste works instead."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Optional, churn module only. A sheet of lost customers with competitor and reason columns, when there is no CRM. Read only."
+    }
+  ]
+}

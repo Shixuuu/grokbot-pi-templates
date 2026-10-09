@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekend-sports-preview (Tradbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tradbot-2
+ExecStart=/usr/bin/env pi -p "/weekend-sports-preview"

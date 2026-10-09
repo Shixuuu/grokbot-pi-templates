@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine midday-burn-check (Ad Spend Watch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fuse
+ExecStart=/usr/bin/env pi -p "/midday-burn-check"

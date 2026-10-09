@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-tally",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Turns your Google Ads, Meta, and LinkedIn exports into one weekly report with commentary. Answers reporting asks in Slack with real numbers, and never posts without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qBFjPRQ3IbHG69qIFHblE",
+    "url": "https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Miguel Cruz",
+    "creatorHandle": "cruzmiguel000",
+    "activeVersion": 2,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

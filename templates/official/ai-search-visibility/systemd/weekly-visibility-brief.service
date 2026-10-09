@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-visibility-brief (AI Search Visibility)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai-search-visibility
+ExecStart=/usr/bin/env pi -p "/weekly-visibility-brief"

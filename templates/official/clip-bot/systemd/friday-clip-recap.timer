@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine friday-clip-recap
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Friday, a short recap of what got clipped this week, which strong moments are still uncut, and the three worth cutting next.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

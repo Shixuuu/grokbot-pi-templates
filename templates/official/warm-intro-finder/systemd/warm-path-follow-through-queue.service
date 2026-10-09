@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine warm-path-follow-through-queue (GTM Connections)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/warm-intro-finder
+ExecStart=/usr/bin/env pi -p "/warm-path-follow-through-queue"

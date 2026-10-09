@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine new-call-watch (Call Follow-Ups)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/call-follow-ups
+ExecStart=/usr/bin/env pi -p "/new-call-watch"

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-marketing-project-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a campaign or launch goal into a dated plan across research, positioning, landing pages, ads, and analytics, then tracks every work item, chases status with screenshots, and runs the merge and spend gates. Never merges, publishes, or spends, and never approves on your behalf.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AMa1ig4YyoxfYtWFe7PLi",
+    "url": "https://x.ai/bot/AMa1ig4YyoxfYtWFe7PLi",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

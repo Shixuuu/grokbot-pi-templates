@@ -1,0 +1,40 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post the day's drafts or the Friday recap to a channel your team reads."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the target list and every draft where your team looks things up."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Turn a reply or a booked meeting into a task somebody owns."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Every draft sits unsent in your own account until you send it."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Keep the target list somewhere you can edit directly."
+    },
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Read a prospect's recent posts for a real, dated hook when X is your channel."
+    },
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": "Read who you already know so the list drops open deals and customers."
+    }
+  ]
+}

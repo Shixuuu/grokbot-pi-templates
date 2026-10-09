@@ -1,0 +1,5 @@
+# Routine "Post-event recap draft": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run two days after the event date at the hour the user picked, in the timezone saved in memory. Take the event date from the event brief and compute the cron from that date and timezone. Read the guest list, the vendor tracker, and the measures set in the brief. Draft the recap: the outcome against…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/event-producer && pi -p "/post-event-recap-draft"

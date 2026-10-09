@@ -1,0 +1,5 @@
+# Routine "Weekly visibility brief": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every week, runs the whole prompt list, then reports which answers moved, who is winning, and the one thing to do about it.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/ai-search-visibility && pi -p "/weekly-visibility-brief"

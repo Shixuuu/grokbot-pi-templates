@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-audit-self-improve (Site Audit)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/site-audit
+ExecStart=/usr/bin/env pi -p "/weekly-audit-self-improve"

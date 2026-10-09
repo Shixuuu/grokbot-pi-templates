@@ -1,0 +1,40 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the proof bank, the case studies, and the drafts where your team already looks."
+    },
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Watch the channel where customer wins get posted, and drop the Monday roundup there."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Track ready-to-write customers and pending approvals as tasks your team can see."
+    },
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Lay a finished case study into a page design instead of handing over raw text."
+    },
+    {
+      "name": "hex",
+      "pluginId": "651",
+      "description": "Check a customer's numbers against your own data before you publish them."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Pull customer call notes straight from your meetings."
+    }
+  ]
+}

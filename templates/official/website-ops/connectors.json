@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "GitHub",
+      "pluginId": "48677658",
+      "description": "Required. Clones the website repo, opens the branch and the pull request for every change, and reads the pull request checks for a preview URL. Never merges."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Optional. Reads landing page briefs and picks up images or exports that belong on a page. A paste or an upload works instead."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. A destination for the weekly audit instead of this chat, when you name a channel. Read only otherwise."
+    },
+    {
+      "name": "Figma",
+      "pluginId": "657",
+      "description": "Optional. Reads the design reference a brief points at so a page matches the intended layout. Read only, and the repo's existing components still win."
+    }
+  ]
+}

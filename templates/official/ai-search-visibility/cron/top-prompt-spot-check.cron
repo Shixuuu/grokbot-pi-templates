@@ -1,0 +1,5 @@
+# Routine "Top prompt spot check": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run twice a week on the two mornings the user picked, or Tuesday and Thursday when they did not pick, at the hour saved in memory and in their timezone. Compute the cron from that timezone. Read the prompt list and check only the five prompts marked top prompt. Compare each answer to the last captu…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/ai-search-visibility && pi -p "/top-prompt-spot-check"

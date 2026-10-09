@@ -1,0 +1,5 @@
+# Routine "Weekly pipeline review": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Friday afternoon, what moved per role, who is stuck and with whom, next week's interview load, and the calls that need the user.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/mr-toms && pi -p "/weekly-pipeline-review"

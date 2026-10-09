@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-signal-digest (Signal Prospector)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/signal-prospector
+ExecStart=/usr/bin/env pi -p "/monday-signal-digest"

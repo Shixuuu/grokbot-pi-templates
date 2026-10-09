@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Figma",
+      "pluginId": "657",
+      "description": "Optional. Reads your files for references and design reviews, and draws mocks, screens, and decks when a cloud agent can't."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. Reads a thread you point at so a prototype starts from the real discussion. Posts only a draft you approve."
+    },
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Optional. Searches posts and threads for craft research. Web search works without it."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post a brief or plan you approved to the channel your deal team reads."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep account files and plans where your team already looks things up."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "See what an account asked for as issues, and check status before a call."
+    },
+    {
+      "name": "hex",
+      "pluginId": "651",
+      "description": "Read account usage or pipeline numbers your team keeps in a warehouse."
+    },
+    {
+      "name": "Databricks SQL",
+      "pluginId": "32738678",
+      "description": "Query account usage and health numbers straight from your warehouse."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Search events and schedule meetings."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Pull notes from your customer calls."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Read account docs and decks your team already keeps in Drive."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Read and write Google Sheets."
+    },
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": "Read and update Salesforce records."
+    }
+  ]
+}

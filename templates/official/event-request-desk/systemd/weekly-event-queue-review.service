@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-event-queue-review (Event Request Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/event-request-desk
+ExecStart=/usr/bin/env pi -p "/weekly-event-queue-review"

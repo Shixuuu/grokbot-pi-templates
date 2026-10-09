@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-paid-media-report
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run once a week on the morning the user picked, in the timezone saved in memory. Compute the cron from that timezone and never assume Pacific or UTC. Read the column map and the exports on hand. When you have last week's data for every platform they report on, build the report with the Weekly paid …
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

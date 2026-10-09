@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-search-report (SEO & AEO Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/seo-aeo-desk
+ExecStart=/usr/bin/env pi -p "/weekly-search-report"

@@ -1,0 +1,5 @@
+# Routine "Weekday hiring signal digest": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: # Weekday hiring signal digest
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/hiring-activity-monitor && pi -p "/weekday-hiring-signal-digest"

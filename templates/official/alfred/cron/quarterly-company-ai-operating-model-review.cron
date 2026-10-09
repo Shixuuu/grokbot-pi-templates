@@ -1,0 +1,3 @@
+# Routine "Quarterly Company & AI Operating Model Review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 1 1,4,7,10 * cd /path/to/alfred && pi -p "/quarterly-company-ai-operating-model-review"

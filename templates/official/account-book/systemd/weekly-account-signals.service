@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-account-signals (Account Research Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/account-book
+ExecStart=/usr/bin/env pi -p "/weekly-account-signals"

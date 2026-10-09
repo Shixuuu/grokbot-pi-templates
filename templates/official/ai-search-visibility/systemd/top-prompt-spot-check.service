@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine top-prompt-spot-check (AI Search Visibility)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai-search-visibility
+ExecStart=/usr/bin/env pi -p "/top-prompt-spot-check"

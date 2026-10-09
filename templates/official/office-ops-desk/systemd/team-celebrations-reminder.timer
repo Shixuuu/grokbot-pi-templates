@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine team-celebrations-reminder
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Friday morning, the birthdays and work anniversaries landing in the next 14 days.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

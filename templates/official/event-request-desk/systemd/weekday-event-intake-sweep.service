@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-event-intake-sweep (Event Request Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/event-request-desk
+ExecStart=/usr/bin/env pi -p "/weekday-event-intake-sweep"

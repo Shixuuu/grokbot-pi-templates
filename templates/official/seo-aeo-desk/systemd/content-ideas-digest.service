@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine content-ideas-digest (SEO & AEO Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/seo-aeo-desk
+ExecStart=/usr/bin/env pi -p "/content-ideas-digest"

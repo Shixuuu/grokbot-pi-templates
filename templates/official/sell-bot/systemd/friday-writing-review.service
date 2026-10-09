@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-writing-review (Sell Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sell-bot
+ExecStart=/usr/bin/env pi -p "/friday-writing-review"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine competitor-churn-watch (Stalk Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/stalk-bot
+ExecStart=/usr/bin/env pi -p "/competitor-churn-watch"

@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine candidate-reply-drafts
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run a few times through the workday on weekdays, during the interview hours saved in memory, in the user's timezone. Compute the cron from that timezone. This one needs Gmail. Without it, stay quiet. Read candidate and interviewer mail that arrived since the last run. For each new thread that needs…
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

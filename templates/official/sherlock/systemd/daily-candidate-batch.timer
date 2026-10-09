@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine daily-candidate-batch
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every weekday morning, sources a small batch of new candidates for the open role, deduped against your pipeline, with evidence and a source link on every card.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

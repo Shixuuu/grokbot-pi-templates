@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monday-date-check (Love ❤️)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/love
+ExecStart=/usr/bin/env pi -p "/monday-date-check"

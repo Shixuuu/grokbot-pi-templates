@@ -1,0 +1,50 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gong",
+      "pluginId": "47725204",
+      "description": "Call transcripts, the evidence behind every criterion. Granola works too."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Transcript source for meetings your recorder did not capture."
+    },
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": "Opportunities, stage history, and the qualification fields the audit fills. Connect the one CRM you use."
+    },
+    {
+      "name": "HubSpot",
+      "pluginId": "49339689",
+      "description": "CRM alternative to Salesforce."
+    },
+    {
+      "name": "Attio",
+      "pluginId": "62459236",
+      "description": "CRM alternative to Salesforce."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Deliver the weekly audit as a DM."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Checks whether we did what we promised on the last call."
+    },
+    {
+      "name": "Notion",
+      "pluginId": "404",
+      "description": "Keep audits and the framework definitions where your team already looks."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Export the scorecards when your team tracks them in a sheet."
+    }
+  ]
+}

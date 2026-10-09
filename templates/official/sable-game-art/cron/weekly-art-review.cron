@@ -1,0 +1,5 @@
+# Routine "Weekly art review": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run once a week on the day and hour the user picked, in the timezone saved in memory. Compute the cron from that timezone and never assume Pacific or UTC. Read the style guide, the spec, the shot list, and the last review. Check every asset added or changed since the last run: colours against the l…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/sable-game-art && pi -p "/weekly-art-review"

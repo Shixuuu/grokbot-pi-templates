@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-apple-search-ads-review",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Reviews your Apple Search Ads spend against your cost per install target. Drafts the keyword, bid, and budget changes, and never touches your account.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gadc3bVOsg9iIwmzAGRve",
+    "url": "https://x.ai/bot/gadc3bVOsg9iIwmzAGRve",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Chris Everett",
+    "activeVersion": 3,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-echo",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Turns your meeting notes into a recap deck in your slide template. Works from notes you paste or upload, and never invents a quote.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YklttiPpAHweKbOLV1TSF",
+    "url": "https://x.ai/bot/YklttiPpAHweKbOLV1TSF",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Krista Letz",
+    "creatorHandle": "kristaletz",
+    "activeVersion": 12,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

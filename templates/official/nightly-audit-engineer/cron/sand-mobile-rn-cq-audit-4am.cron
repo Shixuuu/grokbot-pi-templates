@@ -1,0 +1,3 @@
+# Routine "Nightly code-quality audit (4am)" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 4 * * * cd /path/to/nightly-audit-engineer && pi -p "/sand-mobile-rn-cq-audit-4am"

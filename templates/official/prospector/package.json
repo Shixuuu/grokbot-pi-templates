@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-prospector",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Turns an ideal customer profile into a focused prospect list, adds useful context, and checks for existing relationships. Drafts first-touch email and LinkedIn messages for your review.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RpAQeGjhzaiO6_Rq_4fyC",
+    "url": "https://x.ai/bot/RpAQeGjhzaiO6_Rq_4fyC",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Caro Scalercio",
+    "activeVersion": 3,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

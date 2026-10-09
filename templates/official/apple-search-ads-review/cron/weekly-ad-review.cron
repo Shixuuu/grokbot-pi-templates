@@ -1,0 +1,5 @@
+# Routine "Weekly ad review": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every week on the user's chosen morning, a read on last week's Apple Search Ads spend against target, with the changes worth making first.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/apple-search-ads-review && pi -p "/weekly-ad-review"

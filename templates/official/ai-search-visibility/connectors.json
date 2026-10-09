@@ -1,0 +1,35 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post the weekly brief in a channel your team already reads."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the prompt list, the briefs, and the fix list where your team looks things up."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Turn the fix list into tracked issues for whoever owns those pages."
+    },
+    {
+      "name": "hex",
+      "pluginId": "651",
+      "description": "Chart the share of answer scoreboard over time if your team already uses Hex."
+    },
+    {
+      "name": "Profound",
+      "pluginId": "51168001",
+      "description": "Read AI answer visibility and citations across engines to widen the capture."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Read and write Google Sheets."
+    }
+  ]
+}

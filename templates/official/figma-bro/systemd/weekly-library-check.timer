@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-library-check
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Monday morning, checks the component library and token set for new duplicates, detached instances, and hardcoded values, and reports only what drifted since last week.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

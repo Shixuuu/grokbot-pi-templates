@@ -1,0 +1,5 @@
+# Routine "Weekly commitment check": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Thursday morning, what the team still owes organizers for events already said yes to, with anything overdue first.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/event-request-desk && pi -p "/weekly-event-commitment-check"

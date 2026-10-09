@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-clip-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Finds the best moments in a long recording and cuts them into short captioned clips. Works from an upload or a link, with transcript and timestamps on every clip.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-L1yFJ5mtwPgn3O_iYUo_",
+    "url": "https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "This Week in AI",
+    "creatorHandle": "ThisWeeknAI",
+    "activeVersion": 3,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

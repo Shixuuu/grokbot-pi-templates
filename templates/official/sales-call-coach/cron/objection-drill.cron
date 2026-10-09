@@ -1,0 +1,5 @@
+# Routine "Objection drill": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run on the mornings the user picked, Tuesday and Thursday unless they said otherwise, at the hour they chose, in the timezone saved in memory. Compute the cron from that timezone. Read the coaching log and pick the objection type with the worst open record. Open cold and in character as the buyer, …
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/sales-call-coach && pi -p "/objection-drill"

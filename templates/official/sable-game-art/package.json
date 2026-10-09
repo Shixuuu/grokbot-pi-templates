@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-sable-game-art",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a game concept into a style guide, palettes, and prompt sheets for your image tool. Slices sprite sheets and checks your art for palette and grid drift.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KQnsHIvv4_Xk7HyhmewP3",
+    "url": "https://x.ai/bot/KQnsHIvv4_Xk7HyhmewP3",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Danny Limanseta",
+    "creatorHandle": "DannyLimanseta",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

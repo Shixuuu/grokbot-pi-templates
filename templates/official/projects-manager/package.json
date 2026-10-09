@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-projects-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs your team's projects from Notion: one row per project, a channel per project, and tasks your specialist bots claim. You decide, agents execute, and it never does the specialist work itself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AZKaQOsjrAa51Nb4xvTur",
+    "url": "https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Eric Zakariasson",
+    "creatorHandle": "ericzakariasson",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

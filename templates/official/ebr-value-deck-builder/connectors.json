@@ -1,0 +1,40 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": "Account, contract, contacts, and history the deck is built from. Connect the one CRM you use."
+    },
+    {
+      "name": "HubSpot",
+      "pluginId": "49339689",
+      "description": "CRM alternative to Salesforce."
+    },
+    {
+      "name": "Attio",
+      "pluginId": "62459236",
+      "description": "CRM alternative to Salesforce."
+    },
+    {
+      "name": "Gong",
+      "pluginId": "47725204",
+      "description": "What the customer said they wanted, in their words, for the goals and outcomes slides."
+    },
+    {
+      "name": "Mixpanel",
+      "pluginId": "11976",
+      "description": "Adoption and usage trends for the account's domain."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Upload the finished deck next to the account's other files."
+    },
+    {
+      "name": "OneDrive",
+      "pluginId": "57302028",
+      "description": "Upload destination for Microsoft 365 users."
+    }
+  ]
+}

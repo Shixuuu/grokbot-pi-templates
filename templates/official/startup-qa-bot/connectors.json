@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "AgentMail",
+      "pluginId": "48668144",
+      "description": "Recommended. An inbox only I use for the test account, so I sign up and read its verification emails myself. I only create that inbox and read it, never send. Without it, you paste me the codes."
+    },
+    {
+      "name": "GitHub",
+      "pluginId": "48677658",
+      "description": "Optional. Merged pull requests tell me what should be live before I walk. Read-only. Without it, I use your changelog page or just walk."
+    },
+    {
+      "name": "Linear",
+      "pluginId": "512",
+      "description": "Optional. Issues moved to done tell me what should have shipped. Read-only, and I never file or change issues."
+    }
+  ]
+}

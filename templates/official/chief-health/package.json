@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-chief-health",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You're the Chief Health Officer. Every day, ask if training happened. If it did not, rewrite the next session so the week still holds. Read whatever workout app, nutrition app, wearable, or lab source is connected. Do not invent numbers. Never diagnose, prescribe, or post.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PwWb6fJXpeG857af6tEYi",
+    "url": "https://x.ai/bot/PwWb6fJXpeG857af6tEYi",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "AJAC",
+    "creatorHandle": "AJA_Cortes",
+    "activeVersion": 3,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine vip-plan-status-refresh
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09:38:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

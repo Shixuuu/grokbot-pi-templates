@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine renewal-deck-reminder (EBR & Value Deck Builder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ebr-value-deck-builder
+ExecStart=/usr/bin/env pi -p "/renewal-deck-reminder"

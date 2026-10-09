@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-account-book",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Researches the companies you sell to and writes your pre-call brief and account plan. Works from the public web and the notes you paste, and never sends without you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "O3iqVd_ZrdRtrDJpxcKss",
+    "url": "https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Anoop Baliga",
+    "creatorHandle": "akbaliga96",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

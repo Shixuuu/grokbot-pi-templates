@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-warm-intro-finder",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Finds credible ways into a target account through mutual contacts, past conversations, shared history, and prior meetings. Ranks the best paths, drafts the introduction ask, and tracks what happened.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aUF_wTHXGWKU3-QPm6PmN",
+    "url": "https://x.ai/bot/aUF_wTHXGWKU3-QPm6PmN",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Brian Joseph",
+    "activeVersion": 4,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

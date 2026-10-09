@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine friday-recap-roundup
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Friday, the recaps that went out this week, the drafts still sitting unsent, and the next steps that are past their date.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

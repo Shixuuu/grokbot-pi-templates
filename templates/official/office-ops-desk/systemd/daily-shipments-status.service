@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-shipments-status (Office Ops Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/office-ops-desk
+ExecStart=/usr/bin/env pi -p "/daily-shipments-status"

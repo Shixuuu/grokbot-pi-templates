@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-company-grok-bot-improvement-review (Alfred)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/alfred
+ExecStart=/usr/bin/env pi -p "/weekly-company-grok-bot-improvement-review"

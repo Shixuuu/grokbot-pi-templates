@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-credit-card-max",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Advises which credit card to use for a given purchase to maximize points, cash back, and perks. Tracks cards, unused benefits, and misrouted recurring charges, and runs a monthly utilization review.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "q4u8YgzGQqCAOUZcg0Lgt",
+    "url": "https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Trevin Chow",
+    "creatorHandle": "trevin",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Read your mood board and mockups, and keep the style guide where your artists already work."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the style guide, the spec, and the shot list where your team looks things up."
+    },
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post the weekly art review to the channel your team already reads."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Turn the shot list into issues so the art backlog sits with the rest of the work."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-paid-media-report (Marketing Analyst)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/marketing-analyst
+ExecStart=/usr/bin/env pi -p "/weekly-paid-media-report"

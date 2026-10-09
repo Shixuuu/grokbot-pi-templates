@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine ready-for-dev-sweep
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Friday afternoon, lists the frames marked ready for dev that still have no spec, and offers to write the next one.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

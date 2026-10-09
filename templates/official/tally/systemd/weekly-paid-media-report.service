@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-paid-media-report (Paid Media Report Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tally
+ExecStart=/usr/bin/env pi -p "/weekly-paid-media-report"

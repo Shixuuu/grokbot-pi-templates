@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-spend-check (Ad Spend Watch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fuse
+ExecStart=/usr/bin/env pi -p "/daily-spend-check"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine inbox-triage (Sequencer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sequencer
+ExecStart=/usr/bin/env pi -p "/inbox-triage"

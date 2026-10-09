@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine traffic-watch (Performance Marketer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/performance-marketer
+ExecStart=/usr/bin/env pi -p "/traffic-watch"

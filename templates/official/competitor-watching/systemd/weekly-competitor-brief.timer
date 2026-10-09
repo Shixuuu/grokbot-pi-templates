@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-competitor-brief
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Monday morning, diffs the pages on the watch list against the last snapshot and delivers a brief of what changed with a source link on every line.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

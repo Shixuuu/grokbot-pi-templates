@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ai-search-visibility",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Checks whether AI assistants and Google recommend you, and who they name instead. Starts from a handful of questions your buyers actually ask.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BFiw9Y7BzTQ-3jFBAro1X",
+    "url": "https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Adam Tanguay",
+    "creatorHandle": "adamta",
+    "activeVersion": 3,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

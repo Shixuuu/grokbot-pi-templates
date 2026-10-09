@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-pm-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Acts as your PM. Writes the dated cut: what's in, what's out, and how you'll know it's done. Engineering doesn't start until you approve it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FeeqMRMJr2jwixCROZcIh",
+    "url": "https://x.ai/bot/FeeqMRMJr2jwixCROZcIh",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Ulysses Ng",
+    "activeVersion": 4,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine campaign-check
+
+[Timer]
+OnCalendar=*-*-* 08:25:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Recommended. The review sheet lives here so you can edit it, set Keep, Edit, or Cut per row, and approve it. Without it the same sheet is written as Markdown in chat."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Optional. Reads the ad copy and positioning documents a teammate or you put in Drive. A paste in chat works just as well."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. Deliver the traffic read to a channel you name instead of this chat. Read and post only to what you name, and nothing is enabled from there."
+    }
+  ]
+}

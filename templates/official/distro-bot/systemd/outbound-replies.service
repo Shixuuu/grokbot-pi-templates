@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine outbound-replies (Distro Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/distro-bot
+ExecStart=/usr/bin/env pi -p "/outbound-replies"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-event-commitment-check (Event Request Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/event-request-desk
+ExecStart=/usr/bin/env pi -p "/weekly-event-commitment-check"

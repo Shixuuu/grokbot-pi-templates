@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-visibility-brief
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every week, runs the whole prompt list, then reports which answers moved, who is winning, and the one thing to do about it.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

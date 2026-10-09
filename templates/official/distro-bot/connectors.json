@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Recommended. Trends, news, and posts for topic scans, plus your own posts' numbers to learn from. Read only, and reads bill your X API credits."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Optional. Outbound drafts in your inbox, replies from leads, and past emails to learn from. Sends only a batch you approve."
+    }
+  ]
+}

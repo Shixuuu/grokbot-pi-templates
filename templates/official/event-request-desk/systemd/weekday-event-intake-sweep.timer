@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekday-event-intake-sweep
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every weekday morning, logs and scores every event ask that came in overnight and names the ones that need a decision today.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

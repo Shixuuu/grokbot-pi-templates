@@ -1,0 +1,5 @@
+# Routine "Weekly budget pace check": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Monday morning, where month-to-date ad spend lands against your plan and which accounts are going to overshoot.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/fuse && pi -p "/weekly-budget-pace"

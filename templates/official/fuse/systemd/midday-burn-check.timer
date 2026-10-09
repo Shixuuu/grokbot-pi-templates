@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine midday-burn-check
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every weekday around midday, catches a spend spike the same day it happens, but only when a live source is connected.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

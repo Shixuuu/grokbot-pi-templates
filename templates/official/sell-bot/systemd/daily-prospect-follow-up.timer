@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-prospect-follow-up
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09:40:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

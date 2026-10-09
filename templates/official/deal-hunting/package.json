@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-deal-hunting",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Landed-cost shopping: real prices, shipping and tax, preferred retailers. Watchlist optional. Never buys unless asked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yTeKCLayahHnMdHFG9GJg",
+    "url": "https://x.ai/bot/yTeKCLayahHnMdHFG9GJg",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Shimecki",
+    "creatorHandle": "scheemunai",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-prospecting-recap (Outbound Prospecting)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pg
+ExecStart=/usr/bin/env pi -p "/friday-prospecting-recap"

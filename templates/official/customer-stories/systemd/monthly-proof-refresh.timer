@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine monthly-proof-refresh
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run on the first Monday of each month at the hour the user picked, in the timezone saved in memory. Compute the cron from that timezone. Read the proof bank and check three things. Age: every quote and number older than 12 months, and say where it is currently published so they know what is out in …
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

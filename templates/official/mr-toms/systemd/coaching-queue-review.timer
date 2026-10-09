@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine coaching-queue-review
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run once a week on the afternoon the user picked, in the timezone saved in memory. Compute the cron from that timezone. Read the coaching queue and any scorecards or candidate messages the user added since the last run. For each scorecard, check that every rating has a quote or an observed behavior…
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

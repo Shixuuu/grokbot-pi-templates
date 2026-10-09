@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-event-producer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns your event details into a run of show, guest list, and day-of checklist. Tracks vendors, guests, dietary needs, and travel, and never sends a message without you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wtEIGNZ8oipDDVQTDHMPB",
+    "url": "https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Jenna Nanpei",
+    "creatorHandle": "jennananpei",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

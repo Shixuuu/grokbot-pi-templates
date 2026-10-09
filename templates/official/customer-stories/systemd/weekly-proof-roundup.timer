@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-proof-roundup
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Monday morning, what new proof came in, which customers are ready for a case study, which approvals are still sitting, and which claims have nothing behind them.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

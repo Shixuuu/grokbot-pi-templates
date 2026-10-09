@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-import-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Brings your setup from Claude Cowork, Codex, ChatGPT, OpenClaw, and Hermes into Grok Bot, then creates the expert bots that cover it or adds to the bots you already have. Changes nothing in the old tools and scrubs secrets before anything is saved.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HP4Q8GHtSIjbyGeI2vg7S",
+    "url": "https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Shub Gaur",
+    "creatorHandle": "shubgaur",
+    "activeVersion": 3,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

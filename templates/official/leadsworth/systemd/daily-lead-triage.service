@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-lead-triage (Lead Pipeline Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/leadsworth
+ExecStart=/usr/bin/env pi -p "/daily-lead-triage"

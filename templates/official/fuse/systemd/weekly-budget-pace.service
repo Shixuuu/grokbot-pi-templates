@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-budget-pace (Ad Spend Watch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fuse
+ExecStart=/usr/bin/env pi -p "/weekly-budget-pace"

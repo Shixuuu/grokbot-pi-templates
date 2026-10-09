@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-clip-recap (Clip Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/clip-bot
+ExecStart=/usr/bin/env pi -p "/friday-clip-recap"

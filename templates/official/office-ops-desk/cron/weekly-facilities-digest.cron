@@ -1,0 +1,5 @@
+# Routine "Weekly facilities digest": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Monday morning, the open facilities issues grouped by severity with owners and days open.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/office-ops-desk && pi -p "/weekly-facilities-digest"

@@ -1,0 +1,35 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Recommended. Drafts every email, reads replies and support email, and compares sent mail with drafts. Sends only when you say send."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Required for the call routines. Finds watched calls, and books calls after your yes."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Optional. Call notes for learnings and follow-ups. Pasted notes work too."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "45893414",
+      "description": "Optional. Lead lists, usage or credit exports, and your roster sheet."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. Reads launch channels for heads-ups. Read only."
+    },
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Optional. Finds handles and reads posts. Never follows, posts, or sends DMs. Reads bill your X API credits."
+    }
+  ]
+}

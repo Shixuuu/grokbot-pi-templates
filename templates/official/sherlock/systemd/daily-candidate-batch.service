@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-candidate-batch (Talent Discovery)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sherlock
+ExecStart=/usr/bin/env pi -p "/daily-candidate-batch"

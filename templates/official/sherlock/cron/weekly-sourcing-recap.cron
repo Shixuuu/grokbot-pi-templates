@@ -1,0 +1,5 @@
+# Routine "Weekly sourcing recap": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Friday, a recap of who was added, what you kept and passed on, who has not replied yet, and whether the bar needs to move.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/sherlock && pi -p "/weekly-sourcing-recap"

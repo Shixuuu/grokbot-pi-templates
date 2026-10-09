@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ready-for-dev-sweep (figma bro)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/figma-bro
+ExecStart=/usr/bin/env pi -p "/ready-for-dev-sweep"

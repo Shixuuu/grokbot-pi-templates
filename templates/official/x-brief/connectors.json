@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Read your timeline, lists, and the accounts you follow, and open posts reliably."
+    },
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post the daily brief to a channel you and your team already read."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the watch list and every brief where your team looks things up."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Turn anything in the brief you want to act on into a task with the link on it."
+    }
+  ]
+}

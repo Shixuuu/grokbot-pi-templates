@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine friday-open-threads-review
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Friday morning, the open threads and next steps across your accounts, with what has gone stale and what closed this week.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

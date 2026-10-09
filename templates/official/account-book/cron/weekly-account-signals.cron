@@ -1,0 +1,5 @@
+# Routine "Weekly account signals": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Monday morning, checks your accounts for public news, funding, leadership, and hiring signals, and reports only what matters to the deal.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/account-book && pi -p "/weekly-account-signals"

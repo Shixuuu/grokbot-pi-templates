@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-startup-qa-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Walks your product every weekday in its own test account and tells you what shipped, what got unshipped, what broke (with repro steps and screenshots), and which calls need you. Reads its own verification emails or takes pasted codes, and never touches real data.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XBauviUoNcdi05-ExoOo4",
+    "url": "https://x.ai/bot/XBauviUoNcdi05-ExoOo4",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Shub Gaur",
+    "creatorHandle": "shubgaur",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

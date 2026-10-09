@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-cut-queue (Video Edit Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/best-video-editor
+ExecStart=/usr/bin/env pi -p "/weekly-cut-queue"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-overheard",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs, then sends a short weekday digest when something clears the bar. Stays quiet on dead days and never posts on your behalf.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NIEguoGUjA648fUPle8F5",
+    "url": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Lenny Rachitsky",
+    "creatorHandle": "lennysan",
+    "activeVersion": 2,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

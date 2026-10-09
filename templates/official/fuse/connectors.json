@@ -1,0 +1,50 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post an alert or a fix list in the channel your team actually watches."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the threshold set, the checks, and the alert log where your team can find them."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "File the fix when a breach belongs to engineering, like a dead pixel or a broken checkout."
+    },
+    {
+      "name": "hex",
+      "pluginId": "651",
+      "description": "Read spend straight from your warehouse when the numbers already live in a query."
+    },
+    {
+      "name": "datadog",
+      "pluginId": "1411",
+      "description": "Check whether the site or checkout was down or slow when conversions dropped."
+    },
+    {
+      "name": "sentry",
+      "pluginId": "579",
+      "description": "Check whether checkout errors spiked at the hour your conversions stopped."
+    },
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Pull up the creative behind a campaign whose click-through rate is sliding."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Read the daily report the ad platform emails you."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Read a spend sheet you already keep."
+    }
+  ]
+}

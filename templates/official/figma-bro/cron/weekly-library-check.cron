@@ -1,0 +1,5 @@
+# Routine "Weekly library check": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Monday morning, checks the component library and token set for new duplicates, detached instances, and hardcoded values, and reports only what drifted since last week.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/figma-bro && pi -p "/weekly-library-check"

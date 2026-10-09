@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Recommended. Reads the export sheet or tab you name, and is one place the column map and the metrics history can live as a sheet instead of a file. Read only unless you ask for a sheet to be written."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Recommended. Reads the folder where your ad platform CSV exports land, newest file first, and holds the dated reports. A pasted file works instead."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Optional. Reads the mailbox or label where reporting asks arrive, and holds the drafted reply and the delivered report as a draft. Sends only when you say send."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. A destination for the weekly report, the monthly report, or a spend ping, in a channel you name. Nothing is posted without your explicit yes."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekday-call-prep
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every weekday morning, a short prep on the external calls that day with what changed, who is on them, and what is still open.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

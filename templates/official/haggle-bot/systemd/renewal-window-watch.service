@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine renewal-window-watch (Haggle Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/haggle-bot
+ExecStart=/usr/bin/env pi -p "/renewal-window-watch"

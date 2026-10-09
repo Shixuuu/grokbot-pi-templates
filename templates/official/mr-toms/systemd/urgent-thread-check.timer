@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine urgent-thread-check
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run about every 45 minutes on weekdays during the interview hours saved in memory, in the user's timezone. Compute the cron from that timezone. This one needs Gmail or Slack. Without either, stay quiet and send nothing at all. Look only for messages that are time sensitive: a candidate declining or…
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

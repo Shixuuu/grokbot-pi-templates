@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine objection-drill
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run on the mornings the user picked, Tuesday and Thursday unless they said otherwise, at the hour they chose, in the timezone saved in memory. Compute the cron from that timezone. Read the coaching log and pick the objection type with the worst open record. Open cold and in character as the buyer, …
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

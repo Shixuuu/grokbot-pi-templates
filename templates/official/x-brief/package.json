@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-x-brief",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Turns the accounts and topics you pick on X into one short daily brief. Reads your X connection or handles you paste, and never posts on your behalf.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RO8GwQZFXL9O95i13epqF",
+    "url": "https://x.ai/bot/RO8GwQZFXL9O95i13epqF",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Dan McAteer",
+    "creatorHandle": "daniel_mac8",
+    "activeVersion": 7,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

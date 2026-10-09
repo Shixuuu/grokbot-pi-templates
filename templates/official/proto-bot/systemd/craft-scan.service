@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine craft-scan (Proto Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/proto-bot
+ExecStart=/usr/bin/env pi -p "/craft-scan"

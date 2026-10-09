@@ -1,0 +1,50 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Read new event and sponsorship asks out of the channel where people already ask."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the event queue and the weekly review where your team looks things up."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Track what you owe an organizer after a yes as issues with owners and due dates."
+    },
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Pull the logo pack, booth artwork, or slides an organizer is waiting on."
+    },
+    {
+      "name": "hex",
+      "pluginId": "651",
+      "description": "Chart event spend against your cap and your yes rate over a quarter."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Search events and schedule meetings."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Read the tracker sheet and organizer files your team already keeps in Drive."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Read and write Google Sheets."
+    }
+  ]
+}

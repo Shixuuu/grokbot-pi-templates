@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-open-threads-review (Account Research Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/account-book
+ExecStart=/usr/bin/env pi -p "/friday-open-threads-review"

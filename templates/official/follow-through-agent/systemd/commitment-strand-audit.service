@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine commitment-strand-audit (GTM Loop Closer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/follow-through-agent
+ExecStart=/usr/bin/env pi -p "/commitment-strand-audit"

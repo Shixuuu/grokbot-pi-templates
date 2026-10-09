@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-shipped-check
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Friday afternoon, asks what copy actually went out this week and folds the edits the user made into their voice profile.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

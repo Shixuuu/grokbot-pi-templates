@@ -1,0 +1,50 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post a hiring brief or an interviewer nudge you approved to a channel you choose."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the hiring tracker, prep packets, and debrief summaries where the hiring team already looks."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Open a task for an approved req, a take-home review, or a new hire's first week."
+    },
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Open a design candidate's portfolio or take-home file so the panel reviews the real work."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Search events and schedule meetings."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Pull interview notes and action items straight from your meetings."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Read and write Google Sheets."
+    },
+    {
+      "name": "Ashby",
+      "pluginId": "49104326",
+      "description": "Search candidates, prep interviews, and manage pipeline tasks."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine daily-shipments-status
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every weekday morning, a short status on what was delivered, what is late, and what has stopped moving.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

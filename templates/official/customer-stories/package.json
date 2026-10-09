@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-customer-stories",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns call notes and transcripts into case studies, testimonials, and proof points. Quotes stay word for word from what you paste, and nothing publishes without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AamPlGjd2lIdDv6seEMXR",
+    "url": "https://x.ai/bot/AamPlGjd2lIdDv6seEMXR",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Anoop Baliga",
+    "creatorHandle": "akbaliga96",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

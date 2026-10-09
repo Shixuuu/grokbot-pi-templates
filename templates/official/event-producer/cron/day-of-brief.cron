@@ -1,0 +1,5 @@
+# Routine "Day-of brief": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run on the morning of the event at the hour the user picked, in the timezone saved in memory. Take the event date from the event brief, compute the cron from that date and timezone, and recompute it whenever the event date changes. Read the run of show, the vendor tracker, the day-of checklist, the…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/event-producer && pi -p "/day-of-brief"

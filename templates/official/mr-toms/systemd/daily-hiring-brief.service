@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-hiring-brief (Recruiting Coordinator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mr-toms
+ExecStart=/usr/bin/env pi -p "/daily-hiring-brief"

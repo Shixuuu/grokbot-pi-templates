@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-sherlock",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds candidates for open roles that match your criteria and aren't already in your ATS.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vIX2YW6rr6nQnf8-Rhyzc",
+    "url": "https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Tommy Hansen",
+    "creatorHandle": "TommyHansenTA",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

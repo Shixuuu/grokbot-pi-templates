@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-distro-review (Distro Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/distro-bot
+ExecStart=/usr/bin/env pi -p "/weekly-distro-review"

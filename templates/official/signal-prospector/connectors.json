@@ -1,0 +1,50 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": "Leads, contacts, campaign responses, activities, and ownership. Connect the one CRM you use."
+    },
+    {
+      "name": "HubSpot",
+      "pluginId": "49339689",
+      "description": "CRM alternative to Salesforce; form fills and email engagement count as signals."
+    },
+    {
+      "name": "Attio",
+      "pluginId": "62459236",
+      "description": "CRM alternative to Salesforce; lists and notes carry the signals."
+    },
+    {
+      "name": "Mixpanel",
+      "pluginId": "11976",
+      "description": "Product signups, activation, and usage spikes by company domain."
+    },
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Public posts from the account and its leaders, for a dated hook the signal scan can cite."
+    },
+    {
+      "name": "Hunter",
+      "pluginId": "62459238",
+      "description": "Finds and verifies business emails for ranked contacts who are not in the CRM yet."
+    },
+    {
+      "name": "Clay",
+      "pluginId": "49110469",
+      "description": "Enrichment for titles, seniority, and company facts when you already run Clay."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Saves first-touch drafts and learns the owner's voice. Use Outlook instead on Microsoft 365."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Deliver the signal digest as a DM."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-coach-refresh (Customer Call Coach & Assistant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/customer-call-coach
+ExecStart=/usr/bin/env pi -p "/friday-coach-refresh"

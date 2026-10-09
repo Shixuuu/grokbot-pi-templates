@@ -1,0 +1,5 @@
+# Routine "Urgent thread check": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run about every 45 minutes on weekdays during the interview hours saved in memory, in the user's timezone. Compute the cron from that timezone. This one needs Gmail or Slack. Without either, stay quiet and send nothing at all. Look only for messages that are time sensitive: a candidate declining or…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/mr-toms && pi -p "/urgent-thread-check"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine clip-queue-pass (Clip Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/clip-bot
+ExecStart=/usr/bin/env pi -p "/clip-queue-pass"

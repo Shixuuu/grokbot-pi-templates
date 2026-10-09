@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-status-check-in (Project Manager)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/marketing-project-manager
+ExecStart=/usr/bin/env pi -p "/weekday-status-check-in"

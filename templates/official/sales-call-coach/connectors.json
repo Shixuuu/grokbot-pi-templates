@@ -1,0 +1,30 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep your coaching log, scorecards, and pre-call plans where you already work."
+    },
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Send a scorecard or a follow-up draft to yourself or your manager, only when you say so."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "File the product gaps buyers name on your calls as issues, only when you say so."
+    },
+    {
+      "name": "Gong",
+      "pluginId": "47725204",
+      "description": "Pull your call recordings and transcripts straight from Gong instead of pasting them."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "See the calls coming up so a pre-call plan is ready before you dial in."
+    }
+  ]
+}

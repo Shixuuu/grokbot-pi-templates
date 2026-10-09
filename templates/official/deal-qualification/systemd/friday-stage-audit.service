@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-stage-audit (Deal Inspector)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/deal-qualification
+ExecStart=/usr/bin/env pi -p "/friday-stage-audit"

@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekday-pipeline-pulse
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: # Weekday pipeline pulse
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

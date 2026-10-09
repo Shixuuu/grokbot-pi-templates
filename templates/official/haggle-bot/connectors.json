@@ -1,0 +1,40 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Ramp",
+      "pluginId": "32766883",
+      "description": "Live card and bill spend. Primary source for the vendor inventory."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "The vendor database and savings tabs live here."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Draft vendor RFQs and counters. Never sends without your go."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. Source for vendor owners and usage, and colleague DMs for data. Never posts without your go."
+    },
+    {
+      "name": "Notion",
+      "pluginId": "404",
+      "description": "Optional. Source for vendor owners, purpose, and usage notes."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Optional. Contracts, order forms, and quotes for commitment evidence."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Optional. Vendor call notes for sentiment and commitments."
+    }
+  ]
+}

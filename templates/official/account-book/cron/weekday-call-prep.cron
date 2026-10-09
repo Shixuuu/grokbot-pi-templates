@@ -1,0 +1,5 @@
+# Routine "Weekday call prep": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every weekday morning, a short prep on the external calls that day with what changed, who is on them, and what is still open.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/account-book && pi -p "/weekday-call-prep"

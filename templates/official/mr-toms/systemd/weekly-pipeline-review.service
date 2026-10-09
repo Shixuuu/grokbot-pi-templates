@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-pipeline-review (Recruiting Coordinator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mr-toms
+ExecStart=/usr/bin/env pi -p "/weekly-pipeline-review"

@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-ad-review
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every week on the user's chosen morning, a read on last week's Apple Search Ads spend against target, with the changes worth making first.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

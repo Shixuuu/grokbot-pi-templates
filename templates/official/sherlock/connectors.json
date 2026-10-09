@@ -1,0 +1,40 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post new candidates to the hiring channel your team already reads."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the role scorecard and the shortlist where your hiring team already looks."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Track the search, or each candidate, as issues if your team runs hiring in Linear."
+    },
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Read a designer's shared case study or portfolio file when you are hiring design."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Read and write Google Sheets."
+    },
+    {
+      "name": "Ashby",
+      "pluginId": "49104326",
+      "description": "Search candidates, prep interviews, and manage pipeline tasks."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-strategy-read (Market Researcher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/market-researcher
+ExecStart=/usr/bin/env pi -p "/monthly-strategy-read"

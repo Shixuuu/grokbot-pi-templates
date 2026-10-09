@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-account-watch (Sell Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sell-bot
+ExecStart=/usr/bin/env pi -p "/daily-account-watch"

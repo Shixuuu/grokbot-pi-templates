@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine friday-prospecting-recap
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Friday, what went out this week, what came back, which rows are waiting on you, and where the list is running thin.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

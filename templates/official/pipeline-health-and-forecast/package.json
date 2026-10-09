@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-pipeline-health-and-forecast",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed to keep the forecast honest.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "X-hZf_AreWNt-ZQPYs0Ev",
+    "url": "https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Krista Letz",
+    "creatorHandle": "kristaletz",
+    "activeVersion": 3,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

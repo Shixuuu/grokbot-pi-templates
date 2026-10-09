@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fuse",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches your ad spend and performance and flags what's breaking before it burns budget. Works from a pasted export, and never pauses a campaign without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MK5zStpj_As8CsRwg3r6w",
+    "url": "https://x.ai/bot/MK5zStpj_As8CsRwg3r6w",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Miguel Cruz",
+    "creatorHandle": "cruzmiguel000",
+    "activeVersion": 2,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

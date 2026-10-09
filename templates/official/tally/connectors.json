@@ -1,0 +1,40 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Watch your channels for reporting asks and post the reports you approve."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep every weekly and monthly report where your team looks things up."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Turn something a report says to fix into an issue in your backlog."
+    },
+    {
+      "name": "hex",
+      "pluginId": "651",
+      "description": "Read spend and conversion data that already lands in your warehouse."
+    },
+    {
+      "name": "Databricks SQL",
+      "pluginId": "32738678",
+      "description": "Query spend and conversion tables straight from your warehouse."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Pick up the scheduled export emails the ad platforms send."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Read exports you keep in a sheet."
+    }
+  ]
+}

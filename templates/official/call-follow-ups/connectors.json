@@ -1,0 +1,65 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gong",
+      "pluginId": "47725204",
+      "description": "Finished calls, summaries, and transcripts. Granola covers the meetings it did not record."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Transcript source for meetings your recorder did not capture. Works alongside Gong or on its own."
+    },
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": "Where next steps, stage, close date, and new contacts are proposed. Connect the one CRM you use."
+    },
+    {
+      "name": "HubSpot",
+      "pluginId": "49339689",
+      "description": "CRM alternative to Salesforce."
+    },
+    {
+      "name": "Attio",
+      "pluginId": "62459236",
+      "description": "CRM alternative to Salesforce."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Learns your voice from sent mail and saves follow-ups as drafts. Use Outlook instead on Microsoft 365."
+    },
+    {
+      "name": "Outlook",
+      "pluginId": "57302029",
+      "description": "Email alternative for Microsoft 365 users."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Matches a call to its meeting and attendees when the recorder's participant list is thin."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Deliver the post-call pack as a DM."
+    },
+    {
+      "name": "Notion",
+      "pluginId": "404",
+      "description": "Keep post-call notes and the open promises where your team already looks."
+    },
+    {
+      "name": "Linear",
+      "pluginId": "512",
+      "description": "Turn a commitment from a call into a ticket, drafted for you to approve."
+    },
+    {
+      "name": "Hex",
+      "pluginId": "651",
+      "description": "Pull account numbers before a call when your team keeps them in a warehouse."
+    }
+  ]
+}

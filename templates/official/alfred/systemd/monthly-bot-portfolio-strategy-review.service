@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-bot-portfolio-strategy-review (Alfred)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/alfred
+ExecStart=/usr/bin/env pi -p "/monthly-bot-portfolio-strategy-review"

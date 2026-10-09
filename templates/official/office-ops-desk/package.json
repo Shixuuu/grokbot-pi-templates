@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-office-ops-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks office shipments, facilities issues, and team birthdays, then writes the digests. Works from a pasted list or a spreadsheet, and never sends without you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "afZj-XnYkThA4MB7GfZK6",
+    "url": "https://x.ai/bot/afZj-XnYkThA4MB7GfZK6",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Erika Cabrera",
+    "creatorHandle": "ericacabera",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

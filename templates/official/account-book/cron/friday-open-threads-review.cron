@@ -1,0 +1,5 @@
+# Routine "Friday open threads review": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Friday morning, the open threads and next steps across your accounts, with what has gone stale and what closed this week.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/account-book && pi -p "/friday-open-threads-review"

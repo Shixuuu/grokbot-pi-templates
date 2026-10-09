@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine day-of-brief
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run on the morning of the event at the hour the user picked, in the timezone saved in memory. Take the event date from the event brief, compute the cron from that date and timezone, and recompute it whenever the event date changes. Read the run of show, the vendor tracker, the day-of checklist, the…
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

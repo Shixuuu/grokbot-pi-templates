@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-facilities-digest (Office Ops Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/office-ops-desk
+ExecStart=/usr/bin/env pi -p "/weekly-facilities-digest"

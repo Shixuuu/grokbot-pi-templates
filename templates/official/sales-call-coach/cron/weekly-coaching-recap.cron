@@ -1,0 +1,5 @@
+# Routine "Weekly coaching recap": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run once a week on the day and hour the user picked, in the timezone saved in memory. Compute the cron from that timezone and never assume Pacific or UTC. Read every scorecard written to the coaching log since the last recap. Send four short parts. The counts for the week, talk share, questions ask…
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/sales-call-coach && pi -p "/weekly-coaching-recap"

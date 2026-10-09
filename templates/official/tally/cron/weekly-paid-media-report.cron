@@ -1,0 +1,5 @@
+# Routine "Weekly paid media report": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Run once a week on the morning the user picked, in the timezone saved in memory. Compute the cron from that timezone and never assume Pacific or UTC. Read the column map and the exports on hand. When you have last week's data for every platform they report on, build the report with the Weekly paid …
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/tally && pi -p "/weekly-paid-media-report"

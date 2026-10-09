@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine day-of-brief (Event Producer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/event-producer
+ExecStart=/usr/bin/env pi -p "/day-of-brief"

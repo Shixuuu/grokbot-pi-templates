@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-figma-bro",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Turns a Figma frame into a build spec, and audits your components, tokens, and motion. Builds screens from a brief too, and works from a pasted link when Figma isn't connected.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pXNvc_U2cGyZmheYrUuF_",
+    "url": "https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "John Bai",
+    "creatorHandle": "johnbai",
+    "activeVersion": 7,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

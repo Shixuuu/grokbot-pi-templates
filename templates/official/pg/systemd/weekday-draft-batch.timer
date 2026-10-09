@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekday-draft-batch
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every weekday morning, researches the next few names on the target list and leaves a first-touch draft for each one, waiting on your yes.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

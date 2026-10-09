@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine principles-review (Product Marketer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/product-marketer
+ExecStart=/usr/bin/env pi -p "/principles-review"

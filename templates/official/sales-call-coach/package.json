@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-sales-call-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Scores your sales calls and tells you what to fix before the next one. Works from a pasted transcript or an uploaded recording.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yZ5MFQFdl32vHt6fcIJAc",
+    "url": "https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Daniel Brill",
+    "creatorHandle": "danielbrill_",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

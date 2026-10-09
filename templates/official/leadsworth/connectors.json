@@ -1,0 +1,45 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post the morning triage and the weekly report to a channel your team already reads."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the lead ledger and every weekly report where your team looks things up."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Open a follow-up issue when a lead is stuck or needs someone outside sales."
+    },
+    {
+      "name": "hex",
+      "pluginId": "651",
+      "description": "Pull leads and pipeline history from your warehouse when that is where they land."
+    },
+    {
+      "name": "Databricks SQL",
+      "pluginId": "32738678",
+      "description": "Query lead and pipeline tables straight from your warehouse."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Save first replies as unsent drafts in your own account."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Read and write the lead list where it already lives."
+    },
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": "Read leads and write owners and next steps back to your CRM."
+    }
+  ]
+}

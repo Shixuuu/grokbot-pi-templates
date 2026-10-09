@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine daily-hiring-brief
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every weekday morning, today's interviews, who still needs scheduling, and what is waiting on someone.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Drop the moment list and finished clips in the channel your team picks from."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep transcripts, moment lists, and the clip log where your team looks things up."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Turn approved moments into clip tasks your team can track to done."
+    },
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Pull title cards, end cards, and caption styling so clips match your brand."
+    }
+  ]
+}

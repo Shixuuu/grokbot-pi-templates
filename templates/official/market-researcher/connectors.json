@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Recommended. Reads competitor company and product handles for post volume, engagement, themes, and promoted copy being tested in public. Read only, it never follows, likes, reposts, replies, posts, or sends a DM."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": "Optional. Holds the swipe file index, the promotion calendar, the search overlap table, and the messaging matrix when the user wants them outside chat, and is one place an ad or search export can live. A paste works instead."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Optional. The folder where ad platform, analytics, or search console CSV exports are dropped for the runs when a platform is not signed in. Read only. A paste works instead."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. Delivers the weekly brief and the strategy read to a channel the user names instead of this chat."
+    }
+  ]
+}

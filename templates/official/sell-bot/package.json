@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-sell-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Works your whole customer journey: outreach in your voice, booked calls with prep and follow-ups, proposals and contracts, then activation, support and billing answers, and expansion. Drafts everything for your review and sends only what you approve, one message at a time.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "znrhzY4AYMg4v3QTfU0IJ",
+    "url": "https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Shub Gaur",
+    "creatorHandle": "shubgaur",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

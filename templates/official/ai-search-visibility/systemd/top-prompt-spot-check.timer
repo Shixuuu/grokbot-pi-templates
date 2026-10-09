@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine top-prompt-spot-check
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Run twice a week on the two mornings the user picked, or Tuesday and Thursday when they did not pick, at the hour saved in memory and in their timezone. Compute the cron from that timezone. Read the prompt list and check only the five prompts marked top prompt. Compare each answer to the last captu…
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

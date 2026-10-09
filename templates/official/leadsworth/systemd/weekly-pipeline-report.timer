@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-pipeline-report
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Monday morning, the week's lead counts by source, the tier mix, what moved, what is stuck, and pacing against the goal.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

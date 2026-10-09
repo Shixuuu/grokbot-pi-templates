@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-competitor-watching",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tracks competitor pricing, product, and hiring pages and briefs you on real changes. Starts from a list of URLs you paste.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aw0Zj54sIsAK7vMnajdz0",
+    "url": "https://x.ai/bot/aw0Zj54sIsAK7vMnajdz0",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Shimecki",
+    "creatorHandle": "scheemunai",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

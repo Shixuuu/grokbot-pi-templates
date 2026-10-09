@@ -1,0 +1,5 @@
+# Routine "Weekly open fixes": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every week, lists the critique findings still open on each screen and offers to re-check the ones with a new version.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/critiquito && pi -p "/weekly-open-fixes"

@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-event-commitment-check
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Thursday morning, what the team still owes organizers for events already said yes to, with anything overdue first.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

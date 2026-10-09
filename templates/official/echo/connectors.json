@@ -1,0 +1,50 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Read the template slide you point at and build the recap deck in it."
+    },
+    {
+      "name": "Google Slides",
+      "pluginId": "47662907",
+      "description": "Build the recap deck in your Google Slides template."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Pull meeting notes from your pages and keep finished recaps where your team reads them."
+    },
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post a recap you approved to the channel your team already reads."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Turn the next steps you agreed to into tickets with owners and dates."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Search events and schedule meetings."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Your meetings in your workflow. Meeting notes, decisions, and commitments."
+    },
+    {
+      "name": "Gong",
+      "pluginId": "47725204",
+      "description": "Pull call summaries and transcripts when your notes live in Gong."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Read a frame straight from a file link instead of waiting on a screenshot."
+    },
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Post a critique you approved into the channel your team reviews in."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the critiques and open fix lists on a page your team can read."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "File the blockers as tickets on the right team, drafted for your yes."
+    }
+  ]
+}

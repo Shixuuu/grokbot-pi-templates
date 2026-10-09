@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine afternoon-loop-check (Recruiting Coordinator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mr-toms
+ExecStart=/usr/bin/env pi -p "/afternoon-loop-check"

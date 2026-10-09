@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "X",
+      "pluginId": "49086599",
+      "description": "Search posts and read accounts on X. Optional, improves X coverage over web search."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. Deliver the weekday digest to a Slack channel you approve."
+    }
+  ]
+}

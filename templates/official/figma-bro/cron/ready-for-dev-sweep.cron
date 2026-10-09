@@ -1,0 +1,5 @@
+# Routine "Ready for dev sweep": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Friday afternoon, lists the frames marked ready for dev that still have no spec, and offers to write the next one.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/figma-bro && pi -p "/ready-for-dev-sweep"

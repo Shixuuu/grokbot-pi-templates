@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-frank",
+  "version": "1.0.2",
+  "private": true,
+  "description": "EA chief-of-staff bot for exec support: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and birthday/anniversary calendar loads.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_DnP777DCicZpaTtm9_h5",
+    "url": "https://x.ai/bot/_DnP777DCicZpaTtm9_h5",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Natasha Kuo",
+    "creatorHandle": "tashatweetss",
+    "activeVersion": 2,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

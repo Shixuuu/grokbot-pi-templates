@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": ""
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "47662908",
+      "description": ""
+    },
+    {
+      "name": "Notion",
+      "pluginId": "404",
+      "description": ""
+    },
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": ""
+    }
+  ]
+}

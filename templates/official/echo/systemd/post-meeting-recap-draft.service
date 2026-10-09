@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine post-meeting-recap-draft (Meeting Recap Deck)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/echo
+ExecStart=/usr/bin/env pi -p "/post-meeting-recap-draft"

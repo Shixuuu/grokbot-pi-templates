@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-pull-queue (Stills & Clips Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/image-gen-bot
+ExecStart=/usr/bin/env pi -p "/weekly-pull-queue"

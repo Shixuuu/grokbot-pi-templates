@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine listed-post-merge-ac-fail-gate (QA bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/qa-bot
+ExecStart=/usr/bin/env pi -p "/listed-post-merge-ac-fail-gate"

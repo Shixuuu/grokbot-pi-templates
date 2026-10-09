@@ -1,0 +1,30 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the voice profile and every draft where your team already writes."
+    },
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Drop a draft in the channel where people give you feedback."
+    },
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Read the copy sitting in a design frame and hand back rewritten lines."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Turn shipped issues into release notes a customer can read."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Routine "Friday recap roundup": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every Friday, the recaps that went out this week, the drafts still sitting unsent, and the next steps that are past their date.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/echo && pi -p "/friday-recap-roundup"

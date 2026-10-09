@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-seo-aeo-desk",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Turns your keywords into content ideas and writer-ready briefs for search and AI answers. Works from a pasted keyword list or your Search Console.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0IhyZWxwbf2cFmsmroZQL",
+    "url": "https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Adam Tanguay",
+    "creatorHandle": "adamta",
+    "activeVersion": 5,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

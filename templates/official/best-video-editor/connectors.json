@@ -1,0 +1,25 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "slack",
+      "pluginId": "674",
+      "description": "Drop a cut you approved in the channel that reviews it."
+    },
+    {
+      "name": "notion-workspace",
+      "pluginId": "404",
+      "description": "Keep the shot notes and the cut log where your team looks."
+    },
+    {
+      "name": "linear",
+      "pluginId": "512",
+      "description": "Pick up edit requests filed as issues and put the finished cut back on the issue."
+    },
+    {
+      "name": "figma",
+      "pluginId": "657",
+      "description": "Pull a title card, lower third, or thumbnail frame out of your brand file."
+    }
+  ]
+}

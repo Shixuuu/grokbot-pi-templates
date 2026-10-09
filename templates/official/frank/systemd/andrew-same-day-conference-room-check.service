@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine andrew-same-day-conference-room-check (frank)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/frank
+ExecStart=/usr/bin/env pi -p "/andrew-same-day-conference-room-check"

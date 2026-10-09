@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine reporting-ask-watch (Paid Media Report Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tally
+ExecStart=/usr/bin/env pi -p "/reporting-ask-watch"

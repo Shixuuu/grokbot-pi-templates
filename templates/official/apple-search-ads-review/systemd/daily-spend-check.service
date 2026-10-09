@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-spend-check (Apple Search Ads Review)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/apple-search-ads-review
+ExecStart=/usr/bin/env pi -p "/daily-spend-check"

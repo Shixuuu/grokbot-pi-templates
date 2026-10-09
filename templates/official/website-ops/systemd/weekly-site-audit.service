@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-site-audit (Website Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/website-ops
+ExecStart=/usr/bin/env pi -p "/weekly-site-audit"

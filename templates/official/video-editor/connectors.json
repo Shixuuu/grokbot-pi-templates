@@ -1,0 +1,15 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Remotion",
+      "pluginId": "49339676",
+      "description": "Optional. Remotion's own skills for animations, captions, and rendering, used for the graphics in each edit."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Optional. Pull raw footage from Drive and share preview links of finished cuts."
+    }
+  ]
+}

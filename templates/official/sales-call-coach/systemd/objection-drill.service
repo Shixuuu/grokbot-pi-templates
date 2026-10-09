@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine objection-drill (Sales Call Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sales-call-coach
+ExecStart=/usr/bin/env pi -p "/objection-drill"

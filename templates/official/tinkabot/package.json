@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-tinkabot",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Wraps an API into a Cursor/Agent Plugin (MCP + skills). Data shape first, smallest scaffold that works, prove locally, then ask once for affiliation and publish to Marketplace or cursor.directory.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-hmCmHB0ynJGvSKxeINfS",
+    "url": "https://x.ai/bot/-hmCmHB0ynJGvSKxeINfS",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Lauren Tan",
+    "creatorHandle": "poteto",
+    "activeVersion": 5,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

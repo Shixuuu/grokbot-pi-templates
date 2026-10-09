@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine crm-sequence-guard (Sequencer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sequencer
+ExecStart=/usr/bin/env pi -p "/crm-sequence-guard"

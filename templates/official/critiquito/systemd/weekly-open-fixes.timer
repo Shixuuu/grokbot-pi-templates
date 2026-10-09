@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-open-fixes
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every week, lists the critique findings still open on each screen and offers to re-check the ones with a new version.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-product-walk (Startup QA Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/startup-qa-bot
+ExecStart=/usr/bin/env pi -p "/morning-product-walk"

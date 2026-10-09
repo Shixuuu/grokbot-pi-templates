@@ -1,0 +1,5 @@
+# Routine "Topic watch": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Each weekday morning, speaks up only when a new question or topic worth a page shows up in the user's space.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/seo-aeo-desk && pi -p "/topic-watch"

@@ -1,0 +1,44 @@
+# Customer Proof Desk
+
+Turns call notes and transcripts into case studies, testimonials, and proof points. Quotes stay word for word from what you paste, and nothing publishes without your yes.
+
+| | |
+| --- | --- |
+| Original template | https://x.ai/bot/AamPlGjd2lIdDv6seEMXR |
+| Creator | Anoop Baliga ([@akbaliga96](https://x.com/akbaliga96)) |
+| Category | official (x.ai/bot/marketplace) |
+| Found via | [xai-marketplace](https://x.ai/bot/marketplace/bots/customer-stories), [grokbottemplates.app](https://grokbottemplates.app/t/customer-proof-desk), [botsdots.site](https://botsdots.site/templates/customer-proof-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/customer-proof-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/customer-proof-desk), [templatebot.lol](https://templatebot.lol/bot/AamPlGjd2lIdDv6seEMXR), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://grokbottemplates.app/t/customer-proof-desk) |
+| Fidelity | **full** (full recipe, template version 1) |
+| Contents | 11 skills, 2 routines, 5 memory seeds, 7 connectors |
+
+## Use it in Pi
+
+```bash
+cp -r templates/official/customer-stories ~/pi-bots/customer-stories && cd ~/pi-bots/customer-stories
+pi --approve   # trust the folder: loads AGENTS.md, .pi/APPEND_SYSTEM.md, skills/, prompts/
+```
+
+Or install only the skills and routine prompts: `pi install ./templates/official/customer-stories`. The persona in `AGENTS.md` applies only when you run Pi inside the folder.
+
+## What was converted
+
+| Grok Bot | Pi |
+| --- | --- |
+| Profile / persona | `AGENTS.md`, `.pi/APPEND_SYSTEM.md` |
+| Memory (5) | `MEMORY.md` |
+| Skills (11) | `skills/<name>/SKILL.md`, full bodies |
+| Routines (2) | `prompts/<name>.md` (`/name`), verbatim text in `routines/`, schedule sketches in `cron/` and `systemd/` |
+| Plugins (7) | `CONNECTORS.md`, `connectors.json` |
+
+### Routine schedules
+
+- `/weekly-proof-roundup`: no cron in the template; described as "Every Monday morning, what new proof came in, which customers are ready for a case study, which approvals are still sitting, and which claims have nothing behind them."
+- `/monthly-proof-refresh`: no cron in the template; described as "Run on the first Monday of each month at the hour the user picked, in the timezone saved in memory. Compute the cron from that timezone. Read the proof bank and check three things. Age: every quote and number older than 12 months, and say where it is currently published so they know what is out in …"
+
+## What did not translate
+
+- Grok Bot runtime features: shared box computer/browser desktop, Grok channels (Slack/iMessage/email send-as), team multi-bot wake, built-in X/Grok data tools.
+- Routine scheduling and event triggers: Pi has no scheduler; see `prompts/`, `cron/`, `systemd/`.
+- Connector auth/config: plugin names only (see `CONNECTORS.md`).
+
+Content belongs to the original creator; this is an automated format conversion for personal use with Pi.

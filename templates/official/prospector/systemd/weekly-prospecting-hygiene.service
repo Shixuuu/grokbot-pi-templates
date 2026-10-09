@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-prospecting-hygiene (GTM Prospecting)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/prospector
+ExecStart=/usr/bin/env pi -p "/weekly-prospecting-hygiene"

@@ -1,0 +1,30 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Recommended, and the usual voice source when the user's mail runs here. Reads sent outbound and booked-meeting threads to build the voice card, and stages each touch as a draft. If their mail is elsewhere, about 3 pasted samples do the same job and drafts are staged as text in chat."
+    },
+    {
+      "name": "Google Sheets",
+      "pluginId": "66339841",
+      "description": "Recommended. The sequence tracker lives here when the user works in sheets, one row per contact per sequence. A CSV upload carries the same columns when it does not."
+    },
+    {
+      "name": "Salesforce",
+      "pluginId": "47725205",
+      "description": "Optional, and one CRM option among peers. Supplies ownership, open-opportunity stages for the pause guard, and title winners during discovery. A CRM with no connector runs through a browser sign-in or a CSV export instead."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Optional. Confirms which threads really ended in a booked meeting, so the voice card weights the touches that worked, and blocks review time for sending."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Optional. Adds team chat to inbox triage when a sequenced contact reaches the user there. Read only, never used to train cold voice."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Routine "Weekly pull queue": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Every week, works through the stills and clips waiting in the pull queue and posts each finished file here for review.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/image-gen-bot && pi -p "/weekly-pull-queue"

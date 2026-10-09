@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-engineering-lead",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An engineering lead that owns the loop: breaks work into Cloud Agents, chases CI, reviews, and stalls on a weekday cadence, and only pings you when something is blocked, ready to merge, or done. Best for eng leads and power users.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ks3X7JpD-6I86s3zkJFRh",
+    "url": "https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh",
+    "official": true,
+    "category": "official",
+    "fidelity": "full",
+    "creator": "Lauren Tan",
+    "creatorHandle": "poteto",
+    "activeVersion": 1,
+    "sources": [
+      "xai-marketplace",
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

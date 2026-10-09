@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine weekly-facilities-digest
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: Every Monday morning, the open facilities issues grouped by severity with owners and days open.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

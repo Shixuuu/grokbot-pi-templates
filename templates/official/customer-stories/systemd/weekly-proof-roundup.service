@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-proof-roundup (Customer Proof Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/customer-stories
+ExecStart=/usr/bin/env pi -p "/weekly-proof-roundup"

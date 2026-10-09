@@ -1,0 +1,5 @@
+# Routine "Daily launch check": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: Each weekday morning, checks changelog, release note, and blog pages across the watch list and speaks up only when a competitor ships something.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/competitor-watching && pi -p "/daily-launch-check"

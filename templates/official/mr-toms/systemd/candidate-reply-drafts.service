@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine candidate-reply-drafts (Recruiting Coordinator)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mr-toms
+ExecStart=/usr/bin/env pi -p "/candidate-reply-drafts"

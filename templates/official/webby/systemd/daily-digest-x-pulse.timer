@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-digest-x-pulse
+
+[Timer]
+OnCalendar=*-*-* 08:40:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
