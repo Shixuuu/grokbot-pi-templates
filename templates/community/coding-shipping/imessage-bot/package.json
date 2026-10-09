@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-imessage-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Reads and sends iMessages on a connected Mac: chat.db for history, Beeper imessage-cli for send, reply, react, and edit.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_e4a8viXo8YiLjdUv4fqH",
+    "url": "https://x.ai/bot/_e4a8viXo8YiLjdUv4fqH",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Evan Bacon",
+    "creatorHandle": "Baconbrix",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

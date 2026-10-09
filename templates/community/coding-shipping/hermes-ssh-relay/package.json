@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-hermes-ssh-relay",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Talk to a Desktop-primary Hermes agent from Grok Bot over private-network SSH when the Hermes HTTP API isn't up yet, or for a one-off relay. Fleet orchestration belongs to the sister template Hermes API Fleet.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nvf3rx9t7jkqpsqyjedn-",
+    "url": "https://x.ai/bot/nvf3rx9t7jkqpsqyjedn-",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Shagghie Superstar",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

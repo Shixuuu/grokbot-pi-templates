@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tek-tribe",
+  "version": "1.0.14",
+  "private": true,
+  "description": "Tell it the tools you run for ONE project (your tek stack). It grades how solid the stack is against AI-building principles, and when you ask to see your Tek Tribe it makes a cavebot image that grows as you tell it more, with a ready-to-post X caption so you can find people on the same stack.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sdCslo3yFiCHrWZ2JVPh9",
+    "url": "https://x.ai/bot/sdCslo3yFiCHrWZ2JVPh9",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jacob Chevalier",
+    "creatorHandle": "Saint_Chevalier",
+    "activeVersion": 14,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

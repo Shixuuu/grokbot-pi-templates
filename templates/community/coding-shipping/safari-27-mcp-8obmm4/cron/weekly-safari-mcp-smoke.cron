@@ -1,0 +1,3 @@
+# Routine "Weekly Safari MCP smoke" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 9 * * 1 cd /path/to/safari-27-mcp-8obmm4 && pi -p "/weekly-safari-mcp-smoke"

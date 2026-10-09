@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ssh-to-grok-via-tailscale",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Installs Tailscale on Grok Bot's computer so you can SSH in with `ssh box@grok-bot` over your tailnet. Boot autostart, a 5-minute self-heal check after Update Grok Bot's Computer, key-expiry reminders, and an ACL to lock SSH to your own devices.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BrViAOWzDSiAjBLqUnBgA",
+    "url": "https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Altman Sam",
+    "creatorHandle": "app_sail",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

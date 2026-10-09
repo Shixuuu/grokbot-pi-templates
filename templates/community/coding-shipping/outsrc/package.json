@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-outsrc",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Your local coding team. Outsrc hands coding tasks to Claude Code, Codex, or Grok Build on your computer—each job in its own git worktree, with diffs and summaries back in chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fdogfabe5y2lwmc-bmsag",
+    "url": "https://x.ai/bot/fdogfabe5y2lwmc-bmsag",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Edward Tadros",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

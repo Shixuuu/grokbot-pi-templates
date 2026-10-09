@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-software-conductor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "An engineering lead that runs Cursor cloud agents for you. It plans the work, launches and reviews agents, checks CI and deploys, and merges only when you say yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "C6uIpBcH_m-o5Mf9uQS4w",
+    "url": "https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jeff DeJaegher",
+    "creatorHandle": "DejaegherJeff",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

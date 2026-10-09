@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-threat-hunter",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A threat-hunter bot that builds a free Wazuh SIEM on its own computer and hunts for attacks on AI agents, like poisoned packages, malicious MCP servers, and credential theft. It pulls fresh threat research from X and teams up with threat-intel and honeypot bots to form a coordinated security team.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xz-a6CWE-HtbBB4yO7J0U",
+    "url": "https://x.ai/bot/xz-a6CWE-HtbBB4yO7J0U",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Paul Vann",
+    "creatorHandle": "pjvann",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

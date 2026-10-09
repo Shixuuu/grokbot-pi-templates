@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-stability-validator",
+  "version": "1.0.2",
+  "private": true,
+  "description": "HELIX Stability Validator — paste an agent or system description and get a readiness result. It does not change your system.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Io4dV69SOKfB1d785FLlw",
+    "url": "https://x.ai/bot/Io4dV69SOKfB1d785FLlw",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Sean OBrien",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

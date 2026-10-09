@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-learnbot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Learn one engineering term a day for non-technical folks, with buttons to learn more in different formats",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2gmdsU86wH7HBvbB7_T2C",
+    "url": "https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Grace Clarke",
+    "creatorHandle": "graceclarke",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

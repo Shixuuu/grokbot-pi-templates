@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine workday-quiet-down (MasterT)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mastert
+ExecStart=/usr/bin/env pi -p "/workday-quiet-down"

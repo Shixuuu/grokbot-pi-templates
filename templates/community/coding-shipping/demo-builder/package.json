@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-demo-builder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns an X post or other example link into a functional, playable app demo with a preview you can open and try.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Eny_bgU-fpZdifOm_QN-C",
+    "url": "https://x.ai/bot/Eny_bgU-fpZdifOm_QN-C",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Mike Page",
+    "creatorHandle": "Cybermike",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine workday-resume-hour (MasterT)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/mastert
+ExecStart=/usr/bin/env pi -p "/workday-resume-hour"

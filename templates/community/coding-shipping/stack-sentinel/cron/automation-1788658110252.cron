@@ -1,0 +1,3 @@
+# Routine "Weekday hourly status watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9-18 * * 1-5 cd /path/to/stack-sentinel && pi -p "/automation-1788658110252"

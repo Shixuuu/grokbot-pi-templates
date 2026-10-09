@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-skill-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Owns Grok Bot skills. Finds relevant skills on the user's computer, evaluates and de-duplicates them, then uploads or updates them here. Runs a weekly review for conflicts and improvements so skills stay relevant and effective.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WdKtVYWvxVEDmc7xp8zO2",
+    "url": "https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Dave",
+    "creatorHandle": "davespeers",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

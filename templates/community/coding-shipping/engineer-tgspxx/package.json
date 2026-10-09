@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-engineer-tgspxx",
+  "version": "1.0.2",
+  "private": true,
+  "description": "An engineering specialist for engineering and engineering technologies (NCES CIP 14 and 15). It searches top engineering universities and official .gov sources such as nces.ed.gov and nist.gov, names the source, and does not invent.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tGSpx-ZmfMi63a0GRy8FS",
+    "url": "https://x.ai/bot/tGSpx-ZmfMi63a0GRy8FS",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

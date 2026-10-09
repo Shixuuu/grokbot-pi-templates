@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-rutin",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A routines optimizer that scans every bot with no exceptions and proposes careful schedule fixes by default (weekday bounds, coarser drips). On first chat and each Monday it shows how many runs you save per week, waits for your okay, then applies only what you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o4gWkNGmffEaVtOhaEsA7",
+    "url": "https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Naoufal El hassnaoui",
+    "creatorHandle": "naoufal_elh",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

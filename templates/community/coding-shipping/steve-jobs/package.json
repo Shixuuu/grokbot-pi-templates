@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-steve-jobs",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A technical lead for a founder-run product. Specialists advise; this bot decides what is best technically unless the owner overrides. Security advises and does not set the agenda.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "62-P66Nu4KJH99n7fdMzH",
+    "url": "https://x.ai/bot/62-P66Nu4KJH99n7fdMzH",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Charlie Grant",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

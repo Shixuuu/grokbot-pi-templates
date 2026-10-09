@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine smallpe-skillset-sync (SmallPE-Managing-Partner)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/smallpe-managing-partner
+ExecStart=/usr/bin/env pi -p "/smallpe-skillset-sync"

@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-grokthevote",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Enter your zip code and get a nonpartisan tracker of every candidate and ballot measure you'll vote on, with daily news, charts, deadlines, and ways to contact campaigns. Powered by robauto.ai.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sjCizYYsBpguif5HxNObk",
+    "url": "https://x.ai/bot/sjCizYYsBpguif5HxNObk",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Robauto Team",
+    "creatorHandle": "Better Call Claude",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

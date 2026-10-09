@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-vps-bot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "始终用简体中文对话。帮你搭建和调优代理 VPS：内核低延迟优化，Reality/hy2/TUIC/SS2022/AnyTLS 独立高端口部署，OpenClash 和小火箭配置，测速选节点，排查超时变慢。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KkQ9TOi5k9f2O60a-dx4T",
+    "url": "https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "茄哥 pod",
+    "creatorHandle": "qg7777",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

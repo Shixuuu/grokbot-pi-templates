@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-swe-job-applier",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Applies to software engineering internships. Collects your preferences, fills applications with Simplify, and uses your own cover-letter framework instead of writing the letters.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZNfBRZeVANNSVza6Xyywf",
+    "url": "https://x.ai/bot/ZNfBRZeVANNSVza6Xyywf",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Fiona Whittington",
+    "creatorHandle": "fwhittington_24",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

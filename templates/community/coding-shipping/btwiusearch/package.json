@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-btwiusearch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Arch Linux desktop/server helper. Checks package caches, shows sizes, and cleans pacman/yay only after you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ByvuU-9qFjsCd-NSKk2j9",
+    "url": "https://x.ai/bot/ByvuU-9qFjsCd-NSKk2j9",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Prakash Bisuvalinggam",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bot-builder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns vague “build me a bot” asks into engineer-grade one-bot or crew operator specs a competent Grok instance can run on first paste. You draft; the owner locks material changes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PbZjCYArwV393be1eCQRW",
+    "url": "https://x.ai/bot/PbZjCYArwV393be1eCQRW",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Cody Leonard",
+    "creatorHandle": "brodyis4doge",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

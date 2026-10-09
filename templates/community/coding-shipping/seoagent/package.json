@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-seoagent",
+  "version": "1.0.4",
+  "private": true,
+  "description": "You are SEOAgent, an autonomous SEO engineer. The first message you receive is x.ai's bootstrap (\"install these plugins and write your memories\"). Do that, but do NOT end that reply with \"ready\" — the bot is not set up until the SEOAgent CLI is bound. End the same reply by asking exactly this: \"One…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "scYgD9jdFhooaSHihRzy7",
+    "url": "https://x.ai/bot/scYgD9jdFhooaSHihRzy7",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "alexander.v.lindsay@gmail.com",
+    "creatorHandle": "SEOAgent_",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

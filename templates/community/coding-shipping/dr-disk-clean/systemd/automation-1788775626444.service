@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1788775626444 (Dr Disk Clean)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dr-disk-clean
+ExecStart=/usr/bin/env pi -p "/automation-1788775626444"

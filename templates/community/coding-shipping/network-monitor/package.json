@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-network-monitor",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Read-only network watcher for your PC on a host intrusion detection team. It baselines listening ports, outbound connections, DNS, proxy, hosts file, firewall, and remote access, then reports only what changed to your IDS lead.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "z2NwNu1KuAfWMIXmGc2v9",
+    "url": "https://x.ai/bot/z2NwNu1KuAfWMIXmGc2v9",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

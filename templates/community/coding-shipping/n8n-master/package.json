@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-n8n-master",
+  "version": "1.0.8",
+  "private": true,
+  "description": "https://github.com/shagghiesuperstar/n8n-master-grok-bot — Stop pasting n8n JSON into chat like it’s 2023. n8n Master turns a Grok Bot into a live control plane for YOUR instance — 31 skills, search workflows, run a canary, pull official docs, build the next automation — over HTTPS MCP, secrets nev…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zvqbrq6yn68ijheprz0lu",
+    "url": "https://x.ai/bot/zvqbrq6yn68ijheprz0lu",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Shagghie Superstar",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-second-look",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Gives suspended GitHub accounts a fair second look: checks repos against GitHub's terms, quotes any breach with evidence, and drafts the email, so a human reviewer can reinstate or uphold.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1xkIClLvscskj-Q4LsQIy",
+    "url": "https://x.ai/bot/1xkIClLvscskj-Q4LsQIy",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Nomis",
+    "activeVersion": 1,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

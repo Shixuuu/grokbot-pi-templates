@@ -1,0 +1,3 @@
+# Routine "Daily Grok Build self-improve" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+43 8 * * 1-5 cd /path/to/grok-build-ay2y4o && pi -p "/daily-grok-build-self-improve"

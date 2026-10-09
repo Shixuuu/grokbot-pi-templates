@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ask-avery",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Ask Avery is an ask-the-expert orchestrator for engineering teams. It runs Consultant or Reviewer consultations by matching the screening corpus to domain experts, dispatching them in parallel, and returning one synthesized answer — it advises, it does not implement.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zLVAUrY3p1C7PIx0aMoeR",
+    "url": "https://x.ai/bot/zLVAUrY3p1C7PIx0aMoeR",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Andreas Gerlach",
+    "creatorHandle": "appelgriebsch",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

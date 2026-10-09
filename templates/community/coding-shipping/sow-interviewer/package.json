@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sow-interviewer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Interview a client to draft a Statement of Work outline — draft-only packet in this chat; never emails or sends the SOW without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4eBChIDapQamp6uQJwhAk",
+    "url": "https://x.ai/bot/4eBChIDapQamp6uQJwhAk",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Mike Mosley",
+    "creatorHandle": "Mike",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

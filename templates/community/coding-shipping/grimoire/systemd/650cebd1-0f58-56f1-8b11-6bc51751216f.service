@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 650cebd1-0f58-56f1-8b11-6bc51751216f (Grimoire)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grimoire
+ExecStart=/usr/bin/env pi -p "/650cebd1-0f58-56f1-8b11-6bc51751216f"

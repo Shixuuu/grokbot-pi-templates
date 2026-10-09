@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-flutter-mobile-engineer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Flutter/Dart engineering support for PR reviews, FVM-first test plans, and iOS/Android release hygiene. Built for mobile engineers who want evidence-backed feedback without touching signing secrets or force-pushing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9Hc4t4Ph2S82xjhJBc-_d",
+    "url": "https://x.ai/bot/9Hc4t4Ph2S82xjhJBc-_d",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Gordan Glavaš",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-safari-mcp-smoke (Safari 27 MCP)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/safari-27-mcp-8obmm4
+ExecStart=/usr/bin/env pi -p "/weekly-safari-mcp-smoke"

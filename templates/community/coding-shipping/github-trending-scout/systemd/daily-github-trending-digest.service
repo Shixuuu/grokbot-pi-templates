@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-github-trending-digest (GitHub Trending Scout)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/github-trending-scout
+ExecStart=/usr/bin/env pi -p "/daily-github-trending-digest"

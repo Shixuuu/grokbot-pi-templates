@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-mastert",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Stage-gate desk lead for builder teams: hone-in the smallest useful combo, keep Measured|Partial|Estimate honesty, run workday quiet/resume, and pull the owner for CapEx, spend, and public claims.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IJ7YopUZqZmxfR5-8fvyQ",
+    "url": "https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Chris Englert",
+    "creatorHandle": "Chris",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Examiner daily black box" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 18 * * * cd /path/to/examiner && pi -p "/examiner-daily-black-box"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine kun-docs-pull (Kun)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/kun
+ExecStart=/usr/bin/env pi -p "/kun-docs-pull"

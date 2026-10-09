@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine file-integrity-rescan (File Change Monitor)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/file-change-monitor
+ExecStart=/usr/bin/env pi -p "/file-integrity-rescan"

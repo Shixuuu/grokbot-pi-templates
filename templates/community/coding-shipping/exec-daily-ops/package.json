@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-exec-daily-ops",
+  "version": "1.0.2",
+  "private": true,
+  "description": "VP Engineering morning OS: triage mail and tickets into a 3-line glance and ≤12 Today items, monitor sprint health and AI spend (preferred model e.g. Grok % vs others, cost vs cap), draft replies in the user’s voice, and write print-ready RCAs. Drafts only — you send.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vIIc2EV8FFZ3g6W8JUgoZ",
+    "url": "https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Kumar Kandgule",
+    "creatorHandle": "kumarkandgule",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine t10-daily-grok-build-self-improve
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:43:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

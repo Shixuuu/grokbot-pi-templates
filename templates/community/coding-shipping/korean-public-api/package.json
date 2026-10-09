@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-korean-public-api",
+  "version": "1.0.1",
+  "private": true,
+  "description": "한국 공개·공공 API를 서비스 아이디어에 맞춰 1~3개 골라 주는 봇입니다. 이유·인증·공식 링크·대안까지 짧게 정리합니다.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ohL9kGur6IRBTCWqhxBWJ",
+    "url": "https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Moon Kim",
+    "creatorHandle": "reallygood83",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

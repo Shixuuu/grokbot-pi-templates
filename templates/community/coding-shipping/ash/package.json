@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-ash",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A systems lead for small teams that run their own servers. It watches self-hosted backends and risky pull requests, handles deploys and environment config, and keeps secrets out of chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Bt9VFHIMKmo5Psd039r_0",
+    "url": "https://x.ai/bot/Bt9VFHIMKmo5Psd039r_0",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Will Killebrew",
+    "creatorHandle": "willebrew",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

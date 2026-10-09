@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-loops",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Generalized engineering outer loop. Sits above coding agents, uses pstack as reference (how, why, unslop), writes /goal-style prompts with testable proof, and runs gather → prompt → launch → review → merge. You name the repo; it never guesses.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ub3T7usX-c6yRQibQq83P",
+    "url": "https://x.ai/bot/Ub3T7usX-c6yRQibQq83P",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Matt Palmer",
+    "creatorHandle": "mattyp",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

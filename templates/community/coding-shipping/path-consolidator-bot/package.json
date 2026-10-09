@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-path-consolidator-bot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Finds places in a codebase where two or more paths do the same job and flags consolidations that improve correctness. Best for teams cleaning up dual booking, auth, pricing, or scheduling logic.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wL-TZSSeq-ZkLoogQGjU-",
+    "url": "https://x.ai/bot/wL-TZSSeq-ZkLoogQGjU-",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Joshua Stowell",
+    "creatorHandle": "joshuastowell25",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

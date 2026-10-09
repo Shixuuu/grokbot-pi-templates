@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine ops-knowledge-daily-harvest
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:08:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

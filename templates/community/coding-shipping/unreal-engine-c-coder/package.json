@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unreal-engine-c-coder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Writes, fixes and reviews Unreal Engine C++ gameplay code (characters, weapons, AI, inventory, UI) directly in your project, and walks you through the editor-side steps. For solo devs and small teams building in Unreal.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "k0jvhLXGv5AAjh6ZxfAAd",
+    "url": "https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Binxius",
+    "creatorHandle": "binxdonald",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

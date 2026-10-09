@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-orchard-sensors",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Monitors SenseCAP soil moisture and air temperature for an orchard, with scheduled digests and callouts when readings look off.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AXez4BKs4EM9RH9il-XEv",
+    "url": "https://x.ai/bot/AXez4BKs4EM9RH9il-XEv",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "BHamilton",
+    "creatorHandle": "BHamilt94615115",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

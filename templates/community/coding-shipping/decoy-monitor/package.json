@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-decoy-monitor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Plants harmless, owner-approved decoy files and canary tokens on your PC and alerts your IDS lead the moment anything touches them. Built for a host intrusion-detection bot team.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mgWu-HRKIWnUjI5B_TKRh",
+    "url": "https://x.ai/bot/mgWu-HRKIWnUjI5B_TKRh",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

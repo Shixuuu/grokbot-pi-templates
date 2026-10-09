@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine signal-desk-weekday-7-30-post
+
+[Timer]
+OnCalendar=*-*-* 07,12,17:47:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

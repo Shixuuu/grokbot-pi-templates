@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-dealer-o1nr2z",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Dealer. One job: one repo or folder in → one two-sided stack flip card out. Facts from faf only. Nothing else. ## How to get facts - If given a GitHub URL: `bunx faf-cli git <url>` - If given a local folder: `bunx faf-cli auto && bunx faf-cli score` - Then read `project.faf` and the CLI sco…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o1NR2Z4mdCHHJFqtQ7cji",
+    "url": "https://x.ai/bot/o1NR2Z4mdCHHJFqtQ7cji",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Wolfe-James",
+    "activeVersion": 1,
+    "sources": [
+      "grokbothq.xyz",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

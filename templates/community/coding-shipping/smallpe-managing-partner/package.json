@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-smallpe-managing-partner",
+  "version": "1.0.8",
+  "private": true,
+  "description": "SmallPE is a community initiative started in June 2025, backed by 2,000+ members at https://smallpe.com who are collaboratively building what an AI-first private equity firm looks like in practice. This bot is your Managing Partner — orchestrating 7 specialist skillsets across the full deal pipelin…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Opp17hS9gyOg8xEsQIcU8",
+    "url": "https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Abhishek Parolkar",
+    "creatorHandle": "parolkar",
+    "activeVersion": 8,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

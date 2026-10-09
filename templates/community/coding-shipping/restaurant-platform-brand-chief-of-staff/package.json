@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-restaurant-platform-brand-chief-of-staff",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Chief of Staff for someone who runs a multi-site restaurant social platform, grows a jewelry brand (web + marketing), and keeps home plus a new puppy on routines — drafts first, lanes never mix.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DcTAFQXBoZfJs0lAVdFGZ",
+    "url": "https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Lina",
+    "creatorHandle": "Lina",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-hopper",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Funnel.io specialist: sources, custom dims/metrics via the fields API, explorers, dashboard XHR maps, and BigQuery raw exports for client onboard. Creates and saves only — you enable production runs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_zMsp35NS2zl-Kp1uIegB",
+    "url": "https://x.ai/bot/_zMsp35NS2zl-Kp1uIegB",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Zach",
+    "creatorHandle": "deaguiarza",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

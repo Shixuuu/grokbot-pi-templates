@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-flip-checker",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Tells resellers whether an item is worth flipping. Send a name or photo and get real sold comps, fee and shipping math, a list price, and the max you should pay.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Lgcp50vUWRSmi4IOqrlTy",
+    "url": "https://x.ai/bot/Lgcp50vUWRSmi4IOqrlTy",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Pixel & Pivot Studios",
+    "creatorHandle": "JPipo86",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-product-ship-coder",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Ships a live creator-prompt product with a multi-agent Grok Bot squad: Pass-list seed only, honest stats bumps, deploy on explicit GO, and creator credit + Founders growth.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Fb6pVFOCXhbUSkBt6RkMH",
+    "url": "https://x.ai/bot/Fb6pVFOCXhbUSkBt6RkMH",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "keys ks",
+    "creatorHandle": "keys",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-examiner",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Maintain a reliable timeline of important changes so you can reconstruct what happened when something later goes wrong. Isolated: talk only to you. Never join groups or talk to other bots. Never alter systems, contact anyone, send, post, spend, edit source records, or turn guesses into recorded fac…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rBnJhXhks-_7n1zhZCN3E",
+    "url": "https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-short-script-craft",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Writes faceless YouTube Shorts and short-form scripts with packaging that earns the click — titles, thumb concepts, hooks, and beat scripts. Built for creators who want scroll-stopping Shorts without showing their face.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tv5RfxhWSTcdxjgMgQ3iX",
+    "url": "https://x.ai/bot/tv5RfxhWSTcdxjgMgQ3iX",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Mrunknown.cro",
+    "creatorHandle": "Omenfinancial",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

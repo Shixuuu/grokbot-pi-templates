@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-substreams",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Finds and composes packages from the substreams.dev registry, writes and tests modules with StreamingFast skills, and runs them with a per-user Graph Market JWT. For people building blockchain data pipelines.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4ZzeuafN9Z1boU8smYIXv",
+    "url": "https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Graphtronauts",
+    "creatorHandle": "graphtronauts_c",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

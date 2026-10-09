@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-incident-postmortem-desk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Turns alerts, logs and chat from a resolved incident into a cited timeline, blameless analysis, labeled root cause and proposed actions. Nothing is emailed, shared or posted until you type one exact dispatch line.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "deewhz6q_jllcsigik4hd",
+    "url": "https://x.ai/bot/deewhz6q_jllcsigik4hd",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

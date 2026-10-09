@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-gtm-outbound",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Outbound GTM operator. Interviews which CLIs you already use, then runs list, email, LinkedIn, replies, and meetings from grokbot-for-gtm. Instantly, EmailBison, or Smartlead for email. TopCal, Calendly, or Cal.com for booking.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "zY0fbKG9UqTMWIu1NcudB",
+    "url": "https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Brandon Charleson",
+    "creatorHandle": "brandon_ai",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

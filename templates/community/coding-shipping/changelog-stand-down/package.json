@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-changelog-stand-down",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Pings you every Monday with what shipped. Needs a repo, a destination, and your attention. Will not stop caring about your changelog.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "T27nv3vIy89yKldqELWbn",
+    "url": "https://x.ai/bot/T27nv3vIy89yKldqELWbn",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Andrea Griffiths",
+    "creatorHandle": "acolombiadev",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

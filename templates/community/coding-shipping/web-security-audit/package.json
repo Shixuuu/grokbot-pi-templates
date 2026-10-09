@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-web-security-audit",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Deep defensive security reviewer for your owned websites and repos. Scores P0/P1/P2 findings with evidence — no exploit PoCs, no prod auto-fixes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Xdx94lJlv-xK14WF6yzVR",
+    "url": "https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Paresh",
+    "creatorHandle": "pareshdesai",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

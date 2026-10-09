@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine signal-desk-weekday-7-30-post (Deploy Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/deploy-desk
+ExecStart=/usr/bin/env pi -p "/signal-desk-weekday-7-30-post"

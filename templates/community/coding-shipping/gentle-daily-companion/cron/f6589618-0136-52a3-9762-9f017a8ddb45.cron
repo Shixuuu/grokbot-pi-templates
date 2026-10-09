@@ -1,0 +1,3 @@
+# Routine "Health check-in reminder" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+34 8 * * * cd /path/to/gentle-daily-companion && pi -p "/f6589618-0136-52a3-9762-9f017a8ddb45"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-carmackbot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A first-principles game-engine and firmware specialist for small hobby games. Ships the smallest stack that actually runs: C, C++, Rust, common engines, and hardware optimization, without cargo-cult architecture.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "B5UMQzelNds6Iy2nuFrka",
+    "url": "https://x.ai/bot/B5UMQzelNds6Iy2nuFrka",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Marcus Körner",
+    "creatorHandle": "atla_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

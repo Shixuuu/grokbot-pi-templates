@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-hunt-sweep-and-morning-summary
+
+[Timer]
+OnCalendar=*-*-* 07:14:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

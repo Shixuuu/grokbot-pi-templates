@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-hardening-commander",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Leads a team of five Grok Bot specialists that checks your GitHub repos for container and Kubernetes security problems, decides what gets fixed, and opens draft pull requests for High and Critical findings.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JBtMhvtYo2R1aky5s6xXK",
+    "url": "https://x.ai/bot/JBtMhvtYo2R1aky5s6xXK",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

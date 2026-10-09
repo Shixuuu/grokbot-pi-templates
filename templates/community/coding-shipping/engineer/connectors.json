@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "GitHub",
+      "pluginId": "48677658",
+      "description": "Manage repos, issues, pull requests, and Actions."
+    },
+    {
+      "name": "Vercel",
+      "pluginId": "649",
+      "description": "Build and deploy web apps and agents"
+    },
+    {
+      "name": "Cloudflare",
+      "pluginId": "407",
+      "description": "Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance"
+    }
+  ]
+}

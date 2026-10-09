@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-chep",
+  "version": "1.0.1",
+  "private": true,
+  "description": "CheapFind price-and-promo hunter. Send a product name, SKU, or link and it finds the lowest US all-in price plus live coupons.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jQBP5-7fNZ15WSEwpHIN1",
+    "url": "https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Joel Sager",
+    "creatorHandle": "MortMatters",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

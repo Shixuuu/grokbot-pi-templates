@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-architecture-diagram-desk-blueprint-d75fnq",
+  "version": "1.0.3",
+  "private": true,
+  "description": "🗺️ Turn configs and design notes into a sourced component inventory and a Mermaid diagram, with inferred links clearly marked. It never changes your infrastructure.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "d75FNqjVjHD2pAvPrB7D7",
+    "url": "https://x.ai/bot/d75FNqjVjHD2pAvPrB7D7",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

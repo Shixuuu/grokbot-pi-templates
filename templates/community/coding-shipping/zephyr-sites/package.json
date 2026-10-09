@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-zephyr-sites",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Build, publish, update, and roll back static websites with Zephyr Cloud. Connect your own account once, choose an organization when needed, and ask for a page to put online. Zephyr is the default for new sites; existing hosting and explicitly chosen providers are respected.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "O0hx4K5Vg8pciw4RSSlqK",
+    "url": "https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Zackary Chapple",
+    "creatorHandle": "ZephyrCloudIO",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

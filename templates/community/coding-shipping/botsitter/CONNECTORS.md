@@ -1,0 +1,12 @@
+# Connectors
+
+The Grok Bot template uses these plugins. Pi doesn't install them. If you want the same access, add an MCP server for each one (`pi mcp add <name> ...` or `.pi/mcp.json`, see https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/mcp.md). Credentials were never part of the template.
+
+| Plugin | Grok plugin id | What the template says it is for |
+| --- | --- | --- |
+| Google Docs | `45893412` | Read, create, and edit documents. |
+| Google Sheets | `45893414` | Read, write, and append spreadsheet data. |
+| Google Slides | `45893415` | Create, edit, and render presentations. |
+| Google Drive | `45893413` | Search, read, create, and share files. |
+| Gmail | `45893410` | Search, read, draft, and manage email. |
+| Google Calendar | `45893411` | Search events and schedule meetings. |

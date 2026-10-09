@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "flutter-mcp-toolkit",
+      "pluginId": "13272118",
+      "description": "Flutter MCP toolkit: inspect and drive debug apps (semantic snapshot, tap, hot-reload) and register custom MCP tools and resources at runtime from your Flutter app or game via mcp_toolkit — closed agent feedback loop."
+    }
+  ]
+}

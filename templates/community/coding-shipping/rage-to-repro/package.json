@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-rage-to-repro",
+  "version": "1.0.2",
+  "private": true,
+  "description": "For support, on-call, and PMs triaging angry bug reports: get a calm repro card (environment, steps, expected vs actual)—only steps that were stated or clearly implied; gaps marked missing.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OiWRa-EK50vFlpisHat_b",
+    "url": "https://x.ai/bot/OiWRa-EK50vFlpisHat_b",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

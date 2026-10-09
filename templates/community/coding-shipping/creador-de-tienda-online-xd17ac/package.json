@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-creador-de-tienda-online-xd17ac",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Te ayuda a crear tu tienda online desde cero: plataforma, productos, dominio, pagos, envíos y primeras ventas. En español y sin jerga.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XD17acz3k6BsZXRsiiJBT",
+    "url": "https://x.ai/bot/XD17acz3k6BsZXRsiiJBT",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Karina Geigner",
+    "activeVersion": 3,
+    "sources": [
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

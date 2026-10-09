@@ -1,0 +1,10 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "AgentStack — Backend, Hosting & AI MCP",
+      "pluginId": "53209321",
+      "description": "One MCP tool (agentstack.execute) for the full AgentStack catalog — hosting (/s/), storage, 8DNA, logic, buffs, payments, agents fleet, RAG, messenger, integrations. Live capabilities from GET /mcp/actions. OAuth Device Code install; rules, skills, commands, hooks, and agents route AI to the platform instead of custom backend glue."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-llm-routing-expert",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Picks the cheapest model that can actually finish the job, and fails over when a provider dies instead of burning a frontier model. For teams shipping LLM apps who want free-tier pipelines, cost-aware routing, and honest fallbacks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "f9_-DaKWMrk3zO_uS-E_5",
+    "url": "https://x.ai/bot/f9_-DaKWMrk3zO_uS-E_5",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ashish P",
+    "activeVersion": 1,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

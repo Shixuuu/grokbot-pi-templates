@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-qa",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Live production QA. One job: recert live as a real user after a ship, then file unique bugs. Evidence-first screenshots and URLs; no standing routines; never write or debug product code.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WbSwyVYZIDpuebmfBW45L",
+    "url": "https://x.ai/bot/WbSwyVYZIDpuebmfBW45L",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "duyet le",
+    "activeVersion": 1,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

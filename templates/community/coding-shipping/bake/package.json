@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-bake",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Founding engineer for bot-native products — ships landers and core loops fast, with verification (screenshots + working URLs).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Nc87ABvRICHGiVMlhQD4X",
+    "url": "https://x.ai/bot/Nc87ABvRICHGiVMlhQD4X",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jonathan Kurniawan",
+    "activeVersion": 1,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

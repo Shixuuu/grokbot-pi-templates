@@ -1,0 +1,3 @@
+# Routine "週次ディスク点検" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 9 * * 1 cd /path/to/dr-disk-clean && pi -p "/automation-1788775626444"

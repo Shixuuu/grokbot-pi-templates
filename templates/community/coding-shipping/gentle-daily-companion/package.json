@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gentle-daily-companion",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A soft, calm daily companion that sends weather, a vocal warm-up, a tiny language bite with a kindness reminder, a health check-in, and a heads-up before tomorrow's events. For anyone who wants small, warm nudges through the day.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NuFI0dF9FgvO8FfMPHKzx",
+    "url": "https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "𝕏",
+    "creatorHandle": "XAmandaMoore",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

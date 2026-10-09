@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-bot-builder",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Want to build an effective Grok bot? Grok Bot Builder walks you from the job it should hold to the first task you give it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ivmB2e0MSDspxlI-oHf-2",
+    "url": "https://x.ai/bot/ivmB2e0MSDspxlI-oHf-2",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "dcbk2la",
+    "creatorHandle": "DCBK2LA",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

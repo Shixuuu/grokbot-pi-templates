@@ -1,0 +1,3 @@
+# Routine "Weekly persistence re-scan" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+39 9 * * 2 cd /path/to/startup-monitor && pi -p "/weekly-persistence-re-scan"

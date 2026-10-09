@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekday-access-edge-quiet-audit
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 02:48:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

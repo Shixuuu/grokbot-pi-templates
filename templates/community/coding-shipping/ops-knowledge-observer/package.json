@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ops-knowledge-observer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Observe-only company brain for a multi-bot ops fleet. After import, a setup questionnaire maps owner, EDI/TMS sources, and peer specialists; then it harvests durable facts into a shared Drive workbook via ingest CSVs — never sends mail or writes the TMS.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CIgxhKdiPj7KflehWkaEr",
+    "url": "https://x.ai/bot/CIgxhKdiPj7KflehWkaEr",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Stephen Ruhe",
+    "creatorHandle": "StephenRuhe",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

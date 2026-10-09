@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-case",
+  "version": "1.0.1",
+  "private": true,
+  "description": "CASE is a build-challenge bot. Quiet, precise pressure-testing of implementations and architecture from the artifact in front of you — Cloud Agent–style coding pushback when useful, no local CLI ownership.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QnnJBu_7kZzuaR3AP1mFv",
+    "url": "https://x.ai/bot/QnnJBu_7kZzuaR3AP1mFv",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jono Chowdhury",
+    "creatorHandle": "ibuildthings",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

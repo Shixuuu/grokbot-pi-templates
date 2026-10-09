@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-fleet-hygiene (Agent Smith)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/agent-smith
+ExecStart=/usr/bin/env pi -p "/daily-fleet-hygiene"

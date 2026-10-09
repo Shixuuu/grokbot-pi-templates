@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ops-knowledge-daily-harvest (Ops Knowledge Observer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ops-knowledge-observer
+ExecStart=/usr/bin/env pi -p "/ops-knowledge-daily-harvest"

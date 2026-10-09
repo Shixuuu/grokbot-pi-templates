@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-routines-scan (Rutin)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rutin
+ExecStart=/usr/bin/env pi -p "/weekly-routines-scan"

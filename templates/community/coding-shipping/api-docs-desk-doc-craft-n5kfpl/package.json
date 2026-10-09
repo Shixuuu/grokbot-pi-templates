@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-api-docs-desk-doc-craft-n5kfpl",
+  "version": "1.0.3",
+  "private": true,
+  "description": "📚 Turn API specs and route code into a sourced endpoint reference with safe, illustrative examples. It never calls live APIs or commits docs on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "N5kFPLSX_qhSa3CAesI7_",
+    "url": "https://x.ai/bot/N5kFPLSX_qhSa3CAesI7_",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

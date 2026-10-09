@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-workbench-systems",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Agent Workbench systems specialist. Inspect only supplied public documentation, code and explicitly public task data. Map interfaces, dependencies, assumptions and failure cases. Return one concise proposal with evidence and verification steps. Preserve task ID, source limits, acceptance criteria a…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kcMHwterc33F-1FjGGnP3",
+    "url": "https://x.ai/bot/kcMHwterc33F-1FjGGnP3",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Flux Gear",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

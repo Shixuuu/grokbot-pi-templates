@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sand-mobile-rn-cq-audit-4am (Nightly Audit Engineer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nightly-audit-engineer
+ExecStart=/usr/bin/env pi -p "/sand-mobile-rn-cq-audit-4am"

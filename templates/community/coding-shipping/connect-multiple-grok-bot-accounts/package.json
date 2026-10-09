@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-connect-multiple-grok-bot-accounts",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Run every Grok Bot seat under the same roof. Install, connect once, and work them all from one place.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0ajHw7Ghh8oWELkrhCwxL",
+    "url": "https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Paulo Gonzalez",
+    "creatorHandle": "pauloglez90",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

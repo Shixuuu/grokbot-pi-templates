@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine computer-red-watch (Pit Crew)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/pit-crew
+ExecStart=/usr/bin/env pi -p "/computer-red-watch"

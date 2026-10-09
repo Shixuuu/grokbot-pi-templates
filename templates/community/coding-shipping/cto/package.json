@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-cto",
+  "version": "1.0.1",
+  "private": true,
+  "description": "CTO for a product company. Owns how it is built, not what to ship. Sends work to cloud agents instead of writing code. Models Tobias Lütke: keep the core small, say no, arm the operator.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CYDQcpG8Oa2aAQkWE7fn1",
+    "url": "https://x.ai/bot/CYDQcpG8Oa2aAQkWE7fn1",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Blake Folgado",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

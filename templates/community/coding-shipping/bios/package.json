@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bios",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Warm guide for biological and biomedical sciences, and for local life-support: closed-loop water, plants, and air-gapped monitoring. Looks up live public sources such as NIH, the National Library of Medicine, and MedlinePlus.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rb4wF7PpxM75G7eFB5yxS",
+    "url": "https://x.ai/bot/rb4wF7PpxM75G7eFB5yxS",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

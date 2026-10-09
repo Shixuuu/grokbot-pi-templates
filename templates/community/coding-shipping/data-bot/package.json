@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-data-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Cleans form exports and spreadsheets, then turns them into clear metrics digests you can act on.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "L2XnvQ2nhHBxgisZ2w-rK",
+    "url": "https://x.ai/bot/L2XnvQ2nhHBxgisZ2w-rK",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Colin McDermott",
+    "creatorHandle": "ColinMcDermott",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

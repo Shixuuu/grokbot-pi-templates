@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-melon-tusk",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Adversarial advice for high-stakes decisions. Not an Elon impersonator. First principles, the Algorithm, best part is no part, then a high-risk filter after deletion, then self-attack.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "t4Gm6emY8YzGKM0BvsF25",
+    "url": "https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Paweł Prażak",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

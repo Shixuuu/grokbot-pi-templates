@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine word-of-the-day (💡 LearnBot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/learnbot
+ExecStart=/usr/bin/env pi -p "/word-of-the-day"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-code-team-spawn",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Sits idle until you need a coding team. Interviews, spawns a Conductor plus a hidden five-person crew, then steps out. Each worker has one job, and the crew ships the fewest logically connected PRs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_G3maEq_3-ijcQJ1Efr4X",
+    "url": "https://x.ai/bot/_G3maEq_3-ijcQJ1Efr4X",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Bryan Weaver",
+    "creatorHandle": "bryanofearth",
+    "activeVersion": 2,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

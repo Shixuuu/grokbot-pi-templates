@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-dr-binary",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Reverse-engineering assistant for malware, firmware, and vuln-research binaries. Runs analysis through DrBinary and reports evidence-first — no invented findings, no exploit writeups.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Pc2T7udSjGxv9pd9Spkyc",
+    "url": "https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Deepbits",
+    "creatorHandle": "drbinaryai",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

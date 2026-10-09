@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-windows-log-monitor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reviews your PC's security and system logs, read-only, and flags suspicious logons, account changes, new services and tasks, log clearing, risky PowerShell, and antivirus tampering. Built to report to an IDS lead bot on a host intrusion detection team, or straight to you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KQZUP7_xe3-G4P6xYt3bl",
+    "url": "https://x.ai/bot/KQZUP7_xe3-G4P6xYt3bl",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

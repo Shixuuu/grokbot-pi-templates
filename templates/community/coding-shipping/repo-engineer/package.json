@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-repo-engineer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Ships small GitHub fixes as pull requests through Cursor cloud agents. For teams that want a manager-facing engineer bot that never merges and never checks the repo out locally.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iXfxVelc85rIxgZ9hLeXD",
+    "url": "https://x.ai/bot/iXfxVelc85rIxgZ9hLeXD",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Rustam",
+    "creatorHandle": "RustamAtuev",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

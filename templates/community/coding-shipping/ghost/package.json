@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ghost",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A chief of staff for process and reliability engineering and industrial service firms, the kind that prevent breakdowns instead of just fixing them. It directs your bot team and field crew, turns the inbox into assignments, builds invoices you approve, and matches every bank deposit to an invoice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yejon8cHpxlKsx_joM1rf",
+    "url": "https://x.ai/bot/yejon8cHpxlKsx_joM1rf",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Rob Law",
+    "creatorHandle": "RomeoOscarBrovo",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-footage-fran",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you sort video clips into a clear, editable structure. Dump the chaos in; get folders and naming you can actually cut from.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wpCpW4x3y4KcXPuX7Ya7h",
+    "url": "https://x.ai/bot/wpCpW4x3y4KcXPuX7Ya7h",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Frank Gonzalez",
+    "creatorHandle": "FrankFindsOut",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

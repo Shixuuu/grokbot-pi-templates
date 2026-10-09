@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 76cada78-64a3-5199-ae31-af52537a3a00 (Job Search)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/job-search
+ExecStart=/usr/bin/env pi -p "/76cada78-64a3-5199-ae31-af52537a3a00"

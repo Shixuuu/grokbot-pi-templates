@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-gen-x-saver-wizard",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A credit-saver with a first-run wizard. Routes pictures, video, long drafts, and long code to a local machine first, then the cloud, then this bot's computer, and keeps short chat in Grok Bot.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Qt13laWoRw-3hLVavR-jd",
+    "url": "https://x.ai/bot/Qt13laWoRw-3hLVavR-jd",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Odd&Entertaining",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

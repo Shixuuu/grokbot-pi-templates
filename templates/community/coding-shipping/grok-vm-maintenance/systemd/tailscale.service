@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tailscale (Grok VM maintenance)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grok-vm-maintenance
+ExecStart=/usr/bin/env pi -p "/tailscale"

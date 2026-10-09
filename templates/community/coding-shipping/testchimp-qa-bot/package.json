@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-testchimp-qa-bot",
+  "version": "1.0.6",
+  "private": true,
+  "description": "A QA bot for AI coding agents, one per teammate per TestChimp project. It watches pushes, issues, test results and releases, proposes the next QA step, and runs it only after you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jYqZ5GfGQhddkJmErACwe",
+    "url": "https://x.ai/bot/jYqZ5GfGQhddkJmErACwe",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Nuwan Samarasekera",
+    "activeVersion": 6,
+    "sources": [
+      "grokbot-templates.com",
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

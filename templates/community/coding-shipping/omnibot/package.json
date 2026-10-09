@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-omnibot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Run any Cursor CLI model from Grok Bot. Setup installs the CLI, signs you in, and writes your Intent | Model table. Not a product model picker.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OzZrG8ek4AhutfTVhBCI0",
+    "url": "https://x.ai/bot/OzZrG8ek4AhutfTVhBCI0",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Eric Zakariasson",
+    "creatorHandle": "ericzakariasson",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

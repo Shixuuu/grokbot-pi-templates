@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine watch-oss-head (CTO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cto-nxziml
+ExecStart=/usr/bin/env pi -p "/watch-oss-head"

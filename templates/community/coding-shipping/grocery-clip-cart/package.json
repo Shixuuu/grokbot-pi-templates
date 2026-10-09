@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grocery-clip-cart",
+  "version": "1.0.15",
+  "private": true,
+  "description": "Clips your grocery coupons, builds the weekly list, and stages pickup. You approve before anything gets ordered. Works with any grocery chain you set up.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0JEs5P-XFbJw6fSsticl8",
+    "url": "https://x.ai/bot/0JEs5P-XFbJw6fSsticl8",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "BC",
+    "creatorHandle": "crofty_x",
+    "activeVersion": 15,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

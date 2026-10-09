@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-alchemist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs experiments on code, sites, APIs, and local tools until there is a working method. For people stuck on undocumented how-do-I-even problems, not for shipping products.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JjO20_oGKrE_Ys5Uz4efj",
+    "url": "https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Aman",
+    "creatorHandle": "2onism",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

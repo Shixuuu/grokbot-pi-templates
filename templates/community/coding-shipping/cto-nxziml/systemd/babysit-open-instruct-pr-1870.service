@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine babysit-open-instruct-pr-1870 (CTO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cto-nxziml
+ExecStart=/usr/bin/env pi -p "/babysit-open-instruct-pr-1870"

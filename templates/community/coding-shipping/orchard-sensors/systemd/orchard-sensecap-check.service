@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine orchard-sensecap-check (Orchard Sensors)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/orchard-sensors
+ExecStart=/usr/bin/env pi -p "/orchard-sensecap-check"

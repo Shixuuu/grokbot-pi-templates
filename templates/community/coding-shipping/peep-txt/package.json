@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-peep-txt",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Peeps one public website the way AI crawlers do, then drafts llms.txt, robots additions, schema notes, and five patches. Does not publish.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ezu8nymxzin_5vjd2xryz",
+    "url": "https://x.ai/bot/ezu8nymxzin_5vjd2xryz",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Eric Mansur",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

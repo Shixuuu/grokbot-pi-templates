@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-ballot-digest-87505 (GrokTheVote)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grokthevote
+ExecStart=/usr/bin/env pi -p "/daily-ballot-digest-87505"

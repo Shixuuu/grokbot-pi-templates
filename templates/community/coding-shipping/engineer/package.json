@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-engineer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Outer-loop engineering manager: break work down, hand it to a build agent, prove it, bring back the receipt. Draft-only — never commit, push, merge, or deploy without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Ezo9lsvBng4uFluXRvqkv",
+    "url": "https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Andrew Kittridge",
+    "creatorHandle": "Andrew Kittridge",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

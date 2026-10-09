@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-search-console-check (Website Publisher)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/website-publisher
+ExecStart=/usr/bin/env pi -p "/weekly-search-console-check"

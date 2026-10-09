@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-keel",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Stops a working bot from grading its own homework. You write a frozen charter; a Worker does the job, a separate Governor audits each run against the charter, and a Curator keeps memory typed and dated. Nothing gets promoted without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ihO8Wlq7PACw6fUF-AhGq",
+    "url": "https://x.ai/bot/ihO8Wlq7PACw6fUF-AhGq",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

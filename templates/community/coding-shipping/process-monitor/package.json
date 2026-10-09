@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-process-monitor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches the running processes on your PC for signs of intrusion, like fake system processes, hidden PowerShell, and programs running from Temp or Downloads. Read-only, and it reports findings to your IDS lead in an easy-to-scan format.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9UK3ux3eODqZJL-Rm1lqq",
+    "url": "https://x.ai/bot/9UK3ux3eODqZJL-Rm1lqq",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

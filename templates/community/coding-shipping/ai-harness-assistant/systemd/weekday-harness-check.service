@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-harness-check (AI Harness Assistant)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai-harness-assistant
+ExecStart=/usr/bin/env pi -p "/weekday-harness-check"

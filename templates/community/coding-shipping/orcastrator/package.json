@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-orcastrator",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Burns a user-given GitHub issue list or map with Orca worktrees on a registered machine — one worktree per ticket, about 3–4 in flight, default agent Devin. Asks merge policy once per queue; stays quiet until the queue empties or hits a human gate.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dNB0Z_qCdINGUH833OoDd",
+    "url": "https://x.ai/bot/dNB0Z_qCdINGUH833OoDd",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Frankie Ramirez",
+    "creatorHandle": "frankieramirez",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

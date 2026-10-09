@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine cf-surface-refresh (Cloudflare)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cloudflare
+ExecStart=/usr/bin/env pi -p "/cf-surface-refresh"

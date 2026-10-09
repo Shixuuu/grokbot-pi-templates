@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine examiner-daily-black-box (Examiner)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/examiner
+ExecStart=/usr/bin/env pi -p "/examiner-daily-black-box"

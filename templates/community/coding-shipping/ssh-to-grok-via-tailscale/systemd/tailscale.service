@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine tailscale (SSH to Grok via Tailscale)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ssh-to-grok-via-tailscale
+ExecStart=/usr/bin/env pi -p "/tailscale"

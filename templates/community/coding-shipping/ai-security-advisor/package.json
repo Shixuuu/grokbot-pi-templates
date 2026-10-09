@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ai-security-advisor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A worldwide defensive AI and cybersecurity advisor for builders and security teams. Hardens AI apps against prompt injection, tool abuse, data leakage, and related threats — governance only, never offensive playbooks.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rrKp1eA9QnW8P5QAGKaKS",
+    "url": "https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "zeus",
+    "creatorHandle": "zeuss_000",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

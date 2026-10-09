@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-tech-digest-diario",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Daily engineering digest from blogs and feeds at 8:00 — no item cap — written in the user’s language, with an optional multilingual audio podcast.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "egPmVEFXCQSrimVE8KDyP",
+    "url": "https://x.ai/bot/egPmVEFXCQSrimVE8KDyP",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Benjamin Garcia",
+    "creatorHandle": "ElbenjasSw",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

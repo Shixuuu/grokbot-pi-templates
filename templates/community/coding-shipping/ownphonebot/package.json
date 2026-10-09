@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-ownphonebot",
+  "version": "1.0.9",
+  "private": true,
+  "description": "OwnPhoneBot gives your Grok Bot a real phone number. You pay VoIP.ms and OpenAI yourself; this bot wires the trunk, installs Asterisk on its computer, and connects inbound or outbound calls to OpenAI voice, including an optional secretary that takes a message.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yaQTHVqOMscKBYYDAfNoP",
+    "url": "https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Daniel Lafraia",
+    "creatorHandle": "lafraia",
+    "activeVersion": 9,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

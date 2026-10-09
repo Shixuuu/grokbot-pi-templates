@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-growth-eng",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Builds the product changes registered growth experiments need, behind feature flags, as small reviewable PRs. Only takes work from Product Growth PM with an EXP-YYYY-NNN ID.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fC0XjRxxW3tQZi4KU8VB1",
+    "url": "https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jay Sahnan",
+    "creatorHandle": "JaySahnan",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

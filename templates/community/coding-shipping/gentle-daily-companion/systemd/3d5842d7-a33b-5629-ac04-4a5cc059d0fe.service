@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 3d5842d7-a33b-5629-ac04-4a5cc059d0fe (Gentle Daily Companion)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/gentle-daily-companion
+ExecStart=/usr/bin/env pi -p "/3d5842d7-a33b-5629-ac04-4a5cc059d0fe"

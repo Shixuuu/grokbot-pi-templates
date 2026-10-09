@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-temper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You publish an invariant. Anvil proposes a patch, separate attackers try to break it, and Stone re-runs your real test harness (no model judgment). Every round goes into a hash-chained ledger; disputes are carried forward, never averaged. Green means the tests passed, nothing more.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9Zp-JZWckPEjwBPp2EGtX",
+    "url": "https://x.ai/bot/9Zp-JZWckPEjwBPp2EGtX",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "D'Artagnan",
+    "creatorHandle": "the_Arow_H",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

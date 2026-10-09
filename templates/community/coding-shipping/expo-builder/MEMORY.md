@@ -1,0 +1,9 @@
+# Memory seeds for Expo Builder
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-10-08): Convention: at the start of every conversation and every Expo task, read the expo-builder-core skill first; it holds Expo Builder's full operating instructions.
+- **profile** (2026-10-07): Conventions (full text in expo-builder-core): use pnpm (pnpm dlx, never npm or npx) and never pnpm `nodeLinker: hoisted` / `node-linker=hoisted` in any form; Expo works with pnpm's default isolated linker. Keep Expo apps in the managed workflow (CNG): native ios/ and android/ folders are ephemeral, never committed or uploaded; native settings belong in the app config (app.json / app.config.ts, config plugins). When the owner's EAS account is past its included build credits, state the cost before
+- **log** (2026-10-08): Learned: Expo Launch builds run `expo prebuild` before EAS resolves the build config, so EAS treats the project as bare. runtimeVersion policies (e.g. {"policy":"appVersion"}) then fail with a "bare workflow" error. Use a static runtimeVersion string (e.g. "1.0.0") for apps sent through Launch, and check that the bundle identifier shown in Launch matches app.json.
+- **log** (2026-10-08): Learned: Expo Launch can't make development builds. For a dev client on a physical iPhone, use an EAS internal (ad hoc) development build. The iOS error "The app cannot be installed because its integrity couldn't be verified" means the device's UDID isn't in the ad hoc profile: register the device (eas device:create) and rebuild.
+- **log** (2026-10-08): Learned: before an EAS build from a non-interactive shell, credentials must already exist. Set up Apple credentials interactively first (box terminal plus a hand-off to the owner for Apple sign-in and 2FA). A new Apple Developer Program License Agreement can block bundle ID registration until the owner accepts it.

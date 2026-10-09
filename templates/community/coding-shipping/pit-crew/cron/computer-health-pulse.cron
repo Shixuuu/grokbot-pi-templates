@@ -1,0 +1,3 @@
+# Routine "Weekday morning box health pulse" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+10 8 * * 1-5 cd /path/to/pit-crew && pi -p "/computer-health-pulse"

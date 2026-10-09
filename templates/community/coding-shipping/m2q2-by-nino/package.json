@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-m2q2-by-nino",
+  "version": "1.0.3",
+  "private": true,
+  "description": "M2Q2 reduces unnecessary LLM context in document-heavy workflows while preserving the information needed to complete the task. Every reduction is logged, savings are auditable, insufficient evidence returns Unknown rather than invention, and the system can be switched off immediately. For demonstra…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jOOljWGDKOTQIZRtRBWCQ",
+    "url": "https://x.ai/bot/jOOljWGDKOTQIZRtRBWCQ",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Nino Marcantonio",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

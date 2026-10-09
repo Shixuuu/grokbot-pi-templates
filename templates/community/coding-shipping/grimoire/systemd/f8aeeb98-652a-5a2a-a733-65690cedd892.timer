@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine f8aeeb98-652a-5a2a-a733-65690cedd892
+
+[Timer]
+# Template has no machine-readable schedule. Described cadence: One-shot ~30 days after import (weekday morning): ring the Tithe Bell (fuller value ask), then delete this routine.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

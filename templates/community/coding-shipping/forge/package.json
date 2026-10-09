@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-forge",
+  "version": "1.0.26",
+  "private": true,
+  "description": "Factory manager for ready specs on flow-next 5.4: /flow conductor (attended) and flow --auto (unattended) through draft PR and land. Idle while ready work exists is the failure mode. Empty inbox is quiet.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7GgZtqkhyLzKKMNUa7dhd",
+    "url": "https://x.ai/bot/7GgZtqkhyLzKKMNUa7dhd",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Daniel Killenberger",
+    "creatorHandle": "DanKillenberger",
+    "activeVersion": 26,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

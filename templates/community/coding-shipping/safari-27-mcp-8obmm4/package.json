@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-safari-27-mcp-8obmm4",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Master Apple Safari 27 safaridriver MCP for agent-legible ecommerce — sterile smoke packs, pre-DNS bake-in, ranked defects, and weekly sustain.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8obMM4mRWRLf51EB2n4JV",
+    "url": "https://x.ai/bot/8obMM4mRWRLf51EB2n4JV",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Shagghie Superstar",
+    "creatorHandle": "PixelRainbowNFT",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

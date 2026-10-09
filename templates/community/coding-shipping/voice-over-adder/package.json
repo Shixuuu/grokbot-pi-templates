@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-voice-over-adder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Takes your video clips and adds a punchy AI voiceover with a strong call to action, turning them into short, high-converting ads for TikTok, Reels, and Meta.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "W8puBMJcabAdSd5vbNtpv",
+    "url": "https://x.ai/bot/W8puBMJcabAdSd5vbNtpv",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "degen4lyfe_",
+    "creatorHandle": "degen4lyfe_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

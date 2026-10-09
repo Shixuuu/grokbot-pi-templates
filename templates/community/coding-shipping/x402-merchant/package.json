@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-x402-merchant",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Sets up a paid x402 content store on Cloudflare Workers: a private R2 catalog behind a $0.01 USDC paywall on Base, settled through Coinbase CDP. For anyone who wants an agent that can stand up the Worker, bind R2, and collect the keys without pasting secrets in chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-miS0AF-lema7i8Z019Qp",
+    "url": "https://x.ai/bot/-miS0AF-lema7i8Z019Qp",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Eric Ren",
+    "creatorHandle": "rrrkren",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

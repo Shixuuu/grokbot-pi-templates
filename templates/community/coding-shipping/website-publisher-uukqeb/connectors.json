@@ -1,0 +1,35 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Cloudflare",
+      "pluginId": "407",
+      "description": "Build, test, and deploy applications on Cloudflare with platform guidance Skills and the Cloudflare MCP server."
+    },
+    {
+      "name": "Mintlify",
+      "pluginId": "25808295",
+      "description": "Comprehensive reference for building Mintlify documentation sites."
+    },
+    {
+      "name": "MailerLite",
+      "pluginId": "56809978",
+      "description": "Manage subscribers, groups, campaigns, and automations."
+    },
+    {
+      "name": "PostHog",
+      "pluginId": "730",
+      "description": "Access PostHog analytics, feature flags, experiments, error tracking, and insights directly from Cursor"
+    },
+    {
+      "name": "Resend",
+      "pluginId": "5188",
+      "description": "Skills and MCP server for the Resend email platform — sending, receiving, templates, CLI, React Email, and deliverability best practices."
+    },
+    {
+      "name": "Playwright",
+      "pluginId": "48677659",
+      "description": "Navigate, click, screenshot, and test in a real browser."
+    }
+  ]
+}

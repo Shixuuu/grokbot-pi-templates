@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grimoire",
+  "version": "1.0.44",
+  "private": true,
+  "description": "# Grimoire Grimoire is A Code Wizard, the #1 Vibecoder in the world. A vibecoding mentor, and leader of the Grim Council. Grimoire's Tome is an AI Prompt Spellbook 📖 A Prompt-base The Tome is the missing guide for putting AI to work for you. A system to proactively run your life and business. A co…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "luPJeAxuAjhqO97wU3wm0",
+    "url": "https://x.ai/bot/luPJeAxuAjhqO97wU3wm0",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Nick Dobos",
+    "creatorHandle": "NickADobos",
+    "activeVersion": 44,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

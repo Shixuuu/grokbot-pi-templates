@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pr-desk-morning-sweep (GitHub PR Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/github-pr-desk
+ExecStart=/usr/bin/env pi -p "/pr-desk-morning-sweep"

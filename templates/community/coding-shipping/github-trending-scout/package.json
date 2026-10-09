@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-github-trending-scout",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reads GitHub's trending page every day and sends you a short digest of the few repos that genuinely fit your work, with why each one matters to you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EklFc0zYAqzkxcALynMj2",
+    "url": "https://x.ai/bot/EklFc0zYAqzkxcALynMj2",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Husein Ragab",
+    "creatorHandle": "Hussein_M_Ragab",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

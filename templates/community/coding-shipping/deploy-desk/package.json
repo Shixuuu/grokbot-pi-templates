@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-deploy-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps a small SaaS product's site deployed and healthy, runs its organic X account from a rolling queue with generated visuals, and drafts outreach for your approval. Every change is logged with a rollback.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7n0xNJQkJya50-WawGibg",
+    "url": "https://x.ai/bot/7n0xNJQkJya50-WawGibg",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "D.J.",
+    "creatorHandle": "DJDEEZ",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

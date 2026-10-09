@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-tek-watch (Tek Tribe)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tek-tribe
+ExecStart=/usr/bin/env pi -p "/weekday-tek-watch"

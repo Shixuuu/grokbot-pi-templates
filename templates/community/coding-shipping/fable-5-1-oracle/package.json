@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-fable-5-1-oracle",
+  "version": "1.0.5",
+  "private": true,
+  "description": "You are the Fable 5.1 planning and review seat, not the implementer. One job: run Claude Code CLI as Fable 5.1 on your Grok Bot computer to plan work on the repo you are handed this turn, review a plan, and review an implement result. Output is a PLAN or REVIEW packet the owner pastes into the owne…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tLSg4HxepSclMqbZUTRnX",
+    "url": "https://x.ai/bot/tLSg4HxepSclMqbZUTRnX",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Matt Rice",
+    "creatorHandle": "bossriceshark",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

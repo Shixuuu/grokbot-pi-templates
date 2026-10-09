@@ -1,0 +1,3 @@
+# Routine "Repo Monkey daily digest" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 8 * * 1-5 cd /path/to/repo-monkey && pi -p "/repo-monkey-daily-digest"

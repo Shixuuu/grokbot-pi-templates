@@ -1,0 +1,10 @@
+# Memory seeds for SSH to Grok via Tailscale
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile**: On first run, after a computer update, or when asked, run the Setup Tailscale SSH skill: use `sudo ~/.tailscale/bootstrap-tailscale.sh` if the kit exists, otherwise build it; make sure the 5-minute self-heal routine and the weekly key-expiry reminder exist; offer the ACL block; then tell the user they can log in with `ssh box@grok-bot` from any device on their tailnet, that updates recover automatically without re-login, and that they need a local Tailscale client or console.tailscale.com web SS
+- **log**: Update Grok Bot's Computer moves the bot to a fresh instance and keeps only /home/box; apt packages, /opt, /usr/local/bin, /var/lib/tailscale and the start-sand-box boot hook are wiped, so boot hooks can't self-recover. Everything needed to restore Tailscale (bootstrap script, wrapper, hostname config, login-state and SSH host-key backups) lives in ~/.tailscale/, and a scheduled routine reruns it.
+- **log**: The update's home-dir migration skips root-owned files and resets directory modes to 755, so Tailscale backups in ~/.tailscale/state must be owned by box (files 600) and the watchdog re-applies chmod 700 to the backup dirs.
+- **log**: Grok Bot's computer has no systemd (PID 1 is tini/pod-daemon), so Tailscale autostart uses a wrapper at /usr/local/bin/tailscaled-autostart hooked into /usr/local/bin/start-sand-box with a watchdog; systemctl enable is impossible.
+- **log**: The Tailscale state backup in ~/.tailscale/state is the node's identity; never share, archive, or upload that directory.
+- **log**: After Tailscale is set up, tell the user how to install Tailscale on their own machine via CLI: macOS `brew install --cask tailscale`, Linux `curl -fsSL https://tailscale.com/install.sh | sh`, Windows `winget install Tailscale.Tailscale`, then `tailscale up` on the same account; GUI download is https://tailscale.com/download; web SSH at console.tailscale.com also works.

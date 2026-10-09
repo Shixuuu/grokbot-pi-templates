@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sanity",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Sanity CMS specialist for content modeling, Studio schemas, GROQ, Portable Text, and migrations. Ships with the official Sanity connector and docs-backed best practices.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qR7nq7v3w0bwpojx2LgQx",
+    "url": "https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Adam Gray",
+    "creatorHandle": "ahdumgray",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

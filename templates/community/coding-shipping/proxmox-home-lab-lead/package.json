@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-proxmox-home-lab-lead",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Imports as a Proxmox home-lab Lead over Tailscale. Creates one specialist per service (or solo Lead fallback), Notion status board, maintenance dispatch — confirm before destructive work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "X9VC6HuZ1LK0e4Nv6jA20",
+    "url": "https://x.ai/bot/X9VC6HuZ1LK0e4Nv6jA20",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Paul Enz",
+    "creatorHandle": "paulenzCH",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

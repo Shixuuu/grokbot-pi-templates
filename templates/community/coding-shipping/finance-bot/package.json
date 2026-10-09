@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-finance-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Read-only email scanner and append-only bookkeeper that logs expenses and revenue from a business mailbox into a Google Sheet ledger, with hard safety rails.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n-LVavRHTPJnFnBS50XTk",
+    "url": "https://x.ai/bot/n-LVavRHTPJnFnBS50XTk",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "John Boyle",
+    "creatorHandle": "John",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

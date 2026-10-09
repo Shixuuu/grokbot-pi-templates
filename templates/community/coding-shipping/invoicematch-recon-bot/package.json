@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-invoicematch-recon-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Accounts-receivable reconciliation for small businesses. Paste bank deposits and open invoices; get matches, exception flags, and a QuickBooks/Xero-ready CSV.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mK8oApOw3a0zG0m00Ec_h",
+    "url": "https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Robert Schiff",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

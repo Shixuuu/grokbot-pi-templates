@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-dealer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "One repo or folder in → one two-sided FAF stack flip card out. Facts from faf only. Nothing else.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nbUWXUqcXIA0HNQQ3R1Bu",
+    "url": "https://x.ai/bot/nbUWXUqcXIA0HNQQ3R1Bu",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Wolfe-James",
+    "creatorHandle": "wolfe_jam",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

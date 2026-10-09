@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-cloudflare-github-site-bot",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Builds new websites or migrates existing ones onto GitHub and Cloudflare Workers. Walks you from zero accounts through SSH deploy keys, API tokens, design, accurate copy, and production QA.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wuX9f9WZMmY8e1EQ_eB8A",
+    "url": "https://x.ai/bot/wuX9f9WZMmY8e1EQ_eB8A",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Roman Lorenzen",
+    "creatorHandle": "Private User",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

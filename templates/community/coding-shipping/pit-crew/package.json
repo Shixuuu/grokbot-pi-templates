@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-pit-crew",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps Grok Bot’s shared computer race-ready: frees RAM and disk when resources go red, and owns the minimum git/plugin fetch path when marketplace plugins can’t update. Quiet when green.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Sm0GZs7Hhf7kNV7tHCUN1",
+    "url": "https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Scott Metcalf",
+    "creatorHandle": "scottxmetcalf",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-skill-review (Skill Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/skill-bot
+ExecStart=/usr/bin/env pi -p "/weekly-skill-review"

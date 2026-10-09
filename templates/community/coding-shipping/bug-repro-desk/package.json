@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-bug-repro-desk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a ticket or screenshot into a staging repro pack another engineer can follow: exact steps, expected vs actual, environment, and evidence. Never production customer data, and never posts back without your yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2LwTK7DV2YkOEwg7T0R6n",
+    "url": "https://x.ai/bot/2LwTK7DV2YkOEwg7T0R6n",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Gordan Glavaš",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

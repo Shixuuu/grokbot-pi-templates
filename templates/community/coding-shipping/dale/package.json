@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dale",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A game builder that turns a one-line game idea into paste-ready Grok Build prompts: an opening build prompt, ordered refine prompts, and a playtest checklist, so you can get a playable game on grok.me.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "EEGUQoXtF1ViyFXzVrRnc",
+    "url": "https://x.ai/bot/EEGUQoXtF1ViyFXzVrRnc",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jim",
+    "creatorHandle": "Jim",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

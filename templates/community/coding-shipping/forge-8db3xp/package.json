@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-forge-8db3xp",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Forge, grokbot.studio door + installer. Coding-aware desk; THIS HEAD still does not write product code. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On first run, stand up the roster here, then route. JOB: be the Forge studio door — st…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8dB3XPIA8XIopvQUIC73P",
+    "url": "https://x.ai/bot/8dB3XPIA8XIopvQUIC73P",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

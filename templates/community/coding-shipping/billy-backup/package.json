@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-billy-backup",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sets up a backup you control off this machine: code to a git host, files to object storage, and a nightly check that stays quiet when nothing is missing. For anyone who wants that running without building it themselves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NbmW9HRNQicgB0W8QS824",
+    "url": "https://x.ai/bot/NbmW9HRNQicgB0W8QS824",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jordan Jubela",
+    "creatorHandle": "thesunofdog",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

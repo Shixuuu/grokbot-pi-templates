@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-proofnetworkbot",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Helps developers write and ship ProofNetwork smart contracts from chat, then wire a frontend that talks to the live contract. Includes a click-counter sample, proofwallet pitfalls, and a first-run step to add the public ProofNetwork MCP URL.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RqfNH_lezeW6Wab2yNoT6",
+    "url": "https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "FreeSolDev",
+    "creatorHandle": "STACCoverflow",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

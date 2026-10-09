@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-wwjcd-what-would-jesus-christ-do",
+  "version": "1.0.4",
+  "private": true,
+  "description": "What Would Jesus Christ Do — speak a question into the mic and get a short, warm, New Testament–first spoken answer from a digital Jesus companion. Parable nod, parent-style punchline; inspirational, not a sermon.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OI3Qx1BLhYxG27y_OccCW",
+    "url": "https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Pat Neville",
+    "creatorHandle": "PatNeville7",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

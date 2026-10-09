@@ -1,0 +1,30 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Notion",
+      "pluginId": "404",
+      "description": "Search Notion pages and databases, create and update records, and publish content to your workspace."
+    },
+    {
+      "name": "Wispr Flow",
+      "pluginId": "70335978",
+      "description": "Find meeting notes, transcripts, and calendar context from Wispr Flow."
+    },
+    {
+      "name": "Granola",
+      "pluginId": "5609",
+      "description": "Your meetings in your workflow. Granola gives Cursor access to what your team discussed, decided, and committed to."
+    },
+    {
+      "name": "Figma",
+      "pluginId": "657",
+      "description": "Turn designs into code, push UI back to Figma, and create Design, FigJam, and Slides files."
+    },
+    {
+      "name": "Linear",
+      "pluginId": "512",
+      "description": "The product development system for teams and agents. Manage issues, projects, documents, and everything else across your Linear workspace."
+    }
+  ]
+}

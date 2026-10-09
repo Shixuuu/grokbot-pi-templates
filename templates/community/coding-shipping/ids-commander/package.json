@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-ids-commander",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Leads a team of Grok Bot agents that watches your Windows PC for signs of intrusion. It combines what the read-only scanners find into one clear summary and applies a fix only after you approve it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OZ0yDXFEXa2543pqGmbhb",
+    "url": "https://x.ai/bot/OZ0yDXFEXa2543pqGmbhb",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

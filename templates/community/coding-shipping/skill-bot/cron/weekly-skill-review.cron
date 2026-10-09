@@ -1,0 +1,3 @@
+# Routine "Weekly skill review" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+37 9 * * 1 cd /path/to/skill-bot && pi -p "/weekly-skill-review"

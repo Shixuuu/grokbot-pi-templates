@@ -1,0 +1,3 @@
+# Routine "Evening weather" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+3 19 * * * cd /path/to/gentle-daily-companion && pi -p "/ef565b2f-e739-58f2-94aa-d797275a52c0"

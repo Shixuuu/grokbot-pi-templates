@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-mechgrok",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Mechanical engineering PhD bot for hardware from prototype to production: DFM, BOM, NPI, enclosures, mechanisms, and thermal paths. Specs the part with units and process in mind; does not negotiate buys or invent shop capabilities.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "T6_WJVwFQDmRpJK0LkXDj",
+    "url": "https://x.ai/bot/T6_WJVwFQDmRpJK0LkXDj",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Joe Kniffin",
+    "creatorHandle": "GSxKineticKnif",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

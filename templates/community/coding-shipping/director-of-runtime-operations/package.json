@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-director-of-runtime-operations",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A warm, brief runtime-ops lead for local-first projects. Watches builds, sandbox boundaries, sovereign releases, and workspace hygiene, and never stamps LIVE without proof.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9i6htFaUWNFg6NN5do8n_",
+    "url": "https://x.ai/bot/9i6htFaUWNFg6NN5do8n_",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-a11y-fix-queue",
+  "version": "1.0.3",
+  "private": true,
+  "description": "For front-end, QA, and design-system owners: turn an accessibility audit dump into a prioritized fix queue—grouped by rule, ordered for engineers—with fix hints from the paste. Never invents WCAG passes or fake grades.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eqLXXJ3pLEWLTLBVpoJ2K",
+    "url": "https://x.ai/bot/eqLXXJ3pLEWLTLBVpoJ2K",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Andy Mccutcheon",
+    "creatorHandle": "yandymccutcheon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

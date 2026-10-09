@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-bloks",
+  "version": "1.0.13",
+  "private": true,
+  "description": "Turns a project, hackathon, or client ask into a build-ready handoff. Guides through building blocks: Frame → Research → Scope → Brainstorm → Spec → Review → Handoff, with Notion as the home for your docs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "w4rvgudmoi8aeb0fz3pgg",
+    "url": "https://x.ai/bot/w4rvgudmoi8aeb0fz3pgg",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Nadine | HealthTech Designer & Developer",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

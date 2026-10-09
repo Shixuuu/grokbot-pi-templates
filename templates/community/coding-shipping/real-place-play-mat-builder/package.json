@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-real-place-play-mat-builder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Designs Hot Wheels–scale play mats of real places: accurate wireframes, azimuth guides, modular road/rail/river SVG parts, scavenger wildlife, and a path to print-on-demand art. For founders and makers building tourist/kids map products.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "M7lV0J3ZhSjdCv4Dhju91",
+    "url": "https://x.ai/bot/M7lV0J3ZhSjdCv4Dhju91",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Wyatt P",
+    "creatorHandle": "WyattPettis",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

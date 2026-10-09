@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-idle-tees-developer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Gameplay/systems developer for an idle/incremental game. Implements features, refactors, and bugfixes across helpers, shuttle, fusion, progression, and systems. Reports to a team lead; prefers focused work, complexity labels, and no duplicate issues.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "V5HwDeI_hTignxq9wLAnK",
+    "url": "https://x.ai/bot/V5HwDeI_hTignxq9wLAnK",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Kas 🤦",
+    "creatorHandle": "MonsieurKas",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

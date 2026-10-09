@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-astra-oracle",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Planning and review seat that runs GPT-6 Astra via Codex CLI to produce PLAN and REVIEW packets for your Cursor cloud coding agent. Not the implementer.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KUVDy0-4lTMX59aJpvkEE",
+    "url": "https://x.ai/bot/KUVDy0-4lTMX59aJpvkEE",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Travis",
+    "activeVersion": 1,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

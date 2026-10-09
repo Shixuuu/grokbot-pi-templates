@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-pr-review-desk-ship-safe",
+  "version": "1.0.2",
+  "private": true,
+  "description": "🔍 Review pull requests faster with anchored Blocker, Major, Minor and Nit findings in one review packet. It never approves, merges or posts comments on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5tp4v8_z22sur9bij_9wa",
+    "url": "https://x.ai/bot/5tp4v8_z22sur9bij_9wa",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

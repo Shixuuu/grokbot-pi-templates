@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-n8n-master-zvqbrq",
+  "version": "1.0.8",
+  "private": true,
+  "description": "https://github.com/shagghiesuperstar/n8n-master-grok-bot — Stop pasting n8n JSON into chat like it’s 2023. n8n Master turns a Grok Bot into a live control plane for YOUR instance — 31 skills, search workflows, run a canary, pull official docs, build the next automation — over HTTPS MCP, secrets nev…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Zvqbrq6yN68ijhEpRz0lU",
+    "url": "https://x.ai/bot/Zvqbrq6yN68ijhEpRz0lU",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Shagghie Superstar",
+    "creatorHandle": "PixelRainbowNFT",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

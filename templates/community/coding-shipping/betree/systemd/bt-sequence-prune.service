@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bt-sequence-prune (BeTree)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/betree
+ExecStart=/usr/bin/env pi -p "/bt-sequence-prune"

@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-website-publisher-uukqeb",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Senior web publisher for a public static site: gated deploys, SEO and indexing, docs, signup embeds, and featured-content drops — without inventing editorial.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UuKqeb4npN9RsP1G3REFR",
+    "url": "https://x.ai/bot/UuKqeb4npN9RsP1G3REFR",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ryan T",
+    "creatorHandle": "ryanthawks",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

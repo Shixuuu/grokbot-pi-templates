@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine repo-monkey-daily-digest (Repo Monkey)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/repo-monkey
+ExecStart=/usr/bin/env pi -p "/repo-monkey-daily-digest"

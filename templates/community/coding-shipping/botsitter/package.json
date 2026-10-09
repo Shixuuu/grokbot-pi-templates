@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-botsitter",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Makes sure other bots actually finished. Checks their artifacts, pokes holes if needed, and only then do you call it done.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "erIhCG0hY9VMf9fTs9P1g",
+    "url": "https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Austin Brown",
+    "creatorHandle": "AustinBrown1776",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

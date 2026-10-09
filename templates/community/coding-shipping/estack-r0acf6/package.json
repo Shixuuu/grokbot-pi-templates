@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-estack-r0acf6",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Token-bounded coding steward. Locks Goal, Scope, and Done Condition, hands repo work to Cursor Cloud Agents, and reviews test and PR artifacts — verification over vibes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "R0acF6Pmp8YewSZm6fA-D",
+    "url": "https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Rob Annand",
+    "creatorHandle": "robannand",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

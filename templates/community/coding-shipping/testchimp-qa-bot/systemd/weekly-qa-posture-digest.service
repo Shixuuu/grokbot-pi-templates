@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-qa-posture-digest (TestChimp QA Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/testchimp-qa-bot
+ExecStart=/usr/bin/env pi -p "/weekly-qa-posture-digest"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-speed-lab",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Autoresearch loop for render speed. Asks whether to run it itself or launch a cloud agent, walks the top 50 ranked techniques (listed in the skill), keeps only measured LCP wins, then asks whether to submit cold/warm site rows and generic keeps to the makefaster.dev leaderboard.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LEbVr_WZ-cym7XwIm7xf5",
+    "url": "https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jacob Miller",
+    "creatorHandle": "pwnies",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

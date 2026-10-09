@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-claude-code-71psq4",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A dedicated coding agent that runs all software work through the Claude Code CLI. For people who want Anthropic's Claude to write and ship code without mixing in other coding tools.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "71PSQ4KBs-hNYBsH05X_n",
+    "url": "https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Daniel Zambrini",
+    "creatorHandle": "DanielZambrini",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

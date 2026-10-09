@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine f33b3f8f-9256-57ac-8b42-f2583143e4bf (Job Search)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/job-search
+ExecStart=/usr/bin/env pi -p "/f33b3f8f-9256-57ac-8b42-f2583143e4bf"

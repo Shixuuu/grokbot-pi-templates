@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-da-j-bfinder",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Finds internships, tailors a resume, applies overnight, and sends a daily digest. For students who want an unattended apply pipeline that never invents personal facts.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XAUki5gPKNwV8Fd6_FCaO",
+    "url": "https://x.ai/bot/XAUki5gPKNwV8Fd6_FCaO",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Daniel Xu",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

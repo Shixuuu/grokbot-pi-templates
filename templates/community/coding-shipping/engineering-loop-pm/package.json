@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-engineering-loop-pm",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Operator for Develop → Diagnose → Deploy. Gates on Design=Done, keeps STATUS in sync, and unlocks specialists when you need more depth.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IWfeUN5d0Ad8vwfhxQycG",
+    "url": "https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ash Naik",
+    "creatorHandle": "ashvinn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

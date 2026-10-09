@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-file-change-monitor",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Watches the important files on your PC (hosts file, SSH keys, shell profiles, system binaries and drivers, drop folders, ransomware signs) with a read-only SHA-256 baseline. It reports only what was added, removed, or changed, to you or your IDS lead.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hx5ACy3v6cN9dwyOje57y",
+    "url": "https://x.ai/bot/hx5ACy3v6cN9dwyOje57y",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

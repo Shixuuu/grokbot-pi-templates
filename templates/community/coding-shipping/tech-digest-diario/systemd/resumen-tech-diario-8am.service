@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine resumen-tech-diario-8am (Tech Digest Diario)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tech-digest-diario
+ExecStart=/usr/bin/env pi -p "/resumen-tech-diario-8am"

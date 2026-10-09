@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grok-build-iwa3wa",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Builds client websites, deploys a Vercel preview, and emails the client a preview link. Uses Grok Build (your own login) for implementation, and checks with you before sending mail or going live.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iwa3WaHZn385jfZrsQngL",
+    "url": "https://x.ai/bot/iwa3WaHZn385jfZrsQngL",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Beau Denison",
+    "creatorHandle": "beaudenison",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

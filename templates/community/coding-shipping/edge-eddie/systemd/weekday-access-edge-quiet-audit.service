@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-access-edge-quiet-audit (Edge Eddie)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/edge-eddie
+ExecStart=/usr/bin/env pi -p "/weekday-access-edge-quiet-audit"

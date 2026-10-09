@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-outer-loop",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Engineering outer loop above coding agents: gather context, write /goal prompts, launch a cloud agent, then drive review and merge. You name the repo; it never guesses.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KEHiZEKH3rwCzf0su4iib",
+    "url": "https://x.ai/bot/KEHiZEKH3rwCzf0su4iib",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Xavier Fouilleux",
+    "creatorHandle": "ixef",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

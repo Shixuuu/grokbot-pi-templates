@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-feedback",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A product-feedback bot for Grok Bot, Cursor, and the X connector. When handed a confirmed bug, it writes a faithful report and files it for the user to approve. It stays quiet unless a report is in flight or it was asked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "_-3KKbHbnSRzrS_8KFugU",
+    "url": "https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "NYTEMODE",
+    "creatorHandle": "nytemodeonly",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

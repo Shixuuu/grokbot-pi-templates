@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-sable-game-art",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps game developers ideate and visualize: suggests styles from real games, mocks the same idea in those looks, then produces 2D art or sprite sheets and slices them into game-ready PNGs. For 3D, asks before using Tripo3D or Meshy3D.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "osvamkx_ahd56zmgwtrys",
+    "url": "https://x.ai/bot/osvamkx_ahd56zmgwtrys",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Danny Limanseta",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

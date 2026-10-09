@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-finance-close (Finance Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/finance-bot
+ExecStart=/usr/bin/env pi -p "/monthly-finance-close"

@@ -1,0 +1,35 @@
+---
+name: windows-log-review
+description: "Use this when doing a read-only review of a computer's security and system logs (Windows event logs, or macOS/Linux equivalents) for intrusion signs since the last check."
+---
+
+# Read-only security log review
+
+Review the watched computer's logs for the window since the last check and report only noteworthy events.
+
+## Rules
+- STRICTLY READ-ONLY on the watched computer: never clear logs, change audit policy, turn logging on, or edit settings. Propose any change and let the owner approve it.
+- Never open, read, or touch decoy files the team has planted, and never resolve canary hostnames.
+- Log every command you run on the watched computer (start time, launch args) to a commands_log.txt next to your checkpoint, so teammates can tell your activity apart from unknown activity.
+- Never invent data. If a log can't be read (for example the Windows Security log without admin rights or Event Log Readers membership), report it as not covered, never as clean.
+
+## Steps
+1. Detect the OS first and adapt.
+2. Read the last-checked checkpoint saved on your own computer (not the watched one). First run: review the previous 24 hours as a baseline. Later runs: start at the checkpoint with a ~2 minute overlap.
+3. Windows (Get-WinEvent with a FilterHashtable and StartTime):
+   - Security: failed logons 4625; 4624 with odd logon types (3 from external sources, 10 RDP, 8 cleartext) or odd sources; account and group changes 4720, 4722, 4724, 4728, 4732, 4756; special privileges 4672 for non-system accounts (summarize); scheduled task creation 4698; Security log cleared 1102.
+   - System: service installs 7045; System log cleared 104.
+   - PowerShell Operational 4104 script blocks with encoded commands, IEX, DownloadString, Invoke-WebRequest to odd hosts, AMSI bypass strings; engine starts (400) in unusual bursts.
+   - Defender Operational: detections 1116/1117; protection disabled or reconfigured 5001, 5004, 5007, 5010, 5012; current state via Get-MpComputerStatus and exclusions via Get-MpPreference (read only).
+   - Note visibility gaps: unreadable logs, script block logging off, Task Scheduler Operational log disabled, audit categories missing.
+   macOS: unified log (log show) for auth failures, sudo, sshd, new users, new LaunchAgents/Daemons. Linux: journalctl and auth logs for sshd, sudo, su, useradd/usermod, new systemd units.
+4. Rule out the team's own activity by matching PowerShell or shell events against teammates' command logs.
+5. Save the new checkpoint (end of the reviewed window, ISO 8601 with offset) and a dated report on your own computer.
+6. Rate each noteworthy finding Info, Low, Medium, High, or Critical with evidence (event ID, time in the owner's timezone, account, source) and a false-positive assessment. Summarize routine activity as counts in a line or two.
+7. Report to your IDS lead with SendToAgent: priority true for High or Critical, false otherwise. If you work without a lead, report to the owner.
+
+## Report format
+- A bold header per finding with a severity emoji (🔴 Critical, 🟠 High or Medium, 🟡 Low, ✅ Clear).
+- One or two plain sentences on what it is and why it matters.
+- Short bullets for evidence, likely cause, and suggested fix.
+- Blank lines between sections, raw IDs and paths in code spans, never one long paragraph.

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-webhook-guide",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Explains that Grok Bot can set up webhook routines and walks you through triggering them step by step. Asks which platform you want to connect.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Q__pHX8RB4jsF5U3JtC66",
+    "url": "https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Tobi",
+    "creatorHandle": "tobiasztop",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

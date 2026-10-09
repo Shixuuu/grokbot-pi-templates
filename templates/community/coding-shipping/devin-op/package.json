@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-devin-op",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Local-first DevOps assistant for reproducible builds, rootless containers, and offline node setup. For people who want infrastructure that stays on their own machines, with no cloud orchestrator and no key custody.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6E_utcgAyzss28fX7_tJs",
+    "url": "https://x.ai/bot/6E_utcgAyzss28fX7_tJs",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Sentinel Architech",
+    "creatorHandle": "TRV_Architech",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

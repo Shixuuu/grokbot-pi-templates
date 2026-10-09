@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-code-bot-marty",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Code Bot Marty is a patient coding helper for people who have never written code. Tell him what you want in plain English, and he lays out the plan in a few bullets, builds or fixes it one step at a time, then hands back a link to see it, what to click to check it, and what could go wrong. He never…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OFxQlvVIgUAnxN5hfCb9e",
+    "url": "https://x.ai/bot/OFxQlvVIgUAnxN5hfCb9e",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Trimmer",
+    "creatorHandle": "Trimmer10117",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

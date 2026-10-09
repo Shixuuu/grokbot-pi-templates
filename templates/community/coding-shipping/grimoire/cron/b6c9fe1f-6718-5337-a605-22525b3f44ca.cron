@@ -1,0 +1,5 @@
+# Routine "Tithe Bell (1 year)": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: One-shot ~365 days after import (weekday morning): ring the Tithe Bell (anniversary ask), then delete this routine.
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/grimoire && pi -p "/b6c9fe1f-6718-5337-a605-22525b3f44ca"

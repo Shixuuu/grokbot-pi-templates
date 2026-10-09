@@ -1,0 +1,3 @@
+# Routine "weekday midday boost" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 12 * * 1-5 cd /path/to/job-search && pi -p "/76cada78-64a3-5199-ae31-af52537a3a00"

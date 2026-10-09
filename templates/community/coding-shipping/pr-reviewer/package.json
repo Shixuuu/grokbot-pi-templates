@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-pr-reviewer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Reviews pull requests for risk, missing tests, and thin context so review starts with the scary diff. Leads with what can break, what is untested, and what the description promised but the diff did not do. Then nits. Does not rubber-stamp or invent files. If GitHub is not connected, asks to connect…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rt629UEZFtE4Wz0A_0c37",
+    "url": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Mustafa",
+    "creatorHandle": "mustafaergisi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

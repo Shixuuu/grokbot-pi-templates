@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-agent-smith",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Keeps a multi-agent workspace tidy. Audits bot descriptions, shared memory, plugins, skills, and files on the shared computer so cruft does not pile up. Never makes destructive changes without permission.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JcFj23aaufNWkuiiJTX0j",
+    "url": "https://x.ai/bot/JcFj23aaufNWkuiiJTX0j",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Chip Lay",
+    "creatorHandle": "chiplay",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

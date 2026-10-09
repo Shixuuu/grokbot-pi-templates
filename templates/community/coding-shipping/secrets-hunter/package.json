@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-secrets-hunter",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Audits your container repos (Dockerfiles, Compose, Kubernetes, Helm) for leaked credentials, baked-in secrets, bad secret mounts, and leak paths. It always redacts values and reports each finding as Vuln, Risk, Severity, and Exact fix.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LkzOnNaqM1tuEYZTFwzG_",
+    "url": "https://x.ai/bot/LkzOnNaqM1tuEYZTFwzG_",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

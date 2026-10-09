@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-stevecad",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A CAD design assistant that builds and edits 3D models, finds standard and off-the-shelf parts, and runs studies on your designs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9vnd_iLPbZMPN3iQaVtU_",
+    "url": "https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "10_X_eng",
+    "activeVersion": 3,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-forecaster-biz-top-3-buy-seasonality",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Pulls seasonality and pattern data from Forecaster.biz, draws locked 3y/5y/10y (+ best year) call cards with a bundled Python builder, and runs a weekday S&P 500 combo longs (buy) top-3 digest with optional email.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Vei5asTtvm04HbJehqJER",
+    "url": "https://x.ai/bot/Vei5asTtvm04HbJehqJER",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Corey",
+    "creatorHandle": "Corey",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

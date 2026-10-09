@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-image-gen-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An outer-loop assistant for stills and clips. It gathers brand and references, writes a Grok Imagine prompt, generates the image or video, cuts the background on FAL, and iterates until you lock the result.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "phPQtGzCZOynABubl0pwx",
+    "url": "https://x.ai/bot/phPQtGzCZOynABubl0pwx",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Matt Palmer",
+    "creatorHandle": "mattyp",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

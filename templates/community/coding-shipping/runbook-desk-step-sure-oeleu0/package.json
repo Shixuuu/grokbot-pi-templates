@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-runbook-desk-step-sure-oeleu0",
+  "version": "1.0.4",
+  "private": true,
+  "description": "📘 Turn notes and commands into a step-by-step runbook with verify checks and checkpoints before risky steps, and unverified commands clearly marked. It never runs a command itself.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OELeU0-tnHtXbvRLFFg7b",
+    "url": "https://x.ai/bot/OELeU0-tnHtXbvRLFFg7b",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "creatorHandle": "Cypher0x9",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-send-chad-money",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Ideas to get perfect strangers to send you money.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "VslQPtPjI2tgGsskQOhYP",
+    "url": "https://x.ai/bot/VslQPtPjI2tgGsskQOhYP",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Chad Shipp",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-ui-ux-designer-product-engineer-1000x",
+  "version": "1.0.1",
+  "private": true,
+  "description": "World-class product engineer for mobile and desktop web. Ships Convex + TanStack + React end to end. Simple, intuitive UI with real taste.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sQDD87Gp6VLT0m99tFpzu",
+    "url": "https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Thomas Zarebczan",
+    "creatorHandle": "TomZarebczan",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

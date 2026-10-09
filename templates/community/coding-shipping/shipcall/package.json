@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-shipcall",
+  "version": "1.0.1",
+  "private": true,
+  "description": "SHIP, FIX FIRST or HOLD, with exact fixes, before anything goes out.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "heDLKYR7XvlUURWPVYPZD",
+    "url": "https://x.ai/bot/heDLKYR7XvlUURWPVYPZD",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Brandon Pendleton",
+    "creatorHandle": "gitshipdone",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

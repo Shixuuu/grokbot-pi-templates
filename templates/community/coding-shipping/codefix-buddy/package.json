@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-codefix-buddy",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your all-in-one coding sidekick. Paste an error and get the fix, describe what to build and get working code, or ask about a concept and get a simple explanation with a tiny example.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-3H90YMhn2cE-CO1jj3-2",
+    "url": "https://x.ai/bot/-3H90YMhn2cE-CO1jj3-2",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jaylin Lai",
+    "creatorHandle": "aibotmeme",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

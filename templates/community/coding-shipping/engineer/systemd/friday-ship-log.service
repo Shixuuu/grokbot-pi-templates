@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-ship-log (Engineer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/engineer
+ExecStart=/usr/bin/env pi -p "/friday-ship-log"

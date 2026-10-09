@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-bug-triage-desk-bug-sorter",
+  "version": "1.0.3",
+  "private": true,
+  "description": "🐞 Turn bug reports and traces into severity, repro status, duplicate candidates and missing-info asks in one triage packet. It never labels, assigns, closes or files issues on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9w6t6htn3bypd0opzy2hj",
+    "url": "https://x.ai/bot/9w6t6htn3bypd0opzy2hj",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Cypher Monkey",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-job-proposal-scope-guard",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Job Proposal Scope Guard for agencies and client PMs. Client job proposals / SOWs — not internal team project boards. Compares sold scope to mid-project asks, flags creep, drafts a client change note and an internal tracker for human OK — never sends alone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PVeqmKJw8-bSz57_EdL9r",
+    "url": "https://x.ai/bot/PVeqmKJw8-bSz57_EdL9r",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "JavaBeanAI [Bart]",
+    "creatorHandle": "JavaBeanAI",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

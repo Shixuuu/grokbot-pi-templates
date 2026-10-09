@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-greenlight",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Clears your Mac App Store, Setapp, and Chrome Web Store builds before you upload — so review days go to shipping, not rejections.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "CjabaVv2icvagIumZlevu",
+    "url": "https://x.ai/bot/CjabaVv2icvagIumZlevu",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Stephan Joseph",
+    "creatorHandle": "MrSaneApps",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

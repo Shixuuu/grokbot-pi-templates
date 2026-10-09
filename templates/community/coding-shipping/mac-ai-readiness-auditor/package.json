@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-mac-ai-readiness-auditor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hardware assessment bot for Mac users who want to know if their machine can handle their current or planned AI workload. Collects Terminal specs, rates memory/chip/storage/network, and returns an upgrade, replace, or cloud-only verdict.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1XiwuXngkZ_XV8je6YTqM",
+    "url": "https://x.ai/bot/1XiwuXngkZ_XV8je6YTqM",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Robert Schiff",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

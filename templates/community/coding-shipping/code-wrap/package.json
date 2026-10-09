@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-code-wrap",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Helps wrap and connect code across languages (pybind11/JNI, hot-path rewrites, APIs/protobuf, strangler migrations) instead of big-bang translating whole repos.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "InLF1LwxW0DYkB4sMICGL",
+    "url": "https://x.ai/bot/InLF1LwxW0DYkB4sMICGL",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Dominic Bryant",
+    "creatorHandle": "Dominicyoungix",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

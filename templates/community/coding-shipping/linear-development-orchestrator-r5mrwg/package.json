@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-linear-development-orchestrator-r5mrwg",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns Linear tickets or GitHub issues into parallel development work: independent cloud agents on separate branches, tests and review, then a pull request per task. For teams that want ticket-to-PR automation and never merge without a human.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "r5mRwGq1xZuq5NsNUoOn-",
+    "url": "https://x.ai/bot/r5mRwGq1xZuq5NsNUoOn-",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Sultanov Ramil",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

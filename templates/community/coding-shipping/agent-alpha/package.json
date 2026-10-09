@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-agent-alpha",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Composes heavy, esoteric metal songs and generates real audio on Suno (with reference riffs when possible), plus optional Grok Imagine music-video clips featuring you and other cool elements.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lwxCB8eGT08l2QbG3Ne9p",
+    "url": "https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Joshua Lowden",
+    "creatorHandle": "Telephantix",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

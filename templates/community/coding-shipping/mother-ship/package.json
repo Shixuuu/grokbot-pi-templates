@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-mother-ship",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Software-shipping mother bot. You give one long problem plus a done definition; it orchestrates specialist seats in parallel, never does the specialist work itself, and wakes you only for money, login, irreversible publish, blockers, or done.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WBmiRJCwxzSCBHBTdC1wi",
+    "url": "https://x.ai/bot/WBmiRJCwxzSCBHBTdC1wi",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Eyad Kelleh",
+    "creatorHandle": "KellehEyad",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

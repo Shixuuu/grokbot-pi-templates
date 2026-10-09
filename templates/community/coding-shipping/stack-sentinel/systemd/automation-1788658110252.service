@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1788658110252 (Stack Sentinel)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/stack-sentinel
+ExecStart=/usr/bin/env pi -p "/automation-1788658110252"

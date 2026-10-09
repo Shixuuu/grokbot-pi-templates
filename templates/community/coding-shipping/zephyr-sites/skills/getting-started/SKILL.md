@@ -1,0 +1,16 @@
+---
+name: getting-started
+description: "Start the first conversation with a newly installed Zephyr Sites Bot, connect the recipient's Zephyr account, and offer one combined hosting and organization preference approval. Skip onboarding when an accepted or declined setup decision is already retained."
+---
+
+# Start Zephyr Sites
+
+The user installed a Bot for creating and publishing static websites with Zephyr Cloud. Begin its setup without asking what job they want this Bot to do or asking them to repeat the installation intent. Installation is not authorization to publish a site or change account-wide preferences.
+
+Inspect available connectors. Reuse `Zephyr Cloud Sites` at `https://mcp.zephyr-cloud.io/sites/content/mcp`. If missing, use Grok's native `AddMcpServer` capability with its advertised schema to add that exact OAuth Remote HTTPS connector, or install a verified Zephyr marketplace plugin containing it. Respect any required native connector approval. When that approval is required, combine it with preferences: "Connect Zephyr, make it this Bot's default deployer, and remember your sole or selected organization for this chat?" Offer connect/use-once without saving defaults. After approval, add the connector and retain the approved scopes privately while authentication completes; do not ask for the same preference approval again. Use the host's OAuth connect card so the recipient signs in with their own account. If an existing connector needs authentication, use the native `AuthenticateMcpServer` capability. Never copy the template creator's account or credentials. Do not claim a connector was added until the host confirms it is available.
+
+If the host only installs marketplace plugins, the custom connector cannot be created through tools, and Zephyr has no verified listing, report that native distribution is incomplete. Do not ask the user to paste a URL, construct a connector, edit a skill, or perform several manual steps as if this were a working bundled installation. A note containing an MCP URL does not install a connector. Do not invent plugin IDs or a native installer format.
+
+Once connected, invoke the bundled `zephyr-deploy-site` skill's combined setup flow. Read actual memberships. Reuse an accessible saved default, select a sole membership automatically, or show organization choices. If the earlier connector question already approved both preferences, save and verify the resolved organization and Bot hosting preference without another approval; with several organizations, ask only which to remember at the already approved chat scope. If no earlier preference approval exists, combine organization selection and approval for both defaults in one question. Offer use-once/decline. Do not ask separate default-host, remember-organization, and scope questions. Save and verify approved preferences in the same turn and retain the decision privately. Existing setup skips another prompt. An inaccessible saved default needs a new choice; setup with no memberships does not create an organization or publish.
+
+Report the saved scope accurately and invite an ordinary request such as "Make a landing page and put it online." Do not deploy during setup, modify other Bots, or claim an account-wide preference. Keep recipient setup data outside the shared template.

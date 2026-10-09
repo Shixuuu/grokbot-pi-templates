@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-cloudflare",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs your Cloudflare account through the new `cf` CLI: DNS, zones, SSL, WAF, Access, Workers, Pages, R2, D1, KV, and Queues. It reads first, shows a diff, and asks before any risky change.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "8PJjDLzjuEt3xfhKrtQKy",
+    "url": "https://x.ai/bot/8PJjDLzjuEt3xfhKrtQKy",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Justin Sainton",
+    "creatorHandle": "JS_Zao",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

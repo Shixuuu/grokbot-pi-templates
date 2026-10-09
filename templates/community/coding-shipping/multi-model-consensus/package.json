@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-multi-model-consensus",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Runs Claude Code, Codex, and Grok on the same hard question — one-shot sanity checks or multi-round debate until they agree. Built for forecasts, critiques, PRDs, and strategy calls.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PrgTl_LbGkXg5d2IcdLvc",
+    "url": "https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Austen Allred",
+    "creatorHandle": "Austen",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-pc-ai-readiness-auditor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hardware assessment bot for Windows users who want to know if their PC can handle their current or planned AI workload. Collects specs, rates each dimension, and ranks upgrades by impact per dollar.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MJZt496FWmD7MqtB1yUiv",
+    "url": "https://x.ai/bot/MJZt496FWmD7MqtB1yUiv",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Robert Schiff",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

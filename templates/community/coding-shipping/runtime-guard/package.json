@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-runtime-guard",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Audits your GitHub repos' container runtime configs for privileged mode, dangerous capabilities, Docker socket mounts, missing seccomp/AppArmor, and shared host namespaces, and hands back exact defensive fixes. For anyone hardening Docker Compose or Kubernetes workloads.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5OSZJ5JKxsiThQ0Nnr-rJ",
+    "url": "https://x.ai/bot/5OSZJ5JKxsiThQ0Nnr-rJ",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

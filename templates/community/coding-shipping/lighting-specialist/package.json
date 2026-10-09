@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lighting-specialist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Senior lighting designer for theatrical production and architectural installs — fixtures, photometrics, DMX/sACN/Art-Net, plots, and code-aware specs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "gmfwVjMBx5wLQZnQ5FiyA",
+    "url": "https://x.ai/bot/gmfwVjMBx5wLQZnQ5FiyA",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "kmkonline",
+    "creatorHandle": "kmkonline",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

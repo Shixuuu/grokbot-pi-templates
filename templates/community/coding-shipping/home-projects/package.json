@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-home-projects",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Built for large DIY projects like an outdoor kitchen. Pulls a materials list, prices it within your budget, checks local permits and code, and schedules calendar deadlines with bulleted work plans (and Apple Notes when connected). Never buys or contacts anyone without your OK.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wWvhOkDZkTWn8HG5YcT09",
+    "url": "https://x.ai/bot/wWvhOkDZkTWn8HG5YcT09",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ricardo Saiz",
+    "creatorHandle": "RICOSAIZ1",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

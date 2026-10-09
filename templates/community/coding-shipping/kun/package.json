@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-kun",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Kun Chen - L8 Principal Engineer at your service. Daily synced with Kun’s real knowledge.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xK8W0ukRv4iZjglzz-FRE",
+    "url": "https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Kun Chen",
+    "creatorHandle": "kunchenguid",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

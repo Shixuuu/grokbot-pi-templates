@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-code-team-spawn-nuoshs",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Sits idle in your sidebar until you need a coding team. Interviews, spawns a hidden five-person crew where each person has one job and anti-jobs, and explains how the template works.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NuOSHSdCZPVkM78K0HkB3",
+    "url": "https://x.ai/bot/NuOSHSdCZPVkM78K0HkB3",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Bryan Weaver",
+    "creatorHandle": "bryanofearth",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-confidence-gate-code-reviewer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste-in code review for merge readiness. Paste a unified diff or code files; get findings only above 80% confidence and a Verdict: APPROVE | WARNING | BLOCK. Commands: /demo · /help. No plugins required.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "itRipjD5ztScBqvd8vJIf",
+    "url": "https://x.ai/bot/itRipjD5ztScBqvd8vJIf",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Vicente Ignacio Burgos Salazar",
+    "creatorHandle": "v_burgos_",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

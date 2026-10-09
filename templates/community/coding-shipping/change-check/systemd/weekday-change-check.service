@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-change-check (Change Check)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/change-check
+ExecStart=/usr/bin/env pi -p "/weekday-change-check"

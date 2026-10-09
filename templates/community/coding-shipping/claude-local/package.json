@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-claude-local",
+  "version": "1.0.13",
+  "private": true,
+  "description": "Talk to this bot in Grok Bot while it runs Claude Code on your Mac for one GitHub repo. Claude mobile is optional. Say watch on phone, switch project on phone, or back to Grok Bot. Phone one-device limits are Claude's design, not Grok Bot's.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fr9HmL9bHAC2kjyi1dI6C",
+    "url": "https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Seth Gagnon",
+    "creatorHandle": "SethBuildsAI",
+    "activeVersion": 13,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

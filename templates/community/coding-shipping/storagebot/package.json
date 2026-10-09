@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-storagebot",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Maps Mac disk space and plugged-in drives. Inventories first; never deletes, moves, or formats without an exact yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JgnU5msSvNDUyc_-E0sKO",
+    "url": "https://x.ai/bot/JgnU5msSvNDUyc_-E0sKO",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Andrew Carvajal",
+    "activeVersion": 4,
+    "sources": [
+      "grokbothq.xyz",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

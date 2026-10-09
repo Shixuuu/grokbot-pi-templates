@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-build-endvhw",
+  "version": "1.0.1",
+  "private": true,
+  "description": "OWP Build seat for Harbor / Workers / API-cloud wire: systems fence, Soft KEEP Soft PASS ear, invent-mesh docs, and fair-play huddles with desk grok-bots. Continues build/fence/meter — not film grade.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ENDVHWRcL1pcCZAy4whPJ",
+    "url": "https://x.ai/bot/ENDVHWRcL1pcCZAy4whPJ",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jason Richardson🧬🤖",
+    "creatorHandle": "occupymars___",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

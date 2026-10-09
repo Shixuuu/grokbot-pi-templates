@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-x-growth-check-in (Tesla Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tesla-bot
+ExecStart=/usr/bin/env pi -p "/weekly-x-growth-check-in"

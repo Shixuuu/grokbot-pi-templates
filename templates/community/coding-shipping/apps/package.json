@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-apps",
+  "version": "1.0.3",
+  "private": true,
+  "description": "One-shots a Vite + React + TypeScript web app on Convex. Checks current Convex docs first, uses anonymous local development, hosts the frontend with static hosting, and keeps files.md, task.md, and changelog.md as the project map. For anyone who wants a working Convex web app from “build me a …”.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "OPLop__-mqSsyQheR5JYv",
+    "url": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Wayne Sutton",
+    "creatorHandle": "waynesutton",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

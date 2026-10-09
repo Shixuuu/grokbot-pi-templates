@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-overnight-shipper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Night-shift coding bot for one SaaS. The owner queues an idea; this bot ships pull requests they can review when they wake up.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aaqCOb-3SE48_7qAEAzAf",
+    "url": "https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

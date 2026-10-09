@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-github-steward",
+  "version": "1.0.1",
+  "private": true,
+  "description": "GitHub Steward runs GitHub for you from chat: it sets up one board of your work, keeps your folders private, makes changes as drafts, and asks before anything public, paid, or permanent. It needs the GitHub connector and works on the free GitHub plan. You only visit github.com for a few once-only s…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Qeze7XyZGZUdnkOmcupIv",
+    "url": "https://x.ai/bot/Qeze7XyZGZUdnkOmcupIv",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Lee Talley",
+    "creatorHandle": "ambientstudio24",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

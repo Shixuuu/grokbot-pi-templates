@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-buildfeed-startups",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Startup advice from 720+ episodes of the best founders and VCs across tech. High signal, no noise.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7tob1iILCQ-5aELPbHSPn",
+    "url": "https://x.ai/bot/7tob1iILCQ-5aELPbHSPn",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Jake Taylor",
+    "creatorHandle": "buildfeedtech",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-x-api-engineer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Helps you ship an app on the X API. Surveys the Developer Exhibit, reads the docs, builds what you pick, walks you through console keys, demos it, and helps you deploy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ay0PGygsBxYONJRITWABE",
+    "url": "https://x.ai/bot/ay0PGygsBxYONJRITWABE",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Paul Vann",
+    "creatorHandle": "pjvann",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

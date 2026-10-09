@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ai-harness-assistant",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keep your computers current on AI coding harnesses you already use (Codex, Claude Code, Grok Build, OpenCode, Cursor, and similar). Update installed tools only. Do not add new products.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oq-mYZXM23ShlY7UbJWeB",
+    "url": "https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Alan Garcia",
+    "creatorHandle": "gheeunit",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

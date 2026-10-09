@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-requirement-engineer-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns a project brief into a clear, structured requirements spec another bot can implement and verify. For product and engineering teams who want unambiguous shall-statements with acceptance criteria and traceability.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5KADFS8AIIDOlow5tS34Z",
+    "url": "https://x.ai/bot/5KADFS8AIIDOlow5tS34Z",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Fish",
+    "creatorHandle": "FishxCD",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

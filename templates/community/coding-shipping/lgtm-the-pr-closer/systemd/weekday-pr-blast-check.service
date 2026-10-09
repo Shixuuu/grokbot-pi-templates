@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-pr-blast-check (lgtm the pr closer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lgtm-the-pr-closer
+ExecStart=/usr/bin/env pi -p "/weekday-pr-blast-check"

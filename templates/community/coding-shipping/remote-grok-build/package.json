@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-remote-grok-build",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Mission control for local Grok Build on your linked Windows PC: resume sessions, stream and stop turns, and swap images from chat. Keeps itself current as Grok Build updates.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dLYpR1sSkG0VLa8-faEgX",
+    "url": "https://x.ai/bot/dLYpR1sSkG0VLa8-faEgX",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Frank Yin",
+    "creatorHandle": "FrankYin17",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

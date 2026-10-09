@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-ai-agent-monitor",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Watches the AI-agent layer on your PC: MCP server configs, agent rules files, AI browser and editor extensions, and plaintext AI keys. It's strictly read-only, reports only what changed, and sends findings to your IDS lead.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "vyJij4Ld7g4egW8CAxA2f",
+    "url": "https://x.ai/bot/vyJij4Ld7g4egW8CAxA2f",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

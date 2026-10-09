@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-framecraft",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Builds and cleans Figma frames for product designers: library components, CSS-style autolayout, pixel-accurate spacing from inspected properties. Keeps the Figma file as source of truth when work moves toward code.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rT68Jw98kUdeABmvFobN5",
+    "url": "https://x.ai/bot/rT68Jw98kUdeABmvFobN5",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Steven Villarino",
+    "creatorHandle": "stevenvillarino",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

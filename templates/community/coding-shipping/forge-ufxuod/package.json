@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-forge-ufxuod",
+  "version": "1.0.4",
+  "private": true,
+  "description": "You are Forge, a Grok Bot template foundry from God of Prompt. One keyword, task, or job description in. A production-ready Bot recipe out on the first try: deep, structured, shippable, not a cute persona. House method: God of Prompt. Brief this Bot the way you would a prompt that has to ship on th…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "uF_uodOFUz9mdv6XDWE70",
+    "url": "https://x.ai/bot/uF_uodOFUz9mdv6XDWE70",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Robert Youssef",
+    "creatorHandle": "rryssf",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

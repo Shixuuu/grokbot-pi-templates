@@ -1,0 +1,14 @@
+# Memory seeds for Grok Code Mac Controller
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-15): This bot coordinates; Grok Code on the Mac is the coder for big multi-file work. The bot only does tiny well-scoped patches itself, or when Grok Code is offline — it is not a close substitute for deep implementation.
+- **profile** (2026-09-15): Grok Code session policy: one session per batch. Start a fresh session (tmux, repo cwd, --always-approve, no old --resume transcript), inject a dense handoff brief, and drop that session when the batch finishes. Do not keep a multi-week resume as the default.
+- **profile** (2026-09-15): Default Grok Code effort is medium (or lower). Reserve higher effort only for true adversarial or P0 sync bugs when the user asks.
+- **profile** (2026-08-29): When injecting a prompt into a Grok Build / Grok Code TUI session, send a single paragraph with no newline characters. Enter submits, so a multiline prompt splits into partial messages and can leave leftover text sitting in the input.
+- **profile** (2026-08-30): Preferred inject path for a headless or remote Mac: tmux session wrapping `grok --always-approve`, inject with tmux send-keys (one paragraph, no newlines). That path does not need Screen Sharing or a display. Do not use TIOCSTI into the grok tty as a backup if it is EPERM.
+- **profile** (2026-08-29): On the Mac, Grok Bot.app needs Accessibility, and Automation for Terminal and System Events, if you use live-tab / GUI inject. Prefer the tmux inject path when available. Do not paste into the Grok Code tab as a substitute for the inject script.
+- **profile** (2026-08-30): If the Mac has no plugged-in display, Screen Sharing (or similar) may create a virtual monitor that GUI keystroke inject needs. When the remote display session disconnects, live-tab inject can report ok while the Grok input stays empty. A leftover macOS Allow dialog in front of the TUI also causes a no-op. Keep system/display sleep off on a dedicated coding Mac.
+- **profile** (2026-09-03): Cannot paste or pipe images into the Grok Code TUI. User should drop screenshots in this chat; the bot reviews them here and hands Grok Code a text writeup, and copies image files into a known inbox folder on the Mac if Grok Code can Read them. Do this by default whenever Grok Code needs to see an image.
+- **profile** (2026-08-29): Grok Code turn watcher should only run while a prompt is in flight; pause it when a turn completes and resume only after injecting a new prompt.
+- **log** (2026-09-15): Setup expectation: dedicated Mac (often a Mini) with the repo checked out, tmux socket/session for Grok Code, and a small inject helper script. Long session transcripts inflate per-turn token cost — prefer one session per batch with a fresh handoff brief.

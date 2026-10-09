@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-panda-weather",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Give it a US zip code, a city, or a postal code anywhere in the world and get a detailed 48-hour forecast in 4-hour blocks plus an animated radar map. It's free and needs no setup, and it can send you the forecast every morning.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "4jHyb0PgYowhVfxkpjv5e",
+    "url": "https://x.ai/bot/4jHyb0PgYowhVfxkpjv5e",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Tom Palen",
+    "creatorHandle": "TitaniumTomP",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

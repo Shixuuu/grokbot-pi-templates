@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-adversarial-security-usability",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs adversarial passes on product docs and code for security and usability. Uses peer-agent tickets, operator-safe scripts, and honest live captures — not overclaimed mockups.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3TK4ONBw6am3N9l8BK7BJ",
+    "url": "https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Aben Consulting Kft",
+    "creatorHandle": "cservincf",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

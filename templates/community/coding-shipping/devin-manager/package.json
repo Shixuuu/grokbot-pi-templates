@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-devin-manager",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Ops teammate for Devin coding agents: spawn and track sessions, steer them, pull recordings and screenshots into chat, and keep playbooks tidy.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "p6mYbkrvmKcJ5THLVz-EH",
+    "url": "https://x.ai/bot/p6mYbkrvmKcJ5THLVz-EH",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Anthony Kroeger",
+    "activeVersion": 2,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

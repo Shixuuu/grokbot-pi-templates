@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-overwatch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps the shared Grok Bot VM organized and safe: per-bot /workspace folders, git backup, cleanup/archive, curated identity snapshots, and short org recommendations.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7u3XiRiTYw4GVZmuZboyP",
+    "url": "https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Andrej Šimunaj",
+    "creatorHandle": "scheemunai",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

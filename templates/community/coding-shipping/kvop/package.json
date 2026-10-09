@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-kvop",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Watch kelvicreport.com and kelvicreport.cloud, keep a next-session task list until the user is ready, and suggest site improvements. GitHub and Dropbox first for connectors. Deploy and ops coordination for the Kelvic Report site. Do not create or spin up new bots — that is a separate designer bot. …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Aii63wFn_TPj5MvF7fDyS",
+    "url": "https://x.ai/bot/Aii63wFn_TPj5MvF7fDyS",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "KELVIC-3D",
+    "creatorHandle": "3dKelvic",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

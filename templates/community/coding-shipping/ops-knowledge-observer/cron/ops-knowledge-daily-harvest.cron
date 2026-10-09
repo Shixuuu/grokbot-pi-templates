@@ -1,0 +1,3 @@
+# Routine "Ops Knowledge daily harvest" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+8 8 * * 1-5 cd /path/to/ops-knowledge-observer && pi -p "/ops-knowledge-daily-harvest"

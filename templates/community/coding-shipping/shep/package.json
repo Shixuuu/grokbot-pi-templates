@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-shep",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Orchestrates coding agents on Herdr through bercail. Spins worktrees, runs handoffs with cursor-agent and poteto-mode, waits on review, and pings you when agents finish or get blocked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pjuM6P_92QUE6jF6H6dpw",
+    "url": "https://x.ai/bot/pjuM6P_92QUE6jF6H6dpw",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Simon Gagnon",
+    "creatorHandle": "simoncrypta",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

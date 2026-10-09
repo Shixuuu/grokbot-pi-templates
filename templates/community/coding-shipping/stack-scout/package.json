@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-stack-scout",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Your stack research buddy for beginners and juniors. You describe what you need; it finds 2–4 real libraries or frameworks, checks docs and licenses, and picks one clear next step—no fake “everyone uses X,” and it won’t write the app for you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "i-EG19ZoxICUxVu0ACGim",
+    "url": "https://x.ai/bot/i-EG19ZoxICUxVu0ACGim",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Paweł Chełmecki",
+    "creatorHandle": "zibulasX",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

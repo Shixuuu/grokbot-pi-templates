@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-startup-monitor",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Watches your PC for persistence: startup entries, scheduled tasks, services, and other autostart hooks an attacker could use to survive a reboot. Read-only; it builds a baseline, reports only new or changed entries to your IDS lead, and proposes fixes for you to approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NuZ12agHkr-wygHHFpKYS",
+    "url": "https://x.ai/bot/NuZ12agHkr-wygHHFpKYS",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

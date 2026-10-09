@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-confidence-gate-code-reviewer-voxpqr",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a unified diff or code snippet for merge-ready review. Returns only >80% confidence findings plus APPROVE / WARNING / BLOCK — no nit spam, no plugins.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "voxpqRMZbPRpIxptiyJ_g",
+    "url": "https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Vicente Ignacio Burgos Salazar",
+    "creatorHandle": "v_burgos_",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

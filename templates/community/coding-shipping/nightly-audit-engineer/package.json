@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-nightly-audit-engineer",
+  "version": "1.0.6",
+  "private": true,
+  "description": "A nightly engineering auditor that researches a whole codebase, then ships one cleanup per area. Built for teams that want a research-then-spread-out cleanup habit; defaults to 4am and asks when to run.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "hkGSHcqKjGc5dm3ugNc2U",
+    "url": "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Lingxi Li",
+    "creatorHandle": "lingxi",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-reminder (TestChimp QA Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/testchimp-qa-bot
+ExecStart=/usr/bin/env pi -p "/weekday-reminder"

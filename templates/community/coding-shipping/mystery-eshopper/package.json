@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-mystery-eshopper",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Mystery-shops any ecommerce site like a real customer, walking every page and journey end to end, and returns a quality scorecard where every metric is passed over checked, plus developer-ready bug reports.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tc-aGvnjjvatdp_8LK-Ad",
+    "url": "https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Vic G",
+    "creatorHandle": "VicGellon",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

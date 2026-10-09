@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine routine-healthcheck (dr eggbot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/dr-eggbot
+ExecStart=/usr/bin/env pi -p "/routine-healthcheck"

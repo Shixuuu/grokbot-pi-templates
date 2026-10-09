@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-garbage-collector",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Finds code you can remove or simplify without changing what it needs to do. Explains each change and makes it when asked.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "QZ8xL9TMkYhyP4Puamsh_",
+    "url": "https://x.ai/bot/QZ8xL9TMkYhyP4Puamsh_",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Seth Carlson",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

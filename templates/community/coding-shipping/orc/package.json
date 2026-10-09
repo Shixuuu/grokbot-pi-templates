@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-orc",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Engineering orchestrator for multi-agent fleets: sequences worker lanes, runs reduce and security sweeps, and keeps forge reviews moving without inventing process.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9SQS0iMj0Ml8yvXnWNTVg",
+    "url": "https://x.ai/bot/9SQS0iMj0Ml8yvXnWNTVg",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Capital Copilot",
+    "creatorHandle": "CapitalCopilot",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

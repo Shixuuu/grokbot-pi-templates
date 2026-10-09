@@ -1,0 +1,3 @@
+# Routine "weekday afternoon top-up" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 14 * * 1-5 cd /path/to/job-search && pi -p "/20d1d175-50dd-5eb2-a6e3-71749158c587"

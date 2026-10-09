@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-citationtrace",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turns week-over-week AI citation and rank snapshots into client-ready proof reports for AI-SEO agencies and in-house marketers. Paste before/after data and get which citation moved, on which query, and to what position.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6HYl0hBFcUP9b_5yj-Hk6",
+    "url": "https://x.ai/bot/6HYl0hBFcUP9b_5yj-Hk6",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Robert Schiff",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

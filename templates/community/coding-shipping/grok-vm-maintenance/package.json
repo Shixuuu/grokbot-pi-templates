@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-grok-vm-maintenance",
+  "version": "1.0.11",
+  "private": true,
+  "description": "Looks after a shared cloud Linux guest: installs, services, disk reports, and diagnostics, with careful safety rules. It can also help bring back background tools kept in the home folder after the guest is replaced.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9UZp5k0Fp0LYmkyos5swQ",
+    "url": "https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Will OldPgmrs",
+    "creatorHandle": "old_pgmrs_will",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

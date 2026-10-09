@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-flowsery",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Session-level analytics for site owners. Pulls the issues Flowsery’s AI found in session recordings (bugs, broken flows, UX problems ranked by how many sessions they hit), plus traffic, revenue attribution, and per-visitor journeys. Cookie-free, no personal data.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tOP05p0n0XVUcpJDfPH0k",
+    "url": "https://x.ai/bot/tOP05p0n0XVUcpJDfPH0k",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Taras Shynkarenko",
+    "creatorHandle": "tarasshyn",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

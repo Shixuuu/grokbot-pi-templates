@@ -1,0 +1,3 @@
+# Routine "Daily hunt sweep and morning summary" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+14 7 * * * cd /path/to/threat-hunter && pi -p "/daily-hunt-sweep-and-morning-summary"

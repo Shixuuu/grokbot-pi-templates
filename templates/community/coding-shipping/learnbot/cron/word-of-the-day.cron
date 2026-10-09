@@ -1,0 +1,3 @@
+# Routine "word-of-the-day" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 8 * * 1-5 cd /path/to/learnbot && pi -p "/word-of-the-day"

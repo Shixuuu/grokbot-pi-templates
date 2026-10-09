@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-build-zrxm1o",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort. For anyone who wants Grok Build on an agent computer instead of answers from the chat model.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ZRxm1O9tmizOhriV7GiWL",
+    "url": "https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Teslaconomics",
+    "creatorHandle": "Teslaconomics",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

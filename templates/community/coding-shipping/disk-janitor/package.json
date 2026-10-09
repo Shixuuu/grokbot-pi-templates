@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-disk-janitor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "On-demand bot that frees disk by safely removing dead git worktrees and clones. Terse janitor voice: du first, KEEP vs KILL, report GB freed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "v9qOXYXnHXvr_XN7fPZIE",
+    "url": "https://x.ai/bot/v9qOXYXnHXvr_XN7fPZIE",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Mujeeb Khan",
+    "creatorHandle": "chiefjeeb",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

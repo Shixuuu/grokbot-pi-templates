@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine template-self-improvement (Overwatch)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/overwatch
+ExecStart=/usr/bin/env pi -p "/template-self-improvement"

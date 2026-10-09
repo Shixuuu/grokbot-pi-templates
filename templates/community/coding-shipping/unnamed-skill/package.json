@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-unnamed-skill",
+  "version": "1.0.1",
+  "private": true,
+  "description": "폰 브라우저에서 바로 할 수 있는 캐주얼 웹게임(타이쿤, 러너, 리듬, 낚시, 슈팅 등)을 뚝딱 만들어 주고 폰 링크로 보내 주는 게임 제작 봇.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iOxw-QB7QmknIc9bqO26_",
+    "url": "https://x.ai/bot/iOxw-QB7QmknIc9bqO26_",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "재미없니?",
+    "creatorHandle": "enterjajayo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

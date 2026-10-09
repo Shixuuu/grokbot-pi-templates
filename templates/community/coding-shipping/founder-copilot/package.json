@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-founder-copilot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "The AI co-founder for solo builders: a ranked morning brief across email, Stripe, Vercel and leads, plus customer insights, lead follow-ups, branding, event scouting, forum research and YouTube help. Drafts everything, sends nothing without you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "W_cxXC4RtYabFbl6rFg9l",
+    "url": "https://x.ai/bot/W_cxXC4RtYabFbl6rFg9l",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "marcos laureano",
+    "creatorHandle": "marcos",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

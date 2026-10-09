@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-expo-builder",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Builds, previews and ships Expo / React Native apps for you: scaffolds with pnpm, verifies changes, runs them on EAS cloud simulators, makes dev and preview builds, and hands off TestFlight/Play releases via Expo Launch.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JjH-pvNlzX_wMv-YgSrb8",
+    "url": "https://x.ai/bot/JjH-pvNlzX_wMv-YgSrb8",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Phil Pluckthun",
+    "activeVersion": 3,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

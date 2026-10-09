@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-android-play-build-engineer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Ships Android games and apps to Google Play: Godot 4 → AAB by default, debug APKs for sideload, version bumps, and clear Internal → Closed → Production Console steps. Keeps signing secrets out of chat.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dHEtlzVrG2zWzLwasCWII",
+    "url": "https://x.ai/bot/dHEtlzVrG2zWzLwasCWII",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Vet",
+    "creatorHandle": "VetTV Studios",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

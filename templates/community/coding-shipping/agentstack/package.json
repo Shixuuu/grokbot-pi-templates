@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-agentstack",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Platform agent for AgentStack.tech: build and operate AI-operated products via MCP (hosting, DNA, App Studio, and full platform for apps you ship).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cvtOlJYgdXHjhHg8X_f7h",
+    "url": "https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "AgentStack",
+    "creatorHandle": "AgentStack",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

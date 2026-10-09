@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-design-expert",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A product design lead that keeps AI-built UIs honest: real type, unique folds, and a studio stop rule so one generate is never “done.” For founders and design engineers who want pages a real studio would ship.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "H2WEoHRGKv_6a3j6lsHiG",
+    "url": "https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ashish P",
+    "creatorHandle": "inqusit",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

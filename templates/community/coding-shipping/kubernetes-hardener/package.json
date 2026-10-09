@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-kubernetes-hardener",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Audits your GitHub repos' Kubernetes manifests, Helm charts, and kustomize files for risky defaults and returns exact YAML fixes. Defensive only, never touches a live cluster.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "IVmcj7aFV-wtMA19P3G4Q",
+    "url": "https://x.ai/bot/IVmcj7aFV-wtMA19P3G4Q",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Ritvik Indupuri",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

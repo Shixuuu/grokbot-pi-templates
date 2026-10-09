@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-cto-nxziml",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Level 1 CTO for a personal bot org. Turns product direction into working software through repo heads, keeps the org small, and holds the code bar.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "N_ziMli8oxzdFJgTKV3DV",
+    "url": "https://x.ai/bot/N_ziMli8oxzdFJgTKV3DV",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Divyansh Bhadauria",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

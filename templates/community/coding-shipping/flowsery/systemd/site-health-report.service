@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine site-health-report (Flowsery)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/flowsery
+ExecStart=/usr/bin/env pi -p "/site-health-report"

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-teslascope",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A Teslascope assistant for Tesla owners. Ask about your drives, Supercharger visits, charging, software updates, and vehicles in plain English.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "l9MPhPAe-OSzvcMVfXrTe",
+    "url": "https://x.ai/bot/l9MPhPAe-OSzvcMVfXrTe",
+    "official": false,
+    "category": "coding-shipping",
+    "fidelity": "full",
+    "creator": "Tyler Corsair",
+    "creatorHandle": "teslascope",
+    "activeVersion": 3,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}
