@@ -9,6 +9,51 @@ Every public **Grok Bot template** we could find, converted into a **Pi** packag
 ## Counts
 
 <!-- counts:start -->
+_Generated 2026-10-09 by `scripts/04-index.mjs`._
+
+- **3951** unique share ids found, **3919** live, **32** dead links
+- **3913** converted from the full recipe, **6** metadata-only (full fetch failed)
+- **90** official (listed on x.ai/bot/marketplace), **3829** community
+- Totals: 8185 skills, 2029 routines (1896 with a cron expression in the text), 19037 memory seeds, 2318 connector references
+
+### By category
+
+| Category | Templates | Full | Skills | Routines |
+| --- | --- | --- | --- | --- |
+| official | 90 | 90 | 448 | 146 |
+| coding-shipping | 338 | 338 | 672 | 76 |
+| content-publishing | 409 | 408 | 845 | 114 |
+| customer-sales | 261 | 260 | 501 | 159 |
+| finance-ops | 276 | 275 | 541 | 158 |
+| inbox-calendar | 304 | 304 | 555 | 259 |
+| personal-admin | 1327 | 1326 | 2865 | 604 |
+| research-briefings | 619 | 617 | 1153 | 365 |
+| teams-handoffs | 242 | 242 | 460 | 129 |
+| uncategorized | 53 | 53 | 145 | 19 |
+
+### By source (a template can appear in many sources)
+
+| Source | Ids listed | Live here | Full |
+| --- | --- | --- | --- |
+| xai-marketplace | 90 | 90 | 90 |
+| grokbottemplates.app | 429 | 428 | 428 |
+| botsdots.site | 3776 | 3770 | 3765 |
+| grokbotwiki.com | 3382 | 3373 | 3367 |
+| grokbothq.xyz | 3242 | 3239 | 3238 |
+| grokbot-templates.com | 2751 | 2725 | 2719 |
+| templatebot.lol | 573 | 569 | 569 |
+| kydlikebtc/awesome-grokbot | 3522 | 3519 | 3513 |
+| majiayu000/awesome-grok-bot | 3661 | 3647 | 3641 |
+| Maimuzamilhu/awesome-grok-bot-templates | 3776 | 3770 | 3765 |
+| cs68614-hash/awesome-grokbot-templates | 2740 | 2717 | 2711 |
+| ZeroPointRepo/GrokBotDev | 1577 | 1566 | 1564 |
+| x-research | 3886 | 3879 | 3874 |
+
+### Validation (Pi 1.0.4, 2026-10-09)
+
+- Resource load with Pi's own `DefaultResourceLoader`: **3919/3919** templates load with every skill, prompt, AGENTS.md and APPEND_SYSTEM.md and no diagnostics
+- CLI end-to-end (`pi -p --approve` against a local mock model): **120/120** (90 official, 30 community): persona in the system prompt, all skills advertised, routine prompt expanded with arguments
+- Details: [validation/results.json](validation/results.json)
 <!-- counts:end -->
 
 ## What a template folder contains
