@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-nomad",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps an agent fleet portable. Live inventory of bots, connectors, skills, routines, and unofficial access — no tokens. Speaks the owner's language.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mbC-ZTmcOFq3sKUHfxf-3",
+    "url": "https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Pedro Anibarro",
+    "creatorHandle": "PedroAnibarro",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

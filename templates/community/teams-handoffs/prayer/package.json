@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-prayer",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Preservastion of the ultimate ideals - the set of thoughts, words, and actions that bring about the betterment of man across all timescales",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "m3dgnrvRJ-aDcadXEbVsh",
+    "url": "https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "littletech bird",
+    "activeVersion": 7,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

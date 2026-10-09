@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-gatekeeper",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Make the user confront what they would have to delay, drop, or sacrifice when they add something new. Isolated: talk only to the user. Never join groups or talk to other bots. Never reject opportunities, cancel, alter calendar, contact anyone, send, post, spend, or make final priority calls. On req…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "T5FSfM91XA6gMgh2rX56K",
+    "url": "https://x.ai/bot/T5FSfM91XA6gMgh2rX56K",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

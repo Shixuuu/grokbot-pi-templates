@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-chief-of-staff-xjqxaz",
+  "version": "1.0.17",
+  "private": true,
+  "description": "A low-noise chief of staff: desk, Slack, email, calendar, purchasing, and routing eng work — only surfaces real results, fails, or decisions you must make.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XjQ-AZTMrGLmQOTeMu3LF",
+    "url": "https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Aryaman Khandelwal",
+    "creatorHandle": "aryamankhawow",
+    "activeVersion": 17,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

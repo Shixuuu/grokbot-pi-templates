@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine memory (AIオーケストレーション担当)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai
+ExecStart=/usr/bin/env pi -p "/memory"

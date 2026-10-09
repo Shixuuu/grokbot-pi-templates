@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-cost-watch (Tuong Lu Kim)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/tuong-lu-kim
+ExecStart=/usr/bin/env pi -p "/weekly-cost-watch"

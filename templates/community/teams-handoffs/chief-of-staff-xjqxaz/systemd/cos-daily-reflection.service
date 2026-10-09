@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine cos-daily-reflection (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-xjqxaz
+ExecStart=/usr/bin/env pi -p "/cos-daily-reflection"

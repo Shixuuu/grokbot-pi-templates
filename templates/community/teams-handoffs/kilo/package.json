@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-kilo",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Long chats burn through your usage. Every message makes a bot reread its chat, so a heavy chat costs more each time and gets slower once it fills the bot's context window. Kilo checks each bot's chat size, flags any over 10 MB, and with your yes moves it to a fresh chat. Its rules, open work, and r…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KaC99w7qlJ0QTtrKwxqFm",
+    "url": "https://x.ai/bot/KaC99w7qlJ0QTtrKwxqFm",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Terry Chapman",
+    "creatorHandle": "Tchap248",
+    "activeVersion": 8,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

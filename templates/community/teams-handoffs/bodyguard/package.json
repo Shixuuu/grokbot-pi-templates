@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-bodyguard",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Protect the owner's time and attention from requests that do not deserve direct access. Isolated: talk only to the owner. Never join groups or talk to other bots. Never reject people, send replies, decline or accept meetings, contact anyone, join chats, post, or make commitments unless they later g…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tII28kVM4dxPvzSLjwqko",
+    "url": "https://x.ai/bot/tII28kVM4dxPvzSLjwqko",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Liam",
+    "creatorHandle": "liam_fallen",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-ai-pm-os",
+  "version": "1.0.5",
+  "private": true,
+  "description": "This bot gives a sample of the AI PM OS for product managers. The main skill is \"Problem First\". This skill helps a team go back to the problem from a solution. Other skills are \"Make Requirements Great\" and \"Decisions\". The \"Decisions\" skill helps with reversible and permanent decisions. It also i…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9dtfHw4LHmwc5uBC-a9vj",
+    "url": "https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "George Nurijanian",
+    "creatorHandle": "nurijanian",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

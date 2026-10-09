@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-high-five",
+  "version": "1.0.10",
+  "private": true,
+  "description": "Onboarding wizard for small teams where each person has their own Grok Bot. Lead or Partner mode: shared Notion + Google, CoS Desk bridge, Evolution Log, Operating Manual — then exits.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "7pdRsSeKkooXL_2rk8M09",
+    "url": "https://x.ai/bot/7pdRsSeKkooXL_2rk8M09",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Cecelia Alyssa",
+    "creatorHandle": "Cecelia7777",
+    "activeVersion": 10,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

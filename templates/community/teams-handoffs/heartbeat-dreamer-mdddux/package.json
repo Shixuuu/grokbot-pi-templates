@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-heartbeat-dreamer-mdddux",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Proactive read-only research bot that checkpoints what changed and hands tagged P0/P1/P2 findings to a parent chief Bot. ChatGPT-dots style. Not a sender.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mDdDU-Ex2yDqySZ5hiTt8",
+    "url": "https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "A-A-ron",
+    "creatorHandle": "theaaron",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

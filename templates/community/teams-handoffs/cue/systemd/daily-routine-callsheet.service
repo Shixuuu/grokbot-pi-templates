@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-routine-callsheet (Cue)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cue
+ExecStart=/usr/bin/env pi -p "/daily-routine-callsheet"

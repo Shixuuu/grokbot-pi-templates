@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine transcript-healthcheck
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:44:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

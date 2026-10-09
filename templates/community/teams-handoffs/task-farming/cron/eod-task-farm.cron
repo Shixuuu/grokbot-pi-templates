@@ -1,0 +1,3 @@
+# Routine "End-of-day Task Farm" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 17 * * 1-5 cd /path/to/task-farming && pi -p "/eod-task-farm"

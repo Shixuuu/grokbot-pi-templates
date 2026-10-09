@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-x",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Grok Bot that routes X (Twitter) work to save developer credits. Search runs Grok Build on the bot's own computer (sign in through the bot's browser). Posting uses the X developer API with a two-key PIN grant, not the official X connector.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "isfPwoTeQTBqA-gk9CZN5",
+    "url": "https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "铁柱AGI",
+    "creatorHandle": "cgnot996",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

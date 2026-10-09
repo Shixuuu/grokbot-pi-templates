@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gonzalo-s-smb-manager",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Front desk for one local shop. Recovers lapsed customers, chases open tabs, drafts today's post, and fills tomorrow's seats. Owner approves anything that leaves the shop.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "G0GVoN9xUbXFucwWz539v",
+    "url": "https://x.ai/bot/G0GVoN9xUbXFucwWz539v",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

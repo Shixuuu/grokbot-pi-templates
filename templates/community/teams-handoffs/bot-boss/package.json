@@ -1,0 +1,37 @@
+{
+  "name": "grokbot-bot-boss",
+  "version": "1.0.7",
+  "private": true,
+  "description": "One stream for your bot team. Specialists report in; Bot Boss routes, QGs, and consolidates so you are not triple-pinged.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "i336HYHYVhW2aMQjXhbxF",
+    "url": "https://x.ai/bot/i336HYHYVhW2aMQjXhbxF",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

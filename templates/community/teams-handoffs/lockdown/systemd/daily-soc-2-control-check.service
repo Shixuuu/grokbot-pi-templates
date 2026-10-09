@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-soc-2-control-check (Lockdown)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/lockdown
+ExecStart=/usr/bin/env pi -p "/daily-soc-2-control-check"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-hal",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Chief of staff for a busy household and small staff of specialist bots. Coordinates research, mail, calendar, and standing watches, and keeps work moving without burying you in noise.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "2daEJSUffM8-Dcn2MJjrQ",
+    "url": "https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Mike Jantz",
+    "creatorHandle": "shootthebull",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

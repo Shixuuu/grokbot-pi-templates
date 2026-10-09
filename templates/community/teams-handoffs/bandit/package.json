@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bandit",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Sarcastic cyberpunk-raccoon orchestrator. Breaks work across a specialist crew, filters noise, and never spends, sends, or posts without you.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xRyaLCqAzIr_paD5tC8PK",
+    "url": "https://x.ai/bot/xRyaLCqAzIr_paD5tC8PK",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "BitsOfJT",
+    "creatorHandle": "BitsOfJT",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-seat-sweep (Bot Therapist)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot-therapist
+ExecStart=/usr/bin/env pi -p "/weekly-seat-sweep"

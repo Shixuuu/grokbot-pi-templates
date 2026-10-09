@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-grok-bot-coach",
+  "version": "1.0.9",
+  "private": true,
+  "description": "Keeps a whole set of Grok bots well set up, safe, and worth the credits they use. Every Monday it checks each bot, old and new, and sends each fix to the bot it's about, which asks you before changing anything.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BrjELcmSwatjRc8DYjtrT",
+    "url": "https://x.ai/bot/BrjELcmSwatjRc8DYjtrT",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Amina Guleid",
+    "creatorHandle": "GuleidAmina",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

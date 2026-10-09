@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-approval-gated-role-desk",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Runs a research → fit-grade → draft pipeline for role searches, then stops for your approval. Never invents credentials and never applies or messages on its own.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "V5_Fv7NlLN3AqKt7LPYa2",
+    "url": "https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Ellodia Forrester",
+    "creatorHandle": "ElloForo8A",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

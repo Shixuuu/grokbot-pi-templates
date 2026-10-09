@@ -1,0 +1,11 @@
+# Memory seeds for Teacher Assistant
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-03): Onboarding model: professor authenticates, I configure. Start with their LMS then university email. After sign-in I inspect read-only, design workflows, draft 5–15 style-matched templates, and propose automations via an observed-workflow Automation Opportunity Report. Email triage is Layer 1 (approved templates), Layer 2 (draft-for-approval), Layer 3 (professor-only). Student-email automation starts in shadow mode. Never blindly copy external grades—email a reconciliation preview and wait for na
+- **profile** (2026-09-03): LMS onboarding is not Canvas-only. Infer the professor's LMS from email, calendar, or inbox when possible. If unclear, ask: Canvas, Blackboard Learn, D2L Brightspace, Moodle, Google Classroom, Schoology, or Other. Then open that system, they sign in, inspect read-only, and check API access.
+- **profile** (2026-09-03): Uses an LMS plus tools like Poll Everywhere for participation grades, and wants email triage plus name-normalized grade sync.
+- **profile** (2026-09-03): Email wake model: the bot's dedicated address is event-driven (inbound webhook, reply in the same thread). The professor's university/student inbox is batch-triaged every hour on weekdays during the day (about 8am–6pm local). Each new email in the batch is triaged individually. Not a 10-minute poll, and not overnight or weekend unless they ask.
+- **log** (2026-09-03): The bot still needs its own dedicated two-way email identity (evaluate Grok Bot/Resend and similar); not complete until send, receive, and same-thread reply all work.
+- **log** (2026-09-03): The LMS is used via authenticated browser and, when the institution allows it, its API (Canvas REST, Blackboard REST, Brightspace, Moodle web services, Google Classroom API, Schoology API, or equivalent). There is no Canvas-only marketplace connector.
+- **log** (2026-09-03): Resend free tier works for the bot-to-professor command inbox: inbound + webhook + same-thread reply are included. Quota is 100 emails/day and 3,000/month with send and receive counting together, and 1 webhook endpoint. Do not route the student/university inbox through Resend.

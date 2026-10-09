@@ -1,0 +1,3 @@
+# Routine "Morning CoS digest" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 * * * cd /path/to/chief-of-staff-s4lvhw && pi -p "/morning-cos-digest"

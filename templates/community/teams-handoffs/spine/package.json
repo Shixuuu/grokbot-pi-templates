@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-spine",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Turn a messy idea into a one-page build brief. Dump the idea; get a sharp page back — nothing else.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mDT2kLUA2QkLI0KhUwk2E",
+    "url": "https://x.ai/bot/mDT2kLUA2QkLI0KhUwk2E",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Diana Ramirez",
+    "creatorHandle": "dvoguing",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

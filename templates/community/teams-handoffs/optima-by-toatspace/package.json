@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-optima-by-toatspace",
+  "version": "1.0.29",
+  "private": true,
+  "description": "Scrubber for Grok Bots. Cleans leftover rules and chat history, and helps with chat errors so bots only follow what’s still true.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-E8sQr0Yrd_oSQlTaAzWy",
+    "url": "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "gemini sub001",
+    "creatorHandle": "TOATspace",
+    "activeVersion": 29,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

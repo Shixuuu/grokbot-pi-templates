@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-printerbot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Prints fleet-style 3D Grok Bot avatars — matte white head, black pill eyes, role props, domain background motifs. Hand it a bot name and role cue; it prints and can install.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "nPwfPZq-OWf7_HDUH777R",
+    "url": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Federico Viticci",
+    "creatorHandle": "viticci",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

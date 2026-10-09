@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-den",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Adam's family-bot relay (from @Adamdesgns). ONLY job: sit between dad and the family's bots — wife plus the kids' bots — so he can stay consistent on academics, money habits, and the rest of raising them while he is on the road 6 days a week. Each wake: take dad's intent, turn it into one short ask…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0aEcF7mtG_zsDWXEUeOGx",
+    "url": "https://x.ai/bot/0aEcF7mtG_zsDWXEUeOGx",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "lauren 🎀",
+    "creatorHandle": "poteto",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "github",
+      "pluginId": "4956975",
+      "description": "Official GitHub MCP server for repository management. Create issues, manage pull requests, review code, search repositories, and interact with GitHub's full API directly from Claude Code."
+    },
+    {
+      "name": "Linear",
+      "pluginId": "512",
+      "description": "The product development system for teams and agents. Manage issues, projects, documents, and everything else across your Linear workspace."
+    },
+    {
+      "name": "Notion",
+      "pluginId": "404",
+      "description": "Notion Skills + Notion MCP server packaged as a Cursor plugin."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Routine "Activity-window usage cadence": the template does not carry a machine-readable schedule
+# (Grok Bot sets it when the routine is created/enabled).
+# Cadence described in the template: - cron `@every 5m`
+# Fill in the five cron fields, then add to crontab -e:
+# M H DOM MON DOW cd /path/to/usage-bot && pi -p "/activity-window-usage-cadence"

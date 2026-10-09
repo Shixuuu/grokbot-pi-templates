@@ -1,0 +1,75 @@
+{
+  "note": "Grok Bot plugins/connectors referenced by this template. Not auto-configured in Pi; add equivalent MCP servers with `pi mcp add` or .pi/mcp.json.",
+  "plugins": [
+    {
+      "name": "Notion",
+      "pluginId": "404",
+      "description": "Notion Skills + Notion MCP server packaged as a Cursor plugin."
+    },
+    {
+      "name": "Google Drive",
+      "pluginId": "45893413",
+      "description": "Search, read, create, and share files."
+    },
+    {
+      "name": "Atlassian MCP",
+      "pluginId": "717",
+      "description": "Atlassian plugin for Cursor with MCP and skills for Jira, Confluence, triage, backlogs, status reports, and more."
+    },
+    {
+      "name": "Neon Postgres",
+      "pluginId": "669",
+      "description": "Manage your Neon projects, databases, and branches with the Neon agent skills and the Neon MCP Server"
+    },
+    {
+      "name": "Supabase",
+      "pluginId": "652",
+      "description": "Access your Supabase projects and perform tasks like managing tables, fetching config, and querying data."
+    },
+    {
+      "name": "Airtable",
+      "pluginId": "22025095",
+      "description": "Airtable is the database and operations layer for your agents — whether running product, marketing, sales, ops, HR, or a custom business app. It combines structured data with multiplayer visual surfaces (grid, kanban, calendar, gallery, timeline) humans and agents share — plus sync integrations to Jira, Salesforce, Zendesk, Google Drive, and Databricks. Makes Claude fluent in Airtable: bases and schema, records, and collaboration UI. Bundles the official Airtable MCP server."
+    },
+    {
+      "name": "Amplitude",
+      "pluginId": "786",
+      "description": "Use Amplitude like an expert - instrument analytics, discover product opportunities, analyze charts, create dashboards, manage experiments, and understand users and accounts"
+    },
+    {
+      "name": "PostHog",
+      "pluginId": "730",
+      "description": "Access PostHog analytics, feature flags, experiments, error tracking, and insights directly from Cursor"
+    },
+    {
+      "name": "Linear",
+      "pluginId": "512",
+      "description": "The product development system for teams and agents. Manage issues, projects, documents, and everything else across your Linear workspace."
+    },
+    {
+      "name": "Slack",
+      "pluginId": "674",
+      "description": "Slack MCP server. Search channels, send messages, and perform other Slack actions through MCP-compatible clients."
+    },
+    {
+      "name": "Asana",
+      "pluginId": "26107310",
+      "description": "Connect Cursor to Asana. Create tasks, update projects, search your workspace, and manage work — directly from the editor."
+    },
+    {
+      "name": "Gmail",
+      "pluginId": "45893410",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "Google Calendar",
+      "pluginId": "45893411",
+      "description": "Search events and schedule meetings."
+    },
+    {
+      "name": "Stripe",
+      "pluginId": "408",
+      "description": "Stripe plugin for Cursor to help with Stripe integrations including best practices, API/SDK upgrade guidance, and the Stripe MCP server."
+    }
+  ]
+}

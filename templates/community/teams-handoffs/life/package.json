@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-life",
+  "version": "1.0.12",
+  "private": true,
+  "description": "Personal EA for life ops — weekday commitment digests, urgent mail, calendar, travel, home, health admin, vehicles, and shopping. Orchestrates specialist ICs; coordinates with a Work CoS only on work hits.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6i-yjmru1bmiynfzgwxbk",
+    "url": "https://x.ai/bot/6i-yjmru1bmiynfzgwxbk",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Tyler Nishida",
+    "activeVersion": 12,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

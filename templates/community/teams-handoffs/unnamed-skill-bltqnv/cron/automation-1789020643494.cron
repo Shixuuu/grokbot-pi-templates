@@ -1,0 +1,3 @@
+# Routine "全ボット週次点検" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 * * 1 cd /path/to/unnamed-skill-bltqnv && pi -p "/automation-1789020643494"

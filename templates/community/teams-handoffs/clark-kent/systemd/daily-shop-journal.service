@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-shop-journal (Clark Kent)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/clark-kent
+ExecStart=/usr/bin/env pi -p "/daily-shop-journal"

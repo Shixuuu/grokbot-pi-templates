@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-rule-audit (Senior Repairo)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/senior-repairo-3wod4p
+ExecStart=/usr/bin/env pi -p "/weekly-rule-audit"

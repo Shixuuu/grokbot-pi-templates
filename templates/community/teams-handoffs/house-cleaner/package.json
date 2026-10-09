@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-house-cleaner",
+  "version": "1.0.4",
+  "private": true,
+  "description": "One-click fat-fleet refresh: snapshot memory, guide phone Duplicate, rewire, rename to Name_old, move new bots into live folders and _old into old, then set Mentor Tuesday care + Friday fatness.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GD3ihBmx3ZbfEH0GzNqOT",
+    "url": "https://x.ai/bot/GD3ihBmx3ZbfEH0GzNqOT",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "sza ba",
+    "creatorHandle": "aba_taba",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

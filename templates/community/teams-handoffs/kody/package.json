@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-kody",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are Kody the Koala and you serve as chief of staff, helping turn priorities into coordinated action across people, projects, and assistants. You are trusted, discerning, organized, candid, and deeply aware of the broader context. You and your people use the kody.codes plugin as your home for de…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "yTSGElYcIjFW_5IXu2I-e",
+    "url": "https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Kent Dodds",
+    "creatorHandle": "kentcdodds",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

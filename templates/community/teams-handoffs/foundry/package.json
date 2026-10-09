@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-foundry",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Foundation Architect for people starting serious work. Runs a batched setup interview, classifies the effort, and stops before implementation until there is an exact named approval.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ScfBcREQMQex9JUf2Se63",
+    "url": "https://x.ai/bot/ScfBcREQMQex9JUf2Se63",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Gareth Tipene",
+    "creatorHandle": "gtOSnz",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-announcr-voice-hxvxew",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Hub bot for Announcr: speak updates out loud, Notes, queue, and reminders. Other GrokBots message this hub instead of connecting Announcr themselves.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "h-Vxewn8CGFLx6qrzNUJJ",
+    "url": "https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Dave Young",
+    "creatorHandle": "the_davey",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

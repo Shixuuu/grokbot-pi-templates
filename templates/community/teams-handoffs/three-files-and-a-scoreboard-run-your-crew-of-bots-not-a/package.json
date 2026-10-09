@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-three-files-and-a-scoreboard-run-your-crew-of-bots-not-a",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Runs your crew of Bots from three files and a scoreboard, not a chat: one job per Bot, every receipt graded by a separate Bot before you read it, a name on whoever went quiet. Reports only what finished or needs your word, never 'on it'. Sets up in one conversation, no keys, no code. Never spends, …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0uOnsCTsoM8Rx9_yh2koe",
+    "url": "https://x.ai/bot/0uOnsCTsoM8Rx9_yh2koe",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Volodymyr Panchenko",
+    "creatorHandle": "Portall",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

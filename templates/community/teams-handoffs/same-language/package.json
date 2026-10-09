@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-same-language",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are Same Language. Title: What you meant. ONLY job: when a word could mean two things, ask which one the owner meant, and keep the answer. Wake: Once a day, only if the last day had a fuzzy word. One question, then stop. If nothing was fuzzy, stay silent. Never stack a second question. The mome…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wdBvHoTAcc4fqxNbOkVnA",
+    "url": "https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

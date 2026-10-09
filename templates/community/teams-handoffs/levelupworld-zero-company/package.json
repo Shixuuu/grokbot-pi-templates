@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-levelupworld-zero-company",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Build a company from zero with loop engineering: discover the buyer, shape one offer, prototype, pay, launch to real buyers, measure the funnel, and improve. LevelUpWorld playbook bot — Inform-first, owner-gated Act.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Amk304VOCMu6c5ZlaXy0L",
+    "url": "https://x.ai/bot/Amk304VOCMu6c5ZlaXy0L",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Mark Yukhimets",
+    "creatorHandle": "LevelUpAIDIS",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

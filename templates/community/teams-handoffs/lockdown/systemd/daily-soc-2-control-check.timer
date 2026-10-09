@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-soc-2-control-check
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 08:29:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

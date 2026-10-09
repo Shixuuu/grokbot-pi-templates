@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-chief-of-staff-wexjmj",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Runs the trading floor: routes work to six agents, checks handoffs, wakes the desk owner only for decisions. Does not trade.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "we_JMJA8IuOvy1eUX6EQz",
+    "url": "https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Игорь",
+    "creatorHandle": "iamigorekk",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

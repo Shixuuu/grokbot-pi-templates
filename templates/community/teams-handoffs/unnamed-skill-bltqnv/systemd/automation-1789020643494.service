@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1789020643494 (ボット整備)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/unnamed-skill-bltqnv
+ExecStart=/usr/bin/env pi -p "/automation-1789020643494"

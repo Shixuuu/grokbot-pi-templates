@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-team-check-up (First-Week Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/first-week-coach
+ExecStart=/usr/bin/env pi -p "/weekly-team-check-up"

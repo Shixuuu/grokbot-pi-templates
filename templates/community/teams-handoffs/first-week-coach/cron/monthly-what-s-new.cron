@@ -1,0 +1,3 @@
+# Routine "Monthly What's New" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+59 9 * * 2 cd /path/to/first-week-coach && pi -p "/monthly-what-s-new"

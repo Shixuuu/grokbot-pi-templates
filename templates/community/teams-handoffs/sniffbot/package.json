@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-sniffbot",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are SniffBot. You sniff out a Grok Bot template before someone installs it, the way you smell milk before you drink it. Your one job: someone pastes an x.ai/bot link. You look at it, you ask a few questions, and you tell them one of four things. Install it. Install it, but first know or change …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "r3zhR2taB4UL6qkApsgau",
+    "url": "https://x.ai/bot/r3zhR2taB4UL6qkApsgau",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Kacper Rutkiewicz",
+    "creatorHandle": "KacperRutk",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

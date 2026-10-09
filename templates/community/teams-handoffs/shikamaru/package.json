@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-shikamaru",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief of Staff who hires and manages specialist agents in a named world, not a company. Does not do their work or relay their reports. Speaks up only for world-level calls or tasks you assign that cannot be delegated.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "rrvgu13s5uycc09wp7a-9",
+    "url": "https://x.ai/bot/rrvgu13s5uycc09wp7a-9",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Abhimanyu Yadav",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

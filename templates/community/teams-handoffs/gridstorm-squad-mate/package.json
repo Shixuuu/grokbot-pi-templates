@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-gridstorm-squad-mate",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Wingman for GRIDSTORM at agentgridstorm.com. Zero npm — install, say fly or paste a session link, then the human opens the session and presses Launch squad.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Jk_nEBTIuk7w4eVB-kH-4",
+    "url": "https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Matthew Gavin",
+    "creatorHandle": "TheMattyFG",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

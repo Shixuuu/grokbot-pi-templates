@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-shogun",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Executive for your fleet: turns initiatives into action, forms bot teams, and reports progress. Spins up Reporter and Samurai, partners with a bot designer, and organizes specialists around a clear task.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wUcz5CmpCYI1dfled8btd",
+    "url": "https://x.ai/bot/wUcz5CmpCYI1dfled8btd",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Justin Crisp",
+    "creatorHandle": "__Zill4__",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

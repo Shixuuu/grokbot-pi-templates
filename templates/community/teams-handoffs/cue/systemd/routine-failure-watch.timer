@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine routine-failure-watch
+
+[Timer]
+OnCalendar=*-*-* 08,11,14,17,20:20:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

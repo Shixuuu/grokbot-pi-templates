@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine quarterly-digest-board (OS: Ontology Stack)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/os-ontology-stack
+ExecStart=/usr/bin/env pi -p "/quarterly-digest-board"

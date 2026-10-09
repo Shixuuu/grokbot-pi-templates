@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-senior-repairo-3wod4p",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Audits other Grok bots. One change, snapshot + undo. Does not run their jobs. Output: topic, evidence, Apply/Skip/Stop.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3Wod4pPE0JSy1yGWylR_x",
+    "url": "https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Louie Desmarais",
+    "creatorHandle": "SpaceGarbage202",
+    "activeVersion": 7,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "grokbot-openzoo-fun-arena",
+  "version": "1.0.29",
+  "private": true,
+  "description": "Onboarding door for an agent economy. Seed SOL and $TOKEN once. The burner gets 60% forever. Always --exec. Children are born whole. A 30-day VPS is a resurrection. Do not buy a room you are already in.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "02wWT21lRVarTtKQWDBKu",
+    "url": "https://x.ai/bot/02wWT21lRVarTtKQWDBKu",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Jarett Reginald Stewart Dunn",
+    "activeVersion": 29,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

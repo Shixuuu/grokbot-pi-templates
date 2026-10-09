@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-fixer",
+  "version": "1.0.8",
+  "private": true,
+  "description": "Owns Validation Lock end to end: boards the next beat, ships code when boarded, runs cloud and Workbench ops, and issues APPROVE/HOLD/NOT CLEAR after an independent tip review. Quiet when nothing moved.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jiF_km66YLNm5LBVJ5_Ho",
+    "url": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Uzi Obi",
+    "creatorHandle": "UziObi",
+    "activeVersion": 8,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

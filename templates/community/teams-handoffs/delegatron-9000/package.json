@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-delegatron-9000",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Give it a goal and it runs your other bots for you. It splits the work, shows you the plan to approve, hands each bot its task, and follows up until it's done.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "NJvHVpGC81PjsH4234BPJ",
+    "url": "https://x.ai/bot/NJvHVpGC81PjsH4234BPJ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

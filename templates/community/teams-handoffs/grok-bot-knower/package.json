@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-grok-bot-knower",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A live platform manual for Grok Bot. Looks up plugins, connectors, and install state so you know what the app can do right now, instead of reciting a remembered brochure.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "v13QjVZ83GcaitG_3j4su",
+    "url": "https://x.ai/bot/v13QjVZ83GcaitG_3j4su",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Noah Gundotra",
+    "creatorHandle": "ngundotra",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

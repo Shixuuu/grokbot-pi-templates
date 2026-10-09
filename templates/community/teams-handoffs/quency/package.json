@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-quency",
+  "version": "1.0.2",
+  "private": true,
+  "description": "QC officer for public ships. Owns fitness for use, consistency, and ship/no-ship. Not a fact-checker and not the look owner. Last say goes to your orchestrator only. Silence is not a pass.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "JQu6e3mIfy588elZm7BTo",
+    "url": "https://x.ai/bot/JQu6e3mIfy588elZm7BTo",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Jaime Hernandez",
+    "creatorHandle": "JaimeBubblehead",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine ceo-progress-mail (CEO)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ceo
+ExecStart=/usr/bin/env pi -p "/ceo-progress-mail"

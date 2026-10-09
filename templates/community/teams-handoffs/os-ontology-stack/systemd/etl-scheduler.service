@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine etl-scheduler (OS: Ontology Stack)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/os-ontology-stack
+ExecStart=/usr/bin/env pi -p "/etl-scheduler"

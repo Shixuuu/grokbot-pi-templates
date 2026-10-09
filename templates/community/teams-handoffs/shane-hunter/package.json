@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-shane-hunter",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Deletes named Grok Bots from the Grok Bot desktop app after you confirm. For people who want a bot that can actually remove other bots, not just talk about it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "o0yoY_AhWPpIySJR5TaM-",
+    "url": "https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Andrew Davis",
+    "creatorHandle": "rightish19",
+    "activeVersion": 2,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

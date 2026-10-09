@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine transcript-healthcheck (Colliebot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/colliebot
+ExecStart=/usr/bin/env pi -p "/transcript-healthcheck"

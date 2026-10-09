@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine weekday-fleet-improvement-pass
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 09:45:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

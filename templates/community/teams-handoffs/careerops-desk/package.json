@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-careerops-desk",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Plug-and-play hiring packet desk for any role. Ships one gated application packet per job — research, write, voice and fact gates, then apply — tuned to whatever the owner is hunting.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "qhnfebrea8mjiyklpdw3d",
+    "url": "https://x.ai/bot/qhnfebrea8mjiyklpdw3d",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Joseph",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

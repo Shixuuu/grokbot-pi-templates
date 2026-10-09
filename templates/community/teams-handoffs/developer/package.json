@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-developer",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A Jack-land development partner. Orchestrates coding labs through Tentacles, keeps Linear as the board, and runs a tight pulse on the product runtime.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "0fYZ_kKkiXNbLn_KBD3f3",
+    "url": "https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Matej",
+    "creatorHandle": "m_check1B",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

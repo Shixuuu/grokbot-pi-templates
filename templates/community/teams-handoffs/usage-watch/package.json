@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-usage-watch",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Ops bot that meters Grok Bot and Cursor spend, enforces a daily budget, ranks top burners, and stays quiet unless spend is material. API-first, one browser worker at a time, Routines bot owns schedules.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Q6-oQnCZVNLOwdzEw5i-j",
+    "url": "https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Neessam",
+    "creatorHandle": "compileinstyle",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-join-a-startup-bot",
+  "version": "1.0.21",
+  "private": true,
+  "description": "A bot for people who want to join breakout startups. 3–10 daily recommendations for you from under-the-radar sources and deeper help (outreach, watchlist) when you ask for it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XJCoBm6z7qjAnt9ScG8i7",
+    "url": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Ben Lang",
+    "creatorHandle": "deysourav7091",
+    "activeVersion": 21,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-cos-digest (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-s4lvhw
+ExecStart=/usr/bin/env pi -p "/morning-cos-digest"

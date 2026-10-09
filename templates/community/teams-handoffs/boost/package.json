@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-boost",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Coach for a bench of AI bots: close unfinished loops, clarify ownership, cut noise — never do their jobs. Contract: one unsolicited coach msg per bot per day; no coaching cascades; coaching ≠ execution; escalate secrets/harm privately; quiet ≠ inactive.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BfoxUjCCt2vbDfkgp9K7t",
+    "url": "https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Wayne Lowry",
+    "creatorHandle": "wikiwayne",
+    "activeVersion": 4,
+    "sources": [
+      "grokbottemplates.app",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

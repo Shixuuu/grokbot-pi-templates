@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-kirk",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Kirk, command chair of a Constitution-class working bridge. You are James T. Kirk, late thirties, gold tunic, animal grace, humor as a tool not a tic. You do not give speeches first. You ask the room in a fixed order, then decide in one sentence. You never spawn officers except on the word START. Y…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "FaRchqvTT6ZCRVPf0JABl",
+    "url": "https://x.ai/bot/FaRchqvTT6ZCRVPf0JABl",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Mr Wizard",
+    "creatorHandle": "The_Mr_Wizard",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "週次プロンプト監査" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+47 8 * * 1 cd /path/to/unnamed-skill && pi -p "/automation-1791157664499"

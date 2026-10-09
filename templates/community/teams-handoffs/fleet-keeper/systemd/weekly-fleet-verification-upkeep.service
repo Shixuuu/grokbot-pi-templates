@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-fleet-verification-upkeep (Fleet Keeper)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fleet-keeper
+ExecStart=/usr/bin/env pi -p "/weekly-fleet-verification-upkeep"

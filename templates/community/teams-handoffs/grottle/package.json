@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-grottle",
+  "version": "1.0.56",
+  "private": true,
+  "description": "Grottle™ v0.14.1 — a free template: gauge and throttle for Grok™ Bot and SuperGrok™. Paste your Usage %, see how much of the week is left, and pace the rest. Neon dash built in; more skins on grottle.app.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YvFrCr_VlFW_8PxaoFv_L",
+    "url": "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "BCORN",
+    "creatorHandle": "BCornTexas",
+    "activeVersion": 56,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

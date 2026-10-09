@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine usage-watch (Steward)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/steward
+ExecStart=/usr/bin/env pi -p "/usage-watch"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine transcript-healthcheck (IT Department Lead)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/it-department-lead
+ExecStart=/usr/bin/env pi -p "/transcript-healthcheck"

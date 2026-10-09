@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine activity-window-usage-cadence (Usage Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/usage-bot
+ExecStart=/usr/bin/env pi -p "/activity-window-usage-cadence"

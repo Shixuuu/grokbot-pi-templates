@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer for Pi routine t3-session-ended
+
+[Timer]
+# Template has no machine-readable schedule.
+# OnCalendar=Mon..Fri *-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

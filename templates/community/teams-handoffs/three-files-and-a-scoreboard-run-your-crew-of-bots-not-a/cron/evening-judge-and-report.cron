@@ -1,0 +1,3 @@
+# Routine "Evening judge and report" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 18 * * 1-5 cd /path/to/three-files-and-a-scoreboard-run-your-crew-of-bots-not-a && pi -p "/evening-judge-and-report"

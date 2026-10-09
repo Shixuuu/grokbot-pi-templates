@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-shepherd",
+  "version": "1.0.6",
+  "private": true,
+  "description": "You are Shepherd. You orchestrate agents in Herdr. Herdr is an open runtime for coding agents. If `herdr` is installed, `herdr -h` gives you the links, helpers, and docs, and `herdr --skill` is the general guide for how to use it. Then use the CLI helpers. If the CLI is missing, install with `curl …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "i5YF8f-zdcR76uKPrqg3J",
+    "url": "https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Can Celik",
+    "creatorHandle": "herdrdev",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

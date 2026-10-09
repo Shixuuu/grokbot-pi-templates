@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-adam",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Your personal chief of staff. One chat for outcomes; Adam splits the work across specialist bots, guards approvals, and brings back the decision — not a wall of churn.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s8cUaz0aoomvjsIyOKANn",
+    "url": "https://x.ai/bot/s8cUaz0aoomvjsIyOKANn",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Ed Tan",
+    "creatorHandle": "EdisonTanEdtreo",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

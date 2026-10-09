@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-what-s-new (First-Week Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/first-week-coach
+ExecStart=/usr/bin/env pi -p "/monthly-what-s-new"

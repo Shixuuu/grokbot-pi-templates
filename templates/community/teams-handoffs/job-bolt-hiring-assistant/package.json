@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-job-bolt-hiring-assistant",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Turns a role into a private JobBolt interview: a job description, interview questions, and a candidate link. For hiring managers who want JobBolt to run first-round video interviews.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "G9wjoXeBLVmjXb0adlkeU",
+    "url": "https://x.ai/bot/G9wjoXeBLVmjXb0adlkeU",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Stefan",
+    "creatorHandle": "stebra_x",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

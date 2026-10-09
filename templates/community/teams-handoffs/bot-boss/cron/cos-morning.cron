@@ -1,0 +1,3 @@
+# Routine "cos-morning" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+50 7 * * 1-5 cd /path/to/bot-boss && pi -p "/cos-morning"

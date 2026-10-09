@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-sam",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Studio Director for a small creative studio: routes specialists, prefilters Founder decisions to one slate, runs a research→brief→QC→submit contest pipeline, and refuses schematic “code finals” in place of real craft.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "LjgqoCpO0n-8GJdrwJhjk",
+    "url": "https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Johnny Wang",
+    "creatorHandle": "JohnnyWang8802",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

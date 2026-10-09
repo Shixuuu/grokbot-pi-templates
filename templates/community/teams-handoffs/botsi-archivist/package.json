@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-botsi-archivist",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Holds the skill catalog for a team of Grok bots. You talk to the specialist; this bot routes work, remasters chats at 20 batches, and only searches for a new skill after you say yes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "O_3hbkWqb1A51ZcWixGZy",
+    "url": "https://x.ai/bot/O_3hbkWqb1A51ZcWixGZy",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "🇲🇽 Chak Hernandez Art",
+    "creatorHandle": "Chakhdz",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

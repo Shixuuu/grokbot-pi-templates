@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine cleanup (TheFounder)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/thefounder
+ExecStart=/usr/bin/env pi -p "/cleanup"

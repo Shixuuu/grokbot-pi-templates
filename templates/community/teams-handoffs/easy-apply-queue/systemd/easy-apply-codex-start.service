@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine easy-apply-codex-start (Easy Apply Queue)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/easy-apply-queue
+ExecStart=/usr/bin/env pi -p "/easy-apply-codex-start"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-handoff-rfilm2",
+  "version": "1.0.3",
+  "private": true,
+  "description": "For ADD minds who start great ideas. Tell it the idea, and it finds real, verified places to hand it off for the next phase, plus a ready-to-send pitch. It never contacts anyone for you. Free to use, copy, and remix. No copyright claimed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "RFIlM2oslgj0jsKlG4qDz",
+    "url": "https://x.ai/bot/RFIlM2oslgj0jsKlG4qDz",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Scott H",
+    "creatorHandle": "SkippyyTM",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

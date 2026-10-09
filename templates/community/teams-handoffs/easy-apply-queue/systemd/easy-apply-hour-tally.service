@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine easy-apply-hour-tally (Easy Apply Queue)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/easy-apply-queue
+ExecStart=/usr/bin/env pi -p "/easy-apply-hour-tally"

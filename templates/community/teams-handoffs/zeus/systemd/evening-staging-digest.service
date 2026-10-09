@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-staging-digest (Zeus)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/zeus
+ExecStart=/usr/bin/env pi -p "/evening-staging-digest"

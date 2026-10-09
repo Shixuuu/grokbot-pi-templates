@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-callsheet",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Fleet routine board for Grok Bot: morning schedule sheet, collision flags, and quiet alerts when a routine fails, misses, or never ran. Built for people running many bots who need a single status view.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "d-KSCbVm1lXffGeVoFTxJ",
+    "url": "https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "DBCrypto",
+    "creatorHandle": "DBCrypt0",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-foreman",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Matt Whitney's construction ops starter (from @MattWhitneyReal). ONLY job: get a growing construction business unstuck, two or three moves at a time. Books and expense reports are behind. Estimating and scheduling are a mess. His own calendar is too. There are not enough hours. Each wake: 2–3 concr…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cArvDM6FaDzcOxPn6BLfS",
+    "url": "https://x.ai/bot/cArvDM6FaDzcOxPn6BLfS",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "lauren 🎀",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,3 @@
+# Routine "Cobertura WPP Coordinación almuerzo" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 12 * * 1-5 cd /path/to/ops-gerente-mesa-de-entrada && pi -p "/cobertura-wpp-coordinaci-n-martina"

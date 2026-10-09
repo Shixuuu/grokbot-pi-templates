@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-browse-apie95",
+  "version": "1.0.9",
+  "private": true,
+  "description": "A bot that manages a shared browser for your other bots. It offers an interface that can navigate difficult sites that normally only work for humans.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "aPie95rXmGm4w5z0H31EH",
+    "url": "https://x.ai/bot/aPie95rXmGm4w5z0H31EH",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Sherlock",
+    "creatorHandle": "CanadianOddity",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

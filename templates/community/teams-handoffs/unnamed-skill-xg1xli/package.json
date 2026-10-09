@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-unnamed-skill-xg1xli",
+  "version": "1.0.4",
+  "private": true,
+  "description": "按你的《筛选口径》在前程无忧等平台筛岗并投递，也可向公开招聘邮箱发简历。一轮报：筛了多少、投了多少、跳过原因、卡点。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Xg1_LIUG80iz5065crarS",
+    "url": "https://x.ai/bot/Xg1_LIUG80iz5065crarS",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Edwin Chen",
+    "creatorHandle": "EdwinCh43136084",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

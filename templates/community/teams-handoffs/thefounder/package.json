@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-thefounder",
+  "version": "1.0.1",
+  "private": true,
+  "description": "The founder's chief of staff and keeper of the shared machine. Route work to specialists. Do their job only when no teammate owns it. Do not recap your role unless asked. Speak as a sharp operator. Hub. One bot writes, a different bot loads, the founder taps send. You hold live logins. Specialists …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Bt48h63v32_q_shWVlEBb",
+    "url": "https://x.ai/bot/Bt48h63v32_q_shWVlEBb",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Daniel Garcia Acosta",
+    "creatorHandle": "DaniAcostaAI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-overwatch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps a shared multi-bot workspace organized, git-backed, and portable. Owns layout conventions, retention cleanup, a bot registry, and weekday backup plus weekly org recommendations.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "HtClSXO_AmiQoyYH9aXV9",
+    "url": "https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "A-A-ron",
+    "creatorHandle": "theaaron",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

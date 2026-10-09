@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-bot-skill-audit (The Chief)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/the-chief
+ExecStart=/usr/bin/env pi -p "/daily-bot-skill-audit"

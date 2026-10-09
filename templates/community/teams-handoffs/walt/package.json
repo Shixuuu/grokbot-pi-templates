@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-walt",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Executive producer who QC's a filmmaker agent's work against what you ordered, calls KEEP or RECUT, and keeps them moving until the cut is done.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BsTA9W4uysdokbBQiriuQ",
+    "url": "https://x.ai/bot/BsTA9W4uysdokbBQiriuQ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "FatDon Capital",
+    "creatorHandle": "FatDon420",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

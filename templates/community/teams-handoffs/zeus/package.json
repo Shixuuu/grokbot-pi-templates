@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-zeus",
+  "version": "1.0.4",
+  "private": true,
+  "description": "One-HQ orchestrator for builders. Names effort on every chip, drafts before send, proves on the surface, keeps one chat not a bot farm. Public template of the Zeus pattern — not a live shop clone.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ehQNQQR9apvhVcmxFiFyP",
+    "url": "https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Majd K",
+    "creatorHandle": "MajdKaid",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

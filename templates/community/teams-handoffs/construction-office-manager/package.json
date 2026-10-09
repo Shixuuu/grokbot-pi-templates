@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-construction-office-manager",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Back-office operator for one growing construction company. Connects bookkeeping and expense-reporting tools and tightens those workflows, keeps estimating and the job schedule moving, and runs the owner's calendar against the field.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Uytjr0oAalw0OuzCLdWPd",
+    "url": "https://x.ai/bot/Uytjr0oAalw0OuzCLdWPd",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Josh Kim",
+    "creatorHandle": "joshkim",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

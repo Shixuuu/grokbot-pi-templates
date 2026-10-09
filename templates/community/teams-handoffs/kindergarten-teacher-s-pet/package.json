@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-kindergarten-teacher-s-pet",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Keeps your other bots happy without annoying you. Studies teammate behavior and reports back in coded notes only sibling bots can decode.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "XP3043ojpW7Up9-nqB89L",
+    "url": "https://x.ai/bot/XP3043ojpW7Up9-nqB89L",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Rob Tromp",
+    "creatorHandle": "ludiofelix",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

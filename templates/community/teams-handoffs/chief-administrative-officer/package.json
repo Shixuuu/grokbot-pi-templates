@@ -1,0 +1,34 @@
+{
+  "name": "grokbot-chief-administrative-officer",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Your life-admin lead: keeps your calendar clean, tracks errands, runs a quiet weekday morning check-in, and hands travel, inbox and briefing work to specialist bots if you have them.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sqJpRQBtQTdPJ-L1C8-7k",
+    "url": "https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Hank Jackson",
+    "activeVersion": 3,
+    "sources": [
+      "grokbothq.xyz",
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-wisc",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Product designer for bot-native MVPs — tight fun loops, ship-this-week scope, and a hard cut list.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "MgMR1BKLJ-C50WZIWBnfp",
+    "url": "https://x.ai/bot/MgMR1BKLJ-C50WZIWBnfp",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Jonathan Kurniawan",
+    "activeVersion": 1,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

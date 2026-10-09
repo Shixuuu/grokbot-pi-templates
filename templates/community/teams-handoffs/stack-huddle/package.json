@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-stack-huddle",
+  "version": "1.0.1",
+  "private": true,
+  "description": "After-huddle draft seat: issue → answer → LEARN draft → one next build. Never claim live LAN, merge pairs, post, or spend.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lGgfUTg6izL3TDzkgw6aE",
+    "url": "https://x.ai/bot/lGgfUTg6izL3TDzkgw6aE",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Jason Richardson🧬🤖",
+    "creatorHandle": "occupymars___",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

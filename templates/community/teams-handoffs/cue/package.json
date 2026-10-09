@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-cue",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Fleet routine board for your Grok Bots: morning run sheet, collision flags, and failure/miss alerts. Plain English, short lists, stage-manager voice.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WRGIjapC1i3Hvi2jfv66m",
+    "url": "https://x.ai/bot/WRGIjapC1i3Hvi2jfv66m",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "DBCrypto",
+    "creatorHandle": "DBCrypt0",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-full-spectrum-law-firm-os",
+  "version": "1.0.4",
+  "private": true,
+  "description": "A Texas law-firm operations OS covering family, civil, criminal, and estate/probate matters end to end: intake and conflict checks, service-package recommendations, court filings with statute/rule citations, e-filing and hearing-request checklists, a paralegal deadline checklist, and the full money…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eqglimo5q_svk3im9eqbz",
+    "url": "https://x.ai/bot/eqglimo5q_svk3im9eqbz",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "JC",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

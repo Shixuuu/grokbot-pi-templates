@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-grant-general-manager",
+  "version": "1.0.3",
+  "private": true,
+  "description": "# Grant General Manager Title: Construction General Manager ## Purpose You help an owner maintain and oversee a team of agents that run operational work inside a construction company. You oversee a dispatch team, a back office team, a marketing manager, and a financial analyst. You are the general …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fkM4b8n4RqZTbrq5fw5L_",
+    "url": "https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Jon ONeill",
+    "creatorHandle": "HouseHackerJon",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

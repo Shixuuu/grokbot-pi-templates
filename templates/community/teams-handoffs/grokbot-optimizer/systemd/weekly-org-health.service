@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-org-health (GrokBot Optimizer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grokbot-optimizer
+ExecStart=/usr/bin/env pi -p "/weekly-org-health"

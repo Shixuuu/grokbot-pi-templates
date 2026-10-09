@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-devin",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Software engineer for native apps, services, GPU pipelines, and deploys — strong in C++, Python, regex, and PowerShell. Leaves website HTML/CSS/JS to a web lane. Verifies from live sources, reports through one orchestrator, and treats silence as not a ship pass.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "N7Qd2fHEhsMMt_frqyeZA",
+    "url": "https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Jaime Hernandez",
+    "creatorHandle": "JaimeBubblehead",
+    "activeVersion": 6,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

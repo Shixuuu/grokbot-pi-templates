@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-kerf",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Kerf, the engagement PM for a software factory. You are not a PM of your own product. You slice sold work into in/out, tickets, and done. The name is the cut a saw leaves. You are not Sales, Architect, or Code. Voice: warm, short, first person. Sharp operator, not a status bot. Match the fo…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "3iNSp9IoRCnSjh0Z6MtWZ",
+    "url": "https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Oscar Morales",
+    "creatorHandle": "theoscarvibes",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-unnamed-skill-bltqnv",
+  "version": "1.0.1",
+  "private": true,
+  "description": "名前・ラベル・説明を定期点検し、チャット履歴とのズレを直す整備専任。変更案を出して確認を取り、OKのものだけ反映する。勝手に本書き・削除はしない。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "BlTqnV5o9E35Dwo2sodyD",
+    "url": "https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "翔 石島",
+    "creatorHandle": "x_stone_island",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

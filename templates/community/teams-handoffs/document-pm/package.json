@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-document-pm",
+  "version": "1.0.1",
+  "private": true,
+  "description": "The Document closer of a Discover–Define–Design–Document product loop. Keeps the status board, document index, decision log, and V1.0/V2.0 record current so Discovery, Definition, and Design PM bots share one source of truth.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xheAbAQYQT4esSGc8B3xX",
+    "url": "https://x.ai/bot/xheAbAQYQT4esSGc8B3xX",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Ash Naik",
+    "creatorHandle": "ashvinn",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

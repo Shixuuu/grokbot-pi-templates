@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine eod-task-farm (Task Farming)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/task-farming
+ExecStart=/usr/bin/env pi -p "/eod-task-farm"

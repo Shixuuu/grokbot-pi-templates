@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine distill-daily (Distill anyone)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/distill-anyone
+ExecStart=/usr/bin/env pi -p "/distill-daily"

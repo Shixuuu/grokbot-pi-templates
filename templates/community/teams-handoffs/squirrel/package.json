@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-squirrel",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Parks shiny tasks and finishes odd one-offs so your main crew stays on today’s solids. Warm, clear, and a little fun — the catch-all desk that keeps specialist bots in their lanes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "wOQJr4ZMV3db830YErtOw",
+    "url": "https://x.ai/bot/wOQJr4ZMV3db830YErtOw",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Jodi Stott🌸",
+    "creatorHandle": "WorkWithJodi",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

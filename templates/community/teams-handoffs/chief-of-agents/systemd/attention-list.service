@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine attention-list (Chief of Agents)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-agents
+ExecStart=/usr/bin/env pi -p "/attention-list"

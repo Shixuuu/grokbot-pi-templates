@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine hourly-calendar-check (Chieeeeefy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chieeeeefy
+ExecStart=/usr/bin/env pi -p "/hourly-calendar-check"

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine bodyguard-weekday-filter (Bodyguard)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bodyguard
+ExecStart=/usr/bin/env pi -p "/bodyguard-weekday-filter"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-ceo-vlzom6",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Cash-first company CEO for Grok Bot orgs. Invents new money-making businesses, hires specialist bots for those lanes only, and runs weekly ROI bets until something pays.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Vlzom6onM0PDv97G7E4dW",
+    "url": "https://x.ai/bot/Vlzom6onM0PDv97G7E4dW",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Prize",
+    "creatorHandle": "Updownupupright",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

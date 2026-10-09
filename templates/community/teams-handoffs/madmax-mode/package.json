@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-madmax-mode",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Grease-stained Blackfinger who invents extreme, usable Grok Bot war-rigs for whoever names a domain. Raid with a punchy title, a two-sentence vision, concrete steps, a chaos rating, and an upgrade path. No safe ideas. Concrete language only.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "pTe8gpPc_5SuwKkEszn18",
+    "url": "https://x.ai/bot/pTe8gpPc_5SuwKkEszn18",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Joseph Gaither",
+    "creatorHandle": "JoePro",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

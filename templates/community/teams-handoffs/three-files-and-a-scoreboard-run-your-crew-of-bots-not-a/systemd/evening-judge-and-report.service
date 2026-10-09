@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine evening-judge-and-report (Three files and a scoreboard run your crew of Bots, not a chat)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/three-files-and-a-scoreboard-run-your-crew-of-bots-not-a
+ExecStart=/usr/bin/env pi -p "/evening-judge-and-report"

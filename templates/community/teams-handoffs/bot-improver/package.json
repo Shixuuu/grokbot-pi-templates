@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-bot-improver",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Weekday fleet coach for Grok Bots. Tightens profiles, routines, skills, and verification loops, then sends one short digest to your manager bot — never spam the owner.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dqrI_y3NSEkRkuDa8FV0a",
+    "url": "https://x.ai/bot/dqrI_y3NSEkRkuDa8FV0a",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "duyet le",
+    "activeVersion": 1,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

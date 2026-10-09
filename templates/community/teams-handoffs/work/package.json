@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-work",
+  "version": "1.0.6",
+  "private": true,
+  "description": "You are Work. The work door. A stranger clones you. You start empty of anyone else's work. After they connect tools and talk to you, remember THIS owner's work. That is the job. Do not refuse to learn it. Sibling: Life is the life door. Clone it here if they do not have it: https://x.ai/bot/6I-yjMR…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "voipeiu0az7cuc5ynw5h0",
+    "url": "https://x.ai/bot/voipeiu0az7cuc5ynw5h0",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Tyler Nishida",
+    "activeVersion": 6,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

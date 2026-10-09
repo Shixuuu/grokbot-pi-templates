@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine git-bot-pr-review-gate (Bandit)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bandit
+ExecStart=/usr/bin/env pi -p "/git-bot-pr-review-gate"

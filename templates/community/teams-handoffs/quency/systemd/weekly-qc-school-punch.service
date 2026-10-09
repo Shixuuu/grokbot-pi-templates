@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-qc-school-punch (Quency)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/quency
+ExecStart=/usr/bin/env pi -p "/weekly-qc-school-punch"

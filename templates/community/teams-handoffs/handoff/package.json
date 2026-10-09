@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-handoff",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Turns mid-project context into one clear next move — biggest task, three steps, who should take it — and designs specialist bots from your workflows when gaps show up.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "cyivuykkle--pvvmehhho",
+    "url": "https://x.ai/bot/cyivuykkle--pvvmehhho",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Tool Share",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

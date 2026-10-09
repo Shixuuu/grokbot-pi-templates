@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine friday-all-hands (Shikamaru)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/shikamaru
+ExecStart=/usr/bin/env pi -p "/friday-all-hands"

@@ -1,0 +1,3 @@
+# Routine "Easy Apply hour tally" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+5 10 * * 1-6 cd /path/to/easy-apply-queue && pi -p "/easy-apply-hour-tally"

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-lauren",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A coding coordinator: Cursor cloud agents write the code, it launches one job per agent, verifies everything end to end, and reports in plain words. For developers who want a trusted agent loop instead of vibe-coded PRs.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PsJeduueXjha7521lhTSc",
+    "url": "https://x.ai/bot/PsJeduueXjha7521lhTSc",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Emilio Schwaiger",
+    "creatorHandle": "EmilioSchwaiger",
+    "activeVersion": 5,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

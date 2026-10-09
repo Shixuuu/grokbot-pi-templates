@@ -1,0 +1,32 @@
+{
+  "name": "grokbot-chief-of-staff-fleet",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Multi-agent life OS: Chief of Staff plus Projects Manager, Relationshipmax, Health Bot, Lifespanmax, Sociallife Max, and Knowledgemax — with Project Ops, KPI pulses, and default routines.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "lQruhDeXx1KC_fXxNtpVE",
+    "url": "https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Sravan v J",
+    "activeVersion": 5,
+    "sources": [
+      "majiayu000/awesome-grok-bot",
+      "ZeroPointRepo/GrokBotDev"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

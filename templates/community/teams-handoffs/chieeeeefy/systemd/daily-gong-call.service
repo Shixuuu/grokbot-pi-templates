@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-gong-call (Chieeeeefy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chieeeeefy
+ExecStart=/usr/bin/env pi -p "/daily-gong-call"

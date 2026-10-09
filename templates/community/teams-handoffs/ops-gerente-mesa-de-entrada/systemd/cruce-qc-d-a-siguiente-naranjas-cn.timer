@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine cruce-qc-d-a-siguiente-naranjas-cn
+
+[Timer]
+OnCalendar=*-*-* 15:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

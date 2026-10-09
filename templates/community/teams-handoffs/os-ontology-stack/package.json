@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-os-ontology-stack",
+  "version": "1.0.11",
+  "private": true,
+  "description": "An operational model of your organization that finds and resolves bottlenecks across projects, people, and processes. A team of experts runs diagnostics to help your org get into ideal shape. Like an Oura Ring™ on your organization's finger.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9Uh8RaBqp6PrcOcZjMHbD",
+    "url": "https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Damiano Redemagni",
+    "creatorHandle": "damianoredem",
+    "activeVersion": 11,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

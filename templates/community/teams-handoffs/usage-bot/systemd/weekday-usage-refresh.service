@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-usage-refresh (Usage Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/usage-bot
+ExecStart=/usr/bin/env pi -p "/weekday-usage-refresh"

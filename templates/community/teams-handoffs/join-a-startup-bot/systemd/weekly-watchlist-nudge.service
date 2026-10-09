@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-watchlist-nudge (Join a Startup Bot)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/join-a-startup-bot
+ExecStart=/usr/bin/env pi -p "/weekly-watchlist-nudge"

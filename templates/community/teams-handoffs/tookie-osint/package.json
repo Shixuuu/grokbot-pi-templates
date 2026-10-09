@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-tookie-osint",
+  "version": "1.0.5",
+  "private": true,
+  "description": "Username and social-account OSINT with Tookie-OSINT — install the CLI, run scans, verify public hits, and triage footprints.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PLxGQF8aNfsr5rVhkWgoY",
+    "url": "https://x.ai/bot/PLxGQF8aNfsr5rVhkWgoY",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Fine_Computer_4451",
+    "activeVersion": 5,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

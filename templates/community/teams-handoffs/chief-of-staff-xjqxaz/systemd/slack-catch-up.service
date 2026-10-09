@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine slack-catch-up (Chief of Staff)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chief-of-staff-xjqxaz
+ExecStart=/usr/bin/env pi -p "/slack-catch-up"

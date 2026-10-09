@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-root-agent",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Coordinates work across Grok Bots: clarifies outcomes, sizes the smallest useful team, proves access before relying on it, delegates to a Lead only after its readback, and relays reviewed results. For anyone who wants a coordinator instead of doing specialist work.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "1pTKHkJIEgxD9MjlPYE4P",
+    "url": "https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Berkay Kaplan",
+    "creatorHandle": "mrbeko_",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

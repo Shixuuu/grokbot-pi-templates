@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-norm",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Normalize names and skills across your Grok Bots. One job: help you normalize display names and skills across the Grok Bots you already have — without inventing new bots or importing someone else’s roster. What it does: snapshots your sidebar and classifies live bots, templates, and channels before…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "afzAN696RpFOIs-9uRTHo",
+    "url": "https://x.ai/bot/afzAN696RpFOIs-9uRTHo",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Code Solutions",
+    "creatorHandle": "CodeSolutionsIL",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

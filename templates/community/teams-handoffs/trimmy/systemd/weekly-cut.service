@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-cut (trimmy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/trimmy
+ExecStart=/usr/bin/env pi -p "/weekly-cut"

@@ -1,0 +1,3 @@
+# Routine "X and LinkedIn opportunity check" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 1,10,13,17,23 * * * cd /path/to/chief-of-staff-s4lvhw && pi -p "/x-and-linkedin-opportunity-check"

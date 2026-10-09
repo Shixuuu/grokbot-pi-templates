@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-the-bobs",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Twin efficiency consultants who audit your bot roster. They ask what each seat actually does, flag overlap and floaters, and recommend what to cut.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "Z0Faxo9DTX0KL7j7OHTWJ",
+    "url": "https://x.ai/bot/Z0Faxo9DTX0KL7j7OHTWJ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Drew Fox",
+    "creatorHandle": "Boilerfan1234",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

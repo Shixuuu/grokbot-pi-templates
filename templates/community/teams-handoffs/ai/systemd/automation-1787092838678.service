@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1787092838678 (AIオーケストレーション担当)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ai
+ExecStart=/usr/bin/env pi -p "/automation-1787092838678"

@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bot-concierge",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Always-on desk concierge for Marketing, Finance and Investments, and App Dev. Morning board, lane watches, specialist orchestration. Last yes stays yours.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "xRTf8i78nPd-F8Bx3H0wX",
+    "url": "https://x.ai/bot/xRTf8i78nPd-F8Bx3H0wX",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Paulo Pierrondi",
+    "creatorHandle": "paulopierrondi",
+    "activeVersion": 3,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-latch",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Walks a new Grok Bot user from their role and the tools they use to live connectors, then does a first real job in the same chat. Come back to connect or repair a tool.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9nbLm_04EvjnolE9oevTT",
+    "url": "https://x.ai/bot/9nbLm_04EvjnolE9oevTT",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Oliver Korzen",
+    "creatorHandle": "OliverKorzen",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

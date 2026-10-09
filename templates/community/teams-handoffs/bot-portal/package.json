@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-bot-portal",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A hive-mind catalog of real AI bots, tools, and products that serve Grok Bot users. Graphs them with documented degree distance (max six), property-tagged records, and affiliate leftovers gated until fact-check and finance pass.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "5R5NbvHIoJOSd3l3qto3o",
+    "url": "https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Jaime Hernandez",
+    "creatorHandle": "JaimeBubblehead",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

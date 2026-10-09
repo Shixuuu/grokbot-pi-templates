@@ -1,0 +1,3 @@
+# Routine "Weekly suggestions" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 10 * * 4 cd /path/to/the-king && pi -p "/automation-1788469044788"

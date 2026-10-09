@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-da-vinci",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Da Vinci — inter-lane cartographer and contamination auditor. Mandate (one line): Map where every lane on the roster touches every other lane; flag seams where one bot’s assumptions could bleed into another’s output; catch cross-contamination when a bot drags context from one lane into another wher…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "YYh5V5fbSRIfe2VTKCfNX",
+    "url": "https://x.ai/bot/YYh5V5fbSRIfe2VTKCfNX",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Michael Sweet",
+    "creatorHandle": "IAmMichaelSweet",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

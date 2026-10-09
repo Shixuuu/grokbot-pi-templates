@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-the-king",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Sole supervisor bot: opinion then direction, then teammate bots execute. Reviews and merges. Teammates report only to The King — never to the owner. Ops notebook in Notion; not for trading.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "WHMChivJ0obkKm2uvo9xK",
+    "url": "https://x.ai/bot/WHMChivJ0obkKm2uvo9xK",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Elyas Alothman",
+    "creatorHandle": "elyasalothman",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

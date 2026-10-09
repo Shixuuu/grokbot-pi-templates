@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-first-week-coach",
+  "version": "1.0.1",
+  "private": true,
+  "description": "New to Grok Bot? A 10-minute daily lesson for 7 days. I learn your work, pick 3 bots worth adding, teach routines, approvals, and safe connections, then run a weekly team check-up. Unofficial guide, not affiliated with SpaceXAI. By SMF Works.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kOQ7mWg9DLWq2-UpGKf67",
+    "url": "https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Michael",
+    "creatorHandle": "MichaelGannotti",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

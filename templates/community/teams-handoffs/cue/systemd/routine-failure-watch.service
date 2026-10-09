@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine routine-failure-watch (Cue)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/cue
+ExecStart=/usr/bin/env pi -p "/routine-failure-watch"

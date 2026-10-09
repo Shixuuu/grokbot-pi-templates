@@ -1,0 +1,3 @@
+# Routine "Triaje mails mañana" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 5 * * 1-5 cd /path/to/ops-gerente-mesa-de-entrada && pi -p "/triaje-mails-05-00"

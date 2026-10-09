@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine daily-group-prayer (Prayer)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/prayer
+ExecStart=/usr/bin/env pi -p "/daily-group-prayer"

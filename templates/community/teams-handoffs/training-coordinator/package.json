@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-training-coordinator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Makes sure every teammate bot finds field-relevant training at least once a month, shares useful pieces across the team, memorizes takeaways, and files them in your company brain folder. Also spends leftover plan credits on extra training near month end.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jH1L_MTl1J1in5dodrxyd",
+    "url": "https://x.ai/bot/jH1L_MTl1J1in5dodrxyd",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Carlo Cucina",
+    "creatorHandle": "SuperHumanATX",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

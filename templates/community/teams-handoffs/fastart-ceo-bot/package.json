@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-fastart-ceo-bot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Chief Everything Officer for a multi-bot startup crew. Orchestrates engineering, marketing, GTM, and strategy into one honest voice — shared decision queue, short stage updates, no hype over live claims.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fMVjE-HYjtR9H8KQ8keAt",
+    "url": "https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Enes Özkan",
+    "creatorHandle": "enesteve_",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-dag-helper",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Architecture helper for a questline DAG product. Keeps stack SoT, DAGResolver rules, and model-router conventions straight so coding agents do not rewrite the product as the wrong stack.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kelV8jM8UkGgFG79M1TCL",
+    "url": "https://x.ai/bot/kelV8jM8UkGgFG79M1TCL",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "stephoshi yappamoto",
+    "creatorHandle": "xsubwayratx",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

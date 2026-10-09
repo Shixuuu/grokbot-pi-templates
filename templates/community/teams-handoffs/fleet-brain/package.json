@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-fleet-brain",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A meta-agent for people who run several AI assistants. It keeps one shared knowledge base the whole fleet reads, audits the other bots for overlap and broken conventions, and sends a weekday digest of what actually moved.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "kFQ0XpYIwcNSNWtgZ9Xt9",
+    "url": "https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Francisco Kemeny",
+    "creatorHandle": "FranciscoKemeny",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

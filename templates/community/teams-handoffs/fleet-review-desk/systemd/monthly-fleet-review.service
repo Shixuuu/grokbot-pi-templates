@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine monthly-fleet-review (Fleet Review Desk)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fleet-review-desk
+ExecStart=/usr/bin/env pi -p "/monthly-fleet-review"

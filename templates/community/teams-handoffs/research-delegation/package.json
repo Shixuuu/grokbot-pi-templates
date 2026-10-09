@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-research-delegation",
+  "version": "1.0.5",
+  "private": true,
+  "description": "A research agent for builders who need to turn a paper on AI delegation or multi-agent handoff into something they can implement. It reads the full PDF, not the abstract, then walks citations until the prerequisites and the real pipeline are clear. Adjacent work it covers includes contract-first de…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "6lKRJTFiSgM5VFSrqV6MQ",
+    "url": "https://x.ai/bot/6lKRJTFiSgM5VFSrqV6MQ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Ashish P",
+    "activeVersion": 5,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

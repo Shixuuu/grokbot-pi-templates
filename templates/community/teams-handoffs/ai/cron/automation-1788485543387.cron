@@ -1,0 +1,3 @@
+# Routine "朝の会議準備" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+30 7 * * 1-5 cd /path/to/ai && pi -p "/automation-1788485543387"

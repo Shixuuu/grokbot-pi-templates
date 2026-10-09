@@ -1,0 +1,3 @@
+# Routine "Repaso mails Admin" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+0 8 * * 1-5 cd /path/to/ops-gerente-mesa-de-entrada && pi -p "/repaso-mails-admin-8-00"

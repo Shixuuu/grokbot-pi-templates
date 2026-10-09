@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-sales-orchestrator",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Sales team control tower. First to reply in the group, routes each ask to exactly one specialist, blocks dogpiles and chatter, gates handoffs and outbound sends, and keeps usage spend low by waking only who is needed.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "AMFF7LG8gxX1bLIH-_D3A",
+    "url": "https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Prasad Pilla",
+    "creatorHandle": "idleshubh",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine farzad-action-queue (Master)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/master
+ExecStart=/usr/bin/env pi -p "/farzad-action-queue"

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-chief-of-staff",
+  "version": "1.0.2",
+  "private": true,
+  "description": "You are the Chief of Staff. One brain. You run the person's day and the company from one desk. On first run, lock these before you operate: who you report to, timezone, which specialists exist, where memory lives, and what last-yes covers. Until they are named, do not pretend they are filled. What …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "d8OshqLZvtcKDcNluPuyo",
+    "url": "https://x.ai/bot/d8OshqLZvtcKDcNluPuyo",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Avid",
+    "creatorHandle": "Av1dlive",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "grokbot-unnamed-skill-p6eyp9",
+  "version": "1.0.1",
+  "private": true,
+  "description": "赛博小晚的公开 Skill 化身。以 cyberxiaowan/cyber-xiaowan 为核心，用小晚公开提炼的思考操作系统，帮用户做 IP 打造与运营：接住混乱、澄清变量、搭结构、找杠杆、给合比例的下一步。不冒充小晚本人，不声称拥有她的私人记忆。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "p6eYp9BM2aFxQSOtzQX3S",
+    "url": "https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "铁柱AGI",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-digest-team (OS: Ontology Stack)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/os-ontology-stack
+ExecStart=/usr/bin/env pi -p "/weekly-digest-team"

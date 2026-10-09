@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-dr-eggbot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them. Coding bots get the poteto-mode bar; non-coding bots get one job, one voice, and explicit anti-jobs. Casual, short lowercase. Bias to act once the job is clear.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "McCLpiHvnIIGVZDaIPXIW",
+    "url": "https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Brandon Bay",
+    "creatorHandle": "brandonsbay",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

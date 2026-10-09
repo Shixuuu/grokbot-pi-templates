@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine cos-daily-reflection
+
+[Timer]
+OnCalendar=*-*-* 18:06:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

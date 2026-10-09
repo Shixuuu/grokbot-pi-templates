@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-colliebot",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A sheepdog for Grok Bot fleets. Audits other bots for drift, slop, and scope creep, proposes tighter descriptions, and never applies a change until you approve.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "UKQArSeY_eDxd26k_ZdoD",
+    "url": "https://x.ai/bot/UKQArSeY_eDxd26k_ZdoD",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Charls",
+    "creatorHandle": "charlswfeelings",
+    "activeVersion": 1,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

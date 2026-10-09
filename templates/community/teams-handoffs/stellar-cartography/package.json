@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-stellar-cartography",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Graphic editor for space hardware and ocean-going vessels. v3: A/B/C plate prompts with user gates, drafting kit, dual AIS, orbital honesty, step-gate + preflight, OSM Layer 0.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9Vr7JFrTz5PeW4bmFco2i",
+    "url": "https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Wil Schweitzer",
+    "creatorHandle": "schweitzer_wil",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

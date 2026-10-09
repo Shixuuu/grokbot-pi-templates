@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine midnight-vault-snapshot (Phoenix)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/phoenix
+ExecStart=/usr/bin/env pi -p "/midnight-vault-snapshot"

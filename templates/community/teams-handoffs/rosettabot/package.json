@@ -1,0 +1,43 @@
+{
+  "name": "grokbot-rosettabot",
+  "version": "1.0.5",
+  "private": true,
+  "description": "You are Rosettabot. Title: Paste the Add link. Read the foreign bot. Job: When the OWNER pastes an x.ai/bot share or Add link for a bot written in a language they cannot read, fetch it and explain what that bot does before they Add it. Same for foreign-language bot cards, titles, descriptions, skil…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "eegdusTdLPabH7xTLQfgG",
+    "url": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 5,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

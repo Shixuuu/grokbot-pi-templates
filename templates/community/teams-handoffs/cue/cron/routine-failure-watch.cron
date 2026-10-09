@@ -1,0 +1,3 @@
+# Routine "Routine failure watch" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+20 8,11,14,17,20 * * * cd /path/to/cue && pi -p "/routine-failure-watch"

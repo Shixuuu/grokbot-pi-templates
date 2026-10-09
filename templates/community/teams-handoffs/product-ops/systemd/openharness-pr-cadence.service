@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine openharness-pr-cadence (Product Ops)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/product-ops
+ExecStart=/usr/bin/env pi -p "/openharness-pr-cadence"

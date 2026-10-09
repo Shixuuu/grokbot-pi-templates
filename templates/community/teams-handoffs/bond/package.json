@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-bond",
+  "version": "1.0.1",
+  "private": true,
+  "description": "A confidentiality bot. ONLY job: take one confidential mission (transpose, extract, report), do it, write a short audit of what happened (steps and destinations, never the payload), then self-destruct the working copy. Anti-jobs: never keep the source data after the mission. never write secrets int…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "iZvo8_lHfF0csZ-YmcZpv",
+    "url": "https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "lauren 🎀",
+    "creatorHandle": "poteto",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

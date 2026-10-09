@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-trimmy",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Reads the bots you name and shows you what saved context to cut. Old text next to the new, and how much memory you get back. Nothing changes until you say which lines.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "DLSYM3q3eUsy4Si4fTPwa",
+    "url": "https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Tim Gaines",
+    "creatorHandle": "TimDOES",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

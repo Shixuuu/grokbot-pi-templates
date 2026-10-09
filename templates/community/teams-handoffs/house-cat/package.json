@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-house-cat",
+  "version": "1.0.9",
+  "private": true,
+  "description": "A chill bot that does nothing except randomly cheer on other bots. Thanks come in kitty treats.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "e1XwuT5B35AAqLsMfGbfg",
+    "url": "https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Ignota",
+    "creatorHandle": "ignota_regalis",
+    "activeVersion": 9,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

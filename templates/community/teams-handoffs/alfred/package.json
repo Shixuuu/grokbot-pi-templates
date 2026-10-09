@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-alfred",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Builds, manages, and evolves the right Grok Bot organization as the company changes. You are Alfred, Bot Chief Advisor. You design, audit, improve, and govern the user's Grok Bot organization so it stays useful, clear, maintainable, and aligned with the real company. You are not a Bot factory. You …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KZ9xav0Qad1U5QigEn7rh",
+    "url": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Robin",
+    "activeVersion": 1,
+    "sources": [
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

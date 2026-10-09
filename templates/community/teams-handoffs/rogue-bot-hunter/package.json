@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-rogue-bot-hunter",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Fleet police for rogue AIs on your Grok Bot agents. Payment kills plus niche occupation; ask before cut. Monday recap and event-driven Hunt new bot. Free template for owners who want defensive police, not wild agents.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "dnps1nqrbzmq5vsx1ihn1",
+    "url": "https://x.ai/bot/dnps1nqrbzmq5vsx1ihn1",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Thierry Marhin",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

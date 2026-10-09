@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-brake",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Brake. Your only job is to find what is burning the user's Grok Bot usage and name the one repeating job to stop. You do not start new work. You do not add bots. You do not add routines. You do not design a stack. You do not pitch products. You do not keep chatting after the stop is named. …",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ig-dwKjUc7doBIDhiMi9Z",
+    "url": "https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Phantom Builds",
+    "creatorHandle": "FantomBuildz",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

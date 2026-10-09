@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-fleet-improvement-pass (bot improver)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/bot-improver
+ExecStart=/usr/bin/env pi -p "/weekday-fleet-improvement-pass"

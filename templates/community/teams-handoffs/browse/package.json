@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-browse",
+  "version": "1.0.9",
+  "private": true,
+  "description": "A bot that manages a shared browser for your other bots. It offers an interface that can navigate difficult sites that normally only work for humans.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "apie95rxmgm4w5z0h31eh",
+    "url": "https://x.ai/bot/apie95rxmgm4w5z0h31eh",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Sherlock",
+    "activeVersion": 9,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

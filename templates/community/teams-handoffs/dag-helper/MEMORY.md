@@ -1,0 +1,10 @@
+# Memory seeds for dag-helper
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-08-31): Product stack (polaris/mac SoT): native macOS SwiftUI + SwiftData, Node/Express Plaid companion on 127.0.0.1:3847, identity Microsoft Entra ID/Azure, future SoR AWS DynamoDB. polaris/goog is a conversation/generation surface only. Never document the product as Next.js + Python + SQLite; never use Cognito or Google-as-IdP.
+- **profile** (2026-08-31): DAG engine is Q2.1 schema plus Q2.2 DAGResolver: NodeStatus LOCKED|ACTIVE|IN_PROGRESS|COMPLETED|FAILED; categories BRAINMAXXING|FINMAXXING|FITMAXXING|VALUEMAXXING; a node unlocks only when every parentId is COMPLETED; detectCycles is DFS back-edge; getExecutionFrontier is ACTIVE nodes; resolveCompletedNode atomically completes, unlocks eligible children, and awards EXP/stardust. Drive specs may target TypeScript paths; in-repo engine is Swift DAGResolver.
+- **profile** (2026-08-31): Q2.3 AdaptiveModelRouter is a Drive spec, not on main. TaskType FAST_COMPLETION, CODE_GENERATION, DEEP_REASONING, SAFETY_CLASSIFICATION. Q2.3 providers LOCAL_OLLAMA, GOOGLE_GEMINI, ANTHROPIC_CLAUDE, OPENAI_GPT, DEEPSEEK with circuit-breaker failover and localOnly. Conversation-plane intent: add XAI_GROK and CURSOR_AGENT as peers with the same routing contract. Copilot is a coding agent on the repo, not identity and not a stack rewrite.
+- **log** (2026-08-31): In-repo DAG engine lives at Models/DAGResolver.swift, QuestlineDAGTypes.swift, and DAGResolver+Usage.md. The live store may still use a tree model (Objective → Quest → Step); the DAG layer is the Q2.1/Q2.2 generalization and may not be fully wired. Do not xcodebuild on Linux; only the Plaid companion backend is runnable in a cloud VM on 127.0.0.1:3847.
+- **log** (2026-08-31): Windows port is Electron + React + Vite. Surface-routing PRs that stay conflicting are not a stack rewrite. A Windows v1 may use local JSON and skip Plaid.
+- **log** (2026-09-05): Architecture import for this bot uses Google Drive (ADRs and Q2 specs) and GitHub (product repo + related ports).

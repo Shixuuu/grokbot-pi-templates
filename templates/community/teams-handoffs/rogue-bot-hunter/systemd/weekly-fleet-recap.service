@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-fleet-recap (Rogue Bot Hunter)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/rogue-bot-hunter
+ExecStart=/usr/bin/env pi -p "/weekly-fleet-recap"

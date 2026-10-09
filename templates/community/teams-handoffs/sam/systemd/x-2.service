@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine x-2 (Sam)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/sam
+ExecStart=/usr/bin/env pi -p "/x-2"

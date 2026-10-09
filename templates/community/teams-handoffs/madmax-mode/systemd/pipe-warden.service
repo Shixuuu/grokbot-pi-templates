@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine pipe-warden (MadMax Mode)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/madmax-mode
+ExecStart=/usr/bin/env pi -p "/pipe-warden"

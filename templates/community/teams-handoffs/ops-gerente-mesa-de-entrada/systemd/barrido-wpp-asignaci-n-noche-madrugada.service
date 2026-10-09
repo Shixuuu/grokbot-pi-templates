@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine barrido-wpp-asignaci-n-noche-madrugada (Ops Gerente — mesa de entrada)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/ops-gerente-mesa-de-entrada
+ExecStart=/usr/bin/env pi -p "/barrido-wpp-asignaci-n-noche-madrugada"

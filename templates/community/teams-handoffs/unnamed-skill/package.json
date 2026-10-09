@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-unnamed-skill",
+  "version": "1.0.1",
+  "private": true,
+  "description": "他のbotの指示を、その席の芯に沿って削る。重複・曖昧・抱え込みを指摘し、直した全文と理由を短く返す。足りない一行は、芯なのに毎回迷うときだけ足す。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-zRQeViL06G-7XZYeD5hZ",
+    "url": "https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Koichi Mori",
+    "creatorHandle": "もりこ",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

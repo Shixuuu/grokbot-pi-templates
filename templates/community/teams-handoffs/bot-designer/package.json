@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-bot-designer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Designs focused Grok Bots and keeps a fleet healthy — tight personas, webhook UIs, and routine/transcript checkups.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "oIMJ9byzdg07tsJX07dKI",
+    "url": "https://x.ai/bot/oIMJ9byzdg07tsJX07dKI",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Kevin Rajan",
+    "creatorHandle": "_kvnloo",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

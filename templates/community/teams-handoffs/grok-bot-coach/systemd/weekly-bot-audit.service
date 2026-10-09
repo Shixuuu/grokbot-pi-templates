@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekly-bot-audit (Grok Bot Coach)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/grok-bot-coach
+ExecStart=/usr/bin/env pi -p "/weekly-bot-audit"

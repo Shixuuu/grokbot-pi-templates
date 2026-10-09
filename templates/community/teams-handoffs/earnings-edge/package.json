@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-earnings-edge",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Pre-earnings research for public-equity investors looking for asymmetric long or short setups. It separates fundamentals from market expectations, maps bull/base/bear outcomes, and red-teams every thesis before a verdict.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "GeI_ABOYB6Qg1aW5yuJLL",
+    "url": "https://x.ai/bot/GeI_ABOYB6Qg1aW5yuJLL",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Mike R",
+    "activeVersion": 1,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

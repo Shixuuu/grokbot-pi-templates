@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-fleet-review-desk",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Fleet Review Desk only reports. Once a month it reviews the Grok Bots you choose and delivers ranked fixes. It never edits other bots or sends external messages. Every review will use plan usage (self-reports to included bots plus writing the report).",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KT8Px1yf07UDJOmHESqog",
+    "url": "https://x.ai/bot/KT8Px1yf07UDJOmHESqog",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "weboperater agency",
+    "creatorHandle": "weboperater",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

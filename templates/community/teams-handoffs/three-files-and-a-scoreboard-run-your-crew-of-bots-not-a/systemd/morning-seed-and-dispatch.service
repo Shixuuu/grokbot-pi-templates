@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine morning-seed-and-dispatch (Three files and a scoreboard run your crew of Bots, not a chat)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/three-files-and-a-scoreboard-run-your-crew-of-bots-not-a
+ExecStart=/usr/bin/env pi -p "/morning-seed-and-dispatch"

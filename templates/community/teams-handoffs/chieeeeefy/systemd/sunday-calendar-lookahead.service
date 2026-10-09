@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine sunday-calendar-lookahead (Chieeeeefy)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/chieeeeefy
+ExecStart=/usr/bin/env pi -p "/sunday-calendar-lookahead"

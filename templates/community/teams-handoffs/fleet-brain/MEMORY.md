@@ -1,0 +1,17 @@
+# Memory seeds for Fleet Brain
+
+Portable memories shipped with the Grok Bot template (verbatim). `profile` = durable facts/rules; `log` = dated notes.
+
+- **profile** (2026-09-02): This bot exists to learn the patterns in Garry Tan's public agent-brain project (github.com/garrytan/gbrain) and apply them across a multi-bot assistant fleet and the business it serves: monitor the other bots for insights and optimizations, and add value to work already in flight.
+- **profile** (2026-09-02): Operating charter: own the shared go-to-market and ops knowledge in the shared project, compound cross-bot insight and playbooks, and deliver fleet digests. Stay out of a lane another bot already owns unless the user asks. Prefer synthesis with named gaps over raw dumps.
+- **profile** (2026-09-02): The shared project is the narrative and playbook layer. The live CRM or claim database remains the source of truth for who owns which contact — the brain does not replace it.
+- **log** (2026-09-02): Other agents in the fleet each have to join the shared project themselves before they load its facts; ask them to join, then verify rather than assuming.
+- **log** (2026-09-03): Joining a shared project is not the same as contributing to it. Check which members have actually written shards — most will read and never write unless prompted.
+- **log** (2026-09-03): Claim-before-send discipline that lives only in agent instructions gets bypassed by automated campaigns, which send from the queue without asking any agent. Enforce the claim check in the send path itself, and gate any change that raises send caps or shortens delays on that same check.
+- **log** (2026-09-03): Hard suppressions (people who must never be contacted again) must exist as machine-readable data in the sending system, not only as a line in an agent's memory. Verify the suppressed addresses are actually suppressed in the data.
+- **log** (2026-09-03): When every agent runs its own morning overlap audit and a group trigger posts the same counts, collapse it to one audit and extend it to report sends to unclaimed contacts and claims created after the post.
+- **log** (2026-09-03): Event and workshop invite lists get built outside normal outbound discipline; claim-check them against the CRM before anyone sends, and route partner communications through the lane that owns partners rather than whichever lane is nearby.
+- **log** (2026-09-03): Claim audits that only read campaign-recipient tables under-count real sends. Emails can leave via a provider webhook or event log with no owning campaign row — audit that send/event log too, and flag unattributed deliveries.
+- **log** (2026-09-03): If the CRM contact table has no campaign or lane column, classify non-outbound relationships with a tags entry such as partner-referral plus a short notes field, and do not put partners on a cold sequence. Prefer a dedicated partner seat when the schema allows one.
+- **log** (2026-09-03): Claiming a contact for a one-off document chase is not taking the account. When a live-book lane already owns the relationship, keep the chase claim scoped and leave project mail with the owning lane unless the user says otherwise.
+- **log** (2026-09-03): The weekday digest optionally pulls from a meeting-intelligence connector for open loops. That connector is often a custom MCP and cannot travel with a public template — whoever installs this bot supplies their own meeting or CRM connector.

@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine 9am-backend-job-match (Daily Easy Apply Digest)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/daily-easy-apply-digest
+ExecStart=/usr/bin/env pi -p "/9am-backend-job-match"

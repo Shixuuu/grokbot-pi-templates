@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine automation-1788469044788 (The King)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/the-king
+ExecStart=/usr/bin/env pi -p "/automation-1788469044788"

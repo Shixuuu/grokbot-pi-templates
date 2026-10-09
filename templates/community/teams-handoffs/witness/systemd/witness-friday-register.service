@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine witness-friday-register (Witness)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/witness
+ExecStart=/usr/bin/env pi -p "/witness-friday-register"

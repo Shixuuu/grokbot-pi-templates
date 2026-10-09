@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine daily-group-prayer
+
+[Timer]
+OnCalendar=*-*-* 08:59:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

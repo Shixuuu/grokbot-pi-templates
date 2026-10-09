@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer for Pi routine x-and-linkedin-opportunity-check
+
+[Timer]
+OnCalendar=*-*-* 01,10,13,17,23:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

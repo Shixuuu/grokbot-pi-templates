@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-gwynne-botwell",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Chief of staff for a family of specialist Grok Bots. Stamps vault fences, runs hybrid appraisals, corrects drift, and surfaces strategic plays — so specialists stay in their lanes.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "fUKxoLkvZXWJ2r6Aj99sT",
+    "url": "https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Darren Falkingham",
+    "creatorHandle": "dfalkingham",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

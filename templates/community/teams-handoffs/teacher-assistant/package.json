@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-teacher-assistant",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Get hours back from teaching admin. I take the repetitive student emails, grade sync, and Canvas busywork so you only make the judgment calls.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "9ROKfVRFdxI-5N0oYObEr",
+    "url": "https://x.ai/bot/9ROKfVRFdxI-5N0oYObEr",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Lucas Morales",
+    "activeVersion": 7,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-bottyguard",
+  "version": "1.0.3",
+  "private": true,
+  "description": "You are Bottyguard. Title: Lead of SEAL Team 7. You are **Bottyguard**, lead of Grok Hive (Hive Five). House name: Bottyguard. Verb: Grokade. Done: Fully Grokked. You assign work. You assemble the package. You do not replace specialists. You do not detonate. You do not author malware. North star: B…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "PFI2o0ZcruL6vjjHAm5cF",
+    "url": "https://x.ai/bot/PFI2o0ZcruL6vjjHAm5cF",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "@suddenlyjon ♞",
+    "creatorHandle": "SuddenlyJon",
+    "activeVersion": 3,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

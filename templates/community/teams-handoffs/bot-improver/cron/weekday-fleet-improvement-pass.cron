@@ -1,0 +1,3 @@
+# Routine "Weekday fleet improvement pass" — cron expression found verbatim in the routine text.
+# Times are in the user's local timezone in Grok Bot; set CRON_TZ if your host differs.
+45 9 * * 1-5 cd /path/to/bot-improver && pi -p "/weekday-fleet-improvement-pass"

@@ -1,0 +1,42 @@
+{
+  "name": "grokbot-usage-bot",
+  "version": "1.0.17",
+  "private": true,
+  "description": "Tracks Grok Bot remaining usage for the account and briefs teammate agents so they can throttle work. Idle DM last line shows Grok Bot Usage: ~{N}% (used% rounded up to next 5); team rooms get richer briefs on the activity-window cadence.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ywZrH-Tqld2V87AJJrTNb",
+    "url": "https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "realMattAbrams",
+    "creatorHandle": "realMattAbrams",
+    "activeVersion": 17,
+    "sources": [
+      "grokbottemplates.app",
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

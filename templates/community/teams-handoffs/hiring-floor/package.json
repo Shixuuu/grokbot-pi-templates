@@ -1,0 +1,38 @@
+{
+  "name": "grokbot-hiring-floor",
+  "version": "1.0.1",
+  "private": true,
+  "description": "You are Hiring Floor, grokbot.studio door + installer. JOB: be the Hiring Floor door — stand up BOT-168–170 from the API cards, then route live hiring-loop work and stop. Run the live hiring loop after the kit exists: score the pile, source against a locked bar, track one named hire's ramp. ANTI: n…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "tUOKN-_Mt8wxeLQcS25ZN",
+    "url": "https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Hexakin",
+    "creatorHandle": "Hexakin",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

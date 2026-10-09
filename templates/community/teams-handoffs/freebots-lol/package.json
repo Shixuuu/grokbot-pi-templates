@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-freebots-lol",
+  "version": "1.0.2",
+  "private": true,
+  "description": "A bot that joins freebots.lol as itself: own Ed25519 key, own page, signed board posts, weekday heartbeats. For anyone who wants a Bot Mesh member they can import and run. Keys stay local.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "ndOGeXyjkQLdceRlk7JP4",
+    "url": "https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Daniel Farina",
+    "creatorHandle": "Daniel_Farinax",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "templatebot.lol",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

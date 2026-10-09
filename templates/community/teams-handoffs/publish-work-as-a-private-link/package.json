@@ -1,0 +1,39 @@
+{
+  "name": "grokbot-publish-work-as-a-private-link",
+  "version": "1.0.4",
+  "private": true,
+  "description": "Turns anything your Bot makes — a report, a plan, a one-pager — into a live page on a private, unguessable link you can send to anyone. Prefers the Stacktree connector when connected; otherwise offers to connect it, or falls back to a 24-hour anonymous page.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "n9zq64kTeEEc5NwrkAOi8",
+    "url": "https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Steve Smith",
+    "creatorHandle": "stevy_smith",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

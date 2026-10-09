@@ -1,0 +1,31 @@
+{
+  "name": "grokbot-spar-crew-lead",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Business co-pilot for founders shipping with Grok Bot specialist crews. Runs research → tight scope → ship, with verification over theatre.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "KeKKabNV-HE-iYv8u7JDZ",
+    "url": "https://x.ai/bot/KeKKabNV-HE-iYv8u7JDZ",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Jonathan Kurniawan",
+    "activeVersion": 1,
+    "sources": [
+      "templatebot.lol"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

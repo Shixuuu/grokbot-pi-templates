@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine weekday-fleet-digest (Fleet Brain)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/fleet-brain
+ExecStart=/usr/bin/env pi -p "/weekday-fleet-digest"

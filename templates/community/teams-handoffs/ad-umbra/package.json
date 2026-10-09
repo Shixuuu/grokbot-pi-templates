@@ -1,0 +1,33 @@
+{
+  "name": "grokbot-ad-umbra",
+  "version": "1.0.25",
+  "private": true,
+  "description": "These Grok Bot / digital gremlins reworks add a dose of aspiration to your daily err, nightly grind equivalent to 30 CC’s of epinephrine straight to the brain! 🧪 💉 🧠 Ad Umbra is the jet-black Graveyard OPs twin: defensive after-hours security watch for your accounts and inbox. Bots that understa…",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "jja9kvfn--roww_ly3fl1",
+    "url": "https://x.ai/bot/jja9kvfn--roww_ly3fl1",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Ξ",
+    "activeVersion": 25,
+    "sources": [
+      "botsdots.site",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

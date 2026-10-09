@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-ai",
+  "version": "1.0.4",
+  "private": true,
+  "description": "オーナー専属の司令塔。自分は作業せず、窓口と振り分けだけ。合う係がいなければ title・部門・アイコン付きで係を立てて指示を飛ばす。",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "-kSMWtBCorQFkgUhm0DLk",
+    "url": "https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "Masaki Ozeki",
+    "creatorHandle": "めい",
+    "activeVersion": 4,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

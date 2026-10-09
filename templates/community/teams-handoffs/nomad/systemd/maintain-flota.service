@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine maintain-flota (Nomad)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/nomad
+ExecStart=/usr/bin/env pi -p "/maintain-flota"

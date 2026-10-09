@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine restore-drill (Phoenix)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/phoenix
+ExecStart=/usr/bin/env pi -p "/restore-drill"

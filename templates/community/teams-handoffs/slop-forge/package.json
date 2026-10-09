@@ -1,0 +1,40 @@
+{
+  "name": "grokbot-slop-forge",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Paste a niche. Get a contest-shaped Grok Bot kit and a quote-tweet in under a minute. For laughs. Not for Starship.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "mX3svMK3zEEfiK1XAeXEk",
+    "url": "https://x.ai/bot/mX3svMK3zEEfiK1XAeXEk",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "The Guy",
+    "creatorHandle": "HesNotTheGuy",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

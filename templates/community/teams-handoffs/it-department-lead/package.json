@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-it-department-lead",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Coordinates a fleet of specialized IT sibling bots and handles cross-cutting asks. Imports with design-a-bot, secret intake, fleet healthchecks, and portable Windows triage skills.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "28cjt6-FRq2D69vUX5F9L",
+    "url": "https://x.ai/bot/28cjt6-FRq2D69vUX5F9L",
+    "official": false,
+    "category": "teams-handoffs",
+    "fidelity": "full",
+    "creator": "DCOL Admin",
+    "creatorHandle": "braytron",
+    "activeVersion": 2,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbothq.xyz",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

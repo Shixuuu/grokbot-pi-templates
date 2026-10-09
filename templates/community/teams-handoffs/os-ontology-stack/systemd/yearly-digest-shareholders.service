@@ -1,0 +1,7 @@
+[Unit]
+Description=Pi routine yearly-digest-shareholders (OS: Ontology Stack)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/pi-bots/os-ontology-stack
+ExecStart=/usr/bin/env pi -p "/yearly-digest-shareholders"
