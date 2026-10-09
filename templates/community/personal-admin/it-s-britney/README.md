@@ -6,7 +6,7 @@ Sends random Britney Spears internet dance clips, timed to significant hours of 
 | --- | --- |
 | Original template | https://x.ai/bot/pNLwpHs8rmtMzAkUi-Zu2 |
 | Creator | Hiten Shah ([@hnshah](https://x.com/hnshah)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/its-britney), [grokbotwiki.com](https://www.grokbotwiki.com/bots/it-s-britney), [grokbothq.xyz](https://grokbothq.xyz/bots/it-s-britney), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/pNLwpHs8rmtMzAkUi-Zu2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/its-britney) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A YouTube strategist for creators who want the whole video judged, not just the 
 | --- | --- |
 | Original template | https://x.ai/bot/A42rzhad6J8lhYMOaQ20o |
 | Creator | The Stock Market Bible ([@DavidCarbutt_](https://x.com/DavidCarbutt_)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paddy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paddy), [grokbothq.xyz](https://grokbothq.xyz/bots/paddy), [templatebot.lol](https://templatebot.lol/bot/A42rzhad6J8lhYMOaQ20o), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/paddy), [x-research](https://botsdots.site/templates/paddy) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 12 memory seeds, 0 connectors |

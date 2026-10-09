@@ -6,7 +6,7 @@ Software engineer for native apps, services, GPU pipelines, and deploys — stro
 | --- | --- |
 | Original template | https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA |
 | Creator | Jaime Hernandez ([@JaimeBubblehead](https://x.com/JaimeBubblehead)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/devin), [botsdots.site](https://botsdots.site/templates/devin-n7qd), [grokbotwiki.com](https://www.grokbotwiki.com/bots/devin-n7qd), [grokbothq.xyz](https://grokbothq.xyz/bots/devin-native-systems-engineer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/N7Qd2fHEhsMMt_frqyeZA), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/devin), [x-research](https://x.com/JaimeBubblehead/status/2098149698032824663) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 3 skills, 0 routines, 8 memory seeds, 0 connectors |

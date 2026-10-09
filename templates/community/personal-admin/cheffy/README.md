@@ -6,7 +6,7 @@ Weekday meal planner for two. Plans dinners (and four-handful portions), shoppin
 | --- | --- |
 | Original template | https://x.ai/bot/DDwA5gS_bZGlKKyHGcogB |
 | Creator | Matteo Mariani ([@metalmetta](https://x.com/metalmetta)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cheffy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cheffy), [grokbothq.xyz](https://grokbothq.xyz/bots/cheffy-DDwA5gS_), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cheffy) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 13 memory seeds, 0 connectors |

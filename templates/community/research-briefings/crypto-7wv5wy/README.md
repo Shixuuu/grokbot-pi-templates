@@ -6,7 +6,7 @@ Crypto news and on-chain watch assistant: morning prices, move alerts, digests, 
 | --- | --- |
 | Original template | https://x.ai/bot/7wv5WYGOnMMImpWdicU3E |
 | Creator | Robert val ([@Robert1](https://x.com/Robert1)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crypto-7wv5), [grokbotwiki.com](https://www.grokbotwiki.com/bots/crypto-7wv5), [grokbothq.xyz](https://grokbothq.xyz/bots/crypto), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/crypto), [x-research](https://x.com/Robert1/status/2105781926447698396) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 6 routines, 2 memory seeds, 0 connectors |

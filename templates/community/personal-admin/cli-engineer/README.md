@@ -6,7 +6,7 @@ Coding-agent CLI engineer. Mandatory method from real commits: claim≠observati
 | --- | --- |
 | Original template | https://x.ai/bot/Dt3hU-B3_c0q7P3c5LVzL |
 | Creator | Richard LEE ([@america_snail](https://x.com/america_snail)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cli-engineer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cli-engineer), [grokbothq.xyz](https://grokbothq.xyz/bots/cli-engineer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cli-engineer) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

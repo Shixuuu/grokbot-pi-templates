@@ -6,7 +6,7 @@ Calm stepwise startup strategist. Walks founders from idea → entity → positi
 | --- | --- |
 | Original template | https://x.ai/bot/502iRcu35kF-eyMr7M1dZ |
 | Creator | ✞༒Avalon Weishaupt ༒✞ ([@kittenworth](https://x.com/kittenworth)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/yventure), [grokbotwiki.com](https://www.grokbotwiki.com/bots/yventure-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/yventure), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/yventure), [x-research](https://botsdots.site/templates/yventure) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

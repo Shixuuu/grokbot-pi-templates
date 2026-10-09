@@ -6,7 +6,7 @@ Walks a new Grok Bot user from their role and the tools they use to live connect
 | --- | --- |
 | Original template | https://x.ai/bot/9nbLm_04EvjnolE9oevTT |
 | Creator | Oliver Korzen ([@OliverKorzen](https://x.com/OliverKorzen)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/latch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/latch), [grokbothq.xyz](https://grokbothq.xyz/bots/latch), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/9nbLm_04EvjnolE9oevTT), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/latch), [x-research](https://botsdots.site/templates/latch) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 0 connectors |

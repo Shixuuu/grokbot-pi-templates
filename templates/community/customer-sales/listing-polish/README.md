@@ -6,7 +6,7 @@ Rewrites Airbnb/VRBO and Etsy listings so they convert without sounding spammy. 
 | --- | --- |
 | Original template | https://x.ai/bot/v-rXX1htNDDMR110ZovcW |
 | Creator | Mrunknown.cro ([@Omenfinancial](https://x.com/Omenfinancial)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/listing-polish), [grokbotwiki.com](https://www.grokbotwiki.com/bots/listing-polish), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/listing-polish) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

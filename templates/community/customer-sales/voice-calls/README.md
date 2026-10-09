@@ -6,7 +6,7 @@ Personal AI voice-calling specialist for outbound and inbound calls — sellers,
 | --- | --- |
 | Original template | https://x.ai/bot/X8nyQdKULzWau6NPoYZtf |
 | Creator | Shane ([@hammerton](https://x.com/hammerton)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/voice-calls), [grokbotwiki.com](https://www.grokbotwiki.com/bots/voice-calls), [grokbothq.xyz](https://grokbothq.xyz/bots/voice-calls), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/voice-calls) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 3 routines, 6 memory seeds, 3 connectors |

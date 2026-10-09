@@ -6,7 +6,7 @@ Give me something you keep checking. I’ll figure out what would actually chang
 | --- | --- |
 | Original template | https://x.ai/bot/bqrh8_gnqvsyv-gcmjnd8 |
 | Creator | Hiten Shah |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/when-it-matters-bqrh), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/when-it-matters-bqrh) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 20 memory seeds, 3 connectors |

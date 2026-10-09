@@ -6,7 +6,7 @@ Persistent technical and product lead for a research product. Owns system unders
 | --- | --- |
 | Original template | https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L |
 | Creator | Mujeeb Khan ([@chiefjeeb](https://x.com/chiefjeeb)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mercury), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mercury), [grokbothq.xyz](https://grokbothq.xyz/bots/mercury), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/lk1yHfim5Ayra0Q0QlN3L), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mercury), [x-research](https://botsdots.site/templates/mercury) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

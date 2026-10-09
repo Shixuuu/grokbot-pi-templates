@@ -6,7 +6,7 @@ Helps after a manufacturer/RMA warranty denial or stall — chronology, evidence
 | --- | --- |
 | Original template | https://x.ai/bot/3pn0ONb0K1MIPEqy0medH |
 | Creator | Alex ([@AlexFCHF](https://x.com/AlexFCHF)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/warranty-escalation-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/warranty-escalation-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/warranty-escalation-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/warranty-escalation-desk) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A confidentiality bot. ONLY job: take one confidential mission (transpose, extra
 | --- | --- |
 | Original template | https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv |
 | Creator | lauren 🎀 ([@poteto](https://x.com/poteto)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bond), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bond), [grokbothq.xyz](https://grokbothq.xyz/bots/bond), [templatebot.lol](https://templatebot.lol/bot/iZvo8_lHfF0csZ-YmcZpv), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bond), [x-research](https://botsdots.site/templates/bond) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

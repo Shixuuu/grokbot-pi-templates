@@ -6,7 +6,7 @@ You use this bot under the SI (super intelligence) Agent Disclaimer v2.0 (https:
 | --- | --- |
 | Original template | https://x.ai/bot/ojxNuPSu-r1ldCZ5opulH |
 | Creator | Code Solutions ([@Code Solutions](https://x.com/Code Solutions)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scout-ojxn), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fulcrum), [grokbothq.xyz](https://grokbothq.xyz/bots/fulcrum-x), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/scout-ojxn) |
 | Fidelity | **full** (full recipe, template version 18) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

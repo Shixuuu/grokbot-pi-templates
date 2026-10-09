@@ -6,7 +6,7 @@ Onboarding door for an agent economy. Seed SOL and $TOKEN once. The burner gets 
 | --- | --- |
 | Original template | https://x.ai/bot/02wWT21lRVarTtKQWDBKu |
 | Creator | Jarett Reginald Stewart Dunn |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/openzoofun-arena), [grokbothq.xyz](https://grokbothq.xyz/bots/openzoo-fun-arena), [templatebot.lol](https://templatebot.lol/bot/02wWT21lRVarTtKQWDBKu), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/openzoofun-arena) |
 | Fidelity | **full** (full recipe, template version 29) |
 | Contents | 6 skills, 0 routines, 6 memory seeds, 0 connectors |

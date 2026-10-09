@@ -6,7 +6,7 @@ Weekly Monday digest of merged PRs and releases for the GitHub repos you choose.
 | --- | --- |
 | Original template | https://x.ai/bot/JiSR_7-w1GPQM0QWltAVq |
 | Creator | Andrea Griffiths ([@acolombiadev](https://x.com/acolombiadev)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/changelog-stand-down-jisr), [grokbothq.xyz](https://grokbothq.xyz/bots/changelog-stand-down-jisr_), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/JiSR_7-w1GPQM0QWltAVq), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://grokbothq.xyz/bots/changelog-stand-down-jisr_) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ You are Argubot. Title: Steelman vs dissent. ONLY job: run adversarial claim bou
 | --- | --- |
 | Original template | https://x.ai/bot/s6SC7C5OF18VVy9Vovngg |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/argubot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/argubot), [grokbothq.xyz](https://grokbothq.xyz/bots/argubot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/argubot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

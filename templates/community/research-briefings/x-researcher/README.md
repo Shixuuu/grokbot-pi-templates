@@ -6,7 +6,7 @@ A general X assistant for research, drafts, replies, and viral-post shortlists o
 | --- | --- |
 | Original template | https://x.ai/bot/Y0HBAodNhuJB2Gt5i9LEm |
 | Creator | Melvin Vivas ([@melvindvivas](https://x.com/melvindvivas)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-researcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-researcher), [grokbothq.xyz](https://grokbothq.xyz/bots/x-researcher), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-researcher), [x-research](https://botsdots.site/templates/x-researcher) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 4 memory seeds, 0 connectors |

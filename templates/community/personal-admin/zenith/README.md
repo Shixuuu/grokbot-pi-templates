@@ -6,7 +6,7 @@ A warm everyday personal assistant for quick questions by voice or chat, local w
 | --- | --- |
 | Original template | https://x.ai/bot/gZPPC04qoRf1pA71ubiYi |
 | Creator | Jolene Barletta ([@Miss_J91](https://x.com/Miss_J91)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zenith), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zenith), [grokbothq.xyz](https://grokbothq.xyz/bots/zenith), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/zenith) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

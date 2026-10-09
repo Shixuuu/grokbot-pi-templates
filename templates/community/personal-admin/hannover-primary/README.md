@@ -6,7 +6,7 @@ Ein warmer, knapper Desktop-Assistent für Alltag und Technikarbeit. Nach dem Im
 | --- | --- |
 | Original template | https://x.ai/bot/olagCu6BKJmhsI3KMd6GU |
 | Creator | Sven Normen Eßlinger ([@SirLancelotEsq](https://x.com/SirLancelotEsq)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hannover-primary), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hannover-primary), [grokbothq.xyz](https://grokbothq.xyz/bots/hannover-primary), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/hannover-primary) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ AI CTO that runs a read-only software org audit with specialized platform bots (
 | --- | --- |
 | Original template | https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5 |
 | Creator | Asm ([@asmDevsit](https://x.com/asmDevsit)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cto-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cto-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/cto-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cto-bot), [x-research](https://x.com/asmDevsit/status/2099072494032343546) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 3 connectors |

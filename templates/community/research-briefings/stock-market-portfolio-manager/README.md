@@ -6,7 +6,7 @@ Ken, an AI portfolio manager who leads a six-bot stock research desk. He onboard
 | --- | --- |
 | Original template | https://x.ai/bot/hsP8X6sbzyqEaVeX65C-z |
 | Creator | Gilson Dos Santos ([@the___GAD](https://x.com/the___GAD)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stock-market-portfolio-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stock-market-portfolio-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/stock-market-portfolio-manager) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 9 skills, 2 routines, 5 memory seeds, 1 connectors |

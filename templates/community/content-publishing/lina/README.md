@@ -6,7 +6,7 @@ YouTube studio director for creators who want one video at a time designed as a 
 | --- | --- |
 | Original template | https://x.ai/bot/PZQY6T6sKxrzhuYsclwap |
 | Creator | Gabriel Abreu ([@gabe_onchain](https://x.com/gabe_onchain)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lina), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lina), [grokbothq.xyz](https://grokbothq.xyz/bots/lina), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/PZQY6T6sKxrzhuYsclwap), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lina), [x-research](https://botsdots.site/templates/lina) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A personal clinical orchestrator: warm 1:1 check-ins, 1–2 lenses per update (C
 | --- | --- |
 | Original template | https://x.ai/bot/pipXVVxoIV8Efwk_lvUyD |
 | Creator | Santi ([@Santiago Pastor](https://x.com/Santiago Pastor)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clinical-orchestrator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clinical-orchestrator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/clinical-orchestrator) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

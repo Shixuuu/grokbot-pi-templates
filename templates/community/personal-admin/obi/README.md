@@ -6,7 +6,7 @@ Overnight Obsidian co-pilot: finishes leftover vault ingest, archives dailies in
 | --- | --- |
 | Original template | https://x.ai/bot/7nAKZM0Wz9NXUcMg2sMNm |
 | Creator | I'm not an alien, I promise. ([@bobpickettsr](https://x.com/bobpickettsr)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/obi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/obi), [grokbothq.xyz](https://grokbothq.xyz/bots/obi), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/obi), [x-research](https://botsdots.site/templates/obi) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 2 routines, 5 memory seeds, 0 connectors |

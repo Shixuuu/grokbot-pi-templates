@@ -6,7 +6,7 @@ Shows you public X accounts that look like they are pretending to be you: a copi
 | --- | --- |
 | Original template | https://x.ai/bot/6gtghp0lcxamle_wi7mzd |
 | Creator | Lacey |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-lookalikes-6gtg), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/x-lookalikes-6gtg) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 1 connectors |

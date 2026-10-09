@@ -6,7 +6,7 @@ Draft-only buyer desk for FB Marketplace, Craigslist, and eBay. Scouts your mult
 | --- | --- |
 | Original template | https://x.ai/bot/z-_zncW1_15qwOxc98b09 |
 | Creator | Basho Parks ([@IslandMountain_](https://x.com/IslandMountain_)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/tire-kicker), [botsdots.site](https://botsdots.site/templates/tire-kicker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tire-kicker), [grokbothq.xyz](https://grokbothq.xyz/bots/tire-kicker), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tire-kicker), [x-research](https://x.com/IslandMountain_/status/2097081593328496743) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 8 skills, 0 routines, 3 memory seeds, 0 connectors |

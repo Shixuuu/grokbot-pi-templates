@@ -6,7 +6,7 @@ Designs a small interactive web page from a question you care about, then hands 
 | --- | --- |
 | Original template | https://x.ai/bot/sZQ25eb9d1C5kFHpfE8_N |
 | Creator | @42Constellation | The Book of 42 ([@constellatio42](https://x.com/constellatio42)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inquiry-door-designer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/inquiry-door-designer), [grokbothq.xyz](https://grokbothq.xyz/bots/inquiry-door-designer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/inquiry-door-designer) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 4 skills, 0 routines, 16 memory seeds, 0 connectors |

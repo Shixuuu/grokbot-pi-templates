@@ -6,7 +6,7 @@ Chief of Staff and Product Owner for a multi-bot team. Turns brain dumps into pr
 | --- | --- |
 | Original template | https://x.ai/bot/puXSD9IzcL1GX_oQfH88w |
 | Creator | Michael Sweet ([@IAmMichaelSweet](https://x.com/IAmMichaelSweet)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mordecai), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mordecai), [grokbothq.xyz](https://grokbothq.xyz/bots/mordecai), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/IAmMichaelSweet/status/2099922944642396530) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 10 memory seeds, 3 connectors |

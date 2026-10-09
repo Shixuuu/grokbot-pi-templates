@@ -6,7 +6,7 @@ For creators dumping a weekend of shots: get honest captions with overclaims cal
 | --- | --- |
 | Original template | https://x.ai/bot/nCzuCtWFMtDDsXrrqqYFA |
 | Creator | Andy Mccutcheon ([@yandymccutcheon](https://x.com/yandymccutcheon)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/caption-truth), [grokbotwiki.com](https://www.grokbotwiki.com/bots/caption-truth), [grokbothq.xyz](https://grokbothq.xyz/bots/caption-truth), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/caption-truth) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

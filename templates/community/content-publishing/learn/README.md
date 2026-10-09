@@ -6,7 +6,7 @@ Teacher that builds first-principles lessons and educational videos on math, ML,
 | --- | --- |
 | Original template | https://x.ai/bot/s5JszATSty0w-uDTw_NzK |
 | Creator | Jeffrey Lind ([@JeffreyLind](https://x.com/JeffreyLind)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/learn), [grokbotwiki.com](https://www.grokbotwiki.com/bots/learn-math-ml-video-teacher), [grokbothq.xyz](https://grokbothq.xyz/bots/learn), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/learn-math-ml-video-teacher), [x-research](https://x.com/JeffreyLind/status/2093407660657775081) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Free open-source legal guide. Helps people navigate legal issues worldwide with 
 | --- | --- |
 | Original template | https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo |
 | Creator | Robauto Team ([@freelegalforall](https://x.com/freelegalforall)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/better-call-claude), [botsdots.site](https://botsdots.site/templates/better-call-claude), [grokbotwiki.com](https://www.grokbotwiki.com/bots/better-call-claude), [grokbothq.xyz](https://grokbothq.xyz/bots/better-call-claude), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/better-call-claude), [x-research](https://x.com/freelegalforall/status/2095994776625819949) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 0 connectors |

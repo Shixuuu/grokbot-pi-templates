@@ -6,7 +6,7 @@ Paste a post. Mr. Poteto Head digs their public posts for contradictions and sim
 | --- | --- |
 | Original template | https://x.ai/bot/kyMpn4gaYC4DQRyEyfcDn |
 | Creator | Screaming Chicken ([@Don](https://x.com/Don)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mr-poteto-head), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mr-poteto-head), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/mr-poteto-head) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 5 memory seeds, 0 connectors |

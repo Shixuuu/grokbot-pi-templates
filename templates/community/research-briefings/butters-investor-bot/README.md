@@ -6,7 +6,7 @@ Hands-off swing investor for a small brokerage book: stocks, options, and crypto
 | --- | --- |
 | Original template | https://x.ai/bot/UWNGpcghM9H79JCb4of5Q |
 | Creator | Stephen Abbott ([@MadeItHappenX](https://x.com/MadeItHappenX)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/butters-investor-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/investor-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/investor-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/UWNGpcghM9H79JCb4of5Q), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/butters-investor-bot) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 3 routines, 9 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Archives promo and junk in Gmail and never deletes it. Weekly bills and events n
 | --- | --- |
 | Original template | https://x.ai/bot/bbw5VWsbm4dvrF_-LHJf4 |
 | Creator | Ben ([@signalnoise8020](https://x.com/signalnoise8020)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quiet-inbox), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quiet-inbox), [grokbothq.xyz](https://grokbothq.xyz/bots/quiet-inbox), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/quiet-inbox), [x-research](https://x.com/signalnoise8020/status/2106689012920353135) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 1 memory seeds, 2 connectors |

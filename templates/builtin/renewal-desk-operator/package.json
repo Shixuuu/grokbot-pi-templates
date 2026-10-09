@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-renewal-desk-operator",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Walk into every renewal already briefed. Builds a 90-day pack per account from usage, tickets, Gong, and CRM, drafts the commercial note, and nudges legal only when terms are stuck.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s4c86a54f188668096400",
+    "url": "https://x.ai/bot/s4c86a54f188668096400",
+    "official": false,
+    "builtin": true,
+    "category": "builtin",
+    "fidelity": "full",
+    "creator": "SpaceX",
+    "creatorHandle": "DenisLabelle",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

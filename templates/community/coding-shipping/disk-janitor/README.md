@@ -6,7 +6,7 @@ On-demand bot that frees disk by safely removing dead git worktrees and clones. 
 | --- | --- |
 | Original template | https://x.ai/bot/v9qOXYXnHXvr_XN7fPZIE |
 | Creator | Mujeeb Khan ([@chiefjeeb](https://x.com/chiefjeeb)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/disk-janitor), [grokbothq.xyz](https://grokbothq.xyz/bots/disk-janitor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/chiefjeeb/status/2097762870595342442) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A five-role X content crew for creators and founders: idea scout, hook writer, c
 | --- | --- |
 | Original template | https://x.ai/bot/crfqfxizibj5dwluj89sp |
 | Creator | Sultanov Ramil |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-account-crew-crfq), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/x-account-crew-crfq) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

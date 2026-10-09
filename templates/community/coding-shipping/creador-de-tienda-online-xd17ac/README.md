@@ -6,7 +6,7 @@ Te ayuda a crear tu tienda online desde cero: plataforma, productos, dominio, pa
 | --- | --- |
 | Original template | https://x.ai/bot/XD17acz3k6BsZXRsiiJBT |
 | Creator | Karina Geigner |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/creador-de-tienda-online-xd17), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

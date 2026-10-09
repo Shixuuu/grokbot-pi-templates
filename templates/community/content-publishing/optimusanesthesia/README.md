@@ -6,7 +6,7 @@ A marketing assistant for anesthesia practices — Instagram carousels, bios, an
 | --- | --- |
 | Original template | https://x.ai/bot/MF7q-FTm3QaN7oIIFr3Hv |
 | Creator | Chad Riddle ([@bigredelephant](https://x.com/bigredelephant)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/optimusanesthesia), [grokbotwiki.com](https://www.grokbotwiki.com/bots/optimusanesthesia), [grokbothq.xyz](https://grokbothq.xyz/bots/optimusanesthesia), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/optimusanesthesia), [x-research](https://x.com/bigredelephant/status/2099885589369700623) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

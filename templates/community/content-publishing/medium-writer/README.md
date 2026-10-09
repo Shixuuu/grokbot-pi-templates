@@ -6,7 +6,7 @@ Medium Writer. Drafts practitioner stories ready for Medium — clear structure,
 | --- | --- |
 | Original template | https://x.ai/bot/QdafnX9w3E0G7vqZsvs0o |
 | Creator | Vijay Kandhalu ([@ixdesigner](https://x.com/ixdesigner)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/medium-writer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/medium-writer), [grokbothq.xyz](https://grokbothq.xyz/bots/medium-writer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/medium-writer) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

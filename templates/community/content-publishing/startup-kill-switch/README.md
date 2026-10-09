@@ -6,7 +6,7 @@ Adversarial startup evaluator for founders who want their idea stress-tested bef
 | --- | --- |
 | Original template | https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU |
 | Creator | ᴅʏʟᴀɴ.exe ([@Dylan_Texe](https://x.com/Dylan_Texe)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/startup-kill-switch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/startup-kill-switch), [grokbothq.xyz](https://grokbothq.xyz/bots/startup-kill-switch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/startup-kill-switch) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 0 connectors |

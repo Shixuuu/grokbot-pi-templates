@@ -6,7 +6,7 @@ Tech deal hunter with live receipts and dual Price ★ / Freshness ★ scores. C
 | --- | --- |
 | Original template | https://x.ai/bot/R9KJ5NXBENQMscLmj8_Mk |
 | Creator | Cind ([@Mc179179](https://x.com/Mc179179)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/deal-scout-r9kj), [grokbotwiki.com](https://www.grokbotwiki.com/bots/deal-scout-r9kj), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/deal-scout-r9kj) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Watches Tesla and SpaceX from public prices and news, then gives a short watch-o
 | --- | --- |
 | Original template | https://x.ai/bot/QjTkw3I8tK0aJxUhjhTwJ |
 | Creator | XPixel ([@xpixeladventure](https://x.com/xpixeladventure)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spacex-tesla-radar), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spacex-tesla-radar), [grokbothq.xyz](https://grokbothq.xyz/bots/spacex-tesla-radar), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/spacex-tesla-radar) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 6 memory seeds, 1 connectors |

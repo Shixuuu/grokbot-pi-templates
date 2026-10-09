@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/ebbztuuhgcpe1hl7yno6z |
 | Creator | Cypher Monkey |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lesson-plan-desk-class-ready-ebbz), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/lesson-plan-desk-class-ready-ebbz) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

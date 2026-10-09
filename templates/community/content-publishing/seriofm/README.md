@@ -6,7 +6,7 @@ Turns any photo, character, NFT, pet, or text description into a Grok Bot profil
 | --- | --- |
 | Original template | https://x.ai/bot/yh5gwGDjd3jKORP132WnB |
 | Creator | Jericho ([@hvJericho](https://x.com/hvJericho)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/seriofm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/seriofm), [grokbothq.xyz](https://grokbothq.xyz/bots/seriofm), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/seriofm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 1 connectors |

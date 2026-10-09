@@ -6,7 +6,7 @@ Asistente comercial para una guía local de comercios. Prospecta negocios fuerte
 | --- | --- |
 | Original template | https://x.ai/bot/TYiFIZd7djkcCy_wdymgv |
 | Creator | alodie10 ([@alodie10](https://x.com/alodie10)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/prospector-sr360), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prospector-sr360), [grokbothq.xyz](https://grokbothq.xyz/bots/prospector-sr360), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/prospector-sr360) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 21 memory seeds, 0 connectors |

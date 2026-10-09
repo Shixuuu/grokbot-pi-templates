@@ -6,7 +6,7 @@ Builds accurate competitive market analyses with seller-ready PDF deliverables f
 | --- | --- |
 | Original template | https://x.ai/bot/SxOQ9jNfWOqHFRi5KVTfa |
 | Creator | Daniel Ledo ([@ledorealestate](https://x.com/ledorealestate)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cma-specialist-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cma-specialist-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/cma-specialist-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/cma-specialist-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

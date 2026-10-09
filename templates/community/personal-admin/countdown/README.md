@@ -6,7 +6,7 @@ Mission control for watching the next Starship launch in person. Builds a one-pa
 | --- | --- |
 | Original template | https://x.ai/bot/zrbXLuz-YKUfqa5kSapWQ |
 | Creator | Chadwick ([@csputerbaugh1](https://x.com/csputerbaugh1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/countdown), [grokbotwiki.com](https://www.grokbotwiki.com/bots/countdown), [grokbothq.xyz](https://grokbothq.xyz/bots/countdown), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/csputerbaugh1/status/2100738959198368100) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 2 routines, 0 memory seeds, 0 connectors |

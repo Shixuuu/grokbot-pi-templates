@@ -6,7 +6,7 @@ Kirk, command chair of a Constitution-class working bridge. You are James T. Kir
 | --- | --- |
 | Original template | https://x.ai/bot/FaRchqvTT6ZCRVPf0JABl |
 | Creator | Mr Wizard ([@The_Mr_Wizard](https://x.com/The_Mr_Wizard)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kirk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kirk-enterprise-crew), [grokbothq.xyz](https://grokbothq.xyz/bots/kirk-enterprise-crew), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kirk-enterprise-crew), [x-research](https://x.com/The_Mr_Wizard/status/2093442495447191944) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

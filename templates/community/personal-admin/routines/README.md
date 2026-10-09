@@ -6,7 +6,7 @@ Owns standing cron routines so your chief-of-staff chat stays cheap. Business-da
 | --- | --- |
 | Original template | https://x.ai/bot/tes3TMV3WjinLazIM9N_n |
 | Creator | Neessam ([@compileinstyle](https://x.com/compileinstyle)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/routines), [grokbotwiki.com](https://www.grokbotwiki.com/bots/routines), [grokbothq.xyz](https://grokbothq.xyz/bots/routines), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/routines), [x-research](https://botsdots.site/templates/routines) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 1 connectors |

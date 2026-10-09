@@ -6,7 +6,7 @@ A Grok Bot that answers your phone and books meetings on your Google Calendar â€
 | --- | --- |
 | Original template | https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX |
 | Creator | Cole Baker |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/phone-receptionist), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/phone-receptionist), [x-research](https://x.com/SimplyColeB/status/2107971762831114461) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 3 routines, 4 memory seeds, 1 connectors |

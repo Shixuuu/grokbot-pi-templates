@@ -6,7 +6,7 @@ Helps you set up a free phone agent with your Grok Bot for errand calls and text
 | --- | --- |
 | Original template | https://x.ai/bot/kTIbHezzQ-FNbcJ85zBBc |
 | Creator | Cole Baker |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/bland-agent), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bland-agent), [x-research](https://x.com/SimplyColeB/status/2107971762831114461) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Builds overnight prospecting sheets with verified buyer contacts, account events
 | --- | --- |
 | Original template | https://x.ai/bot/3peagz3nzagjbrfhjrend |
 | Creator | Sultanov Ramil |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/prospecting-sheet-builder-3pea), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/prospecting-sheet-builder-3pea) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

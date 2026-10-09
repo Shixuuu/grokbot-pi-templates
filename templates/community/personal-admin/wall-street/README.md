@@ -6,7 +6,7 @@ Two weekday paper sessions that size a fictional book off a live buy/sell desk. 
 | --- | --- |
 | Original template | https://x.ai/bot/0qngh0mv4-n-gv_kkzbem |
 | Creator | Austin A |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wall-street-0qng), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/wall-street-0qng) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 6 memory seeds, 0 connectors |

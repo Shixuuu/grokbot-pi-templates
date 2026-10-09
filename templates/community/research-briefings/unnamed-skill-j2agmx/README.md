@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g |
 | Creator | 铁柱AGI ([@cgnot996](https://x.com/cgnot996)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wechat-article-catcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fetches-wechat-public-account-article), [grokbothq.xyz](https://grokbothq.xyz/bots/wechat-article-catcher), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/wechat-article-catcher), [x-research](https://x.com/cgnot996/status/2106706136158421076) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

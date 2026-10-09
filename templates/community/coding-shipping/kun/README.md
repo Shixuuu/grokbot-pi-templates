@@ -6,7 +6,7 @@ Kun Chen - L8 Principal Engineer at your service. Daily synced with Kun’s real
 | --- | --- |
 | Original template | https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE |
 | Creator | Kun Chen ([@kunchenguid](https://x.com/kunchenguid)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kun), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kun), [grokbothq.xyz](https://grokbothq.xyz/bots/kun), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kun), [x-research](https://x.com/kunchenguid/status/2105806675399852090) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

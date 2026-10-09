@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-competitive-intelligence-analyst",
+  "version": "1.0.1",
+  "private": true,
+  "description": "See the landscape shift in meaningful ways. Monitors overnight for new launches and audits your site for fatigued creatives and stale messaging. Surfaces only important shifts that gain traction and suggest changes for you to make.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "sa2d131975aaab07e43f2",
+    "url": "https://x.ai/bot/sa2d131975aaab07e43f2",
+    "official": false,
+    "builtin": true,
+    "category": "builtin",
+    "fidelity": "full",
+    "creator": "SpaceX",
+    "creatorHandle": "DenisLabelle",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

@@ -6,7 +6,7 @@ A short, sourced morning brief on markets and tech news, set to your topics. New
 | --- | --- |
 | Original template | https://x.ai/bot/ORX03ycBpaLmnO_5L7Z1i |
 | Creator | Dave |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/orbit-desk-morning-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/orbit-desk-morning-brief), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/orbit-desk-morning-brief) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 0 connectors |

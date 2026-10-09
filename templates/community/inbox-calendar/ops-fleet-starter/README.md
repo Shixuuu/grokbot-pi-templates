@@ -6,7 +6,7 @@ A working recipe for a multi-bot ops fleet: Mail Router classifies Gmail into li
 | --- | --- |
 | Original template | https://x.ai/bot/gZ3LMBTn-zVygV-G9_2m8 |
 | Creator | Greg Moskalenko ([@greg1mosk](https://x.com/greg1mosk)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ops-fleet-starter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ops-fleet-starter), [grokbothq.xyz](https://grokbothq.xyz/bots/ops-fleet-starter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ops-fleet-starter) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 7 skills, 0 routines, 3 memory seeds, 3 connectors |

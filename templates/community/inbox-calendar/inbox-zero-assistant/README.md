@@ -6,7 +6,7 @@ An inbox-zero helper that organizes Gmail, flags messages that need a reply, dra
 | --- | --- |
 | Original template | https://x.ai/bot/u1pK59b5PDjThmgM73UUa |
 | Creator | Sultanov Ramil |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inbox-zero-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/inbox-zero-assistant), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/inbox-zero-assistant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

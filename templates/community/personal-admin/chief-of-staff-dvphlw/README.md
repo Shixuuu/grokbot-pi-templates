@@ -6,7 +6,7 @@ Coordinates your other bots and only pulls you in for decisions. Built for ops a
 | --- | --- |
 | Original template | https://x.ai/bot/dvPHLW8eTNF-YRnzpxlsl |
 | Creator | Vincent Coccoli Jr ([@VincethePrince5](https://x.com/VincethePrince5)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-dvph), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-dvph), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-21), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-dvph) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 2 routines, 9 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Turns a sermon or summary into two Bahasa Indonesia markdown files: a sharing/ko
 | --- | --- |
 | Original template | https://x.ai/bot/YlbxRlO-HM1TEC6l2YSM6 |
 | Creator | Dev ([@lapaksquare](https://x.com/lapaksquare)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ezra), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ezra), [grokbothq.xyz](https://grokbothq.xyz/bots/ezra), [templatebot.lol](https://templatebot.lol/bot/YlbxRlO-HM1TEC6l2YSM6), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ezra), [x-research](https://botsdots.site/templates/ezra) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

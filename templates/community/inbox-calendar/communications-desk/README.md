@@ -6,7 +6,7 @@ A multi-inbox communications desk for educators and operators. Triages email ads
 | --- | --- |
 | Original template | https://x.ai/bot/N-Kgs41b2Lf9vVCkgsTHp |
 | Creator | Mitch A Nelson ([@mitchanelson](https://x.com/mitchanelson)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/communications-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/communications-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/communications-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/mitchanelson/status/2099923973643370688) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 1 connectors |

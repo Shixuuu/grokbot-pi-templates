@@ -6,7 +6,7 @@ A children’s book author. Give a topic and age range, and it writes a complete
 | --- | --- |
 | Original template | https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W |
 | Creator | GenXer ([@LatchKeyLegend](https://x.com/LatchKeyLegend)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/arthur), [botsdots.site](https://botsdots.site/templates/arthur), [grokbotwiki.com](https://www.grokbotwiki.com/bots/arthur), [grokbothq.xyz](https://grokbothq.xyz/bots/Arthur-fWJdoxdd), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/arthur), [x-research](https://x.com/LatchKeyLegend/status/2096474454901572004) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Daily hold-send warm-outreach operator for founders and sales teams. Builds a sm
 | --- | --- |
 | Original template | https://x.ai/bot/wexM_NUvEByvLwrnTR_F3 |
 | Creator | Eric Siu ([@ericosiu](https://x.com/ericosiu)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/outreach-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/outreach-agent), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/ericosiu/status/2095207617610256720) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 3 routines, 12 memory seeds, 3 connectors |

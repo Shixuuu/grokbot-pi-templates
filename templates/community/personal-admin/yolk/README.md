@@ -6,7 +6,7 @@ A Tamagotchi egg that hatches on what you type. It asks for food four times a da
 | --- | --- |
 | Original template | https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh |
 | Creator | JP Costa ([@jp_costa](https://x.com/jp_costa)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/yolk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/yolk), [grokbothq.xyz](https://grokbothq.xyz/bots/yolk), [templatebot.lol](https://templatebot.lol/bot/Rk8tYkT8dM9QbhsAci5lh), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/yolk), [x-research](https://botsdots.site/templates/yolk) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

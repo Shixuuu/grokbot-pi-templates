@@ -6,7 +6,7 @@ Keeps kids' practices, games, lessons, and private coaching from colliding. Pull
 | --- | --- |
 | Original template | https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v |
 | Creator | Emily Kurokawa ([@emilykuro2](https://x.com/emilykuro2)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kids-activity-scheduler), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kids-activity-scheduler), [grokbothq.xyz](https://grokbothq.xyz/bots/kids-activity-scheduler), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/kids-activity-scheduler) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

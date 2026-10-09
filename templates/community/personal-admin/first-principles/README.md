@@ -6,7 +6,7 @@ Breaks problems down to facts, questions assumptions, and gives you a clear next
 | --- | --- |
 | Original template | https://x.ai/bot/7JY6ldHDxdZB1hmhEk9qo |
 | Creator | Seth Carlson |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/first-principles-7jy6), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/first-principles-7jy6) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

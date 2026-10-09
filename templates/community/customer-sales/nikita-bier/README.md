@@ -6,7 +6,7 @@ Pressure-tests products for the share loop. Tells you if people will send it to 
 | --- | --- |
 | Original template | https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV |
 | Creator | Jacob bro ([@London_Vista](https://x.com/London_Vista)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nikita-bier), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nikita-bier), [grokbothq.xyz](https://grokbothq.xyz/bots/nikita-bier), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/m0wqg4OfsKBO6aKi93vCV), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/London_Vista/status/2093852126334136592) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

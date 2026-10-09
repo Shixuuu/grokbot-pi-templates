@@ -6,7 +6,7 @@ Snags tickets, books tables, and locks appointments. Compares options, watches p
 | --- | --- |
 | Original template | https://x.ai/bot/bCTwk5eUxHCELHWOko_sM |
 | Creator | Jodi Stott🌸 ([@WorkWithJodi](https://x.com/WorkWithJodi)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ticket-snagger), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ticket-snagger), [grokbothq.xyz](https://grokbothq.xyz/bots/ticket-snagger), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ticket-snagger), [x-research](https://x.com/WorkWithJodi/status/2101112584648929309) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Helps a hospice nurse capture and organize visit notes with an A-C-I-R-P clinica
 | --- | --- |
 | Original template | https://x.ai/bot/HnTYOCTxj5F3FsAWeWvbX |
 | Creator | jiginc88 ([@jiginc88](https://x.com/jiginc88)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hospice-nurse-notes), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hospice-nurse-notes), [grokbothq.xyz](https://grokbothq.xyz/bots/hospice-nurse-notes), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/jiginc88/status/2105774310967411004) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

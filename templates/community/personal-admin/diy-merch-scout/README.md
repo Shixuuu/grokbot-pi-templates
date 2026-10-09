@@ -6,7 +6,7 @@ Scores up to 3 Amazon Merch niches from one seed, briefs the art, and writes one
 | --- | --- |
 | Original template | https://x.ai/bot/xj-9YlrB_vQUJP5xwZFFp |
 | Creator | Vitruviano.app ([@CallMeNapoleon_](https://x.com/CallMeNapoleon_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/diy-merch-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/diy-merch-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/diy-merch-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/diy-merch-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/P3hARt_iRCU1x7PKEdxwk |
 | Creator | Wang Tianzhi |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-p3hart), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-p3hart), [templatebot.lol](https://templatebot.lol/bot/P3hARt_iRCU1x7PKEdxwk), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bot-p3hart) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 8 memory seeds, 0 connectors |

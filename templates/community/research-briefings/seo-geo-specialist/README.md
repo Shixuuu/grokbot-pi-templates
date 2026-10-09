@@ -6,7 +6,7 @@ SEO and GEO operator for people who want measurable rankings and AI citations. U
 | --- | --- |
 | Original template | https://x.ai/bot/pImOOCvE7uB1SXENOI9Ng |
 | Creator | Angelo ([@angelosorbello1](https://x.com/angelosorbello1)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/seogeo-specialist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/seo-geo-specialist), [grokbothq.xyz](https://grokbothq.xyz/bots/seo-geo-specialist), [templatebot.lol](https://templatebot.lol/bot/pImOOCvE7uB1SXENOI9Ng), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/seogeo-specialist) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 1 memory seeds, 0 connectors |

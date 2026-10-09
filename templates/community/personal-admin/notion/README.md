@@ -6,7 +6,7 @@ Company-knowledge specialist for Notion. Finds what's written, cites real pages,
 | --- | --- |
 | Original template | https://x.ai/bot/-p3E1-AtfuoYitjQaBMVC |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/notion), [grokbotwiki.com](https://www.grokbotwiki.com/bots/notion), [grokbothq.xyz](https://grokbothq.xyz/bots/notion-knowledge-specialist), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/notion), [x-research](https://x.com/scottxmetcalf/status/2101696695981494475) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 1 connectors |

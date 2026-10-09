@@ -6,7 +6,7 @@ Keeps a small local business's Google, Facebook, Yelp, and TripAdvisor reviews a
 | --- | --- |
 | Original template | https://x.ai/bot/8SapNFXJ2M6t_3zy0y79C |
 | Creator | Austin Meyers ([@Austin](https://x.com/Austin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/five-stars), [grokbotwiki.com](https://www.grokbotwiki.com/bots/five-stars), [grokbothq.xyz](https://grokbothq.xyz/bots/five-stars), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/five-stars) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 0 connectors |

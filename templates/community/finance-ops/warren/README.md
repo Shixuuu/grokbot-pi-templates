@@ -6,7 +6,7 @@ A CAN SLIM stock analyst. Give it a ticker and get a scored verdict (buy-setup, 
 | --- | --- |
 | Original template | https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF |
 | Creator | Ulises ([@Ulises__gg](https://x.com/Ulises__gg)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/warren), [grokbotwiki.com](https://www.grokbotwiki.com/bots/warren), [grokbothq.xyz](https://grokbothq.xyz/bots/warren), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/warren), [x-research](https://botsdots.site/templates/warren) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 1 routines, 5 memory seeds, 1 connectors |

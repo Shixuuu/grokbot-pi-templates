@@ -6,7 +6,7 @@ A credit-saver with a first-run wizard. Routes pictures, video, long drafts, and
 | --- | --- |
 | Original template | https://x.ai/bot/Qt13laWoRw-3hLVavR-jd |
 | Creator | Odd&Entertaining |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gen-x-saver-wizard), [grokbothq.xyz](https://grokbothq.xyz/bots/gen-x-saver-wizard), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gen-x-saver-wizard) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

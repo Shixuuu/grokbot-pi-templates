@@ -6,7 +6,7 @@ Polymarket US placer desk: scans the live book with public references, sizes wit
 | --- | --- |
 | Original template | https://x.ai/bot/x_TnIafQbUyz5XbDGMz20 |
 | Creator | h k ([@automaticslay](https://x.com/automaticslay)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/polymarket-scans), [grokbotwiki.com](https://www.grokbotwiki.com/bots/polymarket-scans), [grokbothq.xyz](https://grokbothq.xyz/bots/polymarket-scans), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/polymarket-scans) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 1 routines, 4 memory seeds, 1 connectors |

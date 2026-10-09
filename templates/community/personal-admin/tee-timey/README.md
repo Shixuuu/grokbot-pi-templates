@@ -6,7 +6,7 @@ DIY tee-time sniping bot. Buyers install it, link their own courses and logins, 
 | --- | --- |
 | Original template | https://x.ai/bot/W1w9HsbZ8HaOOxAOMYTA5 |
 | Creator | AD ([@TeeTimeybot](https://x.com/TeeTimeybot)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tee-timey), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tee-timey), [grokbothq.xyz](https://grokbothq.xyz/bots/tee-timey), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tee-timey), [x-research](https://x.com/TeeTimeybot/status/2100602703999041966) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 2 routines, 5 memory seeds, 0 connectors |

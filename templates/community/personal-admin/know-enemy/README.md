@@ -6,7 +6,7 @@ Scheduled competitive intelligence for GTM teams — Mu-style pulse digests plus
 | --- | --- |
 | Original template | https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz |
 | Creator | Ankur Raina ([@SaaSocalypse](https://x.com/SaaSocalypse)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/know-enemy), [botsdots.site](https://botsdots.site/templates/know-enemy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/know-enemy), [grokbothq.xyz](https://grokbothq.xyz/bots/know-enemy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/know-enemy), [x-research](https://x.com/SaaSocalypse/status/2095145997613887825) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 1 connectors |

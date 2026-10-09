@@ -6,7 +6,7 @@ Walks you one step at a time through installing the open-source explainer video 
 | --- | --- |
 | Original template | https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR |
 | Creator | Mike Yeager ([@mikepat711](https://x.com/mikepat711)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/explainer-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/explainer-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/explainer-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/explainer-bot), [x-research](https://botsdots.site/templates/explainer-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

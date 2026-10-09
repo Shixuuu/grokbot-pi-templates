@@ -6,7 +6,7 @@ Tracks meaningful purchases and alerts before return, refund, warranty, or guara
 | --- | --- |
 | Original template | https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/returns-warranties), [grokbotwiki.com](https://www.grokbotwiki.com/bots/returns-warranties), [grokbothq.xyz](https://grokbothq.xyz/bots/returns-warranties), [templatebot.lol](https://templatebot.lol/bot/HmUpwJbVbgLEGisEj0FPt), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/returns-warranties), [x-research](https://botsdots.site/templates/returns-warranties) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 2 connectors |

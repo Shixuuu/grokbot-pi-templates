@@ -6,7 +6,7 @@ Builds live web pages on its computer that you open on your phone or laptop over
 | --- | --- |
 | Original template | https://x.ai/bot/ignLvLJlOxOIenZPr-tTA |
 | Creator | Yin Lai ([@darkart](https://x.com/darkart)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/live-pages), [grokbotwiki.com](https://www.grokbotwiki.com/bots/live-pages), [grokbothq.xyz](https://grokbothq.xyz/bots/live-pages), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/live-pages), [x-research](https://botsdots.site/templates/live-pages) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

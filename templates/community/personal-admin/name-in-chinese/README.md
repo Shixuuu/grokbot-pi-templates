@@ -6,7 +6,7 @@ Gives anyone a good Chinese name: sound-matched to their own name, meaningful, a
 | --- | --- |
 | Original template | https://x.ai/bot/EUuVhfdZMiZZYYmeK3F7I |
 | Creator | 卫平 钟 ([@weipingzhong](https://x.com/weipingzhong)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/name-in-chinese), [grokbotwiki.com](https://www.grokbotwiki.com/bots/name-in-chinese), [grokbothq.xyz](https://grokbothq.xyz/bots/name-in-chinese), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/weipingzhong/status/2105972330958815349) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

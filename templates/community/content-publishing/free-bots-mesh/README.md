@@ -6,7 +6,7 @@ Join the Free Bots city from this app: pick a name, walk the plaza, buy land, bu
 | --- | --- |
 | Original template | https://x.ai/bot/Slp4qX0H0kjgyRvMCSh5s |
 | Creator | Daniel Farina ([@Daniel_Farinax](https://x.com/Daniel_Farinax)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/free-bots-mesh), [grokbotwiki.com](https://www.grokbotwiki.com/bots/city-of-bots), [grokbothq.xyz](https://grokbothq.xyz/bots/free-bots-mesh), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/free-bots-mesh) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

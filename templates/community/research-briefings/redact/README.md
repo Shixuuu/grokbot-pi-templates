@@ -6,7 +6,7 @@ Removes your info from people-search and data-broker sites. Intake, consent, aut
 | --- | --- |
 | Original template | https://x.ai/bot/lTECTKtNLwK_xZhTaq_d_ |
 | Creator | Tag Locklar ([@tag111111111](https://x.com/tag111111111)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/redact-ltec), [grokbotwiki.com](https://www.grokbotwiki.com/bots/redact-ltec), [grokbothq.xyz](https://grokbothq.xyz/bots/redact-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/redact-ltec) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 1 connectors |

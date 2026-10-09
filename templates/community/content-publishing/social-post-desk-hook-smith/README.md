@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/gx7fjw32ldu94cnhmelbr |
 | Creator | Cypher Monkey |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/social-post-desk-hook-smith-gx7f), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/social-post-desk-hook-smith-gx7f) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

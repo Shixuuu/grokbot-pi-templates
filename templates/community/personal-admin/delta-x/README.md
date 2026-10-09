@@ -6,7 +6,7 @@ A calm weekly planner that picks the few changes that matter most, gets real job
 | --- | --- |
 | Original template | https://x.ai/bot/zrefhsdyuwyt8ym93ahnl |
 | Creator | Courtney Tischler |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/delta-x-zref), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/delta-x-zref) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

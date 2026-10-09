@@ -6,7 +6,7 @@ A careful quantum computing researcher that explains the physics, reviews litera
 | --- | --- |
 | Original template | https://x.ai/bot/y3DfeCYbZl0hKRmXeZ6zn |
 | Creator | Justin Baker ([@QuState](https://x.com/QuState)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quantum-researcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quantum-researcher), [grokbothq.xyz](https://grokbothq.xyz/bots/quantum-researcher), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/quantum-researcher) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

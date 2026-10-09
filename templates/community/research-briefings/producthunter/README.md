@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/Qsqan7PbltFggoJukvmtT |
 | Creator | Cola ([@Davidwuuu92](https://x.com/Davidwuuu92)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/producthunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/producthunter), [grokbothq.xyz](https://grokbothq.xyz/bots/producthunter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/producthunter), [x-research](https://x.com/Davidwuuu92/status/2097283714946670889) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 4 routines, 8 memory seeds, 0 connectors |

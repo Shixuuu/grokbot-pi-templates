@@ -6,7 +6,7 @@ Cinematic Remotion product-video bot. Storyboards, shot cards, real page capture
 | --- | --- |
 | Original template | https://x.ai/bot/gdZdBNWdgW45IVVU8sv8F |
 | Creator | Thomas Ferriere ([@Tferriere](https://x.com/Tferriere)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/shotcraft), [botsdots.site](https://botsdots.site/templates/shotcraft), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shotcraft), [grokbothq.xyz](https://grokbothq.xyz/bots/shotcraft-gdzdbn), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shotcraft), [x-research](https://x.com/Tferriere/status/2108425971246493853) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 14 memory seeds, 1 connectors |

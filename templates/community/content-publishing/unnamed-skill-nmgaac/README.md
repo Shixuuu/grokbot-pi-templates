@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo |
 | Creator | Masaki Ozeki |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-nmgaac), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-nmgaac), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bot-nmgaac) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

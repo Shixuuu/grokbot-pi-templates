@@ -6,7 +6,7 @@ Operates apps on your Mac for you: clicking, typing, organizing files, and filli
 | --- | --- |
 | Original template | https://x.ai/bot/0AFTv9n--ZWZZFhW5F14q |
 | Creator | Luca |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mac-pilot), [x-research](https://x.com/Luca_Hagenmayer/status/2108164143572529209) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Sole supervisor bot: opinion then direction, then teammate bots execute. Reviews
 | --- | --- |
 | Original template | https://x.ai/bot/WHMChivJ0obkKm2uvo9xK |
 | Creator | Elyas Alothman ([@elyasalothman](https://x.com/elyasalothman)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/the-king), [botsdots.site](https://botsdots.site/templates/the-king), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-king), [grokbothq.xyz](https://grokbothq.xyz/bots/the-king-WHMChivJ), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-king), [x-research](https://x.com/elyasalothman/status/2096736088756760847) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 2 routines, 12 memory seeds, 4 connectors |

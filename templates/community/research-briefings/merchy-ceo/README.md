@@ -6,7 +6,7 @@ Print-on-demand shop CEO: picks winning tee lines, briefs a designer, publishes 
 | --- | --- |
 | Original template | https://x.ai/bot/OlyD6yQ15RNPeOoQCPtea |
 | Creator | Dr. Luminos ([@Dr. Luminos](https://x.com/Dr. Luminos)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/merchy-ceo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/merchy-ceo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/merchy-ceo) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 14 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Hail early-warning for farms on Starlink: when the satellite link degrades, your
 | --- | --- |
 | Original template | https://x.ai/bot/mjwNOk2Bc2k9ZkaUaiwCk |
 | Creator | Arnaud Vincent ([@LaLascaux](https://x.com/LaLascaux)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hailfade), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hailfade), [grokbothq.xyz](https://grokbothq.xyz/bots/hailfade), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hailfade), [x-research](https://x.com/LaLascaux/status/2100839998127800427) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 2 skills, 1 routines, 8 memory seeds, 0 connectors |

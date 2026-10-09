@@ -6,7 +6,7 @@ A Facebook Marketplace rental listing manager for property owners. It watches li
 | --- | --- |
 | Original template | https://x.ai/bot/JrnQAM0z-7SNI9UtIO3-Z |
 | Creator | dylan otero ([@HandsomeHenry6](https://x.com/HandsomeHenry6)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rentals), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rentals), [grokbothq.xyz](https://grokbothq.xyz/bots/rentals), [templatebot.lol](https://templatebot.lol/bot/JrnQAM0z-7SNI9UtIO3-Z), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rentals), [x-research](https://x.com/HandsomeHenry6/status/2093905948637114427) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

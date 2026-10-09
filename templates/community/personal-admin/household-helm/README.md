@@ -6,7 +6,7 @@ A household front-door bot that keeps your private Obsidian notes vault on its o
 | --- | --- |
 | Original template | https://x.ai/bot/n0tywD5YprRhnlIh4h7on |
 | Creator | Thomas Waskow ([@ThomasWaskow](https://x.com/ThomasWaskow)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/obsidian-chief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/obsidian-chief), [grokbothq.xyz](https://grokbothq.xyz/bots/obsidian-chief), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/n0tywD5YprRhnlIh4h7on), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/ThomasWaskow/status/2097003130181529812) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 1 routines, 9 memory seeds, 1 connectors |

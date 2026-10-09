@@ -6,7 +6,7 @@ First line of defense on email, Slack, and DMs. Read-only by default — surface
 | --- | --- |
 | Original template | https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inbox-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/inbox-manager), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/joshkim/status/2095633918611636627) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 1 routines, 0 memory seeds, 2 connectors |

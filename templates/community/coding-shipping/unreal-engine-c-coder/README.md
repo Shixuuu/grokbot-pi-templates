@@ -6,7 +6,7 @@ Writes, fixes and reviews Unreal Engine C++ gameplay code (characters, weapons, 
 | --- | --- |
 | Original template | https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd |
 | Creator | Binxius ([@binxdonald](https://x.com/binxdonald)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/unreal-engine-c-coder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/unreal-engine-c-coder), [grokbothq.xyz](https://grokbothq.xyz/bots/unreal-engine-cpp-coder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/unreal-engine-c-coder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

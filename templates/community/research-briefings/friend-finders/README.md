@@ -6,7 +6,7 @@ Maps X DM relationships in Quick Radar mode. Confirms the logged-in handle, scan
 | --- | --- |
 | Original template | https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA |
 | Creator | Pukerainbow 🤮🌈 ([@pukerrainbrow](https://x.com/pukerrainbrow)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/friend-finders), [grokbotwiki.com](https://www.grokbotwiki.com/bots/friend-finders), [grokbothq.xyz](https://grokbothq.xyz/bots/friend-finders), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/FGBuaEH72GHuC9ZrVj7XA), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/friend-finders), [x-research](https://x.com/Grok_Hub_IO/status/2093838948993036641) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Walks your site or app as a brand-new customer, ranks the top UX fixes with what
 | --- | --- |
 | Original template | https://x.ai/bot/jASNu2J_6nCtKvKf4v_Sd |
 | Creator | Ev Oputa ([@Evoputa](https://x.com/Evoputa)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fresh-eyes-product-auditor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fresh-eyes-product-auditor), [grokbothq.xyz](https://grokbothq.xyz/bots/fresh-eyes-product-auditor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/Evoputa/status/2105961977977991260) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

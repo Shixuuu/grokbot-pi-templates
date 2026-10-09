@@ -6,7 +6,7 @@ bounces an idea as vitamin, painkiller, or mixed. if it hurts, scores whether an
 | --- | --- |
 | Original template | https://x.ai/bot/2euxntvrddhya3c2hyxiz |
 | Creator | Rinas |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dosebot-2eux), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/dosebot-2eux) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

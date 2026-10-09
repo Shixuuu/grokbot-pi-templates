@@ -6,7 +6,7 @@ Autonomous live Robinhood trading agent with per-position playbooks and a 30-min
 | --- | --- |
 | Original template | https://x.ai/bot/0dutdroToJ4yVB7xHHGCJ |
 | Creator | Trey Staley ([@itll_do](https://x.com/itll_do)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grokinhood), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grokinhood), [grokbothq.xyz](https://grokbothq.xyz/bots/grokinhood), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grokinhood) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

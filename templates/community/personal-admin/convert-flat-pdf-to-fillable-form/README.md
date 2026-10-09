@@ -6,7 +6,7 @@ Turns scanned and flat PDFs into fillable forms with Instafill.ai. For anyone wh
 | --- | --- |
 | Original template | https://x.ai/bot/7_kjCPFrySCloHK-QS-hu |
 | Creator | Oleksandr Gamaniuk |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/convert-flat-pdf-to-fillable-form), [grokbotwiki.com](https://www.grokbotwiki.com/bots/convert-flat-pdf-to-fillable-form), [grokbothq.xyz](https://grokbothq.xyz/bots/convert-flat-pdf-to-fillable-form), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/7_kjCPFrySCloHK-QS-hu), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botdirectory.ai/bots/convert-flat-pdf-to-fillable-form/) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 1 memory seeds, 0 connectors |

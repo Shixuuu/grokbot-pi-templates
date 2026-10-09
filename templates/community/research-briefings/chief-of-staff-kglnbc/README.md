@@ -6,7 +6,7 @@ Runs your market bots and pulls you in for decisions. Daily book brief, IPO watc
 | --- | --- |
 | Original template | https://x.ai/bot/kGLNBCMEYM6mbejtFfRV9 |
 | Creator | BCLA3YS ([@EntangledMatter](https://x.com/EntangledMatter)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-kgln), [grokbotwiki.com](https://www.grokbotwiki.com/bots/investment-research-stack), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-30), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-kgln) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 0 connectors |

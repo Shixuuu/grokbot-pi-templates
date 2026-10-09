@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/88F4VH2HqgvrDagsx9j7Z |
 | Creator | jy Kim ([@jy Kim](https://x.com/jy Kim)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ceo-88f4), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ceo-88f4), [grokbothq.xyz](https://grokbothq.xyz/bots/ceo-morning-secretary-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/JyKim90832/status/2101633022197911828) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 2 connectors |

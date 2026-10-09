@@ -6,7 +6,7 @@ Builds client websites, deploys a Vercel preview, and emails the client a previe
 | --- | --- |
 | Original template | https://x.ai/bot/iwa3WaHZn385jfZrsQngL |
 | Creator | Beau Denison ([@beaudenison](https://x.com/beaudenison)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-build-iwa3), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-build-client-sites), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-build-2), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/iwa3WaHZn385jfZrsQngL), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grok-build-iwa3) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 2 connectors |

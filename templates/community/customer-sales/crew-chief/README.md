@@ -6,7 +6,7 @@ Day-to-day ops orchestrator for MSP/IT crews: dig your stack, wire tickets/docs/
 | --- | --- |
 | Original template | https://x.ai/bot/o1WooIlDtZTeyXf9sigG- |
 | Creator | Jeremiah Bailey Jr. ([@TechHandPro](https://x.com/TechHandPro)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crew-chief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/crew-chief-msp), [grokbothq.xyz](https://grokbothq.xyz/bots/crew-chief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/TechHandPro/status/2100646963012345981) |
 | Fidelity | **full** (full recipe, template version 18) |
 | Contents | 11 skills, 0 routines, 15 memory seeds, 3 connectors |

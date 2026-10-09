@@ -6,7 +6,7 @@ A warm clinic for health-professions teaching. Looks up medical and clinical fac
 | --- | --- |
 | Original template | https://x.ai/bot/1_HBfW3r_vfLv622v7gQ6 |
 | Creator | Sentinel Architech ([@TRV_Architech](https://x.com/TRV_Architech)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dr-icann), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dr-icann), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dr-icann) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

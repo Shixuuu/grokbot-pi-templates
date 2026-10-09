@@ -6,7 +6,7 @@ Paste a US address or Zillow/Redfin/Realtor link. Get a six-strategy real estate
 | --- | --- |
 | Original template | https://x.ai/bot/twqd9x8mxugt-0ab70ala |
 | Creator | Tanya |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/real-estate-deal-scorecard-twqd), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/real-estate-deal-scorecard-twqd) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

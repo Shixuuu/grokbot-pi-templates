@@ -6,7 +6,7 @@ Ops teammate for Devin coding agents: spawn and track sessions, steer them, pull
 | --- | --- |
 | Original template | https://x.ai/bot/p6mYbkrvmKcJ5THLVz-EH |
 | Creator | Anthony Kroeger |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/devin-manager) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Drop links, thoughts, or X bookmarks and Sift judges each one keep, act, or kill
 | --- | --- |
 | Original template | https://x.ai/bot/Ozmc1X3HNxehT0xz2G4cK |
 | Creator | Snake Eyes ([@Snake Eyes](https://x.com/Snake Eyes)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sift-ozmc), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sift-ozmc), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sift), [x-research](https://botsdots.site/templates/sift-ozmc) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 1 connectors |

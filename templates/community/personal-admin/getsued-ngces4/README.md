@@ -6,7 +6,7 @@ Helps a self-represented consumer log spam calls and texts, identify the right p
 | --- | --- |
 | Original template | https://x.ai/bot/NgcEs4fCGiedjVLJp8x0l |
 | Creator | Justin Truell ([@FoxxAndCo](https://x.com/FoxxAndCo)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/getsued), [grokbotwiki.com](https://www.grokbotwiki.com/bots/getsued), [grokbothq.xyz](https://grokbothq.xyz/bots/getsued), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/getsued), [x-research](https://x.com/FoxxAndCo/status/2105810756046336036) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Paper-first sports betting research desk. Board in, auditable CLV/EV card out â€
 | --- | --- |
 | Original template | https://x.ai/bot/gEEv8k6WgJyU8es3eaXi7 |
 | Creator | Badger Bets ([@BadgersBet](https://x.com/BadgersBet)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shawn), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shawn), [grokbothq.xyz](https://grokbothq.xyz/bots/shawn), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shawn), [x-research](https://x.com/BadgersBet/status/2103989579980108154) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

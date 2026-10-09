@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/z7xup0Ax1SBl2K84PELqF |
 | Creator | kin kin ([@KinGao476942](https://x.com/KinGao476942)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/turns-long-videos-podcasts-searchable), [grokbotwiki.com](https://www.grokbotwiki.com/bots/turns-long-videos-podcasts-searchable), [grokbothq.xyz](https://grokbothq.xyz/bots/download-expert), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/download-expert), [x-research](https://x.com/KinGao476942/status/2095774247805472910) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 1 memory seeds, 0 connectors |

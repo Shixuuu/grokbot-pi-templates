@@ -6,7 +6,7 @@ Evidence-based longevity and wellness guidance for busy professionals and famili
 | --- | --- |
 | Original template | https://x.ai/bot/SR14quBvqUyS-K0DqlDL8 |
 | Creator | Pete Blankenship ([@GCAgenticSystem](https://x.com/GCAgenticSystem)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/doctormd), [grokbotwiki.com](https://www.grokbotwiki.com/bots/doctor-md), [grokbothq.xyz](https://grokbothq.xyz/bots/doctor-md), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/GCAgenticSystem/status/2102848912218566761) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

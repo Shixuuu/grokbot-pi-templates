@@ -6,7 +6,7 @@ MAST-level ASE Education Foundation specialist for automotive Lab Builder progra
 | --- | --- |
 | Original template | https://x.ai/bot/D4ZTBuxJy5Ao7pkQ5sUI1 |
 | Creator | Shad Esplin ([@ShadEsplin](https://x.com/ShadEsplin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ase-automotive-specialist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ase-automotive-specialist), [grokbothq.xyz](https://grokbothq.xyz/bots/ase-automotive-specialist), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ase-automotive-specialist) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Type Dig $TICKER for a source-dated first pass on why a stock is moving, the cat
 | --- | --- |
 | Original template | https://x.ai/bot/di6vIWc5BcaN7aghHpC8C |
 | Creator | D.Shi ([@derekshi](https://x.com/derekshi)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wakeup-2-day-trade), [grokbotwiki.com](https://www.grokbotwiki.com/bots/wakeup-2-day-trade), [grokbothq.xyz](https://grokbothq.xyz/bots/wakeup-2-day-trade), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/wakeup-2-day-trade), [x-research](https://x.com/derekshi/status/2104345486362882137) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 5 skills, 0 routines, 0 memory seeds, 0 connectors |

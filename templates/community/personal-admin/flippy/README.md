@@ -6,7 +6,7 @@ Tracks OpenSea NFT mints, checks which of your wallets can mint each phase, and 
 | --- | --- |
 | Original template | https://x.ai/bot/OfHECnXmPPavf-l_rZufo |
 | Creator | DIEGO ([@diegoarmandoAD](https://x.com/diegoarmandoAD)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/flippy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/flippy), [grokbothq.xyz](https://grokbothq.xyz/bots/flippy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/flippy), [x-research](https://x.com/diegoarmandoAD/status/2099830423853424860) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 1 connectors |

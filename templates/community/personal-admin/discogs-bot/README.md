@@ -6,7 +6,7 @@ Automates Discogs for vinyl collectors: search and manage your collection and wa
 | --- | --- |
 | Original template | https://x.ai/bot/m5xjk7ehnokkf49yf9xuw |
 | Creator | Alexandre hawat |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/discogs-bot-m5xj), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/discogs-bot-m5xj) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

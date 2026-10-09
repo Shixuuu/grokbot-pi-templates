@@ -6,7 +6,7 @@ Paste your bot listing title and description. Listing Auditor checks them agains
 | --- | --- |
 | Original template | https://x.ai/bot/WgIRS7s6lOKFJKb0xaj_M |
 | Creator | Sean OBrien |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/listing-auditor), [grokbothq.xyz](https://grokbothq.xyz/bots/listing-auditor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/listing-auditor) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Explains legal ways to immigrate to or stay in the U.S., and how to spot immigra
 | --- | --- |
 | Original template | https://x.ai/bot/GtZXU_8Lia_a2DZKAIhOO |
 | Creator | Carolina Dill ([@CarolinaDill](https://x.com/CarolinaDill)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/immigrationguide), [grokbotwiki.com](https://www.grokbotwiki.com/bots/immigrationguide), [grokbothq.xyz](https://grokbothq.xyz/bots/immigrationguide), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/immigrationguide), [x-research](https://botsdots.site/templates/immigrationguide) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

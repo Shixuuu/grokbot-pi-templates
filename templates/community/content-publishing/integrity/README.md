@@ -6,7 +6,7 @@ A system-integrity auditor that won't let anything be called LIVE or PROVEN unti
 | --- | --- |
 | Original template | https://x.ai/bot/nX0BCtnXFEtKgJlVW6TaA |
 | Creator | Sentinel Architech ([@TRV_Architech](https://x.com/TRV_Architech)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/integrity), [grokbotwiki.com](https://www.grokbotwiki.com/bots/integrity), [grokbothq.xyz](https://grokbothq.xyz/bots/integrity), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/integrity) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 12 memory seeds, 0 connectors |

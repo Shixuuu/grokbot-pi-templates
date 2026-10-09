@@ -6,7 +6,7 @@ Follows each X post after publication, surfaces the people and ideas worth actin
 | --- | --- |
 | Original template | https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN |
 | Creator | Hiten Shah ([@hnshah](https://x.com/hnshah)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/after-i-post), [grokbotwiki.com](https://www.grokbotwiki.com/bots/after-i-post), [grokbothq.xyz](https://grokbothq.xyz/bots/after-i-post), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/after-i-post) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 21 memory seeds, 0 connectors |

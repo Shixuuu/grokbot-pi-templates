@@ -6,7 +6,7 @@ Paste a travel itinerary → Booked vs Wish list, feasibility flags, and officia
 | --- | --- |
 | Original template | https://x.ai/bot/7R9vIVZsXH693yr5GSULl |
 | Creator | Alex ([@AlexFCHF](https://x.com/AlexFCHF)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/itinerary-reality-check), [grokbotwiki.com](https://www.grokbotwiki.com/bots/itinerary-reality-check), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/itinerary-reality-check) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

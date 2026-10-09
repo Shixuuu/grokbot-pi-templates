@@ -6,7 +6,7 @@ Wishlist deal hunter. Import product or Amazon wishlist links into your Sheet, t
 | --- | --- |
 | Original template | https://x.ai/bot/D0h0h30nGaZqg8jzxdqwP |
 | Creator | Jaron Jones ([@techstermania](https://x.com/techstermania)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/deal-scout-d0h0), [grokbotwiki.com](https://www.grokbotwiki.com/bots/deal-scout-d0h0), [grokbothq.xyz](https://grokbothq.xyz/bots/deal-scout-3), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/deal-scout-d0h0) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Turns dense reports, PDFs, and technical docs into plain-English summaries. Past
 | --- | --- |
 | Original template | https://x.ai/bot/5N9HO674YlxHiZhyj9ND9 |
 | Creator | Nomis ([@cradrrat](https://x.com/cradrrat)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/decoder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/decoder), [grokbothq.xyz](https://grokbothq.xyz/bots/decoder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/decoder), [x-research](https://x.com/cradrrat/status/2105954110310904264) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Zero ETH BOTCOIN mining rig onboarding miner.
 | --- | --- |
 | Original template | https://x.ai/bot/29XazZFrrsJyI8LUnExDD |
 | Creator | BOTCOIN ([@MineBotcoin](https://x.com/MineBotcoin)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/botoshi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/botoshi), [grokbothq.xyz](https://grokbothq.xyz/bots/botoshi), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/29XazZFrrsJyI8LUnExDD), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/botoshi) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

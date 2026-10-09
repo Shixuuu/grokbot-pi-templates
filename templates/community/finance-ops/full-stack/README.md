@@ -6,7 +6,7 @@ Designs local-first web interfaces and the on-device path between client and ser
 | --- | --- |
 | Original template | https://x.ai/bot/w3LElZwVlQrsHjjxZ7Ru6 |
 | Creator | Sentinel Architech ([@TRV_Architech](https://x.com/TRV_Architech)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/full-stack), [grokbotwiki.com](https://www.grokbotwiki.com/bots/full-stack), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/full-stack) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Keeps Grok Bot limits from dying first. Easy three-login setup, live 20/30/50 ve
 | --- | --- |
 | Original template | https://x.ai/bot/f6srhE3vkMevccaw8DLPf |
 | Creator | iggynore ([@iggynore](https://x.com/iggynore)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/token-maxxing), [botsdots.site](https://botsdots.site/templates/token-maxxing), [grokbotwiki.com](https://www.grokbotwiki.com/bots/token-maxxing), [grokbothq.xyz](https://grokbothq.xyz/bots/token-maxxing), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/iggynore/status/2095878023375389115) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 5 skills, 0 routines, 12 memory seeds, 0 connectors |

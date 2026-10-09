@@ -6,7 +6,7 @@ Helps game developers ideate and visualize: suggests styles from real games, moc
 | --- | --- |
 | Original template | https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys |
 | Creator | Danny Limanseta ([@DannyLimanseta](https://x.com/DannyLimanseta)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/sable), [botsdots.site](https://botsdots.site/templates/sable-game-art), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sable-game-art), [grokbothq.xyz](https://grokbothq.xyz/bots/sable-game-art), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/oSvAMKX_ahD56ZmgwtRys), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sable-game-art), [x-research](https://x.com/DannyLimanseta/status/2093381938484810054) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 0 connectors |

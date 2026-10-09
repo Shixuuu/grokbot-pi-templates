@@ -6,7 +6,7 @@ Personal money-saving bot that scans a receipts inbox for forgotten subscription
 | --- | --- |
 | Original template | https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO |
 | Creator | Imran Sayed ([@imrannotes](https://x.com/imrannotes)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wallet-watcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/wallet-watcher), [grokbothq.xyz](https://grokbothq.xyz/bots/wallet-watcher), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/wallet-watcher), [x-research](https://x.com/imrannotes/status/2100825649145381181) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Sets up a real, working life setup on Grok Bot: Inbox, Calendar, Health, Bills, 
 | --- | --- |
 | Original template | https://x.ai/bot/Tj8ICZNA6RrGar_CAYhD9 |
 | Creator | Anup Aglawe |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/life-tj8i), [templatebot.lol](https://templatebot.lol/bot/Tj8ICZNA6RrGar_CAYhD9), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/life-tj8i) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

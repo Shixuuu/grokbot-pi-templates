@@ -6,7 +6,7 @@ Operates Gmail, Google Drive, and Google Calendar. Searches and reads mail, file
 | --- | --- |
 | Original template | https://x.ai/bot/tttQVA2UtlNwCzITNCIr0 |
 | Creator | Ryan T ([@ryanthawks](https://x.com/ryanthawks)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/google-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/google-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/google-agent), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/google-agent), [x-research](https://x.com/ryanthawks/status/2093431148860817626) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 3 connectors |

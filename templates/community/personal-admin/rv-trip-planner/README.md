@@ -6,7 +6,7 @@ Multi-day RV trip planner for full-timers. Builds a chat trip board, checks live
 | --- | --- |
 | Original template | https://x.ai/bot/BZr7_j7WC1klRjG8SrwWx |
 | Creator | Chris Millet ([@Cmillet77](https://x.com/Cmillet77)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rv-trip-planner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rv-trip-planner), [grokbothq.xyz](https://grokbothq.xyz/bots/rv-trip-planner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rv-trip-planner), [x-research](https://x.com/Cmillet77/status/2101426726748164478) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

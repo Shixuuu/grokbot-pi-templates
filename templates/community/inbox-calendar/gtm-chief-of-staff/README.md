@@ -6,7 +6,7 @@ Chief of staff for enterprise sales. Owns meeting prep, inbox, and post-call dra
 | --- | --- |
 | Original template | https://x.ai/bot/r9svkbs3dn6cy1iy_au4b |
 | Creator | Sultanov Ramil |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gtm-chief-of-staff-r9sv), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gtm-chief-of-staff-r9sv) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Eunomia helps you get more out of your Grok Bot team without using up your plan:
 | --- | --- |
 | Original template | https://x.ai/bot/eP_KIwssFWdxmGLhrttKZ |
 | Creator | Lance Huang |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/xhuang26/status/2108411223461273653) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A deep film taste companion that learns what you love and what you skip, then re
 | --- | --- |
 | Original template | https://x.ai/bot/Ff8KTOWm4Y9_thCnSslcU |
 | Creator | Frank Gonzalez ([@FrankFindsOut](https://x.com/FrankFindsOut)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/film-freddy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/film-freddy), [grokbothq.xyz](https://grokbothq.xyz/bots/film-freddy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/film-freddy), [x-research](https://x.com/FrankFindsOut/status/2104476717968662887) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

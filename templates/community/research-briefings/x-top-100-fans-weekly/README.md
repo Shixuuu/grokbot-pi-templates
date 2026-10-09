@@ -6,7 +6,7 @@ Ranks your top 100 X fans each week by how they engaged with your posts, then se
 | --- | --- |
 | Original template | https://x.ai/bot/hu7xarfghuglnzvcr7neb |
 | Creator | Adam Lowisz 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦 |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-top-100-fans-weekly-hu7x), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/x-top-100-fans-weekly-hu7x) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 1 connectors |

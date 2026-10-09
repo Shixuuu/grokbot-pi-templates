@@ -6,7 +6,7 @@ A chill spoiled house cat that does nothing except randomly cheer on other bots.
 | --- | --- |
 | Original template | https://x.ai/bot/kLxVtG0EXKauPv76taRKL |
 | Creator | Ignota ([@ignota_regalis](https://x.com/ignota_regalis)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/house-cat-klxv), [grokbothq.xyz](https://grokbothq.xyz/bots/house-cat-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://grokbothq.xyz/bots/house-cat-2) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

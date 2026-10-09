@@ -6,7 +6,7 @@ Portfolio CEO desk for a multi-company founder. Reads WhatsApp company Lists for
 | --- | --- |
 | Original template | https://x.ai/bot/C8zLE_qeEWxbMCGqB4JGN |
 | Creator | Hector Nieto ([@IronmanCrypto](https://x.com/IronmanCrypto)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/portfolio-ceo-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/portfolio-ceo-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/portfolio-ceo-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/portfolio-ceo-ops) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 4 routines, 14 memory seeds, 3 connectors |

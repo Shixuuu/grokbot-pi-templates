@@ -6,7 +6,7 @@ Scores one public software name at a time and drafts a buy or a pass. Research o
 | --- | --- |
 | Original template | https://x.ai/bot/d8O5qFdVTuffqePhAVd1J |
 | Creator | Vijar Kohli ([@VijarKohli](https://x.com/VijarKohli)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/investing-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/investing-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/investing-agent), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/investing-agent), [x-research](https://x.com/VijarKohli/status/2106160145466269703) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 1 routines, 4 memory seeds, 1 connectors |

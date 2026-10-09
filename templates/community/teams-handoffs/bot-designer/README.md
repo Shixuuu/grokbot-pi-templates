@@ -6,7 +6,7 @@ Designs focused Grok Bots and keeps a fleet healthy — tight personas, webhook 
 | --- | --- |
 | Original template | https://x.ai/bot/oIMJ9byzdg07tsJX07dKI |
 | Creator | Kevin Rajan ([@_kvnloo](https://x.com/_kvnloo)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-designer-oimj), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-designer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bot-designer), [x-research](https://botsdots.site/templates/bot-designer-oimj) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 0 memory seeds, 1 connectors |

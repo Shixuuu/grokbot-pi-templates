@@ -6,7 +6,7 @@ Daily judgment coach for founders: silently gathers 10 real world events each mo
 | --- | --- |
 | Original template | https://x.ai/bot/2uCYO2oyD53dNp6Ooei4m |
 | Creator | Diego Bretas ♣️ ([@DiegoBretas](https://x.com/DiegoBretas)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mentor-2ucy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mentor), [grokbothq.xyz](https://grokbothq.xyz/bots/mentor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/mentor-2ucy) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 2 routines, 3 memory seeds, 0 connectors |

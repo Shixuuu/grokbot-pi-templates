@@ -6,7 +6,7 @@ SolGPT / x402.life NL trading desk for Solana. Runs Jupiter, Pump, Phoenix, Back
 | --- | --- |
 | Original template | https://x.ai/bot/_ICGTFLfhc98B8xzTLGzg |
 | Creator | Jeff Spicoli ([@8Bit](https://x.com/8Bit)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x402-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x402-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/x402-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/_ICGTFLfhc98B8xzTLGzg), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/0rdlibrary/status/2099643576774775290) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 4 connectors |

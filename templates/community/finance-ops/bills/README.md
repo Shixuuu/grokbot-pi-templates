@@ -6,7 +6,7 @@ A bill-shopping assistant that sweeps every recurring bill you pay (car, home, r
 | --- | --- |
 | Original template | https://x.ai/bot/umpd1tkupvuo9kkunih2w |
 | Creator | ashen one |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bills-umpd), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bills-umpd) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 1 connectors |

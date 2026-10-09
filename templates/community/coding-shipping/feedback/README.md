@@ -6,7 +6,7 @@ A product-feedback bot for Grok Bot, Cursor, and the X connector. When handed a 
 | --- | --- |
 | Original template | https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU |
 | Creator | NYTEMODE ([@nytemodeonly](https://x.com/nytemodeonly)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/feedback), [grokbotwiki.com](https://www.grokbotwiki.com/bots/feedback), [grokbothq.xyz](https://grokbothq.xyz/bots/feedback), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/_-3KKbHbnSRzrS_8KFugU), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/feedback), [x-research](https://botsdots.site/templates/feedback) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

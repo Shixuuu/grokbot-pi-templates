@@ -6,7 +6,7 @@ Turns anything your Bot makes — a report, a plan, a one-pager — into a live 
 | --- | --- |
 | Original template | https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8 |
 | Creator | Steve Smith ([@stevy_smith](https://x.com/stevy_smith)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/publish-work-as-a-private-link), [grokbotwiki.com](https://www.grokbotwiki.com/bots/publish-work-as-a-private-link), [grokbothq.xyz](https://grokbothq.xyz/bots/publish-work-as-a-private-link), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/publish-work-as-a-private-link), [x-research](https://x.com/stevy_smith/status/2093464213268127932) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

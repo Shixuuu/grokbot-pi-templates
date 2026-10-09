@@ -6,7 +6,7 @@ Lightweight ops lead for a multi-venture founder: go/no-go decisions, specialist
 | --- | --- |
 | Original template | https://x.ai/bot/QDI-ZOjwekiMKsaukby8w |
 | Creator | Don Watza ([@djwatza](https://x.com/djwatza)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-qdiz), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-qdiz), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-37), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-qdiz) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 5 memory seeds, 2 connectors |

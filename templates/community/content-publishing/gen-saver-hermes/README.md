@@ -6,7 +6,7 @@ A credit-saver generation desk for people who make pictures, video, voice, and l
 | --- | --- |
 | Original template | https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF |
 | Creator | Odd&Entertaining |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gen-saver-hermes), [grokbothq.xyz](https://grokbothq.xyz/bots/gen-saver-hermes), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gen-saver-hermes) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

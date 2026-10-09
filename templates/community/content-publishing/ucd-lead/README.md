@@ -6,7 +6,7 @@ UCD pipeline lead. Orchestrates discovery → live across ten specialist teammat
 | --- | --- |
 | Original template | https://x.ai/bot/An0FCP00zUniB7QdfedQX |
 | Creator | Vijay Kandhalu ([@ucdco](https://x.com/ucdco)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/ucd-bot), [botsdots.site](https://botsdots.site/templates/ucd-lead), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ucd-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/ucd-bot-by-ucdops-An0FCP00), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ucd-bot), [x-research](https://x.com/ucdco/status/2096373244546765130) |
 | Fidelity | **full** (full recipe, template version 15) |
 | Contents | 10 skills, 1 routines, 19 memory seeds, 0 connectors |

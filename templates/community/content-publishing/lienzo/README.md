@@ -6,7 +6,7 @@ Design-resource inbox for Grok Bot. Drop a link and it catalogs a durable markdo
 | --- | --- |
 | Original template | https://x.ai/bot/Czc1kCepdYnisFnRWfDKr |
 | Creator | Franco Escob ([@FrancoE114696](https://x.com/FrancoE114696)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lienzo), [grokbothq.xyz](https://grokbothq.xyz/bots/lienzo), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/FrancoE114696/status/2099660942959140892) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

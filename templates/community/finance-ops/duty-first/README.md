@@ -6,7 +6,7 @@ Own instrument-aware trust accounting and reporting. Read the governing instrume
 | --- | --- |
 | Original template | https://x.ai/bot/ZNrJWoDe9kUzXB4QG8xVT |
 | Creator | Steve Q |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/duty-first), [grokbothq.xyz](https://grokbothq.xyz/bots/duty-first), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/duty-first) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Owns your X growth loop — weekday reply and follow packs, weekly reach trackin
 | --- | --- |
 | Original template | https://x.ai/bot/8OqqCibnjW8m8cgdn3Qyl |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/x-bot), [botsdots.site](https://botsdots.site/templates/x-bot-8oqq), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-bot-8oqq), [grokbothq.xyz](https://grokbothq.xyz/bots/x-bot-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-bot), [x-research](https://x.com/scottxmetcalf/status/2102793327330648363) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 1 connectors |

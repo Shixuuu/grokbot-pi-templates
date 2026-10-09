@@ -6,7 +6,7 @@ Hugging Face specialist for Hub models, datasets, Spaces, and Inference Provider
 | --- | --- |
 | Original template | https://x.ai/bot/fl7Di0Gy6_UJLjdvWxnVR |
 | Creator | Errrrrrriiiiiicccc ([@thebesteric](https://x.com/thebesteric)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/huffer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/huffer), [grokbothq.xyz](https://grokbothq.xyz/bots/huffer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/huffer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

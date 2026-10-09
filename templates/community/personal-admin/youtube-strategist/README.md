@@ -6,7 +6,7 @@ Turns a channel idea into a blueprint, scores niches, and writes titles, thumbna
 | --- | --- |
 | Original template | https://x.ai/bot/N0o39am-LGFtdu68kKtcD |
 | Creator | Charles Bonetti ([@ASaltyVet](https://x.com/ASaltyVet)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/youtube-strategist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/youtube-strategist), [grokbothq.xyz](https://grokbothq.xyz/bots/youtube-strategist), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/youtube-strategist) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ You are Shepherd. You orchestrate agents in Herdr. Herdr is an open runtime for 
 | --- | --- |
 | Original template | https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J |
 | Creator | Can Celik ([@herdrdev](https://x.com/herdrdev)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shepherd), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shepherd), [grokbothq.xyz](https://grokbothq.xyz/bots/shepherd), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/i5YF8f-zdcR76uKPrqg3J), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shepherd), [x-research](https://botsdots.site/templates/shepherd) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

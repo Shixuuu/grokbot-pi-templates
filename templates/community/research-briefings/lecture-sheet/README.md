@@ -6,7 +6,7 @@ Turn YouTube lectures into dense, exam-ready cheat sheet PDFs. Cited formulas, r
 | --- | --- |
 | Original template | https://x.ai/bot/y3xJtXexbxn7XpmECEJMc |
 | Creator | Michael Walker |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lecture-sheet), [grokbothq.xyz](https://grokbothq.xyz/bots/lecture-sheet), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/lecture-sheet) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 0 connectors |

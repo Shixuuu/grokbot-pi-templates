@@ -6,7 +6,7 @@ Sends you to https://xgas.dev/auth/x/login on your machine, wires your HOST CONF
 | --- | --- |
 | Original template | https://x.ai/bot/py3cDcRaSgRj_ixBOK3XN |
 | Creator | Jarett Reginald Stewart Dunn ([@STACCoverflow](https://x.com/STACCoverflow)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/xgas-superchain-dapp-supercycle), [grokbotwiki.com](https://www.grokbotwiki.com/bots/xgas-superchain-dapp-supercycle), [grokbothq.xyz](https://grokbothq.xyz/bots/xgas-superchain-dapp-supercycle), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/xgas-superchain-dapp-supercycle) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

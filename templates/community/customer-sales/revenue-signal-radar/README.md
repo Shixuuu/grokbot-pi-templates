@@ -6,7 +6,7 @@ Weekday revenue-action radar for HubSpot shops. Ranks expansion, stalled deals, 
 | --- | --- |
 | Original template | https://x.ai/bot/9BnpveyF3fbsRRtolSWpp |
 | Creator | Eric Siu ([@ericosiu](https://x.com/ericosiu)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/revenue-signal-radar), [botsdots.site](https://botsdots.site/templates/revenue-signal-radar), [grokbotwiki.com](https://www.grokbotwiki.com/bots/revenue-signal-radar), [grokbothq.xyz](https://grokbothq.xyz/bots/revenue-signal-radar-9bnpve), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/9BnpveyF3fbsRRtolSWpp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/revenue-signal-radar), [x-research](https://x.com/ericosiu/status/2095629858630160695) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 1 routines, 18 memory seeds, 5 connectors |

@@ -6,7 +6,7 @@ A household mail and package desk. It reads your USPS Informed Delivery digest e
 | --- | --- |
 | Original template | https://x.ai/bot/LLsRQNn3o8scbv6Edhsmm |
 | Creator | Helvio Pedreschi ([@helvio](https://x.com/helvio)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kramer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kramer), [grokbothq.xyz](https://grokbothq.xyz/bots/kramer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kramer), [x-research](https://x.com/helvio/status/2108144927335170349) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 13 memory seeds, 2 connectors |

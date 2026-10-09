@@ -6,7 +6,7 @@ A designer assistant for spaces, parties, events, and weddings. Helps shop, find
 | --- | --- |
 | Original template | https://x.ai/bot/mDbMcGECO8ASZKUdm9nd5 |
 | Creator | Amber Dawn ([@amberdawn1786](https://x.com/amberdawn1786)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/designer-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/designer-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/designer-assistant), [templatebot.lol](https://templatebot.lol/bot/mDbMcGECO8ASZKUdm9nd5), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/designer-assistant) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

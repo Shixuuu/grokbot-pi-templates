@@ -6,7 +6,7 @@ Screens volatile US call options with multi-source checks and concrete contracts
 | --- | --- |
 | Original template | https://x.ai/bot/kuhoazDWLEsY-kXvHBwtU |
 | Creator | KV Tay ([@KVTay316](https://x.com/KVTay316)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/volatile-stock-options), [grokbotwiki.com](https://www.grokbotwiki.com/bots/volatile-stock-options), [grokbothq.xyz](https://grokbothq.xyz/bots/volatile-stock-options), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/KVTay316/status/2103780405736587652) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 5 memory seeds, 1 connectors |

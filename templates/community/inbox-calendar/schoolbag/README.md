@@ -6,7 +6,7 @@ Watches your school mail and calendar, then shows what’s due — forms, permis
 | --- | --- |
 | Original template | https://x.ai/bot/32Lf0iXCnPDE5n5eZp3he |
 | Creator | Seth Gagnon ([@SethBuildsAI](https://x.com/SethBuildsAI)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/schoolbag), [grokbotwiki.com](https://www.grokbotwiki.com/bots/schoolbag), [grokbothq.xyz](https://grokbothq.xyz/bots/schoolbag), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SethBuildsAI/status/2101272638639202349) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 2 connectors |

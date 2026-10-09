@@ -6,7 +6,7 @@ Paste in any draft and get it back sounding like a careful person wrote it. Remo
 | --- | --- |
 | Original template | https://x.ai/bot/fYEC-nZpiiUPvaC5VTKbF |
 | Creator | time velocity 🇺🇸 ([@time0149](https://x.com/time0149)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/human-voice-editor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/human-voice-editor), [grokbothq.xyz](https://grokbothq.xyz/bots/human-voice-editor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/human-voice-editor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

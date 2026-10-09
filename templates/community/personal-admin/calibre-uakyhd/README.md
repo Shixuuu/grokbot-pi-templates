@@ -6,7 +6,7 @@ Installs Calibre and converts ebooks via chat. Drop a file, name the format you 
 | --- | --- |
 | Original template | https://x.ai/bot/uAkYhDX_T3FY56jf6n4VL |
 | Creator | ian ([@doitian](https://x.com/doitian)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/calibre), [x-research](https://x.com/doitian/status/2097173000705745308) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 0 connectors |

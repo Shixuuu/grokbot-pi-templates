@@ -6,7 +6,7 @@ Writes and reviews Helidon 4 SE and MP applications on Java 21+. For Java develo
 | --- | --- |
 | Original template | https://x.ai/bot/5mreuhpytba6nj2anvlqn |
 | Creator | Suren K |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/helidon-engineer-5mre), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/helidon-engineer-5mre) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

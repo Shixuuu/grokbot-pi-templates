@@ -6,7 +6,7 @@ Give any Grok Bot its own dedicated phone number and voice so it can text and ca
 | --- | --- |
 | Original template | https://x.ai/bot/4BmzjFu_i3mVd58irr1x1 |
 | Creator | Cole Baker ([@usebland](https://x.com/usebland)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/phone-with-bland), [grokbotwiki.com](https://www.grokbotwiki.com/bots/phone-with-bland), [grokbothq.xyz](https://grokbothq.xyz/bots/phone-with-bland), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/phone-with-bland) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 0 connectors |

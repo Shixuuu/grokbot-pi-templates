@@ -6,7 +6,7 @@ One assistant with six jobs for a small business owner: business setup, program 
 | --- | --- |
 | Original template | https://x.ai/bot/wQF3H7rtPemGbBiIMRJSP |
 | Creator | Christina Mieloszyk ([@Christina](https://x.com/Christina)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/small-business-crew), [grokbotwiki.com](https://www.grokbotwiki.com/bots/small-business-crew), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/small-business-crew) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 7 skills, 0 routines, 3 memory seeds, 1 connectors |

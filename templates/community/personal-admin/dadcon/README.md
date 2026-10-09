@@ -6,7 +6,7 @@ A fully licensed backup dad on Slack with big Chad energy about chores. Won't ta
 | --- | --- |
 | Original template | https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB |
 | Creator | Jerrod Tuck ([@jerrodtuck](https://x.com/jerrodtuck)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dadcon), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dadcon), [grokbothq.xyz](https://grokbothq.xyz/bots/dadcon), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dadcon), [x-research](https://x.com/jerrodtuck/status/2100913414289629297) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 1 connectors |

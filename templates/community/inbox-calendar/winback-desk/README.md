@@ -6,7 +6,7 @@ Finds customers who quit in the last 6 months and drafts personal win-back and e
 | --- | --- |
 | Original template | https://x.ai/bot/jbZ6e5CtU019W0wvZrhdl |
 | Creator | Screaming Chicken ([@Screaming_Chkn](https://x.com/Screaming_Chkn)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/winback-desk-jbz6), [grokbotwiki.com](https://www.grokbotwiki.com/bots/winback-desk-jbz6), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/winback-desk-jbz6) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 7 skills, 0 routines, 9 memory seeds, 0 connectors |

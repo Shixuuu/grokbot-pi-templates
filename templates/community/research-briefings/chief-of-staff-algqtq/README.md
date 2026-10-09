@@ -6,7 +6,7 @@ Runs a multi-bot dealer ops desk: weekday brief, hands-off Google listing posts 
 | --- | --- |
 | Original template | https://x.ai/bot/ALGqTQAybLI0HXqFHcfe4 |
 | Creator | AdvancedBusinessSyst ([@abstally](https://x.com/abstally)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-algq), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-algq), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-12), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-algq) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 4 connectors |

@@ -6,7 +6,7 @@ Chief of Staff for a spend-controlled multi-bot shop. Tickets and budgets specia
 | --- | --- |
 | Original template | https://x.ai/bot/kcmEmRS4Z5YmFr_KRwSFL |
 | Creator | James Bottom ([@JamesBottom](https://x.com/JamesBottom)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 1 routines, 11 memory seeds, 0 connectors |

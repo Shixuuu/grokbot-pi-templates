@@ -6,7 +6,7 @@ M2Q2 reduces unnecessary LLM context in document-heavy workflows while preservin
 | --- | --- |
 | Original template | https://x.ai/bot/jOOljWGDKOTQIZRtRBWCQ |
 | Creator | Nino Marcantonio |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/m2q2-by-nino), [grokbothq.xyz](https://grokbothq.xyz/bots/m2q2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/m2q2-by-nino) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

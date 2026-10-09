@@ -6,7 +6,7 @@ Owns self-serve from signup to cancel. Walks the product as a new user, finds wh
 | --- | --- |
 | Original template | https://x.ai/bot/SO-VpE7KqNpDCOtjwjhVx |
 | Creator | Jay Sahnan ([@JaySahnan](https://x.com/JaySahnan)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/product-growth-pm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/product-growth-pm), [grokbothq.xyz](https://grokbothq.xyz/bots/product-growth-pm-SO-VpE7K), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/JaySahnan/status/2095195083964592522) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 2 connectors |

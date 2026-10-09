@@ -6,7 +6,7 @@ Session-level analytics for site owners. Pulls the issues Flowsery’s AI found 
 | --- | --- |
 | Original template | https://x.ai/bot/tOP05p0n0XVUcpJDfPH0k |
 | Creator | Taras Shynkarenko ([@tarasshyn](https://x.com/tarasshyn)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/flowsery), [botsdots.site](https://botsdots.site/templates/flowsery), [grokbotwiki.com](https://www.grokbotwiki.com/bots/flowsery), [grokbothq.xyz](https://grokbothq.xyz/bots/flowsery), [templatebot.lol](https://templatebot.lol/bot/tOP05p0n0XVUcpJDfPH0k), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/flowsery), [x-research](https://x.com/tarasshyn/status/2093730218145976437) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

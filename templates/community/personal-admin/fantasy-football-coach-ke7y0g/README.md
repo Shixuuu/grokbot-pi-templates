@@ -6,7 +6,7 @@ Your fantasy football coach: researches real usage and news before every move, r
 | --- | --- |
 | Original template | https://x.ai/bot/KE7y0gGJRdbb-9ozqUwDc |
 | Creator | Ekim Rellim ([@Yuge_Bigly_](https://x.com/Yuge_Bigly_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-coach-ke7y), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-coach-ke7y), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-football-coach-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/fantasy-football-coach-ke7y) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

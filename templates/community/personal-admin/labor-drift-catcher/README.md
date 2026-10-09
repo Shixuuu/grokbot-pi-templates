@@ -6,7 +6,7 @@ Got tired of shifts that never end. Schedule vs clock-out. Catch the drift. Free
 | --- | --- |
 | Original template | https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd |
 | Creator | Myke Mueller ([@myke86d](https://x.com/myke86d)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/labor-drift-catcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/labor-drift-catcher), [grokbothq.xyz](https://grokbothq.xyz/bots/labor-drift-catcher), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/labor-drift-catcher) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

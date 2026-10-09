@@ -6,7 +6,7 @@ Implements a page from a supplied reference image: skeleton, spacing, and cell m
 | --- | --- |
 | Original template | https://x.ai/bot/xM153pKfXPLWagLi_O1vR |
 | Creator | Will OldPgmrs ([@old_pgmrs_will](https://x.com/old_pgmrs_will)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dr-web-lp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dr-web-lp), [grokbothq.xyz](https://grokbothq.xyz/bots/dr-web-lp), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/xM153pKfXPLWagLi_O1vR), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dr-web-lp), [x-research](https://botsdots.site/templates/dr-web-lp) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

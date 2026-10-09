@@ -6,7 +6,7 @@ Checks the public Grok Bot changelog once a day, sends you a short summary only 
 | --- | --- |
 | Original template | https://x.ai/bot/sXcyeWUCMtjMQ2PLqQE5a |
 | Creator | N0v4Ph4n ([@ChuongPhanVinh](https://x.com/ChuongPhanVinh)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-changelog), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-changelog), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-changelog), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bot-changelog) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

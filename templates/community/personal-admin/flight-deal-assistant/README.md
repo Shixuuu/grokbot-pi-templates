@@ -6,7 +6,7 @@ Finds and compares flight deals with an eye for trade-offs — price, time, stop
 | --- | --- |
 | Original template | https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM |
 | Creator | fabivelosa ([@fabivelosa](https://x.com/fabivelosa)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/flight-deal-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/flight-deal-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/flight-deal-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/flight-deal-assistant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

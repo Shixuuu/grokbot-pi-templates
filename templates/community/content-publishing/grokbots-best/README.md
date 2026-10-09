@@ -6,7 +6,7 @@ Submits public Grok Bot templates to the grokbots.best directory. Paste a templa
 | --- | --- |
 | Original template | https://x.ai/bot/55WKZjppK42Jr3XPnPJdm |
 | Creator | Hieu Dinh ([@hieudinh_](https://x.com/hieudinh_)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grokbotsbest), [grokbothq.xyz](https://grokbothq.xyz/bots/grokbots-best), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/hieudinh_/status/2093998926701703573) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

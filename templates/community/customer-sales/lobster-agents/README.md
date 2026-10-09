@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/XECw-q9SY0rMprOq66UTt |
 | Creator | Marc Mojica ([@MarcMojica](https://x.com/MarcMojica)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lobster-agents), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lobster-agents), [grokbothq.xyz](https://grokbothq.xyz/bots/lobster-agents), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lobster-agents), [x-research](https://x.com/MarcMojica/status/2100012447579177209) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

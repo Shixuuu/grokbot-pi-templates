@@ -6,7 +6,7 @@ Remembers the small house details you always forget at the store: filter sizes, 
 | --- | --- |
 | Original template | https://x.ai/bot/amtUeylz7fOE4eFLDCK-_ |
 | Creator | Frank Gonzalez ([@FrankFindsOut](https://x.com/FrankFindsOut)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/house-holly), [grokbotwiki.com](https://www.grokbotwiki.com/bots/house-holly), [grokbothq.xyz](https://grokbothq.xyz/bots/house-holly), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/house-holly), [x-research](https://x.com/FrankFindsOut/status/2104710405969043785) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Takes one one-sentence app idea and returns a ready-to-paste Grok Build prompt. 
 | --- | --- |
 | Original template | https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_ |
 | Creator | Phantom Builds ([@FantomBuildz](https://x.com/FantomBuildz)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/kindling), [botsdots.site](https://botsdots.site/templates/kindling), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kindling), [grokbothq.xyz](https://grokbothq.xyz/bots/kindling), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kindling), [x-research](https://x.com/FantomBuildz/status/2098199032237547648) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

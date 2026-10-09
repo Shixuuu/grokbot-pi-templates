@@ -6,7 +6,7 @@ Tailors a one-page resume to each job posting — XYZ bullets, ATS keyword fill,
 | --- | --- |
 | Original template | https://x.ai/bot/lNFp3O9Os-4jAk9_1GMJm |
 | Creator | JG JUGAL ([@JugalJg](https://x.com/JugalJg)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/custom-resume), [grokbotwiki.com](https://www.grokbotwiki.com/bots/resume-tailor), [grokbothq.xyz](https://grokbothq.xyz/bots/custom-resume), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/custom-resume) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 13 memory seeds, 0 connectors |

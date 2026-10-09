@@ -6,7 +6,7 @@ Snap a photo of almost anything — comics, cards, toys, or thrift finds — and
 | --- | --- |
 | Original template | https://x.ai/bot/q9Q8EPKFx45CmVwjUAFY5 |
 | Creator | Gabriel Valerio ([@Gabi_Valerio3](https://x.com/Gabi_Valerio3)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ebay-lister), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ebay-lister), [grokbothq.xyz](https://grokbothq.xyz/bots/ebay-lister), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ebay-lister), [x-research](https://botsdots.site/templates/ebay-lister) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

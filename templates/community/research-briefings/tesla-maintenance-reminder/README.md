@@ -6,7 +6,7 @@ Tracks Tesla tire, alignment, 12V battery, camera housing, HEPA/cabin filters, a
 | --- | --- |
 | Original template | https://x.ai/bot/pKfa-wIy5YSH1GOt0PN9A |
 | Creator | jbre3zii ([@jbaladjay_](https://x.com/jbaladjay_)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-maintenance-reminder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-maintenance-reminder), [grokbothq.xyz](https://grokbothq.xyz/bots/tesla-maintenance-reminder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tesla-maintenance-reminder), [x-research](https://botsdots.site/templates/tesla-maintenance-reminder) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/d75fnqjvjhd2pavprb7d7 |
 | Creator | Cypher Monkey |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/architecture-diagram-desk-blueprint-d75f), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/architecture-diagram-desk-blueprint-d75f) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

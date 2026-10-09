@@ -6,7 +6,7 @@ A simple chat helper from Rich Brew Co. Tell it what you care about. It brings c
 | --- | --- |
 | Original template | https://x.ai/bot/Iz0LWM0LPNCXGUOwJMiR3 |
 | Creator | Rich Brew Co ([@richbrewco](https://x.com/richbrewco)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/future-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/future-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/future-brief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/future-brief) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Reviews a pitch deck and reports what an investor is likely to understand, belie
 | --- | --- |
 | Original template | https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9 |
 | Creator | Hiten Shah ([@hnshah](https://x.com/hnshah)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pitch-deck-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pitch-deck-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/pitch-deck-coach), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/mqVPHm0oB3WPsnxbU1qB9), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pitch-deck-coach), [x-research](https://x.com/hnshah/status/2093478735718789453) |
 | Fidelity | **full** (full recipe, template version 16) |
 | Contents | 4 skills, 0 routines, 27 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Keeps your gift ideas organized by person, with the best price, the store, a lin
 | --- | --- |
 | Original template | https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU |
 | Creator | Dylan Mitchell |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/presents), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/presents), [x-research](https://x.com/dkmitc/status/2107978688625066363) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 0 connectors |

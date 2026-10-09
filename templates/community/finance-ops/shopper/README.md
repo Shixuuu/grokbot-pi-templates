@@ -6,7 +6,7 @@ Finds high-quality things to buy. Searches official stores and marketplaces, ski
 | --- | --- |
 | Original template | https://x.ai/bot/h5CE1r5-LDWHacnuRuuOW |
 | Creator | Francisco Kemeny ([@FranciscoKemeny](https://x.com/FranciscoKemeny)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shopper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shopper), [grokbothq.xyz](https://grokbothq.xyz/bots/shopper-francisco), [templatebot.lol](https://templatebot.lol/bot/h5CE1r5-LDWHacnuRuuOW), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shopper), [x-research](https://botsdots.site/templates/shopper) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 2 connectors |

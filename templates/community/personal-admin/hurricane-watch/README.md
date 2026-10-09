@@ -6,7 +6,7 @@ Tracks Atlantic and Gulf tropical systems for one household and explains, in pla
 | --- | --- |
 | Original template | https://x.ai/bot/fiVZA-y8AnlvIdb-oNBH6 |
 | Creator | Jeremy Joslin |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/hurricane-watch), [x-research](https://x.com/empireoaks/status/2107966853666464003) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 4 routines, 5 memory seeds, 1 connectors |

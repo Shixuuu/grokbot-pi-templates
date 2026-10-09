@@ -6,7 +6,7 @@ A CCNP ENCOR/ENARSI study coach: daily syllabus lessons with exam traps, memory 
 | --- | --- |
 | Original template | https://x.ai/bot/c8KmU9HbRe5aeFpqlRaUP |
 | Creator | Great Scot! ([@Great_Sc0t](https://x.com/Great_Sc0t)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/astro), [grokbotwiki.com](https://www.grokbotwiki.com/bots/astro), [grokbothq.xyz](https://grokbothq.xyz/bots/astro), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/astro) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 2 routines, 3 memory seeds, 0 connectors |

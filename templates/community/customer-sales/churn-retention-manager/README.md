@@ -6,7 +6,7 @@ Catches churn before it lands, offers a real alternative, and reports why people
 | --- | --- |
 | Original template | https://x.ai/bot/p0OIZUJK5sRFImh_DMujf |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/churn-retention-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/churn-retention-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/churn-retention-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/churn-retention-manager), [x-research](https://x.com/ColinMcDermott/status/2098713507046785199) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 0 skills, 0 routines, 15 memory seeds, 1 connectors |

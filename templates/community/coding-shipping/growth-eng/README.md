@@ -6,7 +6,7 @@ Builds the product changes registered growth experiments need, behind feature fl
 | --- | --- |
 | Original template | https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1 |
 | Creator | Jay Sahnan ([@JaySahnan](https://x.com/JaySahnan)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/growth-eng), [grokbotwiki.com](https://www.grokbotwiki.com/bots/growth-eng), [grokbothq.xyz](https://grokbothq.xyz/bots/growth-eng-fC0XjRxx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/JaySahnan/status/2095195083964592522) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 1 connectors |

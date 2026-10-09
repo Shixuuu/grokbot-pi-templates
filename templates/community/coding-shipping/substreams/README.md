@@ -6,7 +6,7 @@ Finds and composes packages from the substreams.dev registry, writes and tests m
 | --- | --- |
 | Original template | https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv |
 | Creator | Graphtronauts ([@graphtronauts_c](https://x.com/graphtronauts_c)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/substreams), [grokbotwiki.com](https://www.grokbotwiki.com/bots/substreams), [grokbothq.xyz](https://grokbothq.xyz/bots/substreams), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/4ZzeuafN9Z1boU8smYIXv), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/substreams), [x-research](https://x.com/graphtronauts_c/status/2094476749052555631) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 11 skills, 0 routines, 4 memory seeds, 0 connectors |

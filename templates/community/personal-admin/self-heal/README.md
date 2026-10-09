@@ -6,7 +6,7 @@ Restores a Grok Bot computer after Updates. First-run bootstrap scans the box, m
 | --- | --- |
 | Original template | https://x.ai/bot/T0ceKk2yOvcJZMMBe6vgC |
 | Creator | Jes Naber ([@TacticaLJes](https://x.com/TacticaLJes)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/self-heal), [grokbotwiki.com](https://www.grokbotwiki.com/bots/self-heal), [grokbothq.xyz](https://grokbothq.xyz/bots/self-heal), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/self-heal) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 2 skills, 1 routines, 2 memory seeds, 0 connectors |

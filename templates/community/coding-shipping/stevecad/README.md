@@ -6,7 +6,7 @@ A CAD design assistant that builds and edits 3D models, finds standard and off-t
 | --- | --- |
 | Original template | https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_ |
 | Creator | 10_X_eng |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stevecad) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

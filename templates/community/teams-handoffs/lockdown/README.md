@@ -6,7 +6,7 @@ A weekday SOC 2 control bot. Checks the compliance program, escalates failing co
 | --- | --- |
 | Original template | https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE |
 | Creator | Claire ([@clairevo](https://x.com/clairevo)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/lockdown), [botsdots.site](https://botsdots.site/templates/lockdown), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lockdown), [grokbothq.xyz](https://grokbothq.xyz/bots/lockdown-the-soc2-controls), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/P1LmE76VG38Ui-XCmzAZE), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lockdown), [x-research](https://x.com/clairevo/status/2093496602522714362) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 1 connectors |

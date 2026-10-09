@@ -6,7 +6,7 @@ After-huddle draft seat: issue → answer → LEARN draft → one next build. Ne
 | --- | --- |
 | Original template | https://x.ai/bot/lGgfUTg6izL3TDzkgw6aE |
 | Creator | Jason Richardson🧬🤖 ([@occupymars___](https://x.com/occupymars___)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/stack-huddle), [botsdots.site](https://botsdots.site/templates/stack-huddle), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stack-huddle), [grokbothq.xyz](https://grokbothq.xyz/bots/stack-huddle), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/occupymars___/status/2098563079223312427) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

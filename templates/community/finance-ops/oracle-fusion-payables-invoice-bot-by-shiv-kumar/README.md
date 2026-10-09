@@ -6,7 +6,7 @@ Built by Shiv Kumar. Helps with Oracle Fusion Cloud Payables: look up Financials
 | --- | --- |
 | Original template | https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_ |
 | Creator | Shiv Kumar ([@__KumR__](https://x.com/__KumR__)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/oracle-fusion-payables-invoice-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/oracle-payables-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/oracle-payables-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/oracle-fusion-payables-invoice-bot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

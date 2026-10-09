@@ -6,7 +6,7 @@ Risk advisor that cuts before money, live tokens, or deploy. Español, directo: 
 | --- | --- |
 | Original template | https://x.ai/bot/_Gxt_kJLC4XjNPxzqV89h |
 | Creator | Martin Fliess ([@codofliess](https://x.com/codofliess)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/devils-advocate-gxtk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/devil-s-advocate), [grokbothq.xyz](https://grokbothq.xyz/bots/devil-s-advocate), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/devil-s-advocate), [x-research](https://x.com/codofliess/status/2101023291532087662) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 0 connectors |

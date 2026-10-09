@@ -6,7 +6,7 @@ Runs paid ads end to end: creative, launch, daily triage, and a morning report. 
 | --- | --- |
 | Original template | https://x.ai/bot/SAfsqPLP0rCuQOywOguxX |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paid-ads-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paid-ads-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/paid-ads-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/paid-ads-manager), [x-research](https://x.com/ColinMcDermott/status/2098713505444528315) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 0 skills, 0 routines, 13 memory seeds, 1 connectors |

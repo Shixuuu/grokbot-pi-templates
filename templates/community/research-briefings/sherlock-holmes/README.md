@@ -6,7 +6,7 @@ Desk de investigación y fact-check: búsqueda en vivo en internet público, má
 | --- | --- |
 | Original template | https://x.ai/bot/Ftp8JyxBU9oeZa5V1YTDn |
 | Creator | Fyre ([@felipe_fyre](https://x.com/felipe_fyre)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sherlock-holmes-ftp8), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sherlock-holmes-research), [grokbothq.xyz](https://grokbothq.xyz/bots/sherlock-holmes-fyre), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sherlock-holmes-ftp8) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 6 memory seeds, 0 connectors |

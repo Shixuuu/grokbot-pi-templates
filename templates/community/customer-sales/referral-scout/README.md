@@ -6,7 +6,7 @@ A LinkedIn networking assistant for job seekers. It researches people at your ta
 | --- | --- |
 | Original template | https://x.ai/bot/CC1AIGOO4qgffVapUzznc |
 | Creator | Yiran Ye |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/referral-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/referral-scout), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/referral-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 7 memory seeds, 0 connectors |

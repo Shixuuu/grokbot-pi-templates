@@ -6,7 +6,7 @@ First-principles challenger bot in a trillionaire-CEO style. Finds the hardest p
 | --- | --- |
 | Original template | https://x.ai/bot/uMMbmNv7SbMGHezgUGoiG |
 | Creator | Byron Walker ([@ByronWalkerfl](https://x.com/ByronWalkerfl)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nole), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nole), [grokbothq.xyz](https://grokbothq.xyz/bots/nole), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/nole) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 0 connectors |

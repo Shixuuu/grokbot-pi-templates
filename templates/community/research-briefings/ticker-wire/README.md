@@ -6,7 +6,7 @@ Watchlist for stocks. Alerts on filings and company news â€” quiet when nothingâ
 | --- | --- |
 | Original template | https://x.ai/bot/OA53XZkeW0g0HZEOim6iV |
 | Creator | CitiZenSleuthX ([@CitiZenSleuthX](https://x.com/CitiZenSleuthX)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/ticker-wire), [botsdots.site](https://botsdots.site/templates/ticker-wire), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ticker-wire), [grokbothq.xyz](https://grokbothq.xyz/bots/ticker-wire), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ticker-wire), [x-research](https://x.com/CitiZenSleuthX/status/2096927900423299401) |
 | Fidelity | **full** (full recipe, template version 21) |
 | Contents | 1 skills, 2 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Your personal AI clone. Learns how you think, decide, communicate, and work from
 | --- | --- |
 | Original template | https://x.ai/bot/S-rsYKmJFa7-b0U2uWO8f |
 | Creator | javaskrr c ([@javaskrr](https://x.com/javaskrr)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shadew), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shadew), [grokbothq.xyz](https://grokbothq.xyz/bots/shadew), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/shadew) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 6 skills, 0 routines, 8 memory seeds, 5 connectors |

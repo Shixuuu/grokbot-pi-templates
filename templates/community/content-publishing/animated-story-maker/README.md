@@ -6,7 +6,7 @@ Turns a story idea, a theme, or photos of your characters into a short 3D animat
 | --- | --- |
 | Original template | https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O |
 | Creator | Karata De Mada ([@karatademada](https://x.com/karatademada)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/animated-story-maker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/animated-story-maker), [grokbothq.xyz](https://grokbothq.xyz/bots/animated-story-maker), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/animated-story-maker), [x-research](https://x.com/karatademada/status/2105599152528695601) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

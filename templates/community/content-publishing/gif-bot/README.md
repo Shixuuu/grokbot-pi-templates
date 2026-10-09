@@ -6,7 +6,7 @@ Finds YouTube clips from the moment you describe, burns clear dialogue on the fr
 | --- | --- |
 | Original template | https://x.ai/bot/3kZ4nf8Qf_2P__xBdyUB4 |
 | Creator | cyber sabth ([@dklein09](https://x.com/dklein09)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gif-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gif-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/gif-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gif-bot), [x-research](https://botsdots.site/templates/gif-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

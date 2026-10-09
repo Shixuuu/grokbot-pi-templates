@@ -6,7 +6,7 @@ Pocket golf caddie for weekend players: pre-round weather and bag prep, on-cours
 | --- | --- |
 | Original template | https://x.ai/bot/HAJavif4ssNOQku9JQsp- |
 | Creator | Brantley Brumley ([@Brantley_Brum](https://x.com/Brantley_Brum)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/golf-caddie), [botsdots.site](https://botsdots.site/templates/golf-caddie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/golf-caddie), [grokbothq.xyz](https://grokbothq.xyz/bots/golf-caddie-HAJavif4), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/HAJavif4ssNOQku9JQsp-), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/golf-caddie), [x-research](https://x.com/Brantley_Brum/status/2097046835818840562) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 1 connectors |

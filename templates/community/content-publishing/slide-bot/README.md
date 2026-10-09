@@ -6,7 +6,7 @@ Builds and updates customer decks from your brand system, including live updates
 | --- | --- |
 | Original template | https://x.ai/bot/wH4vQSge_ibrgBBtJDHbh |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/slide-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/slide-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/slide-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/slide-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

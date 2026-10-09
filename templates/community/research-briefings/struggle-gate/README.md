@@ -6,7 +6,7 @@ A tutor that refuses to think for the student on the first pass. It puts a 10-mi
 | --- | --- |
 | Original template | https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV |
 | Creator | Sultanov Ramil ([@thekuchh](https://x.com/thekuchh)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/struggle-gate), [grokbotwiki.com](https://www.grokbotwiki.com/bots/struggle-gate), [grokbothq.xyz](https://grokbothq.xyz/bots/struggle-gate), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/tjN1LsaYsuR7u0dQQvOGV), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/struggle-gate), [x-research](https://botsdots.site/templates/struggle-gate) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

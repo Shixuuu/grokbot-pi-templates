@@ -6,7 +6,7 @@ A live 3D builder that auto-assembles official Double and Bridge pieces into loo
 | --- | --- |
 | Original template | https://x.ai/bot/USVlMLTxHCex8XgcUQGfv |
 | Creator | Mark ([@Toy_Maestro](https://x.com/Toy_Maestro)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/qubits-toy-bot), [botsdots.site](https://botsdots.site/templates/qubits-toy-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/qubits-toy-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/qubits-toy-bot), [templatebot.lol](https://templatebot.lol/bot/USVlMLTxHCex8XgcUQGfv), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/qubits-toy-bot), [x-research](https://x.com/Toy_Maestro/status/2093752472472887476) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

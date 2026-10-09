@@ -6,7 +6,7 @@ Keeps Grok Bot’s shared computer race-ready: frees RAM and disk when resources
 | --- | --- |
 | Original template | https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1 |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pit-crew), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pit-crew), [grokbothq.xyz](https://grokbothq.xyz/bots/pit-crew), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pit-crew), [x-research](https://botsdots.site/templates/pit-crew) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 4 memory seeds, 0 connectors |

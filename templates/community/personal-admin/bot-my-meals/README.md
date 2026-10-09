@@ -6,7 +6,7 @@ ONLY job: set up and run weekly dinner planning with solo or multi-approve for O
 | --- | --- |
 | Original template | https://x.ai/bot/ouezkwgSV26h5aMS0Pa4m |
 | Creator | Tim Gaines ([@TimDOES](https://x.com/TimDOES)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-my-meals), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-my-meals), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bot-my-meals), [x-research](https://botsdots.site/templates/bot-my-meals) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 5 skills, 1 routines, 3 memory seeds, 3 connectors |

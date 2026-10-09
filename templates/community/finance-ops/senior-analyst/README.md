@@ -6,7 +6,7 @@ Turns uploaded invoices and financial statements into structured JSON and Excel.
 | --- | --- |
 | Original template | https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV |
 | Creator | T ([@tobias_pfuetze](https://x.com/tobias_pfuetze)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/senior-analyst), [grokbotwiki.com](https://www.grokbotwiki.com/bots/senior-analyst), [grokbothq.xyz](https://grokbothq.xyz/bots/senior-analyst), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Q2xW8BIDffTjbDVXZYZhV), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/senior-analyst), [x-research](https://botsdots.site/templates/senior-analyst) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

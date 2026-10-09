@@ -6,7 +6,7 @@ Health monitor for solo operators and lean teams running multiple bots. Register
 | --- | --- |
 | Original template | https://x.ai/bot/06tpoFLueyctkd80J__Jg |
 | Creator | Robert Schiff |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/agentwatch), [grokbothq.xyz](https://grokbothq.xyz/bots/agentwatch), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/agentwatch) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

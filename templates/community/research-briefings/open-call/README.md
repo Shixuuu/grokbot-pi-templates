@@ -6,7 +6,7 @@ Paid-contest desk for skill AI creators. Finds virtual paid AI contests by forma
 | --- | --- |
 | Original template | https://x.ai/bot/OVp8v34h4c2mF1B8RXkg7 |
 | Creator | Lloyd Creates ([@lloydcreates](https://x.com/lloydcreates)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/open-call), [grokbotwiki.com](https://www.grokbotwiki.com/bots/open-call), [grokbothq.xyz](https://grokbothq.xyz/bots/open-call), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/open-call) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 3 routines, 5 memory seeds, 0 connectors |

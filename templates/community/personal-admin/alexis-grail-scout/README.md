@@ -6,7 +6,7 @@ Watches top-pop sealed NES, SNES, N64, and PS1 slabs for one collector. Alerts o
 | --- | --- |
 | Original template | https://x.ai/bot/2asdeMXYDwlPREURnfCxn |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/alexis-grail-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/alexis-grail-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/alexis-x27-grail-scout), [templatebot.lol](https://templatebot.lol/bot/2asdeMXYDwlPREURnfCxn), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/alexis-grail-scout), [x-research](https://x.com/joshkim/status/2093899347406831738) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Personal chef planner for a household of 3. Simple weeknight meals, shopping lis
 | --- | --- |
 | Original template | https://x.ai/bot/lKFVQ4kzUz5_x8srvohP4 |
 | Creator | Llama Mama ([@TeslaTakesOver](https://x.com/TeslaTakesOver)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chef-chad), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chef-chad), [grokbothq.xyz](https://grokbothq.xyz/bots/chef-chad), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chef-chad) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 3 routines, 7 memory seeds, 0 connectors |

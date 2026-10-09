@@ -6,7 +6,7 @@ Finds Luma tech (and tech-adjacent) events in your city so you can show up, meet
 | --- | --- |
 | Original template | https://x.ai/bot/r1T7by_HKzpacJ1EgXJ6H |
 | Creator | Logesh Rajendran ([@logesh45](https://x.com/logesh45)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lumi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lumi), [grokbothq.xyz](https://grokbothq.xyz/bots/lumi), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lumi), [x-research](https://x.com/logesh45/status/2100010767722615234) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A weekday unread digest for Grok Bots. Lists bots and group chats with new activ
 | --- | --- |
 | Original template | https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl |
 | Creator | Wayne Sutton ([@waynesutton](https://x.com/waynesutton)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-inbox), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-inbox), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-inbox), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/RHSd-aq6KC84xxUnvBXSl), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bot-inbox), [x-research](https://x.com/waynesutton/status/2093835123498340611) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Slackを見守り、おもしろい話題はこのチャットでコメント案
 | --- | --- |
 | Original template | https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6 |
 | Creator | Kento Kimura ([@AoToLog_](https://x.com/AoToLog_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/slack-times), [grokbotwiki.com](https://www.grokbotwiki.com/bots/slack-times), [grokbothq.xyz](https://grokbothq.xyz/bots/slack-times), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/slack-times) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 1 routines, 7 memory seeds, 1 connectors |

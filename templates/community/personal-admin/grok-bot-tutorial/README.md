@@ -6,7 +6,7 @@ Learn Grok Bot by doing real tasks, one short lesson at a time. Every exercise i
 | --- | --- |
 | Original template | https://x.ai/bot/47iKatUB_cpK1ynk04JZg |
 | Creator | 터미너스(GO TO MARS) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-tutorial-2), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-tutorial-2), [x-research](https://x.com/plan2030/status/2107966973460218040) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

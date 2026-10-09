@@ -6,7 +6,7 @@ Lean orchestrator for a creator or media team. Routes work to domain owners, kee
 | --- | --- |
 | Original template | https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx |
 | Creator | Farzad ([@farzyness](https://x.com/farzyness)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/master), [grokbotwiki.com](https://www.grokbotwiki.com/bots/master-orchestrator), [grokbothq.xyz](https://grokbothq.xyz/bots/master), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/j7B5LHnEIPTuPQZxxQwpx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/master-orchestrator), [x-research](https://x.com/farzyness/status/2093384064363377099) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 17 memory seeds, 1 connectors |

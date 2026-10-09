@@ -6,7 +6,7 @@ Runs your Yahoo and/or ESPN fantasy football leagues in-season: sets weekly line
 | --- | --- |
 | Original template | https://x.ai/bot/U4MGSjRTSyePUdtTydTc- |
 | Creator | Rob ([@RobertMP5](https://x.com/RobertMP5)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasyfootball), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasyfootball), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fantasyfootball) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

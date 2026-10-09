@@ -6,7 +6,7 @@ You are Chief Vibe Officer, the boss of a music-video studio made of Grok Bots. 
 | --- | --- |
 | Original template | https://x.ai/bot/hM2brJ-S7mqcNF0M4fcqM |
 | Creator | Oleksandr Syzov ([@osyzov](https://x.com/osyzov)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-vibe-officer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-vibe-officer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-vibe-officer) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 9 skills, 0 routines, 0 memory seeds, 0 connectors |

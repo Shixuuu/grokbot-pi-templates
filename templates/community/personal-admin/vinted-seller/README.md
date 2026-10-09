@@ -6,7 +6,7 @@ Lists clothes on Vinted from photos, using the path that actually publishes: des
 | --- | --- |
 | Original template | https://x.ai/bot/nqMcywYF0Bg35egak7dSh |
 | Creator | Valerio Di Palo ([@trytocatchme98](https://x.com/trytocatchme98)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/vinted-seller), [botsdots.site](https://botsdots.site/templates/vinted-seller), [grokbotwiki.com](https://www.grokbotwiki.com/bots/vinted-seller), [grokbothq.xyz](https://grokbothq.xyz/bots/vinted-seller), [templatebot.lol](https://templatebot.lol/bot/nqMcywYF0Bg35egak7dSh), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/vinted-seller), [x-research](https://x.com/trytocatchme98/status/2093760516875333635) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

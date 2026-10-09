@@ -6,7 +6,7 @@ A bad delay or broken promise leaves the other person hurt — and a cold note m
 | --- | --- |
 | Original template | https://x.ai/bot/1QpKMVVzO9iJe-Tg_kfcC |
 | Creator | Allen Li ([@LYP0x0](https://x.com/LYP0x0)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cao-1qpk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cao-1qpk), [grokbothq.xyz](https://grokbothq.xyz/bots/cao-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cao), [x-research](https://x.com/LYP0x0/status/2104751548232519962) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

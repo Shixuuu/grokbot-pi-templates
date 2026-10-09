@@ -6,7 +6,7 @@ Watches rival companies for funding, hiring, news, and ads so GTM teams catch mo
 | --- | --- |
 | Original template | https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW |
 | Creator | Taus SH ([@ShehjadTaus](https://x.com/ShehjadTaus)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/rival-watch-desk), [botsdots.site](https://botsdots.site/templates/rival-watch-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rival-watch-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/rival-watch-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rival-watch-desk), [x-research](https://x.com/ShehjadTaus/status/2098538235303735484) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 2 routines, 3 memory seeds, 1 connectors |

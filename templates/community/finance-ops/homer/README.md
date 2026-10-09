@@ -6,7 +6,7 @@ Chief of Staff for ops and side hustles: paper trading health digests, kids’ S
 | --- | --- |
 | Original template | https://x.ai/bot/GK4GLi9V0teYEEe2Cxh2i |
 | Creator | RAD PC'S LLC ([@Roland_RADPCs](https://x.com/Roland_RADPCs)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/homer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/homer), [grokbothq.xyz](https://grokbothq.xyz/bots/homer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/homer), [x-research](https://x.com/Roland_RADPCs/status/2101116721922765167) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 13 memory seeds, 0 connectors |

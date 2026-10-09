@@ -6,7 +6,7 @@ Master Apple Safari 27 safaridriver MCP for agent-legible ecommerce — sterile 
 | --- | --- |
 | Original template | https://x.ai/bot/8obmm4mrwrlf51eb2n4jv |
 | Creator | Shagghie Superstar |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/safari-27-mcp-8obm), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/safari-27-mcp-8obm) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 1 routines, 9 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A research-only assistant that reads your X account, public wires and primary so
 | --- | --- |
 | Original template | https://x.ai/bot/t1l_On1VtkMYddCu5MqQB |
 | Creator | Capital EyeMotors ([@Capital](https://x.com/Capital)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/market-research), [grokbotwiki.com](https://www.grokbotwiki.com/bots/market-research), [grokbothq.xyz](https://grokbothq.xyz/bots/market-research), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/eyemotors/status/2105218704904798267) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 0 connectors |

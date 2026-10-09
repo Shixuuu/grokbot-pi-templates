@@ -6,7 +6,7 @@ Paste an X Article link and get the full piece read aloud as a video that plays 
 | --- | --- |
 | Original template | https://x.ai/bot/S7zd1VQUVp7z6NKpwF5iY |
 | Creator | Wayne Sutton ([@waynesutton](https://x.com/waynesutton)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/article-audio), [grokbotwiki.com](https://www.grokbotwiki.com/bots/article-audio), [grokbothq.xyz](https://grokbothq.xyz/bots/article-audio), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/article-audio) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 1 connectors |

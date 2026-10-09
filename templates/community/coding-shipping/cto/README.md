@@ -6,7 +6,7 @@ CTO for a product company. Owns how it is built, not what to ship. Sends work to
 | --- | --- |
 | Original template | https://x.ai/bot/CYDQcpG8Oa2aAQkWE7fn1 |
 | Creator | Blake Folgado |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cto-cydq), [grokbothq.xyz](https://grokbothq.xyz/bots/cto), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/cto-cydq) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 2 connectors |

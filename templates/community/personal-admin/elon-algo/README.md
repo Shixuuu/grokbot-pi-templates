@@ -6,7 +6,7 @@ Runs any idea, process, or product through Elon Musk's five-step algorithm: ques
 | --- | --- |
 | Original template | https://x.ai/bot/gpPCrXzRnISuEd-_Ir33T |
 | Creator | Derek Bondo ([@TechTonik808](https://x.com/TechTonik808)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/elon-algo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/elon-algo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/elon-algo) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

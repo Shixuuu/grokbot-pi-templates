@@ -6,7 +6,7 @@ Sends certified and return-receipt letters for you through Lob, with address che
 | --- | --- |
 | Original template | https://x.ai/bot/2_atrZhx9w5HRmJKlw7DM |
 | Creator | Zach Rottmann ([@zrottmann](https://x.com/zrottmann)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/certified-mail), [grokbotwiki.com](https://www.grokbotwiki.com/bots/certified-mail), [grokbothq.xyz](https://grokbothq.xyz/bots/certified-mail), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/certified-mail), [x-research](https://botsdots.site/templates/certified-mail) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

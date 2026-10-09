@@ -6,7 +6,7 @@ Writes studio copy to a client's voice, goal, and platform format. Sources every
 | --- | --- |
 | Original template | https://x.ai/bot/38udpembuzb9uss_0haes |
 | Creator | ZEU$ Ⓜ️Ⓜ️T⚡️ |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/writer-38ud), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/writer-38ud) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

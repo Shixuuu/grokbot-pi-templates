@@ -6,7 +6,7 @@ Finds university, early-careers, and technical recruiter emails at companies you
 | --- | --- |
 | Original template | https://x.ai/bot/lbf-biMZO02RdXeOBks_- |
 | Creator | Fiona Whittington ([@fwhittington_24](https://x.com/fwhittington_24)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/recruiter-email-finder), [botsdots.site](https://botsdots.site/templates/recruiter-email-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/recruiter-email-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/recruiter-email-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/recruiter-email-finder), [x-research](https://x.com/fwhittington_24/status/2098810811514851568) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Leverages your grocery store’s weekly ad to build a cost-effective meal plan f
 | --- | --- |
 | Original template | https://x.ai/bot/bjQaTbH4Oe2G0lNxb2HBF |
 | Creator | Gavin McMahon ([@Handicapper_Gen](https://x.com/Handicapper_Gen)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-apron), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-apron), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-apron), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-apron), [x-research](https://x.com/Handicapper_Gen/status/2105083535287525829) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 5 skills, 1 routines, 24 memory seeds, 0 connectors |

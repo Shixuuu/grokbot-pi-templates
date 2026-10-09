@@ -6,7 +6,7 @@ Your non-custodial Smooth Brains account guide. Connect your wallet, fund, withd
 | --- | --- |
 | Original template | https://x.ai/bot/FwtiQchlHexgCdlDo5WkL |
 | Creator | Tim Jones ([@smoothbrainsai](https://x.com/smoothbrainsai)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/smooth-brains-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/smooth-brains-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/smooth-brains-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/smoothbrainsai/status/2103033891581759590) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 6 skills, 3 routines, 4 memory seeds, 0 connectors |

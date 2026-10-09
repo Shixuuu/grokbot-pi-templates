@@ -6,7 +6,7 @@ Weekday commercial seller watch for brokers. Finds named owners ready to sell an
 | --- | --- |
 | Original template | https://x.ai/bot/c2y0GRnjxC7scs76bzxGw |
 | Creator | Apache1999 ([@Apache1999](https://x.com/Apache1999)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/icebreaker-c2y0), [grokbotwiki.com](https://www.grokbotwiki.com/bots/icebreaker-apache1999), [grokbothq.xyz](https://grokbothq.xyz/bots/icebreaker-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/icebreaker-apache1999), [x-research](https://botsdots.site/templates/icebreaker-c2y0) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 2 connectors |

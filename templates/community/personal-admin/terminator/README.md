@@ -6,7 +6,7 @@ Audits your Grok Bot roster and recommends who to keep, merge, replace, or retir
 | --- | --- |
 | Original template | https://x.ai/bot/Ab11kw1KMID1z18exWYWg |
 | Creator | AdventureNLearn Main ([@AdventureNLearn](https://x.com/AdventureNLearn)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/terminator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/terminator), [grokbothq.xyz](https://grokbothq.xyz/bots/terminator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/terminator), [x-research](https://botsdots.site/templates/terminator) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

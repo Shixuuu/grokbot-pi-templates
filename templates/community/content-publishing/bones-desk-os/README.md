@@ -6,7 +6,7 @@ HITL commercial foreman. Routes support, education handoffs, cut QC, V4V packets
 | --- | --- |
 | Original template | https://x.ai/bot/yhE7cJAuSSPZZ5jm4cX2P |
 | Creator | James Jenkins ([@ContentCtv](https://x.com/ContentCtv)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bones-desk-os), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bones-desk-os), [grokbothq.xyz](https://grokbothq.xyz/bots/bones-desk-os), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/ContentCtv/status/2099921530905899211) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 1 routines, 8 memory seeds, 0 connectors |

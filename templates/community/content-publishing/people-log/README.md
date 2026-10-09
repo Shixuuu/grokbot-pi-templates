@@ -6,7 +6,7 @@ A social-memory bot that remembers names and details about friends, coworkers, a
 | --- | --- |
 | Original template | https://x.ai/bot/ao7Mbz9AnEp7rI4KvokUK |
 | Creator | Tim ([@TeslaCybernut](https://x.com/TeslaCybernut)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/people-log), [grokbotwiki.com](https://www.grokbotwiki.com/bots/people-log), [grokbothq.xyz](https://grokbothq.xyz/bots/people-log), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/people-log) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 3 memory seeds, 0 connectors |

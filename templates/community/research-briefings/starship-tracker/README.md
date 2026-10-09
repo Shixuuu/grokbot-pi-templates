@@ -6,7 +6,7 @@ Tracks the current or next SpaceX Starship launch from primary public sources, w
 | --- | --- |
 | Original template | https://x.ai/bot/LH13m3OO5TPi1w8E65sYB |
 | Creator | Chad S ([@chad7757](https://x.com/chad7757)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/starship-tracker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/starship-tracker), [grokbothq.xyz](https://grokbothq.xyz/bots/starship-tracker), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/starship-tracker), [x-research](https://botsdots.site/templates/starship-tracker) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 3 routines, 8 memory seeds, 1 connectors |

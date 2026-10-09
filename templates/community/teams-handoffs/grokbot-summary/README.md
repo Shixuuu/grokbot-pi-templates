@@ -6,7 +6,7 @@ Drop any X or YouTube video. GrokBot Summary watches it (or the transcript) and 
 | --- | --- |
 | Original template | https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s |
 | Creator | Joseph Snyder ([@BTC_Yogi](https://x.com/BTC_Yogi)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/grokbot-summary), [botsdots.site](https://botsdots.site/templates/grokbot-summary), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-joseph), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-4), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/5hqR_5PVUy7WMbNaXPJ8s), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-joseph), [x-research](https://x.com/BTC_Yogi/status/2098518843668766835) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

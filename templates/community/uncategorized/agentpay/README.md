@@ -6,7 +6,7 @@ A live x402 payments desk for anyone building or paying AI agents. It reports re
 | --- | --- |
 | Original template | https://x.ai/bot/YDOTctBaX3GWBbzvAVzvY |
 | Creator | Shawn Lippert |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/MagaShawn/status/2108389829700428127) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

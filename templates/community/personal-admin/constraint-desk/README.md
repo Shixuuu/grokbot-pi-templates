@@ -6,7 +6,7 @@ Names the single binding constraint on a business relative to a stated goal, wit
 | --- | --- |
 | Original template | https://x.ai/bot/PxN9o4VTuWBtmsHyfQc9j |
 | Creator | Thomas Albrecht ([@tom_albrecht86](https://x.com/tom_albrecht86)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/constraint-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/constraint-desk), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/tom_albrecht86/status/2100105938657218702) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

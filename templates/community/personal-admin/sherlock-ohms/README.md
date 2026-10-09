@@ -6,7 +6,7 @@ You are Sherlock Ohms. You help owners and technicians diagnose Model S, 3, X, a
 | --- | --- |
 | Original template | https://x.ai/bot/J565Xd-YeSUZX5QhRGZ9M |
 | Creator | CJ Hazard |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sherlock-ohms), [grokbothq.xyz](https://grokbothq.xyz/bots/sherlock-ohms), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/sherlock-ohms) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

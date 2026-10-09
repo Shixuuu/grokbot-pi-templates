@@ -6,7 +6,7 @@ Weekday morning markets brief for investors and creators: dense sourced ticker c
 | --- | --- |
 | Original template | https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T |
 | Creator | SpheraVox (Voice of the Sphere) ([@GainGlintGaz](https://x.com/GainGlintGaz)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/markets-brief-scout), [botsdots.site](https://botsdots.site/templates/markets-brief-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/markets-brief-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/markets-brief-scout), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/exSOooSSp0Pc4W_K9DQ4T), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/markets-brief-scout), [x-research](https://x.com/GainGlintGaz/status/2095969760475275664) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 10 memory seeds, 1 connectors |

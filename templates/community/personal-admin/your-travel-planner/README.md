@@ -6,7 +6,7 @@ A travel assistant for trips in Italy and abroad: realistic day-by-day itinerari
 | --- | --- |
 | Original template | https://x.ai/bot/ZApqGaOa7Rw1kXUHo5vyG |
 | Creator | Mambo Italiano |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/your-travel-planner), [x-research](https://x.com/mamboitaliano__/status/2108142863519261026) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

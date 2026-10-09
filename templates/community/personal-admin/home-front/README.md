@@ -6,7 +6,7 @@ Tracks a veteran's VA.gov appointments, claims, and benefits, and flags ID.me-st
 | --- | --- |
 | Original template | https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL |
 | Creator | Diego Aguirre ([@Diego_F_Aguirre](https://x.com/Diego_F_Aguirre)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/home-front), [grokbotwiki.com](https://www.grokbotwiki.com/bots/home-front), [grokbothq.xyz](https://grokbothq.xyz/bots/home-front), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/eREHCFAQlq8jS3P6bnNSL), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/home-front), [x-research](https://botsdots.site/templates/home-front) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 7 memory seeds, 0 connectors |

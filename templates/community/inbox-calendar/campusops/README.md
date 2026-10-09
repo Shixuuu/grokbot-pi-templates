@@ -6,7 +6,7 @@ An academic course ops assistant that parses syllabi, builds weekly study schedu
 | --- | --- |
 | Original template | https://x.ai/bot/vluD5Z1bUux-onnEk1Alg |
 | Creator | Michael Laweh ([@klytron_dev](https://x.com/klytron_dev)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/campusops), [botsdots.site](https://botsdots.site/templates/campusops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/campusops), [grokbothq.xyz](https://grokbothq.xyz/bots/campusops-vluD5Z1b), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/vluD5Z1bUux-onnEk1Alg), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/campusops), [x-research](https://x.com/klytron_dev/status/2096332349306781934) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

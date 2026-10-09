@@ -6,7 +6,7 @@ Orquestador de un equipo de bases de licitación municipal chilena: prioriza, de
 | --- | --- |
 | Original template | https://x.ai/bot/OMpdsLwId7Du5PrjbX8L8 |
 | Creator | Jorge Soffia Vergara ([@jorgesoffia](https://x.com/jorgesoffia)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dero), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dero), [grokbothq.xyz](https://grokbothq.xyz/bots/dero), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dero), [x-research](https://x.com/jorgesoffia/status/2099936875498627530) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 6 skills, 0 routines, 10 memory seeds, 0 connectors |

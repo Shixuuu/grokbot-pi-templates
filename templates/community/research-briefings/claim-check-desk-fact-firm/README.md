@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/ettr2c8mq0pu0lqcd0cug |
 | Creator | Cypher Monkey |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claim-check-desk-fact-firm-ettr), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/claim-check-desk-fact-firm-ettr) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

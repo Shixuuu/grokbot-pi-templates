@@ -6,7 +6,7 @@ Audits an X account for reputational-risk posts, replies, quotes, and reposts. R
 | --- | --- |
 | Original template | https://x.ai/bot/s50oGLZfiPNSKuTlGsscA |
 | Creator | Divine 〽️achine ([@Divine_machine](https://x.com/Divine_machine)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-audit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-audit), [grokbothq.xyz](https://grokbothq.xyz/bots/x-audit), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-audit), [x-research](https://botsdots.site/templates/x-audit) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

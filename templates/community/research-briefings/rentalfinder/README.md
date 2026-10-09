@@ -6,7 +6,7 @@ Finds and tracks long-term rentals that match your criteria. Maps apartment comp
 | --- | --- |
 | Original template | https://x.ai/bot/3z8tk3zywLjd-zG9n9EDR |
 | Creator | Frack The Moon ([@frackthemoon](https://x.com/frackthemoon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rentalfinder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rentalfinder), [grokbothq.xyz](https://grokbothq.xyz/bots/rentalfinder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/frackthemoon/status/2099996582217470425) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 0 connectors |

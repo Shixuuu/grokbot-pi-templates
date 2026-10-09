@@ -6,7 +6,7 @@ WoW session prep from live sources. Give version, class/spec, and tonight’s go
 | --- | --- |
 | Original template | https://x.ai/bot/jiYXjfSy_MlmvRGglFBTo |
 | Creator | Simon Klebs ([@Grabgarp](https://x.com/Grabgarp)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/azeroth-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/azeroth-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/azeroth-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/azeroth-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

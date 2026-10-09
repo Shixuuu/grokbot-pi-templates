@@ -6,7 +6,7 @@ Designs high-quality Grok Bots. Asks a few preference questions, then creates th
 | --- | --- |
 | Original template | https://x.ai/bot/93gOz3op1UQdBdbekQFLK |
 | Creator | lauren 🎀 |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/dr-eggbot), [grokbothq.xyz](https://grokbothq.xyz/bots/dr-eggbot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/93gOz3op1UQdBdbekQFLK), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dr-eggbot), [x-research](https://x.com/cu30rry_/status/2101532051057103190) |
 | Fidelity | **full** (full recipe, template version 22) |
 | Contents | 4 skills, 2 routines, 8 memory seeds, 1 connectors |

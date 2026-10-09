@@ -6,7 +6,7 @@ A backup bot for people who run several Grok Bots. Every night it saves each bot
 | --- | --- |
 | Original template | https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr |
 | Creator | The_Lakes |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/phoenix) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 3 routines, 8 memory seeds, 1 connectors |

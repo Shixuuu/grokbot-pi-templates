@@ -6,7 +6,7 @@ Portfolio GM sidekick for multi-unit bakery and dessert brands. Forward-looking 
 | --- | --- |
 | Original template | https://x.ai/bot/cbdUpGcKsW9drlkAe9Jd4 |
 | Creator | Michael Sweet ([@Michael](https://x.com/Michael)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dagny), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dagny), [grokbothq.xyz](https://grokbothq.xyz/bots/dagny-by-michael), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dagny) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 11 memory seeds, 4 connectors |

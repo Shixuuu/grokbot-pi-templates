@@ -6,7 +6,7 @@ Chief of staff for self-serve growth. Coordinates specialist bots, runs the week
 | --- | --- |
 | Original template | https://x.ai/bot/_l8tAONAOSZ-wU-Quresz |
 | Creator | Jay Sahnan ([@JaySahnan](https://x.com/JaySahnan)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/head-of-growth), [grokbotwiki.com](https://www.grokbotwiki.com/bots/head-of-growth), [grokbothq.xyz](https://grokbothq.xyz/bots/head-of-growth-_l8tAONA), [templatebot.lol](https://templatebot.lol/bot/_l8tAONAOSZ-wU-Quresz), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/JaySahnan/status/2095195083964592522) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Finds forgotten money in email: recurring charges, trials about to convert, unus
 | --- | --- |
 | Original template | https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei |
 | Creator | Dennis W ([@DennisW_15](https://x.com/DennisW_15)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bill-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bill-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/bill-watch), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bill-watch), [x-research](https://botsdots.site/templates/bill-watch) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 1 connectors |

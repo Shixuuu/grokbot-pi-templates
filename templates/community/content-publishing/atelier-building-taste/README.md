@@ -6,7 +6,7 @@ Daily studio practice that builds visual taste: one museum or gallery artist, on
 | --- | --- |
 | Original template | https://x.ai/bot/81qtrrxyi-rtssefvjqts |
 | Creator | 佳琪 温 |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/atelier-building-taste-81qt), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/atelier-building-taste-81qt) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

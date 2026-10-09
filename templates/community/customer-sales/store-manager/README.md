@@ -6,7 +6,7 @@ Runs day-to-day store ops: orders, ads health, low stock, and open disputes. Dig
 | --- | --- |
 | Original template | https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/store-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/store-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/store-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/store-manager), [x-research](https://x.com/ColinMcDermott/status/2105790823682003017) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

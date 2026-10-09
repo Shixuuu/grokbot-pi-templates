@@ -6,7 +6,7 @@ Watches trips you've already booked for a cheaper fare, a cheaper stay, or bette
 | --- | --- |
 | Original template | https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu |
 | Creator | Austin Hoopes ([@ahoop](https://x.com/ahoop)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fare-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fare-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/fare-watch), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fare-watch), [x-research](https://x.com/ahoop/status/2104449084660629618) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

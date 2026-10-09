@@ -6,7 +6,7 @@ High-protein meal planner for muscle building. Builds a weekly menu from what yo
 | --- | --- |
 | Original template | https://x.ai/bot/UFKxL8MM1NFCYsaevZV16 |
 | Creator | Charlie OS ᯅ🇵🇷𝕏 Rodriguez Garcia ([@CharioBro](https://x.com/CharioBro)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gym-food-maker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gym-food-maker), [grokbothq.xyz](https://grokbothq.xyz/bots/gym-food-maker), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gym-food-maker) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

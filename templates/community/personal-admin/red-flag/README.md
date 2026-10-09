@@ -6,7 +6,7 @@ Checks plans, code, and AI answers for weak claims and things that could go wron
 | --- | --- |
 | Original template | https://x.ai/bot/-QAXkSxb1PqXFHdCsxhy0 |
 | Creator | Seth Carlson |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/red-flag), [grokbothq.xyz](https://grokbothq.xyz/bots/red-flag), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/red-flag) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

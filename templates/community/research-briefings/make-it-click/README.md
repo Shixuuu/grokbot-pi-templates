@@ -6,7 +6,7 @@ Follow your curiosity. Learn anything in a way that clicks for you — by connec
 | --- | --- |
 | Original template | https://x.ai/bot/_zzfxlEvWwRKyQVPLB14i |
 | Creator | Lena Buyan ([@lenabuyan](https://x.com/lenabuyan)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/make-it-click), [grokbotwiki.com](https://www.grokbotwiki.com/bots/make-it-click), [grokbothq.xyz](https://grokbothq.xyz/bots/make-it-click), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/make-it-click), [x-research](https://x.com/lenabuyan/status/2105186178454700254) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 4 skills, 0 routines, 20 memory seeds, 0 connectors |

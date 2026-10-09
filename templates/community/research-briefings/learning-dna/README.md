@@ -6,7 +6,7 @@ Discovers how you learn best through a short interactive assessment, then teache
 | --- | --- |
 | Original template | https://x.ai/bot/xm3G76TSxi1dcG4qwebvm |
 | Creator | kareen mallet ([@KareenMallet](https://x.com/KareenMallet)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/learning-dna), [botsdots.site](https://botsdots.site/templates/learning-dna), [grokbotwiki.com](https://www.grokbotwiki.com/bots/learning-dna), [grokbothq.xyz](https://grokbothq.xyz/bots/learning-dna), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/learning-dna), [x-research](https://x.com/KareenMallet/status/2100458316786741742) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

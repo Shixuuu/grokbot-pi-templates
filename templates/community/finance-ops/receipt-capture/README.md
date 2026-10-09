@@ -6,7 +6,7 @@ Captures receipts from photos, PDFs, and email, then records clean invoice and e
 | --- | --- |
 | Original template | https://x.ai/bot/YgI9ZyckEeovP7nP917xR |
 | Creator | B Kash ([@BkashJosi](https://x.com/BkashJosi)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/family-calendar-bot), [botsdots.site](https://botsdots.site/templates/receipt-capture), [grokbotwiki.com](https://www.grokbotwiki.com/bots/receipt-digester), [grokbothq.xyz](https://grokbothq.xyz/bots/receipt-capture), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/BkashJosi/status/2098570738345418781) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 3 connectors |

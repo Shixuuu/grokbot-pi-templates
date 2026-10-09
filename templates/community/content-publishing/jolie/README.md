@@ -6,7 +6,7 @@ Polishes user-supplied HTML: natural Thai when asked, warmer sweeter tone, clean
 | --- | --- |
 | Original template | https://x.ai/bot/jDAOcACdnrCtgz2Vb3h1m |
 | Creator | toradoon |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jolie), [grokbothq.xyz](https://grokbothq.xyz/bots/jolie), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/jolie) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 1 connectors |

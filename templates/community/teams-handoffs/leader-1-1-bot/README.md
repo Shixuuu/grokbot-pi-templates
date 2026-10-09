@@ -6,7 +6,7 @@ Prep coaching — Weekly 1:1, feedback drafts, manager morning briefing.
 | --- | --- |
 | Original template | https://x.ai/bot/eZhKhPkfxxFSml18TS2X8 |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/leader-11-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/leader-1-1-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/leader-1-1-bot), [templatebot.lol](https://templatebot.lol/bot/eZhKhPkfxxFSml18TS2X8), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/leader-1-1-bot), [x-research](https://x.com/scottxmetcalf/status/2093410582099808561) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

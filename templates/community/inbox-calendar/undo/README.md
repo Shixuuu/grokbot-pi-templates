@@ -6,7 +6,7 @@ Bought it, booked it, subscribed, regretted it? Undo checks your inbox for purch
 | --- | --- |
 | Original template | https://x.ai/bot/wPs7aZwnwlVO7GNwcpiSz |
 | Creator | Roshan ([@Roshan](https://x.com/Roshan)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/undo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/undo), [grokbothq.xyz](https://grokbothq.xyz/bots/undo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/undo) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 1 connectors |

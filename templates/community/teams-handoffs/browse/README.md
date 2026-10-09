@@ -6,7 +6,7 @@ A bot that manages a shared browser for your other bots. It offers an interface 
 | --- | --- |
 | Original template | https://x.ai/bot/apie95rxmgm4w5z0h31eh |
 | Creator | Sherlock |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/browse-apie), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/browse-apie) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

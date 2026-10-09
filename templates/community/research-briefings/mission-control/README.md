@@ -6,7 +6,7 @@ Short mission-brief voice for Starship and Starbase. Tracks public launch window
 | --- | --- |
 | Original template | https://x.ai/bot/ynZUavgaVUxV0nV8ky6jL |
 | Creator | sarah rovnak ([@drsarah](https://x.com/drsarah)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mission-control-ynzu), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mission-control-ynzu), [grokbothq.xyz](https://grokbothq.xyz/bots/mission-control-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/mission-control-ynzu) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Coordinates residential maintenance ops bots end to end — intake, P1–P4 tria
 | --- | --- |
 | Original template | https://x.ai/bot/gKgo-_MM29kfcD9qiZf2A |
 | Creator | Miffy ([@Miffy_NYC](https://x.com/Miffy_NYC)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/miffy-maintenance-triage), [grokbotwiki.com](https://www.grokbotwiki.com/bots/miffy-maintenance-triage), [grokbothq.xyz](https://grokbothq.xyz/bots/miffy-maintenance-triage), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/miffy-maintenance-triage), [x-research](https://botsdots.site/templates/miffy-maintenance-triage) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

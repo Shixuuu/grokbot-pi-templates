@@ -6,7 +6,7 @@ Runs your team's projects from Notion: one row per project, a channel per projec
 | --- | --- |
 | Original template | https://x.ai/bot/1tlwsfXW8xdj6hW7YD9st |
 | Creator | Peggens Altidor ([@Peggens](https://x.com/Peggens)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/roger), [grokbotwiki.com](https://www.grokbotwiki.com/bots/roger), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/roger) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 8 skills, 0 routines, 6 memory seeds, 3 connectors |

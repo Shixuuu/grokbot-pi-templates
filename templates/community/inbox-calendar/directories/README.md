@@ -6,7 +6,7 @@ Submits your products to free/easy SaaS and AI directories on a weekday cadence.
 | --- | --- |
 | Original template | https://x.ai/bot/bPn4rxqBjPaEnJ2qurHZx |
 | Creator | Rareș ([@Raress96_](https://x.com/Raress96_)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/directories), [grokbotwiki.com](https://www.grokbotwiki.com/bots/directories), [grokbothq.xyz](https://grokbothq.xyz/bots/directories), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/directories) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 1 connectors |

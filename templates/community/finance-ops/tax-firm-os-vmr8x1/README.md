@@ -6,7 +6,7 @@ Front door for a small tax or accounting office. Helps officers and staff prepar
 | --- | --- |
 | Original template | https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh |
 | Creator | Amervim Bonano |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/tax-firm-os-vmr8), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 2 connectors |

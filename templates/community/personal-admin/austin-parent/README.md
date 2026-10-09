@@ -6,7 +6,7 @@ A family chief of staff for Austin parents. It tracks school, calendar, activiti
 | --- | --- |
 | Original template | https://x.ai/bot/7yCzCeGQTMD6oNKSPcFqj |
 | Creator | Chad Wittman ([@ChadWittman](https://x.com/ChadWittman)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/austin-parent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/austin-parent), [grokbothq.xyz](https://grokbothq.xyz/bots/austin-parent), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/7yCzCeGQTMD6oNKSPcFqj), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/austin-parent), [x-research](https://botsdots.site/templates/austin-parent) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ UHNW-style family wealth planner for tax, estate, retirement, real estate, broke
 | --- | --- |
 | Original template | https://x.ai/bot/au5ciCZciR-Eo07NAa_ab |
 | Creator | rob_e ([@rob_evj](https://x.com/rob_evj)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-office), [grokbotwiki.com](https://www.grokbotwiki.com/bots/family-wealth-planner), [grokbothq.xyz](https://grokbothq.xyz/bots/family-office), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/family-office) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 3 connectors |

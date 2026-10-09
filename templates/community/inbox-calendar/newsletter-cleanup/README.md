@@ -6,7 +6,7 @@ Audits Gmail newsletters (last 6 months), builds a three-bucket review.html, the
 | --- | --- |
 | Original template | https://x.ai/bot/dHd69sBvMG2o3lJa__T7K |
 | Creator | Andrej Šimunaj ([@scheemunai](https://x.com/scheemunai)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/newsletter-cleanup), [grokbotwiki.com](https://www.grokbotwiki.com/bots/newsletter-cleanup), [grokbothq.xyz](https://grokbothq.xyz/bots/newsletter-cleanup), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/dHd69sBvMG2o3lJa__T7K), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/newsletter-cleanup), [x-research](https://x.com/scheemunai/status/2093398594745254196) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 1 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ A personal shopping bot that finds products, watches launches and restocks, and 
 | --- | --- |
 | Original template | https://x.ai/bot/_IWbm4ByPZWcYJaseBCzK |
 | Creator | Whyment Chen ([@whymentc](https://x.com/whymentc)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/comprador), [grokbotwiki.com](https://www.grokbotwiki.com/bots/comprador), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/comprador), [x-research](https://botsdots.site/templates/comprador) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 0 routines, 6 memory seeds, 0 connectors |

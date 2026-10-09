@@ -6,7 +6,7 @@ Free email alerts, only when something matters. Emails only you, can't read your
 | --- | --- |
 | Original template | https://x.ai/bot/alHx8zJA0xXEN8FT1HDAc |
 | Creator | Cyris ([@SudoLabsNZ](https://x.com/SudoLabsNZ)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/agent-notify), [grokbotwiki.com](https://www.grokbotwiki.com/bots/agent-notify), [grokbothq.xyz](https://grokbothq.xyz/bots/agent-notify), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/agent-notify), [x-research](https://botsdots.site/templates/agent-notify) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

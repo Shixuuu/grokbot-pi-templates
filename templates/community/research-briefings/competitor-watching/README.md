@@ -6,7 +6,7 @@ I snapshot you vs 3–8 competitors (pricing, changelog, features, jobs, messagi
 | --- | --- |
 | Original template | https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N |
 | Creator | Andrej Šimunaj ([@scheemunai](https://x.com/scheemunai)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/competitor-watching), [grokbotwiki.com](https://www.grokbotwiki.com/bots/competitor-watching), [grokbothq.xyz](https://grokbothq.xyz/bots/competitor-watching), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/competitor-watching), [x-research](https://x.com/scheemunai/status/2093398377056678001) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 8 memory seeds, 0 connectors |

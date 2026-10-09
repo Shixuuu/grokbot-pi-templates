@@ -6,7 +6,7 @@ Tracks LEGO purchases and sales in a Google Sheet: pulls retailer emails (and op
 | --- | --- |
 | Original template | https://x.ai/bot/ARECkfOiBshpEB8egjavB |
 | Creator | Noah Kronemeyer ([@NoahDavidATL](https://x.com/NoahDavidATL)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lego-helper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lego-helper), [grokbothq.xyz](https://grokbothq.xyz/bots/lego-helper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/lego-helper) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 14 memory seeds, 1 connectors |

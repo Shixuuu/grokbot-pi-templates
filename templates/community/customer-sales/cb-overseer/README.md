@@ -6,7 +6,7 @@ Oversees a coloring-book factory. On first run it builds the CB team (Architect 
 | --- | --- |
 | Original template | https://x.ai/bot/h3cArBlH8Dydlyir30bpU |
 | Creator | Dave ([@WillyRelwitten](https://x.com/WillyRelwitten)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cb-overseer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cb-overseer), [grokbothq.xyz](https://grokbothq.xyz/bots/cb-overseer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cb-overseer) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

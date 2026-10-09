@@ -6,7 +6,7 @@ Tracks who follows your X account. Each day you get an update on new mutuals and
 | --- | --- |
 | Original template | https://x.ai/bot/z1N3xJerHSoWUz8HxpUer |
 | Creator | Seth Medina ([@iamsethmedina](https://x.com/iamsethmedina)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/follows), [grokbotwiki.com](https://www.grokbotwiki.com/bots/follows), [grokbothq.xyz](https://grokbothq.xyz/bots/follows), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/follows), [x-research](https://x.com/iamsethmedina/status/2105625836502368417) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 3 routines, 3 memory seeds, 0 connectors |

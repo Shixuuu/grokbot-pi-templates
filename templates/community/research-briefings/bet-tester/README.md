@@ -6,7 +6,7 @@ An unbiased judge for founders' product bets. It runs low-cost synthetic user re
 | --- | --- |
 | Original template | https://x.ai/bot/FrhhLkFkrzOMPuph_mMBn |
 | Creator | Ivelin Ivanov ([@ivelini](https://x.com/ivelini)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bet-tester), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bet-tester), [grokbothq.xyz](https://grokbothq.xyz/bots/bet-tester), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bet-tester) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 2 skills, 1 routines, 8 memory seeds, 0 connectors |

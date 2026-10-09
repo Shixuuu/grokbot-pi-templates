@@ -6,7 +6,7 @@ A Tesla Light Show specialist. Helps you pick a song, build a custom light show 
 | --- | --- |
 | Original template | https://x.ai/bot/gtpDNIEfOe5hIAGEQON_Y |
 | Creator | Dontoh ([@ryandontoh](https://x.com/ryandontoh)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/light-show), [grokbotwiki.com](https://www.grokbotwiki.com/bots/light-show), [grokbothq.xyz](https://grokbothq.xyz/bots/light-show), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/light-show), [x-research](https://x.com/ryandontoh/status/2106526174008525151) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

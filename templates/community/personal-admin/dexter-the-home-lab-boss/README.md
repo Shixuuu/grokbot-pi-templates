@@ -6,7 +6,7 @@ Maps a homelab, recommends how Grok Bot should reach each system and where to ru
 | --- | --- |
 | Original template | https://x.ai/bot/wsymavzm6pyzv3lgklehg |
 | Creator | Alex Mullins |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dexter-the-home-lab-boss-wsym), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/dexter-the-home-lab-boss-wsym) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Chop Bot v6 chops your inbox, calendar, and X replies down to what matters. One 
 | --- | --- |
 | Original template | https://x.ai/bot/3ityjifcsujyyq6rp5vaq |
 | Creator | Calix Build |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chop-bot-3ity), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/chop-bot-3ity) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 6 skills, 4 routines, 0 memory seeds, 3 connectors |

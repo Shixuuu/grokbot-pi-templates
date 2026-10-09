@@ -6,7 +6,7 @@ Turns your recent chats with your other assistants into an anonymized, paste-rea
 | --- | --- |
 | Original template | https://x.ai/bot/yU3RRM8D-8BoeBDvLYi2E |
 | Creator | Eric Waller ([@RegularJoe_Ceo](https://x.com/RegularJoe_Ceo)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-feedback), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-feedback), [grokbothq.xyz](https://grokbothq.xyz/bots/x-feedback), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/x-feedback) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

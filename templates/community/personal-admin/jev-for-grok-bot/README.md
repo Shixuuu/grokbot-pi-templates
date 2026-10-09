@@ -6,7 +6,7 @@ Plug TypeSafe Jev into Grok Bot: one API key from OpenRouter or TypeSafe, faster
 | --- | --- |
 | Original template | https://x.ai/bot/sm_xi4of09cgu8kgylvlc |
 | Creator | Chris |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jev-for-grok-bot-smxi), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/jev-for-grok-bot-smxi) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

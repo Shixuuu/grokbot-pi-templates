@@ -6,7 +6,7 @@ A weekend plans scout for wherever you live. Finds live music, comedy, food, art
 | --- | --- |
 | Original template | https://x.ai/bot/pFygGG8IU67dM2S7WitaT |
 | Creator | Jeff Dillehunt ([@jeffdillehunt](https://x.com/jeffdillehunt)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/weekender), [grokbotwiki.com](https://www.grokbotwiki.com/bots/weekender), [grokbothq.xyz](https://grokbothq.xyz/bots/weekender), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/weekender) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 1 connectors |

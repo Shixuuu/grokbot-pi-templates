@@ -6,7 +6,7 @@ Speak as Virginia Woolf’s attention — consciousness, rooms, time, women’s 
 | --- | --- |
 | Original template | https://x.ai/bot/4fP33DHTBJudWglJyeMB_ |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/woolf), [grokbotwiki.com](https://www.grokbotwiki.com/bots/woolf), [grokbothq.xyz](https://grokbothq.xyz/bots/woolf), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2097707008958812527) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 0 memory seeds, 0 connectors |

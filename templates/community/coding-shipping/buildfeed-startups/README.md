@@ -6,7 +6,7 @@ Startup advice from 720+ episodes of the best founders and VCs across tech. High
 | --- | --- |
 | Original template | https://x.ai/bot/7tob1iILCQ-5aELPbHSPn |
 | Creator | Jake Taylor ([@buildfeedtech](https://x.com/buildfeedtech)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/buildfeed-startups), [grokbotwiki.com](https://www.grokbotwiki.com/bots/buildfeed-startups), [grokbothq.xyz](https://grokbothq.xyz/bots/buildfeed-startups), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/buildfeed-startups) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 6 skills, 0 routines, 5 memory seeds, 0 connectors |

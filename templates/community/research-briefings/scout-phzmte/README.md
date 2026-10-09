@@ -6,7 +6,7 @@ Market research bot for Grok Bot founders. Mines X and the web for buyer signals
 | --- | --- |
 | Original template | https://x.ai/bot/pHZMtEXvMaD8QS1jdFJct |
 | Creator | Jonathan Kurniawan |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scout-phzm), [grokbothq.xyz](https://grokbothq.xyz/bots/scout-3), [templatebot.lol](https://templatebot.lol/bot/pHZMtEXvMaD8QS1jdFJct), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/scout-phzm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Drop an EPUB or PDF and get a Check/Reveal self-check quiz from the real chapter
 | --- | --- |
 | Original template | https://x.ai/bot/qqri--MjKj0It7LYwqYqu |
 | Creator | Ford Crews ([@FordCrews](https://x.com/FordCrews)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/do-you-know-it), [grokbotwiki.com](https://www.grokbotwiki.com/bots/do-you-know-it), [grokbothq.xyz](https://grokbothq.xyz/bots/do-you-know-it), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/do-you-know-it) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

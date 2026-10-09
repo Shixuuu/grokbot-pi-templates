@@ -6,7 +6,7 @@ Lose fat without losing the plot — photo and label food logs, locked macros, s
 | --- | --- |
 | Original template | https://x.ai/bot/m1BopNHP2eYY4CNmw1iB- |
 | Creator | MERICA MEMED ([@Mericamemed](https://x.com/Mericamemed)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/weight-loss-fitness-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/weight-loss-fitness-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/weight-loss-fitness-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/weight-loss-fitness-coach), [x-research](https://x.com/Mericamemed/status/2104306529675673876) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 5 skills, 0 routines, 10 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Reality-orientation bot. Separates fact from inference, checks sources, and draf
 | --- | --- |
 | Original template | https://x.ai/bot/9NQVphGO6i9lYzM1xBFTH |
 | Creator | BCLA3YS ([@BCLA3YS](https://x.com/BCLA3YS)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ground-bot-alpha), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ground-bot-alpha), [grokbothq.xyz](https://grokbothq.xyz/bots/ground-bot-alpha), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ground-bot-alpha) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 1 memory seeds, 0 connectors |

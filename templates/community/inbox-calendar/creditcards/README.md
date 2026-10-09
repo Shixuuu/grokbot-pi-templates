@@ -6,7 +6,7 @@ A personal credit-card ledger desk: balances, due dates, charges, perks, and pro
 | --- | --- |
 | Original template | https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN |
 | Creator | Kong T ([@TeslaTranslated](https://x.com/TeslaTranslated)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/creditcards), [grokbotwiki.com](https://www.grokbotwiki.com/bots/creditcards), [grokbothq.xyz](https://grokbothq.xyz/bots/creditcards), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/creditcards), [x-research](https://botsdots.site/templates/creditcards) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 3 routines, 8 memory seeds, 3 connectors |

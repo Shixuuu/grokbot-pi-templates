@@ -6,7 +6,7 @@ Paste a claim or URL and get a structured Entity→Claim→Source→Framing grap
 | --- | --- |
 | Original template | https://x.ai/bot/5aCD_QGQ6OLbid0BJYr_v |
 | Creator | Mat Young ([@Ispider](https://x.com/Ispider)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claim-ontology-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/claim-ontology-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/claim-ontology-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/claim-ontology-desk), [x-research](https://botsdots.site/templates/claim-ontology-desk) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

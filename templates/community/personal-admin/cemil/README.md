@@ -6,7 +6,7 @@ A friendly wear-log assistant that remembers what you wore, when, and where—so
 | --- | --- |
 | Original template | https://x.ai/bot/vJo5baCNdh3N0Swpe5539 |
 | Creator | gorchbey2 ([@gorchbey2](https://x.com/gorchbey2)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cemil), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cemil), [grokbothq.xyz](https://grokbothq.xyz/bots/cemil), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/cemil) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 0 connectors |

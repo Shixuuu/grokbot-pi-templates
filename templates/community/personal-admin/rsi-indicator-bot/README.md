@@ -6,7 +6,7 @@ Finds RSI setups on your watchlist and writes a finished order ticket for each o
 | --- | --- |
 | Original template | https://x.ai/bot/Cjn6YQ377TLVjJYGwkLEq |
 | Creator | Right Wing Inkorporated ([@rightwingink1](https://x.com/rightwingink1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rsi-indicator-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rsi-indicator-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/rsi-indicator-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rsi-indicator-bot), [x-research](https://botsdots.site/templates/rsi-indicator-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

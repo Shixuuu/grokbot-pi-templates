@@ -6,7 +6,7 @@ CCleaner-style Windows cleaner: scans with a rule catalog, shows what can go and
 | --- | --- |
 | Original template | https://x.ai/bot/Z0WBoK2sucsOAqAXRpRb8 |
 | Creator | Alexis Reyna ([@MapachesAlexis](https://x.com/MapachesAlexis)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/windows-disk-cleaner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/macos-disk-cleaner), [grokbothq.xyz](https://grokbothq.xyz/bots/macos-disk-cleaner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/MapachesAlexis/status/2097487811251237364) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

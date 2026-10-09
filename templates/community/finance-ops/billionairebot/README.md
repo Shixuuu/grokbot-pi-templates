@@ -6,7 +6,7 @@ A wealth and business assistant. The new owner sets the focus, whether that is c
 | --- | --- |
 | Original template | https://x.ai/bot/y-phHxm4D_W32YEi-z6VB |
 | Creator | Diego Arias LLC ([@innrstand](https://x.com/innrstand)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/billionairebot-yphh), [grokbotwiki.com](https://www.grokbotwiki.com/bots/billionairebot-yphh), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/billionairebot-yphh) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

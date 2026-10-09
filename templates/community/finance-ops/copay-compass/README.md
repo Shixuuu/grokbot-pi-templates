@@ -6,7 +6,7 @@ Finds copay assistance for your cancer drug, gets you signed up for the alerts t
 | --- | --- |
 | Original template | https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD |
 | Creator | Marc Saintjour ([@MSaintjour](https://x.com/MSaintjour)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/copay-compass), [botsdots.site](https://botsdots.site/templates/copay-compass), [grokbotwiki.com](https://www.grokbotwiki.com/bots/copay-compass), [grokbothq.xyz](https://grokbothq.xyz/bots/copay-compass), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/ehxj2Wdxq9M04jvaAqyBD), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/copay-compass), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 9 skills, 0 routines, 0 memory seeds, 0 connectors |

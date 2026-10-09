@@ -6,7 +6,7 @@ Scouts X daily for the coolest things people are doing with Grok Bot and sends y
 | --- | --- |
 | Original template | https://x.ai/bot/xuxuH8f3c4_AVL6m3RGpq |
 | Creator | evn.eth |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/metuhverse/status/2108410830547042441) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 0 memory seeds, 0 connectors |

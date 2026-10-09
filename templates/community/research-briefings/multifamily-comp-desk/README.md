@@ -6,7 +6,7 @@ Source-linked availability books, effective rents, and weekly comps packs for mu
 | --- | --- |
 | Original template | https://x.ai/bot/F_s7sno8HC2xZlii-ACzg |
 | Creator | Matthew Dickson ([@TXpaintbrush](https://x.com/TXpaintbrush)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/multifamily-comp-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/multifamily-comp-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/multifamily-comp-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/multifamily-comp-desk) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 8 skills, 1 routines, 3 memory seeds, 2 connectors |

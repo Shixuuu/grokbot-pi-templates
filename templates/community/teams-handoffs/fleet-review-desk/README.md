@@ -6,7 +6,7 @@ Fleet Review Desk only reports. Once a month it reviews the Grok Bots you choose
 | --- | --- |
 | Original template | https://x.ai/bot/KT8Px1yf07UDJOmHESqog |
 | Creator | weboperater agency ([@weboperater](https://x.com/weboperater)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fleet-review-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fleet-review-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/fleet-review-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/fleet-review-desk) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 1 routines, 1 memory seeds, 0 connectors |

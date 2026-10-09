@@ -6,7 +6,7 @@ Watches the running processes on your PC for signs of intrusion, like fake syste
 | --- | --- |
 | Original template | https://x.ai/bot/9UK3ux3eODqZJL-Rm1lqq |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/process-monitor), [grokbothq.xyz](https://grokbothq.xyz/bots/process-monitor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/process-monitor) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

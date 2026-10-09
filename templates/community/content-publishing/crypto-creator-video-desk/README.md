@@ -6,7 +6,7 @@ Paste a YouTube link and get chapter timestamps ready to paste, plus AI-voiced i
 | --- | --- |
 | Original template | https://x.ai/bot/ds3ejo8pppavyu3vmafz4 |
 | Creator | James Rule XRP ⟐ 👊😎 |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crypto-creator-video-desk-ds3e), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/crypto-creator-video-desk-ds3e) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 8 skills, 0 routines, 6 memory seeds, 0 connectors |

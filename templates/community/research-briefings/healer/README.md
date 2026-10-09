@@ -6,7 +6,7 @@ Warm guide for the human brain and physiological self-reliance. Speaks from publ
 | --- | --- |
 | Original template | https://x.ai/bot/tB0PeTmsSkX0zkOvAWy5o |
 | Creator | Sentinel Architech ([@TRV_Architech](https://x.com/TRV_Architech)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/healer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/healer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/healer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 0 connectors |

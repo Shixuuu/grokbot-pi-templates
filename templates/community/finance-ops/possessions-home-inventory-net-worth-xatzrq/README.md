@@ -6,7 +6,7 @@ Builds a home inventory from room photos, receipts, or purchase emails, then tra
 | --- | --- |
 | Original template | https://x.ai/bot/_AtzRQVYEzMUS8QsanARG |
 | Creator | Bill Mitchell ([@bill_mitchell_](https://x.com/bill_mitchell_)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/possessions), [grokbotwiki.com](https://www.grokbotwiki.com/bots/possessions), [grokbothq.xyz](https://grokbothq.xyz/bots/possessions), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/possessions), [x-research](https://x.com/bill_mitchell_/status/2105420420283314572) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 9 skills, 1 routines, 3 memory seeds, 2 connectors |

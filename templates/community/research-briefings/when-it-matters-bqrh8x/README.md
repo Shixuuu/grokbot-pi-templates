@@ -6,7 +6,7 @@ Give me something you keep checking. I’ll figure out what would actually chang
 | --- | --- |
 | Original template | https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8 |
 | Creator | Hiten Shah ([@hnshah](https://x.com/hnshah)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/when-it-matters), [botsdots.site](https://botsdots.site/templates/when-it-matters), [grokbotwiki.com](https://www.grokbotwiki.com/bots/when-it-matters), [grokbothq.xyz](https://grokbothq.xyz/bots/when-it-matters), [templatebot.lol](https://templatebot.lol/bot/BqrH8_GNQvSYV-gcmJnd8), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/when-it-matters), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 20 memory seeds, 3 connectors |

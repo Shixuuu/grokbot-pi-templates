@@ -6,7 +6,7 @@ Multi-agent life OS: Chief of Staff plus Projects Manager, Relationshipmax, Heal
 | --- | --- |
 | Original template | https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE |
 | Creator | Sravan v J |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-fleet) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 0 routines, 9 memory seeds, 4 connectors |

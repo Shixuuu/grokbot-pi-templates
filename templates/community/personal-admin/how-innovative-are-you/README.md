@@ -6,7 +6,7 @@ Great breakthroughs emerge from the unconscious. Brainnovation's Six Step Cycle 
 | --- | --- |
 | Original template | https://x.ai/bot/Cbu9wYEuUn0tYc1KEPw9X |
 | Creator | Maurice Crijns ([@mau30350](https://x.com/mau30350)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/how-innovative-are-you), [grokbotwiki.com](https://www.grokbotwiki.com/bots/brainnovation-intake), [grokbothq.xyz](https://grokbothq.xyz/bots/how-innovative-are-you), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/how-innovative-are-you) |
 | Fidelity | **full** (full recipe, template version 25) |
 | Contents | 8 skills, 0 routines, 10 memory seeds, 0 connectors |

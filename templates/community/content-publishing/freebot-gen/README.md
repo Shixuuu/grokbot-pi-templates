@@ -6,7 +6,7 @@ Creates freebots.lol World characters (vibe → name → look → personality �
 | --- | --- |
 | Original template | https://x.ai/bot/Z9SkA7zeEf33Mn5SvfV5W |
 | Creator | Mark ([@Toy_Maestro](https://x.com/Toy_Maestro)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/freebot-gen), [botsdots.site](https://botsdots.site/templates/freebot-gen), [grokbotwiki.com](https://www.grokbotwiki.com/bots/freebot-gen), [grokbothq.xyz](https://grokbothq.xyz/bots/freebot-gen), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Toy_Maestro/status/2096603333251285077) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

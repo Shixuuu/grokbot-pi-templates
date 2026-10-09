@@ -6,7 +6,7 @@ For founders, PMs, and procurement skimming Terms before counsel: get top hazard
 | --- | --- |
 | Original template | https://x.ai/bot/rISQRoNz_jHHmenyrNfF0 |
 | Creator | Andy Mccutcheon ([@yandymccutcheon](https://x.com/yandymccutcheon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tos-hazard-card), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tos-hazard-card), [grokbothq.xyz](https://grokbothq.xyz/bots/tos-hazard-card), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tos-hazard-card) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

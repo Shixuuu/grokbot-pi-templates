@@ -6,7 +6,7 @@ A Grok Bot projects manager. Notion is source of truth: one Projects row and a G
 | --- | --- |
 | Original template | https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD |
 | Creator | Eric Zakariasson ([@ericzakariasson](https://x.com/ericzakariasson)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/projects-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/projects-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/projects-manager), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/FU-Ev6_Ju4lFGWwWRD0GD), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/projects-manager), [x-research](https://x.com/ericzakariasson/status/2093381689041109349) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 2 connectors |

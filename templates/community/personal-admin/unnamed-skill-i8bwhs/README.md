@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD |
 | Creator | きのこ 先輩 ([@sin5d](https://x.com/sin5d)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/japanese-jirai-kei-clingy-gal), [grokbotwiki.com](https://www.grokbotwiki.com/bots/japanese-jirai-kei-clingy-gal), [grokbothq.xyz](https://grokbothq.xyz/bots/jirai-kei-gal-companion), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jirai-kei-gal-companion), [x-research](https://botsdots.site/templates/japanese-jirai-kei-clingy-gal) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 7 memory seeds, 1 connectors |

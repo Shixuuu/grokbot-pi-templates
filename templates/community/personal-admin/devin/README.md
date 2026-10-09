@@ -6,7 +6,7 @@ Hands coding work to Devin through your own remote MCP deploy. Create sessions, 
 | --- | --- |
 | Original template | https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR |
 | Creator | Nazeeh Vahora ([@naz3eh](https://x.com/naz3eh)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/devin), [grokbotwiki.com](https://www.grokbotwiki.com/bots/devin), [grokbothq.xyz](https://grokbothq.xyz/bots/devin), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/RwNXRkVfIUpxKV6jeXRsR), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/devin) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Use Claude Code or Codex within Grok with your subscription plan
 | --- | --- |
 | Original template | https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p |
 | Creator | David Laster ([@infdaze](https://x.com/infdaze)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ai-boy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-boy), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-boy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ai-boy), [x-research](https://x.com/infdaze/status/2100801822428479674) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Paste a Grok Bot share link before you Add it. Box Inspector dumps everything th
 | --- | --- |
 | Original template | https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/box-inspector), [botsdots.site](https://botsdots.site/templates/box-inspector), [grokbotwiki.com](https://www.grokbotwiki.com/bots/box-inspector), [grokbothq.xyz](https://grokbothq.xyz/bots/box-inspector), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/q7GLbLhMZDpJXBGuuci1J), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/box-inspector), [x-research](https://x.com/mjjefford/status/2095417930267668930) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

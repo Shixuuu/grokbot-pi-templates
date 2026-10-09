@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/weugfzfnurno8lqzbdaoh |
 | Creator | Cypher Monkey |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/onboarding-guide-desk-day-one-weug), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/onboarding-guide-desk-day-one-weug) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

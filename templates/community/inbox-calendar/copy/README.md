@@ -6,7 +6,7 @@ Edits and rewrites drafts, emails, and pages so they sound like a person wrote t
 | --- | --- |
 | Original template | https://x.ai/bot/v3cu4BQauoUaTcbJ6m_7C |
 | Creator | Jenny Reznik ([@Crypto8675309](https://x.com/Crypto8675309)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/copy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/copy), [grokbothq.xyz](https://grokbothq.xyz/bots/copy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/copy) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A low-stock and supplier-order draft desk for a small business. It tracks finish
 | --- | --- |
 | Original template | https://x.ai/bot/BDvP1yXPqp5DtJlk94Kmj |
 | Creator | Richard ([@Richard Garrick](https://x.com/Richard Garrick)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/reorder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/reorder), [grokbothq.xyz](https://grokbothq.xyz/bots/reorder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/reorder), [x-research](https://x.com/RichGarrick/status/2104700485567684743) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 0 connectors |

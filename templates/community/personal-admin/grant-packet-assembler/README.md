@@ -6,7 +6,7 @@ Builds SSI-safe Georgia grant and self-employment packets for OneGeorgia, GVRA, 
 | --- | --- |
 | Original template | https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef |
 | Creator | Joseph Taylor ([@OmgawdMadeit](https://x.com/OmgawdMadeit)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/grant-packet-assembler), [botsdots.site](https://botsdots.site/templates/grant-packet-assembler), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grant-packet-assembler), [grokbothq.xyz](https://grokbothq.xyz/bots/grant-packet-assembler), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/kbP2DWs6cKSWqeRtQhIef), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grant-packet-assembler), [x-research](https://x.com/OmgawdMadeit/status/2096127964668629458) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

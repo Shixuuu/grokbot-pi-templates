@@ -6,7 +6,7 @@ Standing quality-control and self-improvement desk for a bot fleet. Audits packs
 | --- | --- |
 | Original template | https://x.ai/bot/I-Z5352OxR_YS5AEburah |
 | Creator | ladybarrelmaker ([@ladybarrelmaker](https://x.com/ladybarrelmaker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/fleet-qc), [botsdots.site](https://botsdots.site/templates/fleet-qc), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fleet-qc), [grokbothq.xyz](https://grokbothq.xyz/bots/fleet-qc), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fleet-qc), [x-research](https://x.com/ladybarrelmaker/status/2102762942269939777) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 0 connectors |

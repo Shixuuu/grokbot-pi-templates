@@ -6,7 +6,7 @@ Hiring assistant for ATS, LinkedIn, and offer letters. Pulls candidate context f
 | --- | --- |
 | Original template | https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip- |
 | Creator | stephoshi yappamoto ([@xsubwayratx](https://x.com/xsubwayratx)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/hire-bot), [botsdots.site](https://botsdots.site/templates/hire-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hire-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/hire-bot-Q9Vbc3gb), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hire-bot), [x-research](https://x.com/xsubwayratx/status/2096346151452626945) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 5 connectors |

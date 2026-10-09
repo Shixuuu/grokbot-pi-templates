@@ -6,7 +6,7 @@ Weekly FastBound A&D auditor for FFL dealers. Flags disposed Sale items with a b
 | --- | --- |
 | Original template | https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh |
 | Creator | Jason ([@Jasonturcotte](https://x.com/Jasonturcotte)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bound), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bound), [grokbothq.xyz](https://grokbothq.xyz/bots/bound), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bound) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

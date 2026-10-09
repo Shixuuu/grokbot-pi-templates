@@ -6,7 +6,7 @@ Job Proposal Scope Guard for agencies and client PMs. Client job proposals / SOW
 | --- | --- |
 | Original template | https://x.ai/bot/PVeqmKJw8-bSz57_EdL9r |
 | Creator | JavaBeanAI [Bart] ([@JavaBeanAI](https://x.com/JavaBeanAI)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-proposal-scope-guard), [grokbotwiki.com](https://www.grokbotwiki.com/bots/job-proposal-scope-guard), [grokbothq.xyz](https://grokbothq.xyz/bots/job-proposal-scope-guard), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/JavaBeanAI/status/2104719935951736974) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 6 memory seeds, 0 connectors |

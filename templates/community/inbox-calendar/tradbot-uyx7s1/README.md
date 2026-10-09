@@ -6,7 +6,7 @@ A family manager for busy parents. It reads your personal email and calendar, th
 | --- | --- |
 | Original template | https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9 |
 | Creator | Claire ([@clairevo](https://x.com/clairevo)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/tradbot), [grokbothq.xyz](https://grokbothq.xyz/bots/tradbot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/uY_7s1TZILVzUeJ9lLOx9), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tradbot), [x-research](https://x.com/clairevo/status/2093487955205923031) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 6 skills, 0 routines, 9 memory seeds, 2 connectors |

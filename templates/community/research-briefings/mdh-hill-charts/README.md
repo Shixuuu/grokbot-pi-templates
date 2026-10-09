@@ -6,7 +6,7 @@ Builds high-contrast, source-disciplined charts on Iran’s currency wedge, oil 
 | --- | --- |
 | Original template | https://x.ai/bot/Mmcfff6ubyzhSnqMAQ3NA |
 | Creator | Mark D. Hill ([@Mark Hill](https://x.com/Mark Hill)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mdh-hill-charts), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mdh-hill-charts), [grokbothq.xyz](https://grokbothq.xyz/bots/mdh-hill-charts), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/mdh-hill-charts) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

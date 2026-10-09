@@ -6,7 +6,7 @@ Turns a PT's post-session voice dump, audio, or bullets into skilled ther act, g
 | --- | --- |
 | Original template | https://x.ai/bot/HzH9d2YwZFhJ36prvFW1n |
 | Creator | Fernand Pelin ([@Fernand](https://x.com/Fernand)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/therapy-scribe), [grokbotwiki.com](https://www.grokbotwiki.com/bots/therapy-scribe), [grokbothq.xyz](https://grokbothq.xyz/bots/therapy-scribe), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/therapy-scribe) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 0 routines, 9 memory seeds, 1 connectors |

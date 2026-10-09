@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/9w6t6htn3bypd0opzy2hj |
 | Creator | Cypher Monkey |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bug-triage-desk-bug-sorter-9w6t), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bug-triage-desk-bug-sorter-9w6t) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

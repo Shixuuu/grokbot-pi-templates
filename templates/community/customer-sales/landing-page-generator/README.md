@@ -6,7 +6,7 @@ Writes and ships sales pages to a live route for one business. For owners who ne
 | --- | --- |
 | Original template | https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08 |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/landing-page-generator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/landing-page-generator), [grokbothq.xyz](https://grokbothq.xyz/bots/landing-page-generator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/landing-page-generator), [x-research](https://x.com/ColinMcDermott/status/2098713508649095518) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 0 skills, 0 routines, 13 memory seeds, 1 connectors |

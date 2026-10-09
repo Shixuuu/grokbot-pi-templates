@@ -6,7 +6,7 @@ Paper-first US earnings blotter. Stocks and ETFs with a print in the next 24 hou
 | --- | --- |
 | Original template | https://x.ai/bot/hSRFXCKSpKGcBA9q8BOw8 |
 | Creator | Daniel Vargas |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/survivor), [grokbothq.xyz](https://grokbothq.xyz/bots/survivor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/survivor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 4 memory seeds, 0 connectors |

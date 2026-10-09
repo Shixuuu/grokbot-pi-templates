@@ -6,7 +6,7 @@ NYS brokerage compliance desk for DOS advertising / fair-housing social and webs
 | --- | --- |
 | Original template | https://x.ai/bot/sokXJWiBsUbTtQCAJ1EsY |
 | Creator | Ryan Gallup ([@Ryangpgllc](https://x.com/Ryangpgllc)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/compliance), [grokbotwiki.com](https://www.grokbotwiki.com/bots/compliance), [grokbothq.xyz](https://grokbothq.xyz/bots/compliance), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/compliance) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 10 memory seeds, 3 connectors |

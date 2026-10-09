@@ -6,7 +6,7 @@ Paste a video link. Get a playable MP4 on your Mac, Windows, or Linux PC — X, 
 | --- | --- |
 | Original template | https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ |
 | Creator | 공용 레빗홀 ([@ApexSMK](https://x.com/ApexSMK)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/universal-video-downloader), [grokbotwiki.com](https://www.grokbotwiki.com/bots/universal-video-downloader), [grokbothq.xyz](https://grokbothq.xyz/bots/universal-video-downloader), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/ny02y0VWgzWSSFlXgpWVZ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/universal-video-downloader) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

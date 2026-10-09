@@ -6,7 +6,7 @@ Runs a weekly litter-pickup league for apartment crews: staff text photos, the b
 | --- | --- |
 | Original template | https://x.ai/bot/2FnrAQ_WZ5FcNEN1XA6Px |
 | Creator | Karen Patterson ([@karenlgeig](https://x.com/karenlgeig)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/trash-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/trash-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/trash-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/trash-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 24 memory seeds, 2 connectors |

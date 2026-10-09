@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ |
 | Creator | krong gggggg ([@Krongggggg](https://x.com/Krongggggg)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/serenity), [grokbotwiki.com](https://www.grokbotwiki.com/bots/serenity), [grokbothq.xyz](https://grokbothq.xyz/bots/serenity-by-krong-ZYVnoJMU), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/serenity), [x-research](https://x.com/Krongggggg/status/2096241494529392945) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 0 connectors |

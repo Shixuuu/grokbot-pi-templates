@@ -6,7 +6,7 @@ A PLG numbers bot for growth teams. Answers with a number, the definition, the s
 | --- | --- |
 | Original template | https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq |
 | Creator | Jay Sahnan ([@JaySahnan](https://x.com/JaySahnan)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nummie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nummie), [grokbothq.xyz](https://grokbothq.xyz/bots/nummie-ZXpzvoKQ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/JaySahnan/status/2095195083964592522) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 1 connectors |

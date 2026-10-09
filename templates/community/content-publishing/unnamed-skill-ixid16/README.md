@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/IXID16RPXlKV6KHQCdmr7 |
 | Creator | 재미없니? ([@enterjajayo](https://x.com/enterjajayo)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/daily-three-kingdoms-illustration-rotating), [grokbotwiki.com](https://www.grokbotwiki.com/bots/daily-three-kingdoms-illustration-rotating), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-ixid1), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/three-kingdoms-illustrator), [x-research](https://x.com/enterjajayo/status/2096716185039725009) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

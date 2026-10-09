@@ -6,7 +6,7 @@ Collects the pages AI engines cite for a brand’s buying questions, then shortl
 | --- | --- |
 | Original template | https://x.ai/bot/gDvJh38CGXP1Jumemg4d- |
 | Creator | Dawood Khan ([@dawoodkhan254](https://x.com/dawoodkhan254)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crowdreply-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/crowdreply-scout), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/dawoodkhan254/status/2094451439573881015) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 1 connectors |

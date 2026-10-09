@@ -6,7 +6,7 @@ A Tally.so desk for one owner. Creates forms, reads submissions, and fills a nam
 | --- | --- |
 | Original template | https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5 |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tally-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tally-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/tally-desk), [templatebot.lol](https://templatebot.lol/bot/m-qZ-OIA6Nt2LZeb2bKg5), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tally-desk), [x-research](https://x.com/joshkim/status/2093795274598817946) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

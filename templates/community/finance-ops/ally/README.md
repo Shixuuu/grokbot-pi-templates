@@ -6,7 +6,7 @@ Shopify store ops partner for soft launch, catalog hygiene, Admin API work when 
 | --- | --- |
 | Original template | https://x.ai/bot/6baJd8-Tp-s03m3ccb6AO |
 | Creator | Zepp ([@zepp1985](https://x.com/zepp1985)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ally), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ally), [grokbothq.xyz](https://grokbothq.xyz/bots/ally), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ally) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Watchdog — stamps GO / DEGRADED / STALE from the live honesty claim; never inv
 | --- | --- |
 | Original template | https://x.ai/bot/RAVnsyYkm9qG1n0Ou_650 |
 | Creator | Xavier Fouilleux ([@ixef](https://x.com/ixef)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/watchdog-ravn), [grokbotwiki.com](https://www.grokbotwiki.com/bots/watchdog-ravn), [grokbothq.xyz](https://grokbothq.xyz/bots/watchdog-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/watchdog-ravn) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 8 memory seeds, 0 connectors |

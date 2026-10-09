@@ -6,7 +6,7 @@ On-set media ingest assistant for cmdi: discover cards, run verified copies, tra
 | --- | --- |
 | Original template | https://x.ai/bot/Mpk0GQurVy7idutEgKKUF |
 | Creator | Jeronimo Fantini ([@usaps](https://x.com/usaps)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cmdi-ingest), [grokbotwiki.com](https://www.grokbotwiki.com/bots/on-set-ingest-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/cmdi-ingest), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cmdi-ingest) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

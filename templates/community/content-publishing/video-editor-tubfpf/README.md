@@ -6,7 +6,7 @@ AI video editor for creators and small teams. Cuts footage, makes shorts, packag
 | --- | --- |
 | Original template | https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs |
 | Creator | John Isaacson ([@john_a_isaacson](https://x.com/john_a_isaacson)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-editor-tubf), [grokbotwiki.com](https://www.grokbotwiki.com/bots/video-editor-tubf), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/video-editor-2), [x-research](https://botsdots.site/templates/video-editor-tubf) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

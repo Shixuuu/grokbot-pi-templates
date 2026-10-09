@@ -6,7 +6,7 @@ Turns inbox threads into action lists and drafts replies in your voice. Never se
 | --- | --- |
 | Original template | https://x.ai/bot/RiqLdJ0BipnpJEjzadgy_ |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/email-bot-riql), [grokbotwiki.com](https://www.grokbotwiki.com/bots/email-bot-riql), [grokbothq.xyz](https://grokbothq.xyz/bots/email-bot-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/email-bot-riql) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

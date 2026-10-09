@@ -6,7 +6,7 @@ Bootstraps a themed Grok Bot army (Camelot by default, or your own theme). On fi
 | --- | --- |
 | Original template | https://x.ai/bot/hGrJ9dQRObo02XkkjBXAc |
 | Creator | Bourke Floyd ([@BourkeFloyd](https://x.com/BourkeFloyd)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/camelot-bot-theme-bootstrap), [grokbotwiki.com](https://www.grokbotwiki.com/bots/camelot-bot-theme-bootstrap), [grokbothq.xyz](https://grokbothq.xyz/bots/camelot-bot-theme-bootstrap), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/camelot-bot-theme-bootstrap) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 4 skills, 0 routines, 7 memory seeds, 0 connectors |

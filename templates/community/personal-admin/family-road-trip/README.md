@@ -6,7 +6,7 @@ Family road-trip co-pilot for the car: plans each leg with a kid stop, food, and
 | --- | --- |
 | Original template | https://x.ai/bot/3ky0yDLuZt43DcDNeZ4LI |
 | Creator | jason z ([@jason](https://x.com/jason)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-road-trip), [grokbotwiki.com](https://www.grokbotwiki.com/bots/family-road-trip), [grokbothq.xyz](https://grokbothq.xyz/bots/family-road-trip), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/family-road-trip) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 6 skills, 0 routines, 6 memory seeds, 0 connectors |

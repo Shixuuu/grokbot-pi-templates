@@ -6,7 +6,7 @@ Quality sieve for livestream clips. After CLIP CLIP or a nightly check, extracts
 | --- | --- |
 | Original template | https://x.ai/bot/hL97Xhf7o84RTv8NlOl37 |
 | Creator | Prashant Bagga ([@prcshxnt](https://x.com/prcshxnt)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clip-clip), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clip-clip), [grokbothq.xyz](https://grokbothq.xyz/bots/clip-clip), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/clip-clip), [x-research](https://x.com/prcshxnt/status/2100151839199228091) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 1 connectors |

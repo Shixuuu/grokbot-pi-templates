@@ -6,7 +6,7 @@ English speaking coach. It makes you clear, not ornate: short sentences, one cor
 | --- | --- |
 | Original template | https://x.ai/bot/85J64XeyKMaYXQrMhQWpl |
 | Creator | Jide Lambo ([@JideLambo](https://x.com/JideLambo)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clear-speech), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clear-speech), [grokbothq.xyz](https://grokbothq.xyz/bots/clear-speech), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/clear-speech), [x-research](https://botsdots.site/templates/clear-speech) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

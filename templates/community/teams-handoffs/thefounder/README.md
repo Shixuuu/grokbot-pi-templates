@@ -6,7 +6,7 @@ The founder's chief of staff and keeper of the shared machine. Route work to spe
 | --- | --- |
 | Original template | https://x.ai/bot/Bt48h63v32_q_shWVlEBb |
 | Creator | Daniel Garcia Acosta ([@DaniAcostaAI](https://x.com/DaniAcostaAI)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/thefounder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/thefounder), [grokbothq.xyz](https://grokbothq.xyz/bots/thefounder), [templatebot.lol](https://templatebot.lol/bot/Bt48h63v32_q_shWVlEBb), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/thefounder), [x-research](https://x.com/DaniAcostaAI/status/2093628837867241883) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 3 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ These Grok Bot / digital gremlins reworks add a dose of aspiration to your daily
 | --- | --- |
 | Original template | https://x.ai/bot/jja9KVFn--roWw_lY3fl1 |
 | Creator | Ξ ([@elizrdrake](https://x.com/elizrdrake)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ad-umbra), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ad-umbra), [grokbothq.xyz](https://grokbothq.xyz/bots/ad-umbra), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ad-umbra), [x-research](https://x.com/elizrdrake/status/2101581662282789219) |
 | Fidelity | **full** (full recipe, template version 25) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

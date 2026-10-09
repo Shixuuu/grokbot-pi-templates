@@ -6,7 +6,7 @@ Senior web publisher for a public static site: gated deploys, SEO and indexing, 
 | --- | --- |
 | Original template | https://x.ai/bot/uukqeb4npn9rsp1g3refr |
 | Creator | Ryan T |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/website-publisher-uukq), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/website-publisher-uukq) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 9 memory seeds, 6 connectors |

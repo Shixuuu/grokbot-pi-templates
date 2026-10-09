@@ -6,7 +6,7 @@ A careful second opinion before risky bot actions. Reviews proposed sends, delet
 | --- | --- |
 | Original template | https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6 |
 | Creator | Mayur Darji ([@myrrazor](https://x.com/myrrazor)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/security-warden), [grokbotwiki.com](https://www.grokbotwiki.com/bots/security-warden), [grokbothq.xyz](https://grokbothq.xyz/bots/security-warden), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/security-warden), [x-research](https://botsdots.site/templates/security-warden) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 0 routines, 7 memory seeds, 0 connectors |

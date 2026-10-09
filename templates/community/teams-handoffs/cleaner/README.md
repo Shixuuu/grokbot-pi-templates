@@ -6,7 +6,7 @@ Wipes Grok Bot chat histories on request and on a weekly schedule — messages a
 | --- | --- |
 | Original template | https://x.ai/bot/OMPT37PUKmoL8MY11oDLP |
 | Creator | Seth Saler ([@sethsaler](https://x.com/sethsaler)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/cleaner), [botsdots.site](https://botsdots.site/templates/cleaner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cleaner), [grokbothq.xyz](https://grokbothq.xyz/bots/cleaner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/sethsaler/status/2098593011844149676) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

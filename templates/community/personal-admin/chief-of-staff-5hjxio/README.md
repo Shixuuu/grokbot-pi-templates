@@ -6,7 +6,7 @@ A Chief of Staff bot that runs a specialist roster for a speaker and product bus
 | --- | --- |
 | Original template | https://x.ai/bot/5hJ_io8a7Y0IImGtFbvJL |
 | Creator | Andrew ([@DrewLee06](https://x.com/DrewLee06)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-5hji), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-andrew), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-7), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-andrew), [x-research](https://botsdots.site/templates/chief-of-staff-5hji) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 3 routines, 4 memory seeds, 1 connectors |

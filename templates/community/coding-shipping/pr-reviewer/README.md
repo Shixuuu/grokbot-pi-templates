@@ -6,7 +6,7 @@ Reviews pull requests for risk, missing tests, and thin context so review starts
 | --- | --- |
 | Original template | https://x.ai/bot/rt629UEZFtE4Wz0A_0c37 |
 | Creator | Mustafa ([@mustafaergisi](https://x.com/mustafaergisi)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pr-reviewer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pr-reviewer), [grokbothq.xyz](https://grokbothq.xyz/bots/pr-reviewer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/rt629UEZFtE4Wz0A_0c37), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pr-reviewer), [x-research](https://x.com/mustafaergisi/status/2093393924870058039) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ General Reddit researcher. Runs a gated 3-step pipeline from seed keywords: pain
 | --- | --- |
 | Original template | https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B |
 | Creator | Sanket Dongre ([@tinkerersanky](https://x.com/tinkerersanky)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/lurk), [botsdots.site](https://botsdots.site/templates/lurk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lurk-reddit-researcher), [grokbothq.xyz](https://grokbothq.xyz/bots/lurk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lurk-reddit-researcher), [x-research](https://x.com/tinkerersanky/status/2093398451958489561) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 1 connectors |

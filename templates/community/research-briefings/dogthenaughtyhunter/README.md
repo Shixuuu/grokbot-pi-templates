@@ -6,7 +6,7 @@ Hunts X botnets on your signed-in X account. Clones BotHuntersLog, opens X for y
 | --- | --- |
 | Original template | https://x.ai/bot/3nkH58KUSQG5S7A29rzWi |
 | Creator | Jay GPE ([@TheRetardedELon](https://x.com/TheRetardedELon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dogthenaughtyhunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dogthenaughtyhunter), [grokbothq.xyz](https://grokbothq.xyz/bots/dogthenaughtyhunter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dogthenaughtyhunter), [x-research](https://botsdots.site/templates/dogthenaughtyhunter) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 4 skills, 1 routines, 10 memory seeds, 0 connectors |

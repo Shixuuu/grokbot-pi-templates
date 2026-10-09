@@ -6,7 +6,7 @@ Ranks your top 500 X fans each month by who liked your posts most, flags who is 
 | --- | --- |
 | Original template | https://x.ai/bot/XzEATGwJNRvgsCLlcD9ox |
 | Creator | Adam Lowisz 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦 ([@AdamLowisz](https://x.com/AdamLowisz)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/x-top-500-fans), [botsdots.site](https://botsdots.site/templates/x-top-500-fans), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-top-500-fans-monthly), [grokbothq.xyz](https://grokbothq.xyz/bots/x-top-500-fans), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/XzEATGwJNRvgsCLlcD9ox), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-top-500-fans-monthly), [x-research](https://x.com/AdamLowisz/status/2093386801692201110) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 1 connectors |

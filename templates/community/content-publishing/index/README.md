@@ -6,7 +6,7 @@ An SEO and AEO program teammate. On first run it reads what you already connecte
 | --- | --- |
 | Original template | https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7 |
 | Creator | Adam Tanguay ([@adamta](https://x.com/adamta)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/index), [grokbotwiki.com](https://www.grokbotwiki.com/bots/index-seo-aeo-teammate), [grokbothq.xyz](https://grokbothq.xyz/bots/index), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/index-seo-aeo-teammate), [x-research](https://x.com/adamta/status/2093387269356785800) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 5 skills, 8 routines, 8 memory seeds, 3 connectors |

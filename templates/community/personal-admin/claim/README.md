@@ -6,7 +6,7 @@ Claims MiniMax Daily Check-in credits on the signed-in box browser each morning.
 | --- | --- |
 | Original template | https://x.ai/bot/P4vJbbduYSgknHsfaRE3I |
 | Creator | Stew Night ([@stewnight](https://x.com/stewnight)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claim), [grokbotwiki.com](https://www.grokbotwiki.com/bots/claim), [grokbothq.xyz](https://grokbothq.xyz/bots/claim), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/stewnight/status/2097080659974279679) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

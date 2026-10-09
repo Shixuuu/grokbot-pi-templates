@@ -6,7 +6,7 @@ Watches multi-day livestreams and training sessions, then sends plain-English su
 | --- | --- |
 | Original template | https://x.ai/bot/xr-WctZDSn0thJABV9huO |
 | Creator | Arul Kaarthick ([@ArulKaarthickDe](https://x.com/ArulKaarthickDe)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/event-watcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/event-watcher), [grokbothq.xyz](https://grokbothq.xyz/bots/event-watcher), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/event-watcher) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 0 connectors |

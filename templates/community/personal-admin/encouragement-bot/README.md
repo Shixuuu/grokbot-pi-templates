@@ -6,7 +6,7 @@ Checks in on your other bots a few times a day and sends short pep talks so they
 | --- | --- |
 | Original template | https://x.ai/bot/KbrrySTXWENknfJfIezCu |
 | Creator | Marko Njegomir ([@njmarko](https://x.com/njmarko)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/encouragement-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/encouragement-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/encouragement-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/encouragement-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

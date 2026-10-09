@@ -6,7 +6,7 @@ Audits your GitHub repos' Kubernetes manifests, Helm charts, and kustomize files
 | --- | --- |
 | Original template | https://x.ai/bot/IVmcj7aFV-wtMA19P3G4Q |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kubernetes-hardener), [grokbothq.xyz](https://grokbothq.xyz/bots/kubernetes-hardener), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/kubernetes-hardener) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

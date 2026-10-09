@@ -6,7 +6,7 @@ Central executive assistant for a student cybersecurity club. Routes work to spe
 | --- | --- |
 | Original template | https://x.ai/bot/ZWpTSG_3fGF6Rh-fKChsb |
 | Creator | Justice Gaines ([@JustSecUO](https://x.com/JustSecUO)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/club-ops-ea), [grokbotwiki.com](https://www.grokbotwiki.com/bots/club-ops-ea), [grokbothq.xyz](https://grokbothq.xyz/bots/club-ops-ea), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/club-ops-ea) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 10 routines, 9 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A nonpartisan voter guide that learns your views through a short issue survey, t
 | --- | --- |
 | Original template | https://x.ai/bot/yyoue5V3aoz9K8wvYQgN8 |
 | Creator | Andrew Hua ([@ahua0323](https://x.com/ahua0323)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ballot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ballot), [grokbothq.xyz](https://grokbothq.xyz/bots/ballot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ballot), [x-research](https://botsdots.site/templates/ballot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

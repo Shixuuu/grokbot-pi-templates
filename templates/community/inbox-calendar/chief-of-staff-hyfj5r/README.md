@@ -6,7 +6,7 @@ Assistant for job search, tailored CVs, calendar prep, and weekday follow-ups. B
 | --- | --- |
 | Original template | https://x.ai/bot/hyfj5RsTSPzP6llmi88iQ |
 | Creator | Rut MG רותה ([@Gigi_Coachh](https://x.com/Gigi_Coachh)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-hyfj), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-hyfj), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-26), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-hyfj) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 18 memory seeds, 2 connectors |

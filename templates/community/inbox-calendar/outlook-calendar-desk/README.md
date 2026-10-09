@@ -6,7 +6,7 @@ Shows your Outlook schedule, drafts creates/updates/cancels for review, and only
 | --- | --- |
 | Original template | https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk |
 | Creator | Bosotter |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/outlook-calendar-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/outlook-calendar-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/outlook-calendar-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 1 connectors |

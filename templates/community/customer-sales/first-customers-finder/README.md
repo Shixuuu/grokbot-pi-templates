@@ -6,7 +6,7 @@ Finds 5 real leads for your product every weekday morning and drafts the first m
 | --- | --- |
 | Original template | https://x.ai/bot/1vDU_ekPGWy7UztJhp2yK |
 | Creator | Fabian Gomez ([@fabian_thepulse](https://x.com/fabian_thepulse)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/first-customers-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/first-customers-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/first-customers-finder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/first-customers-finder), [x-research](https://botsdots.site/templates/first-customers-finder) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 3 routines, 8 memory seeds, 1 connectors |

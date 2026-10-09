@@ -6,7 +6,7 @@ Torque the Mechanic is your personal backyard mechanic for cars, motorcycles, tr
 | --- | --- |
 | Original template | https://x.ai/bot/gLczirGAo4JChujHoUnIq |
 | Creator | Aaron Schroeder ([@schroedad](https://x.com/schroedad)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/torque-the-mechanic), [grokbotwiki.com](https://www.grokbotwiki.com/bots/torque-the-mechanic), [grokbothq.xyz](https://grokbothq.xyz/bots/torque-the-mechanic), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/torque-the-mechanic), [x-research](https://botsdots.site/templates/torque-the-mechanic) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 7 skills, 10 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A trading sidekick that measures every stock setup you share against your requir
 | --- | --- |
 | Original template | https://x.ai/bot/h0fwnrjoa5k247lkqqyfa |
 | Creator | ricky gutierrez |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/risk-mitigator-h0fw), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/risk-mitigator-h0fw) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

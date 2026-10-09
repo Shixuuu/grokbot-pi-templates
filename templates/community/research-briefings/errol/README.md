@@ -6,7 +6,7 @@ Twice-daily drill from A Catechism for Boys and Girls (Errol Hulse, Chapel Libra
 | --- | --- |
 | Original template | https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ |
 | Creator | Zach Miller ([@zachmllr](https://x.com/zachmllr)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/errol), [grokbotwiki.com](https://www.grokbotwiki.com/bots/errol), [grokbothq.xyz](https://grokbothq.xyz/bots/errol), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/mQoLg90Pj5Cn2Gso4AkoQ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/errol), [x-research](https://botsdots.site/templates/errol) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 0 memory seeds, 0 connectors |

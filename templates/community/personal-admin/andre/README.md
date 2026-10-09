@@ -6,7 +6,7 @@ Reviews a small business's public website and writes one pitch you can paste. Au
 | --- | --- |
 | Original template | https://x.ai/bot/kRpDD2Vx01ge3Pc2x8dfs |
 | Creator | Sydnie ([@sydnierd](https://x.com/sydnierd)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/andre), [grokbotwiki.com](https://www.grokbotwiki.com/bots/andre), [grokbothq.xyz](https://grokbothq.xyz/bots/andre), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/andre) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

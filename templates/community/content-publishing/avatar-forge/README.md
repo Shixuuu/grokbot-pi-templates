@@ -6,7 +6,7 @@ Crafts high-quality square avatars for Grok Bots. Learns taste, proposes concept
 | --- | --- |
 | Original template | https://x.ai/bot/YLH7jExRjQTsSGWuKyyGE |
 | Creator | Jie-Hong Lim ([@jiehonglim](https://x.com/jiehonglim)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/avatar-forge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/avatar-forge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/avatar-forge) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

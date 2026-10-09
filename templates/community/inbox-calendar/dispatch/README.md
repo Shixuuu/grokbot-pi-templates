@@ -6,7 +6,7 @@ Inbox owner for Gmail — personal or work. Weekday sweep of must-answer mail (p
 | --- | --- |
 | Original template | https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687 |
 | Creator | Steve Curry ([@seoulscurry](https://x.com/seoulscurry)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dispatch-6zj1), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dispatch-6zj1), [grokbothq.xyz](https://grokbothq.xyz/bots/Dispatch-6zJ1yU4d), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dispatch-6zj1) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Curates a weekly reading list (books + articles) from what you have actually bee
 | --- | --- |
 | Original template | https://x.ai/bot/TaRhODlVo4N5mKKH6gTW6 |
 | Creator | Jacob Smalley ([@XyberRun](https://x.com/XyberRun)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shelf-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shelf-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/shelf-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shelf-scout), [x-research](https://botsdots.site/templates/shelf-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 1 connectors |

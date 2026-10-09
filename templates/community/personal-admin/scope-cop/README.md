@@ -6,7 +6,7 @@ For homeowners about to “just do a small reno”: lock must / later / cut befo
 | --- | --- |
 | Original template | https://x.ai/bot/D_VGPLc2zfU9WBMrAcHZO |
 | Creator | Andy Mccutcheon ([@yandymccutcheon](https://x.com/yandymccutcheon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scope-cop), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scope-cop), [grokbothq.xyz](https://grokbothq.xyz/bots/scope-cop), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/scope-cop) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

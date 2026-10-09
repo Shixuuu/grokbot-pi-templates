@@ -6,7 +6,7 @@ Novice high-elevation go/caution/no-go desk. Cited weather, route, kit, power, f
 | --- | --- |
 | Original template | https://x.ai/bot/T-tYDBfjtZw-ZK-AW6JE9 |
 | Creator | Basho Parks ([@IslandMountain_](https://x.com/IslandMountain_)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/should-we-climb-that-mountain), [grokbotwiki.com](https://www.grokbotwiki.com/bots/should-we-climb-that-mountain), [grokbothq.xyz](https://grokbothq.xyz/bots/should-we-climb-that-mountain), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/should-we-climb-that-mountain) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 9 skills, 0 routines, 0 memory seeds, 0 connectors |

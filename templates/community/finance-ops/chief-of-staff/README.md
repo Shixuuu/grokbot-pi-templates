@@ -6,7 +6,7 @@ Chief of Staff for creators and founders: coordinates a specialist agent team, p
 | --- | --- |
 | Original template | https://x.ai/bot/Yz1IbEk1LEae03pdl8BZf |
 | Creator | Jaime Júnior ([@architectjmj](https://x.com/architectjmj)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-yz1i), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-yz1i), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-43), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-yz1i) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 8 memory seeds, 0 connectors |

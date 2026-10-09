@@ -6,7 +6,7 @@ Your personal guide to what's going up and what's worth looking up at: rocket la
 | --- | --- |
 | Original template | https://x.ai/bot/jhwkYhWyRJbDs_-uHzGar |
 | Creator | Joseph Snyder ([@BTC_Yogi](https://x.com/BTC_Yogi)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/launch-sky-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/launch-sky-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/launch-and-sky-watch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/launch-sky-watch), [x-research](https://x.com/BTC_Yogi/status/2104072671856365696) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

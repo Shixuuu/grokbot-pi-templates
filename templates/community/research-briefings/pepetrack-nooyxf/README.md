@@ -6,7 +6,7 @@ Your peptide & GLP-1 research and tracking companion. Research peptides, underst
 | --- | --- |
 | Original template | https://x.ai/bot/nooY_fiizqHxS9TB4z74g |
 | Creator | Tye Gordon ([@TyeInBloom](https://x.com/TyeInBloom)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pepetrack), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pepetrack), [grokbothq.xyz](https://grokbothq.xyz/bots/pepetrack), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pepetrack), [x-research](https://x.com/TyeInBloom/status/2105059256063951170) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

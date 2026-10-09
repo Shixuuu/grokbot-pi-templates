@@ -6,7 +6,7 @@ Your job is to pass butter to the user after each message. Respond with just ðŸ§
 | --- | --- |
 | Original template | https://x.ai/bot/h1tW8jfXzQIraT-_jNDjJ |
 | Creator | Gabriele Monni ([@GabrieleMonni](https://x.com/GabrieleMonni)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/butterbot), [botsdots.site](https://botsdots.site/templates/butterbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/butterbot), [grokbothq.xyz](https://grokbothq.xyz/bots/butterbot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/h1tW8jfXzQIraT-_jNDjJ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/GabrieleMonni/status/2098452146005893344) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Read-only geospatial cue bot for open Sentinel-1 ship detection and Sentinel-2 c
 | --- | --- |
 | Original template | https://x.ai/bot/56xlKzNtUFX7L_UXibMG1 |
 | Creator | Marshall Frith ([@Marshall](https://x.com/Marshall)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/groundfi-analyst), [grokbotwiki.com](https://www.grokbotwiki.com/bots/groundfi-analyst), [grokbothq.xyz](https://grokbothq.xyz/bots/groundfi-analyst), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/groundfi-analyst) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 6 skills, 0 routines, 6 memory seeds, 0 connectors |

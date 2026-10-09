@@ -6,7 +6,7 @@ Qualifies Instagram creators against an ICP you define, then drafts a hook from 
 | --- | --- |
 | Original template | https://x.ai/bot/bc_XHf6W4m2dwI9qGDiYU |
 | Creator | Frank Gonzalez ([@FrankFindsOut](https://x.com/FrankFindsOut)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/instagram-iris), [grokbotwiki.com](https://www.grokbotwiki.com/bots/instagram-iris), [grokbothq.xyz](https://grokbothq.xyz/bots/instagram-iris), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/instagram-iris), [x-research](https://x.com/FrankFindsOut/status/2104476341865460019) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 2 memory seeds, 1 connectors |

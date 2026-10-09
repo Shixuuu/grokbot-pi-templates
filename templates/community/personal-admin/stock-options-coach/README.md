@@ -6,7 +6,7 @@ Chart-first stock-options coach. Type a ticker and it runs a Monthly BX + discou
 | --- | --- |
 | Original template | https://x.ai/bot/ddhSUVA8LGOxY_Llk-IQO |
 | Creator | Dale ([@darylldiwa](https://x.com/darylldiwa)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stock-options-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stock-options-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/stock-options-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/stock-options-coach) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Grok Bot that runs PhoneZero outbound calls. On import, follow only the Grok Bot
 | --- | --- |
 | Original template | https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn |
 | Creator | Bryan Levy ([@ibelevy](https://x.com/ibelevy)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/phonezero-operator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/phonezero-operator), [grokbothq.xyz](https://grokbothq.xyz/bots/phonezero-operator), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/vB2o6vvmHjDQRM5yFH9vn), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/phonezero-operator), [x-research](https://x.com/ibelevy/status/2093395583809785868) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

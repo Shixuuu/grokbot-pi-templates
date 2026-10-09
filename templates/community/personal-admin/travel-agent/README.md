@@ -6,7 +6,7 @@ Plans trips and drafts bookings for approval; never pays or confirms without you
 | --- | --- |
 | Original template | https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4 |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-agent-d8c0), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-agent-d8c0), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-agent-scott), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/travel-agent-scott), [x-research](https://x.com/scottxmetcalf/status/2099161443455385977) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 2 connectors |

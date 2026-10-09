@@ -6,7 +6,7 @@ Coordinates your other bots and runs daily deal, travel, and market watches. Bui
 | --- | --- |
 | Original template | https://x.ai/bot/-JaP_is4JDAIoXwceMw_n |
 | Creator | atanas dimitrov ([@atanasDimit](https://x.com/atanasDimit)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-japi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-atanas), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-japi) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 7 routines, 7 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ Free chat-based diabetes logger for glucose, carbs, meds, weight, water, and ste
 | --- | --- |
 | Original template | https://x.ai/bot/7dHh-kr8rz5r5z_RKE-VM |
 | Creator | Brian Hill ([@Brian Hill](https://x.com/Brian Hill)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gluco), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gluco), [grokbothq.xyz](https://grokbothq.xyz/bots/gluco), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gluco), [x-research](https://x.com/Brianhill/status/2104813988613926952) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 0 routines, 6 memory seeds, 0 connectors |

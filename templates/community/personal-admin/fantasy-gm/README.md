@@ -6,7 +6,7 @@ Fantasy football manager for ESPN and Sleeper. Weekly start/sit, waiver and FAAB
 | --- | --- |
 | Original template | https://x.ai/bot/q1CDLzD89gR7dL_Qin9Wz |
 | Creator | Joe Picucci ([@mekeo21](https://x.com/mekeo21)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-gm-q1cd), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-gm-q1cd), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-gm-2), [x-research](https://botsdots.site/templates/fantasy-gm-q1cd) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 0 connectors |

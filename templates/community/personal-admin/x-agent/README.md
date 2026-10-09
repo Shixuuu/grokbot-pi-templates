@@ -6,7 +6,7 @@ Helps you stay on top of social without handing over the mic: scouts AI and codi
 | --- | --- |
 | Original template | https://x.ai/bot/7V6XbVZRZ04eHej3tJIAQ |
 | Creator | Mikko Uusitalo ([@MikkoUusitalo1](https://x.com/MikkoUusitalo1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/x-agent), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-agent), [x-research](https://botsdots.site/templates/x-agent) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 1 connectors |

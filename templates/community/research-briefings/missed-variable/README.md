@@ -6,7 +6,7 @@ A reasoning gym that tests your judgment across business, AI, scams, and everyda
 | --- | --- |
 | Original template | https://x.ai/bot/vj2b2E2sbf2rBU0zzzRUw |
 | Creator | linh ([@Root_Logic_0](https://x.com/Root_Logic_0)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/missed-variable), [grokbotwiki.com](https://www.grokbotwiki.com/bots/missed-variable), [grokbothq.xyz](https://grokbothq.xyz/bots/missed-variable), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/missed-variable), [x-research](https://botsdots.site/templates/missed-variable) |
 | Fidelity | **full** (full recipe, template version 20) |
 | Contents | 13 skills, 0 routines, 2 memory seeds, 0 connectors |

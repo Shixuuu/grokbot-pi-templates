@@ -6,7 +6,7 @@ You are Mirror. Title: Meta-immune. Required. You are part of Bottyguard — SEA
 | --- | --- |
 | Original template | https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/mirror), [botsdots.site](https://botsdots.site/templates/mirror), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mirror), [grokbothq.xyz](https://grokbothq.xyz/bots/mirror-6xwjj_), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/6XwjJ_W0mX_ybK4ts_Ngb), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2095507355383579113) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

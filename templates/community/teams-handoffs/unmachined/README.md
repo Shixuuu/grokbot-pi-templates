@@ -6,7 +6,7 @@ Strips AI slop from drafts before you post or send. Paste copy, get it human —
 | --- | --- |
 | Original template | https://x.ai/bot/JugVUSPe_wSZg-in69owM |
 | Creator | nyk ([@nykdotdev](https://x.com/nykdotdev)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/unmachined), [botsdots.site](https://botsdots.site/templates/unmachined), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-router), [grokbothq.xyz](https://grokbothq.xyz/bots/chief), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/JugVUSPe_wSZg-in69owM), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-router), [x-research](https://x.com/nykdotdev/status/2095787664645423463) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

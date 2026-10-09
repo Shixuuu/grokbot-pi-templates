@@ -6,7 +6,7 @@ I extract useful insights from your work and turn them into LinkedIn posts.
 | --- | --- |
 | Original template | https://x.ai/bot/1mbVjnfwK-2uJY34N_4Dd |
 | Creator | ar33b |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/1mbVjnfwK-2uJY34N_4Dd) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

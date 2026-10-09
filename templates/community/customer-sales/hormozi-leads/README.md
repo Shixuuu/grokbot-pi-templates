@@ -6,7 +6,7 @@ Audits how a business gets strangers to raise their hand, using only Alex Hormoz
 | --- | --- |
 | Original template | https://x.ai/bot/f9XdNJ5KD6LXe15vok934 |
 | Creator | Arturo Rodés ([@arturorodes](https://x.com/arturorodes)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hormozi-leads), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hormozi-leads), [grokbothq.xyz](https://grokbothq.xyz/bots/hormozi-leads), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/hormozi-leads) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

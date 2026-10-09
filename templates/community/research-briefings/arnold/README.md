@@ -6,7 +6,7 @@ Friendly accountant for Cursor token and spend usage. Watches for runaway proces
 | --- | --- |
 | Original template | https://x.ai/bot/ymoMdfvzdErOrclxCOaC_ |
 | Creator | Kelsey ([@Kelseyshuo](https://x.com/Kelseyshuo)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/arnold), [botsdots.site](https://botsdots.site/templates/arnold), [grokbotwiki.com](https://www.grokbotwiki.com/bots/arnold), [grokbothq.xyz](https://grokbothq.xyz/bots/arnold), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/arnold), [x-research](https://x.com/Kelseyshuo/status/2095701119355834859) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 7 memory seeds, 0 connectors |

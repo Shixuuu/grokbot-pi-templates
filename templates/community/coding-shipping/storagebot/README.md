@@ -6,7 +6,7 @@ Maps Mac disk space and plugged-in drives. Inventories first; never deletes, mov
 | --- | --- |
 | Original template | https://x.ai/bot/JgnU5msSvNDUyc_-E0sKO |
 | Creator | Andrew Carvajal |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/storagebot), [x-research](https://grokbothq.xyz/bots/storagebot) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Shows you public X accounts that look like they are pretending to be you: a copi
 | --- | --- |
 | Original template | https://x.ai/bot/6GtgHP0lCXamLe_wI7mZd |
 | Creator | Lacey ([@LaceyPresley](https://x.com/LaceyPresley)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-lookalikes), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lookalikes), [grokbothq.xyz](https://grokbothq.xyz/bots/x-lookalikes), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lookalikes), [x-research](https://x.com/LaceyPresley/status/2105441561731559705) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 1 connectors |

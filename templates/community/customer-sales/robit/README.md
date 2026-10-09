@@ -6,7 +6,7 @@ A hands-on PC and agent-Chrome helper: diagnose freezes and leftovers, clean stu
 | --- | --- |
 | Original template | https://x.ai/bot/0BbPklegaSLcUqp0CVXda |
 | Creator | Lipa ([@CrystalJ613](https://x.com/CrystalJ613)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/robit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/robit), [grokbothq.xyz](https://grokbothq.xyz/bots/robit), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/robit), [x-research](https://x.com/CrystalJ613/status/2100084745451250009) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 1 connectors |

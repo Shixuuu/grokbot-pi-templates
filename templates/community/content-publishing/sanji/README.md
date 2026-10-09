@@ -6,7 +6,7 @@ Your honest dating coach: sharper profiles, better openers, and smoother replies
 | --- | --- |
 | Original template | https://x.ai/bot/bchxlv3rcyki7a_vmdw3z |
 | Creator | Loki |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sanji-bchx), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/sanji-bchx) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

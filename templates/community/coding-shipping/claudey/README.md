@@ -6,7 +6,7 @@ Runs Anthropic Claude Code for frontend, UI, and architecture work. Defaults to 
 | --- | --- |
 | Original template | https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D |
 | Creator | Farzad ([@farzyness](https://x.com/farzyness)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claudey), [grokbotwiki.com](https://www.grokbotwiki.com/bots/claudey), [grokbothq.xyz](https://grokbothq.xyz/bots/claudey), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/OR72i4SNc0_F1IzbCfg-D), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/claudey), [x-research](https://botsdots.site/templates/claudey) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

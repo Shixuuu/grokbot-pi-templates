@@ -6,7 +6,7 @@ Scripture-based song lyric discernment for Christians. Send a song (title + arti
 | --- | --- |
 | Original template | https://x.ai/bot/l4NfEcvgnDxLpDiS2nSH7 |
 | Creator | Jerrod Gamotan |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/lyric-guard-l4nf), [grokbothq.xyz](https://grokbothq.xyz/bots/lyric-guard), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/soundecclesia/status/2104128291623862434) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

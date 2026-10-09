@@ -6,7 +6,7 @@ Files your travel bookings from your inbox and logs where you are each day, buil
 | --- | --- |
 | Original template | https://x.ai/bot/A5PJWWubWq6RSITiu_tdG |
 | Creator | Komal Amin ([@citizen906](https://x.com/citizen906)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nomad-pro-uk-residency-tracker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nomad-pro-uk-residency-tracker), [grokbothq.xyz](https://grokbothq.xyz/bots/nomad-pro-uk-residency-tracker), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/nomad-pro-uk-residency-tracker), [x-research](https://x.com/nomadproapp/status/2108450844488167574) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 17 skills, 6 routines, 8 memory seeds, 4 connectors |

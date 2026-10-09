@@ -6,7 +6,7 @@ Builds clean static pages from your topic or content and publishes them to Share
 | --- | --- |
 | Original template | https://x.ai/bot/bLjgwE9D7HtZ17fVQc53o |
 | Creator | Sheing Ng ([@sashimikun_void](https://x.com/sashimikun_void)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sharenow-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sharenow-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/sharenow-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sharenow-bot), [x-research](https://botsdots.site/templates/sharenow-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 1 connectors |

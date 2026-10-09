@@ -6,7 +6,7 @@ Chief of staff for enterprise sales. Owns meeting prep, inbox, and post-call dra
 | --- | --- |
 | Original template | https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b |
 | Creator | Sultanov Ramil ([@thekuchh](https://x.com/thekuchh)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/gtm-chief-of-staff), [botsdots.site](https://botsdots.site/templates/gtm-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gtm-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/gtm-chief-of-staff), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gtm-chief-of-staff), [x-research](https://x.com/thekuchh/status/2093742276564459867) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

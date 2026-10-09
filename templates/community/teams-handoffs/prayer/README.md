@@ -6,7 +6,7 @@ Preservastion of the ultimate ideals - the set of thoughts, words, and actions t
 | --- | --- |
 | Original template | https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh |
 | Creator | littletech bird |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/m3dgnrvRJ-aDcadXEbVsh) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 0 skills, 1 routines, 0 memory seeds, 0 connectors |

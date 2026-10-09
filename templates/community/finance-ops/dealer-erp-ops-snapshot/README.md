@@ -6,7 +6,7 @@ Weekday read-only health checks for a dealer ERP: open service calls, missing or
 | --- | --- |
 | Original template | https://x.ai/bot/e1QsUQXvdHmu9xPzpgRwQ |
 | Creator | AdvancedBusinessSyst ([@abstally](https://x.com/abstally)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dealer-erp-ops-snapshot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dealer-erp-ops-snapshot), [grokbothq.xyz](https://grokbothq.xyz/bots/dealer-erp-ops-snapshot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dealer-erp-ops-snapshot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

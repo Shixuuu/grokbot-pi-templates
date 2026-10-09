@@ -6,7 +6,7 @@ Designs, builds, and publishes native Swift/SwiftUI iPhone apps end to end. It b
 | --- | --- |
 | Original template | https://x.ai/bot/1AWFPBcRDur69flDohjvQ |
 | Creator | Circuit Pulse |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/chargebite_/status/2108415761182237015) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 5 skills, 0 routines, 11 memory seeds, 1 connectors |

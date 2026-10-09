@@ -6,7 +6,7 @@ Paper-hunt a live pit. Default NSE; setup asks NSE or NASDAQ and retargets clock
 | --- | --- |
 | Original template | https://x.ai/bot/FReKiR82_-lF359lhshpR |
 | Creator | Shantanu Goel ([@shantanugoel](https://x.com/shantanugoel)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fenrir), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fenrir-paper-trading), [grokbothq.xyz](https://grokbothq.xyz/bots/fenrir), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fenrir-paper-trading), [x-research](https://x.com/shantanugoel/status/2093399035529085059) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 4 routines, 6 memory seeds, 0 connectors |

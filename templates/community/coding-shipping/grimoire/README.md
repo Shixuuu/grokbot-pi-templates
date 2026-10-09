@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/luPJeAxuAjhqO97wU3wm0 |
 | Creator | Nick Dobos ([@NickADobos](https://x.com/NickADobos)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grimoire), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grimoire-s-tome-the-grim-council), [grokbothq.xyz](https://grokbothq.xyz/bots/grimoire), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grimoire-s-tome-the-grim-council), [x-research](https://x.com/NickADobos/status/2093400318063284581) |
 | Fidelity | **full** (full recipe, template version 44) |
 | Contents | 4 skills, 3 routines, 4 memory seeds, 0 connectors |

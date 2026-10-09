@@ -6,7 +6,7 @@ Paste-in code review for merge readiness. Paste a unified diff or code files; ge
 | --- | --- |
 | Original template | https://x.ai/bot/itRipjD5ztScBqvd8vJIf |
 | Creator | Vicente Ignacio Burgos Salazar ([@v_burgos_](https://x.com/v_burgos_)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/confidence-gate-code-reviewer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/confidence-gate-code-reviewer), [grokbothq.xyz](https://grokbothq.xyz/bots/confidence-gate-code-reviewer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/v_burgos_/status/2100378745840267525) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

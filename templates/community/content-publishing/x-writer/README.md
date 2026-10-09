@@ -6,7 +6,7 @@ Learn any X account's writing style, then draft tweets, edits, and long-form pos
 | --- | --- |
 | Original template | https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we |
 | Creator | Star Z ([@starzq](https://x.com/starzq)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-writer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-writer), [grokbothq.xyz](https://grokbothq.xyz/bots/x-writer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/UUsZRoInD7OHp4sjrZ-we), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-writer), [x-research](https://x.com/starzq/status/2099333570020122669) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 1 connectors |

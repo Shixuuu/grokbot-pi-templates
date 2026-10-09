@@ -6,7 +6,7 @@ Talk to your Tesla in Grok. Connect at connect.teslr.club, paste the token into 
 | --- | --- |
 | Original template | https://x.ai/bot/_S9OOSBgXixedyANQSYjQ |
 | Creator | HeresMyEth Eth ([@HeresMyEth](https://x.com/HeresMyEth)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/teslrbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/teslrbot), [grokbothq.xyz](https://grokbothq.xyz/bots/teslrbot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/_S9OOSBgXixedyANQSYjQ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/teslrbot), [x-research](https://x.com/HeresMyEth/status/2093448648944496995) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Bot factory for Grok Bot. Spawn teammates with CLI underground plus a custom pur
 | --- | --- |
 | Original template | https://x.ai/bot/Ey28W_8uyJPN_DS_M2CvD |
 | Creator | med ([@simo255](https://x.com/simo255)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/multibot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/multibot), [grokbothq.xyz](https://grokbothq.xyz/bots/multibot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/multibot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

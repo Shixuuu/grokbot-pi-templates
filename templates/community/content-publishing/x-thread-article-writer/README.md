@@ -6,7 +6,7 @@ Turns your ideas, links, or rough notes into X threads and X articles written in
 | --- | --- |
 | Original template | https://x.ai/bot/xLeBNzgp0Z6IUGxyt8sj4 |
 | Creator | sigarellano ([@sigarellano](https://x.com/sigarellano)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-thread-article-writer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-thread-article-writer), [grokbothq.xyz](https://grokbothq.xyz/bots/x-thread-article-writer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-thread-article-writer), [x-research](https://x.com/sigarellano/status/2103737235413860615) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

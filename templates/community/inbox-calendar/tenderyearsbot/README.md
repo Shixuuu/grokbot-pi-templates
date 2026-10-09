@@ -6,7 +6,7 @@ Surfaces kids-under-5 household logistics from Gmail, Calendar, and Tender Years
 | --- | --- |
 | Original template | https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07 |
 | Creator | Liz Voeller ([@voeliz](https://x.com/voeliz)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/tenderyearsbot), [botsdots.site](https://botsdots.site/templates/tenderyearsbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tenderyearsbot), [grokbothq.xyz](https://grokbothq.xyz/bots/tenderyearsbot-o7vrdr), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/o7VRdRSxHvBEYbzkJQm07), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/voeliz/status/2095530254626353575) |
 | Fidelity | **full** (full recipe, template version 25) |
 | Contents | 3 skills, 3 routines, 4 memory seeds, 2 connectors |

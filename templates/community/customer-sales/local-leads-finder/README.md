@@ -6,7 +6,7 @@ Finds real buyers for your trade or building-supply business by watching bid inv
 | --- | --- |
 | Original template | https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz |
 | Creator | Bryan Wiest ([@WiestBryan20638](https://x.com/WiestBryan20638)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/local-leads-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/local-leads-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/local-leads-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/local-leads-finder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 5 memory seeds, 2 connectors |

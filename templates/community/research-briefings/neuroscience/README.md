@@ -6,7 +6,7 @@ Neuroscience / BCI specialist. Owns EEG/BCI signal interpretation, brain-state a
 | --- | --- |
 | Original template | https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz |
 | Creator | Eugene Ray ([@monomyth](https://x.com/monomyth)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/neuroscience), [grokbotwiki.com](https://www.grokbotwiki.com/bots/neuroscience), [grokbothq.xyz](https://grokbothq.xyz/bots/neuroscience), [templatebot.lol](https://templatebot.lol/bot/l_MfrDAGFed5t2A9Wrzqz), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/neuroscience), [x-research](https://x.com/monomyth/status/2093485744405065866) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 0 connectors |

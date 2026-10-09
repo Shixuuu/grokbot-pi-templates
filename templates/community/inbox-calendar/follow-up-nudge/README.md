@@ -6,7 +6,7 @@ Weekday scan of your sent mail for quiet outbound threads, with one-line draft n
 | --- | --- |
 | Original template | https://x.ai/bot/ON6ooxyj2fUPWXPmuAi3x |
 | Creator | Mike Mosley |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/follow-up-nudge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 1 connectors |

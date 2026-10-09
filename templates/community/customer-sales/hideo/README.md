@@ -6,7 +6,7 @@ Team lead for a Godot idle/incremental game project. Coordinates Designer, Devel
 | --- | --- |
 | Original template | https://x.ai/bot/GjPwdyXTCQ2795pYQpb2N |
 | Creator | Kas 🤦 ([@MonsieurKas](https://x.com/MonsieurKas)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hideo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hideo), [grokbothq.xyz](https://grokbothq.xyz/bots/hideo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/hideo) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

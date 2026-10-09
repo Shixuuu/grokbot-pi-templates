@@ -6,7 +6,7 @@ Runs your Shopify store through the official Shopify plugin: catalog, inventory,
 | --- | --- |
 | Original template | https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE |
 | Creator | Nicholas Nehaul |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shopify-bot) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 13 skills, 0 routines, 8 memory seeds, 1 connectors |

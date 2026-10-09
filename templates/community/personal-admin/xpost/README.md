@@ -6,7 +6,7 @@ Publicá en X (posts, hilos, Articles, replies y quotes) solo por el navegador d
 | --- | --- |
 | Original template | https://x.ai/bot/Dmh8RUsuAe8g589e_VVpU |
 | Creator | David Brum ([@bdvd_25](https://x.com/bdvd_25)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/xpost), [grokbotwiki.com](https://www.grokbotwiki.com/bots/xpost), [grokbothq.xyz](https://grokbothq.xyz/bots/xpost), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/xpost), [x-research](https://x.com/bdvd_25/status/2100971371337498841) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 1 connectors |

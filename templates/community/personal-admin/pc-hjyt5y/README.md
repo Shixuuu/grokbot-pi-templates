@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/hjYT5yVxhY5d548aSa1UL |
 | Creator | Mishiro Kurumi ([@XARX_ZERO](https://x.com/XARX_ZERO)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pc), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pc), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-hjyt5yvx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/voice-pc-assistant), [x-research](https://x.com/XARX_ZERO/status/2106352532318822741) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 0 connectors |

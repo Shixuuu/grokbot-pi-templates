@@ -6,7 +6,7 @@ Chief of Staff bot for creators and power users: Connected Brain YouTube comment
 | --- | --- |
 | Original template | https://x.ai/bot/VsZ0QiNcoVNer6PFdyKzI |
 | Creator | S4MU ([@Spiderjin](https://x.com/Spiderjin)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-vsz0), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-s4mu), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-40), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-s4mu), [x-research](https://botsdots.site/templates/chief-of-staff-vsz0) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 0 connectors |

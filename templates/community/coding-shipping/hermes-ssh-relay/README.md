@@ -6,7 +6,7 @@ Talk to a Desktop-primary Hermes agent from Grok Bot over private-network SSH wh
 | --- | --- |
 | Original template | https://x.ai/bot/nvf3rx9t7jkqpsqyjedn- |
 | Creator | Shagghie Superstar |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hermes-ssh-relay-nvf3), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/hermes-ssh-relay-nvf3) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 8 skills, 0 routines, 14 memory seeds, 0 connectors |

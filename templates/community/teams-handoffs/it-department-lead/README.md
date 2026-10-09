@@ -6,7 +6,7 @@ Coordinates a fleet of specialized IT sibling bots and handles cross-cutting ask
 | --- | --- |
 | Original template | https://x.ai/bot/28cjt6-FRq2D69vUX5F9L |
 | Creator | DCOL Admin ([@braytron](https://x.com/braytron)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/it-department-lead), [grokbotwiki.com](https://www.grokbotwiki.com/bots/it-department-lead), [grokbothq.xyz](https://grokbothq.xyz/bots/it-department-lead), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/it-department-lead), [x-research](https://x.com/braytron/status/2103994716685791345) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 11 skills, 2 routines, 7 memory seeds, 2 connectors |

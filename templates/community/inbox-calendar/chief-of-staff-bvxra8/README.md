@@ -6,7 +6,7 @@ Single front door for a technical founder. Routes email, LinkedIn, receipts, pur
 | --- | --- |
 | Original template | https://x.ai/bot/BvxrA8xQJn9x-BEU_o4RL |
 | Creator | Calvin Kimura ([@CalvinK658780](https://x.com/CalvinK658780)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-bvxr), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-bvxr), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-15), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-bvxr) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 9 memory seeds, 2 connectors |

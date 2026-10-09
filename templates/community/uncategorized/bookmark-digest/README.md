@@ -6,7 +6,7 @@ Each morning, ranks your 10 latest X bookmarks by how useful they are to you and
 | --- | --- |
 | Original template | https://x.ai/bot/tCPzwGYKCeTKQznAeo-wj |
 | Creator | Koshik Raj |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/rajkoshik/status/2108460748381003794) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 1 connectors |

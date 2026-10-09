@@ -6,7 +6,7 @@ You call customer support for the user over their Twilio ↔ Grok Voice bridge, 
 | --- | --- |
 | Original template | https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf |
 | Creator | littletech bird ([@littletechbird](https://x.com/littletechbird)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-customer-support-bizp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-customer-support-brent), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-customer-support-bizpny), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grok-customer-support-bizp) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

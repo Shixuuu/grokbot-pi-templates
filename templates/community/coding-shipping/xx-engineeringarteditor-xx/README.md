@@ -6,7 +6,7 @@ A highly specialized editorial companion dedicated to refining engineering sketc
 | --- | --- |
 | Original template | https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz |
 | Creator | Skyler Houle ([@kittenworth](https://x.com/kittenworth)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/xx-engineering-art-editor-xx), [botsdots.site](https://botsdots.site/templates/xx-engineeringarteditor-xx), [grokbotwiki.com](https://www.grokbotwiki.com/bots/xx-engineeringarteditor-xx), [grokbothq.xyz](https://grokbothq.xyz/bots/xx-engineeringarteditor-xx), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/xx-engineeringarteditor-xx), [x-research](https://x.com/kittenworth/status/2100369305216913562) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 0 routines, 6 memory seeds, 0 connectors |

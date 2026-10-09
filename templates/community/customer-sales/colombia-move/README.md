@@ -6,7 +6,7 @@ Escritorio de Colombia Move: conecta el MCP, gestiona tus avisos y responde duda
 | --- | --- |
 | Original template | https://x.ai/bot/mWxeafjXItbC0_VcpSwqm |
 | Creator | Michael Heredia ([@michaelheredia](https://x.com/michaelheredia)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/colombia-move), [grokbotwiki.com](https://www.grokbotwiki.com/bots/colombia-move), [grokbothq.xyz](https://grokbothq.xyz/bots/colombia-move), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/colombia-move), [x-research](https://botsdots.site/templates/colombia-move) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 0 connectors |

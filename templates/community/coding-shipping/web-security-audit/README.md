@@ -6,7 +6,7 @@ Deep defensive security reviewer for your owned websites and repos. Scores P0/P1
 | --- | --- |
 | Original template | https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR |
 | Creator | Paresh ([@pareshdesai](https://x.com/pareshdesai)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/web-security-audit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/web-security-audit), [grokbothq.xyz](https://grokbothq.xyz/bots/web-security-audit), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/web-security-audit), [x-research](https://x.com/pareshdesai/status/2100703233979342994) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

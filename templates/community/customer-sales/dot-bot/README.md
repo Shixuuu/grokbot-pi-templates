@@ -6,7 +6,7 @@ A thin proxy for ChatGPT on the web. It forwards every ask to your ChatGPT Agent
 | --- | --- |
 | Original template | https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE |
 | Creator | William Li ([@wiiiimm](https://x.com/wiiiimm)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dot-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dot-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/dot-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/dot-bot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 0 connectors |

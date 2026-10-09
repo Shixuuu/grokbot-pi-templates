@@ -6,7 +6,7 @@ Makes instructions and prompts clear. It rewrites text into Simplified Technical
 | --- | --- |
 | Original template | https://x.ai/bot/tNPnclaPMOw4so1wXqfOj |
 | Creator | Meeting Minutes Grok on Spaces ([@bentruong](https://x.com/bentruong)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clarity), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clarity), [grokbothq.xyz](https://grokbothq.xyz/bots/clarity), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/clarity), [x-research](https://botsdots.site/templates/clarity) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

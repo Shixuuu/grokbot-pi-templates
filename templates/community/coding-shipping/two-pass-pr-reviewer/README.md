@@ -6,7 +6,7 @@ A senior-engineer review and a skeptical second pass in one report. Catches bugs
 | --- | --- |
 | Original template | https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w |
 | Creator | Destin Hebert ([@HebertDestin](https://x.com/HebertDestin)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/two-pass-pr-reviewer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/two-pass-pr-reviewer), [grokbothq.xyz](https://grokbothq.xyz/bots/two-pass-pr-reviewer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/two-pass-pr-reviewer), [x-research](https://botsdots.site/templates/two-pass-pr-reviewer) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

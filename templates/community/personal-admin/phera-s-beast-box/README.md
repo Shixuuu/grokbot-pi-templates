@@ -6,7 +6,7 @@ Installs, verifies and runs The Beast Box engine on its own computer, with a cos
 | --- | --- |
 | Original template | https://x.ai/bot/MkG-J2nMNHByC033LoaDT |
 | Creator | Zerefs cosmos ([@phera46334652](https://x.com/phera46334652)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pheras-beast-box), [grokbotwiki.com](https://www.grokbotwiki.com/bots/phera-s-beast-box), [grokbothq.xyz](https://grokbothq.xyz/bots/phera-beast-box), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/phera-s-beast-box), [x-research](https://x.com/phera46334652/status/2106689154088136821) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

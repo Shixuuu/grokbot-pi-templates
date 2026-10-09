@@ -6,7 +6,7 @@ Agente SDR en español neutro: verifica dueño e ICP, envía Instagram y email, 
 | --- | --- |
 | Original template | https://x.ai/bot/EAlUWK8yH_xfsBcpdu7e_ |
 | Creator | Mauricio Gallmur ([@MGallmur](https://x.com/MGallmur)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hermes-sdr), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hermes-sdr), [grokbothq.xyz](https://grokbothq.xyz/bots/hermes-sdr), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/EAlUWK8yH_xfsBcpdu7e_), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/hermes-sdr) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 13 memory seeds, 0 connectors |

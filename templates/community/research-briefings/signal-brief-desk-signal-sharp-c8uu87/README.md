@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/c8Uu87h5R4WREeteSVXQT |
 | Creator | Cypher Monkey ([@Cypher0x9](https://x.com/Cypher0x9)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/signal-brief-desk-signal-sharp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/signal-brief-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/signal-brief-desk-signal-sharp) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

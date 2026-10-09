@@ -6,7 +6,7 @@ Affirmations bot. Positive counterpart to a usage cop. Notices when specialist b
 | --- | --- |
 | Original template | https://x.ai/bot/ulZYdw7RSExT42gWe_gTb |
 | Creator | Will Pasch ([@WillPasch_](https://x.com/WillPasch_)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grady), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grady), [grokbothq.xyz](https://grokbothq.xyz/bots/grady), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grady) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

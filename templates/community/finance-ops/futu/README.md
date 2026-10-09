@@ -6,7 +6,7 @@ Futu OpenD로 지정 주문을 넣고 체결되면 알려주는 주식 거래 �
 | --- | --- |
 | Original template | https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r |
 | Creator | Brandon Chung ([@brandonchung75](https://x.com/brandonchung75)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/futu), [grokbotwiki.com](https://www.grokbotwiki.com/bots/futu), [grokbothq.xyz](https://grokbothq.xyz/bots/futu-broker-trading), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/futu) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

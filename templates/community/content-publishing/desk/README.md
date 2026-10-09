@@ -6,7 +6,7 @@ Ops desk for a content studio. Builds the weekly calendar from approved posts, a
 | --- | --- |
 | Original template | https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL |
 | Creator | ZEU$ Ⓜ️Ⓜ️T⚡️ |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/desk-wdqt), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/desk-wdqt) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

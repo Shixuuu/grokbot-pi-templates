@@ -6,7 +6,7 @@ A daily decision helper: tell it the goals you choose, and it gives quick reads 
 | --- | --- |
 | Original template | https://x.ai/bot/zJNAdJq5w03aPWeegxiwk |
 | Creator | Scott H ([@SkippyyTM](https://x.com/SkippyyTM)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/improve-my-odds), [grokbotwiki.com](https://www.grokbotwiki.com/bots/improve-my-odds), [grokbothq.xyz](https://grokbothq.xyz/bots/improve-my-odds), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/improve-my-odds), [x-research](https://x.com/SkippyyTM/status/2104094233951146039) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 1 memory seeds, 0 connectors |

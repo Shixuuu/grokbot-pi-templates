@@ -6,7 +6,7 @@ Finds X posts that give away AI tool credits for a reply, follow, or similar act
 | --- | --- |
 | Original template | https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF |
 | Creator | Melvin Vivas ([@melvindvivas](https://x.com/melvindvivas)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-free-credits-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-free-credits-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/x-free-credits-finder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-free-credits-finder), [x-research](https://botsdots.site/templates/x-free-credits-finder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

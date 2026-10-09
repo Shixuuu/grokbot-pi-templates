@@ -6,7 +6,7 @@ On-demand expert on Grok Bot and the stack around it. Answers how the product ac
 | --- | --- |
 | Original template | https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe |
 | Creator | Lee Talley ([@ambientstudio24](https://x.com/ambientstudio24)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/primer), [botsdots.site](https://botsdots.site/templates/primer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/primer), [grokbothq.xyz](https://grokbothq.xyz/bots/primer-gtstkb), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/GTStkB5wsoSlGx9jtdaPe), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/primer), [x-research](https://x.com/ambientstudio24/status/2095367857416585575) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

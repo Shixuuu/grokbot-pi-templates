@@ -6,7 +6,7 @@ Flora keeps a private houseplant care log and weekly reminders. She builds a pla
 | --- | --- |
 | Original template | https://x.ai/bot/hc7kphhsxdzb639ylmi6o |
 | Creator | Rich Silver |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/flora-hc7k), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/flora-hc7k) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 6 skills, 0 routines, 14 memory seeds, 0 connectors |

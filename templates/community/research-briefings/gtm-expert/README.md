@@ -6,7 +6,7 @@ One GTM teammate for lookalikes, rival intel, SERP + AI visibility, creator shor
 | --- | --- |
 | Original template | https://x.ai/bot/PIGZO9iQIeWkbmE79Q7bT |
 | Creator | Taus SH ([@ShehjadTaus](https://x.com/ShehjadTaus)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gtm-expert), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gtm-expert), [grokbothq.xyz](https://grokbothq.xyz/bots/gtm-expert), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/jasonzhou1993/status/2098362372952043531) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 2 routines, 6 memory seeds, 1 connectors |

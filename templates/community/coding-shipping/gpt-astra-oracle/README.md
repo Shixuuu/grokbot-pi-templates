@@ -6,7 +6,7 @@ On-demand plan/review seat that runs GPT-6 Astra and returns paste-ready PLAN or
 | --- | --- |
 | Original template | https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv |
 | Creator | Nathan Romano ([@nathanromano](https://x.com/nathanromano)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gpt-astra-oracle), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gpt-astra-oracle), [grokbothq.xyz](https://grokbothq.xyz/bots/gpt-astra-oracle), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gpt-astra-oracle), [x-research](https://x.com/nathanromano/status/2099999284686979169) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

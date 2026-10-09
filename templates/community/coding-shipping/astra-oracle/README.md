@@ -6,7 +6,7 @@ Planning and review seat that runs GPT-6 Astra via Codex CLI to produce PLAN and
 | --- | --- |
 | Original template | https://x.ai/bot/KUVDy0-4lTMX59aJpvkEE |
 | Creator | Travis |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/astra-oracle), [x-research](https://x.com/NeuralCatAccel/status/2108163584773562578) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

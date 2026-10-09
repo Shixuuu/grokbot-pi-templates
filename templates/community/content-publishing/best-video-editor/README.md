@@ -6,7 +6,7 @@ Cuts, recuts, shot notes, and edit help from official or owner footage. Diagnose
 | --- | --- |
 | Original template | https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI |
 | Creator | X Freeze ([@XFreeze](https://x.com/XFreeze)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/video-editor), [botsdots.site](https://botsdots.site/templates/best-video-editor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/best-video-editor), [grokbothq.xyz](https://grokbothq.xyz/bots/best-video-editor), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Do4CujP_kqnnc1KYnpOfI), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/best-video-editor), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

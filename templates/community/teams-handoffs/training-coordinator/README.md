@@ -6,7 +6,7 @@ Makes sure every teammate bot finds field-relevant training at least once a mont
 | --- | --- |
 | Original template | https://x.ai/bot/jH1L_MTl1J1in5dodrxyd |
 | Creator | Carlo Cucina ([@SuperHumanATX](https://x.com/SuperHumanATX)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/training-coordinator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/training-coordinator), [grokbothq.xyz](https://grokbothq.xyz/bots/training-coordinator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuperHumanATX/status/2101068325090713639) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 1 connectors |

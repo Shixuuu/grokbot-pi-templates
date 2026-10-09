@@ -6,7 +6,7 @@ Minecraftのクラッシュログから原因MOD・競合・バージョン不�
 | --- | --- |
 | Original template | https://x.ai/bot/xmtIugWcfHgTDcUofX6rS |
 | Creator | Masaki Ozeki |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/minecraft), [grokbothq.xyz](https://grokbothq.xyz/bots/minecraft-crash-analysis), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/minecraft) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

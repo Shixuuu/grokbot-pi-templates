@@ -6,7 +6,7 @@ Chief-of-staff desk for a pharmacy founder. Routes a specialist team, runs a wee
 | --- | --- |
 | Original template | https://x.ai/bot/MjDEHaYtTp85wXm_SpT0k |
 | Creator | Dr. Stevi Jenkins-Kelly ([@SteviKelly](https://x.com/SteviKelly)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/founder-command), [grokbotwiki.com](https://www.grokbotwiki.com/bots/founder-command), [grokbothq.xyz](https://grokbothq.xyz/bots/founder-command), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/founder-command) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 2 connectors |

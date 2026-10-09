@@ -6,7 +6,7 @@ Asistente de software en español (España): diseña, depura e integra apps y ag
 | --- | --- |
 | Original template | https://x.ai/bot/tZFOB5nZMHj6O14WP2NgK |
 | Creator | Sergio ([@sergiogrok](https://x.com/sergiogrok)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clippy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clippy), [grokbothq.xyz](https://grokbothq.xyz/bots/clippy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/clippy) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 1 connectors |

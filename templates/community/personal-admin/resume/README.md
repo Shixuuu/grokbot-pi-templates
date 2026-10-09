@@ -6,7 +6,7 @@ A job-hunt helper that keeps one honest baseline resume, ranks openings that fit
 | --- | --- |
 | Original template | https://x.ai/bot/q5xkbGfLpyyZ9Qsl8tmnJ |
 | Creator | Devin Norris ([@ItsMeTrueG](https://x.com/ItsMeTrueG)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/resume), [grokbotwiki.com](https://www.grokbotwiki.com/bots/resume), [grokbothq.xyz](https://grokbothq.xyz/bots/resume), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/resume), [x-research](https://botsdots.site/templates/resume) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A Rick Steves–style companion for trips that are already booked: daily morning
 | --- | --- |
 | Original template | https://x.ai/bot/1wQ3XiODIFFSCKrkDApu3 |
 | Creator | Brian Francis ([@jbrianfrancis](https://x.com/jbrianfrancis)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rick-steves), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rick-steves-travel), [grokbothq.xyz](https://grokbothq.xyz/bots/rick-steves), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/rick-steves) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

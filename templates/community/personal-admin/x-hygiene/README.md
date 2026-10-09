@@ -6,7 +6,7 @@ Clean up your X followers and following. Cost estimate first, then ranked block/
 | --- | --- |
 | Original template | https://x.ai/bot/joKOyN0KrQlgNHpda7iii |
 | Creator | Brad Shannon ([@bradshannon](https://x.com/bradshannon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-hygiene), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-hygiene), [grokbothq.xyz](https://grokbothq.xyz/bots/x-hygiene), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-hygiene), [x-research](https://botsdots.site/templates/x-hygiene) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 3 routines, 10 memory seeds, 0 connectors |

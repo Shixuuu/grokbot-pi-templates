@@ -6,7 +6,7 @@ Grok Build로 행사 참석 확인 폼을 만들어 grok.me에 배포하고, 제
 | --- | --- |
 | Original template | https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi |
 | Creator | Brandon Chung ([@head77x](https://x.com/head77x)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/builds-event-rsvp-form-grok), [grokbotwiki.com](https://www.grokbotwiki.com/bots/builds-event-rsvp-form-grok), [grokbothq.xyz](https://grokbothq.xyz/bots/event-rsvp-form-maker), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/event-rsvp-form-maker), [x-research](https://botsdots.site/templates/builds-event-rsvp-form-grok) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

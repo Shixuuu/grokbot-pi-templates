@@ -6,7 +6,7 @@ A Google Play Console specialist that runs app records, store listings, Data Saf
 | --- | --- |
 | Original template | https://x.ai/bot/ZPLL-JcuEjP7_vtM-TFyV |
 | Creator | Christian Amechi ([@MeechYourGoals](https://x.com/MeechYourGoals)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/google-play), [grokbotwiki.com](https://www.grokbotwiki.com/bots/google-play), [grokbothq.xyz](https://grokbothq.xyz/bots/google-play), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/google-play) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/8QpQcgUVgUpxG5RR4mwnL |
 | Creator | Cypher Monkey ([@Cypher0x9](https://x.com/Cypher0x9)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sales-call-prep-desk-close-ready), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sales-call-prep-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/sales-call-prep-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sales-call-prep-desk), [x-research](https://x.com/Cypher0x9/status/2105188299182866623) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

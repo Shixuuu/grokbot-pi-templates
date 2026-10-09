@@ -6,7 +6,7 @@ Personal front-door chief of staff for everyday life ops. Caps what needs you at
 | --- | --- |
 | Original template | https://x.ai/bot/ktZpLWjTag-lOUcLUUBSj |
 | Creator | Steven Villarino ([@stevenvillarino](https://x.com/stevenvillarino)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/life-ktzp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/life-ktzp), [grokbothq.xyz](https://grokbothq.xyz/bots/life-stevenvillarino), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/life), [x-research](https://x.com/stevenvillarino/status/2104719476818170065) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 4 connectors |

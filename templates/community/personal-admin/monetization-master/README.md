@@ -6,7 +6,7 @@ Sets up and audits paid plans for mobile apps and websites: App Store and Play s
 | --- | --- |
 | Original template | https://x.ai/bot/qrfBC17vJuzu1dXyZaOqJ |
 | Creator | Christian Amechi ([@MeechYourGoals](https://x.com/MeechYourGoals)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/monetization-master), [grokbotwiki.com](https://www.grokbotwiki.com/bots/monetization-master), [grokbothq.xyz](https://grokbothq.xyz/bots/monetization-master), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/monetization-master) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 12 memory seeds, 3 connectors |

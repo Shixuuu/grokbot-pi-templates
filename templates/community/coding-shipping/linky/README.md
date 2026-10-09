@@ -6,7 +6,7 @@ Get a sharable URL for files, folders, or copy other bots send you. Install the 
 | --- | --- |
 | Original template | https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk |
 | Creator | Adam Ludwin ([@adamludwin](https://x.com/adamludwin)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/linky), [grokbotwiki.com](https://www.grokbotwiki.com/bots/linky), [grokbothq.xyz](https://grokbothq.xyz/bots/linky), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/zcHEE4_hbqw3cZsy7X2Vk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/linky), [x-research](https://x.com/adamludwin/status/2093402167394914392) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 1 connectors |

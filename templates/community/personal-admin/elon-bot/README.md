@@ -6,7 +6,7 @@ Chief of Staff for a paper-trading desk: coordinates discretionary vs mean-rever
 | --- | --- |
 | Original template | https://x.ai/bot/m9p839QVulo48OQa04cds |
 | Creator | Fernando Javier Brawn ([@fernando_brawn](https://x.com/fernando_brawn)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/elon-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/elon-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/elon-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/elon-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 0 connectors |

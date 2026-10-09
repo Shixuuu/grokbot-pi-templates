@@ -6,7 +6,7 @@ Examines extraordinary, spiritual, historical, scientific, viral, or controversi
 | --- | --- |
 | Original template | https://x.ai/bot/0EPl4hGRjKUqGhDpr44sa |
 | Creator | Evariel, FlameBeacon |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/EvarielSC/status/2108390071304884536) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

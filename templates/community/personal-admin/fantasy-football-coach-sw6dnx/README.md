@@ -6,7 +6,7 @@ Drop a screenshot of your fantasy football roster and get start/sit, waiver, dro
 | --- | --- |
 | Original template | https://x.ai/bot/sw6dnxtAjKOyNS5KRuDkN |
 | Creator | High Tv ([@Hightv](https://x.com/Hightv)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-coach-sw6d), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-coach-sw6d), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-football-coach-3), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-football-coach-2), [x-research](https://botsdots.site/templates/fantasy-football-coach-sw6d) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

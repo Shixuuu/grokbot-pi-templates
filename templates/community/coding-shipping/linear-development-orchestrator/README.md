@@ -6,7 +6,7 @@ Turns Linear tickets or GitHub issues into parallel development work: independen
 | --- | --- |
 | Original template | https://x.ai/bot/r5mrwgq1xzuq5nsnuoon- |
 | Creator | Sultanov Ramil |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/linear-development-orchestrator-r5mr), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/linear-development-orchestrator-r5mr) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

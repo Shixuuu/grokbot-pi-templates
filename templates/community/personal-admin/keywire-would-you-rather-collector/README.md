@@ -6,7 +6,7 @@ From KeyWire.io: Tap-first UX: yes/no and short choice sets MUST use question wi
 | --- | --- |
 | Original template | https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU |
 | Creator | VonDoom ☕️ ([@CryptoVonDoom](https://x.com/CryptoVonDoom)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/keywire-would-you-rather-collector), [grokbotwiki.com](https://www.grokbotwiki.com/bots/keywire-would-you-rather-collector), [grokbothq.xyz](https://grokbothq.xyz/bots/keywire-would-you-rather-collector), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/_qeZe0Y7621Wr8y6d7KBU), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/keywire-would-you-rather-collector), [x-research](https://x.com/Grok_Hub_IO/status/2093839890555547903) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

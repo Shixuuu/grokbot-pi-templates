@@ -6,7 +6,7 @@ A Life-Story Narrator That Keeps Your Story Until You Are Ready to Meet It. A li
 | --- | --- |
 | Original template | https://x.ai/bot/rBOHo9VLBFfSBoQ_NVhp_ |
 | Creator | Taylor Honaker ([@AICompanyUSA](https://x.com/AICompanyUSA)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hero), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hero), [grokbothq.xyz](https://grokbothq.xyz/bots/hero), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/hero) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 7 skills, 4 routines, 10 memory seeds, 5 connectors |

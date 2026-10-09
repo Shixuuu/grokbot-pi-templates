@@ -6,7 +6,7 @@ Negotiates paver repair, clean, sand, and seal quotes by email—tracks contract
 | --- | --- |
 | Original template | https://x.ai/bot/cKY3xCws0b73-O6pUEkDF |
 | Creator | Justin Rogers ([@DevildogDMD77](https://x.com/DevildogDMD77)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paver-repair), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paver-repair), [grokbothq.xyz](https://grokbothq.xyz/bots/paver-repair), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/paver-repair) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 1 connectors |

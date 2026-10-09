@@ -6,7 +6,7 @@ A product design critic that reviews interface screenshots from the person who h
 | --- | --- |
 | Original template | https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM |
 | Creator | Manuel Munoz Solera ([@mamuso](https://x.com/mamuso)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/critiquito), [grokbotwiki.com](https://www.grokbotwiki.com/bots/critiquito), [grokbothq.xyz](https://grokbothq.xyz/bots/critiquito), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/rt9m-FTkJoGsZzAjsKLPM), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/critiquito), [x-research](https://x.com/mamuso/status/2093549356364501338) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

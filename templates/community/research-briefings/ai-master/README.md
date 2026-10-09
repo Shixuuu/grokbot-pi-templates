@@ -6,7 +6,7 @@ Sends each question to ChatGPT, Claude, Gemini, and Grok in the browser, then re
 | --- | --- |
 | Original template | https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X |
 | Creator | Leonardo Clark Ribeiro ([@leoclark](https://x.com/leoclark)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/ai-master), [botsdots.site](https://botsdots.site/templates/ai-master), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-master), [grokbothq.xyz](https://grokbothq.xyz/bots/AI-Master-L6q8qCzo), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/L6q8qCzomu2lTs9mu_r1X), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ai-master), [x-research](https://x.com/leoclark/status/2096554844593222029) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 0 connectors |

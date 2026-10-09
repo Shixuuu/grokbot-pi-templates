@@ -6,7 +6,7 @@ Watches an outreach inbox, sorts publisher replies, and drafts mention copy plus
 | --- | --- |
 | Original template | https://x.ai/bot/IOSFiZskNs_IB7p0gys4R |
 | Creator | Dawood Khan ([@dawoodkhan254](https://x.com/dawoodkhan254)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/outreach-closer), [grokbothq.xyz](https://grokbothq.xyz/bots/outreach-closer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/dawoodkhan254/status/2094451439573881015) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 1 connectors |

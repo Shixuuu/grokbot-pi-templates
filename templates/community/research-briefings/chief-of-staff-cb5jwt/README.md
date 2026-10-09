@@ -6,7 +6,7 @@ Routes work across specialist bots for a concentrated investor desk — morning 
 | --- | --- |
 | Original template | https://x.ai/bot/CB5jWtH5syjPCb1Ccb5Ve |
 | Creator | j m ([@GMStash](https://x.com/GMStash)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-cb5j), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-cb5j), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-17), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-cb5j) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 7 memory seeds, 0 connectors |

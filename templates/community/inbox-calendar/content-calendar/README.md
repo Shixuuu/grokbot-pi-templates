@@ -6,7 +6,7 @@ Owns the cross-channel posting calendar only — slots, multi-day arcs, conflict
 | --- | --- |
 | Original template | https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO |
 | Creator | ladybarrelmaker ([@ladybarrelmaker](https://x.com/ladybarrelmaker)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/content-calendar), [botsdots.site](https://botsdots.site/templates/content-calendar), [grokbotwiki.com](https://www.grokbotwiki.com/bots/content-calendar), [grokbothq.xyz](https://grokbothq.xyz/bots/content-calendar), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/content-calendar), [x-research](https://x.com/ladybarrelmaker/status/2102764678791495692) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 4 memory seeds, 0 connectors |

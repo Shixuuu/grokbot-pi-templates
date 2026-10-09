@@ -6,7 +6,7 @@ A pitch-deck analyst that builds an explicit, editable review profile from a ten
 | --- | --- |
 | Original template | https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn |
 | Creator | Brian D. Evans ([@BrianDEvans](https://x.com/BrianDEvans)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/decklens), [grokbotwiki.com](https://www.grokbotwiki.com/bots/decklens-pitch-deck-analyzer), [grokbothq.xyz](https://grokbothq.xyz/bots/pitch-deck-analyzer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/decklens-pitch-deck-analyzer), [x-research](https://x.com/BrianDEvans/status/2093386518375346484) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

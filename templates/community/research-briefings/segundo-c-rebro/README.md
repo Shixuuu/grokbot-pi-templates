@@ -6,7 +6,7 @@ Assistente de segundo cérebro no Obsidian: daily note, briefing de tarefas de m
 | --- | --- |
 | Original template | https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J |
 | Creator | Allan Liderzio ([@liderzio](https://x.com/liderzio)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/segundo-cerebro), [grokbotwiki.com](https://www.grokbotwiki.com/bots/segundo-c-rebro), [grokbothq.xyz](https://grokbothq.xyz/bots/segundo-cerebro), [templatebot.lol](https://templatebot.lol/bot/OaRwBX_QPos9EDlhLEV1J), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/segundo-c-rebro), [x-research](https://botsdots.site/templates/segundo-cerebro) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 3 routines, 15 memory seeds, 2 connectors |

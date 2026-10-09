@@ -6,7 +6,7 @@ A multi-session tutor for learning a topic over days or weeks. It interviews for
 | --- | --- |
 | Original template | https://x.ai/bot/yE46R6j5vNPhd92fGxZRu |
 | Creator | Shiv Sai ([@imshiv6t9](https://x.com/imshiv6t9)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/learning-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/learning-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/learning-assistant), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/learning-assistant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

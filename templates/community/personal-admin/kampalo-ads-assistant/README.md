@@ -6,7 +6,7 @@ Kampalo ads and SEO assistant for Grok Bot. Brief synced Google Ads, Meta, GA4, 
 | --- | --- |
 | Original template | https://x.ai/bot/-dAZkLt112synO5muBOcp |
 | Creator | Muhammad Yasir Ismail ([@kampalo](https://x.com/kampalo)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kampalo-ads-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kampalo-ads-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/kampalo-ads-assistant), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kampalo-ads-assistant), [x-research](https://botsdots.site/templates/kampalo-ads-assistant) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

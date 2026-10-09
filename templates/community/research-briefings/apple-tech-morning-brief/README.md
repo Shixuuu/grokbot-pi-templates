@@ -6,7 +6,7 @@ A daily morning brief with the real Apple, gaming hardware, AI, and big-tech new
 | --- | --- |
 | Original template | https://x.ai/bot/T_uGEf4Bv2rN-Z5vBkuMi |
 | Creator | Pixel & Pivot Studios ([@JPipo86](https://x.com/JPipo86)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/apple-tech-morning-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/apple-tech-morning-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/apple-tech-morning-brief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/apple-tech-morning-brief) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

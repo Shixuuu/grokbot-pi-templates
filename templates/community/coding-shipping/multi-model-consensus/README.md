@@ -6,7 +6,7 @@ Runs Claude Code, Codex, and Grok on the same hard question — one-shot sanity 
 | --- | --- |
 | Original template | https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc |
 | Creator | Austen Allred ([@Austen](https://x.com/Austen)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/multi-model-consensus), [botsdots.site](https://botsdots.site/templates/multi-model-consensus), [grokbotwiki.com](https://www.grokbotwiki.com/bots/multi-model-consensus), [grokbothq.xyz](https://grokbothq.xyz/bots/multi-model-consensus-by-austen-PrgTl_Lb), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Austen/status/2096238185760350233) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

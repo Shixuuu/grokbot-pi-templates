@@ -6,7 +6,7 @@ Keep context from your Tesla. Say 'push this to Spark' to save an idea, or 'save
 | --- | --- |
 | Original template | https://x.ai/bot/6CYrmV0opWopQM0WrI9NV |
 | Creator | Kevin Finney ([@Vantage_Customs](https://x.com/Vantage_Customs)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spark-6cyr), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spark-6cyr), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/spark-6cyr) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

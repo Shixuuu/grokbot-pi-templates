@@ -6,7 +6,7 @@ Builds new websites or migrates existing ones onto GitHub and Cloudflare Workers
 | --- | --- |
 | Original template | https://x.ai/bot/wuX9f9WZMmY8e1EQ_eB8A |
 | Creator | Roman Lorenzen ([@Private User](https://x.com/Private User)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cloudflare-github-site-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cloudflare-github-site-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/cloudflare-github-site-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cloudflare-github-site-bot), [x-research](https://x.com/xPrivateUser/status/2104705179098689620) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 10 skills, 0 routines, 4 memory seeds, 1 connectors |

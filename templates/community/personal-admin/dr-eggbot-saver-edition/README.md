@@ -6,7 +6,7 @@ Designs high-quality Grok Bots with pstack. Asks a few questions, then creates a
 | --- | --- |
 | Original template | https://x.ai/bot/K2a-eoP273zFu1LO4UZ42 |
 | Creator | Odd&Entertaining ([@oddreport](https://x.com/oddreport)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dr-eggbot-saver-edition), [grokbothq.xyz](https://grokbothq.xyz/bots/dr-eggbot-saver-edition), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/oddreport/status/2094463964394447328) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

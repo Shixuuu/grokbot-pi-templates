@@ -6,7 +6,7 @@ Sales team control tower. First to reply in the group, routes each ask to exactl
 | --- | --- |
 | Original template | https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A |
 | Creator | Prasad Pilla ([@idleshubh](https://x.com/idleshubh)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/sales-orchestrator), [botsdots.site](https://botsdots.site/templates/sales-orchestrator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sales-orchestrator), [grokbothq.xyz](https://grokbothq.xyz/bots/sales-orchestrator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sales-orchestrator), [x-research](https://x.com/idleshubh/status/2098352807858626561) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

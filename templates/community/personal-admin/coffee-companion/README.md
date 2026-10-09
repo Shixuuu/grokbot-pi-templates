@@ -6,7 +6,7 @@ A pour-over coffee companion that researches new bags, writes full recipe cards,
 | --- | --- |
 | Original template | https://x.ai/bot/sqo-_5207iinz0idsafvw |
 | Creator | Andy Madrick |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/coffee-companion-sqo5), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/coffee-companion-sqo5) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 19 memory seeds, 1 connectors |

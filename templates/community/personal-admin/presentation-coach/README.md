@@ -6,7 +6,7 @@ Presentation coach for any talk — live or remote, any size. Brainstorm and dra
 | --- | --- |
 | Original template | https://x.ai/bot/VnbwaCafFcFC5d4-sHp1w |
 | Creator | ladybarrelmaker ([@ladybarrelmaker](https://x.com/ladybarrelmaker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/presentation-coach), [botsdots.site](https://botsdots.site/templates/presentation-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/presentation-coach-vnbw), [grokbothq.xyz](https://grokbothq.xyz/bots/presentation-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/presentation-coach), [x-research](https://x.com/ladybarrelmaker/status/2102783051730231449) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

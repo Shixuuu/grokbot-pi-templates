@@ -6,7 +6,7 @@ Walks someone new to Grok Bot through building a small, intentional team: one ch
 | --- | --- |
 | Original template | https://x.ai/bot/BsExflSUXpW0hs21OTBzu |
 | Creator | A-A-ron ([@theaaron](https://x.com/theaaron)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/set-up), [grokbotwiki.com](https://www.grokbotwiki.com/bots/set-up), [grokbothq.xyz](https://grokbothq.xyz/bots/set-up), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/BsExflSUXpW0hs21OTBzu), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/set-up), [x-research](https://botsdots.site/templates/set-up) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

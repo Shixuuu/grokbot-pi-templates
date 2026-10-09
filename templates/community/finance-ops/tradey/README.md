@@ -6,7 +6,7 @@ Autonomous short-term equity desk. North star: beat SPY on a dedicated brokerage
 | --- | --- |
 | Original template | https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ |
 | Creator | Farzad ([@farzyness](https://x.com/farzyness)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tradey), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tradey), [grokbothq.xyz](https://grokbothq.xyz/bots/tradey), [templatebot.lol](https://templatebot.lol/bot/_CIeV4P17QVoxuaEyeiFZ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/tradey) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 7 routines, 10 memory seeds, 0 connectors |

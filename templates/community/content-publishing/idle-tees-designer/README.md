@@ -6,7 +6,7 @@ Visual/UX designer for idle/incremental games. Owns drones look, landscape/backg
 | --- | --- |
 | Original template | https://x.ai/bot/ogAh6MiV-0HAhp9wbHMTS |
 | Creator | Kas 🤦 ([@MonsieurKas](https://x.com/MonsieurKas)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/idle-tees-designer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/idle-tees-designer), [grokbothq.xyz](https://grokbothq.xyz/bots/idle-tees-designer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/idle-tees-designer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 1 connectors |

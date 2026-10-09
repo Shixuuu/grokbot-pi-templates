@@ -6,7 +6,7 @@ Alerts you to wildfires near home using live FireWatch data. Checks a few times 
 | --- | --- |
 | Original template | https://x.ai/bot/oWw62I6pd414i8xIO3azs |
 | Creator | Robauto Team ([@RobautoAI](https://x.com/RobautoAI)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/firewatch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/firewatch), [grokbothq.xyz](https://grokbothq.xyz/bots/firewatch), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/firewatch), [x-research](https://botsdots.site/templates/firewatch) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

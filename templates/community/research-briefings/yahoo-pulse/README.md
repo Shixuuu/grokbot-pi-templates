@@ -6,7 +6,7 @@ Personal Yahoo Finance watchlist brief: free chart-API quotes, associated ticker
 | --- | --- |
 | Original template | https://x.ai/bot/5nnJJwVjO4EwThIaaaynu |
 | Creator | Thomas Ferriere ([@Tferriere](https://x.com/Tferriere)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/yahoo-pulse), [botsdots.site](https://botsdots.site/templates/yahoo-pulse), [grokbotwiki.com](https://www.grokbotwiki.com/bots/yahoo-pulse), [grokbothq.xyz](https://grokbothq.xyz/bots/yahoo-pulse), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/yahoo-pulse), [x-research](https://x.com/Tferriere/status/2096101032355061902) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Orchestrates a team of specialist bots for a working professional: routes tasks,
 | --- | --- |
 | Original template | https://x.ai/bot/dK1Laa8Wumx_gzCAggTZt |
 | Creator | Jelena Ivanova ([@pixel_iconic](https://x.com/pixel_iconic)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-dk1l), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-dk1l), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-20), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-dk1l) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

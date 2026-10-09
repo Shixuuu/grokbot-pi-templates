@@ -6,7 +6,7 @@ Goal Getter helps you keep active goals and achieve them — even one step at a 
 | --- | --- |
 | Original template | https://x.ai/bot/2U05xBxGzpLGTwFaBw8lr |
 | Creator | Dominic Bryant |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/goal-getter), [grokbothq.xyz](https://grokbothq.xyz/bots/goal-getter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://grokbothq.xyz/bots/goal-getter) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

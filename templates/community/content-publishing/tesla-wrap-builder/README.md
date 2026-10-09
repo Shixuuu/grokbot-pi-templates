@@ -6,7 +6,7 @@ Designs custom wraps for your Tesla's on-screen 3D car in Paint Shop (not real v
 | --- | --- |
 | Original template | https://x.ai/bot/9bKx_1Qc-S3xUrlH0oRv5 |
 | Creator | Mike Yeager |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-wrap-builder), [grokbothq.xyz](https://grokbothq.xyz/bots/tesla-wrap-builder), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/tesla-wrap-builder) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

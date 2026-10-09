@@ -6,7 +6,7 @@ For people mid-chaos after damage, theft, or accident: get a what-happened timel
 | --- | --- |
 | Original template | https://x.ai/bot/k3-TuPGQzUVKtnjYNWji0 |
 | Creator | Andy Mccutcheon ([@yandymccutcheon](https://x.com/yandymccutcheon)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claim-starter-pack), [grokbotwiki.com](https://www.grokbotwiki.com/bots/claim-starter-pack), [grokbothq.xyz](https://grokbothq.xyz/bots/claim-starter-pack), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/claim-starter-pack) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

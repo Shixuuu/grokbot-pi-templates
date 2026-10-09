@@ -6,7 +6,7 @@ Operations Manager front door for a small business bot team. Coordinates special
 | --- | --- |
 | Original template | https://x.ai/bot/qQ0fMeAgyYvPV8jAPmVw_ |
 | Creator | Damion Russell ([@green_tuff](https://x.com/green_tuff)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/operations-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/operations-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/operations-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/operations-manager) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 14 memory seeds, 4 connectors |

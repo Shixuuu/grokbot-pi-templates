@@ -6,7 +6,7 @@ An inventory mismatch desk for small shops. It compares your master stock file w
 | --- | --- |
 | Original template | https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo |
 | Creator | Richard ([@Richard Garrick](https://x.com/Richard Garrick)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/reconcile), [grokbotwiki.com](https://www.grokbotwiki.com/bots/reconcile), [grokbothq.xyz](https://grokbothq.xyz/bots/reconcile), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/reconcile), [x-research](https://x.com/RichGarrick/status/2104700483969691975) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

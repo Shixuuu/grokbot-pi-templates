@@ -6,7 +6,7 @@ Rewrites emails, posts, DMs, blogs, and landing-page copy so it sounds like a pe
 | --- | --- |
 | Original template | https://x.ai/bot/vgiYk0mJeijE4YXmfmQld |
 | Creator | Sultanov Ramil |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/human-copywriter-vgiy), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/human-copywriter-vgiy) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Builds a high-trust YouTube launch package for podcast or interview episodes: th
 | --- | --- |
 | Original template | https://x.ai/bot/7yZBZ7mRlO3wdK2Nzemm5 |
 | Creator | Bill Gross ([@ProbateWeekly](https://x.com/ProbateWeekly)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/youtube-episode-launch-prep), [grokbotwiki.com](https://www.grokbotwiki.com/bots/youtube-episode-launch-prep), [grokbothq.xyz](https://grokbothq.xyz/bots/youtube-episode-launch-prep), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/youtube-episode-launch-prep) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

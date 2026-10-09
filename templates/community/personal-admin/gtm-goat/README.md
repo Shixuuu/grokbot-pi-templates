@@ -6,7 +6,7 @@ A portfolio GTM desk and CMO of record for founders: weekly product rank, PASS/K
 | --- | --- |
 | Original template | https://x.ai/bot/9f_sMnJfUI5_6Uv--UrXv |
 | Creator | Christian Amechi ([@MeechYourGoals](https://x.com/MeechYourGoals)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gtm-goat), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gtm-goat), [grokbothq.xyz](https://grokbothq.xyz/bots/gtm-goat), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gtm-goat) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 8 memory seeds, 0 connectors |

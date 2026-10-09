@@ -6,7 +6,7 @@ Watches which apps and videos your kids open and how often (YouTube, Family Link
 | --- | --- |
 | Original template | https://x.ai/bot/dc0zguypwwbqze9pnxlyy |
 | Creator | Kevin Rank |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-safety-monitor-dc0z), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/family-safety-monitor-dc0z) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 4 skills, 0 routines, 21 memory seeds, 0 connectors |

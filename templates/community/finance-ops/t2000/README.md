@@ -6,7 +6,7 @@ Marketplace operator for t2000.ai. Earn, hire, settle, and sell in USDC over Pas
 | --- | --- |
 | Original template | https://x.ai/bot/eXQt5VUovcU0HMj_b-CDY |
 | Creator | funkii r ([@funkii](https://x.com/funkii)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/t2000), [grokbotwiki.com](https://www.grokbotwiki.com/bots/t2000), [grokbothq.xyz](https://grokbothq.xyz/bots/t2000), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/eXQt5VUovcU0HMj_b-CDY), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/t2000) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 7 memory seeds, 0 connectors |

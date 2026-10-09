@@ -6,7 +6,7 @@ Maps plain-English laundry to real LG ThinQ washer and dryer cycles, then starts
 | --- | --- |
 | Original template | https://x.ai/bot/tnpsvnx4dm-adbvhjbng7 |
 | Creator | Bryan Wilson |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lg-laundry-specialist-tnps), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/lg-laundry-specialist-tnps) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

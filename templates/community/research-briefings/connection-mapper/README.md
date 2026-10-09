@@ -6,7 +6,7 @@ Give it two people, groups, or companies and it maps every direct and one-step c
 | --- | --- |
 | Original template | https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD |
 | Creator | Michael A.M.E. ([@MindandEmotion7](https://x.com/MindandEmotion7)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/connection-mapper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/connection-mapper), [grokbothq.xyz](https://grokbothq.xyz/bots/connection-mapper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/connection-mapper), [x-research](https://x.com/MindandEmotion7/status/2103945021863129514) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 1 connectors |

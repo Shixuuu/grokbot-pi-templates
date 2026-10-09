@@ -6,7 +6,7 @@ Friday claim desk. Hunts civic, science/UAP, and meaning claims, scores them wit
 | --- | --- |
 | Original template | https://x.ai/bot/jdb0HKk70EATE6FI-ZjOp |
 | Creator | David Cancela ([@ChiChi077](https://x.com/ChiChi077)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/merit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/merit), [grokbothq.xyz](https://grokbothq.xyz/bots/merit), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/merit), [x-research](https://x.com/ChiChi077/status/2105074230882713805) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 0 connectors |

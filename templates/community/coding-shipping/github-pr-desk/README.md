@@ -6,7 +6,7 @@ Your morning GitHub desk. Every weekday it sweeps the repos you choose for new P
 | --- | --- |
 | Original template | https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic |
 | Creator | Michael ([@MichaelGannotti](https://x.com/MichaelGannotti)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/github-pr-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/github-pr-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/github-pr-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/github-pr-desk), [x-research](https://x.com/MichaelGannotti/status/2103929935337595076) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 1 routines, 3 memory seeds, 0 connectors |

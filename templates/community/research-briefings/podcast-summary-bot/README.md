@@ -6,7 +6,7 @@ Summarizes podcasts and interviews from a YouTube, X, or Spotify link into five 
 | --- | --- |
 | Original template | https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA |
 | Creator | NM ([@theadvisorbtc](https://x.com/theadvisorbtc)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/podcast-summary-bot), [botsdots.site](https://botsdots.site/templates/podcast-summary-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/podcast-summary-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/podcast-summary-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/CsyAhw5YQaVLeMSnMYwgA), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/podcast-summary-bot), [x-research](https://x.com/mjjefford/status/2095417938832466376) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

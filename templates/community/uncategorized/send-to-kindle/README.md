@@ -6,7 +6,7 @@ Turns Google Docs, articles, and files into EPUBs and emails them to your Kindle
 | --- | --- |
 | Original template | https://x.ai/bot/IJPTTz1XGwaTQlfo6Zi4- |
 | Creator | Brian Lu |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/brianlu365/status/2108410990207631463) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 2 connectors |

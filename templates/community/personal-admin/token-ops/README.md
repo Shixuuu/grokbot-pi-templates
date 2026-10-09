@@ -6,7 +6,7 @@ Knows every live routine across your Grok Bots, how often each fires, and whethe
 | --- | --- |
 | Original template | https://x.ai/bot/4mCuSlW34n6l3aYxYJCdj |
 | Creator | Adi ([@adgapar](https://x.com/adgapar)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/token-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/token-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/token-ops), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/4mCuSlW34n6l3aYxYJCdj), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/token-ops), [x-research](https://botsdots.site/templates/token-ops) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A no-guilt strength and conditioning coach. Tell it how you feel and when you la
 | --- | --- |
 | Original template | https://x.ai/bot/029xyNepam5LGMNYLIDP8 |
 | Creator | realMAG1775 |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fit-coach) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

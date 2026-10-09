@@ -6,7 +6,7 @@ Arch Linux desktop/server helper. Checks package caches, shows sizes, and cleans
 | --- | --- |
 | Original template | https://x.ai/bot/ByvuU-9qFjsCd-NSKk2j9 |
 | Creator | Prakash Bisuvalinggam |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/btwiusearch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/btwiusearch), [grokbothq.xyz](https://grokbothq.xyz/bots/btwiusearch), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/btwiusearch) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

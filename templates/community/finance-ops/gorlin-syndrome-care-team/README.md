@@ -6,7 +6,7 @@ A free care-team bot for people living with Gorlin syndrome (BCNS) and their fam
 | --- | --- |
 | Original template | https://x.ai/bot/ghy5ckaaK96B-yTsBuPhd |
 | Creator | John McGinley ([@McJohnnymac](https://x.com/McJohnnymac)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/gorlin-syndrome-care-team), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tesla-ops) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

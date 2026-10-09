@@ -6,7 +6,7 @@ Finds real Canadian and Quebec class-action settlements you can claim for a payo
 | --- | --- |
 | Original template | https://x.ai/bot/3Tf_Vk_UR3JJb6Dq3hioZ |
 | Creator | Rob An ([@rob_an_](https://x.com/rob_an_)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/class-action-lawsuit-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/class-action-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/class-action-lawsuit-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/class-action-lawsuit-finder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

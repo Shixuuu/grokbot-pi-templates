@@ -6,7 +6,7 @@ Runs adversarial passes on product docs and code for security and usability. Use
 | --- | --- |
 | Original template | https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ |
 | Creator | Aben Consulting Kft ([@cservincf](https://x.com/cservincf)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/adversarial-security-usability), [grokbotwiki.com](https://www.grokbotwiki.com/bots/adversarial-security-usability), [grokbothq.xyz](https://grokbothq.xyz/bots/adversarial-security-usability), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/adversarial-security-usability) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

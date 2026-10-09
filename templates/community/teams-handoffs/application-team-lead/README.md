@@ -6,7 +6,7 @@ Orchestrates job applications for you: collects the info needed to apply, finds 
 | --- | --- |
 | Original template | https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC |
 | Creator | Bennett Plumb ([@Kenook_](https://x.com/Kenook_)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/application-team-lead), [grokbotwiki.com](https://www.grokbotwiki.com/bots/application-team-lead), [grokbothq.xyz](https://grokbothq.xyz/bots/application-team-lead), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/application-team-lead), [x-research](https://botsdots.site/templates/application-team-lead) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

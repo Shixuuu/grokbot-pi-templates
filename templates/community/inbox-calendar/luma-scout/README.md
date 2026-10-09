@@ -6,7 +6,7 @@ Watches a Luma calendar daily, alerts when an event is nearby, RSVPs free/open e
 | --- | --- |
 | Original template | https://x.ai/bot/i8-CgHSny3TXdV3O0dnbv |
 | Creator | Eugene Ray ([@monomyth](https://x.com/monomyth)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/luma-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/luma-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/luma-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/luma-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

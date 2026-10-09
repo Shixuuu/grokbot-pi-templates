@@ -6,7 +6,7 @@ Make your Grok Bot location aware. iPhone Shortcuts automations ping it when you
 | --- | --- |
 | Original template | https://x.ai/bot/f2FSMclpHel2RsD7j5R3E |
 | Creator | Stephen Bolger |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/stephenjbolger/status/2108149881089204341) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 1 routines, 4 memory seeds, 0 connectors |

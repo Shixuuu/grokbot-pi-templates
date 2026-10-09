@@ -6,7 +6,7 @@ Coordinates specialist bots for a small multi-service local business—sales, we
 | --- | --- |
 | Original template | https://x.ai/bot/PUu69kfWwlI3SimlhHidQ |
 | Creator | Robert Fuentes ([@RobertF73819369](https://x.com/RobertF73819369)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-puu6), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-puu6), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-36), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-puu6) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 16 memory seeds, 3 connectors |

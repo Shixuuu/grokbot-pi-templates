@@ -6,7 +6,7 @@ Handles a career and internship search. Keeps a Notion application tracker curre
 | --- | --- |
 | Original template | https://x.ai/bot/eSCwViGduTgMD6PiOo7jm |
 | Creator | Daniel Xu ([@danieldxu_](https://x.com/danieldxu_)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-jbfinder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-j-bfinder), [grokbothq.xyz](https://grokbothq.xyz/bots/the-j-bfinder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/danieldxu_/status/2093480750146552176) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 3 memory seeds, 3 connectors |

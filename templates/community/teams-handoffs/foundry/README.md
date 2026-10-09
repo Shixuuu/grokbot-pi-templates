@@ -6,7 +6,7 @@ Foundation Architect for people starting serious work. Runs a batched setup inte
 | --- | --- |
 | Original template | https://x.ai/bot/ScfBcREQMQex9JUf2Se63 |
 | Creator | Gareth Tipene ([@gtOSnz](https://x.com/gtOSnz)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/foundry), [grokbotwiki.com](https://www.grokbotwiki.com/bots/foundry), [grokbothq.xyz](https://grokbothq.xyz/bots/foundry), [templatebot.lol](https://templatebot.lol/bot/ScfBcREQMQex9JUf2Se63), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/foundry), [x-research](https://botsdots.site/templates/foundry) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

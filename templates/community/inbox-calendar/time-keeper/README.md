@@ -6,7 +6,7 @@ A calendar assistant that sends a morning digest (one good quote, then the day) 
 | --- | --- |
 | Original template | https://x.ai/bot/IAEp851k9orM1LguTm2F8 |
 | Creator | Mark Frantz ([@ironted21](https://x.com/ironted21)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/time-keeper), [botsdots.site](https://botsdots.site/templates/time-keeper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/time-keeper), [grokbothq.xyz](https://grokbothq.xyz/bots/time-keeper), [templatebot.lol](https://templatebot.lol/bot/IAEp851k9orM1LguTm2F8), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/time-keeper), [x-research](https://x.com/ironted21/status/2093771512331252046) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 5 routines, 6 memory seeds, 2 connectors |

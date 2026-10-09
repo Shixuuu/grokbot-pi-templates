@@ -6,7 +6,7 @@ Daily maintenance seat for people who run several Grok Bots. Picks one bot, appl
 | --- | --- |
 | Original template | https://x.ai/bot/Idb_NF5CDfs2il25w0CiM |
 | Creator | Steven Villarino ([@stevenvillarino](https://x.com/stevenvillarino)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/agent-improver), [grokbotwiki.com](https://www.grokbotwiki.com/bots/agent-improver), [grokbothq.xyz](https://grokbothq.xyz/bots/agent-improver), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/agent-improver), [x-research](https://x.com/stevenvillarino/status/2104719796465967114) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Chief of staff for a family of specialist Grok Bots. Stamps vault fences, runs h
 | --- | --- |
 | Original template | https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT |
 | Creator | Darren Falkingham ([@dfalkingham](https://x.com/dfalkingham)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gwynne-botwell), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gwynne-botwell), [grokbothq.xyz](https://grokbothq.xyz/bots/gwynne-botwell), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/gwynne-botwell) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 2 routines, 7 memory seeds, 0 connectors |

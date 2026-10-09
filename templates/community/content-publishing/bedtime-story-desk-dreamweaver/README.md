@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/bwdmstmwezufn1xojo8_x |
 | Creator | Cypher Monkey |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bedtime-story-desk-dreamweaver-bwdm), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bedtime-story-desk-dreamweaver-bwdm) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

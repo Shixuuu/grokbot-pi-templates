@@ -6,7 +6,7 @@ A meta-agent for people who run several AI assistants. It keeps one shared knowl
 | --- | --- |
 | Original template | https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9 |
 | Creator | Francisco Kemeny ([@FranciscoKemeny](https://x.com/FranciscoKemeny)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fleet-brain), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fleet-brain), [grokbothq.xyz](https://grokbothq.xyz/bots/fleet-brain-kfq0xp), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/kFQ0XpYIwcNSNWtgZ9Xt9), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fleet-brain) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 13 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ Turns any project into click-worthy X/Twitter launch posts. Fill the blanks — 
 | --- | --- |
 | Original template | https://x.ai/bot/FaMbaDOO2WceFyiKDu6_6 |
 | Creator | Bragi Helvig (0x5E) ([@BragiHelvig](https://x.com/BragiHelvig)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/marketing-bot), [botsdots.site](https://botsdots.site/templates/marketing-bot-famb), [grokbotwiki.com](https://www.grokbotwiki.com/bots/marketing-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/marketing-bot-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/marketing-bot), [x-research](https://x.com/BragiHelvig/status/2100393322569167341) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

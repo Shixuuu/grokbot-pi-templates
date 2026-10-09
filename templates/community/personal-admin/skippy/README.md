@@ -6,7 +6,7 @@ A San Francisco street-cleaning assistant. Paste a Maps pin, address, or interse
 | --- | --- |
 | Original template | https://x.ai/bot/b00VrDzeasoqtPymoNDB- |
 | Creator | Matt Palmer ([@mattyp](https://x.com/mattyp)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/skippy-b00v), [grokbothq.xyz](https://grokbothq.xyz/bots/skippy), [templatebot.lol](https://templatebot.lol/bot/b00VrDzeasoqtPymoNDB-), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

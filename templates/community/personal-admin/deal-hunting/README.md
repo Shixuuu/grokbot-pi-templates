@@ -6,7 +6,7 @@ Landed-cost shopping: real prices, shipping and tax, preferred retailers. Watchl
 | --- | --- |
 | Original template | https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf |
 | Creator | Andrej Šimunaj ([@scheemunai](https://x.com/scheemunai)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/deal-hunting), [grokbotwiki.com](https://www.grokbotwiki.com/bots/deal-hunting), [grokbothq.xyz](https://grokbothq.xyz/bots/deal-hunting), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/deal-hunting), [x-research](https://x.com/scheemunai/status/2093399328836440571) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A live crypto and AI-agent news desk. It pulls the latest CCN headlines on Bitco
 | --- | --- |
 | Original template | https://x.ai/bot/nxJpEb_kwY2NqXnGA0krW |
 | Creator | Shawn Lippert |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/MagaShawn/status/2108393992148660471) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

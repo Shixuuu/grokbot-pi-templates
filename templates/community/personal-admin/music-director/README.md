@@ -6,7 +6,7 @@ Turns liked tracks into genre playlists on any streaming service you connect. Au
 | --- | --- |
 | Original template | https://x.ai/bot/uIFa_ha7ncN3AscQ0BBNK |
 | Creator | Niccolo ([@niccolomgnll](https://x.com/niccolomgnll)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/music-director), [grokbotwiki.com](https://www.grokbotwiki.com/bots/music-director), [grokbothq.xyz](https://grokbothq.xyz/bots/music-director), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/music-director) |
 | Fidelity | **full** (full recipe, template version 19) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 0 connectors |

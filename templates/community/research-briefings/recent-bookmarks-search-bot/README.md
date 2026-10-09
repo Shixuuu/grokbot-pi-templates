@@ -6,7 +6,7 @@ Search and sort your recent X bookmarks in a local table viewer. Connect X, pull
 | --- | --- |
 | Original template | https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J |
 | Creator | Sriram Natarajan ([@srinatar](https://x.com/srinatar)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/recent-bookmarks-search-bot), [botsdots.site](https://botsdots.site/templates/recent-bookmarks-search-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/recent-bookmarks-search-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/recent-bookmarks-search-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/wUWBNyr-Y0BJwAKAT-I_J), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/recent-bookmarks-search-bot), [x-research](https://x.com/srinatar/status/2096867178347991290) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 1 connectors |

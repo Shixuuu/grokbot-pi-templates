@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-social-media-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Post in your voice without living in drafts. Studies your real history, drafts when something noteworthy ships, parks posts for you to publish, and keeps the queue moving.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s634cb1edf26493e86be2",
+    "url": "https://x.ai/bot/s634cb1edf26493e86be2",
+    "official": false,
+    "builtin": true,
+    "category": "builtin",
+    "fidelity": "full",
+    "creator": "SpaceX",
+    "creatorHandle": "DenisLabelle",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

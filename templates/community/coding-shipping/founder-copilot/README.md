@@ -6,7 +6,7 @@ The AI co-founder for solo builders: a ranked morning brief across email, Stripe
 | --- | --- |
 | Original template | https://x.ai/bot/W_cxXC4RtYabFbl6rFg9l |
 | Creator | marcos laureano ([@marcos](https://x.com/marcos)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/founder-copilot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/founder-copilot), [grokbothq.xyz](https://grokbothq.xyz/bots/founder-copilot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/founder-copilot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 10 skills, 0 routines, 3 memory seeds, 3 connectors |

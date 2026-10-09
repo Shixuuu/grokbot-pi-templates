@@ -6,7 +6,7 @@ Coordinates multiple AI platforms, preserves authoritative project records, veri
 | --- | --- |
 | Original template | https://x.ai/bot/miMMOUhEpvv-KFJWg5qhw |
 | Creator | Jim Stansbury ([@JimStansbury5](https://x.com/JimStansbury5)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ai-vp-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-vp-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-vp-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ai-vp-bot), [x-research](https://botsdots.site/templates/ai-vp-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

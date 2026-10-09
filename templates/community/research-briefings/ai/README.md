@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs |
 | Creator | Mai Yang ([@MaiYangAI](https://x.com/MaiYangAI)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ai-d6wm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-d6wm), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-zixun-jingxuan), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ai-d6wm) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

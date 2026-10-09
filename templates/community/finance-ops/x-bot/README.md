@@ -6,7 +6,7 @@ Runs an X profile: drafts, scheduling, likes, replies, follows, and contest entr
 | --- | --- |
 | Original template | https://x.ai/bot/8MKcuoPe51KZnLiN3m4oU |
 | Creator | Tejas Chaudhari ([@TejasCh32900009](https://x.com/TejasCh32900009)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/x-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/x-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 1 connectors |

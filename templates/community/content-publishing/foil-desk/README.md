@@ -6,7 +6,7 @@ Watches trading-card news on a tight loop. When something actually hits players 
 | --- | --- |
 | Original template | https://x.ai/bot/0z2O7XJb58lL6ayeiCxEU |
 | Creator | Steve ([@FoilFoxTCG](https://x.com/FoilFoxTCG)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/foil-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/foilfox-tcg-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/foil-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/foil-desk) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 1 connectors |

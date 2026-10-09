@@ -6,7 +6,7 @@ Music PR for an album release: daily outreach drafts for radio, playlists, podca
 | --- | --- |
 | Original template | https://x.ai/bot/o2_Nqk-xSpJRDquQrSmyP |
 | Creator | Dani Hakim ([@Danihakim73](https://x.com/Danihakim73)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/music-pr-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/music-pr-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/music-pr-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/music-pr-bot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 2 routines, 11 memory seeds, 2 connectors |

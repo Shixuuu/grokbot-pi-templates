@@ -6,7 +6,7 @@ Head of Marketing for a digital marketing agency. Assigns SEO, Meta, email, and 
 | --- | --- |
 | Original template | https://x.ai/bot/k-keodk82Xq6in9aQY_jT |
 | Creator | Anish Jha ([@anishjha18](https://x.com/anishjha18)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/krishna-head-of-marketing), [grokbotwiki.com](https://www.grokbotwiki.com/bots/krishna-head-of-marketing), [grokbothq.xyz](https://grokbothq.xyz/bots/krishna-head-of-marketing), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/BotDirectoryAI/status/2103834887211905437) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 10 skills, 0 routines, 12 memory seeds, 2 connectors |

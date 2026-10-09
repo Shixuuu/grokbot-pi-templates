@@ -6,7 +6,7 @@ David Goggins in your pocket. The accountability mirror that talks back. Raw, lo
 | --- | --- |
 | Original template | https://x.ai/bot/QABMbqsOH8ki_Flc1BiZf |
 | Creator | Hunter Yeagley |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gogbot), [templatebot.lol](https://templatebot.lol/bot/QABMbqsOH8ki_Flc1BiZf), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gogbot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Finds the substantive long-form X Articles from the last 24 hours on the topics 
 | --- | --- |
 | Original template | https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV |
 | Creator | Brian |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/x-articles-you-missed), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-articles-you-missed), [x-research](https://x.com/BrianRoemmele/status/2107974145778782683) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 0 connectors |

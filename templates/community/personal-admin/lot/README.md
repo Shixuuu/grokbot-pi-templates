@@ -6,7 +6,7 @@ Paste a used listing (car, truck, boat, equipment) and Lot tells you what to ask
 | --- | --- |
 | Original template | https://x.ai/bot/5K_ZnAdSQtlCT-Pn4B2p7 |
 | Creator | American™ B ([@1776_13](https://x.com/1776_13)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lot), [grokbothq.xyz](https://grokbothq.xyz/bots/lot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/lot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

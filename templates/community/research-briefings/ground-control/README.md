@@ -6,7 +6,7 @@ Local RF / Wi‑Fi telemetry analyst. Reads scans you paste or run live, keeps e
 | --- | --- |
 | Original template | https://x.ai/bot/fBaHx06vVseLELg2vPOE6 |
 | Creator | Steven Lee ([@isightdr](https://x.com/isightdr)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ground-control), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ground-control), [grokbothq.xyz](https://grokbothq.xyz/bots/ground-control), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ground-control), [x-research](https://x.com/isightdr/status/2100998210789491027) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 16 memory seeds, 0 connectors |

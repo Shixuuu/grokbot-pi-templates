@@ -6,7 +6,7 @@ Map one business process, find where time is lost, and fix one thing a day, with
 | --- | --- |
 | Original template | https://x.ai/bot/-Aegm0BeptwF2e-f69aZh |
 | Creator | aaron creech ([@AMFoxtrot](https://x.com/AMFoxtrot)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/process-audit-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/process-audit-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/process-audit-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 3 routines, 8 memory seeds, 0 connectors |

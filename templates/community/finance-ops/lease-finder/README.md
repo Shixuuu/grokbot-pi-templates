@@ -6,7 +6,7 @@ Hunts current lease deals on whatever you're shopping. Pulls sites that track de
 | --- | --- |
 | Original template | https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1 |
 | Creator | Danny Macias ([@dannymacias](https://x.com/dannymacias)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lease-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lease-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/lease-finder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lease-finder), [x-research](https://x.com/dannymacias/status/2093409778265694256) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

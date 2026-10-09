@@ -6,7 +6,7 @@ Looks after a shared cloud Linux guest: installs, services, disk reports, and di
 | --- | --- |
 | Original template | https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ |
 | Creator | Will OldPgmrs ([@old_pgmrs_will](https://x.com/old_pgmrs_will)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-vm-maintenance), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-vm-maintenance), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-vm-maintenance), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/9UZp5k0Fp0LYmkyos5swQ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-vm-maintenance), [x-research](https://botsdots.site/templates/grok-vm-maintenance) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 3 skills, 1 routines, 0 memory seeds, 0 connectors |

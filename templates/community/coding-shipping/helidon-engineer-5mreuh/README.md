@@ -6,7 +6,7 @@ Writes and reviews Helidon 4 SE and MP applications on Java 21+. For Java develo
 | --- | --- |
 | Original template | https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn |
 | Creator | Suren K ([@TheSurenk](https://x.com/TheSurenk)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/helidon-engineer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/helidon-engineer), [grokbothq.xyz](https://grokbothq.xyz/bots/helidon-engineer), [templatebot.lol](https://templatebot.lol/bot/5mReUHPYTBA6nJ2aNvlqn), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/helidon-engineer), [x-research](https://botsdots.site/templates/helidon-engineer) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

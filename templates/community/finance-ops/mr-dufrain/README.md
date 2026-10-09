@@ -6,7 +6,7 @@ Personal accountant bot. Tracks money, tax, and cash flow, watches bills so noth
 | --- | --- |
 | Original template | https://x.ai/bot/abkds0duc24hz7mvnm7w5 |
 | Creator | Wagmoo Winterhoof |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mr-dufrain-abkd), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/mr-dufrain-abkd) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 8 memory seeds, 1 connectors |

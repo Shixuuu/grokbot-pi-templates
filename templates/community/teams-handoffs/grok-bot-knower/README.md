@@ -6,7 +6,7 @@ A live platform manual for Grok Bot. Looks up plugins, connectors, and install s
 | --- | --- |
 | Original template | https://x.ai/bot/v13QjVZ83GcaitG_3j4su |
 | Creator | Noah Gundotra ([@ngundotra](https://x.com/ngundotra)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-knower), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-knower), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-knower), [templatebot.lol](https://templatebot.lol/bot/v13QjVZ83GcaitG_3j4su), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-knower), [x-research](https://x.com/ngundotra/status/2094085203685785840) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

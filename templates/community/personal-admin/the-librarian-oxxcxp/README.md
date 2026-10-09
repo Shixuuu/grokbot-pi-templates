@@ -6,7 +6,7 @@ A library for your contracts, policies and any long document you might need to l
 | --- | --- |
 | Original template | https://x.ai/bot/ox-cXp4RA3S_O8dK3DNih |
 | Creator | Komal Amin |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-librarian-oxcx), [grokbothq.xyz](https://grokbothq.xyz/bots/the-librarian-2), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/the-librarian-oxcx) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 8 memory seeds, 4 connectors |

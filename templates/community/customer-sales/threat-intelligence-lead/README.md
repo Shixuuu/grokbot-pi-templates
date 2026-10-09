@@ -6,7 +6,7 @@ Your security team's threat intel hub: runs a private OpenCTI, pulls fresh IOCs 
 | --- | --- |
 | Original template | https://x.ai/bot/rA0W6mLYqVJky28FKrCBf |
 | Creator | Paul Vann ([@pjvann](https://x.com/pjvann)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/threat-intelligence-lead), [grokbotwiki.com](https://www.grokbotwiki.com/bots/threat-intelligence-lead), [grokbothq.xyz](https://grokbothq.xyz/bots/threat-intelligence-lead), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/threat-intelligence-lead) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 1 routines, 4 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Website admin. Owns a personal site (rebuild + live fallback, exclusive long-for
 | --- | --- |
 | Original template | https://x.ai/bot/Q2shbC8RRmoRleIyr5J33 |
 | Creator | Farzad |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/webby), [grokbothq.xyz](https://grokbothq.xyz/bots/webby), [templatebot.lol](https://templatebot.lol/bot/Q2shbC8RRmoRleIyr5J33), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/webby), [x-research](https://x.com/farzyness/status/2093485215150744014) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 6 routines, 13 memory seeds, 1 connectors |

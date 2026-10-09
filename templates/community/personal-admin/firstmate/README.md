@@ -6,7 +6,7 @@ The only agent you talk to. No more context switching. Firstmate orchestrates yo
 | --- | --- |
 | Original template | https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r |
 | Creator | Kun Chen ([@kunchenguid](https://x.com/kunchenguid)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/firstmate), [grokbotwiki.com](https://www.grokbotwiki.com/bots/firstmate), [grokbothq.xyz](https://grokbothq.xyz/bots/firstmate), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/__4FfrkUdvpdMk6-LKg5r), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/firstmate), [x-research](https://x.com/kunchenguid/status/2089792928092963234) |
 | Fidelity | **full** (full recipe, template version 35) |
 | Contents | 7 skills, 1 routines, 4 memory seeds, 0 connectors |

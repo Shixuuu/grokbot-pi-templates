@@ -6,7 +6,7 @@ George runs the atelier: a poster, a style sheet, pictures for a post, a newspap
 | --- | --- |
 | Original template | https://x.ai/bot/8vjjli7z5w0htprcfqgj4 |
 | Creator | Rita Agafonova |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/george-8vjj), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/george-8vjj) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 15 skills, 0 routines, 20 memory seeds, 3 connectors |

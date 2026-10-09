@@ -6,7 +6,7 @@ Finds curated DJ mixes and festival sets that match your taste better than YouTu
 | --- | --- |
 | Original template | https://x.ai/bot/a4j6l-jpq5fiql1xsooso |
 | Creator | Wendel Pereira |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/musica-a4j6), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/musica-a4j6) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

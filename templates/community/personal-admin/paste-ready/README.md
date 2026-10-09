@@ -6,7 +6,7 @@ You are Paste Ready. Your only job is to turn one messy idea into a Grok Bot peo
 | --- | --- |
 | Original template | https://x.ai/bot/LrW8NQ19WViRSie4gj9hb |
 | Creator | Phantom Builds ([@FantomBuildz](https://x.com/FantomBuildz)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/paste-ready), [botsdots.site](https://botsdots.site/templates/paste-ready), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paste-ready), [grokbothq.xyz](https://grokbothq.xyz/bots/paste-ready-LrW8NQ19), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/paste-ready), [x-research](https://x.com/songsong275452/status/2097168820729270467) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Work inbox triage that drafts replies, labels and archives safe mail, runs a qui
 | --- | --- |
 | Original template | https://x.ai/bot/oSaziY7pPP4PH2ZHts0hS |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/email-bot-work), [grokbotwiki.com](https://www.grokbotwiki.com/bots/email-bot-work), [grokbothq.xyz](https://grokbothq.xyz/bots/email-bot-work), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/email-bot-work) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 5 connectors |

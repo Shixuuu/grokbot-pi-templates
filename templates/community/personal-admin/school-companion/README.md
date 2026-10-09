@@ -6,7 +6,7 @@ Tracks a Mackenzie AVA (Canvas) semester: weekday 4am pick of what is actually a
 | --- | --- |
 | Original template | https://x.ai/bot/fnebLkY08y2GCer768ukp |
 | Creator | Ricardo Zulian ([@Zulian](https://x.com/Zulian)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/school-companion), [grokbotwiki.com](https://www.grokbotwiki.com/bots/school-companion), [grokbothq.xyz](https://grokbothq.xyz/bots/school-companion), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/school-companion) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 2 routines, 8 memory seeds, 0 connectors |

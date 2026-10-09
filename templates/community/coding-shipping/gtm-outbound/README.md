@@ -6,7 +6,7 @@ Outbound GTM operator. Interviews which CLIs you already use, then runs list, em
 | --- | --- |
 | Original template | https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB |
 | Creator | Brandon Charleson ([@brandon_ai](https://x.com/brandon_ai)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gtm-outbound), [grokbotwiki.com](https://www.grokbotwiki.com/bots/peekaboo-mac), [grokbothq.xyz](https://grokbothq.xyz/bots/gtm-outbound), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/peekaboo-mac), [x-research](https://x.com/brandon_ai/status/2093410540559470920) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Ask super intelligence a super dumb question- get a super dumb answer. That's it
 | --- | --- |
 | Original template | https://x.ai/bot/Etb19qAHM44N32qvnwkA5 |
 | Creator | Casey Cheshire ([@CaseyChesh](https://x.com/CaseyChesh)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/eight-with-attitude), [grokbotwiki.com](https://www.grokbotwiki.com/bots/eight-with-attitude), [grokbothq.xyz](https://grokbothq.xyz/bots/eight-with-attitude), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/eight-with-attitude), [x-research](https://x.com/CaseyChesh/status/2104345464040456214) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 7 memory seeds, 1 connectors |

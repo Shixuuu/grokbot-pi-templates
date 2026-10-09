@@ -6,7 +6,7 @@ Secretary of education. Coordinates teaching specialists so instruction stays cu
 | --- | --- |
 | Original template | https://x.ai/bot/GR0rqS06gn6Kr_WnMw5Fn |
 | Creator | Sentinel Architech ([@TRV_Architech](https://x.com/TRV_Architech)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bill-gr0r), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bill-gr0r), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bill-gr0r) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 21 memory seeds, 0 connectors |

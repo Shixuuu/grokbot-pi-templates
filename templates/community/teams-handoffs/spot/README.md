@@ -6,7 +6,7 @@ Your number-one map location finder. On demand, looks up any place type (restaur
 | --- | --- |
 | Original template | https://x.ai/bot/jbY38mgtSzzg7riLfrJM1 |
 | Creator | Cake |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/jbY38mgtSzzg7riLfrJM1) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

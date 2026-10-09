@@ -6,7 +6,7 @@ Turns alerts, logs and chat from a resolved incident into a cited timeline, blam
 | --- | --- |
 | Original template | https://x.ai/bot/deewhz6q_jllcsigik4hd |
 | Creator | Cypher Monkey |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/incident-postmortem-desk-deew), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/incident-postmortem-desk-deew) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

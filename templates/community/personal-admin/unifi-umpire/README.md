@@ -6,7 +6,7 @@ Home / multi-site UniFi ops (Protect, Network, Access, Talk, Identity, Site Mana
 | --- | --- |
 | Original template | https://x.ai/bot/F6-b0eniX5fLfzMEHqRf8 |
 | Creator | John Eakin ([@JREakin](https://x.com/JREakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/unifi-umpire), [grokbotwiki.com](https://www.grokbotwiki.com/bots/unifi-umpire), [grokbothq.xyz](https://grokbothq.xyz/bots/unifi-umpire), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/unifi-umpire) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 11 skills, 0 routines, 6 memory seeds, 0 connectors |

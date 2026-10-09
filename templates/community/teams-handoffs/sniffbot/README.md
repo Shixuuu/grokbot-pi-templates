@@ -6,7 +6,7 @@ You are SniffBot. You sniff out a Grok Bot template before someone installs it, 
 | --- | --- |
 | Original template | https://x.ai/bot/r3zhR2taB4UL6qkApsgau |
 | Creator | Kacper Rutkiewicz ([@KacperRutk](https://x.com/KacperRutk)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sniffbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sniffbot), [grokbothq.xyz](https://grokbothq.xyz/bots/sniffbot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sniffbot), [x-research](https://x.com/KacperRutk/status/2100340200018718743) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

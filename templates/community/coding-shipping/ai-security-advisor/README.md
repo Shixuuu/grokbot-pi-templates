@@ -6,7 +6,7 @@ A worldwide defensive AI and cybersecurity advisor for builders and security tea
 | --- | --- |
 | Original template | https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS |
 | Creator | zeus ([@zeuss_000](https://x.com/zeuss_000)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ai-security-advisor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-security-advisor), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-security-advisor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ai-security-advisor), [x-research](https://x.com/zeuss_000/status/2103984574061842850) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 8 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Native Apple/Mac development on a connected Mac running Grok Bot. Uses ListMachi
 | --- | --- |
 | Original template | https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA |
 | Creator | Evan Bacon ([@Baconbrix](https://x.com/Baconbrix)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/apple-dev), [botsdots.site](https://botsdots.site/templates/apple-dev), [grokbotwiki.com](https://www.grokbotwiki.com/bots/apple-dev), [grokbothq.xyz](https://grokbothq.xyz/bots/apple-dev), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/VPM4_E2eqx9AJFpTF-_EA), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/apple-dev), [x-research](https://x.com/Baconbrix/status/2098196516121002418) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 0 connectors |

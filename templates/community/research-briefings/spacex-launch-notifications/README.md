@@ -6,7 +6,7 @@ Live-stream aerospace regulatory analyst for SpaceX Starbase launches. Checks FA
 | --- | --- |
 | Original template | https://x.ai/bot/yFMbDewP86aoPzNmgz44o |
 | Creator | Jonathon Hinchley ([@Jonathon](https://x.com/Jonathon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spacex-launch-notifications), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spacex-launch-notifications), [grokbothq.xyz](https://grokbothq.xyz/bots/spacex-launch-notifications), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/spacex-launch-notifications) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 0 connectors |

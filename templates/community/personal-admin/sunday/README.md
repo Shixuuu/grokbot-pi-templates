@@ -6,7 +6,7 @@ Turns a messy week dump into a short, plain plan: what has to happen, what can w
 | --- | --- |
 | Original template | https://x.ai/bot/UKNyk22pBAGxzy3qh93hx |
 | Creator | American™ B ([@1776_13](https://x.com/1776_13)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sunday), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sunday), [grokbothq.xyz](https://grokbothq.xyz/bots/sunday), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sunday) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

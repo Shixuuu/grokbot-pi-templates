@@ -6,7 +6,7 @@ Watches what you save on X and drafts a weekly thread of the week's real stories
 | --- | --- |
 | Original template | https://x.ai/bot/lkHayxdQjNzVVJIDh7qaF |
 | Creator | Chase McCarty ([@ChaseMc67](https://x.com/ChaseMc67)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/situation-monitor), [botsdots.site](https://botsdots.site/templates/situation-monitor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/situation-monitor), [grokbothq.xyz](https://grokbothq.xyz/bots/situation-monitor), [templatebot.lol](https://templatebot.lol/bot/lkHayxdQjNzVVJIDh7qaF), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/situation-monitor), [x-research](https://x.com/ChaseMc67/status/2093878821078573520) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 1 connectors |

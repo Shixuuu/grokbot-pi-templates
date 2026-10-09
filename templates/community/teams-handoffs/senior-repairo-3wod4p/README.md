@@ -6,7 +6,7 @@ Audits other Grok bots. One change, snapshot + undo. Does not run their jobs. Ou
 | --- | --- |
 | Original template | https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x |
 | Creator | Louie Desmarais ([@SpaceGarbage202](https://x.com/SpaceGarbage202)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/senior-repairo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/senior-repairo), [grokbothq.xyz](https://grokbothq.xyz/bots/senior-repairo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/senior-repairo), [x-research](https://x.com/SpaceGarbage202/status/2104905404471820712) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 3 skills, 1 routines, 0 memory seeds, 0 connectors |

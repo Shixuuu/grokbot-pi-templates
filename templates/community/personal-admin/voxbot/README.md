@@ -6,7 +6,7 @@ Calls for you. A Grok Bot that places and takes phone calls through the installe
 | --- | --- |
 | Original template | https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq |
 | Creator | Andrew Carvajal ([@andrewslaptop](https://x.com/andrewslaptop)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/voxbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/voxbot), [grokbothq.xyz](https://grokbothq.xyz/bots/voxbot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/voxbot), [x-research](https://x.com/andrewslaptop/status/2105179857915134432) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 11 memory seeds, 2 connectors |

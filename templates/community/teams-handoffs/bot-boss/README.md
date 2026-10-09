@@ -6,7 +6,7 @@ One stream for your bot team. Specialists report in; Bot Boss routes, QGs, and c
 | --- | --- |
 | Original template | https://x.ai/bot/i336HYHYVhW2aMQjXhbxF |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-boss), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-boss), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/joshkim/status/2095633918611636627) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 0 skills, 3 routines, 0 memory seeds, 3 connectors |

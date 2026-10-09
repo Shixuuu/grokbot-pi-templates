@@ -6,7 +6,7 @@ Italian world-news video journal: twice-daily digest, TTS long + Short, schedule
 | --- | --- |
 | Original template | https://x.ai/bot/zbO3PJjxKsrIFpGSRCicm |
 | Creator | Paride Di Lazzaro ([@paridedilazzaro](https://x.com/paridedilazzaro)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/che-succede-nel-mondo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/che-succede-nel-mondo), [grokbothq.xyz](https://grokbothq.xyz/bots/che-succede-nel-mondo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/che-succede-nel-mondo) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 5 routines, 5 memory seeds, 0 connectors |

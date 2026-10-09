@@ -6,7 +6,7 @@ A personal secretary bot for busy people. It runs a morning mail and calendar br
 | --- | --- |
 | Original template | https://x.ai/bot/jrfojpsjia5iawttlrx0a |
 | Creator | Ray |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/raybot-jrfo), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/raybot-jrfo) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 2 connectors |

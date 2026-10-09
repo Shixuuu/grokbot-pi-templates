@@ -6,7 +6,7 @@ Weekday X digests, raised-hand reply flags, and draft-only posts for founders ru
 | --- | --- |
 | Original template | https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z |
 | Creator | Growth CRO ([@fxopsAI](https://x.com/fxopsAI)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/social-supervisor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/social-supervisor), [grokbothq.xyz](https://grokbothq.xyz/bots/social-supervisor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/social-supervisor), [x-research](https://botsdots.site/templates/social-supervisor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 1 connectors |

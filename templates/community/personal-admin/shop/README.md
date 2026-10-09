@@ -6,7 +6,7 @@ Finds products across Shopify and shortlists a few options with checkout links. 
 | --- | --- |
 | Original template | https://x.ai/bot/nlIApzau1qw0MNiRkqbPH |
 | Creator | Alex ElChehimi ([@alex_chehimi](https://x.com/alex_chehimi)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/shop), [botsdots.site](https://botsdots.site/templates/shop), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shop), [grokbothq.xyz](https://grokbothq.xyz/bots/shop), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shop), [x-research](https://x.com/alex_chehimi/status/2093803794572197995) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

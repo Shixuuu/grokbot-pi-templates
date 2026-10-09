@@ -6,7 +6,7 @@ Reviews a public Grok Bot share link or pasted config before you add it. Quotes 
 | --- | --- |
 | Original template | https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE |
 | Creator | Brad Shannon ([@bradshannon](https://x.com/bradshannon)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bouncer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bouncer), [grokbothq.xyz](https://grokbothq.xyz/bots/bouncer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/cGcG0msqfz7o7J3QMLhbE), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bouncer), [x-research](https://botsdots.site/templates/bouncer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

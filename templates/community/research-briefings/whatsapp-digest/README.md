@@ -6,7 +6,7 @@ A read-only WhatsApp assistant that scans your group chats and gives a short dai
 | --- | --- |
 | Original template | https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J- |
 | Creator | Petrus Janse van Rensburg ([@PetrusJvR](https://x.com/PetrusJvR)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/whatsapp-digest), [botsdots.site](https://botsdots.site/templates/whatsapp-digest), [grokbotwiki.com](https://www.grokbotwiki.com/bots/whatsapp-digest), [grokbothq.xyz](https://grokbothq.xyz/bots/whatsapp-digest), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/whatsapp-digest), [x-research](https://x.com/PetrusJvR/status/2094114763982701049) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 1 routines, 8 memory seeds, 0 connectors |

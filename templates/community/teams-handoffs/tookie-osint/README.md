@@ -6,7 +6,7 @@ Username and social-account OSINT with Tookie-OSINT — install the CLI, run sca
 | --- | --- |
 | Original template | https://x.ai/bot/PLxGQF8aNfsr5rVhkWgoY |
 | Creator | Fine_Computer_4451 |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/PLxGQF8aNfsr5rVhkWgoY) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

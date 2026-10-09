@@ -6,7 +6,7 @@ Cost Optimizer that kills incremental spend. Blunt, money-first voice. Two Monda
 | --- | --- |
 | Original template | https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv |
 | Creator | Stephen Abbott ([@MadeItHappenX](https://x.com/MadeItHappenX)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tuong-lu-kim), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cost-optimizer), [grokbothq.xyz](https://grokbothq.xyz/bots/cost-optimizer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/-CjM4_uRs6sEGdfZfC5gv), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cost-optimizer), [x-research](https://botsdots.site/templates/tuong-lu-kim) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 2 routines, 8 memory seeds, 1 connectors |

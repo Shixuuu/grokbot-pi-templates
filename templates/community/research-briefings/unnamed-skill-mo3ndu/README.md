@@ -6,7 +6,7 @@ Xのブックマークを読んで、テーマと次の一手（build / read / s
 | --- | --- |
 | Original template | https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt |
 | Creator | まるいも ([@marulimoai](https://x.com/marulimoai)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/morning-digest-x-bookmarks-themes), [grokbotwiki.com](https://www.grokbotwiki.com/bots/morning-digest-x-bookmarks-themes), [grokbothq.xyz](https://grokbothq.xyz/bots/shiori-mo3ndu), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shiori-bookmark-digest), [x-research](https://botsdots.site/templates/morning-digest-x-bookmarks-themes) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 1 connectors |

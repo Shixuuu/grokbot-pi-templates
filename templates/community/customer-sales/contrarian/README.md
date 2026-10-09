@@ -6,7 +6,7 @@ A sharp thinking partner that argues the other side and runs a pre-mortem before
 | --- | --- |
 | Original template | https://x.ai/bot/BawAoz1FeYXd6HzBqWntt |
 | Creator | Calix Build ([@Calix](https://x.com/Calix)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/contrarian), [grokbotwiki.com](https://www.grokbotwiki.com/bots/contrarian), [grokbothq.xyz](https://grokbothq.xyz/bots/contrarian), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/contrarian), [x-research](https://botsdots.site/templates/contrarian) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

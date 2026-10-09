@@ -6,7 +6,7 @@ Recruiter specialist that owns hiring execution end-to-end: job descriptions, bo
 | --- | --- |
 | Original template | https://x.ai/bot/8CwqNTk5VBBhEAnTyUIHi |
 | Creator | Chuck Hattemer |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gong), [grokbothq.xyz](https://grokbothq.xyz/bots/gong), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gong) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 11 memory seeds, 3 connectors |

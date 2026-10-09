@@ -6,7 +6,7 @@ Helps you sort video clips into a clear, editable structure. Dump the chaos in; 
 | --- | --- |
 | Original template | https://x.ai/bot/wpCpW4x3y4KcXPuX7Ya7h |
 | Creator | Frank Gonzalez ([@FrankFindsOut](https://x.com/FrankFindsOut)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/footage-fran), [grokbotwiki.com](https://www.grokbotwiki.com/bots/footage-fran), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/footage-fran) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

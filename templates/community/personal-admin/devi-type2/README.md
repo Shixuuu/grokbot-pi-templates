@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/aeE3iKjj5xfDmx_dolbll |
 | Creator | 星宮 ([@Fermion_Boson17](https://x.com/Fermion_Boson17)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/devi-type2), [grokbotwiki.com](https://www.grokbotwiki.com/bots/devi-type2), [grokbothq.xyz](https://grokbothq.xyz/bots/devi-type2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/devi-type2), [x-research](https://botsdots.site/templates/devi-type2) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

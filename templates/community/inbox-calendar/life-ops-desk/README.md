@@ -6,7 +6,7 @@ A personal ops teammate for weekday morning briefs, trip packing reminders, inbo
 | --- | --- |
 | Original template | https://x.ai/bot/17qjN3mRePbGPjrcMNz4W |
 | Creator | PoTradeO ([@PoTradeO](https://x.com/PoTradeO)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/life-ops-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/life-ops-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/life-ops-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/life-ops-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 2 connectors |

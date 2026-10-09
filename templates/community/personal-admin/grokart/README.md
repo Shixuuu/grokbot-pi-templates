@@ -6,7 +6,7 @@ Find what you want across the Shopify catalog, then check out. It searches, show
 | --- | --- |
 | Original template | https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG |
 | Creator | Luiz Amorim ([@lamorim_net](https://x.com/lamorim_net)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grokart), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grokart), [grokbothq.xyz](https://grokbothq.xyz/bots/grokart), [templatebot.lol](https://templatebot.lol/bot/uhGYPStIOzvxNm8oWh3sG), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grokart), [x-research](https://x.com/lamorim_net/status/2094079296705090017) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 1 connectors |

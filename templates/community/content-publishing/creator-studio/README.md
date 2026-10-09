@@ -6,7 +6,7 @@ Turns a content creator's niche, audience, and gear into time-efficient film ide
 | --- | --- |
 | Original template | https://x.ai/bot/drXeYVtu5klgMh3pf0gKS |
 | Creator | Timothy Willock ([@RetiredYoungNW](https://x.com/RetiredYoungNW)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/creator-studio), [grokbotwiki.com](https://www.grokbotwiki.com/bots/creator-studio), [grokbothq.xyz](https://grokbothq.xyz/bots/creator-studio), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/RetiredYoungNW/status/2104004163999072481) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

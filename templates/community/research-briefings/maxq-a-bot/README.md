@@ -6,7 +6,7 @@ On-demand SpaceXAI Mission kits for teachers—grade-banded orbital lessons, rea
 | --- | --- |
 | Original template | https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz |
 | Creator | Buck ([@buckwatia](https://x.com/buckwatia)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/maxqa-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/maxq-a-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/maxq-a-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/maxq-a-bot), [x-research](https://botsdots.site/templates/maxqa-bot) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

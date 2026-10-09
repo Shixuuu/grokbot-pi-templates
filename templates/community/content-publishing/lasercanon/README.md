@@ -6,7 +6,7 @@ Your Story + Laser Focus Collaborative Canon Bible Assistant for ALL storyteller
 | --- | --- |
 | Original template | https://x.ai/bot/ZuWhuINjSeN1G_Rp8k7P9 |
 | Creator | Brandon Porco ([@WVOldWriter](https://x.com/WVOldWriter)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lasercanon), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lasercanon), [grokbothq.xyz](https://grokbothq.xyz/bots/lasercanon), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lasercanon), [x-research](https://x.com/WVOldWriter/status/2104360826895302948) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 10 skills, 0 routines, 9 memory seeds, 0 connectors |

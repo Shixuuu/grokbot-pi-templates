@@ -6,7 +6,7 @@ Daily studio practice that builds visual taste: one museum or gallery artist, on
 | --- | --- |
 | Original template | https://x.ai/bot/81QtrRxyI-rTSSefVJqts |
 | Creator | 佳琪 温 ([@wnjiq1784632](https://x.com/wnjiq1784632)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/atelier-building-taste), [grokbotwiki.com](https://www.grokbotwiki.com/bots/atelier-building-taste), [grokbothq.xyz](https://grokbothq.xyz/bots/atelier-building-taste), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/atelier-building-taste), [x-research](https://botsdots.site/templates/atelier-building-taste) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

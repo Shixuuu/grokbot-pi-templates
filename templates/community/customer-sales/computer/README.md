@@ -6,7 +6,7 @@ You use this bot under the SI (super intelligence) Agent Disclaimer v2.0 (https:
 | --- | --- |
 | Original template | https://x.ai/bot/Z8aPXNVasH1ogYkAuCMIZ |
 | Creator | Code Solutions ([@CodeSolutionsIL](https://x.com/CodeSolutionsIL)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/computer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/computer), [grokbothq.xyz](https://grokbothq.xyz/bots/computer-issue-control), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/computer) |
 | Fidelity | **full** (full recipe, template version 37) |
 | Contents | 15 skills, 0 routines, 0 memory seeds, 0 connectors |

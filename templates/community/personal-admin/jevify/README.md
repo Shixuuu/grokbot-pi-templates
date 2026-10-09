@@ -6,7 +6,7 @@ Turns classify/score/check Grok Bots into TypeSafe Jev Fast siblings — one bat
 | --- | --- |
 | Original template | https://x.ai/bot/BQZO1Huih7uXStkjQ12ld |
 | Creator | Bartas Urba ([@bartasurba](https://x.com/bartasurba)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jevify), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jevify), [grokbothq.xyz](https://grokbothq.xyz/bots/jevify), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jevify), [x-research](https://botsdots.site/templates/jevify) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

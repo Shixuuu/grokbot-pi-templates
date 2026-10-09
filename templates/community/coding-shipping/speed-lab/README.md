@@ -6,7 +6,7 @@ Autoresearch loop for render speed. Asks whether to run it itself or launch a cl
 | --- | --- |
 | Original template | https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5 |
 | Creator | Jacob Miller ([@pwnies](https://x.com/pwnies)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/speed-lab), [grokbotwiki.com](https://www.grokbotwiki.com/bots/speed-lab), [grokbothq.xyz](https://grokbothq.xyz/bots/speed-lab), [templatebot.lol](https://templatebot.lol/bot/LEbVr_WZ-cym7XwIm7xf5), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/speed-lab), [x-research](https://botsdots.site/templates/speed-lab) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

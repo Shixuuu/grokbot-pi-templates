@@ -6,7 +6,7 @@ Partner marketing and channel GTM advisor with a BD mindset. Builds partner prog
 | --- | --- |
 | Original template | https://x.ai/bot/K4xNPsHhEMOnjN55Au-hf |
 | Creator | Mike Conley ([@MikeCast](https://x.com/MikeCast)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ally-k4xn), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ally-k4xn), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ally-k4xn) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

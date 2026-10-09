@@ -6,7 +6,7 @@ Drafts Outlook replies with the free Outlook Mail plugin and only sends after yo
 | --- | --- |
 | Original template | https://x.ai/bot/2hd5RXfcTepic9O-O83Ri |
 | Creator | Bosotter |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/outlook-mail-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/outlook-mail-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/outlook-mail-desk) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 1 connectors |

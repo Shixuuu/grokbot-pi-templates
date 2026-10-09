@@ -6,7 +6,7 @@ Live production QA. One job: recert live as a real user after a ship, then file 
 | --- | --- |
 | Original template | https://x.ai/bot/WbSwyVYZIDpuebmfBW45L |
 | Creator | duyet le |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/WbSwyVYZIDpuebmfBW45L) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 1 connectors |

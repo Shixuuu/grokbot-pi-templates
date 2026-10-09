@@ -6,7 +6,7 @@ Helps protect a student’s academic progress during unexpected emergencies — 
 | --- | --- |
 | Original template | https://x.ai/bot/Ye7Z9FkWcu9r4IeDj8srT |
 | Creator | Jay Chauhan ([@jaychauhangoat](https://x.com/jaychauhangoat)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lifeline), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lifeline), [grokbothq.xyz](https://grokbothq.xyz/bots/lifeline), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/lifeline) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

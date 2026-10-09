@@ -6,7 +6,7 @@ An engineering lead that runs Cursor cloud agents for you. It plans the work, la
 | --- | --- |
 | Original template | https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w |
 | Creator | Jeff DeJaegher ([@DejaegherJeff](https://x.com/DejaegherJeff)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/software-conductor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/software-conductor), [grokbothq.xyz](https://grokbothq.xyz/bots/software-conductor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/software-conductor), [x-research](https://botsdots.site/templates/software-conductor) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 12 memory seeds, 1 connectors |

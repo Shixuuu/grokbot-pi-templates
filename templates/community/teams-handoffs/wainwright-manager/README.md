@@ -6,7 +6,7 @@ Most Grok Bots try to do five jobs and get messy fast. Wainwright Manager helps 
 | --- | --- |
 | Original template | https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A |
 | Creator | Ryan Lenk ([@itsryanlenk](https://x.com/itsryanlenk)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wainwright-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/wainwright-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/wainwright-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/wainwright-manager), [x-research](https://x.com/itsryanlenk/status/2100335862399553579) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 7 skills, 0 routines, 3 memory seeds, 0 connectors |

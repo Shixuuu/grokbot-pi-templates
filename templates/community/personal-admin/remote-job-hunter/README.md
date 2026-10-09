@@ -6,7 +6,7 @@ Finds remote openings on company career sites, applies on the employer's ATS, ke
 | --- | --- |
 | Original template | https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS |
 | Creator | TKR ([@IRENCIFR](https://x.com/IRENCIFR)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/remote-job-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/remote-job-hunter), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/remote-job-hunter), [x-research](https://x.com/IRENCIFR/status/2107656410385539206) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 2 routines, 5 memory seeds, 3 connectors |

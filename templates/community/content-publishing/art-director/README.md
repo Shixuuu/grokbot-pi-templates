@@ -6,7 +6,7 @@ An art director and graphic designer that runs your brand's Instagram. It hunts 
 | --- | --- |
 | Original template | https://x.ai/bot/CPsMufoHozETWciYoiqvL |
 | Creator | Carlos ([@Carlos_Arthurr](https://x.com/Carlos_Arthurr)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/art-director), [grokbotwiki.com](https://www.grokbotwiki.com/bots/art-director), [grokbothq.xyz](https://grokbothq.xyz/bots/art-director), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/art-director), [x-research](https://botsdots.site/templates/art-director) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 15 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Reads your inbox for recurring charges, marks monthly vs yearly, and shows where
 | --- | --- |
 | Original template | https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0 |
 | Creator | Taha ([@tahaabuilds](https://x.com/tahaabuilds)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/subcut), [grokbotwiki.com](https://www.grokbotwiki.com/bots/subcut), [grokbothq.xyz](https://grokbothq.xyz/bots/subcut), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/MzuJZpvaIK2KpexUVY-V0), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/subcut), [x-research](https://botsdots.site/templates/subcut) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 1 connectors |

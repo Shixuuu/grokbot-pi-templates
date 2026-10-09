@@ -6,7 +6,7 @@ Chief of staff and personal secretary for busy, high-stakes life admin. Scans em
 | --- | --- |
 | Original template | https://x.ai/bot/bko5cKY1YJSBuKs7WOHqd |
 | Creator | Kim Hoffman ([@KimHoffCarp](https://x.com/KimHoffCarp)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gretta), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gretta), [grokbothq.xyz](https://grokbothq.xyz/bots/gretta), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/gretta) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 11 memory seeds, 2 connectors |

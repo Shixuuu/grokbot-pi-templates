@@ -6,7 +6,7 @@ Coordinates a conflict-intelligence desk: daily WW3-risk and AI-in-conflict dige
 | --- | --- |
 | Original template | https://x.ai/bot/3l5q_rso0yE9KpJO9nYTi |
 | Creator | Alamandorious ([@alamandorious](https://x.com/alamandorious)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-conflict-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-conflict-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-conflict-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-conflict-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Hub bot for Announcr: speak updates out loud, Notes, queue, and reminders. Other
 | --- | --- |
 | Original template | https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ |
 | Creator | Dave Young ([@the_davey](https://x.com/the_davey)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/announcr-voice), [botsdots.site](https://botsdots.site/templates/announcr-voice), [grokbotwiki.com](https://www.grokbotwiki.com/bots/announcr-voice), [grokbothq.xyz](https://grokbothq.xyz/bots/announcr-voice), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/h-Vxewn8CGFLx6qrzNUJJ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/announcr-voice), [x-research](https://x.com/the_davey/status/2098211142694764750) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

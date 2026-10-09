@@ -6,7 +6,7 @@ Name any app and get its keyboard shortcut cheat sheet from Hotkey Atlas as a cl
 | --- | --- |
 | Original template | https://x.ai/bot/KhXWuSeezuQSgDJViuh9C |
 | Creator | Kevin Rank ([@KevinTweets1](https://x.com/KevinTweets1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hotkey-lookup), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hotkey-lookup), [grokbothq.xyz](https://grokbothq.xyz/bots/hotkey-lookup), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/hotkey-lookup) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

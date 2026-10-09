@@ -6,7 +6,7 @@ Single front door for a construction PM or superintendent shop. Reads mail and c
 | --- | --- |
 | Original template | https://x.ai/bot/dZfz-QuarMKqQo_mdPhbb |
 | Creator | Ryan J Roggy ([@RoggyRyan](https://x.com/RoggyRyan)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-dzfz), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-dzfz), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-22), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-2), [x-research](https://botsdots.site/templates/chief-of-staff-dzfz) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 10 skills, 0 routines, 11 memory seeds, 4 connectors |

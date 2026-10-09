@@ -6,7 +6,7 @@ Turns your long videos into ready-to-post vertical clips: best moments picked, 9
 | --- | --- |
 | Original template | https://x.ai/bot/7uDg8aSUrT6Zn4l2qaaUF |
 | Creator | Falcon Ortiz ([@falconortiz](https://x.com/falconortiz)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/short-form-video-editor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/short-form-video-editor), [grokbothq.xyz](https://grokbothq.xyz/bots/short-form-video-editor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/short-form-video-editor) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

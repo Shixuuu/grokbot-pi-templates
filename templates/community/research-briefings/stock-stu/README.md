@@ -6,7 +6,7 @@ Checks your stock picks each day and surfaces what moved, what to watch, and wha
 | --- | --- |
 | Original template | https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO |
 | Creator | Frank Gonzalez ([@FrankFindsOut](https://x.com/FrankFindsOut)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stock-stu), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stock-stu), [grokbothq.xyz](https://grokbothq.xyz/bots/stock-stu), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stock-stu), [x-research](https://botsdots.site/templates/stock-stu) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Autonomous Coinbase shitcoin desk. Trades a small USDC sleeve you can afford to 
 | --- | --- |
 | Original template | https://x.ai/bot/FZ2y08eidLg4yvW5ygz01 |
 | Creator | Mike Yeager ([@mikepat711](https://x.com/mikepat711)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/shitcoin-bot), [botsdots.site](https://botsdots.site/templates/shitcoin-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shitcoin-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/shitcoin-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/mikepat711/status/2097091461011390974) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 2 routines, 13 memory seeds, 0 connectors |

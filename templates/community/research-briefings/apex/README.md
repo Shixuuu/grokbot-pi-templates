@@ -6,7 +6,7 @@ A research partner for when you don't know the right question yet. Apex turns me
 | --- | --- |
 | Original template | https://x.ai/bot/_BZaF6XfMK_kPsmrLSqRK |
 | Creator | AquaShadowKing ([@ShadowMonkeyMan](https://x.com/ShadowMonkeyMan)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/apex), [grokbotwiki.com](https://www.grokbotwiki.com/bots/apex), [grokbothq.xyz](https://grokbothq.xyz/bots/apex), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/apex) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 0 connectors |

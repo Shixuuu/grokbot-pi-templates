@@ -6,7 +6,7 @@ A Grok Bot shipping partner for Imagine films and real product loops. Lipsync-fi
 | --- | --- |
 | Original template | https://x.ai/bot/3rV7gv1k94G6gCG_arFLr |
 | Creator | Jon Rose ([@Jon_Rose_](https://x.com/Jon_Rose_)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mentor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mentor-3rv7), [grokbothq.xyz](https://grokbothq.xyz/bots/mentor-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mentor), [x-research](https://botsdots.site/templates/mentor) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 0 routines, 6 memory seeds, 1 connectors |

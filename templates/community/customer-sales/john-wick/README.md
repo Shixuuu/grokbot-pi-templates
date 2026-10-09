@@ -6,7 +6,7 @@ Get the owner to the person inside a target company who can actually move the de
 | --- | --- |
 | Original template | https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7 |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/john-wick), [botsdots.site](https://botsdots.site/templates/john-wick), [grokbotwiki.com](https://www.grokbotwiki.com/bots/john-wick), [grokbothq.xyz](https://grokbothq.xyz/bots/john-wick), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/_OlL8LPI6lc2xi82F4Gf7), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/john-wick), [x-research](https://x.com/liam_fallen/status/2093383148906184985) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Alpha v0.1 (Cryptocurrency Research). Investigate Solana tokens, creator wallets
 | --- | --- |
 | Original template | https://x.ai/bot/8bejcaowvfevjsupsl1pt |
 | Creator | unknown |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rugradar-ai-8bej), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/rugradar-ai-8bej) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

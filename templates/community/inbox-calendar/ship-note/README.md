@@ -6,7 +6,7 @@ For teams that shipped and nobody outside knows. Paste what shipped; get a chang
 | --- | --- |
 | Original template | https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL |
 | Creator | Sol Wright ([@sol_wright7](https://x.com/sol_wright7)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ship-note), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ship-note), [grokbothq.xyz](https://grokbothq.xyz/bots/ship-note), [templatebot.lol](https://templatebot.lol/bot/xMCiRCmOCYLeRzW8nS6EL), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ship-note), [x-research](https://x.com/sol_wright7/status/2093809370958098813) |
 | Fidelity | **full** (full recipe, template version 23) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

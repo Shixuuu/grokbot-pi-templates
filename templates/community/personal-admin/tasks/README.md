@@ -6,7 +6,7 @@ Your single daily check-in board: To-Do | Proposed | Upcoming | Recently Complet
 | --- | --- |
 | Original template | https://x.ai/bot/BcK_tur9AvL1GiGDk3yVg |
 | Creator | Nate Nordstrom ([@natenords](https://x.com/natenords)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tasks), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tasks), [grokbothq.xyz](https://grokbothq.xyz/bots/tasks), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tasks) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 4 routines, 8 memory seeds, 2 connectors |

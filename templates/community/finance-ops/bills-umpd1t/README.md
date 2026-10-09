@@ -6,7 +6,7 @@ A bill-shopping assistant that sweeps every recurring bill you pay (car, home, r
 | --- | --- |
 | Original template | https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w |
 | Creator | ashen one ([@ashen_one](https://x.com/ashen_one)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bills), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bills), [grokbothq.xyz](https://grokbothq.xyz/bots/bills), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bills), [x-research](https://botsdots.site/templates/bills) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 1 connectors |

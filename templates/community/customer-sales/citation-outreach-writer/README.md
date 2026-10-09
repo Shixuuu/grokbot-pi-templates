@@ -6,7 +6,7 @@ Writes short mention-outreach emails and loads them into a Smartlead draft seque
 | --- | --- |
 | Original template | https://x.ai/bot/L4sWZ2981T7YzegQffkVz |
 | Creator | Dawood Khan ([@dawoodkhan254](https://x.com/dawoodkhan254)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/citation-outreach-writer), [grokbothq.xyz](https://grokbothq.xyz/bots/citation-outreach-writer), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/dawoodkhan254/status/2094451439573881015) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 1 connectors |

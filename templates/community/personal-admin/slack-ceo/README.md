@@ -6,7 +6,7 @@ CEO Slack chief of staff: weekday scans that flag issues and thumbs-up wins, plu
 | --- | --- |
 | Original template | https://x.ai/bot/4LjJV0yXRkfu0D5NfQyZz |
 | Creator | Scott K ([@lamps109](https://x.com/lamps109)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/slack-ceo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/slack-ceo), [grokbothq.xyz](https://grokbothq.xyz/bots/slack-ceo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/slack-ceo), [x-research](https://x.com/lamps109/status/2101738549754143164) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 1 connectors |

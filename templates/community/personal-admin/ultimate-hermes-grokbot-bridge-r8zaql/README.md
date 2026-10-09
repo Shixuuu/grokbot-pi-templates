@@ -6,7 +6,7 @@ This puts a hermes agent bot inside your grokbot app, and let's you use either H
 | --- | --- |
 | Original template | https://x.ai/bot/R8ZaqL5ZH9x4PjtsGsar5 |
 | Creator | Shagghie Superstar ([@PixelRainbowNFT](https://x.com/PixelRainbowNFT)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ultimate-hermesgrokbot-bridge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ultimate-hermes-grok-bridge), [grokbothq.xyz](https://grokbothq.xyz/bots/ultimate-hermes-grokbot-bridge), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ultimate-hermes-grokbot-bridge), [x-research](https://botsdots.site/templates/ultimate-hermesgrokbot-bridge) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 9 skills, 0 routines, 11 memory seeds, 0 connectors |

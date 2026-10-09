@@ -6,7 +6,7 @@ Sofa Scout for weekend decision fatigue: matches new streaming drops and books t
 | --- | --- |
 | Original template | https://x.ai/bot/ZWTGhNVARIZ2NOOKKFP-R |
 | Creator | Turac ([@TuracTheThinker](https://x.com/TuracTheThinker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/weekend-roster), [grokbotwiki.com](https://www.grokbotwiki.com/bots/weekend-roster), [grokbothq.xyz](https://grokbothq.xyz/bots/weekend-roster), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/TuracTheThinker/status/2096975007163490643) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

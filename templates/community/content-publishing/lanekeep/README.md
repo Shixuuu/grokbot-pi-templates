@@ -6,7 +6,7 @@ File layer for a multi-bot swarm on one shared drive. Owns inbox, routing, lease
 | --- | --- |
 | Original template | https://x.ai/bot/IvGrljJfOW6biGe_8eOJ0 |
 | Creator | D'Artagnan ([@the_Arow_H](https://x.com/the_Arow_H)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lanekeep), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lanekeep), [grokbothq.xyz](https://grokbothq.xyz/bots/lanekeep), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/the_Arow_H/status/2107556579784487015) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 1 connectors |

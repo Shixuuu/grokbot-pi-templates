@@ -6,7 +6,7 @@ Finds openings that match your rules, verifies each company's live apply page, s
 | --- | --- |
 | Original template | https://x.ai/bot/FhlGOrrO08-hVoxT1NGq7 |
 | Creator | Brian's Brain ([@Brian](https://x.com/Brian)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hirematch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hirematch), [grokbothq.xyz](https://grokbothq.xyz/bots/hirematch), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/hirematch) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 1 connectors |

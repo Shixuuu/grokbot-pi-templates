@@ -6,7 +6,7 @@ Finds prospects that match your ideal customer, researches each one on the publi
 | --- | --- |
 | Original template | https://x.ai/bot/WDgRli6xhX8GDyqkp-a7w |
 | Creator | Bud Johnson ([@BudJohnson](https://x.com/BudJohnson)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/prospectacle), [botsdots.site](https://botsdots.site/templates/prospectacle), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prospectacle), [grokbothq.xyz](https://grokbothq.xyz/bots/prospectacle), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/BudJohnson/status/2096784053986906452) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 8 skills, 0 routines, 0 memory seeds, 0 connectors |

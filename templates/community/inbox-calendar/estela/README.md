@@ -6,7 +6,7 @@ Estratega de contenido B2B para un producto de confianza verificable (azar audit
 | --- | --- |
 | Original template | https://x.ai/bot/WEiDkWKCfiEQY7hBiq1NY |
 | Creator | Santi ([@randompick_info](https://x.com/randompick_info)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/estela), [grokbotwiki.com](https://www.grokbotwiki.com/bots/estela), [grokbothq.xyz](https://grokbothq.xyz/bots/estela), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/estela) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 7 memory seeds, 0 connectors |

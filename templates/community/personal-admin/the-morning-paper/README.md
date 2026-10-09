@@ -6,7 +6,7 @@ A daily morning paper for your US ZIP code, with live weather, local news, natio
 | --- | --- |
 | Original template | https://x.ai/bot/e5UBnGbfvCyML0pahKPNw |
 | Creator | Raildragon ([@MAGAmechanic60](https://x.com/MAGAmechanic60)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-morning-paper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-morning-paper), [grokbothq.xyz](https://grokbothq.xyz/bots/the-morning-paper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-morning-paper), [x-research](https://x.com/MAGAmechanic60/status/2103999477761896621) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 2 routines, 4 memory seeds, 0 connectors |

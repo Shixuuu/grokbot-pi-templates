@@ -6,7 +6,7 @@ Automatic pull request bug reviewer for the GitHub repos you pick, in the style 
 | --- | --- |
 | Original template | https://x.ai/bot/mXAP6VMDNxs4uLiv2B2HW |
 | Creator | zachery miller ([@ZryMiller](https://x.com/ZryMiller)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-analyzer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-analyzer), [grokbothq.xyz](https://grokbothq.xyz/bots/x-analyzer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/x-analyzer) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A pretend family bank: tracks each person's money in a private ledger, pays exac
 | --- | --- |
 | Original template | https://x.ai/bot/DKZKpx6r0GTrfLUUxqkWx |
 | Creator | Carolina Dill ([@CarolinaDill](https://x.com/CarolinaDill)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/familybank), [grokbotwiki.com](https://www.grokbotwiki.com/bots/familybank), [grokbothq.xyz](https://grokbothq.xyz/bots/familybank), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/familybank) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

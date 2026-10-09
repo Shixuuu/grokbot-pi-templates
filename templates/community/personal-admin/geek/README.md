@@ -6,7 +6,7 @@ Amigo geek que indica filme, série e anime pra assistir depois do trabalho, con
 | --- | --- |
 | Original template | https://x.ai/bot/u3Mfw056_h5uLofxqXeSu |
 | Creator | Simone J.Lima ([@simonejlima](https://x.com/simonejlima)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/geek), [grokbotwiki.com](https://www.grokbotwiki.com/bots/geek), [grokbothq.xyz](https://grokbothq.xyz/bots/geek), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/geek), [x-research](https://botsdots.site/templates/geek) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 1 connectors |

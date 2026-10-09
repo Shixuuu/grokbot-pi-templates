@@ -6,7 +6,7 @@ Fantasy Football GM with a Wire/Usage/Market/Desk staff pipeline for start/sit, 
 | --- | --- |
 | Original template | https://x.ai/bot/HvJZI9Kj-DIyFEk309CdD |
 | Creator | Matt Kim ([@mattkim1](https://x.com/mattkim1)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-gm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-gm), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-football-gm), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-football-gm), [x-research](https://x.com/mattkim1/status/2104432967565312018) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 8 skills, 0 routines, 9 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Layers out of a stock on the way up and layers back in cheaper, so a round trip 
 | --- | --- |
 | Original template | https://x.ai/bot/nytlUhse6wVKY4qyTpaLE |
 | Creator | Sam E ([@SamE](https://x.com/SamE)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stock-lilo-strategy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stock-lilo-strategy), [grokbothq.xyz](https://grokbothq.xyz/bots/stock-lilo-strategy), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/stock-lilo-strategy) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

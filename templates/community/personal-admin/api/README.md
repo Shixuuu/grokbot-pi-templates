@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF |
 | Creator | valstry 0218 ([@Valstry](https://x.com/Valstry)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/api), [grokbotwiki.com](https://www.grokbotwiki.com/bots/api), [grokbothq.xyz](https://grokbothq.xyz/bots/jichu-sheshi-api-jieru), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Valstry/status/2098459028732911761) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 0 connectors |

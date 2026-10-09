@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/oeleu0-tnhtxbvrlffg7b |
 | Creator | Cypher Monkey |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/runbook-desk-step-sure-oele), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/runbook-desk-step-sure-oele) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

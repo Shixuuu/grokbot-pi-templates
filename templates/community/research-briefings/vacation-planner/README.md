@@ -6,7 +6,7 @@ Plan vacations, compare flights and cruises, find stays, build itineraries, hand
 | --- | --- |
 | Original template | https://x.ai/bot/cr8KAg2sp0Nyam7-QF-jh |
 | Creator | McDubleNOpickle ([@McDubleNOpickle](https://x.com/McDubleNOpickle)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-agent-cr8k), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-agent-cr8k), [grokbothq.xyz](https://grokbothq.xyz/bots/vacation-planner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/travel-agent-cr8k) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 7 skills, 1 routines, 6 memory seeds, 0 connectors |

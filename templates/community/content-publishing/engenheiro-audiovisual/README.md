@@ -6,7 +6,7 @@ Gera artes de carrossel e post estático no Instagram a partir de briefings de c
 | --- | --- |
 | Original template | https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6 |
 | Creator | Gabriel Adamuchi - Inteligência Artificial ([@adamuchigabriel](https://x.com/adamuchigabriel)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/engenheiro-audiovisual), [grokbotwiki.com](https://www.grokbotwiki.com/bots/engenheiro-audiovisual), [grokbothq.xyz](https://grokbothq.xyz/bots/engenheiro-audiovisual), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/w1pUFhCx2VCJgv8Yhvzu6), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/engenheiro-audiovisual), [x-research](https://botsdots.site/templates/engenheiro-audiovisual) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

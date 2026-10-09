@@ -6,7 +6,7 @@ A household budget and credit-card assistant. Runs a zero-sum budget in Google S
 | --- | --- |
 | Original template | https://x.ai/bot/JOeuvpFg4v2VAuYX8H0UM |
 | Creator | James ([@yoshih543](https://x.com/yoshih543)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quartermaster), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quartermaster), [grokbothq.xyz](https://grokbothq.xyz/bots/quartermaster), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/quartermaster), [x-research](https://x.com/yoshih543/status/2104072319190859796) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 3 routines, 12 memory seeds, 4 connectors |

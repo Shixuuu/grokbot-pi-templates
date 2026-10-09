@@ -6,7 +6,7 @@ Designs custom Tesla wraps right in chat from a text prompt or an uploaded image
 | --- | --- |
 | Original template | https://x.ai/bot/0I8SH6XKWmBYc2HynER9i |
 | Creator | Matthew Dodds ([@Matty_O_D](https://x.com/Matty_O_D)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-paint-booth), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-paint-booth), [grokbothq.xyz](https://grokbothq.xyz/bots/tesla-paint-booth), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/tesla-paint-booth) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

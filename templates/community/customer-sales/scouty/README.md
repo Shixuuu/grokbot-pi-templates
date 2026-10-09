@@ -6,7 +6,7 @@ A hidden-gem supplier scout. It finds specialist companies, contractors and serv
 | --- | --- |
 | Original template | https://x.ai/bot/nHcd0TQbcY0pJ38YzdbU8 |
 | Creator | Andrea Pasqualotto ([@logicZA12](https://x.com/logicZA12)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scouty-nhcd), [grokbothq.xyz](https://grokbothq.xyz/bots/scouty-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/scouty-nhcd) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

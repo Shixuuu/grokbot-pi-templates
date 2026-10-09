@@ -6,7 +6,7 @@ A gaming sidekick for news, deals, builds, tips, and stock watches — keeps an 
 | --- | --- |
 | Original template | https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk |
 | Creator | Edward Battistini ([@egcbatt](https://x.com/egcbatt)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/gamer-bro), [botsdots.site](https://botsdots.site/templates/gamer-bro), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gamer-bro), [grokbothq.xyz](https://grokbothq.xyz/bots/gamer-bro), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gamer-bro), [x-research](https://x.com/egcbatt/status/2097457102092456442) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

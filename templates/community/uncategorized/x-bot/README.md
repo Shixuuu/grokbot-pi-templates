@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/h0YtWQyxMfHnedrjMsnOR |
 | Creator | わど🐏AI界のマスコット |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/wad0427/status/2108470777402335237) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ One-stop finance Controller for first-principles, full-automation accounting. Op
 | --- | --- |
 | Original template | https://x.ai/bot/_XFuh52J-TXU1pLEvWxYs |
 | Creator | Samuel Riddle ([@Sdriddle](https://x.com/Sdriddle)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/steward-xfuh), [grokbotwiki.com](https://www.grokbotwiki.com/bots/steward-xfuh), [grokbothq.xyz](https://grokbothq.xyz/bots/steward-samuel-riddle), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/steward-xfuh) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 11 skills, 0 routines, 17 memory seeds, 0 connectors |

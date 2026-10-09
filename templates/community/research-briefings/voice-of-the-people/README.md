@@ -6,7 +6,7 @@ Watches public X for customer feedback on a topic you choose, then flags only th
 | --- | --- |
 | Original template | https://x.ai/bot/8Snl1TovbMwClPoBiHrWT |
 | Creator | Emily Gavrilenko ([@DenisLabelle](https://x.com/DenisLabelle)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/voice-of-the-people), [grokbotwiki.com](https://www.grokbotwiki.com/bots/voice-of-the-people), [grokbothq.xyz](https://grokbothq.xyz/bots/voice-of-the-people-8snl1t), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/egavrilenko11/status/2095604008555893015) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 1 connectors |

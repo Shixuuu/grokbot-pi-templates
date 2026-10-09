@@ -6,7 +6,7 @@ A coach that helps one person write their first Grok Bot. It writes one brief. T
 | --- | --- |
 | Original template | https://x.ai/bot/Z7mWuQwWmnR-im3F7Hyh1 |
 | Creator | Anand ([@anandVragav](https://x.com/anandVragav)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/brief), [grokbothq.xyz](https://grokbothq.xyz/bots/brief), [templatebot.lol](https://templatebot.lol/bot/Z7mWuQwWmnR-im3F7Hyh1), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/brief), [x-research](https://botsdots.site/templates/brief) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

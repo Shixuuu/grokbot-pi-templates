@@ -6,7 +6,7 @@ Time zones, clock changes, and meeting times, in plain language, using live look
 | --- | --- |
 | Original template | https://x.ai/bot/GAeRrX2qS5pjHwImZx46e |
 | Creator | hkchao ([@findtime_](https://x.com/findtime_)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/time-intelligence), [grokbotwiki.com](https://www.grokbotwiki.com/bots/time-intelligence), [grokbothq.xyz](https://grokbothq.xyz/bots/time-intelligence), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/time-intelligence) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

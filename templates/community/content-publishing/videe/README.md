@@ -6,7 +6,7 @@ A video editor bot for podcasts, YouTube long-form and short-form clips. It sync
 | --- | --- |
 | Original template | https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT |
 | Creator | nickgaiski |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/videe), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/videe), [x-research](https://x.com/nickgaiski/status/2107944084530733262) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 25 skills, 0 routines, 9 memory seeds, 3 connectors |

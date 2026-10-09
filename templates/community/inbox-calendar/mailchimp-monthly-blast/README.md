@@ -6,7 +6,7 @@ Drafts and sends a monthly Mailchimp email blast (last month, this month, upcomi
 | --- | --- |
 | Original template | https://x.ai/bot/lcGQv8_I7UvJEWs3833LR |
 | Creator | Lovable Curves ([@BastropYR](https://x.com/BastropYR)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/yr-mailchimp), [botsdots.site](https://botsdots.site/templates/mailchimp-monthly-blast), [grokbotwiki.com](https://www.grokbotwiki.com/bots/yr-mailchimp), [grokbothq.xyz](https://grokbothq.xyz/bots/yr-mailchimp-by-lovable-lcGQv8_I), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mailchimp-monthly-blast), [x-research](https://x.com/BastropYR/status/2096214141249749312) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Audits and tightens an offer using Alex Hormozi's $100M Offers frameworks: Grand
 | --- | --- |
 | Original template | https://x.ai/bot/Lq3agwG85x4dhZPOVcSHh |
 | Creator | Arturo Rodés ([@arturorodes](https://x.com/arturorodes)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hormozi-offers), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hormozi-offers), [grokbothq.xyz](https://grokbothq.xyz/bots/hormozi-offers), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/hormozi-offers) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

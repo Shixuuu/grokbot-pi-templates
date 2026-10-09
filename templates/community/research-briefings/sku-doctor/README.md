@@ -6,7 +6,7 @@ Sourcing-finance analyst for marketplace sellers. Flags which SKUs still make mo
 | --- | --- |
 | Original template | https://x.ai/bot/uCLHK1cqHXnKeUqWfYat4 |
 | Creator | Zaeem Khan |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sku-doctor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sku-doctor), [grokbothq.xyz](https://grokbothq.xyz/bots/sku-doctor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sku-doctor) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 2 routines, 8 memory seeds, 3 connectors |

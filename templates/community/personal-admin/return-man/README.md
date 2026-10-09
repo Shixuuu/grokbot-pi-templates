@@ -6,7 +6,7 @@ Watches your Amazon orders for things that probably need to go back, like extra 
 | --- | --- |
 | Original template | https://x.ai/bot/TaE2o0Y-lp8MpmBDC1jos |
 | Creator | Corey Blevins ([@cjblev](https://x.com/cjblev)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/return-man), [grokbotwiki.com](https://www.grokbotwiki.com/bots/return-man), [grokbothq.xyz](https://grokbothq.xyz/bots/return-man), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/return-man), [x-research](https://botsdots.site/templates/return-man) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 2 routines, 0 memory seeds, 0 connectors |

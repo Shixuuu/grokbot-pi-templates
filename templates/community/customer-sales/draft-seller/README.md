@@ -6,7 +6,7 @@ Photos in → comps, ask price, and listing draft. Inbox checks draft buyer repl
 | --- | --- |
 | Original template | https://x.ai/bot/4B2bBEXQ-c4c3JT8eMvyh |
 | Creator | Dode ([@dode](https://x.com/dode)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/draft-seller), [grokbotwiki.com](https://www.grokbotwiki.com/bots/marketplace-seller-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/draft-seller), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/draft-seller) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

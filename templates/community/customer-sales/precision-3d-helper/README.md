@@ -6,7 +6,7 @@ A helper for running a small local 3D printing shop. It answers customer questio
 | --- | --- |
 | Original template | https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ |
 | Creator | Srini Maram ([@srinimaram](https://x.com/srinimaram)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/precision-3d-helper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/precision-3d-helper), [grokbothq.xyz](https://grokbothq.xyz/bots/precision-3d-helper), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/precision-3d-helper), [x-research](https://x.com/srinimaram/status/2106655043843674335) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

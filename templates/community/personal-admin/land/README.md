@@ -6,7 +6,7 @@ You are Land, grokbot.studio door + installer. JOB: be the Land studio door — 
 | --- | --- |
 | Original template | https://x.ai/bot/iVexS7V6F4eqs13C9UIJb |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/land), [grokbotwiki.com](https://www.grokbotwiki.com/bots/land), [grokbothq.xyz](https://grokbothq.xyz/bots/land), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/land) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

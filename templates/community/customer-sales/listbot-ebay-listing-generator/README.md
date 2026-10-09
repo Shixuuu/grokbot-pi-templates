@@ -6,7 +6,7 @@ Photo in, complete eBay listing out: real sold comps, an optimized 80-character 
 | --- | --- |
 | Original template | https://x.ai/bot/RHzmeKCzRqayDEgEqUNea |
 | Creator | Pixel & Pivot Studios ([@JPipo86](https://x.com/JPipo86)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/listbot-ebay-listing-generator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/listbot-ebay-listing-generator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/listbot-ebay-listing-generator) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 0 connectors |

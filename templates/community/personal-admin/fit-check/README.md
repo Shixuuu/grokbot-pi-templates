@@ -6,7 +6,7 @@ A personal style assistant that gives outfit ideas for any day or event, honest 
 | --- | --- |
 | Original template | https://x.ai/bot/YObVEKxqYvofsdaPCRdj3 |
 | Creator | Bryan Gislason ([@BryanGislason](https://x.com/BryanGislason)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fit-check), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fit-check), [grokbothq.xyz](https://grokbothq.xyz/bots/fit-check), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fit-check), [x-research](https://botsdots.site/templates/fit-check) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

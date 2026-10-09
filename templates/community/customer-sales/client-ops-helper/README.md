@@ -6,7 +6,7 @@ Ops helper for small service businesses adopting AI. Starts with the CEO’s per
 | --- | --- |
 | Original template | https://x.ai/bot/ePHe68qUal43USIgqKghR |
 | Creator | laila Deeb ([@LailaDeeb1](https://x.com/LailaDeeb1)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/client-ops-helper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/client-ops-helper), [grokbothq.xyz](https://grokbothq.xyz/bots/client-ops-helper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/client-ops-helper) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

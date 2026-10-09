@@ -6,7 +6,7 @@ Morning wisdom newspaper bot. Each day it researches and writes a one-page print
 | --- | --- |
 | Original template | https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj |
 | Creator | Carbon Coder ([@Carbonthecoder](https://x.com/Carbonthecoder)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/newspaper), [botsdots.site](https://botsdots.site/templates/newspaper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/newspaper), [grokbothq.xyz](https://grokbothq.xyz/bots/newspaper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/newspaper), [x-research](https://x.com/Carbonthecoder/status/2098497266482864275) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 8 memory seeds, 0 connectors |

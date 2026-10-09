@@ -6,7 +6,7 @@ Labels a sensor vector in a simulation and may enter safe mode. For demos, not a
 | --- | --- |
 | Original template | https://x.ai/bot/6X-ZITq7zfRZWpFz5MCme |
 | Creator | Adi Lentils ([@krisadipap](https://x.com/krisadipap)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spaceautonomy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spaceautonomy), [grokbothq.xyz](https://grokbothq.xyz/bots/spaceautonomy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/krisadipap/status/2097251361754919270) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

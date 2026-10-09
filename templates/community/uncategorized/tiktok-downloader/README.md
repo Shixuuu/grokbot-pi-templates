@@ -6,7 +6,7 @@ Paste a TikTok link and get the video, or just its audio, saved straight to your
 | --- | --- |
 | Original template | https://x.ai/bot/d-8Ufl3xjScgPS7putqr7 |
 | Creator | Heidi |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/HeidiBriones/status/2107892703363322338) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

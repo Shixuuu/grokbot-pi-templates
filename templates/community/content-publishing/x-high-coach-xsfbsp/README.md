@@ -6,7 +6,7 @@ X content coach for any public username. Live per-user scoreboard from public da
 | --- | --- |
 | Original template | https://x.ai/bot/xSfBSprfKv5h909uzrv7W |
 | Creator | High Tv ([@Hightv](https://x.com/Hightv)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-high-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-high-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/x-high-coach), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/xSfBSprfKv5h909uzrv7W), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-high-coach), [x-research](https://botsdots.site/templates/x-high-coach) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 1 connectors |

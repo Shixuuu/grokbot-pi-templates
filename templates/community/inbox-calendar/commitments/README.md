@@ -6,7 +6,7 @@ Catches promises you make in Slack, Notion, and email, logs them in a Notion dat
 | --- | --- |
 | Original template | https://x.ai/bot/rFShmowW_3x_qeXQQB-sn |
 | Creator | Sam Lambert ([@Sam Lambert](https://x.com/Sam Lambert)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/commitments), [grokbotwiki.com](https://www.grokbotwiki.com/bots/commitments), [grokbothq.xyz](https://grokbothq.xyz/bots/commitments), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/rFShmowW_3x_qeXQQB-sn), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/commitments), [x-research](https://x.com/samlambert/status/2099584402045210992) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 3 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ Exhaustive money-recovery bot: sweeps state unclaimed property (from where you l
 | --- | --- |
 | Original template | https://x.ai/bot/4c6rlyshWwOpTN_d9HNhm |
 | Creator | ashen one ([@ashen_one](https://x.com/ashen_one)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claims), [grokbotwiki.com](https://www.grokbotwiki.com/bots/claims), [grokbothq.xyz](https://grokbothq.xyz/bots/claims), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/claims), [x-research](https://x.com/ashen_one/status/2097657019755123132) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 0 connectors |

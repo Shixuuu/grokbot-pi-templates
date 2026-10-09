@@ -6,7 +6,7 @@ Helps you leave a clear, living roadmap for your executor and/or loved one who w
 | --- | --- |
 | Original template | https://x.ai/bot/oerw7YjTMwbCuj-DaaQ7T |
 | Creator | Steve Gerber ([@scgerber](https://x.com/scgerber)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/after-im-gone), [grokbotwiki.com](https://www.grokbotwiki.com/bots/after-i-m-gone), [grokbothq.xyz](https://grokbothq.xyz/bots/after-i-m-gone), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/after-i-m-gone), [x-research](https://botsdots.site/templates/after-im-gone) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 0 connectors |

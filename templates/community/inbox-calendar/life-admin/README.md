@@ -6,7 +6,7 @@ Catches the personal deadlines that cost money when they slip (renewals, tickets
 | --- | --- |
 | Original template | https://x.ai/bot/n-moXgKp8F22oS9xckCMt |
 | Creator | Cristopher Guido ([@crisships](https://x.com/crisships)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/life-admin), [grokbotwiki.com](https://www.grokbotwiki.com/bots/life-admin), [grokbothq.xyz](https://grokbothq.xyz/bots/life-admin), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/life-admin), [x-research](https://x.com/crisships/status/2106534311105294494) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 2 connectors |

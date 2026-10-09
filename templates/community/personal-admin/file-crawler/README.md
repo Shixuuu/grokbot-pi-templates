@@ -6,7 +6,7 @@ Construction admin helper that finds permit and job info in Google Drive, then a
 | --- | --- |
 | Original template | https://x.ai/bot/bNv8Ii8E5LgmB39kN5uyj |
 | Creator | Duncan Waring ([@Duncan Bob](https://x.com/Duncan Bob)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/file-crawler), [grokbotwiki.com](https://www.grokbotwiki.com/bots/file-crawler), [grokbothq.xyz](https://grokbothq.xyz/bots/file-crawler), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/DuncanBob4wln/status/2101844266699849806) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 1 connectors |

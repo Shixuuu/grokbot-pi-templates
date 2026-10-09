@@ -6,7 +6,7 @@ A fantasy football GM that runs your Sleeper and Yahoo leagues: drafts, waivers,
 | --- | --- |
 | Original template | https://x.ai/bot/uszqxwGlAmEQ_38nEcT5A |
 | Creator | Tyler Nishida ([@TylerNishida](https://x.com/TylerNishida)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/fantasy-gm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-gm-blank-slate), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-gm-uszqxw), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/uszqxwGlAmEQ_38nEcT5A), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/TylerNishida/status/2095369440162709783) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 5 skills, 13 routines, 31 memory seeds, 0 connectors |

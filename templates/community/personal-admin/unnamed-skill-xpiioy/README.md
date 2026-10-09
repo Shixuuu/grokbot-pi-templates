@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/XPiIoybgpw_Oo2QmOQ9AR |
 | Creator | フクベイ｜健康食アンバサダー ([@fukubae_kenko_](https://x.com/fukubae_kenko_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-xpii), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-xpii), [grokbothq.xyz](https://grokbothq.xyz/bots/next-day-meal-planner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/next-day-meal-planner), [x-research](https://x.com/fukubae_kenko_/status/2104677541206540547) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ A 5-minute onboarding bot: short questionnaire, then it spawns the bots you need
 | --- | --- |
 | Original template | https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1 |
 | Creator | Vincent Zhu ([@vincentzhu](https://x.com/vincentzhu)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spark), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spark-onboarding), [grokbothq.xyz](https://grokbothq.xyz/bots/spark-onboarding), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/_2vi1lOY4oiBaJDA3S8l1), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/spark-onboarding), [x-research](https://x.com/vincentzhu/status/2093382794630377806) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

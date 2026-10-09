@@ -6,7 +6,7 @@ Watches one GitHub repo’s PRs and alerts only when you must act — review, CI
 | --- | --- |
 | Original template | https://x.ai/bot/0H8E1nLauCXfmMcuHgHK8 |
 | Creator | Mike Mosley ([@DoonerDesigns_](https://x.com/DoonerDesigns_)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pr-babysitter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pr-babysitter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/pr-babysitter) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

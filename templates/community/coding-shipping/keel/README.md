@@ -6,7 +6,7 @@ Stops a working bot from grading its own homework. You write a frozen charter; a
 | --- | --- |
 | Original template | https://x.ai/bot/ihO8Wlq7PACw6fUF-AhGq |
 | Creator | D'Artagnan ([@the_Arow_H](https://x.com/the_Arow_H)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/keel), [grokbotwiki.com](https://www.grokbotwiki.com/bots/keel), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/keel) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

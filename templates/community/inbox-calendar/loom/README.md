@@ -6,7 +6,7 @@ Gathers context across related Gmail threads and drafts a reply. Never sends, de
 | --- | --- |
 | Original template | https://x.ai/bot/cElGnAaR55iPHK2DGdPdu |
 | Creator | lauren 🎀 ([@poteto](https://x.com/poteto)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/loom), [grokbotwiki.com](https://www.grokbotwiki.com/bots/loom), [grokbothq.xyz](https://grokbothq.xyz/bots/loom), [templatebot.lol](https://templatebot.lol/bot/cElGnAaR55iPHK2DGdPdu), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/loom), [x-research](https://botsdots.site/templates/loom) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 1 connectors |

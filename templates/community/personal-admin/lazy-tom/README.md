@@ -6,7 +6,7 @@ A dry, low-effort assistant that does the smallest useful thing and then stops. 
 | --- | --- |
 | Original template | https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb |
 | Creator | duyet le |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lazy-tom), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lazy-tom), [grokbothq.xyz](https://grokbothq.xyz/bots/lazy-tom), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/YD0mAEdVZeEanyWTuY_vb), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/lazy-tom) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Open-source Blockchain Data Expert for subgraph Q&A. Uses The Graph official MCP
 | --- | --- |
 | Original template | https://x.ai/bot/xqZS2HUq3XEoQ8oaH0LnA |
 | Creator | Derek | Data Nexus ([@data_nexus](https://x.com/data_nexus)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/blockchain-data-expert-xqzs), [grokbothq.xyz](https://grokbothq.xyz/bots/blockchain-data-expert), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [x-research](https://grokbothq.xyz/bots/blockchain-data-expert) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 5 memory seeds, 0 connectors |

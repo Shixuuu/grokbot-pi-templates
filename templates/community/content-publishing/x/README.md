@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU |
 | Creator | 蒼巳 シャチ ([@1123momojiro1](https://x.com/1123momojiro1)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-zgqu), [grokbothq.xyz](https://grokbothq.xyz/bots/blog-to-x-post), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/blog-to-x-post-scheduler), [x-research](https://x.com/1123momojiro1/status/2107707185753186655) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 2 routines, 5 memory seeds, 1 connectors |

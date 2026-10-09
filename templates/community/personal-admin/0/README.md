@@ -6,7 +6,7 @@ A plain-words guide for someone new to Grok Bot / @bot. Keeps you on one workflo
 | --- | --- |
 | Original template | https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ |
 | Creator | T 2 B B 4 B ([@ghost2man](https://x.com/ghost2man)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/0), [grokbotwiki.com](https://www.grokbotwiki.com/bots/0), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-ee7xyr), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/0) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

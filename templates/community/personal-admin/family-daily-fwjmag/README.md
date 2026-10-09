@@ -6,7 +6,7 @@ A kitchen newspaper for your household. It pulls today's plans, weather, and use
 | --- | --- |
 | Original template | https://x.ai/bot/FwJmagPaEeQ_so8TTK1gh |
 | Creator | Zach Alberico ([@zalberico](https://x.com/zalberico)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-daily), [grokbotwiki.com](https://www.grokbotwiki.com/bots/family-daily), [grokbothq.xyz](https://grokbothq.xyz/bots/family-daily), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/family-daily), [x-research](https://x.com/zalberico/status/2100762087601680481) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 0 connectors |

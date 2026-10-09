@@ -6,7 +6,7 @@ Friendly trip planner for people who travel with pets in an EV — especially Te
 | --- | --- |
 | Original template | https://x.ai/bot/5UgsqdCgNWCagSjvMyzfF |
 | Creator | Nikki B ([@LeeLuTails](https://x.com/LeeLuTails)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cabin-pawz-trip-mate), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cabin-pawz-trip-mate), [grokbothq.xyz](https://grokbothq.xyz/bots/cabin-pawz-trip-mate), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/cabin-pawz-trip-mate) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Lightweight keyless site care for small business sites. Checks Speed hints, Find
 | --- | --- |
 | Original template | https://x.ai/bot/nGlUg9-CHIYUocr8NUC8m |
 | Creator | Sam Morgan ([@sam_builds_ai](https://x.com/sam_builds_ai)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ioiq-lite-site-care), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ioiq-lite), [grokbothq.xyz](https://grokbothq.xyz/bots/ioiq-lite-site-care), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ioiq-lite-site-care) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

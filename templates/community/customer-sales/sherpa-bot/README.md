@@ -6,7 +6,7 @@ A thinking partner that helps a willing person find a real problem, a real custo
 | --- | --- |
 | Original template | https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ |
 | Creator | Morgan Wyatt Khan ([@Morgan Wyatt Khan](https://x.com/Morgan Wyatt Khan)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sherpa-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sherpa-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/sherpa-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sherpa-bot), [x-research](https://x.com/MorganWKhan/status/2105256392256893076) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

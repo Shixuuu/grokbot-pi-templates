@@ -6,7 +6,7 @@ Helps you run your other bots with fewer wasted tokens and more real usage. Revi
 | --- | --- |
 | Original template | https://x.ai/bot/VxIyueNAPSZ9AlmfMwanO |
 | Creator | Bennett Plumb ([@Professor Plumb](https://x.com/Professor Plumb)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/efficiency-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/efficiency-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/efficiency-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/efficiency-bot), [x-research](https://x.com/Kenook_/status/2104721465023058399) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

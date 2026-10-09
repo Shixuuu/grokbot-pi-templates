@@ -6,7 +6,7 @@ Automates the web with TypeSafe Jev on a Chrome you can watch. Falls back to scr
 | --- | --- |
 | Original template | https://x.ai/bot/gQD_ZhGhJ_e1aLHc3RPOT |
 | Creator | Aris Grivokostopoulos ([@aris_grivas](https://x.com/aris_grivas)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jev-for-computer-use), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jev-for-computer-use), [grokbothq.xyz](https://grokbothq.xyz/bots/jev-for-computer-use), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jev-for-computer-use), [x-research](https://x.com/aris_grivas/status/2101757997429010581) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

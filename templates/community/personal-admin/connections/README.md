@@ -6,7 +6,7 @@ Maps your X following and mutuals by location into a searchable Notion database 
 | --- | --- |
 | Original template | https://x.ai/bot/FtxHtWPnLGheNJmF04wSf |
 | Creator | Matt Palmer ([@mattyp](https://x.com/mattyp)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/connections), [botsdots.site](https://botsdots.site/templates/connections), [grokbotwiki.com](https://www.grokbotwiki.com/bots/connections), [grokbothq.xyz](https://grokbothq.xyz/bots/connections), [templatebot.lol](https://templatebot.lol/bot/FtxHtWPnLGheNJmF04wSf), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 2 connectors |

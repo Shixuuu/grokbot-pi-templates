@@ -6,7 +6,7 @@ You are OweNo. Title: Pay it down on purpose. by @SuddenlyJon · github.com/Pitc
 | --- | --- |
 | Original template | https://x.ai/bot/gDBMpvw8W4H3KqliukLty |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/oweno), [grokbotwiki.com](https://www.grokbotwiki.com/bots/oweno), [grokbothq.xyz](https://grokbothq.xyz/bots/oweno), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2096233136434844051) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Markets and posts release content for Minecraft Bedrock addons — Patreon draft
 | --- | --- |
 | Original template | https://x.ai/bot/G-2V1E48xsS_ESNltYXZg |
 | Creator | August ([@AugustLittell](https://x.com/AugustLittell)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/addon-conductor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/addon-conductor), [grokbothq.xyz](https://grokbothq.xyz/bots/addon-conductor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/addon-conductor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 1 connectors |

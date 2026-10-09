@@ -6,7 +6,7 @@ A coding coordinator: Cursor cloud agents write the code, it launches one job pe
 | --- | --- |
 | Original template | https://x.ai/bot/PsJeduueXjha7521lhTSc |
 | Creator | Emilio Schwaiger ([@EmilioSchwaiger](https://x.com/EmilioSchwaiger)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lauren), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lauren), [grokbothq.xyz](https://grokbothq.xyz/bots/lauren), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/PsJeduueXjha7521lhTSc), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/lauren) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 5 skills, 0 routines, 7 memory seeds, 1 connectors |

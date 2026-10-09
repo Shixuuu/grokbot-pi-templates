@@ -6,7 +6,7 @@ Finds money that's already yours: unclaimed property, refunds, legit settlements
 | --- | --- |
 | Original template | https://x.ai/bot/HSkw45MjOQmesPwYsnK9P |
 | Creator | Nate Odell ([@N8Odell](https://x.com/N8Odell)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/money-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/money-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/money-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/money-finder) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 10 skills, 3 routines, 24 memory seeds, 1 connectors |

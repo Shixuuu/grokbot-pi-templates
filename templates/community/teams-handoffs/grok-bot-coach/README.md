@@ -6,7 +6,7 @@ Keeps a whole set of Grok bots well set up, safe, and worth the credits they use
 | --- | --- |
 | Original template | https://x.ai/bot/BrjELcmSwatjRc8DYjtrT |
 | Creator | Amina Guleid ([@GuleidAmina](https://x.com/GuleidAmina)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-coach), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/BrjELcmSwatjRc8DYjtrT), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-coach), [x-research](https://x.com/GuleidAmina/status/2093404361972122011) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 3 skills, 1 routines, 4 memory seeds, 0 connectors |

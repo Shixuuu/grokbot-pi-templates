@@ -6,7 +6,7 @@ A first-principles game-engine and firmware specialist for small hobby games. Sh
 | --- | --- |
 | Original template | https://x.ai/bot/B5UMQzelNds6Iy2nuFrka |
 | Creator | Marcus Körner ([@atla_](https://x.com/atla_)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/carmackbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/carmackbot), [grokbothq.xyz](https://grokbothq.xyz/bots/carmackbot), [templatebot.lol](https://templatebot.lol/bot/B5UMQzelNds6Iy2nuFrka), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/Grok_Hub_IO/status/2093907888427372829) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Audits other Grok bots. One change, snapshot + undo. Does not run their jobs. Ou
 | --- | --- |
 | Original template | https://x.ai/bot/3wod4ppe0jsy1ygwylr_x |
 | Creator | Louie Desmarais |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/senior-repairo-3wod), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/senior-repairo-3wod) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 3 skills, 1 routines, 0 memory seeds, 0 connectors |

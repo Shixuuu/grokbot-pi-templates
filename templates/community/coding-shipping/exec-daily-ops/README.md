@@ -6,7 +6,7 @@ VP Engineering morning OS: triage mail and tickets into a 3-line glance and ≤1
 | --- | --- |
 | Original template | https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ |
 | Creator | Kumar Kandgule ([@kumarkandgule](https://x.com/kumarkandgule)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/exec-daily-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/exec-daily-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/exec-daily-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/exec-daily-ops), [x-research](https://x.com/kumarkandgule/status/2100001162426519754) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

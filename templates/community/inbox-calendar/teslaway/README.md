@@ -6,7 +6,7 @@ Finds used Teslas near a postal/ZIP code in any country, then emails a short lis
 | --- | --- |
 | Original template | https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP |
 | Creator | Vijay Kandhalu ([@ixdesigner](https://x.com/ixdesigner)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/teslaway), [grokbotwiki.com](https://www.grokbotwiki.com/bots/teslaway), [grokbothq.xyz](https://grokbothq.xyz/bots/teslaway), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/teslaway), [x-research](https://botsdots.site/templates/teslaway) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 9 memory seeds, 1 connectors |

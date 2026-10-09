@@ -6,7 +6,7 @@ Hands-on tech co-pilot for rebuilding coding fluency and modern AI software habi
 | --- | --- |
 | Original template | https://x.ai/bot/z841w3sxcqGwe83MQLk3E |
 | Creator | laila Deeb ([@LailaDeeb1](https://x.com/LailaDeeb1)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tech-skills-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tech-skills-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/tech-skills-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tech-skills-coach) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

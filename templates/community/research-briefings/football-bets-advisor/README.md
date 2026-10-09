@@ -6,7 +6,7 @@ A process-first NFL and college football picks bot. It builds short PLAY / CUT /
 | --- | --- |
 | Original template | https://x.ai/bot/cWli8870UMAVC3piITAsV |
 | Creator | John Atkinson III ([@iamtheh0n3yp0t](https://x.com/iamtheh0n3yp0t)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/football-bets-advisor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/football-bets-advisor), [grokbothq.xyz](https://grokbothq.xyz/bots/football-bets-advisor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/football-bets-advisor), [x-research](https://botsdots.site/templates/football-bets-advisor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 3 routines, 9 memory seeds, 0 connectors |

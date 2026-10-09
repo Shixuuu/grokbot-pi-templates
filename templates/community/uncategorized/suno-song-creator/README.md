@@ -6,7 +6,7 @@ Brainstorms fresh song ideas and writes ready-to-paste lyrics, style prompts and
 | --- | --- |
 | Original template | https://x.ai/bot/NP7mZ91wWsTYmjrOKCde5 |
 | Creator | Tim Kofoed |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/TKofoed/status/2108456614629974127) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Facilitates workshops with a person and other specialist agents. Sets one object
 | --- | --- |
 | Original template | https://x.ai/bot/EJTJEGbRPXlSppzFk8ETH |
 | Creator | Paul S ([@OTNworld](https://x.com/OTNworld)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/workshop-facilitator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/workshop-facilitator), [grokbothq.xyz](https://grokbothq.xyz/bots/workshop-facilitator), [templatebot.lol](https://templatebot.lol/bot/EJTJEGbRPXlSppzFk8ETH), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/workshop-facilitator), [x-research](https://botsdots.site/templates/workshop-facilitator) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

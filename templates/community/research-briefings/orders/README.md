@@ -6,7 +6,7 @@ Tracks your online orders: incoming, shipments, spend, and refunds. Connect Trac
 | --- | --- |
 | Original template | https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie |
 | Creator | bashful ([@wafffls](https://x.com/wafffls)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/orders), [botsdots.site](https://botsdots.site/templates/orders), [grokbotwiki.com](https://www.grokbotwiki.com/bots/orders), [grokbothq.xyz](https://grokbothq.xyz/bots/orders-0taq6r), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/0taQ6RZdkjsnOfda_A8Ie), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/orders), [x-research](https://x.com/wafffls/status/2095614060070928837) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

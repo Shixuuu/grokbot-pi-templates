@@ -6,7 +6,7 @@ Creates social media graphics and carousels in ContentDrips, then writes simple 
 | --- | --- |
 | Original template | https://x.ai/bot/LZLr3E1ySm7HzuMSKB18s |
 | Creator | Usama Khalid ([@im_usamakhalid](https://x.com/im_usamakhalid)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/contentdrips-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/contentdrips-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/contentdrips-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/contentdrips-bot) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

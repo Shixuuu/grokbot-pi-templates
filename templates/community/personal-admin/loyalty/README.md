@@ -6,7 +6,7 @@ Your proactive travel buddy for airline and hotel status. She finds missing mile
 | --- | --- |
 | Original template | https://x.ai/bot/6FxcOf5cgteUpdtd3g700 |
 | Creator | Carlos ([@carlosnoriega](https://x.com/carlosnoriega)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/loyalty), [grokbotwiki.com](https://www.grokbotwiki.com/bots/loyalty), [grokbothq.xyz](https://grokbothq.xyz/bots/loyalty), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/loyalty), [x-research](https://x.com/carlosnoriega/status/2104527060245094894) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 1 routines, 9 memory seeds, 1 connectors |

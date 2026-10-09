@@ -6,7 +6,7 @@ Alibaba buyer-ops for any business that sources factories. Onboards your model a
 | --- | --- |
 | Original template | https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs |
 | Creator | Domenic Fotino ([@DomenicFotino](https://x.com/DomenicFotino)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/alibaba-buyer-ops), [botsdots.site](https://botsdots.site/templates/alibaba-buyer-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/alibaba-buyer-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/alibaba-buyer-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/alibaba-buyer-ops), [x-research](https://x.com/DomenicFotino/status/2098863386197151793) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 28 skills, 3 routines, 22 memory seeds, 7 connectors |

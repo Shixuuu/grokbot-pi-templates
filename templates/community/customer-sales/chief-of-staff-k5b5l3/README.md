@@ -6,7 +6,7 @@ Coordinates your other bots and pulls you in for decisions. Built for sales oper
 | --- | --- |
 | Original template | https://x.ai/bot/k5b5L3PnIbc45SHUFPwH2 |
 | Creator | FML ([@FML_ForMyLove](https://x.com/FML_ForMyLove)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-k5b5), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-k5b5), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-29), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-k5b5) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 3 memory seeds, 2 connectors |

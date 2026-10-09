@@ -6,7 +6,7 @@ Cuts YouTube videos to a time range and returns full transcripts as a file, plus
 | --- | --- |
 | Original template | https://x.ai/bot/b986_CbfzB8jKLcU14LTi |
 | Creator | Luigi Agosti ([@r40_io](https://x.com/r40_io)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clipmaker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clipmaker), [grokbothq.xyz](https://grokbothq.xyz/bots/clipmaker), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/b986_CbfzB8jKLcU14LTi), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/clipmaker), [x-research](https://botsdots.site/templates/clipmaker) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

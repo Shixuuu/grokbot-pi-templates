@@ -6,7 +6,7 @@ Tasty-style options desk: 45–60 put credits + bullish day sleeve. Premarket co
 | --- | --- |
 | Original template | https://x.ai/bot/qi4tUvKkQelzwsV2siUwR |
 | Creator | JC Christopher ([@JCChristopher](https://x.com/JCChristopher)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/options-premium-desk), [botsdots.site](https://botsdots.site/templates/options-premium-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/options-premium-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/JCChristopher/status/2096455411956126118) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 8 routines, 3 memory seeds, 0 connectors |

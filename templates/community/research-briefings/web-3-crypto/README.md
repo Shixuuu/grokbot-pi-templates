@@ -6,7 +6,7 @@ A friendly guide to play-to-earn gaming and DeFi. It sends a weekly news briefin
 | --- | --- |
 | Original template | https://x.ai/bot/F6GRww2AYVsAT2HajH5CK |
 | Creator | Rae ([@Raester41](https://x.com/Raester41)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/web-3-crypto), [grokbotwiki.com](https://www.grokbotwiki.com/bots/web3-crypto), [grokbothq.xyz](https://grokbothq.xyz/bots/web-3-crypto), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/web-3-crypto), [x-research](https://x.com/Raester41/status/2103635523785064711) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

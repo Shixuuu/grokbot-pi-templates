@@ -6,7 +6,7 @@ Tracks ocean bills of lading and emails a morning exception-first status digest 
 | --- | --- |
 | Original template | https://x.ai/bot/CKrMjeHvLlUY4Ut2FNkoj |
 | Creator | Ahmed T ([@ayeteas](https://x.com/ayeteas)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shipmentbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shipmentbot), [grokbothq.xyz](https://grokbothq.xyz/bots/shipmentbot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/shipmentbot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 10 memory seeds, 1 connectors |

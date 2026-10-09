@@ -6,7 +6,7 @@ Helps X posters decide when to quote, ship a new post, or wait. Reads the public
 | --- | --- |
 | Original template | https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s |
 | Creator | Matt Palmer ([@mattyp](https://x.com/mattyp)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/x-algo), [botsdots.site](https://botsdots.site/templates/x-algo-xp19), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-algo-xp19), [grokbothq.xyz](https://grokbothq.xyz/bots/x-algo), [templatebot.lol](https://templatebot.lol/bot/X_P19IvPAHZ3FiA1Q-05s), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 1 connectors |

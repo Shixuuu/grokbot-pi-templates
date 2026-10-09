@@ -6,7 +6,7 @@ Field-agnostic job-application partner, shareable across friends and careers. Bu
 | --- | --- |
 | Original template | https://x.ai/bot/AfpFyeysGxUyH9bAgjvGy |
 | Creator | Garrek McCune ([@mccune011](https://x.com/mccune011)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/applicoti), [grokbotwiki.com](https://www.grokbotwiki.com/bots/applicoti), [grokbothq.xyz](https://grokbothq.xyz/bots/applicoti), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/mccune011/status/2102881859701227647) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

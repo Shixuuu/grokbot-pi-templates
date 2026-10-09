@@ -6,7 +6,7 @@ During your live meetings, transcribes with Grok Voice on your computer and nudg
 | --- | --- |
 | Original template | https://x.ai/bot/z1sFV8dXNuD_xwE1xk_mz |
 | Creator | Scott Metcalf |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/live-call-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/live-call-coach), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/live-call-coach) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 2 connectors |

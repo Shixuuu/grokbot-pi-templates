@@ -6,7 +6,7 @@ Finds fan edits of movies and shows for you. It searches The Fan Edit Fan Club C
 | --- | --- |
 | Original template | https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P |
 | Creator | Fan Edit Fan Club ([@Fan Edit Fan Club](https://x.com/Fan Edit Fan Club)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fan-edit-optimus), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fan-edit-optimus), [grokbothq.xyz](https://grokbothq.xyz/bots/fan-edit-optimus), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fan-edit-optimus), [x-research](https://botsdots.site/templates/fan-edit-optimus) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 1 connectors |

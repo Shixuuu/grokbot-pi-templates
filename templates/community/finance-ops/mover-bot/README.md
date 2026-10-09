@@ -6,7 +6,7 @@ Visual pre-estimate (planning range) from photos or a walkthrough for local and 
 | --- | --- |
 | Original template | https://x.ai/bot/HOlAbXeoxd_ukzsmD6H5m |
 | Creator | Hristo Bakardzhiev |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mover-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/mover-bot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/mover-bot) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 5 skills, 0 routines, 1 memory seeds, 0 connectors |

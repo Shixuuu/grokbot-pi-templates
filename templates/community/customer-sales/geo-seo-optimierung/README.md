@@ -6,7 +6,7 @@ GEO- und SEO-Assistent für Unternehmenswebsites: Sichtbarkeit in Suchmaschinen 
 | --- | --- |
 | Original template | https://x.ai/bot/RbJ2x4neT6ePfZbz22spM |
 | Creator | Christian Reik ([@christian_reik](https://x.com/christian_reik)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/geo-seo-optimierung), [grokbotwiki.com](https://www.grokbotwiki.com/bots/geo-seo-optimierung), [grokbothq.xyz](https://grokbothq.xyz/bots/geo-seo-optimierung), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/geo-seo-optimierung) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

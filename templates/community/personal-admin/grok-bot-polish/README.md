@@ -6,7 +6,7 @@ Grok Bot listing polish for Google and AI search: rewrites the bot, app or produ
 | --- | --- |
 | Original template | https://x.ai/bot/EN9N53oqx8y1kvHP4BAh4 |
 | Creator | GrokBotGod God ([@GrokBotGod](https://x.com/GrokBotGod)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-polish), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-polish), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-polish), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-polish), [x-research](https://botsdots.site/templates/grok-bot-polish) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

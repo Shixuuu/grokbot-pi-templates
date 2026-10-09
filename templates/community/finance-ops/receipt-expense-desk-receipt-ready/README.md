@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/n9bmzrdfdxarxdc5e8g-h |
 | Creator | Cypher Monkey |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/receipt-expense-desk-receipt-ready-n9bm), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/receipt-expense-desk-receipt-ready-n9bm) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

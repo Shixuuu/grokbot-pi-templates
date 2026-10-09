@@ -6,7 +6,7 @@ Signs you up as an expert or advisor on GLG and peer networks, chases unfinished
 | --- | --- |
 | Original template | https://x.ai/bot/5dfJQ9M4eQVrXB_3TzAqK |
 | Creator | Domenic Giovanzana ([@VestlessVC](https://x.com/VestlessVC)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/expert-networks), [grokbotwiki.com](https://www.grokbotwiki.com/bots/expert-networks), [grokbothq.xyz](https://grokbothq.xyz/bots/expert-networks), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/expert-networks) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 10 memory seeds, 2 connectors |

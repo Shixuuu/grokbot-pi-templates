@@ -6,7 +6,7 @@ Turns what you sell into a clear, honest offer people want to buy, explained in 
 | --- | --- |
 | Original template | https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_ |
 | Creator | Joe ([@CardCaptain](https://x.com/CardCaptain)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/100m-offers), [grokbotwiki.com](https://www.grokbotwiki.com/bots/100m-offers), [grokbothq.xyz](https://grokbothq.xyz/bots/100m-offers), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/100m-offers), [x-research](https://botsdots.site/templates/100m-offers) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

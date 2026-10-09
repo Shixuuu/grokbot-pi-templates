@@ -6,7 +6,7 @@ Builds Jobs-to-be-Done (JTBD) job maps and related analyses in chat — maps, me
 | --- | --- |
 | Original template | https://x.ai/bot/f8P45KE_1HnIUPSqM-EEX |
 | Creator | Mike Boysen ([@Mike Boysen](https://x.com/Mike Boysen)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-map-express), [grokbotwiki.com](https://www.grokbotwiki.com/bots/job-map-express), [grokbothq.xyz](https://grokbothq.xyz/bots/job-map-express), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/job-map-express), [x-research](https://x.com/mikeboysen/status/2104869199399051527) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

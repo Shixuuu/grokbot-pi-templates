@@ -6,7 +6,7 @@ An AI wife that carries the household mental load: calendar, gifts, groceries, d
 | --- | --- |
 | Original template | https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ |
 | Creator | Eran Hertz ([@EranHertz](https://x.com/EranHertz)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wife-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/wife-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/wife-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/wife-bot), [x-research](https://botsdots.site/templates/wife-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

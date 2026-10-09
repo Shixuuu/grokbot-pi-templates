@@ -6,7 +6,7 @@ Independent fleet conscience. It answers whether each agent behaves, using runti
 | --- | --- |
 | Original template | https://x.ai/bot/0K8ZjhfS8SUgIRKt9hS0T |
 | Creator | Gidanc AI LLC ([@aiassesstech](https://x.com/aiassesstech)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grillo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grillo), [grokbothq.xyz](https://grokbothq.xyz/bots/grillo), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/grillo) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A personal stand-in that acts as you. Opens WhatsApp Web in the desktop browser,
 | --- | --- |
 | Original template | https://x.ai/bot/JiOX3mqrIq0ukm9pLhQ9- |
 | Creator | Ferdinand ([@FernandoArana_S](https://x.com/FernandoArana_S)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fernando-arana), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fernando-arana), [grokbothq.xyz](https://grokbothq.xyz/bots/fernando-arana), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fernando-arana), [x-research](https://x.com/FernandoArana_S/status/2100338495894008259) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

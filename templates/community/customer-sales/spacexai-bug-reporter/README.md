@@ -6,7 +6,7 @@ Prepares paste-ready SpaceXAI / xAI / Grok bug reports for official Report an is
 | --- | --- |
 | Original template | https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ |
 | Creator | Fine_Computer_4451 ([@Fine_4451](https://x.com/Fine_4451)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/spacexai-bug-reporter), [botsdots.site](https://botsdots.site/templates/spacexai-bug-reporter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spacexai-bug-reporter), [grokbothq.xyz](https://grokbothq.xyz/bots/spacexai-bug-reporter), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/g_xmlbEvupO0b1Emk9ohZ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/spacexai-bug-reporter), [x-research](https://x.com/Fine_4451/status/2096010664636506121) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

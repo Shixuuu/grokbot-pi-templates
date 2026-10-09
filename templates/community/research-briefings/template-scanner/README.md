@@ -6,7 +6,7 @@ Paste a Grok Bot share link. Hits the live xbot.team templates API and dumps per
 | --- | --- |
 | Original template | https://x.ai/bot/qDTnW6hhv_Pfr4EO1Ty1D |
 | Creator | Shai |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/template-scanner), [grokbothq.xyz](https://grokbothq.xyz/bots/template-scanner), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/template-scanner) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

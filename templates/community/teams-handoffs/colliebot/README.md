@@ -6,7 +6,7 @@ A sheepdog for Grok Bot fleets. Audits other bots for drift, slop, and scope cre
 | --- | --- |
 | Original template | https://x.ai/bot/UKQArSeY_eDxd26k_ZdoD |
 | Creator | Charls ([@charlswfeelings](https://x.com/charlswfeelings)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/colliebot), [botsdots.site](https://botsdots.site/templates/colliebot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/colliebot), [grokbothq.xyz](https://grokbothq.xyz/bots/colliebot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/charlswfeelings/status/2095873861363347617) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 4 memory seeds, 0 connectors |

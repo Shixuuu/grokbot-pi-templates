@@ -6,7 +6,7 @@ Onboards you on Handshake, then hunts jobs that match your search and applies wi
 | --- | --- |
 | Original template | https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r |
 | Creator | Fiona Whittington ([@fwhittington_24](https://x.com/fwhittington_24)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/handshake-job-applier), [botsdots.site](https://botsdots.site/templates/handshake-job-applier), [grokbotwiki.com](https://www.grokbotwiki.com/bots/handshake-job-applier), [grokbothq.xyz](https://grokbothq.xyz/bots/handshake-job-applier), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/handshake-job-applier), [x-research](https://x.com/fwhittington_24/status/2098810808293626139) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 3 memory seeds, 2 connectors |

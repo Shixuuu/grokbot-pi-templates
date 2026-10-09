@@ -6,7 +6,7 @@ Stops wasteful runs when more burn won’t change the reset — and shows why. P
 | --- | --- |
 | Original template | https://x.ai/bot/cp_nk3ftrAgaKbYONW6fa |
 | Creator | Eric Buess ([@EricBuess](https://x.com/EricBuess)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/token-efficiency-optimizer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/token-efficiency-optimizer), [grokbothq.xyz](https://grokbothq.xyz/bots/token-efficiency-optimizer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/token-efficiency-optimizer), [x-research](https://x.com/EricBuess/status/2100918698856808670) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

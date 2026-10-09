@@ -6,7 +6,7 @@ Coach for clear, low-BS workplace talk. Rewrites standups, Slack, and status upd
 | --- | --- |
 | Original template | https://x.ai/bot/lAptf_5PxlSgx4w-L9uMt |
 | Creator | Esther Yang ([@esther_confused](https://x.com/esther_confused)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/company-talk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/corporate-talk), [grokbothq.xyz](https://grokbothq.xyz/bots/company-talk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/company-talk) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Finds local trades and service businesses, contacts them on the owner's behalf, 
 | --- | --- |
 | Original template | https://x.ai/bot/FI36ngq3zTUOFQrYc-XQX |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quote-collector), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quote-collector), [grokbothq.xyz](https://grokbothq.xyz/bots/quote-collector), [templatebot.lol](https://templatebot.lol/bot/FI36ngq3zTUOFQrYc-XQX), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/quote-collector), [x-research](https://botsdots.site/templates/quote-collector) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

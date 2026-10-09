@@ -6,7 +6,7 @@ Turns a storyline and ordered scene list into a finished 16:9 montage: research 
 | --- | --- |
 | Original template | https://x.ai/bot/ZB_RCjIlBno2eVFhApMIj |
 | Creator | Joshua Konkle ([@7SwanSwimming](https://x.com/7SwanSwimming)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-montage), [grokbotwiki.com](https://www.grokbotwiki.com/bots/video-montage), [grokbothq.xyz](https://grokbothq.xyz/bots/video-montage), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/video-montage) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

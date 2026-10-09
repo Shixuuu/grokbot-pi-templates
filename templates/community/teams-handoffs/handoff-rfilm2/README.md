@@ -6,7 +6,7 @@ For ADD minds who start great ideas. Tell it the idea, and it finds real, verifi
 | --- | --- |
 | Original template | https://x.ai/bot/RFIlM2oslgj0jsKlG4qDz |
 | Creator | Scott H ([@SkippyyTM](https://x.com/SkippyyTM)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/handoff-rfil), [grokbotwiki.com](https://www.grokbotwiki.com/bots/handoff-rfil), [grokbothq.xyz](https://grokbothq.xyz/bots/handoff-scott-h), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/handoff-rfil) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

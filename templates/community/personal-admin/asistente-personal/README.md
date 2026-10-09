@@ -6,7 +6,7 @@ Asistente personal en español: ordena tu correo y tus chats, redacta mensajes p
 | --- | --- |
 | Original template | https://x.ai/bot/Kf1jr6ZtTbJl-MSWGRjAw |
 | Creator | Francisco Minondo ([@fminondo](https://x.com/fminondo)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/asistente-personal), [grokbotwiki.com](https://www.grokbotwiki.com/bots/asistente-personal), [grokbothq.xyz](https://grokbothq.xyz/bots/asistente-personal), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/asistente-personal), [x-research](https://x.com/fminondo/status/2105443373045993624) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 4 connectors |

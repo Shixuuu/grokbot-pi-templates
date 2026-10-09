@@ -6,7 +6,7 @@ Finds personalized San Francisco events from your calendar, Luma, Eventbrite, Pa
 | --- | --- |
 | Original template | https://x.ai/bot/8_jxHdRiFMSC-Jqh66I2Q |
 | Creator | Veena Panicker ([@veenapanicker](https://x.com/veenapanicker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/evie-the-san-francisco-events-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/evie-the-san-francisco-events-finder), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/veenapanicker/status/2096028530996068544) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 3 connectors |

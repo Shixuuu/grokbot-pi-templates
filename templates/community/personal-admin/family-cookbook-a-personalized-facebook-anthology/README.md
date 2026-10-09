@@ -6,7 +6,7 @@ Builds a gift-quality living cookbook PDF from a home cook’s Facebook cooking 
 | --- | --- |
 | Original template | https://x.ai/bot/NtRwoU2jzXkNSxu1SYKIf |
 | Creator | Brian Stephens ([@BrianSt97490822](https://x.com/BrianSt97490822)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-cookbook-a-personalized-facebook-anthology), [grokbotwiki.com](https://www.grokbotwiki.com/bots/family-cookbook), [grokbothq.xyz](https://grokbothq.xyz/bots/family-cookbook), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/family-cookbook-a-personalized-facebook-anthology) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 22 memory seeds, 0 connectors |

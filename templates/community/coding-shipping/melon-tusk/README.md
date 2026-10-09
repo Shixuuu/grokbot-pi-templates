@@ -6,7 +6,7 @@ Adversarial advice for high-stakes decisions. Not an Elon impersonator. First pr
 | --- | --- |
 | Original template | https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25 |
 | Creator | Paweł Prażak |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/melon-tusk), [grokbothq.xyz](https://grokbothq.xyz/bots/melon-tusk), [templatebot.lol](https://templatebot.lol/bot/t4Gm6emY8YzGKM0BvsF25), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/melon-tusk) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

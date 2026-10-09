@@ -6,7 +6,7 @@ SaaS affiliate content bot: keyword research, ranking-focused guides/reviews/com
 | --- | --- |
 | Original template | https://x.ai/bot/JDYPl17DU2bU771WtX4we |
 | Creator | Abdullah ([@Abdollahoffline](https://x.com/Abdollahoffline)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/saas-content-ranker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/saas-content-ranker), [grokbothq.xyz](https://grokbothq.xyz/bots/saas-content-ranker), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/saas-content-ranker), [x-research](https://x.com/Abdollahoffline/status/2100145991965872367) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

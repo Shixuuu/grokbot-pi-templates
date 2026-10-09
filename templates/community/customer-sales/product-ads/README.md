@@ -6,7 +6,7 @@ Launches and triages product ads on a fixed daily budget: draft campaigns from y
 | --- | --- |
 | Original template | https://x.ai/bot/1DFKnMzjYNPZyFFajRbUr |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/product-ads), [grokbotwiki.com](https://www.grokbotwiki.com/bots/product-ads), [grokbothq.xyz](https://grokbothq.xyz/bots/product-ads), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/product-ads), [x-research](https://x.com/ColinMcDermott/status/2105790817675993299) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

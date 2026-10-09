@@ -6,7 +6,7 @@ Website and AEO editor. Finds organic and AI-answer gaps, drafts CMS pages and P
 | --- | --- |
 | Original template | https://x.ai/bot/TQ8cECPo01agW3Igk4Z9w |
 | Creator | Jay Sahnan ([@JaySahnan](https://x.com/JaySahnan)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/webwiz), [grokbotwiki.com](https://www.grokbotwiki.com/bots/webwiz), [grokbothq.xyz](https://grokbothq.xyz/bots/webwiz-TQ8cECPo), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/JaySahnan/status/2095195083964592522) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 3 connectors |

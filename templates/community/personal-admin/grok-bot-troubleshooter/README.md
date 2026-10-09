@@ -6,7 +6,7 @@ Org-wide unsticker for stuck Grok Bot specialists. Diagnoses blockers, gives con
 | --- | --- |
 | Original template | https://x.ai/bot/oJmfUiZ-BKe_Uzzbyl16y |
 | Creator | Brian Graham ([@btgraham5](https://x.com/btgraham5)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-troubleshooter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-troubleshooter), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-troubleshooter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-troubleshooter), [x-research](https://botsdots.site/templates/grok-bot-troubleshooter) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 1 connectors |

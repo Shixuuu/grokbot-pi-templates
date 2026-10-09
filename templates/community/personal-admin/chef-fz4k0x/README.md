@@ -6,7 +6,7 @@ Your kitchen's chief of staff. Tell Chef what you're hungry for and it hires a b
 | --- | --- |
 | Original template | https://x.ai/bot/Fz4k0xj4eCoXkWlfhBNKx |
 | Creator | John Zertuche |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chef-fz4k), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/chef-fz4k) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

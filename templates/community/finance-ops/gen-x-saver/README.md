@@ -6,7 +6,7 @@ A credit-saver and generation desk. Runs image, video, voice, and long-script jo
 | --- | --- |
 | Original template | https://x.ai/bot/eIdc-PoIqkMb99CUwr0EQ |
 | Creator | Odd&Entertaining ([@oddreport](https://x.com/oddreport)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gen-x-saver), [grokbothq.xyz](https://grokbothq.xyz/bots/gen-x-saver), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/oddreport/status/2094463964394447328) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

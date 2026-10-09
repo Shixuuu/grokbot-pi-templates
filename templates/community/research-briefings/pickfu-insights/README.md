@@ -6,7 +6,7 @@ Validate product decisions with real consumers on PickFu before you invest. Your
 | --- | --- |
 | Original template | https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn |
 | Creator | Justin Chen ([@GrokBotMoney](https://x.com/GrokBotMoney)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/pickfu-insights), [botsdots.site](https://botsdots.site/templates/pickfu-insights), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pickfu-insights), [grokbothq.xyz](https://grokbothq.xyz/bots/pickfu-insights-9efvmf), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pickfu-insights), [x-research](https://x.com/GrokBotMoney/status/2095610465271374178) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

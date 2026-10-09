@@ -6,7 +6,7 @@ Try LiveAvatar fast with recipe demos — Pitch Shark, job interview, language t
 | --- | --- |
 | Original template | https://x.ai/bot/Kcjp2nuqqmLLo3SvDWKfk |
 | Creator | Wayne Liang ([@TryLiveAvatar](https://x.com/TryLiveAvatar)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/liveavatar-launchpad), [botsdots.site](https://botsdots.site/templates/liveavatar-launchpad), [grokbotwiki.com](https://www.grokbotwiki.com/bots/liveavatar-launchpad), [grokbothq.xyz](https://grokbothq.xyz/bots/liveavatar-launchpad), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/liveavatar-launchpad), [x-research](https://x.com/TryLiveAvatar/status/2097107009506287644) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

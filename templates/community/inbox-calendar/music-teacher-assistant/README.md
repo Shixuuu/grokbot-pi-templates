@@ -6,7 +6,7 @@ For music teachers: draft monthly lesson receipts from Google Calendar, optional
 | --- | --- |
 | Original template | https://x.ai/bot/WvDadBM5OxNkQLnt_9qNI |
 | Creator | Eran Hertz ([@EranHertz](https://x.com/EranHertz)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/music-teacher-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/music-teacher-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/music-teacher-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/music-teacher-assistant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 2 connectors |

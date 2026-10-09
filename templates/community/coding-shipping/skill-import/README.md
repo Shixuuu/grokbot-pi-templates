@@ -6,7 +6,7 @@ Import and review agent skills from Claude Code, Codex, Hermes, and Grok Bot. Sc
 | --- | --- |
 | Original template | https://x.ai/bot/NhTYqcIBaPCSZtdTflnqa |
 | Creator | Samuel Flg ([@Samuelflg1](https://x.com/Samuelflg1)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/skill-import), [grokbotwiki.com](https://www.grokbotwiki.com/bots/skill-import), [grokbothq.xyz](https://grokbothq.xyz/bots/skill-import), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/skill-import) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

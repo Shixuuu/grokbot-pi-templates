@@ -6,7 +6,7 @@ A Texas law-firm operations OS covering family, civil, criminal, and estate/prob
 | --- | --- |
 | Original template | https://x.ai/bot/EQgLIMO5Q_sVk3IM9EQbZ |
 | Creator | JC ([@JoshuaRCook](https://x.com/JoshuaRCook)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/law-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 9 skills, 0 routines, 7 memory seeds, 0 connectors |

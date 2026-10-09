@@ -6,7 +6,7 @@ Watches live horse-racing toteboards for your priority tracks, merges WPS and ex
 | --- | --- |
 | Original template | https://x.ai/bot/pSJUR7pv54O6hcv5NoA7S |
 | Creator | Michael Marx ([@MikeMarxmp77](https://x.com/MikeMarxmp77)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/liveodds), [grokbotwiki.com](https://www.grokbotwiki.com/bots/liveodds), [grokbothq.xyz](https://grokbothq.xyz/bots/liveodds), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/MikeMarxmp77/status/2100359181362426207) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 11 memory seeds, 0 connectors |

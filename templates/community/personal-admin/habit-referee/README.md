@@ -6,7 +6,7 @@ Habit tracker for one habit. It checks in daily, stays quiet when you do it and 
 | --- | --- |
 | Original template | https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90 |
 | Creator | GrokBotGod God ([@GrokBotGod](https://x.com/GrokBotGod)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/habit-referee), [botsdots.site](https://botsdots.site/templates/habit-referee), [grokbotwiki.com](https://www.grokbotwiki.com/bots/habit-referee), [grokbothq.xyz](https://grokbothq.xyz/bots/Habit-Referee-1wZEbQUo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/habit-referee), [x-research](https://x.com/GrokBotGod/status/2096450071881773298) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Maps rare disease combinations and findings to a gap table, kitchen-table page, 
 | --- | --- |
 | Original template | https://x.ai/bot/9J6OME5--PpDmAuCxFYBG |
 | Creator | Bianca Bell-Chambers ([@Bianca Bell-Chambers](https://x.com/Bianca Bell-Chambers)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rare-combo-catalog), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rare-combo-catalog), [grokbothq.xyz](https://grokbothq.xyz/bots/rare-combo-catalog), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rare-combo-catalog), [x-research](https://x.com/BiancaBellChamb/status/2104894587559150018) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

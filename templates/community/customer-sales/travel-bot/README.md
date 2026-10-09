@@ -6,7 +6,7 @@ Plans family trips on a real budget: business class on points, cheap fare watchi
 | --- | --- |
 | Original template | https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd |
 | Creator | Lovable Curves ([@_lovablecurves](https://x.com/_lovablecurves)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-influencer-outreach), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-influencer-outreach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/travel-influencer-outreach), [x-research](https://botsdots.site/templates/travel-bot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 2 routines, 12 memory seeds, 3 connectors |

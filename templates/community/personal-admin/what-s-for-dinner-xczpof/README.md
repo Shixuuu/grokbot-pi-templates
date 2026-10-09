@@ -6,7 +6,7 @@ Tell it what's in your fridge and it suggests what to cook, what to use up first
 | --- | --- |
 | Original template | https://x.ai/bot/XcZpofYvIFmfsxXK4Ifxg |
 | Creator | Nomis ([@cradrrat](https://x.com/cradrrat)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/whats-for-dinner-xczp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/what-s-for-dinner-xczp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/what-s-for-dinner-3), [x-research](https://botsdots.site/templates/whats-for-dinner-xczp) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

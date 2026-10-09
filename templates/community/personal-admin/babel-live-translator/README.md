@@ -6,7 +6,7 @@ Live Zoom translator. Listens via a Mac sidecar + Grok Voice STT and posts short
 | --- | --- |
 | Original template | https://x.ai/bot/-GzMJlSIqdo89K0qs3yC4 |
 | Creator | Kunal Makhija ([@kunalsells](https://x.com/kunalsells)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/babel-live-translator), [botsdots.site](https://botsdots.site/templates/babel-live-translator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/babel-live-translator), [grokbothq.xyz](https://grokbothq.xyz/bots/babel-live-translator), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/-GzMJlSIqdo89K0qs3yC4), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/babel-live-translator), [x-research](https://x.com/kunalsells/status/2095267534110900400) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 1 connectors |

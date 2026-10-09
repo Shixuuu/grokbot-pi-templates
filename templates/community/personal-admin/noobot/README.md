@@ -6,7 +6,7 @@ Teaches first-time Grok Bot users to create bots and write good prompts themselv
 | --- | --- |
 | Original template | https://x.ai/bot/o7UCDF_QEQx8cjWoItCfZ |
 | Creator | Dominic Bryant ([@dominicyoungix](https://x.com/dominicyoungix)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/noobot), [grokbothq.xyz](https://grokbothq.xyz/bots/noobot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/noobot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

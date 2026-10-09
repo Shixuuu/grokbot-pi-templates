@@ -6,7 +6,7 @@ Moves photos, videos, and files between cloud services, such as a GoPro or photo
 | --- | --- |
 | Original template | https://x.ai/bot/Viss4kB3hUAxd_uw74t4t |
 | Creator | Heidi |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/HeidiBriones/status/2107892703363322338) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ A live desk for AgentWorld, a world of about 500 autonomous AI agents earning an
 | --- | --- |
 | Original template | https://x.ai/bot/yuO-hJPFfKP-RRNWAiJjt |
 | Creator | Shawn Lippert |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/MagaShawn/status/2108389810993782963) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Privacy-first exploratory research companion for Grok Bot. Bridges social/web sc
 | --- | --- |
 | Original template | https://x.ai/bot/WCjeMaiYe07AwZCdl3GlI |
 | Creator | giacomo f. lucifero ([@gflucifer0](https://x.com/gflucifer0)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/encyclonetbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/encyclonetbot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/encyclonetbot) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

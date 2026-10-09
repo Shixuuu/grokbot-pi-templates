@@ -6,7 +6,7 @@ Turn your themes, audience, and channels into a week of post ideas and drafts in
 | --- | --- |
 | Original template | https://x.ai/bot/WuuAHgUSCn1bU4ZaztXdy |
 | Creator | AdventureNLearn Main ([@AdventureNLearn](https://x.com/AdventureNLearn)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/content-week-planner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/content-week-planner), [grokbothq.xyz](https://grokbothq.xyz/bots/content-week-planner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/content-week-planner) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

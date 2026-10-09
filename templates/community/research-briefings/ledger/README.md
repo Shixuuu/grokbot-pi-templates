@@ -6,7 +6,7 @@ A personal-finance money desk. Numbers-first digests and charts from your linked
 | --- | --- |
 | Original template | https://x.ai/bot/MJ4hTLwCDjlLxs0GxFB0f |
 | Creator | Uzi Obi ([@UziObi](https://x.com/UziObi)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ledger-mj4h), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ledger-mj4h), [grokbothq.xyz](https://grokbothq.xyz/bots/ledger-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ledger-mj4h) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 3 routines, 3 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Builds and maintains a password-gated evidence website for WinRed-linked politic
 | --- | --- |
 | Original template | https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f |
 | Creator | Valentino Dagher ([@valdagher](https://x.com/valdagher)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/winreddestroyer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/winreddestroyer), [grokbothq.xyz](https://grokbothq.xyz/bots/winreddestroyer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/winreddestroyer), [x-research](https://botsdots.site/templates/winreddestroyer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 15 memory seeds, 0 connectors |

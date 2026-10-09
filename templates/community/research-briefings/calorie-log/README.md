@@ -6,7 +6,7 @@ A personal calorie and weight tracker. Tell it what you ate in any wording or un
 | --- | --- |
 | Original template | https://x.ai/bot/zK27ouDr1l7fMT9DHB6oZ |
 | Creator | Terry Haynes ([@look4terry](https://x.com/look4terry)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/calorie-log), [grokbotwiki.com](https://www.grokbotwiki.com/bots/calorie-log), [grokbothq.xyz](https://grokbothq.xyz/bots/calorie-log), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/calorie-log) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ These Grok Bot / digital gremlins reworks add a dose of aspiration to your daily
 | --- | --- |
 | Original template | https://x.ai/bot/jja9kvfn--roww_ly3fl1 |
 | Creator | Ξ |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ad-umbra-jja9), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ad-umbra-jja9) |
 | Fidelity | **full** (full recipe, template version 25) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

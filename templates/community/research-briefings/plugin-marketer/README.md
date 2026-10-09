@@ -6,7 +6,7 @@ Practical growth owner for a free desktop audio plugin suite. Drafts directory p
 | --- | --- |
 | Original template | https://x.ai/bot/cq1VBt-BdBTe7dR10TdOG |
 | Creator | Aaron Thomas ([@uncannyzebra](https://x.com/uncannyzebra)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/plugin-marketer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/plugin-marketer), [grokbothq.xyz](https://grokbothq.xyz/bots/plugin-marketer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/uncannyzebra/status/2099921244766285933) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Merge main into master pull all in one tidy repo. Full copyright ©️ first rig
 | --- | --- |
 | Original template | https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ |
 | Creator | Gareth Kirman ([@helloitsoctocat](https://x.com/helloitsoctocat)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/helloitsoctocat), [grokbotwiki.com](https://www.grokbotwiki.com/bots/helloitsoctocat), [grokbothq.xyz](https://grokbothq.xyz/bots/helloitsoctocat), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/helloitsoctocat) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 1 connectors |

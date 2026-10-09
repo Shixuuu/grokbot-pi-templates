@@ -6,7 +6,7 @@ Capital Compass｜稳财锦囊 的 AI 财报解读员：丢一个美股 ticker�
 | --- | --- |
 | Original template | https://x.ai/bot/d48QaYERwvgtUmYsGlyz8 |
 | Creator | CHENG LUO ([@kaixinluo6268](https://x.com/kaixinluo6268)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chinese-earnings-reader-us-ticker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chinese-earnings-reader-us-ticker), [grokbothq.xyz](https://grokbothq.xyz/bots/chinese-earnings-digest), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chinese-earnings-digest), [x-research](https://x.com/kaixinluo6268/status/2108414655370588221) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

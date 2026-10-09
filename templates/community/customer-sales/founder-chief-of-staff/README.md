@@ -6,7 +6,7 @@ Runs site ops, local SEO content, and staff bots for a solo founder so they can 
 | --- | --- |
 | Original template | https://x.ai/bot/sg6IWeAYYNefTAT-O5K_W |
 | Creator | Joel Thomas ([@Masterxexe1](https://x.com/Masterxexe1)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/founder-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/founder-chief-of-staff-sg6i), [grokbothq.xyz](https://grokbothq.xyz/bots/founder-chief-of-staff-3), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/founder-chief-of-staff) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 3 routines, 5 memory seeds, 1 connectors |

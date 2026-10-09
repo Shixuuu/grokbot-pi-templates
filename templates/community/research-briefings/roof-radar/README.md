@@ -6,7 +6,7 @@ Free-data storm-to-roof lead desk: scores nearby homes from public hail and seve
 | --- | --- |
 | Original template | https://x.ai/bot/nuv1bsb5v15xzefnu5bwf |
 | Creator | Drew |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/roof-radar-nuv1), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/roof-radar-nuv1) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

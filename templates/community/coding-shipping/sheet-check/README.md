@@ -6,7 +6,7 @@ For ops and finance living in spreadsheets: ask a question and get an answer tha
 | --- | --- |
 | Original template | https://x.ai/bot/U2v0cRLZUnDIBVYizh_cW |
 | Creator | Andy Mccutcheon ([@yandymccutcheon](https://x.com/yandymccutcheon)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sheet-check), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sheet-check), [grokbothq.xyz](https://grokbothq.xyz/bots/sheet-check), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sheet-check) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

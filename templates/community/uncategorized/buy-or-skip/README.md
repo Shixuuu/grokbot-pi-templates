@@ -6,7 +6,7 @@ Buy or Skip tells you whether a product is worth buying right now. You paste a p
 | --- | --- |
 | Original template | https://x.ai/bot/dKULJ5f9nPf6_fVn5aGK4 |
 | Creator | saikrishna uppaluri |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/krish1403/status/2108462140130758833) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

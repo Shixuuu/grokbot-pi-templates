@@ -6,7 +6,7 @@ Day-trades a dedicated Robinhood Agentic account with the half-percent method: f
 | --- | --- |
 | Original template | https://x.ai/bot/rZJOfWHLK907evIorXd6K |
 | Creator | Dave Getchel ([@DavidGetchel](https://x.com/DavidGetchel)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/half-percent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/half-percent), [grokbothq.xyz](https://grokbothq.xyz/bots/half-percent), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/half-percent) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 0 connectors |

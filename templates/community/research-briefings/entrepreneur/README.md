@@ -6,7 +6,7 @@ Your opportunity scout: give it a short hunt brief and it finds and vets side ve
 | --- | --- |
 | Original template | https://x.ai/bot/scvcDPnSH2_sj3pH6ONCR |
 | Creator | Hank Jackson |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/entrepreneur), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/entrepreneur), [x-research](https://x.com/hjackson2/status/2107967069543075893) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 2 routines, 5 memory seeds, 0 connectors |

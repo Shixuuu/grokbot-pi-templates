@@ -6,7 +6,7 @@ US→Australia permanent-placement operator. Researches pathways, finds AU agenc
 | --- | --- |
 | Original template | https://x.ai/bot/Cfr_HG6tlBnA7NQUukguD |
 | Creator | NSOG ([@shanto12](https://x.com/shanto12)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/movetoau-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/movetoau-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/movetoau-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/movetoau-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

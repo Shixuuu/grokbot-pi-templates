@@ -6,7 +6,7 @@ Runs paid user interviews and public social listening for a growth team: who to 
 | --- | --- |
 | Original template | https://x.ai/bot/Nw1K3kkPk8N6eNTPed8gR |
 | Creator | Jay Sahnan ([@JaySahnan](https://x.com/JaySahnan)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/voice-of-customer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/voice-of-customer), [grokbothq.xyz](https://grokbothq.xyz/bots/voice-of-customer-Nw1K3kkP), [templatebot.lol](https://templatebot.lol/bot/Nw1K3kkPk8N6eNTPed8gR), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/JaySahnan/status/2095195083964592522) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Keeps a multi-agent workspace from going idle. Watches revenue lanes, nudges qui
 | --- | --- |
 | Original template | https://x.ai/bot/so0a9yurfhzfZFEEo3mWz |
 | Creator | Kevin Whitney ([@ustechgod](https://x.com/ustechgod)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/momentum), [grokbotwiki.com](https://www.grokbotwiki.com/bots/momentum), [grokbothq.xyz](https://grokbothq.xyz/bots/momentum), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/momentum), [x-research](https://botsdots.site/templates/momentum) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 0 connectors |

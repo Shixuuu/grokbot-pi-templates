@@ -6,7 +6,7 @@ Hands-off Google Business Profile for a local B2B dealer. Auto-picks the next un
 | --- | --- |
 | Original template | https://x.ai/bot/qHgP-l6Z1rFXMv3qUbQQ5 |
 | Creator | AdvancedBusinessSyst ([@abstally](https://x.com/abstally)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/business-profile), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gbp-post-cadence), [grokbothq.xyz](https://grokbothq.xyz/bots/business-profile), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/abstally/status/2099924319505670435) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 0 connectors |

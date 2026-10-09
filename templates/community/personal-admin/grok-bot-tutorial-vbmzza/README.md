@@ -6,7 +6,7 @@ A hands-on, 20-lesson course for anyone new to Grok Bot. It walks you through al
 | --- | --- |
 | Original template | https://x.ai/bot/VBmzZaD3abMPl53kwWuYp |
 | Creator | Sawyer Merritt ([@SawyerMerritt](https://x.com/SawyerMerritt)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-tutorial), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-tutorial), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-tutorial), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-tutorial), [x-research](https://x.com/BotDirectoryAI/status/2103834887211905437) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

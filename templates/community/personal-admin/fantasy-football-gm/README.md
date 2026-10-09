@@ -6,7 +6,7 @@ By 77systems. Fantasy football GM for your league. Reads that week's news, sets 
 | --- | --- |
 | Original template | https://x.ai/bot/40yecp78USuXhCXVnuUSo |
 | Creator | Jared McAdam ([@77systems](https://x.com/77systems)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-gm-40ye), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-gm-40ye), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/fantasy-football-gm-40ye) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

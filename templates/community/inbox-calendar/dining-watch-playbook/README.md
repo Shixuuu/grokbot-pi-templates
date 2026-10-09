@@ -6,7 +6,7 @@ Playbook bot for reliable restaurant and card-dining watches. Stops false “not
 | --- | --- |
 | Original template | https://x.ai/bot/lmfboo7tzRNqv8-1Xi6NW |
 | Creator | kp ([@azygosvagus](https://x.com/azygosvagus)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dining-watch-playbook), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scribe-lmfb), [grokbothq.xyz](https://grokbothq.xyz/bots/dining-watch-playbook), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dining-watch-playbook) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

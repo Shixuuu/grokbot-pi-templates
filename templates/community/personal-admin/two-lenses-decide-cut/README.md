@@ -6,7 +6,7 @@ Reviews any plan, feature list, page, process or cost through two lenses, taste 
 | --- | --- |
 | Original template | https://x.ai/bot/7_dnh4QViapra7VrGgFCM |
 | Creator | SmileHub Dental Labs ([@SmileHubDLabs](https://x.com/SmileHubDLabs)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/two-lenses-decide-cut), [grokbotwiki.com](https://www.grokbotwiki.com/bots/two-lenses-decide-cut), [grokbothq.xyz](https://grokbothq.xyz/bots/two-lenses-decide-cut), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/two-lenses-decide-cut) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Pulls seasonality and pattern data from Forecaster.biz, draws locked 3y/5y/10y (
 | --- | --- |
 | Original template | https://x.ai/bot/Vei5asTtvm04HbJehqJER |
 | Creator | Corey ([@Corey](https://x.com/Corey)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/forecasterbiz-top-3-buy-seasonality), [grokbotwiki.com](https://www.grokbotwiki.com/bots/forecaster-biz-top-3-buy-seasonality), [grokbothq.xyz](https://grokbothq.xyz/bots/forecaster-top3-buy-seasonality), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/forecasterbiz-top-3-buy-seasonality) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 13 memory seeds, 1 connectors |

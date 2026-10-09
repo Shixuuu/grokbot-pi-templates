@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/kdsdhdxsr07jlrlb0uex_ |
 | Creator | Cypher Monkey |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/weekly-planning-desk-week-wise), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/weekly-planning-desk-week-wise) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Use this when you're an electrician planning load calculations, voltage drop, bi
 | --- | --- |
 | Original template | https://x.ai/bot/IU2MEnCncmrgmVWIA_2DM |
 | Creator | walls_jason1 ([@walls_jason1](https://x.com/walls_jason1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/electricians-job-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/electrician-s-job-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/electricians-job-desk) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 12 skills, 2 routines, 3 memory seeds, 0 connectors |

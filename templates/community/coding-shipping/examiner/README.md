@@ -6,7 +6,7 @@ Maintain a reliable timeline of important changes so you can reconstruct what ha
 | --- | --- |
 | Original template | https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/examiner), [botsdots.site](https://botsdots.site/templates/examiner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/examiner), [grokbothq.xyz](https://grokbothq.xyz/bots/examiner), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/rBnJhXhks-_7n1zhZCN3E), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/examiner), [x-research](https://x.com/liam_fallen/status/2093383146599301252) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 5 connectors |

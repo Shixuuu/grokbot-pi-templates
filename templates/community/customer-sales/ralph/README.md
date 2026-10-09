@@ -6,7 +6,7 @@ Turns a résumé into a living online portfolio with Figma Make mockups and Curs
 | --- | --- |
 | Original template | https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb |
 | Creator | Jon ONeill ([@HouseHackerJon](https://x.com/HouseHackerJon)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ralph), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ralph), [grokbothq.xyz](https://grokbothq.xyz/bots/ralph), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/NQQjXITgX9V7WjaDh9Vzb), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ralph), [x-research](https://x.com/HouseHackerJon/status/2093832798528577920) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 18 memory seeds, 0 connectors |

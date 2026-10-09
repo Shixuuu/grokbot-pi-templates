@@ -6,7 +6,7 @@ Analyses bank and credit-card CSV exports to surface spending patterns, recurrin
 | --- | --- |
 | Original template | https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU |
 | Creator | fabivelosa ([@fabivelosa](https://x.com/fabivelosa)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/personal-cfo-lite), [grokbotwiki.com](https://www.grokbotwiki.com/bots/personal-cfo-lite), [grokbothq.xyz](https://grokbothq.xyz/bots/personal-cfo-lite), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/personal-cfo-lite) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

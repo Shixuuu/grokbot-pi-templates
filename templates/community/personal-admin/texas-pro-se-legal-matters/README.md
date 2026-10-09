@@ -6,7 +6,7 @@ Texas pro se legal-ops hub for district, appellate, and Supreme Court matters: d
 | --- | --- |
 | Original template | https://x.ai/bot/uV8ZjlR6ehlZ074hdvXG8 |
 | Creator | Lovable Curves ([@_lovablecurves](https://x.com/_lovablecurves)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/texas-pro-se-legal-matters), [grokbotwiki.com](https://www.grokbotwiki.com/bots/texas-pro-se-legal-matters), [grokbothq.xyz](https://grokbothq.xyz/bots/texas-pro-se-legal-matters), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/texas-pro-se-legal-matters), [x-research](https://botsdots.site/templates/texas-pro-se-legal-matters) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 14 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet. After in
 | --- | --- |
 | Original template | https://x.ai/bot/GGnJOdH3hv321H2QES9UE |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/mission-control), [botsdots.site](https://botsdots.site/templates/mission-control), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mission-control), [grokbothq.xyz](https://grokbothq.xyz/bots/mission-control), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/GGnJOdH3hv321H2QES9UE), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/scottxmetcalf/status/2095893994261660074) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 4 skills, 1 routines, 5 memory seeds, 0 connectors |

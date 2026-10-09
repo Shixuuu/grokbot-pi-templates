@@ -6,7 +6,7 @@ Studio website admin: ship site changes to Cloudflare Pages, run launch QA, and 
 | --- | --- |
 | Original template | https://x.ai/bot/4as9dm8j1yjttedqpdjhh |
 | Creator | David Brum |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/web-admin-4as9), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/web-admin-4as9) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 3 connectors |

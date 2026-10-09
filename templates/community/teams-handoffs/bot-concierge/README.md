@@ -6,7 +6,7 @@ Always-on desk concierge for Marketing, Finance and Investments, and App Dev. Mo
 | --- | --- |
 | Original template | https://x.ai/bot/xRTf8i78nPd-F8Bx3H0wX |
 | Creator | Paulo Pierrondi ([@paulopierrondi](https://x.com/paulopierrondi)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-concierge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-concierge), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-concierge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bot-concierge) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 7 connectors |

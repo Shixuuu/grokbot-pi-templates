@@ -6,7 +6,7 @@ Civic helper for america.gov — official U.S. government answers in plain Engli
 | --- | --- |
 | Original template | https://x.ai/bot/JI_vqjMDn_w7wFUw-G1UR |
 | Creator | Andrew Carvajal ([@andrewslaptop](https://x.com/andrewslaptop)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/americabot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/americabot), [grokbothq.xyz](https://grokbothq.xyz/bots/americabot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/americabot), [x-research](https://x.com/andrewslaptop/status/2105444494720012647) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

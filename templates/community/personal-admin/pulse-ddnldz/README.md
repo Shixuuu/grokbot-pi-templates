@@ -6,7 +6,7 @@ A calm, doctor-built personal health coach that learns your diet, exercise and s
 | --- | --- |
 | Original template | https://x.ai/bot/DdNlDzU_cYi-JJv2YR2CS |
 | Creator | Wilson ([@qpzm620](https://x.com/qpzm620)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pulse-ddnl), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pulse-ddnl), [grokbothq.xyz](https://grokbothq.xyz/bots/pulse-5), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/pulse-ddnl) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 2 connectors |

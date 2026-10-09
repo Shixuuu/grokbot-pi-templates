@@ -6,7 +6,7 @@ Costs, schedules, and metrics for tenant improvements, space upfits, and renovat
 | --- | --- |
 | Original template | https://x.ai/bot/AkwhPLX_ry4fIt7Jq6TxJ |
 | Creator | Thanks, Boomer. ([@cc_slip](https://x.com/cc_slip)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/construction-project-bot-by-thanks), [grokbotwiki.com](https://www.grokbotwiki.com/bots/construction-project-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/construction-project-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/construction-project-bot-by-thanks) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A live credit desk for AI agents. It pulls trust scores, credit limits, APRs, an
 | --- | --- |
 | Original template | https://x.ai/bot/fEBImi9N-_B_LMW59m2nM |
 | Creator | Shawn Lippert |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/MagaShawn/status/2108389792270500165) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

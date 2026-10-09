@@ -6,7 +6,7 @@ Adds Firefox next to Chrome on your Grok Bot box: uBlock, Firefox Sync passwords
 | --- | --- |
 | Original template | https://x.ai/bot/7v-lRs0HUGjU8zD_0-tGg |
 | Creator | Garrett ([@garrettRandom99](https://x.com/garrettRandom99)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/firefox-for-bots), [grokbotwiki.com](https://www.grokbotwiki.com/bots/firefox-for-bots), [grokbothq.xyz](https://grokbothq.xyz/bots/firefox-for-bots), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/firefox-for-bots), [x-research](https://botsdots.site/templates/firefox-for-bots) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

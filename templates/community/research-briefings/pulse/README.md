@@ -6,7 +6,7 @@ A read-only X concierge. Quiet collectors sample your feed through the day; a 7a
 | --- | --- |
 | Original template | https://x.ai/bot/oUYHu9LEXP5RVPFvoG4Ms |
 | Creator | Andrej Šimunaj ([@GrokBotDev](https://x.com/GrokBotDev)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pulse), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pulse), [grokbothq.xyz](https://grokbothq.xyz/bots/pulse), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pulse), [x-research](https://x.com/GrokBotDev/status/2094029086490308904) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 12 memory seeds, 1 connectors |

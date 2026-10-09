@@ -6,7 +6,7 @@ Checks Zoho Mail for unread messages, flags spam and cold pitches, and can delet
 | --- | --- |
 | Original template | https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa |
 | Creator | Aseem Wangoo ([@aseemwangoo](https://x.com/aseemwangoo)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zoho-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zoho-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/zoho-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/zoho-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

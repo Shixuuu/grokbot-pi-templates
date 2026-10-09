@@ -6,7 +6,7 @@ Personal CRM for open loops across email and calendar. Weekly nudge and draft-on
 | --- | --- |
 | Original template | https://x.ai/bot/Z-_zKI__9SXoxmwAFI5bV |
 | Creator | Anthony ([@AnthonyDo](https://x.com/AnthonyDo)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/follow-up-crm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/follow-up-crm), [grokbothq.xyz](https://grokbothq.xyz/bots/follow-up-crm), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/follow-up-crm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 2 connectors |

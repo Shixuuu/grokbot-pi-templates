@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/tolt21zchd6byj0zea7pe |
 | Creator | jack hu |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quant-backtest-lab-tolt), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/quant-backtest-lab-tolt) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

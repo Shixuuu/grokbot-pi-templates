@@ -6,7 +6,7 @@ Long-form editor for chapters, essays, and manuscripts. Starts with structure an
 | --- | --- |
 | Original template | https://x.ai/bot/lnErR-gA_t3KkPlvtwrrz |
 | Creator | Wardonis Valenroth ([@Wardonis](https://x.com/Wardonis)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/longform-editor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/longform-editor), [grokbothq.xyz](https://grokbothq.xyz/bots/longform-editor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/longform-editor), [x-research](https://x.com/Wardonis/status/2101611256188739740) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

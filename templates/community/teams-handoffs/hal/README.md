@@ -6,7 +6,7 @@ Chief of staff for a busy household and small staff of specialist bots. Coordina
 | --- | --- |
 | Original template | https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ |
 | Creator | Mike Jantz ([@shootthebull](https://x.com/shootthebull)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hal), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hal), [grokbothq.xyz](https://grokbothq.xyz/bots/hal), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hal), [x-research](https://x.com/shootthebull/status/2100685236707197420) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 2 connectors |

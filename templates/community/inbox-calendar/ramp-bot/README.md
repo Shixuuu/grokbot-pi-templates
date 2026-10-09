@@ -6,7 +6,7 @@ Keeps a Ramp company card unlocked by quietly filling missing receipts and memos
 | --- | --- |
 | Original template | https://x.ai/bot/Gx0HlW1t8lTnW2pVn0nKF |
 | Creator | Matthew Barge ([@matthewbarge](https://x.com/matthewbarge)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ramp-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ramp-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/ramp-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ramp-bot), [x-research](https://botsdots.site/templates/ramp-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 2 connectors |

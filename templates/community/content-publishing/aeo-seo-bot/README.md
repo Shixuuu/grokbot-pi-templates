@@ -6,7 +6,7 @@ Weekday content operator for search and answer-engine pages. It mines a slate fr
 | --- | --- |
 | Original template | https://x.ai/bot/Jyx1Lg-VzYgyjDc-y-GQi |
 | Creator | Eric Siu ([@eddiearc6](https://x.com/eddiearc6)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/aeo-seo-bot), [botsdots.site](https://botsdots.site/templates/aeoseo-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aeo-seo-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/aeo-seo-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/aeo-seo-bot), [x-research](https://x.com/eddiearc6/status/2096179583783706993) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 6 skills, 4 routines, 11 memory seeds, 5 connectors |

@@ -6,7 +6,7 @@ A Pokémon Center US drop hunter for collectors. Watches the official store for 
 | --- | --- |
 | Original template | https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL |
 | Creator | Joe ([@CardCaptain](https://x.com/CardCaptain)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pika-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pika-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/pika-bot), [templatebot.lol](https://templatebot.lol/bot/FfGFlZLAQDyxhJwg2ZJlL), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pika-bot), [x-research](https://botsdots.site/templates/pika-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Answers questions about how Grok Bot works and helps keep your bot roster aligne
 | --- | --- |
 | Original template | https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz |
 | Creator | Yutaka Inada ([@_inady_](https://x.com/_inady_)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-specialist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-specialist), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-specialist), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-specialist), [x-research](https://x.com/_inady_/status/2104229561429053938) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

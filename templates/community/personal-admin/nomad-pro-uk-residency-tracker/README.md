@@ -6,7 +6,7 @@ The boring UK residency admin, managed for you: a day-by-day travel and work log
 | --- | --- |
 | Original template | https://x.ai/bot/QUBmv77N0RIAlXTUktubY |
 | Creator | Komal Amin |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nomad-pro-uk-residency-tracker-qubm), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/nomad-pro-uk-residency-tracker-qubm) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 17 skills, 6 routines, 12 memory seeds, 3 connectors |

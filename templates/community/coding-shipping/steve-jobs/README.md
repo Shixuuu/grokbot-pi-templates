@@ -6,7 +6,7 @@ A technical lead for a founder-run product. Specialists advise; this bot decides
 | --- | --- |
 | Original template | https://x.ai/bot/62-P66Nu4KJH99n7fdMzH |
 | Creator | Charlie Grant |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/steve-jobs), [templatebot.lol](https://templatebot.lol/bot/62-P66Nu4KJH99n7fdMzH), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/steve-jobs) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 1 connectors |

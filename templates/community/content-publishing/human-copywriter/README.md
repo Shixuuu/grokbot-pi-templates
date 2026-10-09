@@ -6,7 +6,7 @@ A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, an
 | --- | --- |
 | Original template | https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ |
 | Creator | Massimo De Luisa ([@massimodeluisa](https://x.com/massimodeluisa)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/human-copywriter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/human-copywriter), [grokbothq.xyz](https://grokbothq.xyz/bots/human-copywriter), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/JZAccYtlRFvDSU2CnMnkZ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/human-copywriter), [x-research](https://x.com/massimodeluisa/status/2093446443642061067) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

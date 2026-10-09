@@ -6,7 +6,7 @@ Trust auditor for Grok Bot agents, skills, routines, and shareable templates. Fl
 | --- | --- |
 | Original template | https://x.ai/bot/fcanjjxw7nu_zl0zq6ixo |
 | Creator | Preston Cox |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bouncer-fcanj), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bouncer-fcanj) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

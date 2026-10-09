@@ -6,7 +6,7 @@ Helps blast through open PRs: triage status, then merge, review, or close.
 | --- | --- |
 | Original template | https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo |
 | Creator | Claire ([@clairevo](https://x.com/clairevo)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/lgtm-the-pr-closer), [botsdots.site](https://botsdots.site/templates/lgtm-the-pr-closer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lgtm-the-pr-closer), [grokbothq.xyz](https://grokbothq.xyz/bots/lgtm-the-pr-closer), [templatebot.lol](https://templatebot.lol/bot/vGk7yV-vF92ZegpNF3NPo), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lgtm-the-pr-closer), [x-research](https://x.com/clairevo/status/2093496602522714362) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

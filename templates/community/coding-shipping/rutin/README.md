@@ -6,7 +6,7 @@ A routines optimizer that scans every bot with no exceptions and proposes carefu
 | --- | --- |
 | Original template | https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7 |
 | Creator | Naoufal El hassnaoui ([@naoufal_elh](https://x.com/naoufal_elh)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rutin), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rutin), [grokbothq.xyz](https://grokbothq.xyz/bots/rutin), [templatebot.lol](https://templatebot.lol/bot/o4gWkNGmffEaVtOhaEsA7), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rutin), [x-research](https://x.com/naoufal_elh/status/2093710579043057731) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 0 connectors |

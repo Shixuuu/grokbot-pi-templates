@@ -6,7 +6,7 @@ Finds you one new Grok Bot to try from grokhub.io, matched to what you care abou
 | --- | --- |
 | Original template | https://x.ai/bot/hU1hS8Ug9bx3B4C2vUX91 |
 | Creator | CJ Studios |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grokhub-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/grokhub-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/grokhub-bot) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

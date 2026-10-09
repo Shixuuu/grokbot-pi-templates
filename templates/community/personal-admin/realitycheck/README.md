@@ -6,7 +6,7 @@ Paste an X handle and get an authenticity score card — number, color meter, an
 | --- | --- |
 | Original template | https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw |
 | Creator | John P ([@johnp_creates](https://x.com/johnp_creates)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/realitycheck), [grokbotwiki.com](https://www.grokbotwiki.com/bots/realitycheck), [grokbothq.xyz](https://grokbothq.xyz/bots/realitycheck), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/realitycheck), [x-research](https://x.com/johnp_creates/status/2107606396296655243) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

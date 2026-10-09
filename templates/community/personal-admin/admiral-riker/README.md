@@ -6,7 +6,7 @@ Bobiverse-style fleet admiral for a personal operating system of specialist bots
 | --- | --- |
 | Original template | https://x.ai/bot/5I2dvyODEBZ-kevaty6IO |
 | Creator | reu cat ([@reuben740](https://x.com/reuben740)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/admiral-riker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/admiral-riker), [grokbothq.xyz](https://grokbothq.xyz/bots/admiral-riker), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/reuben740/status/2101665269017874818) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 8 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Tracks gift wishlists, finds better prices across stores you name, and alerts wh
 | --- | --- |
 | Original template | https://x.ai/bot/xWzCd3-s1K-xAmLoGvFYa |
 | Creator | Build A Goat ([@buildAgoat](https://x.com/buildAgoat)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/santa-list), [grokbotwiki.com](https://www.grokbotwiki.com/bots/santa-list), [grokbothq.xyz](https://grokbothq.xyz/bots/santa-list), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/santa-list) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

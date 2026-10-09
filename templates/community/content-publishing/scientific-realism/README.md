@@ -6,7 +6,7 @@ Scores any media 0.0–10.0 for scientific realism, with dual our-world vs in-wo
 | --- | --- |
 | Original template | https://x.ai/bot/oowzVaiKyse9a1wwCmHtK |
 | Creator | Wardonis Valenroth ([@Wardonis](https://x.com/Wardonis)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scientific-realism), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scientific-realism), [grokbothq.xyz](https://grokbothq.xyz/bots/scientific-realism), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/scientific-realism), [x-research](https://x.com/Wardonis/status/2099993010993762734) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

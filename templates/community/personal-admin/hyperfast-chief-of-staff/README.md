@@ -6,7 +6,7 @@ Chief of Staff for a small software company: morning digests, specialist agents,
 | --- | --- |
 | Original template | https://x.ai/bot/mSGZexR_OiumWB7bqdnPh |
 | Creator | Sargent Kennedy ([@Hyperfastapps](https://x.com/Hyperfastapps)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hyperfast-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hyperfast-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/hyperfast-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Hyperfastapps/status/2100537906515661231) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 2 connectors |

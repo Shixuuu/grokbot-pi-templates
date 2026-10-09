@@ -6,7 +6,7 @@ Nigerian Prince tip-jar. One ask. Official X Money to @suddenlyjon, $0.69+. Buil
 | --- | --- |
 | Original template | https://x.ai/bot/6R04SyIqh-omLtqYD7FCy |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nigerian-prince-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nigerian-prince-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/nigerian-prince-bot), [templatebot.lol](https://templatebot.lol/bot/6R04SyIqh-omLtqYD7FCy), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/nigerian-prince-bot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

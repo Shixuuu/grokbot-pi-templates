@@ -6,7 +6,7 @@ Job-hunt assistant that finds live openings, helps tailor materials, submits thr
 | --- | --- |
 | Original template | https://x.ai/bot/_N179jA-vyUT8mlNn2xOs |
 | Creator | Agatho Damon ([@Agatho_Damon](https://x.com/Agatho_Damon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/career), [grokbotwiki.com](https://www.grokbotwiki.com/bots/career), [grokbothq.xyz](https://grokbothq.xyz/bots/career), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/career), [x-research](https://botdirectory.ai/bots/career/) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 2 connectors |

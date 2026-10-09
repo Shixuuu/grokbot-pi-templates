@@ -6,7 +6,7 @@ A senior marketer for Google Ads, Meta, X, LinkedIn, TikTok, GA4, SEO, Social an
 | --- | --- |
 | Original template | https://x.ai/bot/vYIAB3Z6V8gEERewymcw1 |
 | Creator | Support Insightful Pipe ([@insightfulpipe](https://x.com/insightfulpipe)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/insightfulpipe-live-ads-seo-shopify-analyst), [grokbotwiki.com](https://www.grokbotwiki.com/bots/insightfulpipe), [grokbothq.xyz](https://grokbothq.xyz/bots/insightfulpipe-live-ads-seo-shopify-analyst), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/vYIAB3Z6V8gEERewymcw1), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/insightfulpipe-live-ads-seo-shopify-analyst) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 8 skills, 0 routines, 8 memory seeds, 0 connectors |

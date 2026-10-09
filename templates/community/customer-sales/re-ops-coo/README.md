@@ -6,7 +6,7 @@ Numbers-first COO for a vertically integrated real estate operator. Runs daily s
 | --- | --- |
 | Original template | https://x.ai/bot/_qRtgGDLXFjuEVML35EI4 |
 | Creator | Danny Gonzalez ([@Danny_0315](https://x.com/Danny_0315)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/re-ops-coo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/re-ops-coo), [grokbothq.xyz](https://grokbothq.xyz/bots/re-ops-coo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/re-ops-coo) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 9 memory seeds, 2 connectors |

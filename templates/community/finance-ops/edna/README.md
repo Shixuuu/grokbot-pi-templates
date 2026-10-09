@@ -6,7 +6,7 @@ Wardrobe Lead for anyone who wants closet-first daily outfits. Catalogs what you
 | --- | --- |
 | Original template | https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP |
 | Creator | DJ ([@congressdj](https://x.com/congressdj)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/edna), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-guru), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-guru), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/r5R9X50NdzRZBPcBQAnhP), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/travel-guru), [x-research](https://x.com/Grok_Hub_IO/status/2093839584467812389) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

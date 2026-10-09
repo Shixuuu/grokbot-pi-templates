@@ -6,7 +6,7 @@ Creates, schedules, and publishes social posts to Instagram, TikTok, YouTube, X,
 | --- | --- |
 | Original template | https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR |
 | Creator | Taras Shynkarenko ([@tarasshyn](https://x.com/tarasshyn)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/adaptlypost), [botsdots.site](https://botsdots.site/templates/adaptlypost), [grokbotwiki.com](https://www.grokbotwiki.com/bots/adaptlypost), [grokbothq.xyz](https://grokbothq.xyz/bots/adaptlypost), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/adaptlypost), [x-research](https://x.com/tarasshyn/status/2093726077906493508) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

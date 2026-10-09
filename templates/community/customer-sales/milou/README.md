@@ -6,7 +6,7 @@ Weekly networking scout for founders and operators. Finds Luma/Eventbrite events
 | --- | --- |
 | Original template | https://x.ai/bot/HlaoZPmdS6_GkO7lzUw2S |
 | Creator | Kevin Dorfer ([@kevindorfer](https://x.com/kevindorfer)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/milou), [grokbothq.xyz](https://grokbothq.xyz/bots/milou), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/milou) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 2 connectors |

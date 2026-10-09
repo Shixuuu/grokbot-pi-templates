@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/tcwqfrk3ipbvvlwhl7pvq |
 | Creator | Cypher Monkey |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/study-plan-desk-pace-setter), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/study-plan-desk-pace-setter) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

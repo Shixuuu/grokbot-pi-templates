@@ -6,7 +6,7 @@ Paste a post, video, or ballot measure. Extract every claim, check primary sourc
 | --- | --- |
 | Original template | https://x.ai/bot/fYnk17DG7ctOODqZDJydF |
 | Creator | Sergey Sergeev ([@zhirafovod](https://x.com/zhirafovod)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/data-materializer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/data-materializer), [grokbothq.xyz](https://grokbothq.xyz/bots/data-materializer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/data-materializer) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 5 skills, 0 routines, 13 memory seeds, 0 connectors |

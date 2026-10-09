@@ -6,7 +6,7 @@ Every weekday morning, a plain-English check on Strive: did every preferred divi
 | --- | --- |
 | Original template | https://x.ai/bot/uDOZ5nRFJFFOelPE9Alee |
 | Creator | Tina Bean ([@Tina](https://x.com/Tina)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/strive-daily), [grokbotwiki.com](https://www.grokbotwiki.com/bots/strive-daily), [grokbothq.xyz](https://grokbothq.xyz/bots/strive-daily), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/strive-daily) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 6 skills, 2 routines, 5 memory seeds, 2 connectors |

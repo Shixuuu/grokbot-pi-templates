@@ -6,7 +6,7 @@ Spend management across all your agents — token usage, optimization suggestion
 | --- | --- |
 | Original template | https://x.ai/bot/Ml4ynlD6O1VT5CoYmFnEa |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/token-cop), [botsdots.site](https://botsdots.site/templates/token-cop), [grokbotwiki.com](https://www.grokbotwiki.com/bots/token-cop), [grokbothq.xyz](https://grokbothq.xyz/bots/token-cop-ml4ynl), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Ml4ynlD6O1VT5CoYmFnEa), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/scottxmetcalf/status/2095540032207741431) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 2 routines, 7 memory seeds, 2 connectors |

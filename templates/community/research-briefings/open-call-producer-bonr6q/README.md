@@ -6,7 +6,7 @@ Research photography open calls, compare your finished work with the brief, and 
 | --- | --- |
 | Original template | https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro |
 | Creator | Aleksandr Nariadchikov ([@sashanaria](https://x.com/sashanaria)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/open-call-producer), [botsdots.site](https://botsdots.site/templates/open-call-producer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/open-call-producer), [grokbothq.xyz](https://grokbothq.xyz/bots/open-call-producer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/open-call-producer), [x-research](https://x.com/sashanaria/status/2103237385521971372) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 6 skills, 0 routines, 1 memory seeds, 0 connectors |

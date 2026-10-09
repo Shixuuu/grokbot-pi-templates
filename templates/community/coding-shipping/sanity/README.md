@@ -6,7 +6,7 @@ A Sanity CMS specialist for content modeling, Studio schemas, GROQ, Portable Tex
 | --- | --- |
 | Original template | https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx |
 | Creator | Adam Gray ([@ahdumgray](https://x.com/ahdumgray)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sanity), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sanity), [grokbothq.xyz](https://grokbothq.xyz/bots/sanity), [templatebot.lol](https://templatebot.lol/bot/qR7nq7v3w0bwpojx2LgQx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sanity), [x-research](https://botdirectory.ai/bots/sanity/) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Gets you what you're owed. Handles warranty claims for anything you own, and fin
 | --- | --- |
 | Original template | https://x.ai/bot/j-G1HsmexxM3s4ibmHlAP |
 | Creator | Manny Russell ([@MannyRuss2](https://x.com/MannyRuss2)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/warranty-settlement-concierge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/warranty-concierge), [grokbothq.xyz](https://grokbothq.xyz/bots/warranty-settlement-concierge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/warranty-settlement-concierge) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

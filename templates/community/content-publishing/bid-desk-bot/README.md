@@ -6,7 +6,7 @@ For a single-owner logistics startup that needs contracting opportunities at sca
 | --- | --- |
 | Original template | https://x.ai/bot/0yugqK0MhQxGg9-Lsc1rs |
 | Creator | Roskr ([@RoskrLC](https://x.com/RoskrLC)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bid-desk-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bid-desk-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/bid-desk-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bid-desk-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

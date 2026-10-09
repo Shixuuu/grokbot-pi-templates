@@ -6,7 +6,7 @@ Sorts your Gmail into needs-reply, waiting, FYI, and unsubscribe candidates. Dra
 | --- | --- |
 | Original template | https://x.ai/bot/5P3dWJ2NcYHX7SIlOs6lt |
 | Creator | Chris Hadges ([@chrishadges1](https://x.com/chrishadges1)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inbox-triage), [grokbotwiki.com](https://www.grokbotwiki.com/bots/inbox-triage), [grokbothq.xyz](https://grokbothq.xyz/bots/inbox-triage), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/inbox-triage) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 4 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Household shopper that finds a price, waits for a yes, then orders and tracks ar
 | --- | --- |
 | Original template | https://x.ai/bot/26SigD00Ar-mArCvNwXN2 |
 | Creator | vandy meares ([@vandymeares](https://x.com/vandymeares)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shoppy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shoppy), [grokbothq.xyz](https://grokbothq.xyz/bots/shoppy), [templatebot.lol](https://templatebot.lol/bot/26SigD00Ar-mArCvNwXN2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/vandymeares/status/2093864119741116483) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 10 memory seeds, 0 connectors |

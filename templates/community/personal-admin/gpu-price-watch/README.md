@@ -6,7 +6,7 @@ Tracks GPU rental prices (H100, A100, 4090 and more) across cloud providers, pin
 | --- | --- |
 | Original template | https://x.ai/bot/WTCh7nBzB55Q73ArvsBKm |
 | Creator | Sam E ([@SamE](https://x.com/SamE)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gpu-price-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gpu-price-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/gpu-price-watch), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gpu-price-watch) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 1 routines, 4 memory seeds, 0 connectors |

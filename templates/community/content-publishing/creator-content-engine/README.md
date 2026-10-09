@@ -6,7 +6,7 @@ For X creators who want range. Drop in a topic, rough thought, photo, screenshot
 | --- | --- |
 | Original template | https://x.ai/bot/pP-dzi24JtjMB_LNYFeJ2 |
 | Creator | 🇺🇸 Jersey 🇮🇹 ([@250_Revolution](https://x.com/250_Revolution)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/creator-content-engine), [grokbotwiki.com](https://www.grokbotwiki.com/bots/creator-content-engine), [grokbothq.xyz](https://grokbothq.xyz/bots/creator-content-engine), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/creator-content-engine), [x-research](https://x.com/250_Revolution/status/2105078279711383650) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

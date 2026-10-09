@@ -6,7 +6,7 @@ Quiet, budget-conscious chief of staff. Filters noise, runs real program managem
 | --- | --- |
 | Original template | https://x.ai/bot/Q95CiuxaGmjpJiBG02XGf |
 | Creator | community ([@RachelVT42](https://x.com/RachelVT42)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-q95c), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-q95c), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-46), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-6), [x-research](https://x.com/RachelVT42/status/2104524185590804958) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 12 memory seeds, 0 connectors |

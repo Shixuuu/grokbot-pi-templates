@@ -6,7 +6,7 @@ A detective bot that vets your followers, DMs, lists, and inbox, writes evidence
 | --- | --- |
 | Original template | https://x.ai/bot/ZsgeyFyAlUtxHbRgDBZqx |
 | Creator | JakeFromStarstruck. ([@Rune_King_Jake](https://x.com/Rune_King_Jake)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/botman), [grokbotwiki.com](https://www.grokbotwiki.com/bots/botman), [grokbothq.xyz](https://grokbothq.xyz/bots/botman), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/botman), [x-research](https://x.com/Rune_King_Jake/status/2107578863169450164) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 6 skills, 1 routines, 21 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Turns support posts and forwarded threads into a German working brief for you pl
 | --- | --- |
 | Original template | https://x.ai/bot/g3URTClmjeIlCgwDIK8dV |
 | Creator | Marc Zänglein ([@njuuden](https://x.com/njuuden)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/support-bridge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/support-bridge), [grokbothq.xyz](https://grokbothq.xyz/bots/support-bridge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/support-bridge), [x-research](https://x.com/njuuden/status/2101081959761891785) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

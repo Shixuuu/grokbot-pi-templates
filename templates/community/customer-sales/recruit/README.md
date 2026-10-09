@@ -6,7 +6,7 @@ UK construction recruitment assistant for contractor-only job hunts: CVs, Linked
 | --- | --- |
 | Original template | https://x.ai/bot/_qrRTV2J1DdIrEEjlNecY |
 | Creator | Niyazi Şahin ([@inovasyonkultur](https://x.com/inovasyonkultur)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/recruit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/recruit), [grokbothq.xyz](https://grokbothq.xyz/bots/recruit), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/recruit) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 14 memory seeds, 0 connectors |

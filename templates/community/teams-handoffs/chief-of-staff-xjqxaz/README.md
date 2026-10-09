@@ -6,7 +6,7 @@ A low-noise chief of staff: desk, Slack, email, calendar, purchasing, and routin
 | --- | --- |
 | Original template | https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF |
 | Creator | Aryaman Khandelwal ([@aryamankhawow](https://x.com/aryamankhawow)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-aryaman), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-aryaman), [x-research](https://x.com/aryamankhawow/status/2093385343928033312) |
 | Fidelity | **full** (full recipe, template version 17) |
 | Contents | 2 skills, 4 routines, 18 memory seeds, 4 connectors |

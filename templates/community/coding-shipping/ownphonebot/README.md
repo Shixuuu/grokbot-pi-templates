@@ -6,7 +6,7 @@ OwnPhoneBot gives your Grok Bot a real phone number. You pay VoIP.ms and OpenAI 
 | --- | --- |
 | Original template | https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP |
 | Creator | Daniel Lafraia ([@lafraia](https://x.com/lafraia)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/ownphonebot), [botsdots.site](https://botsdots.site/templates/ownphonebot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ownphonebot), [grokbothq.xyz](https://grokbothq.xyz/bots/ownphonebot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ownphonebot), [x-research](https://x.com/lafraia/status/2100362748701872405) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 2 skills, 1 routines, 19 memory seeds, 0 connectors |

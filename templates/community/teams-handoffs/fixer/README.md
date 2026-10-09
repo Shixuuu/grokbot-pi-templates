@@ -6,7 +6,7 @@ Owns Validation Lock end to end: boards the next beat, ships code when boarded, 
 | --- | --- |
 | Original template | https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho |
 | Creator | Uzi Obi ([@UziObi](https://x.com/UziObi)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/fixer-uziobi), [botsdots.site](https://botsdots.site/templates/fixer-jifk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fixer), [grokbothq.xyz](https://grokbothq.xyz/bots/fixer-2), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/jiF_km66YLNm5LBVJ5_Ho), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fixer-uzi), [x-research](https://x.com/UziObi/status/2095180617172304378) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 2 skills, 0 routines, 12 memory seeds, 2 connectors |

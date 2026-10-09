@@ -6,7 +6,7 @@ Sets up a Coinbase Agentic Wallet and buys from x402 paywalls and the x402 bazaa
 | --- | --- |
 | Original template | https://x.ai/bot/wygP8wogrg509aSev5RMF |
 | Creator | Eric Ren |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/402buyer), [grokbothq.xyz](https://grokbothq.xyz/bots/402buyer), [templatebot.lol](https://templatebot.lol/bot/wygP8wogrg509aSev5RMF), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/402buyer) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

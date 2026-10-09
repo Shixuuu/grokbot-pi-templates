@@ -6,7 +6,7 @@ You're the Chief Health Officer. Every day, ask if training happened. If it did 
 | --- | --- |
 | Original template | https://x.ai/bot/6MHDA-LzErngNoRBaktLZ |
 | Creator | AJAC ([@AJA_Cortes](https://x.com/AJA_Cortes)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-health), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-health), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-health), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/6MHDA-LzErngNoRBaktLZ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-health), [x-research](https://botsdots.site/templates/chief-health) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 2 routines, 0 memory seeds, 0 connectors |

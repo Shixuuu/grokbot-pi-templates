@@ -6,7 +6,7 @@ Reads anything aloud like a real person, not a robot: your screen, web pages, hi
 | --- | --- |
 | Original template | https://x.ai/bot/mVkkx9p_-u6HZDNavZOz9 |
 | Creator | Natarajan Balasubramanian ([@ptbnat](https://x.com/ptbnat)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/read-aloud), [grokbotwiki.com](https://www.grokbotwiki.com/bots/read-aloud), [grokbothq.xyz](https://grokbothq.xyz/bots/read-aloud), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/read-aloud), [x-research](https://x.com/ptbnat/status/2106518535149334860) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 2 skills, 4 routines, 6 memory seeds, 0 connectors |

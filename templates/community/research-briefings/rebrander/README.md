@@ -6,7 +6,7 @@ Changing your business or product name? Rebrander finds every trace of the old b
 | --- | --- |
 | Original template | https://x.ai/bot/HGorKc5KDQLynW4JONxn_ |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rebrander), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rebrander), [grokbothq.xyz](https://grokbothq.xyz/bots/rebrander), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rebrander), [x-research](https://botsdots.site/templates/rebrander) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 0 memory seeds, 0 connectors |

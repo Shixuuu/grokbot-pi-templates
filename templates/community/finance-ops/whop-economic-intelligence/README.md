@@ -6,7 +6,7 @@ Runs Whop Economic Intelligence for your business: shows the single best next ac
 | --- | --- |
 | Original template | https://x.ai/bot/m2zlrlauffu0fff6aq28c |
 | Creator | Colin McDermott |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/whop-economic-intelligence-m2zl), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/whop-economic-intelligence-m2zl) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 9 memory seeds, 1 connectors |

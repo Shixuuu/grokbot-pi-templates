@@ -6,7 +6,7 @@ Chief of Staff for a multi-bot Grok Bot fleet. Routes work, keeps a live status 
 | --- | --- |
 | Original template | https://x.ai/bot/gzyyEpwF93BbHB8nxNAVI |
 | Creator | Scott Dennison ([@asdennison](https://x.com/asdennison)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fleet-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-village-fleet), [grokbothq.xyz](https://grokbothq.xyz/bots/fleet-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fleet-manager) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 11 memory seeds, 3 connectors |

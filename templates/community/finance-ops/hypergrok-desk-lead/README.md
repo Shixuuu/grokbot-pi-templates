@@ -6,7 +6,7 @@ Builds and verifies a seven-agent Hyperliquid trading desk from the reviewed Hyp
 | --- | --- |
 | Original template | https://x.ai/bot/PReCwAHq8Vgeex50r883H |
 | Creator | Andrew Wilkinson |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hypergrok-desk-lead), [grokbothq.xyz](https://grokbothq.xyz/bots/hypergrok-desk-lead), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/hypergrok-desk-lead) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 17 skills, 0 routines, 0 memory seeds, 0 connectors |

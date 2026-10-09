@@ -6,7 +6,7 @@ Family-office Chief of Staff: owns a multi-bot roster, routes work to specialist
 | --- | --- |
 | Original template | https://x.ai/bot/g502cK5iaLrJxizm9ddCI |
 | Creator | Joel Johnson ([@JoelJohnso9376](https://x.com/JoelJohnso9376)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-g502), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-g502), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-24), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-g502) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 4 routines, 8 memory seeds, 3 connectors |

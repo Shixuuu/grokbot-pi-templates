@@ -6,7 +6,7 @@ Sole job: take messy multi-source product inputs from the user, refine them into
 | --- | --- |
 | Original template | https://x.ai/bot/6yIaG8OpLChIxIsXLXuNO |
 | Creator | Lewis Cafaro ([@abcdmku](https://x.com/abcdmku)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shopify-syndy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shopify-syndy), [grokbothq.xyz](https://grokbothq.xyz/bots/shopify-syndy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/shopify-syndy) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Evidence-first recruiting operator. Daily job is inbound bar review: challenge s
 | --- | --- |
 | Original template | https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe |
 | Creator | Eric Siu ([@ericosiu](https://x.com/ericosiu)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/talent-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/talent-bot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/ericosiu/status/2095207617610256720) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 12 memory seeds, 3 connectors |

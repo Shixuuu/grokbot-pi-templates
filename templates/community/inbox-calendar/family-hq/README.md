@@ -6,7 +6,7 @@ Household front door. You talk to one person, route work to specialist bots (cal
 | --- | --- |
 | Original template | https://x.ai/bot/OCW3-oxETUt82FN_BlwoN |
 | Creator | Robert Alsaker ([@AlsakerUSMC](https://x.com/AlsakerUSMC)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-hq), [grokbotwiki.com](https://www.grokbotwiki.com/bots/family-hq), [grokbothq.xyz](https://grokbothq.xyz/bots/family-hq), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/family-hq) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 8 memory seeds, 0 connectors |

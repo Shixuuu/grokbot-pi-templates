@@ -6,7 +6,7 @@ Night-shift coding bot for one SaaS. The owner queues an idea; this bot ships pu
 | --- | --- |
 | Original template | https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/overnight-shipper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/overnight-shipper), [grokbothq.xyz](https://grokbothq.xyz/bots/overnight-shipper), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/aaqCOb-3SE48_7qAEAzAf), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/overnight-shipper), [x-research](https://botsdots.site/templates/overnight-shipper) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

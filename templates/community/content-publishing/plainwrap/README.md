@@ -6,7 +6,7 @@ Plainwrap turns files, links, notes, threads, or long docs into plain English mo
 | --- | --- |
 | Original template | https://x.ai/bot/UcazP9A_LRigoW9b06QRo |
 | Creator | Code Solutions ([@CodeSolutionsIL](https://x.com/CodeSolutionsIL)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/plainwrap), [grokbotwiki.com](https://www.grokbotwiki.com/bots/babel-fish), [grokbothq.xyz](https://grokbothq.xyz/bots/babel-fish-code), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/CodeSolutionsIL/status/2101537786947830190) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

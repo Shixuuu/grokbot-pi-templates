@@ -6,7 +6,7 @@ Farms action items from meeting notes and Slack into your task tracker — dedup
 | --- | --- |
 | Original template | https://x.ai/bot/MmcPTdwYwr6ebmmZzswYe |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/task-farming), [botsdots.site](https://botsdots.site/templates/task-farming), [grokbotwiki.com](https://www.grokbotwiki.com/bots/task-farming), [grokbothq.xyz](https://grokbothq.xyz/bots/task-farming), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/task-farming), [x-research](https://x.com/scottxmetcalf/status/2098802349649387896) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 9 memory seeds, 3 connectors |

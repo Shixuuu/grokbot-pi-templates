@@ -6,7 +6,7 @@ A股追涨杀跌助手。甩代码就拉真实行情，一口给出追、拿着�
 | --- | --- |
 | Original template | https://x.ai/bot/8Uon_mHNJRQfA2IsF7KNb |
 | Creator | say stone |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ox-alpha), [grokbothq.xyz](https://grokbothq.xyz/bots/ox-alpha), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ox-alpha) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Receipt-first grocery tracker that also builds meal shopping lists. Drop a recei
 | --- | --- |
 | Original template | https://x.ai/bot/k-bz2_bfptzdwaaw7phxp |
 | Creator | Brantley Brumley |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grocery-bot-kbz2b), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/grocery-bot-kbz2b) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 1 routines, 4 memory seeds, 0 connectors |

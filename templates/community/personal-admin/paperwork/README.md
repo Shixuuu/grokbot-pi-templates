@@ -6,7 +6,7 @@ Takes every boring document someone receives, works out what it is and what need
 | --- | --- |
 | Original template | https://x.ai/bot/mNN576TxXnc_XZu9aCsfr |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paperwork), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paperwork), [grokbothq.xyz](https://grokbothq.xyz/bots/paperwork), [templatebot.lol](https://templatebot.lol/bot/mNN576TxXnc_XZu9aCsfr), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/paperwork), [x-research](https://botsdots.site/templates/paperwork) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Founding engineer for bot-native products — ships landers and core loops fast,
 | --- | --- |
 | Original template | https://x.ai/bot/Nc87ABvRICHGiVMlhQD4X |
 | Creator | Jonathan Kurniawan |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/Nc87ABvRICHGiVMlhQD4X) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ House hunting made easy: say where and your max price, then get twice-daily watc
 | --- | --- |
 | Original template | https://x.ai/bot/ssC5TnXkyb1lkdzOa21Mg |
 | Creator | Alison Childs ([@al1__x](https://x.com/al1__x)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/house-hunt-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/house-hunt-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/house-hunt-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/house-hunt-assistant) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 6 skills, 0 routines, 10 memory seeds, 1 connectors |

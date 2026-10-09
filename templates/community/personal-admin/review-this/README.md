@@ -6,7 +6,7 @@ Reviews the exact product you name. Weighs lab tests, retailer ratings, and owne
 | --- | --- |
 | Original template | https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4 |
 | Creator | dogenorway dogenorway ([@DogecoinNorway](https://x.com/DogecoinNorway)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/review-this), [grokbotwiki.com](https://www.grokbotwiki.com/bots/review-this), [grokbothq.xyz](https://grokbothq.xyz/bots/review-this), [templatebot.lol](https://templatebot.lol/bot/g4hvAEhebCPzqwsdPBGu4), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/review-this), [x-research](https://botsdots.site/templates/review-this) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Personal accountant bot. Tracks money, tax, and cash flow, watches bills so noth
 | --- | --- |
 | Original template | https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5 |
 | Creator | Wagmoo Winterhoof ([@zilarwitch](https://x.com/zilarwitch)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/mr-dufrain), [botsdots.site](https://botsdots.site/templates/mr-dufrain), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mr-dufrain), [grokbothq.xyz](https://grokbothq.xyz/bots/mr-dufrain), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mr-dufrain), [x-research](https://x.com/zilarwitch/status/2095992717805547980) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 8 memory seeds, 1 connectors |

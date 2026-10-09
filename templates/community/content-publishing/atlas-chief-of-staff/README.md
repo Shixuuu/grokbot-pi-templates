@@ -6,7 +6,7 @@ Chief of staff for an indie author brand. Assigns work to specialist bots, keeps
 | --- | --- |
 | Original template | https://x.ai/bot/IM85IkIwRCySw0epewBpX |
 | Creator | Natalie Hush ([@HushWritings](https://x.com/HushWritings)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/atlas-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/indie-author-cos), [grokbothq.xyz](https://grokbothq.xyz/bots/atlas-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/atlas-chief-of-staff) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 12 memory seeds, 2 connectors |

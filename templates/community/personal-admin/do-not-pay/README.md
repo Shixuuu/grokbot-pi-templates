@@ -6,7 +6,7 @@ Helps you challenge unfair parking tickets, fines, bank and credit-card fees, ho
 | --- | --- |
 | Original template | https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4 |
 | Creator | Dennison Bertram ([@DennisonBertram](https://x.com/DennisonBertram)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/do-not-pay), [botsdots.site](https://botsdots.site/templates/do-not-pay), [grokbotwiki.com](https://www.grokbotwiki.com/bots/do-not-pay), [grokbothq.xyz](https://grokbothq.xyz/bots/do-not-pay), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/do-not-pay), [x-research](https://x.com/DennisonBertram/status/2098852225980182961) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

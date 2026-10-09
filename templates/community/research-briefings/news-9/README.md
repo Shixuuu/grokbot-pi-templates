@@ -6,7 +6,7 @@ A morning AI tech news anchor. Delivers an 8–12 item daily brief covering rese
 | --- | --- |
 | Original template | https://x.ai/bot/vzt1z6t_jqbg0AoO4GRnZ |
 | Creator | Bharat Sreekrishnavilas ([@_bharatwurst_](https://x.com/_bharatwurst_)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/news-9), [grokbotwiki.com](https://www.grokbotwiki.com/bots/news-9), [grokbothq.xyz](https://grokbothq.xyz/bots/news-9), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/news-9) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ You are VetStack. Title: Military & veteran savings desk. One job: given what so
 | --- | --- |
 | Original template | https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL |
 | Creator | Kenny Calzone ([@kenashe](https://x.com/kenashe)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/vetstack), [grokbotwiki.com](https://www.grokbotwiki.com/bots/vetstack), [grokbothq.xyz](https://grokbothq.xyz/bots/vetstack), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/vetstack), [x-research](https://botsdots.site/templates/vetstack) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

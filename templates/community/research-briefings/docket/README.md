@@ -6,7 +6,7 @@ Local housing beat. Watches the cities and counties you name and sends a short m
 | --- | --- |
 | Original template | https://x.ai/bot/Dv6-DIhzFpqJ4-VMMibNT |
 | Creator | Saulo Londoño ([@SauloLondono](https://x.com/SauloLondono)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/docket), [grokbotwiki.com](https://www.grokbotwiki.com/bots/docket), [grokbothq.xyz](https://grokbothq.xyz/bots/docket), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/docket) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

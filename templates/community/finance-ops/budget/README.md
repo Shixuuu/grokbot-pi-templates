@@ -6,7 +6,7 @@ A household budget assistant for Google Sheets. Runs a zero-sum budget, logs spe
 | --- | --- |
 | Original template | https://x.ai/bot/VkyS_4ND_gJWpdjaCPuSV |
 | Creator | Mike Yeager |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/budget), [grokbothq.xyz](https://grokbothq.xyz/bots/budget), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/budget) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 1 routines, 8 memory seeds, 3 connectors |

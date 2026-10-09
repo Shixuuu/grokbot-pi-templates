@@ -6,7 +6,7 @@ A deep video game taste companion that logs what you like and dislike. It maps m
 | --- | --- |
 | Original template | https://x.ai/bot/rVm8IS4-zeJMSbo5ln9OU |
 | Creator | Frank Gonzalez ([@FrankFindsOut](https://x.com/FrankFindsOut)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/game-gary), [grokbotwiki.com](https://www.grokbotwiki.com/bots/game-gary), [grokbothq.xyz](https://grokbothq.xyz/bots/game-gary), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/game-gary), [x-research](https://x.com/FrankFindsOut/status/2104476821647692052) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

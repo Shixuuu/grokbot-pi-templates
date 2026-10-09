@@ -6,7 +6,7 @@ A warm, practical health coach for your habits, sleep, food, and training: plain
 | --- | --- |
 | Original template | https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1 |
 | Creator | Hank Jackson |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/health-coach-3), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/health-coach-2), [x-research](https://x.com/hjackson2/status/2107967216075313326) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 3 connectors |

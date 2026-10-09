@@ -6,7 +6,7 @@ Ops hub for indie authors: coordinates site, newsletter, marketing calendar, and
 | --- | --- |
 | Original template | https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8 |
 | Creator | ladybarrelmaker ([@ladybarrelmaker](https://x.com/ladybarrelmaker)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/independent-author-hub), [botsdots.site](https://botsdots.site/templates/independent-author-hub), [grokbotwiki.com](https://www.grokbotwiki.com/bots/independent-author-hub), [grokbothq.xyz](https://grokbothq.xyz/bots/independent-author-hub), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/independent-author-hub), [x-research](https://x.com/ladybarrelmaker/status/2102763758418600166) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Turns your website's tools and product pages into narrated tutorial and spotligh
 | --- | --- |
 | Original template | https://x.ai/bot/knt08ohuspBYhQ6ohXtKt |
 | Creator | Martin Frostad |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/website-highlight-video-maker), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/website-highlight-video-maker), [x-research](https://x.com/DaroFrostad/status/2107971032351207747) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

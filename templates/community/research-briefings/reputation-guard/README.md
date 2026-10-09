@@ -6,7 +6,7 @@ Watches Google and Yelp every morning for multi-location businesses, flags risky
 | --- | --- |
 | Original template | https://x.ai/bot/zcsAbSPln7Zgh9YtF_ZlU |
 | Creator | Han ([@MirasysAI](https://x.com/MirasysAI)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/reputation-guard), [grokbotwiki.com](https://www.grokbotwiki.com/bots/reputation-guard), [grokbothq.xyz](https://grokbothq.xyz/bots/reputation-guard), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/reputation-guard) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 0 connectors |

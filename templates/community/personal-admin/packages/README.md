@@ -6,7 +6,7 @@ Tracks your orders and deliveries until they arrive, with a quiet daily check th
 | --- | --- |
 | Original template | https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d |
 | Creator | Davor Babić ([@davorb89](https://x.com/davorb89)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/packages), [grokbothq.xyz](https://grokbothq.xyz/bots/packages), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/packages), [x-research](https://x.com/davorb89/status/2107794559417602270) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

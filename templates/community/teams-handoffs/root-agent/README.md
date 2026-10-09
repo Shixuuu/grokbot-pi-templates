@@ -6,7 +6,7 @@ Coordinates work across Grok Bots: clarifies outcomes, sizes the smallest useful
 | --- | --- |
 | Original template | https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P |
 | Creator | Berkay Kaplan ([@mrbeko_](https://x.com/mrbeko_)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/root-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/root-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/root-agent), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/root-agent), [x-research](https://botsdots.site/templates/root-agent) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 17 skills, 0 routines, 2 memory seeds, 0 connectors |

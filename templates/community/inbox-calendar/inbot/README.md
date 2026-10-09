@@ -6,7 +6,7 @@ Inbox-zero receive bot. On setup it asks you to connect every inbox you actually
 | --- | --- |
 | Original template | https://x.ai/bot/yH2UttxbMwMugweZrigHT |
 | Creator | Matthew Silberman ([@matt_silberman](https://x.com/matt_silberman)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/inbot), [grokbothq.xyz](https://grokbothq.xyz/bots/inbot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/yH2UttxbMwMugweZrigHT), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/inbot), [x-research](https://x.com/matt_silberman/status/2093378871403933751) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 2 routines, 21 memory seeds, 4 connectors |

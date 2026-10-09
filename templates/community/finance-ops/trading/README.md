@@ -6,7 +6,7 @@ A news-driven day-trading bot for a live brokerage book. Goes all-in on one liqu
 | --- | --- |
 | Original template | https://x.ai/bot/XW2DibYh5BRunhH_f373u |
 | Creator | Travis ([@TravisWeathers](https://x.com/TravisWeathers)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/trading), [grokbotwiki.com](https://www.grokbotwiki.com/bots/trading), [grokbothq.xyz](https://grokbothq.xyz/bots/trading), [templatebot.lol](https://templatebot.lol/bot/XW2DibYh5BRunhH_f373u), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/TravisWeathers/status/2093818846637666637) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 19 memory seeds, 0 connectors |

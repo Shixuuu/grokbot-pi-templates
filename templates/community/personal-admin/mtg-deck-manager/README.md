@@ -6,7 +6,7 @@ Organizes Magic: The Gathering card orders, Collection intake, and in-progress d
 | --- | --- |
 | Original template | https://x.ai/bot/QDcPiHhyxnzOI6y5xz5sv |
 | Creator | Nate Mallory ([@NateMallory](https://x.com/NateMallory)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mtg-deck-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mtg-deck-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/mtg-deck-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/mtg-deck-manager) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 15 memory seeds, 1 connectors |

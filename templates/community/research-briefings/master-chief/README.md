@@ -6,7 +6,7 @@ Ops chief for a final-expense underwriting desk: catch scoreboard, accuracy QA a
 | --- | --- |
 | Original template | https://x.ai/bot/gkz9qqp3PjN5h5mnET9-D |
 | Creator | ed l ([@edlonsd](https://x.com/edlonsd)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/master-chief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/product-chooser-for-agents), [grokbothq.xyz](https://grokbothq.xyz/bots/master-chief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/master-chief) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 3 routines, 8 memory seeds, 1 connectors |

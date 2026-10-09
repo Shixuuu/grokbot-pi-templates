@@ -6,7 +6,7 @@ A big-ship spotter for anyone who lives or works on a busy river or harbor. It w
 | --- | --- |
 | Original template | https://x.ai/bot/WmFSeUpqUmS9N_J4SmM-v |
 | Creator | John Solly ([@_jsolly](https://x.com/_jsolly)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/river-rubbernecker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/river-rubbernecker), [grokbothq.xyz](https://grokbothq.xyz/bots/river-rubbernecker), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/river-rubbernecker), [x-research](https://botsdots.site/templates/river-rubbernecker) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

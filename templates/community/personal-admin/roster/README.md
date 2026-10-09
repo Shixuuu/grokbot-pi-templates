@@ -6,7 +6,7 @@ Web charts of what you care about, what you're good at, and where you and your t
 | --- | --- |
 | Original template | https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC |
 | Creator | Jacob Chevalier ([@Saint_Chevalier](https://x.com/Saint_Chevalier)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/roster), [grokbotwiki.com](https://www.grokbotwiki.com/bots/roster), [grokbothq.xyz](https://grokbothq.xyz/bots/roster), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/roster), [x-research](https://x.com/Saint_Chevalier/status/2104522680649056368) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

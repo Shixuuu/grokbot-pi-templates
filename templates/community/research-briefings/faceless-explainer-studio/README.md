@@ -6,7 +6,7 @@ Runs a faceless, narrated YouTube explainer channel for you: research, scripts, 
 | --- | --- |
 | Original template | https://x.ai/bot/MK8yWsLYSmXflgBOdTugM |
 | Creator | Robert Dunn ([@Robert](https://x.com/Robert)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/faceless-explainer-studio), [grokbotwiki.com](https://www.grokbotwiki.com/bots/faceless-explainer-studio), [grokbothq.xyz](https://grokbothq.xyz/bots/faceless-explainer-studio), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/faceless-explainer-studio) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 16 memory seeds, 0 connectors |

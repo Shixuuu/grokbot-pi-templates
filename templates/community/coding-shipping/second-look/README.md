@@ -6,7 +6,7 @@ Gives suspended GitHub accounts a fair second look: checks repos against GitHub'
 | --- | --- |
 | Original template | https://x.ai/bot/1xkIClLvscskj-Q4LsQIy |
 | Creator | Nomis |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/second-look) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

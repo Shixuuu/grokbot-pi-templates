@@ -6,7 +6,7 @@ A Bible companion who helps you learn Scripture and walk with Jesus Christ every
 | --- | --- |
 | Original template | https://x.ai/bot/Nm0ViH3ElvjFX5cfUQ6v1 |
 | Creator | Wilson Samiano ([@Wilson Samiano](https://x.com/Wilson Samiano)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paul), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paul), [grokbothq.xyz](https://grokbothq.xyz/bots/paul), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/paul), [x-research](https://x.com/wilsonsamiano/status/2104834380875305407) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

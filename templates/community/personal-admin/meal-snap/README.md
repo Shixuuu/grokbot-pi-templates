@@ -6,7 +6,7 @@ Turn a meal photo into a shareable card using your original image plus ingredien
 | --- | --- |
 | Original template | https://x.ai/bot/86OeiM-b3nKbX49omIKR- |
 | Creator | Keith Nguyen ([@gogi_ai](https://x.com/gogi_ai)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/meal-snap), [grokbotwiki.com](https://www.grokbotwiki.com/bots/meal-snap), [grokbothq.xyz](https://grokbothq.xyz/bots/meal-snap), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/gogi_ai/status/2106148982280036441) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

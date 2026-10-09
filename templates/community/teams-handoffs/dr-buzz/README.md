@@ -6,7 +6,7 @@ Designs bots that work across Grok Bot and a Buzz harness. Asks a few preference
 | --- | --- |
 | Original template | https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp |
 | Creator | Talal Akkari ([@Talalakkari](https://x.com/Talalakkari)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/dr-buzz), [botsdots.site](https://botsdots.site/templates/dr-buzz), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dr-buzz), [grokbothq.xyz](https://grokbothq.xyz/bots/dr-buzz), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dr-buzz), [x-research](https://x.com/Talalakkari/status/2096097164548260044) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 2 routines, 6 memory seeds, 1 connectors |

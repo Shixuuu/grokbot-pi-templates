@@ -6,7 +6,7 @@ A Home Assistant helper for live device control over MCP, solar and energy statu
 | --- | --- |
 | Original template | https://x.ai/bot/ZwOyvMIIYuQBoBvnqYmER |
 | Creator | Domenico Nicoli ([@Domenico Nicoli](https://x.com/Domenico Nicoli)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/home-assistant-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/home-assistant-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/home-assistant-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/home-assistant-bot), [x-research](https://x.com/DomenicoNicoli/status/2104888934123925711) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

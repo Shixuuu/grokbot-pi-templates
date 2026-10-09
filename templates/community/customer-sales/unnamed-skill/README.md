@@ -6,7 +6,7 @@ Japan B2B form-first outreach bot: copy quality gate, daily prep without sending
 | --- | --- |
 | Original template | https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC |
 | Creator | 直人 島 ([@isle_claude](https://x.com/isle_claude)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/form-first-b2b-outreach-japan), [grokbotwiki.com](https://www.grokbotwiki.com/bots/form-first-b2b-outreach-japan), [grokbothq.xyz](https://grokbothq.xyz/bots/form-first-outbound), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/japan-form-first-outreach), [x-research](https://x.com/isle_claude/status/2103699353751969828) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 11 memory seeds, 2 connectors |

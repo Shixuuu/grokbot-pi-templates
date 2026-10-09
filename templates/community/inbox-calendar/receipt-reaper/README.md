@@ -6,7 +6,7 @@ Hunts forgotten SaaS in your Gmail, scores a Zombie Index, and opens a playful l
 | --- | --- |
 | Original template | https://x.ai/bot/gIV4FpQgVmcsO0soCjHGc |
 | Creator | Brian Mangum ([@RealJBMangum](https://x.com/RealJBMangum)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/receipt-reaper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/receipt-reaper), [grokbothq.xyz](https://grokbothq.xyz/bots/receipt-reaper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/receipt-reaper), [x-research](https://x.com/RealJBMangum/status/2098790265276231929) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 3 skills, 1 routines, 5 memory seeds, 1 connectors |

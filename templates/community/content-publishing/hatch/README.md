@@ -6,7 +6,7 @@ Equal maker for ambitious creative and technical work — designs Grok Bots, shi
 | --- | --- |
 | Original template | https://x.ai/bot/o8hID4-jKPlA8QQQH5K69 |
 | Creator | littletech bird ([@littletechbird](https://x.com/littletechbird)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/hatch), [botsdots.site](https://botsdots.site/templates/hatch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hatch), [grokbothq.xyz](https://grokbothq.xyz/bots/hatch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hatch), [x-research](https://x.com/littletechbird/status/2101636015782011248) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 12 skills, 2 routines, 21 memory seeds, 8 connectors |

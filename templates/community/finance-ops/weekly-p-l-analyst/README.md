@@ -6,7 +6,7 @@ Weekly P&L covering revenue, retention, leakage and ad efficiency, with every ad
 | --- | --- |
 | Original template | https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/weekly-pl-analyst), [grokbotwiki.com](https://www.grokbotwiki.com/bots/weekly-p-l-analyst), [grokbothq.xyz](https://grokbothq.xyz/bots/weekly-p-l-analyst), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/weekly-p-l-analyst), [x-research](https://botsdots.site/templates/weekly-pl-analyst) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 0 skills, 0 routines, 16 memory seeds, 1 connectors |

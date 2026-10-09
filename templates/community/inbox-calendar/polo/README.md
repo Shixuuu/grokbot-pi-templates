@@ -6,7 +6,7 @@ Watches your inbox for questions you can already answer from mail or files you a
 | --- | --- |
 | Original template | https://x.ai/bot/R-i5_wHeR_cBinyLVyvWh |
 | Creator | Soleio ​ ([@soleio](https://x.com/soleio)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/polo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/polo), [grokbothq.xyz](https://grokbothq.xyz/bots/polo), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/polo) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 1 routines, 12 memory seeds, 3 connectors |

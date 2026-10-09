@@ -6,7 +6,7 @@ Field workforce scheduling for agents. Connects to ZenSched over MCP so an agent
 | --- | --- |
 | Original template | https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix |
 | Creator | Mike ([@zensched](https://x.com/zensched)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zensched), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zensched), [grokbothq.xyz](https://grokbothq.xyz/bots/zensched), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/zensched-field-crew-scheduler), [x-research](https://botsdots.site/templates/zensched) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Standing ops desk for a food plant / co-pack / seasoning-blend shop: sales order
 | --- | --- |
 | Original template | https://x.ai/bot/TkoRVSXsTCUnx4427FKnw |
 | Creator | Vince Williams ([@VinceWilliams21](https://x.com/VinceWilliams21)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shop-processes), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shop-processes), [grokbothq.xyz](https://grokbothq.xyz/bots/shop-processes), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/VinceWilliams21/status/2100013315321933905) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 18 memory seeds, 1 connectors |

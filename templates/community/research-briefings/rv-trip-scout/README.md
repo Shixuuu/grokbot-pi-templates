@@ -6,7 +6,7 @@ Plans RV and fifth-wheel routes and stops around your rig's height, length, and 
 | --- | --- |
 | Original template | https://x.ai/bot/2lNBe_0w4Ua7tH4oawNWO |
 | Creator | Richard Ames ([@RA5748612640474](https://x.com/RA5748612640474)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rv-trip-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rv-trip-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/rv-trip-scout) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

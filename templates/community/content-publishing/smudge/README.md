@@ -6,7 +6,7 @@ Gary Bishop's rewriter (@9unsmoke on X). It takes writing that sounds machine-ma
 | --- | --- |
 | Original template | https://x.ai/bot/H6786swUEkqg8xa3MFVLz |
 | Creator | Gary Bishop ([@9unsmoke](https://x.com/9unsmoke)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/smudge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/smudge), [grokbothq.xyz](https://grokbothq.xyz/bots/smudge), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/smudge), [x-research](https://x.com/9unsmoke/status/2105958022841540909) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

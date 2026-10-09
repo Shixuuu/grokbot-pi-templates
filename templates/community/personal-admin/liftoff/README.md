@@ -6,7 +6,7 @@ A pre-launch checklist bot for anyone shipping an app, site, or paid plan. It ch
 | --- | --- |
 | Original template | https://x.ai/bot/ySMQW544mSpZFty-DaGml |
 | Creator | D'Artagnan ([@the_Arow_H](https://x.com/the_Arow_H)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/liftoff-ysmq), [grokbotwiki.com](https://www.grokbotwiki.com/bots/liftoff-ysmq), [grokbothq.xyz](https://grokbothq.xyz/bots/liftoff-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/liftoff), [x-research](https://x.com/the_Arow_H/status/2107605394398777619) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

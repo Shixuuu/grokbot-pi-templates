@@ -6,7 +6,7 @@ Front-door assistant that runs your day through a specialist swarm: email, calen
 | --- | --- |
 | Original template | https://x.ai/bot/axOL-NZLrI_7T-ow1mp6A |
 | Creator | Mike Glass ([@RealMikeGlass](https://x.com/RealMikeGlass)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-axol), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-axol), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-19), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-axol) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 1 routines, 12 memory seeds, 4 connectors |

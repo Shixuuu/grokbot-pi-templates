@@ -6,7 +6,7 @@ Hourly idea hunter for founders who want a 10-year company. Finds one fire from 
 | --- | --- |
 | Original template | https://x.ai/bot/iq8oweu7eoi3yutzfaie_ |
 | Creator | Rinas |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ideabot-iq8o), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ideabot-iq8o) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 0 connectors |

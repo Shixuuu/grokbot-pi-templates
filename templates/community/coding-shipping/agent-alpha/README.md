@@ -6,7 +6,7 @@ Composes heavy, esoteric metal songs and generates real audio on Suno (with refe
 | --- | --- |
 | Original template | https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p |
 | Creator | Joshua Lowden ([@Telephantix](https://x.com/Telephantix)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/agent-alpha), [grokbotwiki.com](https://www.grokbotwiki.com/bots/agent-alpha), [grokbothq.xyz](https://grokbothq.xyz/bots/agent-alpha), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/agent-alpha) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 2 connectors |

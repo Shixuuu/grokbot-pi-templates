@@ -6,7 +6,7 @@ Turns a CSV or pasted table into an honest, clean chart or table, or critiques a
 | --- | --- |
 | Original template | https://x.ai/bot/xk4TYexNbnfmS8l88QR8v |
 | Creator | Fred Hazelton ([@Fred Hazelton](https://x.com/Fred Hazelton)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/data-viz), [grokbotwiki.com](https://www.grokbotwiki.com/bots/data-viz), [grokbothq.xyz](https://grokbothq.xyz/bots/data-viz), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/data-viz), [x-research](https://botsdots.site/templates/data-viz) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Sports marketing partnership ops partner for field marketers. Runs ticket and ev
 | --- | --- |
 | Original template | https://x.ai/bot/BjzK0lRsgxuLSsQIsnI3E |
 | Creator | Jenna Nanpei |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bing-bong), [grokbothq.xyz](https://grokbothq.xyz/bots/bing-bong), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bing-bong) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 8 skills, 2 routines, 7 memory seeds, 5 connectors |

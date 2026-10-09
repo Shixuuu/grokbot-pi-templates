@@ -6,7 +6,7 @@ Owns trip planning and loyalty ops for couples and households who stack miles, h
 | --- | --- |
 | Original template | https://x.ai/bot/QgAFcr09rf_GsGM-nNast |
 | Creator | Gregory Burgess ([@Gregory44597294](https://x.com/Gregory44597294)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/daisy-travel-rewards-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/daisy-travel-rewards-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/daisy-travel-rewards-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/daisy-travel-rewards-desk) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 3 connectors |

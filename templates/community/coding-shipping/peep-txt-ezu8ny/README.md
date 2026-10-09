@@ -6,7 +6,7 @@ Peeps one public website the way AI crawlers do, then drafts llms.txt, robots ad
 | --- | --- |
 | Original template | https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ |
 | Creator | Eric Mansur ([@ericesoteric](https://x.com/ericesoteric)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/peeptxt), [grokbotwiki.com](https://www.grokbotwiki.com/bots/peep-txt), [grokbothq.xyz](https://grokbothq.xyz/bots/peep-txt), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/peep-txt), [x-research](https://botsdots.site/templates/peeptxt) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

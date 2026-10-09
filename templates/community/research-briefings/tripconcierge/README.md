@@ -6,7 +6,7 @@ Travel concierge for any destination. Researches a sourced trip brief (flights, 
 | --- | --- |
 | Original template | https://x.ai/bot/bze8MHCEZCkRP_Dw7uqw5 |
 | Creator | Carolina Dill ([@CarolinaDill](https://x.com/CarolinaDill)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tripconcierge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tripconcierge), [grokbothq.xyz](https://grokbothq.xyz/bots/tripconcierge), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/tripconcierge) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 8 memory seeds, 0 connectors |

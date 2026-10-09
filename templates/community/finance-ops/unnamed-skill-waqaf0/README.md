@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y |
 | Creator | sat0xshi suzuki ([@sat0xshi](https://x.com/sat0xshi)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/walks-through-ordering-japanese-company), [grokbotwiki.com](https://www.grokbotwiki.com/bots/walks-through-ordering-japanese-company), [grokbothq.xyz](https://grokbothq.xyz/bots/by-sat0xshi-WAQAF0bS), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/japanese-registry-certificate), [x-research](https://x.com/sat0xshi/status/2096207930043629670) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

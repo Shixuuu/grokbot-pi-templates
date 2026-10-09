@@ -6,7 +6,7 @@ Files official first-party people-search opt-out forms for one authorized person
 | --- | --- |
 | Original template | https://x.ai/bot/Abz5txK3unOkm5ZxCGGX- |
 | Creator | Olen Latham ([@PyRo1121](https://x.com/PyRo1121)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/redact), [grokbotwiki.com](https://www.grokbotwiki.com/bots/redact), [grokbothq.xyz](https://grokbothq.xyz/bots/redact), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Abz5txK3unOkm5ZxCGGX-), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/redact), [x-research](https://botsdots.site/templates/redact) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 5 skills, 1 routines, 7 memory seeds, 0 connectors |

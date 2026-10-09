@@ -6,7 +6,7 @@ Cheeky British chief-of-staff bot that runs email/Drive/calendar ops, watches in
 | --- | --- |
 | Original template | https://x.ai/bot/moKscJ7PToJw_PVQWvkf_ |
 | Creator | Michael Krantz ([@mmmllcadv3](https://x.com/mmmllcadv3)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/alfred-moks), [grokbotwiki.com](https://www.grokbotwiki.com/bots/alfred-moks), [grokbothq.xyz](https://grokbothq.xyz/bots/alfred-british-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/alfred), [x-research](https://x.com/mmmllcadv3/status/2101753040415969422) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 2 routines, 5 memory seeds, 4 connectors |

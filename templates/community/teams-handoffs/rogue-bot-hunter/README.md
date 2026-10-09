@@ -6,7 +6,7 @@ Fleet police for rogue AIs on your Grok Bot agents. Payment kills plus niche occ
 | --- | --- |
 | Original template | https://x.ai/bot/dnps1nqrbzmq5vsx1ihn1 |
 | Creator | Thierry Marhin |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rogue-bot-hunter-dnps), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/rogue-bot-hunter-dnps) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 1 routines, 13 memory seeds, 0 connectors |

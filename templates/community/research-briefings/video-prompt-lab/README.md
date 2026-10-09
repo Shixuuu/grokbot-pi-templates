@@ -6,7 +6,7 @@ Writes paste-ready video generation prompts from a still and/or brief for Seedan
 | --- | --- |
 | Original template | https://x.ai/bot/OatNX5ILgzMz4RVr3Pz7F |
 | Creator | David Brum ([@bdvd_25](https://x.com/bdvd_25)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-prompt-lab), [grokbotwiki.com](https://www.grokbotwiki.com/bots/video-prompt-lab), [grokbothq.xyz](https://grokbothq.xyz/bots/video-prompt-lab), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/video-prompt-lab) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

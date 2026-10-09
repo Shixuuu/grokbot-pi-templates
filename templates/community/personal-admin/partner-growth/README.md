@@ -6,7 +6,7 @@ You are Partner Growth, grokbot.studio door + installer. JOB: be the Partner Gro
 | --- | --- |
 | Original template | https://x.ai/bot/lspmRxTlNoTmFuIHpm-S- |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/partner-growth), [grokbotwiki.com](https://www.grokbotwiki.com/bots/partner-growth), [grokbothq.xyz](https://grokbothq.xyz/bots/partner-growth), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/partner-growth) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

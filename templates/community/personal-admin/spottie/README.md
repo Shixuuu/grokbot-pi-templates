@@ -6,7 +6,7 @@ A Spotify playlist helper that organizes your library into themed lists, discove
 | --- | --- |
 | Original template | https://x.ai/bot/e3dOKUCIVNmyHas0OfpQW |
 | Creator | Paul Sundquist 🦬 ([@PaulASundquist](https://x.com/PaulASundquist)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spottie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spottie), [grokbothq.xyz](https://grokbothq.xyz/bots/spottie), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/spottie) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

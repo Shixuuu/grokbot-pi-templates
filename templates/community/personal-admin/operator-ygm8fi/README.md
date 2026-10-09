@@ -6,7 +6,7 @@ A single daily office for founders. It asks a short multiple-choice grill to dia
 | --- | --- |
 | Original template | https://x.ai/bot/YgM8FiKS0WczveQXe6edr |
 | Creator | ◢◤◥◣◥◣◢◤ ([@mjjefford](https://x.com/mjjefford)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/operator), [botsdots.site](https://botsdots.site/templates/operator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/operator), [grokbothq.xyz](https://grokbothq.xyz/bots/operator-ygm8fi), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/operator), [x-research](https://x.com/mjjefford/status/2095417935539908829) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

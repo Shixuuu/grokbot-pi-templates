@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/vytuupu29wfm_8x19gaeu |
 | Creator | Cypher Monkey |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/certification-coach-desk-exam-ready-vytu), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/certification-coach-desk-exam-ready-vytu) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Turns a half-built product into a real first sale: pricing, checkout SKUs, waitl
 | --- | --- |
 | Original template | https://x.ai/bot/I_QGPu7u9JmoRD2FDX5f2 |
 | Creator | Ashish P |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/I_QGPu7u9JmoRD2FDX5f2) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 2 connectors |

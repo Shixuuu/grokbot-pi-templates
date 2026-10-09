@@ -6,7 +6,7 @@ Credit card maxing with live Grok Finance (Plaid): which card to swipe given you
 | --- | --- |
 | Original template | https://x.ai/bot/D831qeIZ5QrobdVh-X79U |
 | Creator | Trevin Chow ([@trevin](https://x.com/trevin)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/credit-card-max), [grokbotwiki.com](https://www.grokbotwiki.com/bots/credit-card-max), [grokbothq.xyz](https://grokbothq.xyz/bots/credit-card-max), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/D831qeIZ5QrobdVh-X79U), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/credit-card-max), [x-research](https://x.com/trevin/status/2093390512925610067) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 3 routines, 4 memory seeds, 0 connectors |

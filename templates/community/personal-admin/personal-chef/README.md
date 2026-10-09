@@ -6,7 +6,7 @@ Answers "what's for dinner?" for your whole week. Six quick questions set up you
 | --- | --- |
 | Original template | https://x.ai/bot/gmrnnpgylgu11pimcwtdy |
 | Creator | Chef McMakin |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/personal-chef-gmrn), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/personal-chef-gmrn) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

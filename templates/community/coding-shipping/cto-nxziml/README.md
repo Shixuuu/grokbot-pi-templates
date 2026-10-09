@@ -6,7 +6,7 @@ Level 1 CTO for a personal bot org. Turns product direction into working softwar
 | --- | --- |
 | Original template | https://x.ai/bot/N_ziMli8oxzdFJgTKV3DV |
 | Creator | Divyansh Bhadauria |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cto), [grokbothq.xyz](https://grokbothq.xyz/bots/cto-divyansh), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/cto) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 10 memory seeds, 0 connectors |

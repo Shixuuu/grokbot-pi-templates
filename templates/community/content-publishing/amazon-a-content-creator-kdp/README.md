@@ -6,7 +6,7 @@ Builds Amazon KDP A+ Content for your books: module plan, finished images, and p
 | --- | --- |
 | Original template | https://x.ai/bot/M50zP05s02Y7cBzIc7i00 |
 | Creator | anton dorfmann ([@Pieter Dohlen](https://x.com/Pieter Dohlen)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/amazon-a-content-creator-kdp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/amazon-a-content-creator-kdp), [grokbothq.xyz](https://grokbothq.xyz/bots/amazon-a-plus-content-creator-kdp), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/amazon-a-content-creator-kdp), [x-research](https://x.com/El_Tonio83/status/2104889582089126149) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

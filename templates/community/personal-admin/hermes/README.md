@@ -6,7 +6,7 @@ A money agent that hunts legal near-term cash, startup credits, and free claims,
 | --- | --- |
 | Original template | https://x.ai/bot/Ze_ioJPqoYyKES0-yYNHy |
 | Creator | Tyler Harden ([@tylerjharden](https://x.com/tylerjharden)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hermes), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hermes), [grokbothq.xyz](https://grokbothq.xyz/bots/hermes), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/hermes) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 1 connectors |

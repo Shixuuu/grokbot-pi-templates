@@ -6,7 +6,7 @@ Builds a maintenance and repair schedule for your vehicle from the year, make, m
 | --- | --- |
 | Original template | https://x.ai/bot/HlGmTdNrPLsV5kYtjOIJI |
 | Creator | Shannon ([@Kirby21sk](https://x.com/Kirby21sk)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/garage-guide), [grokbotwiki.com](https://www.grokbotwiki.com/bots/garage-guide), [grokbothq.xyz](https://grokbothq.xyz/bots/garage-guide), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/garage-guide), [x-research](https://botsdots.site/templates/garage-guide) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 1 connectors |

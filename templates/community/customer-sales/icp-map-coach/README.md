@@ -6,7 +6,7 @@ Maps TAM and ICP accounts, then fills buying committees for outbound. Built for 
 | --- | --- |
 | Original template | https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF |
 | Creator | Taus SH ([@ShehjadTaus](https://x.com/ShehjadTaus)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/icp-map-coach), [botsdots.site](https://botsdots.site/templates/icp-map-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/icp-map-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/icp-map-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/icp-map-coach), [x-research](https://x.com/ShehjadTaus/status/2098538235303735484) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 2 routines, 3 memory seeds, 1 connectors |

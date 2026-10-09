@@ -6,7 +6,7 @@ Ops bot that meters Grok Bot and Cursor spend, enforces a daily budget, ranks to
 | --- | --- |
 | Original template | https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j |
 | Creator | Neessam ([@compileinstyle](https://x.com/compileinstyle)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/usage-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/usage-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/usage-watch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/usage-watch), [x-research](https://x.com/compileinstyle/status/2098105443558072525) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 11 memory seeds, 1 connectors |

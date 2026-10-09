@@ -6,7 +6,7 @@ Instagram outreach from a signed-in browser. Search posts, find public engagers,
 | --- | --- |
 | Original template | https://x.ai/bot/m6f6B1hONvrzPrvFEIw7y |
 | Creator | Jeroen Erne |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/instagram-connector-liker-follower-commenter), [grokbothq.xyz](https://grokbothq.xyz/bots/instagram-connector-liker-follower-commenter), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/instagram-connector-liker-follower-commenter) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

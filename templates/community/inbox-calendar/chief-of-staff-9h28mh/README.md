@@ -6,7 +6,7 @@ Personal Chief of Staff that on first install walks you through full setup: Gmai
 | --- | --- |
 | Original template | https://x.ai/bot/9h28mHEds4Q5FHkni25Js |
 | Creator | Sravan v J ([@sravanjay](https://x.com/sravanjay)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-9h28), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-morning), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-sravanjay), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-5), [x-research](https://botsdots.site/templates/chief-of-staff-9h28) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 2 connectors |

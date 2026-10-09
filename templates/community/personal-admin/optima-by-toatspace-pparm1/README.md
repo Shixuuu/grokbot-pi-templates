@@ -6,7 +6,7 @@ Cleans leftover old rules out of a bot’s docs and memory so it stops following
 | --- | --- |
 | Original template | https://x.ai/bot/ppARM1W-tWcae_wryLH1z |
 | Creator | gemini sub001 ([@TOATspace](https://x.com/TOATspace)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/optima-ppar), [grokbothq.xyz](https://grokbothq.xyz/bots/optima-by-toatspace), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/TOATspace/status/2098352593877844390) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

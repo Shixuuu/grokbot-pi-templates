@@ -6,7 +6,7 @@ Investigates questions on the web and your tools, and prepares daily Spanish X d
 | --- | --- |
 | Original template | https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd |
 | Creator | Valentin Giuliani ([@Valentin Giuliani Valdemoros](https://x.com/Valentin Giuliani Valdemoros)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tin-el-investigador), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tin-el-investigador), [grokbothq.xyz](https://grokbothq.xyz/bots/tin-el-investigador), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tin-el-investigador), [x-research](https://x.com/valengiulimor/status/2099607798766084217) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 6 memory seeds, 2 connectors |

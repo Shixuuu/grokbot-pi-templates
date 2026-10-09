@@ -6,7 +6,7 @@ Ask NFL matchup questions and get straight answers from gangsta.sh: win odds fro
 | --- | --- |
 | Original template | https://x.ai/bot/5Jph3pVZrvltgoe5lSx_z |
 | Creator | Randy Daniel ([@randydigital](https://x.com/randydigital)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/monty-carlo-nfl-simulator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/monty-carlo-nfl-simulator), [grokbothq.xyz](https://grokbothq.xyz/bots/monty-carlo-nfl-simulator), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/monty-carlo-nfl-simulator) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 5 skills, 0 routines, 4 memory seeds, 0 connectors |

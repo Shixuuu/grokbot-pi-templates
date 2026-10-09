@@ -6,7 +6,7 @@ TBL Liquidity analyst bot. Watches The Bitcoin Layer Pulse for confirmed green/r
 | --- | --- |
 | Original template | https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7 |
 | Creator | Thomas Ferriere ([@Tferriere](https://x.com/Tferriere)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/the-bitcoin-layer), [botsdots.site](https://botsdots.site/templates/the-bitcoin-layer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-bitcoin-layer), [grokbothq.xyz](https://grokbothq.xyz/bots/the-bitcoin-layer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-bitcoin-layer), [x-research](https://x.com/Tferriere/status/2095770015723393337) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 14 memory seeds, 0 connectors |

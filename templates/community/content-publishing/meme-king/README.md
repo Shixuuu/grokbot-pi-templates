@@ -6,7 +6,7 @@ Makes still memes and GIFs on demand from live X trends and news, plus a 3–5 m
 | --- | --- |
 | Original template | https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp |
 | Creator | dogenorway dogenorway ([@DogecoinNorway](https://x.com/DogecoinNorway)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/meme-king), [grokbotwiki.com](https://www.grokbotwiki.com/bots/meme-king), [grokbothq.xyz](https://grokbothq.xyz/bots/meme-king), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/meme-king) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 3 skills, 1 routines, 16 memory seeds, 1 connectors |

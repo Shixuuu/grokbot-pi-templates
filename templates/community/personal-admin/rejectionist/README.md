@@ -6,7 +6,7 @@ Turn an App Store or TestFlight review rejection into a fix plan: guideline cite
 | --- | --- |
 | Original template | https://x.ai/bot/MzKMT64ou_j4Q3edfbjE_ |
 | Creator | Nomis ([@cradrrat](https://x.com/cradrrat)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rejectionist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rejectionist), [grokbothq.xyz](https://grokbothq.xyz/bots/rejectionist), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rejectionist), [x-research](https://botsdots.site/templates/rejectionist) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

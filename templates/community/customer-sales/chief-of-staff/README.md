@@ -6,7 +6,7 @@ A founder’s chief of staff for product GTM: runs social/content ops, standing 
 | --- | --- |
 | Original template | https://x.ai/bot/a7MKDpnkdYF2q_GwRmh3I |
 | Creator | Tol Ho ([@Sentinel_Credit](https://x.com/Sentinel_Credit)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-a7mk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-a7mk), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-10), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-a7mk) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 0 connectors |

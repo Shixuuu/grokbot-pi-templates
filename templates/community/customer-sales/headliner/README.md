@@ -6,7 +6,7 @@ An outreach agent for ambitious organizations: student clubs, nonprofits, startu
 | --- | --- |
 | Original template | https://x.ai/bot/thQfSs8ZqbzB1w2cAmSzA |
 | Creator | Navya Mehrotra ([@NavyaM89482](https://x.com/NavyaM89482)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/headliner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/club-sponsor-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/headliner), [templatebot.lol](https://templatebot.lol/bot/thQfSs8ZqbzB1w2cAmSzA), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/club-sponsor-bot), [x-research](https://botsdots.site/templates/headliner) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 2 connectors |

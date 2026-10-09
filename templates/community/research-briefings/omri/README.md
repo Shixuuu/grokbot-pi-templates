@@ -6,7 +6,7 @@ Names your Grok bots with three researched personality options each, and sets sh
 | --- | --- |
 | Original template | https://x.ai/bot/EpJjDacRV17vs4bUz6l6v |
 | Creator | Erik Peterson ([@Erik](https://x.com/Erik)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/omri), [grokbotwiki.com](https://www.grokbotwiki.com/bots/omri), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/omri) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

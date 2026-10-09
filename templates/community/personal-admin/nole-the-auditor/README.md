@@ -6,7 +6,7 @@ I find waste and tighten bot teams. Quick look with almost no input, or a full k
 | --- | --- |
 | Original template | https://x.ai/bot/_6NBHPSs71x4pyQS740Od |
 | Creator | Joseph Shaw ([@strugglehugs](https://x.com/strugglehugs)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nole-the-auditor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nole-the-auditor), [grokbothq.xyz](https://grokbothq.xyz/bots/nole-the-auditor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/nole-the-auditor) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 6 skills, 0 routines, 7 memory seeds, 1 connectors |

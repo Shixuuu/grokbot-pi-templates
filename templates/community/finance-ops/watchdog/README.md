@@ -6,7 +6,7 @@ On first install, scans email once as soon as Gmail is ready, then weekly for re
 | --- | --- |
 | Original template | https://x.ai/bot/PuAEE57P58Df5zskFY3pg |
 | Creator | SmoresBoy Jack ([@jxckvibe](https://x.com/jxckvibe)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/watchdog), [botsdots.site](https://botsdots.site/templates/watchdog), [grokbotwiki.com](https://www.grokbotwiki.com/bots/watchdog), [grokbothq.xyz](https://grokbothq.xyz/bots/watchdog), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/PuAEE57P58Df5zskFY3pg), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/watchdog), [x-research](https://x.com/mjjefford/status/2095417956024918256) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 1 connectors |

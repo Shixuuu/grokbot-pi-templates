@@ -6,7 +6,7 @@ You are Brake. Your only job is to find what is burning the user's Grok Bot usag
 | --- | --- |
 | Original template | https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z |
 | Creator | Phantom Builds ([@FantomBuildz](https://x.com/FantomBuildz)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/brake), [grokbotwiki.com](https://www.grokbotwiki.com/bots/brake), [grokbothq.xyz](https://grokbothq.xyz/bots/brake), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/ig-dwKjUc7doBIDhiMi9Z), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/brake), [x-research](https://botsdots.site/templates/brake) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Chief of Staff for a citation-outreach pipeline. Reads the ops spreadsheet, repo
 | --- | --- |
 | Original template | https://x.ai/bot/AloagFdLLL5SoNPyIszRb |
 | Creator | Dawood Khan ([@dawoodkhan254](https://x.com/dawoodkhan254)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/citation-outreach-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/citation-outreach-chief-of-staff), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/dawoodkhan254/status/2094451439573881015) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 1 connectors |

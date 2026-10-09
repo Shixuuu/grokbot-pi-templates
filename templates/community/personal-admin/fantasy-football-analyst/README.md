@@ -6,7 +6,7 @@ Coaches your fantasy football drafts live, sets weekly lineups, and suggests wai
 | --- | --- |
 | Original template | https://x.ai/bot/QyGWyxX5eOLem3J5J1qAp |
 | Creator | Kacey Crandall ([@KaceyC13](https://x.com/KaceyC13)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-analyst), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-analyst), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-football-analyst), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-football-analyst), [x-research](https://botsdots.site/templates/fantasy-football-analyst) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

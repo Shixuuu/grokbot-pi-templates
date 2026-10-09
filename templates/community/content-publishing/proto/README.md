@@ -6,7 +6,7 @@ UI/UX design engineer who ships three deeply different directions per concept as
 | --- | --- |
 | Original template | https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq |
 | Creator | santos ([@5antoshernandez](https://x.com/5antoshernandez)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/proto), [botsdots.site](https://botsdots.site/templates/proto), [grokbotwiki.com](https://www.grokbotwiki.com/bots/proto), [grokbothq.xyz](https://grokbothq.xyz/bots/proto), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/proto), [x-research](https://x.com/5antoshernandez/status/2097118731042492739) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

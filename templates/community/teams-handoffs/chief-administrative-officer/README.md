@@ -6,7 +6,7 @@ Your life-admin lead: keeps your calendar clean, tracks errands, runs a quiet we
 | --- | --- |
 | Original template | https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k |
 | Creator | Hank Jackson |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/chief-administrative-officer), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-administrative-officer), [x-research](https://x.com/hjackson2/status/2107966933710901633) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 14 memory seeds, 2 connectors |

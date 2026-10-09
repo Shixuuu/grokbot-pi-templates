@@ -6,7 +6,7 @@ Pings you when any of your other bots hits a captcha or bot-detection wall, with
 | --- | --- |
 | Original template | https://x.ai/bot/87yn-nH8X65mIW15mIZEs |
 | Creator | Luke Carriere ([@LukeGrokBot](https://x.com/LukeGrokBot)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/human-needed), [grokbotwiki.com](https://www.grokbotwiki.com/bots/human-needed), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/human-needed) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

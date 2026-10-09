@@ -6,7 +6,7 @@ Tells you what changed on the English Wikipedia articles you care about, read fr
 | --- | --- |
 | Original template | https://x.ai/bot/W_zh1KmptsmuKgl8zz3qp |
 | Creator | Phillip.png ⚡🐢 ([@phillipstewart](https://x.com/phillipstewart)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wikipedia-watch-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/wikipedia-watch-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/wikipedia-watch-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/wikipedia-watch-bot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

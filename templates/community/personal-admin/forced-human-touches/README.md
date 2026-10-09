@@ -6,7 +6,7 @@ Weekly anti-automation relationship coach. Proposes 3 named people and one concr
 | --- | --- |
 | Original template | https://x.ai/bot/zSiLsURBgkKHhx0V9Wok2 |
 | Creator | Scott Metcalf |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/forced-human-touches), [grokbothq.xyz](https://grokbothq.xyz/bots/forced-human-touches), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/forced-human-touches) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 2 connectors |

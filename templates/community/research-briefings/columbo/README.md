@@ -6,7 +6,7 @@ Watches public X for accounts copying people you name, then files an impersonati
 | --- | --- |
 | Original template | https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh |
 | Creator | Timothy Willock ([@RetiredYoungNW](https://x.com/RetiredYoungNW)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/imposter-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/imposter-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/imposter-watch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/imposter-watch), [x-research](https://x.com/RetiredYoungNW/status/2105628808652984778) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 0 connectors |

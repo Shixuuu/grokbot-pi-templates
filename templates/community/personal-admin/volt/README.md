@@ -6,7 +6,7 @@ Finds the best consumer or business Tesla lease/buy deals in your country and ar
 | --- | --- |
 | Original template | https://x.ai/bot/QZ6VW1zRJTb4ZY5DNk5pm |
 | Creator | Benn Garnish ([@benngarnish](https://x.com/benngarnish)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/volt), [botsdots.site](https://botsdots.site/templates/volt), [grokbotwiki.com](https://www.grokbotwiki.com/bots/volt), [grokbothq.xyz](https://grokbothq.xyz/bots/volt), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/volt), [x-research](https://x.com/benngarnish/status/2096144725375902163) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 5 skills, 1 routines, 6 memory seeds, 0 connectors |

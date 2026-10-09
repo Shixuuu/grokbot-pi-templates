@@ -6,7 +6,7 @@ Watches the GitHub repos you name for technical invention candidates. After you 
 | --- | --- |
 | Original template | https://x.ai/bot/61rNnnNcP2_LKaz8FXw7P |
 | Creator | Andre Marais ([@leuner](https://x.com/leuner)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/invention-detective), [grokbotwiki.com](https://www.grokbotwiki.com/bots/invention-detective), [grokbothq.xyz](https://grokbothq.xyz/bots/invention-detective), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/leuner/status/2097324881524220098) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 3 routines, 24 memory seeds, 0 connectors |

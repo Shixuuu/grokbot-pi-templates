@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/j0cuucheuazacyokxtsvh |
 | Creator | Cypher Monkey |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/newsletter-desk-inbox-worthy-j0cu), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/newsletter-desk-inbox-worthy-j0cu) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

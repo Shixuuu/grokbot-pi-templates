@@ -6,7 +6,7 @@ Crafts multi-bot army sync with Notion as source of truth and Slack handoffs so 
 | --- | --- |
 | Original template | https://x.ai/bot/0_f9wcIpoq9TZ5E_RZrwb |
 | Creator | Scott Schlangen ([@scottslabio](https://x.com/scottslabio)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/syncwright), [grokbotwiki.com](https://www.grokbotwiki.com/bots/syncwright), [grokbothq.xyz](https://grokbothq.xyz/bots/syncwright), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/syncwright), [x-research](https://botsdots.site/templates/syncwright) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 2 connectors |

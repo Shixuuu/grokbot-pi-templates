@@ -6,7 +6,7 @@ Turns a photo into a four-role colour palette: a labelled 55/20/20/5 bar chart a
 | --- | --- |
 | Original template | https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V |
 | Creator | Michael Davies ([@subforti](https://x.com/subforti)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/palette), [grokbotwiki.com](https://www.grokbotwiki.com/bots/palette), [grokbothq.xyz](https://grokbothq.xyz/bots/palette), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/yfrTgGSwB_DZNUxx0g05V), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/palette), [x-research](https://botsdots.site/templates/palette) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

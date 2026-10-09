@@ -6,7 +6,7 @@ Paste a niche. Get a contest-shaped Grok Bot kit and a quote-tweet in under a mi
 | --- | --- |
 | Original template | https://x.ai/bot/mX3svMK3zEEfiK1XAeXEk |
 | Creator | The Guy ([@HesNotTheGuy](https://x.com/HesNotTheGuy)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/slop-forge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/slop-forge), [grokbothq.xyz](https://grokbothq.xyz/bots/slop-forge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/slop-forge) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

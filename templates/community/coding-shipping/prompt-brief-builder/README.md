@@ -6,7 +6,7 @@ Turns a rough ask into a lean, ready-to-paste agent prompt (goal, return format,
 | --- | --- |
 | Original template | https://x.ai/bot/6nbtK-LXyay2d7wfDJ3Iz |
 | Creator | Zye Anderson ([@ZyeAnd1](https://x.com/ZyeAnd1)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/prompt-brief-builder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prompt-brief-builder), [grokbothq.xyz](https://grokbothq.xyz/bots/prompt-brief-builder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/prompt-brief-builder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

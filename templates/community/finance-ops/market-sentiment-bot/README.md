@@ -6,7 +6,7 @@ Creator: @Itachidata on 𝕏 Scores US risk assets 1.0–10.0 with a market over
 | --- | --- |
 | Original template | https://x.ai/bot/dpEIOmZE65XCVEnPJUp_- |
 | Creator | itachi data ([@Itachidata](https://x.com/Itachidata)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/market-sentiment-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/market-sentiment-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/market-sentiment-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/market-sentiment-bot), [x-research](https://x.com/Itachidata/status/2103974697834598748) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

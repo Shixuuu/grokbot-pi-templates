@@ -6,7 +6,7 @@ Personal reputation specialist for people who want their info off people-search 
 | --- | --- |
 | Original template | https://x.ai/bot/DFnZYjCELW2QdywUWZRiG |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/agent-zero), [grokbotwiki.com](https://www.grokbotwiki.com/bots/agent-zero), [grokbothq.xyz](https://grokbothq.xyz/bots/agent-zero), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/agent-zero), [x-research](https://x.com/GrokBotRadar/status/2100877991962440119) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 19 memory seeds, 2 connectors |

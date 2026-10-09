@@ -6,7 +6,7 @@ A senior marketer for Google Ads, Meta, SEO and Shopify.
 | --- | --- |
 | Original template | https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4 |
 | Creator | Dmitry Korzhov ([@irabukht](https://x.com/irabukht)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-for-seo-geo-paid-ads-and-shopify), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-for-seo-geo-paid-ads-and-shopify), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-for-seo-geo-paid-ads-and-shopify), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/dep-tU0gmIPgiqNsvS4N4), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-for-seo-geo-paid-ads-and-shopify), [x-research](https://botdirectory.ai/bots/paid-ads-and-seo-manager/) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 0 connectors |

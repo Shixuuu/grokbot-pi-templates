@@ -6,7 +6,7 @@ Curates high-quality, high-traffic original posts from a public list of 21 Grok 
 | --- | --- |
 | Original template | https://x.ai/bot/lFDR77qKaT3Iglzv9pUac |
 | Creator | Mai Yang ([@MaiYangAI](https://x.com/MaiYangAI)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/top-grok-bot-tweets), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-tweet-scout), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/lFDR77qKaT3Iglzv9pUac), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-post-watcher), [x-research](https://botsdots.site/templates/top-grok-bot-tweets) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 1 connectors |

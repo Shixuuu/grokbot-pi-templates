@@ -6,7 +6,7 @@ Front-door options desk for traders. Reads live dealer gamma, options flow, impl
 | --- | --- |
 | Original template | https://x.ai/bot/YbX8HTAePBjwpwP05CVJS |
 | Creator | Joe Theta Vantage ([@ThetaVantage](https://x.com/ThetaVantage)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/theta-vantage-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/theta-vantage-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/theta-vantage-desk), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/YbX8HTAePBjwpwP05CVJS), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/theta-vantage-desk), [x-research](https://x.com/ThetaVantage/status/2094150193042386996) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A threat-hunter bot that builds a free Wazuh SIEM on its own computer and hunts 
 | --- | --- |
 | Original template | https://x.ai/bot/xz-a6CWE-HtbBB4yO7J0U |
 | Creator | Paul Vann ([@pjvann](https://x.com/pjvann)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/threat-hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/threat-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/threat-hunter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/threat-hunter) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 2 routines, 7 memory seeds, 1 connectors |

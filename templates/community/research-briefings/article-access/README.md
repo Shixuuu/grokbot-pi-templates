@@ -6,7 +6,7 @@ Paste a DOI, PMID, or citation. Gets open-access, library-proxy, and publisher l
 | --- | --- |
 | Original template | https://x.ai/bot/YenfJofScFkEnwvOQiq6k |
 | Creator | Don Neff ([@UroDonMD](https://x.com/UroDonMD)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/article-access), [botsdots.site](https://botsdots.site/templates/article-access), [grokbotwiki.com](https://www.grokbotwiki.com/bots/article-access), [grokbothq.xyz](https://grokbothq.xyz/bots/article-access-by-don-YenfJofS), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/UroDonMD/status/2096281595212640691) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

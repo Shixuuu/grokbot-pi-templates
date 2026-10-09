@@ -6,7 +6,7 @@ Helps a student club run event paperwork. Posts weekly due-date reminders in Sla
 | --- | --- |
 | Original template | https://x.ai/bot/SDLUUiG6HKwiFpGqCOAw7 |
 | Creator | Daniel Xu ([@danieldxu_](https://x.com/danieldxu_)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/club-events-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/club-events-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/club-events-ops), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/danieldxu_/status/2093480750146552176) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 3 routines, 5 memory seeds, 3 connectors |

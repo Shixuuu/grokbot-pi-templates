@@ -6,7 +6,7 @@ Status match coach for frequent flyers. Maps match vs challenge paths, packs pro
 | --- | --- |
 | Original template | https://x.ai/bot/qn-76v-lwoq74yvaqyhmt |
 | Creator | Chris Baird |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gate-changer-qn76), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gate-changer-qn76) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

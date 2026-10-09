@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/9tXf36bPtT2pWLeFnEH0S |
 | Creator | 는 브이로그 까 ([@titledworld](https://x.com/titledworld)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/korean-research-desk-turns-findings), [grokbotwiki.com](https://www.grokbotwiki.com/bots/korean-research-desk-turns-findings), [grokbothq.xyz](https://grokbothq.xyz/bots/geomsaekbot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/korean-search-research-bot), [x-research](https://x.com/titledworld/status/2100705626230010028) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Nightly planning owl: Gmail + Slack open loops, careful inbox cleanup, and a cle
 | --- | --- |
 | Original template | https://x.ai/bot/1hD0sdaD2gCbQ927sIhft |
 | Creator | satadru ([@satadru](https://x.com/satadru)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nightly-digest), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nightly-digest), [grokbothq.xyz](https://grokbothq.xyz/bots/nightly-digest), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/nightly-digest) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 1 routines, 3 memory seeds, 3 connectors |

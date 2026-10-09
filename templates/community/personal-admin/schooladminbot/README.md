@@ -6,7 +6,7 @@ Homeschool office for a family in any US state. Walks the parent through that st
 | --- | --- |
 | Original template | https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G |
 | Creator | Tanner Rousselle ([@DeanoRousselle](https://x.com/DeanoRousselle)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/schooladminbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/schooladminbot), [grokbothq.xyz](https://grokbothq.xyz/bots/schooladminbot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/_0VVd5uJhvxRX0M8Srr9G), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/schooladminbot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 5 skills, 0 routines, 3 memory seeds, 0 connectors |

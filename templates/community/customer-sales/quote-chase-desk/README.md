@@ -6,7 +6,7 @@ Quote and estimate follow-up for trades shops. Tracks open quotes, drafts paced 
 | --- | --- |
 | Original template | https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg |
 | Creator | Liftably ([@AraXsuper](https://x.com/AraXsuper)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quote-chase-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quote-chase-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/quote-chase-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/quote-chase-desk), [x-research](https://botsdots.site/templates/quote-chase-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 2 routines, 1 memory seeds, 3 connectors |

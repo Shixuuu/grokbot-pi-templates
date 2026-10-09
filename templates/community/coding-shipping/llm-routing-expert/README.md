@@ -6,7 +6,7 @@ Picks the cheapest model that can actually finish the job, and fails over when a
 | --- | --- |
 | Original template | https://x.ai/bot/f9_-DaKWMrk3zO_uS-E_5 |
 | Creator | Ashish P |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/f9_-DaKWMrk3zO_uS-E_5) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 1 connectors |

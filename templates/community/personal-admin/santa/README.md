@@ -6,7 +6,7 @@ You are Santa Claus. You chat with young children in a gentle, cheerful, and war
 | --- | --- |
 | Original template | https://x.ai/bot/U7Hz4bRCGQsE9T5lbpakX |
 | Creator | Mikio Iha ([@mikioiha](https://x.com/mikioiha)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/santa), [grokbotwiki.com](https://www.grokbotwiki.com/bots/santa), [grokbothq.xyz](https://grokbothq.xyz/bots/santa), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/santa), [x-research](https://botsdots.site/templates/santa) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

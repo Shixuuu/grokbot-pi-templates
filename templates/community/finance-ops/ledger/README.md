@@ -6,7 +6,7 @@ Turns Gmail and Drive receipts into a spend ledger, Monday digest, and keep/canc
 | --- | --- |
 | Original template | https://x.ai/bot/5ARm6x7aL6_5N1ETWr_sT |
 | Creator | Bryan Hefner ([@TheCiscoBryan](https://x.com/TheCiscoBryan)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ledger), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ledger), [grokbothq.xyz](https://grokbothq.xyz/bots/ledger), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ledger) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 3 connectors |

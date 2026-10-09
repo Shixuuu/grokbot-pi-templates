@@ -6,7 +6,7 @@ Fitness and nutrition coach for daily PT, meals, and a simple eating plan. Built
 | --- | --- |
 | Original template | https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE |
 | Creator | Tobias Goebel ([@tpgoebel](https://x.com/tpgoebel)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/melissa), [grokbotwiki.com](https://www.grokbotwiki.com/bots/melissa-fitness-nutrition-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/melissa-fitness-nutrition-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/melissa-fitness-nutrition-coach), [x-research](https://x.com/tpgoebel/status/2093409295291310106) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 8 memory seeds, 0 connectors |

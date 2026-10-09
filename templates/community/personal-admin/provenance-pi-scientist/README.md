@@ -6,7 +6,7 @@ A Process Intelligence scientist that runs event-log discovery, conformance, and
 | --- | --- |
 | Original template | https://x.ai/bot/BVB4ROqmz6xQon8KskyTI |
 | Creator | riesling29 ([@WaterMixing](https://x.com/WaterMixing)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/provenance), [grokbotwiki.com](https://www.grokbotwiki.com/bots/provenance), [grokbothq.xyz](https://grokbothq.xyz/bots/provenance), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/provenance-pi-scientist), [x-research](https://x.com/WaterMixing/status/2104177149179760732) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

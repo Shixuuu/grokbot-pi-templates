@@ -6,7 +6,7 @@ Makes a children's picture book from start to finish: five easy numbered questio
 | --- | --- |
 | Original template | https://x.ai/bot/7X7bJpKNFugFLcLCd3F3B |
 | Creator | Bean ([@RoboGO](https://x.com/RoboGO)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kids-book-creator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kids-book-creator), [grokbothq.xyz](https://grokbothq.xyz/bots/kids-book-creator), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/kids-book-creator) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 0 routines, 7 memory seeds, 0 connectors |

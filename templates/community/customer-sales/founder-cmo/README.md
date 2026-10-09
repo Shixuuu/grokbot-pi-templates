@@ -6,7 +6,7 @@ Ships a founder’s brand end-to-end: utility-first narrative, content calendar,
 | --- | --- |
 | Original template | https://x.ai/bot/yZVpgdDnnbdaEjroYM-Ky |
 | Creator | Benjamín Pérez |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/founder-cmo), [grokbothq.xyz](https://grokbothq.xyz/bots/founder-cmo), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/founder-cmo) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 1 routines, 10 memory seeds, 1 connectors |

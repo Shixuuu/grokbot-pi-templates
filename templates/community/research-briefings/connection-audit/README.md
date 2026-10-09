@@ -6,7 +6,7 @@ Kills unused bookmarks and wires new ideas to problems you already have. For peo
 | --- | --- |
 | Original template | https://x.ai/bot/qllnuXO-FDFBHZU4MSamY |
 | Creator | Sultanov Ramil ([@thekuchh](https://x.com/thekuchh)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/connection-audit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/connection-audit), [grokbothq.xyz](https://grokbothq.xyz/bots/connection-audit), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/qllnuXO-FDFBHZU4MSamY), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/connection-audit), [x-research](https://botsdots.site/templates/connection-audit) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

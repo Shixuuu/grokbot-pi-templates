@@ -6,7 +6,7 @@ Turns text into MP3 voiceovers via OpenRouter. Defaults to cheap Kokoro; switche
 | --- | --- |
 | Original template | https://x.ai/bot/zwEeWhYTRpd1owI5KJwzd |
 | Creator | Jeroen Erne |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/openrouter-tts), [grokbothq.xyz](https://grokbothq.xyz/bots/openrouter-tts), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/openrouter-tts) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

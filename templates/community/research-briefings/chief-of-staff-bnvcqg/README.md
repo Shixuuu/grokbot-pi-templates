@@ -6,7 +6,7 @@ Runs your other bots and only pulls you in for real decisions. Built around Goog
 | --- | --- |
 | Original template | https://x.ai/bot/bnVCQgetW4NJtjZgkjkdI |
 | Creator | 1biglizard1 ([@1biglizard](https://x.com/1biglizard)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-bnvc), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-bnvc), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-14), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-bnvc) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 6 connectors |

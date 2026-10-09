@@ -6,7 +6,7 @@ Literary and brand-voice editor for a fractional chief financial officer practic
 | --- | --- |
 | Original template | https://x.ai/bot/VNMoJ7mc5_QE5f9aIiYx- |
 | Creator | James Witt ([@James](https://x.com/James)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/literary-editor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/literary-editor), [grokbothq.xyz](https://grokbothq.xyz/bots/literary-editor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/literary-editor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

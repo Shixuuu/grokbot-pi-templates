@@ -6,7 +6,7 @@ A conservative-leaning news assistant for daily digests, breaking alerts, and de
 | --- | --- |
 | Original template | https://x.ai/bot/6MGQJ5KHWL-XYfzLDRMsb |
 | Creator | ZhpXnewsbhcsn “ we are the people” ([@zxnbluehandus](https://x.com/zxnbluehandus)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zxn-news-conservative), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zxn-news-conservative), [grokbothq.xyz](https://grokbothq.xyz/bots/zxn-news-conservative), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/zxn-news-conservative), [x-research](https://x.com/zxnbluehandus/status/2100836261682463023) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

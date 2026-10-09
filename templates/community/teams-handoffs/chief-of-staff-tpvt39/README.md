@@ -6,7 +6,7 @@ Coordinates your other bots and delivers full vanlife city briefings when you na
 | --- | --- |
 | Original template | https://x.ai/bot/TPVT39k9ILCz7QYzRja2B |
 | Creator | Daily Roamer ([@TravisHein21740](https://x.com/TravisHein21740)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/chief-of-staff), [botsdots.site](https://botsdots.site/templates/chief-of-staff-tpvt), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-travis-vanlife), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-vanlife), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-travis-vanlife), [x-research](https://x.com/TravisHein21740/status/2096927727861297570) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

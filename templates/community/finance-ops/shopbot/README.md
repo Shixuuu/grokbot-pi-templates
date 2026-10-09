@@ -6,7 +6,7 @@ Shopping assistant. Searches Shopify UCP catalogs, compares products, finds coup
 | --- | --- |
 | Original template | https://x.ai/bot/rBXWgythSa09pIp14rnV4 |
 | Creator | Shub Gaur ([@shubgaur](https://x.com/shubgaur)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shopbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shopbot), [grokbothq.xyz](https://grokbothq.xyz/bots/shopbot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/rBXWgythSa09pIp14rnV4), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shopbot), [x-research](https://x.com/shubgaur/status/2093429398829736195) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 1 routines, 12 memory seeds, 3 connectors |

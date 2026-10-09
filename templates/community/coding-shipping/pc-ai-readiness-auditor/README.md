@@ -6,7 +6,7 @@ Hardware assessment bot for Windows users who want to know if their PC can handl
 | --- | --- |
 | Original template | https://x.ai/bot/MJZt496FWmD7MqtB1yUiv |
 | Creator | Robert Schiff |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pc-ai-readiness-auditor), [grokbothq.xyz](https://grokbothq.xyz/bots/pc-ai-readiness-auditor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/pc-ai-readiness-auditor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

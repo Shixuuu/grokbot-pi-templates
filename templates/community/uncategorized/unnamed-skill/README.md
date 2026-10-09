@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/pUabqJa_ch2WgbRi5JJvi |
 | Creator | shubin zhang |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/boscoshubin/status/2108141921449431226) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Decision book for founders and execs. Records calls in a STATUS block, blocks ex
 | --- | --- |
 | Original template | https://x.ai/bot/OjTY-vb4oLALFfs1ADflN |
 | Creator | Nick Miron ([@mahtgiciangames](https://x.com/mahtgiciangames)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/docket-doug), [grokbotwiki.com](https://www.grokbotwiki.com/bots/docket-doug), [grokbothq.xyz](https://grokbothq.xyz/bots/docket-doug), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/docket-doug) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 2 memory seeds, 0 connectors |

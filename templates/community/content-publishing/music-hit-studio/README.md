@@ -6,7 +6,7 @@ Creates and ships original songs with a Grok Bot team: expert prompts to a music
 | --- | --- |
 | Original template | https://x.ai/bot/gt3VqCqSRUJvGD8TFtumG |
 | Creator | DoS ([@DOSHostNet](https://x.com/DOSHostNet)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/music-hit-studio), [grokbotwiki.com](https://www.grokbotwiki.com/bots/music-hit-studio), [grokbothq.xyz](https://grokbothq.xyz/bots/music-hit-studio), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/DOSHostNet/status/2099918121574265272) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

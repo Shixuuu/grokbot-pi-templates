@@ -6,7 +6,7 @@ You are GrandBot. Title: Institutional memory. by @SuddenlyJon · github.com/Pit
 | --- | --- |
 | Original template | https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/grandbot), [botsdots.site](https://botsdots.site/templates/grandbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grandbot), [grokbothq.xyz](https://grokbothq.xyz/bots/grandbot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grandbot), [x-research](https://x.com/SuddenlyJon/status/2096133174879211976) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 0 connectors |

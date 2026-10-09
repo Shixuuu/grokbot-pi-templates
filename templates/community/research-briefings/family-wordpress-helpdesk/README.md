@@ -6,7 +6,7 @@ A WordPress helpdesk for one family site. Walks a relative through numbered clic
 | --- | --- |
 | Original template | https://x.ai/bot/7ySyCp6OurH0hlcKMAm_b |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-wordpress-helpdesk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/family-wordpress-helpdesk), [grokbothq.xyz](https://grokbothq.xyz/bots/family-wordpress-helpdesk), [templatebot.lol](https://templatebot.lol/bot/7ySyCp6OurH0hlcKMAm_b), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/family-wordpress-helpdesk), [x-research](https://botsdots.site/templates/family-wordpress-helpdesk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

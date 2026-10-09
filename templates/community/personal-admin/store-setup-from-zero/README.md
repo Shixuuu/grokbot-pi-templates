@@ -6,7 +6,7 @@ Takes an offer from nothing to a live, buyable store page in one run. For owners
 | --- | --- |
 | Original template | https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/store-setup-from-zero), [grokbotwiki.com](https://www.grokbotwiki.com/bots/store-setup-from-zero), [grokbothq.xyz](https://grokbothq.xyz/bots/store-setup-from-zero), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/store-setup-from-zero), [x-research](https://x.com/ColinMcDermott/status/2098713500482777501) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 0 skills, 0 routines, 12 memory seeds, 1 connectors |

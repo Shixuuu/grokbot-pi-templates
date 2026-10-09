@@ -6,7 +6,7 @@ Turns freeze lists into weekly ship checklists for product teams. Owns cadence: 
 | --- | --- |
 | Original template | https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv |
 | Creator | Ashish P ([@inqusit](https://x.com/inqusit)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/product-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/product-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/product-ops), [templatebot.lol](https://templatebot.lol/bot/gJKPDjN3yS95ZpZBTWruv), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/product-ops), [x-research](https://x.com/inqusit/status/2093513553613656106) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 3 connectors |

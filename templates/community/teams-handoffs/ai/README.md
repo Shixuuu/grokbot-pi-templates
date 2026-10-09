@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk |
 | Creator | Masaki Ozeki ([@めい](https://x.com/めい)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ai), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-orchestrator-jp), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-orchestration-jp), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ai-orchestrator-jp), [x-research](https://x.com/mei_999_/status/2093423565676954067) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 6 routines, 8 memory seeds, 4 connectors |

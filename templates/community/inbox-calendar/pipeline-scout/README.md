@@ -6,7 +6,7 @@ Drop 10–30 target accounts. Pipeline Scout pulls public intent and news, score
 | --- | --- |
 | Original template | https://x.ai/bot/9KmU329RgFvaDOhtyc20x |
 | Creator | Screaming Chicken ([@Screaming_Chkn](https://x.com/Screaming_Chkn)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pipeline-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pipeline-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/pipeline-scout) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 6 skills, 0 routines, 3 memory seeds, 0 connectors |

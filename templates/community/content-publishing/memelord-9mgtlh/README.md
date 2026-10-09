@@ -6,7 +6,7 @@ Makes image and video memes on demand with the Memelord MCP. Give it a joke or a
 | --- | --- |
 | Original template | https://x.ai/bot/9MGTLhR6dzLrr6AWd8U1f |
 | Creator | Jason Levin ([@memelord](https://x.com/memelord)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/memelord), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jester), [grokbothq.xyz](https://grokbothq.xyz/bots/jester), [templatebot.lol](https://templatebot.lol/bot/9MGTLhR6dzLrr6AWd8U1f), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jester), [x-research](https://botsdots.site/templates/memelord) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

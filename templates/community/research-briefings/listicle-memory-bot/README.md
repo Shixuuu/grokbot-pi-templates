@@ -6,7 +6,7 @@ Turns any topic or source into a memorable, fact-checked listicle with a memory 
 | --- | --- |
 | Original template | https://x.ai/bot/9BDhUoKyguAGu6zlCLHO1 |
 | Creator | Joel ([@JWood8531481991](https://x.com/JWood8531481991)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/listicle-memory-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/listicle-memory-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/listicle-memory-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/listicle-memory-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

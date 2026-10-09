@@ -6,7 +6,7 @@ See what changed on your block — before it surprises you. Pulls public permits
 | --- | --- |
 | Original template | https://x.ai/bot/18ceCocmLssbw59nEPwhr |
 | Creator | Chris Padrick ([@ChrisPadrick](https://x.com/ChrisPadrick)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/civic-radar), [grokbotwiki.com](https://www.grokbotwiki.com/bots/civic-radar), [grokbothq.xyz](https://grokbothq.xyz/bots/civic-radar), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/civic-radar), [x-research](https://botsdots.site/templates/civic-radar) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 12 skills, 0 routines, 8 memory seeds, 0 connectors |

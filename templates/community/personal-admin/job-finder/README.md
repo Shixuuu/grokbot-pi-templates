@@ -6,7 +6,7 @@ Finds matching jobs and submits applications for you using your title, location,
 | --- | --- |
 | Original template | https://x.ai/bot/isQfIGJuDGIY_H6KNrmgz |
 | Creator | Goob ([@Rebeldawg](https://x.com/Rebeldawg)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/job-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/job-finder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/job-finder), [x-research](https://botsdots.site/templates/job-finder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 12 memory seeds, 2 connectors |

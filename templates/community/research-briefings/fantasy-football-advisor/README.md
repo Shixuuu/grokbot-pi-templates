@@ -6,7 +6,7 @@ A fantasy football GM that preps your drafts and runs your teams week to week (l
 | --- | --- |
 | Original template | https://x.ai/bot/E273ZIwirOOdwMfeCp97t |
 | Creator | Cole Hollander ([@Colehollander10](https://x.com/Colehollander10)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-advisor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-advisor), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-football-advisor), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/E273ZIwirOOdwMfeCp97t), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-football-advisor), [x-research](https://x.com/Colehollander10/status/2093837029674987662) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

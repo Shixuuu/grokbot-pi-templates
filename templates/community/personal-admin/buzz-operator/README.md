@@ -6,7 +6,7 @@ Walks you through self-hosting Buzz (including Tailscale for teammates), standin
 | --- | --- |
 | Original template | https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5 |
 | Creator | Justin Schnettler ([@jschnett](https://x.com/jschnett)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/buzz-operator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/buzz-operator), [grokbothq.xyz](https://grokbothq.xyz/bots/buzz-operator), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/buzz-operator) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 0 routines, 7 memory seeds, 0 connectors |

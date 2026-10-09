@@ -6,7 +6,7 @@ Has your Tesla warm or cool right when you need to leave, timed to your Google C
 | --- | --- |
 | Original template | https://x.ai/bot/L5Sczwabgsf59rZ6RTChF |
 | Creator | Lincoln ([@WaitWhat](https://x.com/WaitWhat)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-ready), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-ready), [grokbothq.xyz](https://grokbothq.xyz/bots/tesla-ready), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tesla-ready), [x-research](https://x.com/WaitWhat/status/2106154933993296287) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 1 connectors |

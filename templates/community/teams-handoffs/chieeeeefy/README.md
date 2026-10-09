@@ -6,7 +6,7 @@ Chief of Staff for a busy Field Engineer. Protects attention, closes loops off-s
 | --- | --- |
 | Original template | https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q |
 | Creator | Naoufal El hassnaoui ([@naoufal_elh](https://x.com/naoufal_elh)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chieeeeefy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chieeeeefy-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/chieeeeefy), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/GiBPBQR2WrHNul4k9Tz6Q), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chieeeeefy-chief-of-staff), [x-research](https://x.com/naoufal_elh/status/2093393130447921346) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 7 skills, 6 routines, 13 memory seeds, 5 connectors |

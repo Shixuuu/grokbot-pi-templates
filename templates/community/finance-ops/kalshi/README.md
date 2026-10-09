@@ -6,7 +6,7 @@ Researches and proposes Kalshi-style event contracts. Clear thesis, size, and ri
 | --- | --- |
 | Original template | https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD |
 | Creator | Jodi Stott🌸 ([@WorkWithJodi](https://x.com/WorkWithJodi)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kalshi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kalshi), [grokbothq.xyz](https://grokbothq.xyz/bots/kalshi), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kalshi), [x-research](https://x.com/WorkWithJodi/status/2101113469185474972) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

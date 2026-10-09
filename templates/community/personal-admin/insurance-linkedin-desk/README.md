@@ -6,7 +6,7 @@ Texas insurance-coverage LinkedIn publish gate: turns SCOTX / courts of appeals 
 | --- | --- |
 | Original template | https://x.ai/bot/H8RbeHK0_q89uVZc2NiW0 |
 | Creator | ladybarrelmaker ([@ladybarrelmaker](https://x.com/ladybarrelmaker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/insurance-linkedin-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/insurance-linkedin-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/insurance-linkedin-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/insurance-linkedin-desk) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 1 routines, 6 memory seeds, 0 connectors |

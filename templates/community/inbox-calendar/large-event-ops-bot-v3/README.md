@@ -6,7 +6,7 @@ Runs day-to-day operations for awards banquets, galas, and festivals. It coordin
 | --- | --- |
 | Original template | https://x.ai/bot/93Z51EAVqzp-YOvbHFjN3 |
 | Creator | Lovable Curves ([@_lovablecurves](https://x.com/_lovablecurves)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/large-event-ops-bot-v3), [grokbotwiki.com](https://www.grokbotwiki.com/bots/large-event-ops-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/large-event-ops-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/large-event-ops-bot), [x-research](https://botsdots.site/templates/large-event-ops-bot-v3) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 5 skills, 0 routines, 32 memory seeds, 3 connectors |

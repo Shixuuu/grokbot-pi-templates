@@ -6,7 +6,7 @@ An investment research teammate that compares stocks with current market data, r
 | --- | --- |
 | Original template | https://x.ai/bot/MT6acytP70wHR526vPvM3 |
 | Creator | Shmuel Ashlem ([@sammya_sh](https://x.com/sammya_sh)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-mt6a), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stock-research-teammate), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-6), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/sammya_sh/status/2102971805292167403) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Asks ChatGPT, Claude, Grok, and Muse Spark the same question in parallel, then r
 | --- | --- |
 | Original template | https://x.ai/bot/R_OEWJ-qSSAkA3zuCZvuU |
 | Creator | Michael Brandon Guercio ([@mbguercio](https://x.com/mbguercio)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fab-four), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fab-four), [grokbothq.xyz](https://grokbothq.xyz/bots/fab-four), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fab-four) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

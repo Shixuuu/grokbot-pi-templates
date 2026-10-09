@@ -6,7 +6,7 @@ Sits idle until you need a coding team. Interviews, spawns a Conductor plus a hi
 | --- | --- |
 | Original template | https://x.ai/bot/_G3maEq_3-ijcQJ1Efr4X |
 | Creator | Bryan Weaver ([@bryanofearth](https://x.com/bryanofearth)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/code-team-spawn-conductor), [grokbothq.xyz](https://grokbothq.xyz/bots/code-team-spawn-2), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/_G3maEq_3-ijcQJ1Efr4X), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://grokbothq.xyz/bots/code-team-spawn-2) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 10 memory seeds, 0 connectors |

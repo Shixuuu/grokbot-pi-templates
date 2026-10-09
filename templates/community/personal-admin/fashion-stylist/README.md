@@ -6,7 +6,7 @@ Virtual closet from photos, try-ons, outfit comparison videos, clean product-sty
 | --- | --- |
 | Original template | https://x.ai/bot/jaT7Eye5M1SvLygfLKmOq |
 | Creator | Jenny Marquis ([@JennyMarquis](https://x.com/JennyMarquis)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fashion-stylist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fashion-stylist), [grokbothq.xyz](https://grokbothq.xyz/bots/fashion-stylist), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fashion-stylist), [x-research](https://x.com/JennyMarquis/status/2101576393662279942) |
 | Fidelity | **full** (full recipe, template version 17) |
 | Contents | 8 skills, 0 routines, 0 memory seeds, 0 connectors |

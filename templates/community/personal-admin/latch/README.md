@@ -6,7 +6,7 @@ Walks a new Grok Bot user from their role and the tools they use to live connect
 | --- | --- |
 | Original template | https://x.ai/bot/9nblm_04evjnole9oevtt |
 | Creator | Oliver Korzen |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/latch-9nbl), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/latch-9nbl) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 0 connectors |

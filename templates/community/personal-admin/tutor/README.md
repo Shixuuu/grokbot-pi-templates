@@ -6,7 +6,7 @@ Walks kids through homework and schoolwork instead of handing over the answers.
 | --- | --- |
 | Original template | https://x.ai/bot/KaR3Qn_JsXYOfT2Rwe1Hz |
 | Creator | Jason ([@Jasonturcotte](https://x.com/Jasonturcotte)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tutor-kar3), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tutor-kar3), [grokbothq.xyz](https://grokbothq.xyz/bots/tutor-jasonturcotte), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/tutor-kar3) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 0 connectors |

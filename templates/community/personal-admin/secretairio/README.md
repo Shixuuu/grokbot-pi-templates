@@ -6,7 +6,7 @@ Coordinator bot for a multi-bot Grok Bot setup: takes your asks, delegates to sp
 | --- | --- |
 | Original template | https://x.ai/bot/rptripa4jtqnztyiggwvk |
 | Creator | David Brum |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/secretairio-rptr), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/secretairio-rptr) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 6 memory seeds, 0 connectors |

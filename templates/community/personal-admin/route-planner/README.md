@@ -6,7 +6,7 @@ Plans a solo field-service owner's daily driving route from the jobs in Airtable
 | --- | --- |
 | Original template | https://x.ai/bot/8xdKqYNx4oRGwahij7CDQ |
 | Creator | James Glick ([@JamesBGlick](https://x.com/JamesBGlick)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/route-planner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/route-planner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/route-planner) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 8 memory seeds, 1 connectors |

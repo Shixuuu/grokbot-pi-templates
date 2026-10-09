@@ -6,7 +6,7 @@ Researches disciplined 2-leg sports doubles (~+100 to +180) with kill switches a
 | --- | --- |
 | Original template | https://x.ai/bot/IO8UsiRc-wcUWtZPj4Jgv |
 | Creator | BackWoods 🌱 ([@SGBackWoods](https://x.com/SGBackWoods)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sports-bet-prophet), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sports-bet-prophet), [grokbothq.xyz](https://grokbothq.xyz/bots/sports-bet-prophet), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sports-bet-prophet), [x-research](https://x.com/SGBackWoods/status/2104094659160977832) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Explains US home, condo, renters, flood, auto, umbrella, and small business insu
 | --- | --- |
 | Original template | https://x.ai/bot/s6-8ydSHNYZVDsnWrtv9a |
 | Creator | Bryce Dees | Insurance + AI ([@CantBeatDees](https://x.com/CantBeatDees)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/am-i-covered), [grokbotwiki.com](https://www.grokbotwiki.com/bots/am-i-covered), [grokbothq.xyz](https://grokbothq.xyz/bots/am-i-covered), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/am-i-covered), [x-research](https://x.com/CantBeatDees/status/2105056986597339560) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 11 skills, 0 routines, 9 memory seeds, 0 connectors |

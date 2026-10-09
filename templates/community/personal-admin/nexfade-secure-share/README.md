@@ -6,7 +6,7 @@ Create one-time encrypted NexFade links for sensitive files and notes from Grok 
 | --- | --- |
 | Original template | https://x.ai/bot/s9i2gj-picjq7jFrNWwQt |
 | Creator | As Allocated ([@NexFade](https://x.com/NexFade)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nexfade-secure-share), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nexfade-secure-share), [grokbothq.xyz](https://grokbothq.xyz/bots/nexfade-secure-share), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/nexfade-secure-share), [x-research](https://botsdots.site/templates/nexfade-secure-share) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

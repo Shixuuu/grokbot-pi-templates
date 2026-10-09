@@ -6,7 +6,7 @@ Watches for sold-out products coming back in stock and new drops you care about,
 | --- | --- |
 | Original template | https://x.ai/bot/RJMxbT38CZy20YFXNgzI8 |
 | Creator | Marcello Silvestri ([@shirubusutori](https://x.com/shirubusutori)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/hunter), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hunter), [x-research](https://botsdots.site/templates/hunter) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 2 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Turns any story idea into a finished comic, picture book, or short video — wit
 | --- | --- |
 | Original template | https://x.ai/bot/5-YiiKg_ws-7xgkR8T8Ko |
 | Creator | Avinash Peyyety ([@AvinashPeyyety](https://x.com/AvinashPeyyety)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/taleforge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/taleforge), [grokbothq.xyz](https://grokbothq.xyz/bots/taleforge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/taleforge) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

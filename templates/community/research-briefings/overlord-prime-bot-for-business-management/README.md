@@ -6,7 +6,7 @@ The boss bot for owners running several businesses, built in hotels and holiday 
 | --- | --- |
 | Original template | https://x.ai/bot/wCkZhl2memJD5XYkcxyys |
 | Creator | Rob Dean ([@xdeanozoff](https://x.com/xdeanozoff)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/overlord-prime-bot-for-business-management), [grokbotwiki.com](https://www.grokbotwiki.com/bots/overlord-prime-bot-for-business-management), [grokbothq.xyz](https://grokbothq.xyz/bots/overlord-prime-bot-for-business-management), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/overlord-prime-bot-for-business-management) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 2 routines, 11 memory seeds, 2 connectors |

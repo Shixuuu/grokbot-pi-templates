@@ -6,7 +6,7 @@ Paste the requests, leads, and jobs coming at you from everywhere, and get one s
 | --- | --- |
 | Original template | https://x.ai/bot/in_PtzvudSXOJ178cNxv0 |
 | Creator | aaron creech ([@AMFoxtrot](https://x.com/AMFoxtrot)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/intake-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/intake-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/intake-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/intake-desk), [x-research](https://x.com/AMFoxtrot/status/2104305631477858363) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 7 skills, 3 routines, 9 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Livestream watcher and note-taker. Watches designated live streams, digests what
 | --- | --- |
 | Original template | https://x.ai/bot/O0R2YhCdz96HO_y3Lsmpa |
 | Creator | Kyle Bernard ([@heroicfitnessco](https://x.com/heroicfitnessco)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/live), [grokbotwiki.com](https://www.grokbotwiki.com/bots/live), [grokbothq.xyz](https://grokbothq.xyz/bots/live), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/live) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 1 connectors |

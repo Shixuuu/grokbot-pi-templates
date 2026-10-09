@@ -6,7 +6,7 @@ Bob Fifer-mode business profit operator. Closes the ARR gap in 24 months via pri
 | --- | --- |
 | Original template | https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7 |
 | Creator | Jon Stenstrom ([@JonStenstrom](https://x.com/JonStenstrom)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/profit-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/profit-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/profit-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/profit-finder), [x-research](https://botsdots.site/templates/profit-finder) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

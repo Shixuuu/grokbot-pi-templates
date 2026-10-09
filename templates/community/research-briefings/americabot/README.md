@@ -6,7 +6,7 @@ Civic helper for america.gov — official U.S. government answers in plain Engli
 | --- | --- |
 | Original template | https://x.ai/bot/ji_vqjmdn_w7wfuw-g1ur |
 | Creator | Andrew Carvajal |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/americabot-jivq), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/americabot-jivq) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

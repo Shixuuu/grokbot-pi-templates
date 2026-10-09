@@ -6,7 +6,7 @@ Xの自アカデータを読み、コンサル型の週次レポートと投稿�
 | --- | --- |
 | Original template | https://x.ai/bot/lQyIEp3Wqbm8X78tLTa-8 |
 | Creator | Shimpei Araki (Ambassador) ([@shin_chan_ai](https://x.com/shin_chan_ai)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-lqyi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-lqyi), [grokbothq.xyz](https://grokbothq.xyz/bots/x-ops-advisor-ja), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-weekly-ops-advisor), [x-research](https://x.com/shin_chan_ai/status/2103858945542717895) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

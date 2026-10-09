@@ -6,7 +6,7 @@ Guides first-time founders to a live custom-domain site with Cloudflare + Vercel
 | --- | --- |
 | Original template | https://x.ai/bot/2V0Yt4L44mabUD6MR3Ppy |
 | Creator | Dominic Bryant ([@Dominicyoungix](https://x.com/Dominicyoungix)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/website-launch-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/website-launch-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/website-launch-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/Dominicyoungix/status/2100838970259378211) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 1 connectors |

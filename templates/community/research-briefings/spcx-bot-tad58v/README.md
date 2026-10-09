@@ -6,7 +6,7 @@ Your SpaceX stock ($SPCX) co-pilot. It's grounded in SpaceX's S-1, investor pres
 | --- | --- |
 | Original template | https://x.ai/bot/TAD58vAxB2qfo2pY1jtjJ |
 | Creator | Jim ([@jim_CFA_CFP](https://x.com/jim_CFA_CFP)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spcx-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spcx-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/spcx-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/spcx-bot), [x-research](https://botsdots.site/templates/spcx-bot) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 1 routines, 32 memory seeds, 0 connectors |

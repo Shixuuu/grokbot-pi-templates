@@ -6,7 +6,7 @@ Plug-and-play hiring packet desk for any role. Ships one gated application packe
 | --- | --- |
 | Original template | https://x.ai/bot/qhnfebrea8mjiyklpdw3d |
 | Creator | Joseph |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/careerops-desk-qhnf), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/careerops-desk-qhnf) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 11 skills, 0 routines, 12 memory seeds, 1 connectors |

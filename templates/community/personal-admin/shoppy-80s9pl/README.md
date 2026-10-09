@@ -6,7 +6,7 @@ A gruff, warm old-timer shop steward for any union member. Shoppy finds and expl
 | --- | --- |
 | Original template | https://x.ai/bot/80S9pLYa2B3pd96wfbjm1 |
 | Creator | JakeFromStarstruck. ([@Rune_King_Jake](https://x.com/Rune_King_Jake)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shoppy-80s9), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shoppy-80s9), [grokbothq.xyz](https://grokbothq.xyz/bots/shoppy-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/shoppy-80s9) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 7 skills, 0 routines, 7 memory seeds, 0 connectors |

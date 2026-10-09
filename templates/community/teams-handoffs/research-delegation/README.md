@@ -6,7 +6,7 @@ A research agent for builders who need to turn a paper on AI delegation or multi
 | --- | --- |
 | Original template | https://x.ai/bot/6lKRJTFiSgM5VFSrqV6MQ |
 | Creator | Ashish P |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/6lKRJTFiSgM5VFSrqV6MQ) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 2 connectors |

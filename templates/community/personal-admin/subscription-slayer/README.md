@@ -6,7 +6,7 @@ Finds every recurring charge in your statements, flags price hikes and forgotten
 | --- | --- |
 | Original template | https://x.ai/bot/2N4oNHRcE-gsXbKn9GcVE |
 | Creator | Joseph Snyder ([@BTC_Yogi](https://x.com/BTC_Yogi)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/subscription-slayer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/subscription-slayer), [grokbothq.xyz](https://grokbothq.xyz/bots/subscription-slayer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/subscription-slayer), [x-research](https://botsdots.site/templates/subscription-slayer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Vet incoming LinkedIn invitations with a named Peer-first preset you can accept 
 | --- | --- |
 | Original template | https://x.ai/bot/tquoq94erufxnju4xpqzi |
 | Creator | AJ Ghergich |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/linkedin-desk-tquo), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/linkedin-desk-tquo) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 1 routines, 8 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Weekly NFL fantasy co-pilot: every start/sit, waiver, and trade call maximizes p
 | --- | --- |
 | Original template | https://x.ai/bot/uv2Ej8EsdmBpBn0p9FnhH |
 | Creator | Ian R. Cohen ([@btclawyerguy](https://x.com/btclawyerguy)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-uv2e), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-uv2e), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-football-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/btclawyerguy/status/2103636312729194799) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 10 skills, 0 routines, 10 memory seeds, 0 connectors |

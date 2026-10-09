@@ -6,7 +6,7 @@ Runs multi-state ESA and voucher vendor filings, ClassWallet/Odyssey hygiene, an
 | --- | --- |
 | Original template | https://x.ai/bot/GBB4tGs-8cSl8DTX3zhyg |
 | Creator | Another Joe ([@AnotherJoe](https://x.com/AnotherJoe)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/esa-vendor-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/esa-vendor-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/esa-vendor-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/esa-vendor-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 11 memory seeds, 0 connectors |

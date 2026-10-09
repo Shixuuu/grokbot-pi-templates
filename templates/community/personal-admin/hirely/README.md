@@ -6,7 +6,7 @@ Job-search teammate: shortlists verified roles from employer careers pages, help
 | --- | --- |
 | Original template | https://x.ai/bot/k2oD619wjcM9RMybbtExW |
 | Creator | Parvaneh ([@Parva9eh](https://x.com/Parva9eh)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hirely), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hirely), [grokbothq.xyz](https://grokbothq.xyz/bots/hirely), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hirely), [x-research](https://botsdots.site/templates/hirely) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 3 routines, 4 memory seeds, 0 connectors |

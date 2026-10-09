@@ -6,7 +6,7 @@ Strips muddy problems to irreducible truths and rebuilds only from what must be 
 | --- | --- |
 | Original template | https://x.ai/bot/T5qKapW7Nd2RtXweCzGBG |
 | Creator | Jason Wheeler ([@jilp00](https://x.com/jilp00)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/first-principles-t5qk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/first-principles-t5qk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/first-principles-t5qk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 12 skills, 0 routines, 1 memory seeds, 0 connectors |

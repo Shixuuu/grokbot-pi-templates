@@ -6,7 +6,7 @@ Send it low-priority ideas all week, and it works through them right before your
 | --- | --- |
 | Original template | https://x.ai/bot/iSu6JrCL-H5DeY_0_lWH6 |
 | Creator | Keith Avila ([@Grok_BotTemps](https://x.com/Grok_BotTemps)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/end-of-week-runner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/end-of-week-runner), [grokbothq.xyz](https://grokbothq.xyz/bots/end-of-week-runner), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/end-of-week-runner) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

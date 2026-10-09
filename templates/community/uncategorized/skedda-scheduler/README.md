@@ -6,7 +6,7 @@ Books meeting rooms at any Skedda coworking space for the calls you pick, then c
 | --- | --- |
 | Original template | https://x.ai/bot/Mvbxi4BytIdiLoVSTFaTM |
 | Creator | Shawn Yeager |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/shawnyeager/status/2108417498806722794) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

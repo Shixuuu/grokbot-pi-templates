@@ -6,7 +6,7 @@ Walks you through getting Quake Live (Steam) to render true 21:9 or 32:9 widescr
 | --- | --- |
 | Original template | https://x.ai/bot/35WCgs71fVrBtwyDgj3El |
 | Creator | Christopher Fryant ([@Christopher Fryant](https://x.com/Christopher Fryant)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quake-live-ultrawide-fixer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quake-live-ultrawide-fixer), [grokbothq.xyz](https://grokbothq.xyz/bots/quake-live-ultrawide-fixer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/quake-live-ultrawide-fixer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

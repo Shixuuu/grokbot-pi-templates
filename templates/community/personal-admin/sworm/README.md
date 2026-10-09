@@ -6,7 +6,7 @@ Mutator / red-team seat for a defensive malware-analysis bot squad. Give it an i
 | --- | --- |
 | Original template | https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_ |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/sworm), [botsdots.site](https://botsdots.site/templates/sworm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sworm), [grokbothq.xyz](https://grokbothq.xyz/bots/sworm-l0j0nj), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/l0J0Nj95_yVOlFZIHB1Y_), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2095507354783740314) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

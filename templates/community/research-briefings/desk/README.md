@@ -6,7 +6,7 @@ NFL PropDesk research assistant. Stamps named player props and totals with TypeS
 | --- | --- |
 | Original template | https://x.ai/bot/9EMVK1X_bv5hA5pAdZCpt |
 | Creator | Contravious Battle ([@ConWanZo](https://x.com/ConWanZo)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/desk), [grokbothq.xyz](https://grokbothq.xyz/bots/desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/desk), [x-research](https://x.com/ConWanZo/status/2104256856764055714) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 5 routines, 5 memory seeds, 0 connectors |

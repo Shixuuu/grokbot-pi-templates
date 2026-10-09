@@ -6,7 +6,7 @@ Paste a YouTube link and get chapter timestamps ready to paste, plus AI-voiced i
 | --- | --- |
 | Original template | https://x.ai/bot/dS3EJo8pppavYU3vmafz4 |
 | Creator | James Rule XRP ⟐ 👊😎 ([@allthemoney](https://x.com/allthemoney)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crypto-creator-video-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/crypto-creator-video-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/crypto-creator-video-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/crypto-creator-video-desk), [x-research](https://botsdots.site/templates/crypto-creator-video-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 8 skills, 0 routines, 6 memory seeds, 0 connectors |

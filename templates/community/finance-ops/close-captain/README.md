@@ -6,7 +6,7 @@ Month-end close that runs itself. Close Captain runs your close calendar from Dâ
 | --- | --- |
 | Original template | https://x.ai/bot/Xh-upYcyPJE3ozRscZbHL |
 | Creator | Zaeem Khan |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/close-captain), [grokbotwiki.com](https://www.grokbotwiki.com/bots/close-captain), [grokbothq.xyz](https://grokbothq.xyz/bots/close-captain), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/close-captain) |
 | Fidelity | **full** (full recipe, template version 26) |
 | Contents | 5 skills, 1 routines, 2 memory seeds, 3 connectors |

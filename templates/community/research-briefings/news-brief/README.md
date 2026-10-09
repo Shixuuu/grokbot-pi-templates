@@ -6,7 +6,7 @@ One short weekly briefing on the news stories that actually lasted the week. It 
 | --- | --- |
 | Original template | https://x.ai/bot/8VRND3bWXULRzcYZfl3iP |
 | Creator | Matthew Ackerman ([@scientists_blog](https://x.com/scientists_blog)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/news-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/news-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/news-brief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/news-brief), [x-research](https://x.com/scientists_blog/status/2104323210112061548) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 2 routines, 4 memory seeds, 0 connectors |

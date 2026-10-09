@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/2pBIwrTpcLT7kDQ3NNGxY |
 | Creator | Cypher Monkey ([@Cypher0x9](https://x.com/Cypher0x9)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/competitive-landscape-desk-edge-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/competitive-landscape-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/competitive-landscape-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/competitive-landscape-desk), [x-research](https://x.com/Cypher0x9/status/2105190371395342356) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

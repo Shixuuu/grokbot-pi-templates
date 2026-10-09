@@ -6,7 +6,7 @@ A vibe check for project understanding. When friction or repeated points show yo
 | --- | --- |
 | Original template | https://x.ai/bot/CPOWEqxmLfmSsiMnw2qlD |
 | Creator | Abby Nelson ([@Abbee47145](https://x.com/Abbee47145)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/vibe-check), [grokbotwiki.com](https://www.grokbotwiki.com/bots/vibe-check), [grokbothq.xyz](https://grokbothq.xyz/bots/vibe-check), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/vibe-check) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

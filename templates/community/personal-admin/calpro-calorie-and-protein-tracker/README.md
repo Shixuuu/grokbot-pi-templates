@@ -6,7 +6,7 @@ Send me what you ate, in words or a photo, and I'll track your calories and prot
 | --- | --- |
 | Original template | https://x.ai/bot/Iub_rfl8xMKC8RsMREi02 |
 | Creator | prorookiegamer ([@prorookiegamer](https://x.com/prorookiegamer)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/calpro-calorie-and-protein-tracker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/calpro-iubr), [grokbothq.xyz](https://grokbothq.xyz/bots/calpro), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/calpro-calorie-and-protein-tracker), [x-research](https://botsdots.site/templates/calpro-calorie-and-protein-tracker) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

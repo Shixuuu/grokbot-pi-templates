@@ -6,7 +6,7 @@ Finds tenders, RFPs, grants and other paid opportunities, checks you're eligible
 | --- | --- |
 | Original template | https://x.ai/bot/IfyVKr11P40pNcTle4-ow |
 | Creator | Armstrong Too - toe |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/arms_too/status/2108137726163996848) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 8 memory seeds, 4 connectors |

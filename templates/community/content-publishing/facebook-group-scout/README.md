@@ -6,7 +6,7 @@ Facebook-group scout for one small business. Watches named groups and flags new 
 | --- | --- |
 | Original template | https://x.ai/bot/C7ZoMLPxEbFmu0-iAieFj |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/facebook-group-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/facebook-group-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/facebook-group-scout), [templatebot.lol](https://templatebot.lol/bot/C7ZoMLPxEbFmu0-iAieFj), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/facebook-group-scout), [x-research](https://botsdots.site/templates/facebook-group-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

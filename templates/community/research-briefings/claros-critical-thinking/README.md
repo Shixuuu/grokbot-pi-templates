@@ -6,7 +6,7 @@ Your critical thinking coach. A wise sparring partner for ideas, power and histo
 | --- | --- |
 | Original template | https://x.ai/bot/UAr71_JUG-2r_vC8CcbBq |
 | Creator | Yves Cavarec ([@Yves Cavarec](https://x.com/Yves Cavarec)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claros-critical-thinking), [grokbotwiki.com](https://www.grokbotwiki.com/bots/claros-critical-thinking), [grokbothq.xyz](https://grokbothq.xyz/bots/claros-critical-thinking), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/claros-critical-thinking), [x-research](https://x.com/CavarecIA/status/2104879927560655060) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

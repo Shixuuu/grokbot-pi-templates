@@ -6,7 +6,7 @@ Coordinates your specialist bots and keeps decisions in one chat. Built for outr
 | --- | --- |
 | Original template | https://x.ai/bot/weZi1tOED9rbAsh9mmC9q |
 | Creator | AJ Srmek, CFA, CFP ([@asrmek](https://x.com/asrmek)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-wezi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-wezi), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-41), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-wezi) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 3 routines, 9 memory seeds, 2 connectors |

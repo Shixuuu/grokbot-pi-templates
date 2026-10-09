@@ -6,7 +6,7 @@ An hourly Coinbase spot trading desk for BTC, ETH, SOL, and DOGE with hard risk 
 | --- | --- |
 | Original template | https://x.ai/bot/4AYUWc2XcQ64qluMXPV8l |
 | Creator | Branden Troutman ([@BrandenSeth](https://x.com/BrandenSeth)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cybercab-fund-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cybercab-fund-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/cybercab-fund-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cybercab-fund-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

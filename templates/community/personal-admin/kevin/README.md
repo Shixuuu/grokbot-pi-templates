@@ -6,7 +6,7 @@ The only agent you talk to. No more context switching. Kevin, the head minion, r
 | --- | --- |
 | Original template | https://x.ai/bot/rZs29r38Oeor_7Ndp2coe |
 | Creator | Jared ([@Jaredtherich](https://x.com/Jaredtherich)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kevin), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kevin), [grokbothq.xyz](https://grokbothq.xyz/bots/kevin), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/kevin) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 10 skills, 1 routines, 9 memory seeds, 0 connectors |

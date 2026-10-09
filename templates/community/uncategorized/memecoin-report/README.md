@@ -6,7 +6,7 @@ Sends you a quick memecoin trenches report from curated X lists of traders on yo
 | --- | --- |
 | Original template | https://x.ai/bot/KtMjZLEGpkN0K6XuLH2UJ |
 | Creator | fomo 🧠 |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/fomomofosol/status/2108414576668864708) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 2 memory seeds, 1 connectors |

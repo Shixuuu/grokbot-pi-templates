@@ -6,7 +6,7 @@ Credit-saver that runs the Gen Saver Wizard. Slot A is your computer (most saved
 | --- | --- |
 | Original template | https://x.ai/bot/g9Z6GNPrCztKhE1rQDf3m |
 | Creator | Odd&Entertaining |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gen-x-saver-vm), [grokbothq.xyz](https://grokbothq.xyz/bots/gen-x-saver-vm), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gen-x-saver-vm) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

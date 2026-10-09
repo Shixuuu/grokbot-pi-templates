@@ -6,7 +6,7 @@ Paste any product link and get the best price across your stores, using your mem
 | --- | --- |
 | Original template | https://x.ai/bot/7lshPSP7YWEvGzK5ju1Tg |
 | Creator | Spud ([@SpudStateUSA](https://x.com/SpudStateUSA)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/deal-scout-7lsh), [grokbotwiki.com](https://www.grokbotwiki.com/bots/deal-scout-7lsh), [grokbothq.xyz](https://grokbothq.xyz/bots/deal-scout-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/deal-scout-7lsh) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

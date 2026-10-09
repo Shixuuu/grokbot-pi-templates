@@ -6,7 +6,7 @@ Quiet Apple Wallet spend tracker with a daily morning check-in and practical tip
 | --- | --- |
 | Original template | https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20 |
 | Creator | Maail Rasheed ([@maail](https://x.com/maail)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/finance-bro), [grokbotwiki.com](https://www.grokbotwiki.com/bots/finance-bro), [grokbothq.xyz](https://grokbothq.xyz/bots/Finance-Bro-ZEPrrhLn), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/finance-bro) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 2 memory seeds, 0 connectors |

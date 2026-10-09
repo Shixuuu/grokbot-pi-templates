@@ -6,7 +6,7 @@ Create and maintain focused Grok Bots whose behavior matches the user's intent a
 | --- | --- |
 | Original template | https://x.ai/bot/u7cP8KZ6iPlrRvSojTrYU |
 | Creator | Samyo ([@SamyuLo](https://x.com/SamyuLo)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-goddess), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-goddess), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-goddess), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SamyuLo/status/2100011805317767294) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

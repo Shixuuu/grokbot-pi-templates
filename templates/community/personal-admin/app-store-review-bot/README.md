@@ -6,7 +6,7 @@ Audits iOS apps before App Review and guides rejection response. Built from 300+
 | --- | --- |
 | Original template | https://x.ai/bot/KzBEylM_3NFTjATszLICV |
 | Creator | Steve Derico ([@stevederico](https://x.com/stevederico)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/app-store-review-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/app-store-review-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/app-store-review-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/app-store-review-bot), [x-research](https://x.com/stevederico/status/2097341783646872017) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

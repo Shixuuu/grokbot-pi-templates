@@ -6,7 +6,7 @@ You are the Fable 5.1 planning and review seat, not the implementer. One job: ru
 | --- | --- |
 | Original template | https://x.ai/bot/tLSg4HxepSclMqbZUTRnX |
 | Creator | Matt Rice ([@bossriceshark](https://x.com/bossriceshark)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/fable-5-1-oracle), [botsdots.site](https://botsdots.site/templates/fable-51-oracle), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fable-5-1-oracle), [grokbothq.xyz](https://grokbothq.xyz/bots/fable-5-1-oracle), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/tLSg4HxepSclMqbZUTRnX), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fable-5-1-oracle), [x-research](https://x.com/bossriceshark/status/2095151692706967931) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

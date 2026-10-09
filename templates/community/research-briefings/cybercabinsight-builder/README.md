@@ -6,7 +6,7 @@ Builds and runs a Tesla Cybercab research site (JA/EN): Austin/US usage brief, o
 | --- | --- |
 | Original template | https://x.ai/bot/eSxdHB8yCtJbqp6vxQOzP |
 | Creator | bestband2016 ([@bestband2016](https://x.com/bestband2016)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cybercabinsight-builder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cybercabinsight-builder), [grokbothq.xyz](https://grokbothq.xyz/bots/cybercabinsight-builder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cybercabinsight-builder), [x-research](https://x.com/bestband2016/status/2100183957530894486) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 10 memory seeds, 1 connectors |

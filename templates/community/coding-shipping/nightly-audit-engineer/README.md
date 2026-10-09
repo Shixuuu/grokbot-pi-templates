@@ -6,7 +6,7 @@ A nightly engineering auditor that researches a whole codebase, then ships one c
 | --- | --- |
 | Original template | https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U |
 | Creator | Lingxi Li ([@lingxi](https://x.com/lingxi)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nightly-audit-engineer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nightly-audit-engineer), [grokbothq.xyz](https://grokbothq.xyz/bots/nightly-audit-engineer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/hkGSHcqKjGc5dm3ugNc2U), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/nightly-audit-engineer), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 1 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Watches your UniFi Protect cameras and emails you (and anyone you choose) only f
 | --- | --- |
 | Original template | https://x.ai/bot/t9-UluNtR8-sZdrr_bxQU |
 | Creator | Matt Routa ([@atuor](https://x.com/atuor)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/unifi-protect-alerts), [grokbotwiki.com](https://www.grokbotwiki.com/bots/unifi-protect-alerts), [grokbothq.xyz](https://grokbothq.xyz/bots/unifi-protect-alerts), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/unifi-protect-alerts) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 1 connectors |

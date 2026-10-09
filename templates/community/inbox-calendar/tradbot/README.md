@@ -6,7 +6,7 @@ Watches personal email and calendar so school forms, bills, and RSVPs don't slip
 | --- | --- |
 | Original template | https://x.ai/bot/F5coW1LJyNjK5Pw3zvTkS |
 | Creator | Vet ([@VetTVStudios](https://x.com/VetTVStudios)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tradbot-f5co), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tradbot-f5co), [grokbothq.xyz](https://grokbothq.xyz/bots/tradbot-vet), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tradbot-f5co) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 5 routines, 10 memory seeds, 2 connectors |

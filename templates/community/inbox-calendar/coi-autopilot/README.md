@@ -6,7 +6,7 @@ Turns policies, dec pages, binders, and intake notes into ACORD 25/27/28 certifi
 | --- | --- |
 | Original template | https://x.ai/bot/_g9LeHhlCZnm5pCH9JTAH |
 | Creator | Bryce Dees | Insurance + AI ([@CantBeatDees](https://x.com/CantBeatDees)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/coi-autopilot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/coi-autopilot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/coi-autopilot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 12 skills, 0 routines, 9 memory seeds, 0 connectors |

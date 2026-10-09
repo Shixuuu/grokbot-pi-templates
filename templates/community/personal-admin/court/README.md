@@ -6,7 +6,7 @@ You dump the thread. Court names the decision, the person being ignored, the one
 | --- | --- |
 | Original template | https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX |
 | Creator | Don ([@DonBonStovi](https://x.com/DonBonStovi)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/court), [botsdots.site](https://botsdots.site/templates/court), [grokbotwiki.com](https://www.grokbotwiki.com/bots/court), [grokbothq.xyz](https://grokbothq.xyz/bots/court), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/court), [x-research](https://x.com/DonBonStovi/status/2096023951407485055) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

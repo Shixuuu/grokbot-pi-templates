@@ -6,7 +6,7 @@ Always-on protective detail: advance packets before every destination, Tailscale
 | --- | --- |
 | Original template | https://x.ai/bot/37Km_vSkZWbQLJacdb_xq |
 | Creator | Mike ([@Reconfigurate](https://x.com/Reconfigurate)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/protective-detail), [grokbotwiki.com](https://www.grokbotwiki.com/bots/protective-detail), [grokbothq.xyz](https://grokbothq.xyz/bots/protective-detail), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/protective-detail), [x-research](https://x.com/autosourcer0/status/2104720508201935110) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 6 skills, 0 routines, 8 memory seeds, 1 connectors |

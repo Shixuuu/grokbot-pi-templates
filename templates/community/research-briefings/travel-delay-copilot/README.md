@@ -6,7 +6,7 @@ When a flight is delayed, canceled, or you misconnect, pulls live airline policy
 | --- | --- |
 | Original template | https://x.ai/bot/HUyK_n0GZRm8NXq_Sgw5I |
 | Creator | Fernand Pelin ([@Fernand](https://x.com/Fernand)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-delay-copilot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-delay-copilot), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-delay-copilot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/travel-delay-copilot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

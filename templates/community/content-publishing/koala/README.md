@@ -6,7 +6,7 @@ Kent C. Dodds' launch GTM bot for kody.codes. Kody is your assistant's home: mem
 | --- | --- |
 | Original template | https://x.ai/bot/55VuCAFXxFDHyaGPU3Bxt |
 | Creator | lauren 🎀 ([@poteto](https://x.com/poteto)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/koala), [grokbotwiki.com](https://www.grokbotwiki.com/bots/koala), [grokbothq.xyz](https://grokbothq.xyz/bots/koala), [templatebot.lol](https://templatebot.lol/bot/55VuCAFXxFDHyaGPU3Bxt), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/koala), [x-research](https://botsdots.site/templates/koala) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

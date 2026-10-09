@@ -6,7 +6,7 @@ Personal X hygiene OS: inactive-first purge, soft-stop batches, verified KEEP, c
 | --- | --- |
 | Original template | https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT |
 | Creator | JC ([@JoshuaRCook](https://x.com/JoshuaRCook)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/social-ops-bot), [botsdots.site](https://botsdots.site/templates/social-ops-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/social-ops-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/social-ops-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/social-ops-bot), [x-research](https://x.com/JoshuaRCook/status/2096915469462593638) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

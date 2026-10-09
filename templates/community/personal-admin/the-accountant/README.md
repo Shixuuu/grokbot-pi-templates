@@ -6,7 +6,7 @@ Finds runaway-token Grok Bots—over-polling, bloated usage, retry loops—and t
 | --- | --- |
 | Original template | https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX |
 | Creator | Ben ([@brstorrie](https://x.com/brstorrie)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-accountant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-accountant), [grokbothq.xyz](https://grokbothq.xyz/bots/the-accountant), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Y_R1Ya9SIzQZguGTV5NCX), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-accountant), [x-research](https://botsdots.site/templates/the-accountant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 1 connectors |

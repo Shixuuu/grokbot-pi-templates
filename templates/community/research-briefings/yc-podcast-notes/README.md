@@ -6,7 +6,7 @@ Checks Y Combinator podcasts every hour, flags new episodes, and sends short fou
 | --- | --- |
 | Original template | https://x.ai/bot/0y-dcpVFqFkjibKs2M48D |
 | Creator | Sumer Malhotra ([@buuxbt](https://x.com/buuxbt)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/yc-podcast-notes), [grokbotwiki.com](https://www.grokbotwiki.com/bots/yc-podcast-notes), [grokbothq.xyz](https://grokbothq.xyz/bots/yc-podcast-notes), [templatebot.lol](https://templatebot.lol/bot/0y-dcpVFqFkjibKs2M48D), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/yc-podcast-notes), [x-research](https://botdirectory.ai/bots/yc-podcast-notes/) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 0 connectors |

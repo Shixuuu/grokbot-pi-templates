@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/cAV3aRWNNP8ArGjOSJ7g9 |
 | Creator | まるいも ([@marulimoai](https://x.com/marulimoai)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/m5), [grokbothq.xyz](https://grokbothq.xyz/bots/m5-restock-watcher), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/m5stack-restock-watcher), [x-research](https://x.com/marulimoai/status/2107735579752554735) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 3 memory seeds, 1 connectors |

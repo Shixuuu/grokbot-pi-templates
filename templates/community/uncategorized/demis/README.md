@@ -6,7 +6,7 @@ A Google AI ecosystem assistant for Gemini, AI Studio, Vertex AI, and DeepMind. 
 | --- | --- |
 | Original template | https://x.ai/bot/LBGBG8UrSkT16d_PsusNw |
 | Creator | Jetha Chan |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/jetha/status/2108427882137845876) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A faith companion for Bible study and encouragement. It walks through Scripture 
 | --- | --- |
 | Original template | https://x.ai/bot/jJX-rUshHTIK8RP9IpJKE |
 | Creator | Justin Strafuss ([@MstrHappyJustin](https://x.com/MstrHappyJustin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shepherd-jjxr), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shepherd-jjxr), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/shepherd-jjxr) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 18 memory seeds, 0 connectors |

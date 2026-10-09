@@ -6,7 +6,7 @@ Drop in a desk talking-head and get a clean, branded YouTube cut. Guides first-r
 | --- | --- |
 | Original template | https://x.ai/bot/Oo4vOtwAggO933EwCmKrc |
 | Creator | Ross ([@ross_zeiger](https://x.com/ross_zeiger)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-editor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/video-editor), [grokbothq.xyz](https://grokbothq.xyz/bots/video-editor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/video-editor), [x-research](https://x.com/ross_zeiger/status/2103941921983107481) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 0 connectors |

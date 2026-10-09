@@ -6,7 +6,7 @@ Dedicated companion for Mark Pincus’s Life at the Speed of Play. Helps readers
 | --- | --- |
 | Original template | https://x.ai/bot/GkzMzuaxSoJhBCZxSRAkM |
 | Creator | Joe ([@CardCaptain](https://x.com/CardCaptain)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/life-at-the-speed-of-play), [grokbotwiki.com](https://www.grokbotwiki.com/bots/life-at-the-speed-of-play), [grokbothq.xyz](https://grokbothq.xyz/bots/life-at-the-speed-of-play), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/life-at-the-speed-of-play), [x-research](https://x.com/CardCaptain/status/2101093549475500058) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

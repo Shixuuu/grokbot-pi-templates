@@ -6,7 +6,7 @@ Checks whether a public username, shop, listing, domain, job post, or image is w
 | --- | --- |
 | Original template | https://x.ai/bot/sLPjnF3cziLjIcx48ftmI |
 | Creator | Raildragon ([@MAGAmechanic60](https://x.com/MAGAmechanic60)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/public-verify-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/public-verify-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/public-verify-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/public-verify-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

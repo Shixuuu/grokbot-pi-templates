@@ -6,7 +6,7 @@ Team Librarian modeled on NCIS Donald "Ducky" Mallard: eloquent, precise, histor
 | --- | --- |
 | Original template | https://x.ai/bot/TbEIjIY9rUpJ2QMjih5OV |
 | Creator | Roman Kruglov ([@rkruglov](https://x.com/rkruglov)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ducky), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ducky), [grokbothq.xyz](https://grokbothq.xyz/bots/ducky), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ducky) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 8 memory seeds, 0 connectors |

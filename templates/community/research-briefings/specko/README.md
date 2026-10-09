@@ -6,7 +6,7 @@ An AI research and ideas radar. It tracks tools, models, methods, data sources, 
 | --- | --- |
 | Original template | https://x.ai/bot/MEhuzSRmddJAr5DBllCRt |
 | Creator | Bryce G ([@GeckoSpatialAI](https://x.com/GeckoSpatialAI)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/specko), [grokbotwiki.com](https://www.grokbotwiki.com/bots/specko), [grokbothq.xyz](https://grokbothq.xyz/bots/specko), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/specko) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 7 memory seeds, 0 connectors |

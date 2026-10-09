@@ -6,7 +6,7 @@ Tracks credit-card and membership benefits, logs seasonal credits, reminds befor
 | --- | --- |
 | Original template | https://x.ai/bot/s8xQ8kXnmy06ChZvNJHXn |
 | Creator | Zheng Li ([@connorli1996](https://x.com/connorli1996)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/benefits-concierge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/benefits-concierge), [grokbothq.xyz](https://grokbothq.xyz/bots/benefits-concierge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/benefits-concierge), [x-research](https://x.com/connorli1996/status/2105067012817039599) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 1 routines, 3 memory seeds, 1 connectors |

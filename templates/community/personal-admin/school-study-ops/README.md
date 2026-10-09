@@ -6,7 +6,7 @@ Parent bot for one student: read-only Classroom digests, official grades, and in
 | --- | --- |
 | Original template | https://x.ai/bot/AS6uhZDipBQVtOyQdASUX |
 | Creator | Wes Harris |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/school-study-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/school-study-ops), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/school-study-ops) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 2 connectors |

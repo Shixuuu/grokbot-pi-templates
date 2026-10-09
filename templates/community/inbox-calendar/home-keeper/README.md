@@ -6,7 +6,7 @@ Builds a maintenance plan for your home from its age, systems, and climate, nudg
 | --- | --- |
 | Original template | https://x.ai/bot/Q7jzCnVHMmVhhBC3hwyQb |
 | Creator | Joseph Snyder ([@BTC_Yogi](https://x.com/BTC_Yogi)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/home-keeper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/home-keeper), [grokbothq.xyz](https://grokbothq.xyz/bots/home-keeper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/BTC_Yogi/status/2104026829556470045) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

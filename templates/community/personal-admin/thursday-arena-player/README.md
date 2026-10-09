@@ -6,7 +6,7 @@ Plays Thursday Arena for you in the browser and tracks versioned strategies to c
 | --- | --- |
 | Original template | https://x.ai/bot/EexU2vqT00i0wBlajsWLt |
 | Creator | Peter Kuo ([@diamondhanddie](https://x.com/diamondhanddie)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/thursday-arena-player), [grokbotwiki.com](https://www.grokbotwiki.com/bots/thursday-arena-player), [grokbothq.xyz](https://grokbothq.xyz/bots/thursday-arena-player), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/thursday-arena-player) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 11 memory seeds, 0 connectors |

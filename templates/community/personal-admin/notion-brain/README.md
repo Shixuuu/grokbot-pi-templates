@@ -6,7 +6,7 @@ Rent the AI, own the memory. Interviews you once, saves your personal and work p
 | --- | --- |
 | Original template | https://x.ai/bot/20ALGn4Hyzi2iVP9VTToA |
 | Creator | rizzy ([@rizzy_sol](https://x.com/rizzy_sol)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/notion-brain), [grokbotwiki.com](https://www.grokbotwiki.com/bots/notion-brain), [grokbothq.xyz](https://grokbothq.xyz/bots/notion-brain), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/notion-brain) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

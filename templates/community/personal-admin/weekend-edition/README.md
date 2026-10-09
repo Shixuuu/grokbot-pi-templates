@@ -6,7 +6,7 @@ Turn your saved links and X bookmarks into a weekly newspaper you can print.
 | --- | --- |
 | Original template | https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh |
 | Creator | Nathan Glass ([@nathanglass](https://x.com/nathanglass)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/weekend-edition), [grokbotwiki.com](https://www.grokbotwiki.com/bots/weekend-edition), [grokbothq.xyz](https://grokbothq.xyz/bots/weekend-edition), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/weekend-edition), [x-research](https://botsdots.site/templates/weekend-edition) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 10 skills, 3 routines, 9 memory seeds, 1 connectors |

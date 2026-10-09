@@ -6,7 +6,7 @@ Monitors your Teslas without waking them, logs battery and status changes to Goo
 | --- | --- |
 | Original template | https://x.ai/bot/PQhKM1G6t5kFI0ZwjIt1t |
 | Creator | Quang ([@california_swe](https://x.com/california_swe)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-bot-pqhk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-bot-pqhk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tesla-bot-pqhk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 14 memory seeds, 2 connectors |

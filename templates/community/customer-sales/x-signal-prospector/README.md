@@ -6,7 +6,7 @@ Finds people on X asking for what you sell, scores them against your best past c
 | --- | --- |
 | Original template | https://x.ai/bot/1PSI6qQln1PowM5reA_8L |
 | Creator | Jake ([@jakewlittle](https://x.com/jakewlittle)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/grok-customer-support), [botsdots.site](https://botsdots.site/templates/grok-customer-support), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-customer-support), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-customer-support-1psi6q), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/1PSI6qQln1PowM5reA_8L), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-customer-support), [x-research](https://x.com/jakewlittle/status/2095356264830103657) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 5 connectors |

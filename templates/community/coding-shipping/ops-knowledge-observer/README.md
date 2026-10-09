@@ -6,7 +6,7 @@ Observe-only company brain for a multi-bot ops fleet. After import, a setup ques
 | --- | --- |
 | Original template | https://x.ai/bot/CIgxhKdiPj7KflehWkaEr |
 | Creator | Stephen Ruhe ([@StephenRuhe](https://x.com/StephenRuhe)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ops-knowledge-observer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ops-knowledge-observer), [grokbothq.xyz](https://grokbothq.xyz/bots/ops-knowledge-observer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ops-knowledge-observer), [x-research](https://x.com/StephenRuhe/status/2099995191272681718) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 10 memory seeds, 2 connectors |

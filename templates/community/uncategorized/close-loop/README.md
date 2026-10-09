@@ -6,7 +6,7 @@ A million questions asked, but were they all answered? Close Loop keeps a ledger
 | --- | --- |
 | Original template | https://x.ai/bot/ZHSf2xajDZF6vZGyRC8eP |
 | Creator | Kris |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/KrisHuff/status/2108409981376847944) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

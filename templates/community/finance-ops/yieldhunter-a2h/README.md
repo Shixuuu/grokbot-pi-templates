@@ -6,7 +6,7 @@ Research desk, not a wallet. Risk-adjusted stablecoin ranks. Research only. yiel
 | --- | --- |
 | Original template | https://x.ai/bot/WNM6of7FpZsKARFA2vsT_ |
 | Creator | MyEnsNames.eth |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/yieldhunter-a2h), [grokbothq.xyz](https://grokbothq.xyz/bots/yieldhunter-a2h), [templatebot.lol](https://templatebot.lol/bot/WNM6of7FpZsKARFA2vsT_), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/yieldhunter-a2h) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Designs in Figma. Real components, intuitive layout, and motion that feels right
 | --- | --- |
 | Original template | https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz |
 | Creator | John Bai ([@johnbai](https://x.com/johnbai)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/figma-bro), [grokbotwiki.com](https://www.grokbotwiki.com/bots/figma-bro), [grokbothq.xyz](https://grokbothq.xyz/bots/figma-bro), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/VHMdjIGjGpgDSJR7dW6Gz), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/figma-bro), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 14 memory seeds, 0 connectors |

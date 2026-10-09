@@ -6,7 +6,7 @@ Turn a messy idea into a one-page build brief. Dump the idea; get a sharp page b
 | --- | --- |
 | Original template | https://x.ai/bot/mDT2kLUA2QkLI0KhUwk2E |
 | Creator | Diana Ramirez ([@dvoguing](https://x.com/dvoguing)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spine), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spine), [grokbothq.xyz](https://grokbothq.xyz/bots/spine), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/dvoguing/status/2100636216333123880) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

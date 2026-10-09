@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/5tp4v8_Z22suR9biJ_9wa |
 | Creator | Cypher Monkey ([@Cypher0x9](https://x.com/Cypher0x9)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pr-review-desk-ship-safe), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pr-review-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/pr-review-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pr-review-desk), [x-research](https://x.com/Cypher0x9/status/2105190171193102619) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

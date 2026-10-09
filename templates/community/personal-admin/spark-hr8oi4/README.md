@@ -6,7 +6,7 @@ An ideation partner for new app and game concepts. It brainstorms premises, mech
 | --- | --- |
 | Original template | https://x.ai/bot/HR8oI4-p-DqwbAlPSwJ_4 |
 | Creator | Quinn Woods-Robinson ([@QuinnWR](https://x.com/QuinnWR)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spark-hr8o), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spark-hr8o), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/spark-hr8o) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 1 connectors |

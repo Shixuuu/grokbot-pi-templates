@@ -6,7 +6,7 @@ Gate for AI coding agents before pip/git installs — catches typosquats, malici
 | --- | --- |
 | Original template | https://x.ai/bot/rVl1h06Nts9u81JT0__nn |
 | Creator | Chris Schultz ([@schultz180](https://x.com/schultz180)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/trojan-guard), [grokbotwiki.com](https://www.grokbotwiki.com/bots/trojan-guard), [grokbothq.xyz](https://grokbothq.xyz/bots/trojan-guard), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/schultz180/status/2100635367636353414) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

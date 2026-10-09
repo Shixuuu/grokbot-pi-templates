@@ -6,7 +6,7 @@ Giving students live answers & reminders about lectures, semester breaks, import
 | --- | --- |
 | Original template | https://x.ai/bot/LLScxVm-la-ik4JJde3A1 |
 | Creator | Shahrul Estar ([@shahrulestar](https://x.com/shahrulestar)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/lrt-kelana-jaya-line), [botsdots.site](https://botsdots.site/templates/bila-uitm-cuti), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lrt-kelana-jaya-line), [grokbothq.xyz](https://grokbothq.xyz/bots/lrt-kelana-jaya-line-llscxv), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/LLScxVm-la-ik4JJde3A1), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/shahrulestar/status/2095492403105038444) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

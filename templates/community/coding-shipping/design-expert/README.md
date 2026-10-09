@@ -6,7 +6,7 @@ A product design lead that keeps AI-built UIs honest: real type, unique folds, a
 | --- | --- |
 | Original template | https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG |
 | Creator | Ashish P ([@inqusit](https://x.com/inqusit)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/design-expert), [botsdots.site](https://botsdots.site/templates/design-expert), [grokbotwiki.com](https://www.grokbotwiki.com/bots/design-expert), [grokbothq.xyz](https://grokbothq.xyz/bots/design-expert), [templatebot.lol](https://templatebot.lol/bot/H2WEoHRGKv_6a3j6lsHiG), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/design-expert), [x-research](https://x.com/inqusit/status/2093765735197851709) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ A morning sales analyst for indie subscription apps. Pulls yesterday’s Revenue
 | --- | --- |
 | Original template | https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT |
 | Creator | Lex Tang ([@lexrus](https://x.com/lexrus)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/revenuedog), [grokbotwiki.com](https://www.grokbotwiki.com/bots/revenuedog), [grokbothq.xyz](https://grokbothq.xyz/bots/revenuedog), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/IDFtkYcsl7MpfdfTx09RT), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/revenuedog), [x-research](https://botsdots.site/templates/revenuedog) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 2 connectors |

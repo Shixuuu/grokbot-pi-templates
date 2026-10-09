@@ -6,7 +6,7 @@ Designs focused Grok Bot fleets (CoS + specialists), crawl→walk→run, and a S
 | --- | --- |
 | Original template | https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy |
 | Creator | Bernard Krajinovic ([@beksvie](https://x.com/beksvie)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-builder-xwzd), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-builder-xwzd), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-builder-beksvie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bot-builder-2), [x-research](https://x.com/beksvie/status/2104841391184757218) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 1 routines, 3 memory seeds, 0 connectors |

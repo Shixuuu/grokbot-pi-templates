@@ -6,7 +6,7 @@ Triage hub for an insurance-coverage work fleet. Talks with you, keeps desks run
 | --- | --- |
 | Original template | https://x.ai/bot/9Md8JAsr7Vyk8cv8BcnLf |
 | Creator | ladybarrelmaker ([@ladybarrelmaker](https://x.com/ladybarrelmaker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/number-one), [grokbotwiki.com](https://www.grokbotwiki.com/bots/presentation-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/number-one), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/number-one), [x-research](https://botsdots.site/templates/number-one) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

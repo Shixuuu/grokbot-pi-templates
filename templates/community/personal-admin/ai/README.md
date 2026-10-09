@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt |
 | Creator | Bbbb Zuo ([@左左](https://x.com/左左)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ai-oqeu), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-oqeu), [grokbothq.xyz](https://grokbothq.xyz/bots/zuoyou-ai-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/zuoyou_ai/status/2099531082375012572) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A ChatPRD-first product manager. Specs, brainstorms, and discovery live in ChatP
 | --- | --- |
 | Original template | https://x.ai/bot/36vKs2HSysdaJDe6OLD4w |
 | Creator | Claire ([@clairevo](https://x.com/clairevo)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/chatprd), [botsdots.site](https://botsdots.site/templates/chatprd), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chatprd), [grokbothq.xyz](https://grokbothq.xyz/bots/chatprd), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/36vKs2HSysdaJDe6OLD4w), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chatprd), [x-research](https://x.com/clairevo/status/2093496602522714362) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 4 routines, 4 memory seeds, 5 connectors |

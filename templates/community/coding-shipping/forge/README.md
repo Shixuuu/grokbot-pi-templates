@@ -6,7 +6,7 @@ Factory manager for ready specs on flow-next 5.4: /flow conductor (attended) and
 | --- | --- |
 | Original template | https://x.ai/bot/7GgZtqkhyLzKKMNUa7dhd |
 | Creator | Daniel Killenberger ([@DanKillenberger](https://x.com/DanKillenberger)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/forge-7ggz), [grokbotwiki.com](https://www.grokbotwiki.com/bots/forge-dev-factory), [grokbothq.xyz](https://grokbothq.xyz/bots/forge), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/7GgZtqkhyLzKKMNUa7dhd), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/forge-dev-factory), [x-research](https://botsdots.site/templates/forge-7ggz) |
 | Fidelity | **full** (full recipe, template version 26) |
 | Contents | 18 skills, 0 routines, 1 memory seeds, 1 connectors |

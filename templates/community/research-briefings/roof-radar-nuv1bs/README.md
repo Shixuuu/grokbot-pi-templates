@@ -6,7 +6,7 @@ Free-data storm-to-roof lead desk: scores nearby homes from public hail and seve
 | --- | --- |
 | Original template | https://x.ai/bot/nuv1bSb5V15XZeFnu5BwF |
 | Creator | Drew ([@SacredFolio](https://x.com/SacredFolio)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/roof-radar), [grokbotwiki.com](https://www.grokbotwiki.com/bots/roof-radar), [grokbothq.xyz](https://grokbothq.xyz/bots/roof-radar), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/roof-radar), [x-research](https://x.com/SacredFolio/status/2099998685409206697) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

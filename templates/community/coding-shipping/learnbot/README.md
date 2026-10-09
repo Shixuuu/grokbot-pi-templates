@@ -6,7 +6,7 @@ Learn one engineering term a day for non-technical folks, with buttons to learn 
 | --- | --- |
 | Original template | https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C |
 | Creator | Grace Clarke ([@graceclarke](https://x.com/graceclarke)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/learnbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/learnbot), [grokbothq.xyz](https://grokbothq.xyz/bots/learnbot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/learnbot), [x-research](https://botsdots.site/templates/learnbot) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 0 connectors |

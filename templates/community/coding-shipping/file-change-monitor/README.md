@@ -6,7 +6,7 @@ Watches the important files on your PC (hosts file, SSH keys, shell profiles, sy
 | --- | --- |
 | Original template | https://x.ai/bot/hx5ACy3v6cN9dwyOje57y |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/file-change-monitor), [grokbothq.xyz](https://grokbothq.xyz/bots/file-change-monitor), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/file-change-monitor) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Grok Bot crawls your site, indexes data and feeds it to the major LLMs and AI ag
 | --- | --- |
 | Original template | https://x.ai/bot/CM6cRhyYm-k1vi23YxYxx |
 | Creator | Robauto Team ([@RobautoAI](https://x.com/RobautoAI)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/grokbot-daily-crawl), [botsdots.site](https://botsdots.site/templates/grokbotdailycrawl), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grokbotdailycrawl), [grokbothq.xyz](https://grokbothq.xyz/bots/grokbot-daily-crawl), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/RobautoAI/status/2096769236379333014) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 3 skills, 2 routines, 6 memory seeds, 0 connectors |

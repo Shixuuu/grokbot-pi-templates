@@ -6,7 +6,7 @@ Turns an insurance denial into a draft-only appeal pack: case card, deadline, mi
 | --- | --- |
 | Original template | https://x.ai/bot/EgfoyJEx7bfDiHlZUwr3P |
 | Creator | Andrew Pocta ([@Andrew51786](https://x.com/Andrew51786)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/denial-desk), [botsdots.site](https://botsdots.site/templates/denial-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/denial-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/denial-desk-egfoyj), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/EgfoyJEx7bfDiHlZUwr3P), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Andrew51786/status/2095488789766365561) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

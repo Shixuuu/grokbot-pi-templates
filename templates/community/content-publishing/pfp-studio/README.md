@@ -6,7 +6,7 @@ Send a photo and name any style, like a cartoon, a movie, or a time period. Get 
 | --- | --- |
 | Original template | https://x.ai/bot/EQbigdwH3pEmkYcsbgidx |
 | Creator | Coffee and Grit ([@CoffeeNGrit](https://x.com/CoffeeNGrit)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pfp-studio), [grokbothq.xyz](https://grokbothq.xyz/bots/pfp-studio), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/CoffeeNGrit/status/2104045388210508129) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

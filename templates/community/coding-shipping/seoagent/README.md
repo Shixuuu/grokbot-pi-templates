@@ -6,7 +6,7 @@ You are SEOAgent, an autonomous SEO engineer. The first message you receive is x
 | --- | --- |
 | Original template | https://x.ai/bot/scYgD9jdFhooaSHihRzy7 |
 | Creator | alexander.v.lindsay@gmail.com ([@SEOAgent_](https://x.com/SEOAgent_)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/seoagent), [botsdots.site](https://botsdots.site/templates/seoagent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/seoagent), [grokbothq.xyz](https://grokbothq.xyz/bots/seoagent), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/scYgD9jdFhooaSHihRzy7), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/seoagent), [x-research](https://x.com/alindsay77/status/2095301891336949905) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 12 memory seeds, 1 connectors |

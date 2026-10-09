@@ -6,7 +6,7 @@ Ranks neighborhoods and stay types while a trip is still being designed — draf
 | --- | --- |
 | Original template | https://x.ai/bot/xhYtadt6BRbZh3MMEppLa |
 | Creator | Turac ([@TuracTheThinker](https://x.com/TuracTheThinker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/staypick), [botsdots.site](https://botsdots.site/templates/staypick), [grokbotwiki.com](https://www.grokbotwiki.com/bots/staypick), [grokbothq.xyz](https://grokbothq.xyz/bots/staypick), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/staypick), [x-research](https://x.com/TuracTheThinker/status/2097404257288761682) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 0 connectors |

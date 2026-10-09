@@ -6,7 +6,7 @@ A personal mentor in Adlerian psychology and teleology. Helps people make life d
 | --- | --- |
 | Original template | https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT |
 | Creator | pardha ([@pardzz_](https://x.com/pardzz_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/adler), [grokbotwiki.com](https://www.grokbotwiki.com/bots/adler), [grokbothq.xyz](https://grokbothq.xyz/bots/adler), [templatebot.lol](https://templatebot.lol/bot/5HCe3lRaa5-c4c2RbA-LT), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/adler), [x-research](https://botsdots.site/templates/adler) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 16 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Founder Lead for a living second brain plus a gated, responsible app-build desk 
 | --- | --- |
 | Original template | https://x.ai/bot/FGFMxol1pBRT2TmjmtIod |
 | Creator | EJ Angsinco ([@ejangsinco](https://x.com/ejangsinco)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/aila-lead), [botsdots.site](https://botsdots.site/templates/aila-lead), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aila-lead), [grokbothq.xyz](https://grokbothq.xyz/bots/aila-lead), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/aila-lead), [x-research](https://x.com/ejangsinco/status/2102925142561042662) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 5 skills, 0 routines, 8 memory seeds, 0 connectors |

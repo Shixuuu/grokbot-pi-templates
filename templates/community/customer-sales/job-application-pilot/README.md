@@ -6,7 +6,7 @@ Autonomous job hunter: learns who you are from resume or LinkedIn, searches on y
 | --- | --- |
 | Original template | https://x.ai/bot/HhL4o6s2LGOOse8YimJz3 |
 | Creator | Oggi ([@otgondavaa0](https://x.com/otgondavaa0)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-application-pilot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/job-application-pilot), [grokbothq.xyz](https://grokbothq.xyz/bots/job-application-pilot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/job-application-pilot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 6 memory seeds, 0 connectors |

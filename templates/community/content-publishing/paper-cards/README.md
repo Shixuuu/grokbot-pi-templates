@@ -6,7 +6,7 @@ Turn a transcript into short, high-value quotes and Q&As — clean readable text
 | --- | --- |
 | Original template | https://x.ai/bot/aj9SRmKmqgJOoYM-Gzdi_ |
 | Creator | Restream ([@Restreamio](https://x.com/Restreamio)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paper-cards), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paper-cards), [grokbothq.xyz](https://grokbothq.xyz/bots/paper-cards), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/paper-cards), [x-research](https://botsdots.site/templates/paper-cards) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 4 skills, 0 routines, 2 memory seeds, 2 connectors |

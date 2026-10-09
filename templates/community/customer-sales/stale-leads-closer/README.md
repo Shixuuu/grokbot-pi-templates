@@ -6,7 +6,7 @@ Revives quiet sales leads: drafts warm CRM SMS, holds a Slack veto window, then 
 | --- | --- |
 | Original template | https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0 |
 | Creator | Roberto Garza 🇻🇦 ([@robertodjg](https://x.com/robertodjg)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stale-leads-closer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stale-leads-closer), [grokbothq.xyz](https://grokbothq.xyz/bots/stale-leads-closer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stale-leads-closer), [x-research](https://botsdots.site/templates/stale-leads-closer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 7 memory seeds, 1 connectors |

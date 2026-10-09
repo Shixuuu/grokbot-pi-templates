@@ -6,7 +6,7 @@ Researches and proposes Polymarket-style prediction bets. Explains the thesis, s
 | --- | --- |
 | Original template | https://x.ai/bot/MvgLJbHeHFjc7J9D419_J |
 | Creator | Jodi Stott🌸 ([@WorkWithJodi](https://x.com/WorkWithJodi)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/polly), [grokbotwiki.com](https://www.grokbotwiki.com/bots/polly), [grokbothq.xyz](https://grokbothq.xyz/bots/polly), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/polly), [x-research](https://x.com/WorkWithJodi/status/2101113189341540826) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

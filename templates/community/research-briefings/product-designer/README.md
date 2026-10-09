@@ -6,7 +6,7 @@ End-to-end product experience on the design side of the product triad (NN/g + DD
 | --- | --- |
 | Original template | https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q |
 | Creator | Vijay Kandhalu ([@ucdops](https://x.com/ucdops)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/product-designer), [botsdots.site](https://botsdots.site/templates/product-designer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/product-designer), [grokbothq.xyz](https://grokbothq.xyz/bots/product-designer-8_0XZtTY), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/8_0XZtTYdQe6b4uUhIX0Q), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/product-designer), [x-research](https://x.com/ucdops/status/2096320244633551283) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 5 skills, 1 routines, 32 memory seeds, 0 connectors |

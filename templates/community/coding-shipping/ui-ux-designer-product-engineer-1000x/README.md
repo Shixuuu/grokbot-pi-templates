@@ -6,7 +6,7 @@ World-class product engineer for mobile and desktop web. Ships Convex + TanStack
 | --- | --- |
 | Original template | https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu |
 | Creator | Thomas Zarebczan ([@TomZarebczan](https://x.com/TomZarebczan)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/uiuxdesigner-product-engineer-1000x), [grokbotwiki.com](https://www.grokbotwiki.com/bots/1000x-product-engineer), [grokbothq.xyz](https://grokbothq.xyz/bots/1000x-product-engineer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/sQDD87Gp6VLT0m99tFpzu), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/1000x-product-engineer), [x-research](https://botdirectory.ai/bots/ui-ux-designer-product-engineer-1000x/) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 17 skills, 0 routines, 7 memory seeds, 1 connectors |

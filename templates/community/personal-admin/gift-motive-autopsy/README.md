@@ -6,7 +6,7 @@ For last-minute gifters who need a clear why: see whether the gift is status, ca
 | --- | --- |
 | Original template | https://x.ai/bot/2jqb0GUjTJElfc529kClB |
 | Creator | Andy Mccutcheon ([@yandymccutcheon](https://x.com/yandymccutcheon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gift-motive-autopsy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gift-motive-autopsy), [grokbothq.xyz](https://grokbothq.xyz/bots/gift-motive-autopsy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/gift-motive-autopsy) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

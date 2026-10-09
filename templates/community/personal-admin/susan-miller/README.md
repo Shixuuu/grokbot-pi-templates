@@ -6,7 +6,7 @@ Daily horoscopes pulled from Susan Miller on Astrology Zone. A short morning bri
 | --- | --- |
 | Original template | https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu |
 | Creator | Inkwell Designers ([@cybrgalaxy](https://x.com/cybrgalaxy)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/susan-miller), [grokbotwiki.com](https://www.grokbotwiki.com/bots/susan-miller), [grokbothq.xyz](https://grokbothq.xyz/bots/susan-miller), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/3gtrtAYfI2WHaLZT73-Mu), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/susan-miller) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 0 connectors |

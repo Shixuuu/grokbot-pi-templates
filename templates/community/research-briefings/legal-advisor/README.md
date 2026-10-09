@@ -6,7 +6,7 @@ International legal analysis assistant in English. Configures to your jurisdicti
 | --- | --- |
 | Original template | https://x.ai/bot/0TmnKtakm--gYpX_1jcni |
 | Creator | XPixel ([@xpixeladventure](https://x.com/xpixeladventure)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/legal-advisor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/legal-advisor), [grokbothq.xyz](https://grokbothq.xyz/bots/legal-advisor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/legal-advisor), [x-research](https://botsdots.site/templates/legal-advisor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

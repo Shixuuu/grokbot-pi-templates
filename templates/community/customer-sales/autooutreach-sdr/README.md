@@ -6,7 +6,7 @@ A Grok Bot that books meetings while you sleep.
 | --- | --- |
 | Original template | https://x.ai/bot/BFOjQ_Gg_sQi5pJ-Q05UW |
 | Creator | jon carder |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/autooutreach-sdr), [grokbothq.xyz](https://grokbothq.xyz/bots/autooutreach-sdr), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/autooutreach-sdr) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Proactively finds early-stage capital for early-stage founders: short accelerato
 | --- | --- |
 | Original template | https://x.ai/bot/1AFXHf0OtQ-J4-eP5wgC5 |
 | Creator | Nahuel Becerra ([@neslyio](https://x.com/neslyio)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/early-stage-funding-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/early-stage-funding-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/early-stage-funding-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/early-stage-funding-scout) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Personal chief-of-staff for email and calendar. Triages your inbox, drafts repli
 | --- | --- |
 | Original template | https://x.ai/bot/F8vp6AGwCX3DYuTJ_aahF |
 | Creator | Peter Sinke ([@psinke](https://x.com/psinke)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/master-chief-f8vp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/master-chief), [grokbothq.xyz](https://grokbothq.xyz/bots/master-chief-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/master-chief), [x-research](https://x.com/psinke/status/2103929339263770887) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 5 skills, 0 routines, 4 memory seeds, 0 connectors |

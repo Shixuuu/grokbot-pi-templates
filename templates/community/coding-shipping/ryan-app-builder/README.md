@@ -6,7 +6,7 @@ A friendly phone-app designer and builder for people who have never coded. Ryan 
 | --- | --- |
 | Original template | https://x.ai/bot/acSvd_2n8QnlnAjJebkvy |
 | Creator | Blake King ([@BlakeKing777](https://x.com/BlakeKing777)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ryan-app-builder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ryan-app-builder), [grokbothq.xyz](https://grokbothq.xyz/bots/ryan-app-builder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ryan-app-builder), [x-research](https://botsdots.site/templates/ryan-app-builder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

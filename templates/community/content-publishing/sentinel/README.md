@@ -6,7 +6,7 @@ Reputation defense and social-proof extraction across browser review surfaces. S
 | --- | --- |
 | Original template | https://x.ai/bot/uO5NbCQrgt1dtYKeklsj1 |
 | Creator | John ([@davincivibecode](https://x.com/davincivibecode)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sentinel), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sentinel), [grokbothq.xyz](https://grokbothq.xyz/bots/sentinel), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sentinel) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

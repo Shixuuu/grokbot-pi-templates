@@ -6,7 +6,7 @@ Outer-loop engineering manager: break work down, hand it to a build agent, prove
 | --- | --- |
 | Original template | https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv |
 | Creator | Andrew Kittridge ([@Andrew Kittridge](https://x.com/Andrew Kittridge)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/engineer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/engineer), [grokbothq.xyz](https://grokbothq.xyz/bots/engineer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/engineer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 5 memory seeds, 3 connectors |

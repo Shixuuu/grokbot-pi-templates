@@ -6,7 +6,7 @@ Weed leftover from a codebase. Small fixes only, never a refactor, never a behav
 | --- | --- |
 | Original template | https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp |
 | Creator | Tyler Klose ([@tylerklose](https://x.com/tylerklose)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gardener), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gardener), [grokbothq.xyz](https://grokbothq.xyz/bots/gardener), [templatebot.lol](https://templatebot.lol/bot/oH3eR4YWtsljcz0W4HUBp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gardener), [x-research](https://x.com/tylerklose/status/2093483701480866210) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 1 connectors |

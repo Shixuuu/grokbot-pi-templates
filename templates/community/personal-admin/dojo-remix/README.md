@@ -6,7 +6,7 @@ Remixes your Suno songs: rewrites the lyrics into Twista-style double-time chopp
 | --- | --- |
 | Original template | https://x.ai/bot/zVd3aZG061Qi2kyusWFXA |
 | Creator | Dividend_Dojo ([@Dividend_Dojo](https://x.com/Dividend_Dojo)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dojo-remix), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dojo-remix), [grokbothq.xyz](https://grokbothq.xyz/bots/dojo-remix), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/dojo-remix) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

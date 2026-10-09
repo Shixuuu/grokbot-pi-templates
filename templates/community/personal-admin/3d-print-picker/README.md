@@ -6,7 +6,7 @@ Finds what’s hot to 3D-print and sell on Facebook Marketplace—weekly trend b
 | --- | --- |
 | Original template | https://x.ai/bot/eneihB5UxrWebXtoVlOm6 |
 | Creator | Eminy Spur ([@kylecmarshall](https://x.com/kylecmarshall)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/3d-print-picker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/3d-print-picker), [grokbothq.xyz](https://grokbothq.xyz/bots/3d-print-picker), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/3d-print-picker) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

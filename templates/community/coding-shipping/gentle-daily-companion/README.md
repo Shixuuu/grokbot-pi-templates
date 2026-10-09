@@ -6,7 +6,7 @@ A soft, calm daily companion that sends weather, a vocal warm-up, a tiny languag
 | --- | --- |
 | Original template | https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx |
 | Creator | 𝕏 ([@XAmandaMoore](https://x.com/XAmandaMoore)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gentle-daily-companion), [grokbotwiki.com](https://www.grokbotwiki.com/bots/baut), [grokbothq.xyz](https://grokbothq.xyz/bots/baut), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/gentle-daily-companion) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 6 routines, 3 memory seeds, 1 connectors |

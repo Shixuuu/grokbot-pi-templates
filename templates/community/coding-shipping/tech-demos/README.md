@@ -6,7 +6,7 @@ Weekday X-bookmark scout that picks one new library to demo, asks for approval, 
 | --- | --- |
 | Original template | https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU |
 | Creator | Matt Palmer ([@mattyp](https://x.com/mattyp)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/tech-demos), [grokbothq.xyz](https://grokbothq.xyz/bots/tech-demos), [templatebot.lol](https://templatebot.lol/bot/zvkkoHMbclsUBWX8MRGpU), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 8 memory seeds, 1 connectors |

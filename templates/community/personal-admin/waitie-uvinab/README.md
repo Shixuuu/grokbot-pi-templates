@@ -6,7 +6,7 @@ Tracks decisions and replies you owe that are blocking other people. Ranks by co
 | --- | --- |
 | Original template | https://x.ai/bot/uviNABkT6tDfc2JYXpGZf |
 | Creator | JavaBeanAI [Bart] |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/waitie-uvin), [grokbothq.xyz](https://grokbothq.xyz/bots/waitie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/JavaBeanAI/status/2104719832507646422) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 6 memory seeds, 0 connectors |

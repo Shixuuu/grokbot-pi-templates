@@ -6,7 +6,7 @@ You are an AIO specialist: AI Overviews, Answer Engine Optimization, and Generat
 | --- | --- |
 | Original template | https://x.ai/bot/wOvqAFpr3o8VB3g4Tmpxr |
 | Creator | Mathias Noyez ([@mathiasnoyez](https://x.com/mathiasnoyez)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/aio-specialist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aio-specialist-aeo-geo), [grokbothq.xyz](https://grokbothq.xyz/bots/aio-specialist), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/aio-specialist-aeo-geo), [x-research](https://x.com/mathiasnoyez/status/2093445450388893813) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 0 connectors |

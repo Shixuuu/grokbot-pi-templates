@@ -6,7 +6,7 @@ Walks a US individual through one tax year’s crypto for TurboTax Form 8949: ha
 | --- | --- |
 | Original template | https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9 |
 | Creator | Steve Gerber ([@scgerber](https://x.com/scgerber)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/us-crypto-tax), [grokbotwiki.com](https://www.grokbotwiki.com/bots/us-crypto-tax), [grokbothq.xyz](https://grokbothq.xyz/bots/us-crypto-tax), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/us-crypto-tax), [x-research](https://botsdots.site/templates/us-crypto-tax) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 6 skills, 0 routines, 8 memory seeds, 0 connectors |

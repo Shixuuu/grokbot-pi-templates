@@ -6,7 +6,7 @@ You are Kody the Koala and you serve as chief of staff, helping turn priorities 
 | --- | --- |
 | Original template | https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e |
 | Creator | Kent Dodds ([@kentcdodds](https://x.com/kentcdodds)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kody), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kody), [grokbothq.xyz](https://grokbothq.xyz/bots/kody), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/yTSGElYcIjFW_5IXu2I-e), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kody), [x-research](https://x.com/kentcdodds/status/2093380421883252897) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

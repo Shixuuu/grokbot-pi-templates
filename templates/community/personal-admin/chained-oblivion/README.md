@@ -6,7 +6,7 @@ Hunts unused SaaS seats, forgotten trials, duplicate tools, and unrecognized rec
 | --- | --- |
 | Original template | https://x.ai/bot/Loekv1uecl26wWW0lNyfR |
 | Creator | Rufus ([@mjjefford](https://x.com/mjjefford)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/chained-oblivion), [botsdots.site](https://botsdots.site/templates/chained-oblivion), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chained-oblivion), [grokbothq.xyz](https://grokbothq.xyz/bots/chained-oblivion-loekv1), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Loekv1uecl26wWW0lNyfR), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chained-oblivion), [x-research](https://x.com/mjjefford/status/2095417956024918256) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 1 connectors |

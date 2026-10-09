@@ -6,7 +6,7 @@ Give it a topic. It tracks Instagram, X, Threads, YouTube, TikTok, and similar s
 | --- | --- |
 | Original template | https://x.ai/bot/oMU6GmI59Z1jtPUooMLLJ |
 | Creator | Sheing Ng ([@sharenow_today](https://x.com/sharenow_today)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sharenow-feed-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sharenow-feed-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/sharenow-feed-bot), [templatebot.lol](https://templatebot.lol/bot/oMU6GmI59Z1jtPUooMLLJ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sharenow-feed-bot), [x-research](https://x.com/sharenow_today/status/2093472078741615000) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Solana agent that watches the launch tape live, researches tokens, and trades th
 | --- | --- |
 | Original template | https://x.ai/bot/KZEcx_uMDR-zJIXLlYw5I |
 | Creator | 8 Bit ([@clawddevs](https://x.com/clawddevs)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clawd), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clawd), [grokbothq.xyz](https://grokbothq.xyz/bots/clawd), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/KZEcx_uMDR-zJIXLlYw5I), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/0rdlibrary/status/2108447088061080044) |
 | Fidelity | **full** (full recipe, template version 32) |
 | Contents | 26 skills, 0 routines, 12 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Denný chief of staff pre tvorcu politických meme videí: o 17:00 pripraví kr�
 | --- | --- |
 | Original template | https://x.ai/bot/AA7xL_FH-DxuGLAndaCYz |
 | Creator | athor307 pakaj ([@athor307](https://x.com/athor307)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-aa7x), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-aa7x), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-11), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-aa7x) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 10 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Evidence-first specialist for deep research, claim verification, competitor inte
 | --- | --- |
 | Original template | https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE |
 | Creator | JUMPERZ ([@jumperz](https://x.com/jumperz)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/ethan), [botsdots.site](https://botsdots.site/templates/ethan), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ethan), [grokbothq.xyz](https://grokbothq.xyz/bots/ethan), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ethan), [x-research](https://x.com/jumperz/status/2093407073815929223) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Evidence-first research bot: contracts, ledgers, verification, hard-find portal 
 | --- | --- |
 | Original template | https://x.ai/bot/nuEAmKril8Bohuqt6b7rc |
 | Creator | TheLibertyLines ([@ALL_Jonah](https://x.com/ALL_Jonah)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-ness), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-ness), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grok-ness) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

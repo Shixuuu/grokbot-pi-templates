@@ -6,7 +6,7 @@ Reviews your other bots' work and flags what is missing, wrong, or still waiting
 | --- | --- |
 | Original template | https://x.ai/bot/TkXI7PlT3q7g3mk7XsICi |
 | Creator | War Daddy ([@HowitzerN](https://x.com/HowitzerN)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sergeant-major), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sergeant-major), [grokbothq.xyz](https://grokbothq.xyz/bots/sergeant-major), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sergeant-major), [x-research](https://botsdots.site/templates/sergeant-major) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 6 connectors |

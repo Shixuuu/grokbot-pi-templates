@@ -6,7 +6,7 @@ Builds, manages, and evolves the right Grok Bot organization as the company chan
 | --- | --- |
 | Original template | https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh |
 | Creator | Robin |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/alfred-bot-chief-advisor), [grokbothq.xyz](https://grokbothq.xyz/bots/alfred-bot-chief-advisor), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/KZ9xav0Qad1U5QigEn7rh), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/alfred-bot-chief-advisor), [x-research](https://x.com/heyrobinai/status/2093393717545648305) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 3 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Independent fleet auditor for multi-bot teams. Reviews each bot's role, task, in
 | --- | --- |
 | Original template | https://x.ai/bot/Sbu_rKH30FD10OdRYo2UH |
 | Creator | GreenbarSystems ([@RyanGBsystems](https://x.com/RyanGBsystems)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-cleaner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-cleaner), [grokbothq.xyz](https://grokbothq.xyz/bots/the-cleaner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/RyanGBsystems/status/2097107246815777185) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

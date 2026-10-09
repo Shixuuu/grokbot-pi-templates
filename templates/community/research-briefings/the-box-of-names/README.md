@@ -6,7 +6,7 @@ An Atlas Obscura for names. Give it any word, place, god, or object and it trace
 | --- | --- |
 | Original template | https://x.ai/bot/M0ZZw7AT7MzGjvYe1jLBb |
 | Creator | jack, CEO of American Civilizationism ([@BLDG_390](https://x.com/BLDG_390)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-box-of-names), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-box-of-names), [grokbothq.xyz](https://grokbothq.xyz/bots/the-box-of-names), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-box-of-names), [x-research](https://x.com/BLDG_390/status/2103987768196211108) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

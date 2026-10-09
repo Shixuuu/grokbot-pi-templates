@@ -6,7 +6,7 @@ Fantasy football lineup coach for THIS week. Starting lineup, start/sit with rea
 | --- | --- |
 | Original template | https://x.ai/bot/nEM_sUscFyr3VFeYmFhZA |
 | Creator | Allen Patch ([@Allen Patch](https://x.com/Allen Patch)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lineup-lock), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lineup-lock), [grokbothq.xyz](https://grokbothq.xyz/bots/lineup-lock), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lineup-lock), [x-research](https://x.com/PatchesHQ/status/2104696851526304018) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

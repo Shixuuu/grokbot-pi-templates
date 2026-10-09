@@ -6,7 +6,7 @@ Read-only ranch hand for Zo Computer Spaces, Sites, and Services. Checks uptime,
 | --- | --- |
 | Original template | https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS |
 | Creator | Stephanie Lamouroux ([@SLamouroux](https://x.com/SLamouroux)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/packet-wrangler-range-rider), [botsdots.site](https://botsdots.site/templates/packet-wrangler-range-rider), [grokbotwiki.com](https://www.grokbotwiki.com/bots/packet-wrangler-range-rider), [grokbothq.xyz](https://grokbothq.xyz/bots/packet-wrangler-range-rider), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/packet-wrangler-range-rider), [x-research](https://x.com/SLamouroux/status/2100710528209277136) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 2 memory seeds, 0 connectors |

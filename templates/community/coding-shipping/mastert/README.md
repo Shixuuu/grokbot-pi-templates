@@ -6,7 +6,7 @@ Stage-gate desk lead for builder teams: hone-in the smallest useful combo, keep 
 | --- | --- |
 | Original template | https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ |
 | Creator | Chris Englert ([@Chris](https://x.com/Chris)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mastert), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mastert), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/mastert) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 9 skills, 2 routines, 6 memory seeds, 1 connectors |

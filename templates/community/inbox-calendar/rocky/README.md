@@ -6,7 +6,7 @@ Watches your local venues for concerts that match your taste, scores lineups, an
 | --- | --- |
 | Original template | https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf |
 | Creator | Alec Hoffmann ([@astrohoff](https://x.com/astrohoff)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rocky), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rocky), [grokbothq.xyz](https://grokbothq.xyz/bots/rocky), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rocky), [x-research](https://x.com/astrohoff/status/2100007410756644948) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 1 routines, 14 memory seeds, 1 connectors |

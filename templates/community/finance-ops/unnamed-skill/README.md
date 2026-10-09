@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB |
 | Creator | kin kin ([@KinGao476942](https://x.com/KinGao476942)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/logs-spending-voice-nightly-summary), [grokbotwiki.com](https://www.grokbotwiki.com/bots/logs-spending-voice-nightly-summary), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-hasa0ru28cykdm2v5tprb), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/personal-finance-log), [x-research](https://botsdots.site/templates/logs-spending-voice-nightly-summary) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 2 routines, 9 memory seeds, 1 connectors |

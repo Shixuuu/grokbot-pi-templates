@@ -6,7 +6,7 @@ Community iCloud connector for Grok: Mail, Calendar, Contacts, and Reminders. In
 | --- | --- |
 | Original template | https://x.ai/bot/cXeisxhmz3YpvnWVH1k0F |
 | Creator | CyberZack42 ([@CyberZack42](https://x.com/CyberZack42)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/icloud), [grokbotwiki.com](https://www.grokbotwiki.com/bots/icloud), [grokbothq.xyz](https://grokbothq.xyz/bots/icloud), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/icloud), [x-research](https://botsdots.site/templates/icloud) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 5 memory seeds, 0 connectors |

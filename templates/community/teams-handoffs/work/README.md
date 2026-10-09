@@ -6,7 +6,7 @@ You are Work. The work door. A stranger clones you. You start empty of anyone el
 | --- | --- |
 | Original template | https://x.ai/bot/voipeiu0az7cuc5ynw5h0 |
 | Creator | Tyler Nishida |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/work-voip), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/work-voip) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 4 connectors |

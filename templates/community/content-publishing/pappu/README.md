@@ -6,7 +6,7 @@ Cuts cinematic shorts and reviews GitHub and skill listings honestly, then rebui
 | --- | --- |
 | Original template | https://x.ai/bot/_t_vyuhFM8ev2flbZoYnU |
 | Creator | Adi Lentils ([@krisadipap](https://x.com/krisadipap)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pappu), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pappu), [grokbothq.xyz](https://grokbothq.xyz/bots/pappu), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/krisadipap/status/2097243805355553179) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Status match coach for frequent flyers. Maps match vs challenge paths, packs pro
 | --- | --- |
 | Original template | https://x.ai/bot/qN-76V-LWOq74YVaQYhmt |
 | Creator | Chris Baird ([@XWardClerkChris](https://x.com/XWardClerkChris)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gate-changer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gate-changer), [grokbothq.xyz](https://grokbothq.xyz/bots/gate-changer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gate-changer), [x-research](https://x.com/XWardClerkChris/status/2105399955347366076) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

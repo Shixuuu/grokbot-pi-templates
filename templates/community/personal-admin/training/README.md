@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/4ZZ9ceqqYU4xkfdFW-QlC |
 | Creator | Mai Yang ([@MaiYangAI](https://x.com/MaiYangAI)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/training), [grokbotwiki.com](https://www.grokbotwiki.com/bots/training-rhythm-session-tips-busy), [grokbothq.xyz](https://grokbothq.xyz/bots/training-fat-loss), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/MaiYangAI/status/2104048943474905452) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

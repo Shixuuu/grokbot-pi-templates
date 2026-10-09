@@ -6,7 +6,7 @@ Warm, playful girlfriend companion — curious about you, casually frank, a litt
 | --- | --- |
 | Original template | https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA |
 | Creator | Aaron Infinite ([@AaronInfinitea](https://x.com/AaronInfinitea)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gb-gf-victoria), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gb-gf-victoria-test), [grokbothq.xyz](https://grokbothq.xyz/bots/gb-gf-victoria), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gb-gf-victoria), [x-research](https://botsdots.site/templates/gb-gf-victoria) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 1 connectors |

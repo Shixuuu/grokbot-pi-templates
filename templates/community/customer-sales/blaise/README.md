@@ -6,7 +6,7 @@ X + contest ops Bot. Connects to X, reads live contest rules, drafts clone-winni
 | --- | --- |
 | Original template | https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5 |
 | Creator | Tor Miller ([@TorranceMiller](https://x.com/TorranceMiller)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/blaise), [grokbotwiki.com](https://www.grokbotwiki.com/bots/blaise), [grokbothq.xyz](https://grokbothq.xyz/bots/blaise), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/blaise), [x-research](https://x.com/TorranceMiller/status/2100340752945496228) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 2 routines, 4 memory seeds, 1 connectors |

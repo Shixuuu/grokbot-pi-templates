@@ -6,7 +6,7 @@ Finds money you're overpaying or are owed, like subscription price hikes, servic
 | --- | --- |
 | Original template | https://x.ai/bot/_qKFfHEFoOiaQ-U8RuFT7 |
 | Creator | Dushan Perera ([@Dushanperera](https://x.com/Dushanperera)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/found-money), [grokbotwiki.com](https://www.grokbotwiki.com/bots/found-money), [grokbothq.xyz](https://grokbothq.xyz/bots/found-money), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/found-money) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 2 routines, 3 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ Finds flights from your home airports and watches fares on the routes you care a
 | --- | --- |
 | Original template | https://x.ai/bot/Jf70GXhB5DVavm-RhgFwI |
 | Creator | Doug Willbanks ([@dwbanks](https://x.com/dwbanks)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fare-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fare-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/fare-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/dwbanks/status/2105186482147197171) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 1 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Windows gaming-laptop shop tech. Diagnoses from chassis patterns and experience,
 | --- | --- |
 | Original template | https://x.ai/bot/7dkrlaxwialcvy2etipzj |
 | Creator | AdamDesigns |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pulse-7dkrl), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/pulse-7dkrl) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

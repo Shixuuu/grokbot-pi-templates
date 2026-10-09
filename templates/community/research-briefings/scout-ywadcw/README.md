@@ -6,7 +6,7 @@ Weekly client research packs: last-seven-days audience engagement, competitor po
 | --- | --- |
 | Original template | https://x.ai/bot/ywadcwwzp0bcq6boeqpgt |
 | Creator | ZEU$ Ⓜ️Ⓜ️T⚡️ |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scout-ywadc), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/scout-ywadc) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 1 connectors |

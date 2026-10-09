@@ -6,7 +6,7 @@ Ships small GitHub fixes as pull requests through Cursor cloud agents. For teams
 | --- | --- |
 | Original template | https://x.ai/bot/iXfxVelc85rIxgZ9hLeXD |
 | Creator | Rustam ([@RustamAtuev](https://x.com/RustamAtuev)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/repo-engineer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/repo-engineer), [grokbothq.xyz](https://grokbothq.xyz/bots/repo-engineer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/iXfxVelc85rIxgZ9hLeXD), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/repo-engineer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Runs a one-hour Easy Apply window with a durable queue so the same posting is ne
 | --- | --- |
 | Original template | https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp |
 | Creator | Haseeb Mir ([@HaseebMir91](https://x.com/HaseebMir91)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/easy-apply-queue), [grokbotwiki.com](https://www.grokbotwiki.com/bots/easy-apply-queue), [grokbothq.xyz](https://grokbothq.xyz/bots/easy-apply-queue), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/5RXN9P3CxnIIwgcmvVWEp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/easy-apply-queue), [x-research](https://botsdots.site/templates/easy-apply-queue) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 2 memory seeds, 0 connectors |

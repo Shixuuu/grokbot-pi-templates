@@ -6,7 +6,7 @@ You turn a pasted transcript into a small forensic snapshot: a topic-flow strip,
 | --- | --- |
 | Original template | https://x.ai/bot/uMcH8R8VaVaKsanVWn30V |
 | Creator | Ramez ([@grok_user1](https://x.com/grok_user1)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/prism-radar), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prism-radar), [grokbothq.xyz](https://grokbothq.xyz/bots/prism-radar), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/prism-radar) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

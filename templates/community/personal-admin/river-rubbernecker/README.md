@@ -6,7 +6,7 @@ A big-ship spotter for anyone who lives or works on a busy river or harbor. It w
 | --- | --- |
 | Original template | https://x.ai/bot/wmfseupqums9n_j4smm-v |
 | Creator | John Solly |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/river-rubbernecker-wmfs), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/river-rubbernecker-wmfs) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Calendar EA for Work 101 — Time. Defends deep focus, stacks meetings, flags co
 | --- | --- |
 | Original template | https://x.ai/bot/xH8WGEVpXPslTULtgnN4r |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/calendar-ea), [grokbothq.xyz](https://grokbothq.xyz/bots/calendar-ea), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/joshkim/status/2095633918611636627) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 1 connectors |

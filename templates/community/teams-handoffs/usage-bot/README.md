@@ -6,7 +6,7 @@ Tracks Grok Bot remaining usage for the account and briefs teammate agents so th
 | --- | --- |
 | Original template | https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb |
 | Creator | realMattAbrams ([@realMattAbrams](https://x.com/realMattAbrams)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/usage-bot), [botsdots.site](https://botsdots.site/templates/usage-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/usage-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/usage-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/usage-bot), [x-research](https://x.com/realMattAbrams/status/2098246220099829823) |
 | Fidelity | **full** (full recipe, template version 17) |
 | Contents | 1 skills, 2 routines, 10 memory seeds, 0 connectors |

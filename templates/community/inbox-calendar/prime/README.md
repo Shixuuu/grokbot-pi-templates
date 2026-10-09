@@ -6,7 +6,7 @@ CEO of a multi-bot ops desk. Routes STR, markets research, home ops, Gmail, and 
 | --- | --- |
 | Original template | https://x.ai/bot/7a8zayr1duE5o39tS2-h6 |
 | Creator | 🦊 ([@pfd_zero](https://x.com/pfd_zero)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/prime), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prime), [grokbothq.xyz](https://grokbothq.xyz/bots/prime), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/prime) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 3 routines, 6 memory seeds, 0 connectors |

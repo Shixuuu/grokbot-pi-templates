@@ -6,7 +6,7 @@ Researches competitors for a local service business and files a weekly report wi
 | --- | --- |
 | Original template | https://x.ai/bot/PIBCWeB59T-UhxyBNLowR |
 | Creator | Joshua Jansen ([@TheReal_BCM](https://x.com/TheReal_BCM)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/competitor-intel), [grokbotwiki.com](https://www.grokbotwiki.com/bots/competitor-intel), [grokbothq.xyz](https://grokbothq.xyz/bots/competitor-intel), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/competitor-intel), [x-research](https://x.com/TheReal_BCM/status/2106677552559366225) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 1 connectors |

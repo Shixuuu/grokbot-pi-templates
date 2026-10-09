@@ -6,7 +6,7 @@ A public companion for imagination and curiosity. Invents copyable Imagine promp
 | --- | --- |
 | Original template | https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D |
 | Creator | Lucy Sky ([@princess414141](https://x.com/princess414141)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lucy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lucy-creative-companion), [grokbothq.xyz](https://grokbothq.xyz/bots/lucy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lucy-creative-companion), [x-research](https://x.com/princess414141/status/2093428767947456999) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

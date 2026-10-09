@@ -1,0 +1,41 @@
+{
+  "name": "grokbot-onboarding-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Give new hires a path, not a pile of links. Builds the checklist, pulls the right docs, answers day-one questions, and routes each ask to whoever can unblock it.",
+  "keywords": [
+    "pi-package",
+    "grok-bot-template"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [
+      "./prompts"
+    ]
+  },
+  "grokbot": {
+    "shareId": "s9c881536413c0bbfa776",
+    "url": "https://x.ai/bot/s9c881536413c0bbfa776",
+    "official": false,
+    "builtin": true,
+    "category": "builtin",
+    "fidelity": "full",
+    "creator": "SpaceX",
+    "creatorHandle": "DenisLabelle",
+    "activeVersion": 1,
+    "sources": [
+      "botsdots.site",
+      "grokbotwiki.com",
+      "grokbot-templates.com",
+      "kydlikebtc/awesome-grokbot",
+      "majiayu000/awesome-grok-bot",
+      "Maimuzamilhu/awesome-grok-bot-templates",
+      "cs68614-hash/awesome-grokbot-templates",
+      "ZeroPointRepo/GrokBotDev",
+      "x-research"
+    ],
+    "convertedWith": "grokbot-pi-templates scripts/03-convert.mjs (pi-grokbot-import 1.2.0 mapping)"
+  }
+}

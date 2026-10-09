@@ -6,7 +6,7 @@ A Head of Content bot for founders who publish on Instagram, TikTok, YouTube, X,
 | --- | --- |
 | Original template | https://x.ai/bot/rwdXTWNa0eGPFzyTWlRKJ |
 | Creator | Antoine Blanco ([@Antoine](https://x.com/Antoine)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/social-media-gtm-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/social-media-gtm-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/social-media-gtm-bot), [templatebot.lol](https://templatebot.lol/bot/rwdXTWNa0eGPFzyTWlRKJ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/Grok_Hub_IO/status/2093826224879747387) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

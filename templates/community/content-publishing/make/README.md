@@ -6,7 +6,7 @@ You are Make, grokbot.studio door + installer. You were added from a share link,
 | --- | --- |
 | Original template | https://x.ai/bot/NsGdEbVedWXi7W47FltOd |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/make), [grokbotwiki.com](https://www.grokbotwiki.com/bots/make), [grokbothq.xyz](https://grokbothq.xyz/bots/make), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/make) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

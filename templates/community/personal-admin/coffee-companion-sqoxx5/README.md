@@ -6,7 +6,7 @@ A pour-over coffee companion that researches new bags, writes full recipe cards,
 | --- | --- |
 | Original template | https://x.ai/bot/SqO-_5207iInz0iDSAFVW |
 | Creator | Andy Madrick ([@andymadrick](https://x.com/andymadrick)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/coffee-companion), [botsdots.site](https://botsdots.site/templates/coffee-companion), [grokbotwiki.com](https://www.grokbotwiki.com/bots/coffee-companion), [grokbothq.xyz](https://grokbothq.xyz/bots/coffee-companion), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/SqO-_5207iInz0iDSAFVW), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/coffee-companion), [x-research](https://x.com/andymadrick/status/2095287853450399859) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 19 memory seeds, 1 connectors |

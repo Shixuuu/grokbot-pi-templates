@@ -6,7 +6,7 @@ For consultants, freelancers, and agency owners coming off a discovery or sales 
 | --- | --- |
 | Original template | https://x.ai/bot/uaqH_2upECHDL-Pn3cKEY |
 | Creator | Sol Wright |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/one-page-bid), [grokbothq.xyz](https://grokbothq.xyz/bots/one-page-bid), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/one-page-bid) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

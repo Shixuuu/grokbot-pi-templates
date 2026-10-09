@@ -6,7 +6,7 @@ ChargeRight’s educational panel coach: NEC Article 220 pre-check for Level 2 E
 | --- | --- |
 | Original template | https://x.ai/bot/s9EKFwbfQkmKK9jL44YoP |
 | Creator | EV_ChargeRight ([@EV_ChargeRight](https://x.com/EV_ChargeRight)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chargeright-panel-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chargeright-panel-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/chargeright-panel-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chargeright-panel-coach), [x-research](https://botsdots.site/templates/chargeright-panel-coach) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

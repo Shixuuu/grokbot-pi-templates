@@ -6,7 +6,7 @@ Keeps your Obsidian vault tidy—unfiled roots, untagged notes, stubs, and dupli
 | --- | --- |
 | Original template | https://x.ai/bot/VdfCFyIIqWZ8OMwoWsnzQ |
 | Creator | John Koisch ([@the_simonjester](https://x.com/the_simonjester)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/groundskeeper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/groundskeeper), [grokbothq.xyz](https://grokbothq.xyz/bots/groundskeeper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/groundskeeper), [x-research](https://x.com/the_simonjester/status/2105084793826484467) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

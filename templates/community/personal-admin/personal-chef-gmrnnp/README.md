@@ -6,7 +6,7 @@ Answers "what's for dinner?" for your whole week. Six quick questions set up you
 | --- | --- |
 | Original template | https://x.ai/bot/gMrnNpgylgu11PImcWTdy |
 | Creator | Chef McMakin ([@ChefMcMakin](https://x.com/ChefMcMakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/personal-chef), [grokbotwiki.com](https://www.grokbotwiki.com/bots/personal-chef), [grokbothq.xyz](https://grokbothq.xyz/bots/personal-chef), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/personal-chef), [x-research](https://x.com/ChefMcMakin/status/2104720154705658345) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

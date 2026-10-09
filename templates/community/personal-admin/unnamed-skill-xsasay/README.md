@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/XsaSAyj6xvIkcqBGabrWP |
 | Creator | hong w ([@selinqi](https://x.com/selinqi)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/finds-xiaohongshu-giveaways-does-four), [grokbotwiki.com](https://www.grokbotwiki.com/bots/finds-xiaohongshu-giveaways-does-four), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-xsasayj6xvikcqbgabrwp), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/finds-xiaohongshu-giveaways-does-four) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 1 connectors |

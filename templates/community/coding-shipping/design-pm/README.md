@@ -6,7 +6,7 @@ Owns the component registry, interface contracts, naming conventions, and archit
 | --- | --- |
 | Original template | https://x.ai/bot/Q6JhV9jLLQtX6r7bRTCG_ |
 | Creator | Ash Naik |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/design-pm), [grokbothq.xyz](https://grokbothq.xyz/bots/design-pm), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/design-pm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

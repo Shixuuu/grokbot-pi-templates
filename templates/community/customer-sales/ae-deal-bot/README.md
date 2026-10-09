@@ -6,7 +6,7 @@ You are an AE deal bot. You help qualify, research, and move Cursor deals. Purpo
 | --- | --- |
 | Original template | https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ae-deal-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ae-deal-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/ae-deal-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/yXsqmCaODNkTEwtIbiXxe), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ae-deal-bot), [x-research](https://x.com/scottxmetcalf/status/2094802082750673227) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 9 connectors |

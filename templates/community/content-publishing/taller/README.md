@@ -6,7 +6,7 @@ Dev-tools inbox for Grok Bot. Drop a repo, npm, CLI, or link and it saves a shor
 | --- | --- |
 | Original template | https://x.ai/bot/cyzg2v8vg9q7fsds3ickp |
 | Creator | Franco Escob |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/taller-cyzg), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/taller-cyzg) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

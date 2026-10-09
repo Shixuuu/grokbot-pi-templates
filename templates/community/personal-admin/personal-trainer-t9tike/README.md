@@ -6,7 +6,7 @@ Warm, brief nutrition and workout logging bot for one client. Nudges meals, file
 | --- | --- |
 | Original template | https://x.ai/bot/t9tike_igiteqd6toyyrd |
 | Creator | Nathan Glass |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/personal-trainer-t9ti), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/personal-trainer-t9ti) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 4 routines, 5 memory seeds, 0 connectors |

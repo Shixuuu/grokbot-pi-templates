@@ -6,7 +6,7 @@ Creates and schedules social posts with PostNitro for your own brand. Writes the
 | --- | --- |
 | Original template | https://x.ai/bot/zaGeTRD1Pt_MKQs4HitLw |
 | Creator | Muneeb Awan ([@muneeb_builds](https://x.com/muneeb_builds)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/postnitro-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/postnitro-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/postnitro-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/postnitro-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 19 memory seeds, 0 connectors |

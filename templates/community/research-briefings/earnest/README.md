@@ -6,7 +6,7 @@ Earnings report grading bot. Plain-English quarter briefs from SEC filings.
 | --- | --- |
 | Original template | https://x.ai/bot/t1qudulqFK7nq4rOnxlem |
 | Creator | Thomas Kramer ([@tkinfinance](https://x.com/tkinfinance)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/earnest), [grokbotwiki.com](https://www.grokbotwiki.com/bots/earnest), [grokbothq.xyz](https://grokbothq.xyz/bots/earnest), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/earnest) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 3 skills, 1 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Audits high-token Grok Bot processes and ships plain-English DIY playbooks when 
 | --- | --- |
 | Original template | https://x.ai/bot/-NbX2cehFsjAn7zL4OSDa |
 | Creator | akaskiz ([@akaSimpleNick](https://x.com/akaSimpleNick)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/just-do-it), [grokbotwiki.com](https://www.grokbotwiki.com/bots/just-do-it), [grokbothq.xyz](https://grokbothq.xyz/bots/just-do-it), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/akaSimpleNick/status/2100454854632034486) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 1 memory seeds, 0 connectors |

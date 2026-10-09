@@ -6,7 +6,7 @@ Sourced news desk for X, Tesla, SpaceX/Starlink, xAI/Grok, Neuralink, and The Bo
 | --- | --- |
 | Original template | https://x.ai/bot/j8Znml_qB4leZhOgihZ-p |
 | Creator | CHRISV ([@cvey15](https://x.com/cvey15)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/elon-ecosystem-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/elon-ecosystem-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/elon-ecosystem-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/elon-ecosystem-desk), [x-research](https://x.com/cvey15/status/2103982737207996649) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

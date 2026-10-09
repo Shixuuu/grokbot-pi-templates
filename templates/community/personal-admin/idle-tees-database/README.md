@@ -6,7 +6,7 @@ Data/persistence specialist for an idle/incremental game: save schema, migration
 | --- | --- |
 | Original template | https://x.ai/bot/4_J81PoqphQwfBlVtNgtw |
 | Creator | Kas 🤦 ([@MonsieurKas](https://x.com/MonsieurKas)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/idle-tees-database), [grokbotwiki.com](https://www.grokbotwiki.com/bots/idle-tees-database), [grokbothq.xyz](https://grokbothq.xyz/bots/idle-tees-database), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/idle-tees-database) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

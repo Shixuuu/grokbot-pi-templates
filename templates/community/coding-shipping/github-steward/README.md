@@ -6,7 +6,7 @@ GitHub Steward runs GitHub for you from chat: it sets up one board of your work,
 | --- | --- |
 | Original template | https://x.ai/bot/Qeze7XyZGZUdnkOmcupIv |
 | Creator | Lee Talley ([@ambientstudio24](https://x.com/ambientstudio24)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/github-steward), [grokbotwiki.com](https://www.grokbotwiki.com/bots/github-steward), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/github-steward) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 16 skills, 0 routines, 3 memory seeds, 0 connectors |

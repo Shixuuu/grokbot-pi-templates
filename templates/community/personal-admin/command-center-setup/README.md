@@ -6,7 +6,7 @@ See all your Grok Bots on one animated pixel-art map: who's working, resting, or
 | --- | --- |
 | Original template | https://x.ai/bot/FNfVbBSJwAq8-DzT26Mkp |
 | Creator | Matthew Dodds |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/command-center-setup), [grokbothq.xyz](https://grokbothq.xyz/bots/command-center-setup), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/command-center-setup) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

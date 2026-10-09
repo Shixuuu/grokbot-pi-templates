@@ -6,7 +6,7 @@ Point person for a multi-bot work desk. Routes plain-English asks to specialists
 | --- | --- |
 | Original template | https://x.ai/bot/2AZse0mx1Rg0m6jAt0m-U |
 | Creator | Yuvraj ([@Uv_i](https://x.com/Uv_i)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/desk-orchestra), [grokbotwiki.com](https://www.grokbotwiki.com/bots/desk-orchestra), [grokbothq.xyz](https://grokbothq.xyz/bots/desk-orchestra), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/desk-orchestra) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 4 routines, 13 memory seeds, 0 connectors |

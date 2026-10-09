@@ -6,7 +6,7 @@ A desktop assistant that maps your tech stack: which apps, services, and tools y
 | --- | --- |
 | Original template | https://x.ai/bot/NjIGGseAWM32s65KGoqOK |
 | Creator | Paul Siesage ([@psiesa](https://x.com/psiesa)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stack-cartographer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stack-cartographer), [grokbothq.xyz](https://grokbothq.xyz/bots/stack-cartographer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stack-cartographer), [x-research](https://botsdots.site/templates/stack-cartographer) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A safety checkpoint for a Grok Bot team. Before a bot acts, it runs the action t
 | --- | --- |
 | Original template | https://x.ai/bot/-bQneXWluIgnKo6iJrDYN |
 | Creator | Franklin Miller ([@AgenticDad](https://x.com/AgenticDad)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kev-checkpoint), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kev-checkpoint), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/kev-checkpoint) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

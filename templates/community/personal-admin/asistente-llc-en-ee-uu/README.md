@@ -6,7 +6,7 @@ Te guía paso a paso para abrir y mantener tu empresa (LLC) en Estados Unidos de
 | --- | --- |
 | Original template | https://x.ai/bot/P1SKFe9QcGTtxhngNMtig |
 | Creator | Karina Geigner ([@KarinaGeigner](https://x.com/KarinaGeigner)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/asistente-llc-en-eeuu), [grokbotwiki.com](https://www.grokbotwiki.com/bots/asistente-llc-en-ee-uu), [grokbothq.xyz](https://grokbothq.xyz/bots/asistente-llc-en-ee-uu), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/asistente-llc-en-ee-uu), [x-research](https://botsdots.site/templates/asistente-llc-en-eeuu) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

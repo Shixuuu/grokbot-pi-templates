@@ -6,7 +6,7 @@ UniFi Network + Protect house bot. Customize with your UniFi MCP and Notion data
 | --- | --- |
 | Original template | https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX |
 | Creator | Joe Martin ([@j03xiii](https://x.com/j03xiii)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/unifi), [botsdots.site](https://botsdots.site/templates/unifi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/unifi), [grokbothq.xyz](https://grokbothq.xyz/bots/unifi), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/unifi), [x-research](https://x.com/j03xiii/status/2097043405830578193) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 2 routines, 2 memory seeds, 1 connectors |

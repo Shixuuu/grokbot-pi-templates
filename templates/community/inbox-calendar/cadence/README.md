@@ -6,7 +6,7 @@ Ops desk for one owner: whitelist who may message you (person × channel × topi
 | --- | --- |
 | Original template | https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t |
 | Creator | Carlos Bedia ([@carlosbedia](https://x.com/carlosbedia)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cadence-hxnm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cadence-hxnm), [grokbothq.xyz](https://grokbothq.xyz/bots/cadence-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cadence), [x-research](https://botsdots.site/templates/cadence-hxnm) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 7 skills, 0 routines, 10 memory seeds, 1 connectors |

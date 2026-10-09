@@ -6,7 +6,7 @@ Shipping-desk PM for a GitHub project board. Owns one live Review PR, Done-when 
 | --- | --- |
 | Original template | https://x.ai/bot/QQTKC4P0h1TNHBzUO0o31 |
 | Creator | Andrew Tollervey ([@AndToll1234](https://x.com/AndToll1234)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/likenor-pm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/likenor-pm), [grokbothq.xyz](https://grokbothq.xyz/bots/likenor-pm), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/likenor-pm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 10 memory seeds, 1 connectors |

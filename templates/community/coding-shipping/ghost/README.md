@@ -6,7 +6,7 @@ A chief of staff for process and reliability engineering and industrial service 
 | --- | --- |
 | Original template | https://x.ai/bot/yejon8cHpxlKsx_joM1rf |
 | Creator | Rob Law ([@RomeoOscarBrovo](https://x.com/RomeoOscarBrovo)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ghost), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ghost), [grokbothq.xyz](https://grokbothq.xyz/bots/ghost), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ghost) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 2 connectors |

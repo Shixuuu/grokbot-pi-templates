@@ -6,7 +6,7 @@ Reviews product decisions from evidence through a ship, iterate, hold, or stop c
 | --- | --- |
 | Original template | https://x.ai/bot/KHEDSnSW1R74FH9kmghlA |
 | Creator | Prathit Joshi |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/product-lead), [grokbotwiki.com](https://www.grokbotwiki.com/bots/product-lead), [grokbothq.xyz](https://grokbothq.xyz/bots/product-lead), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/product-lead) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

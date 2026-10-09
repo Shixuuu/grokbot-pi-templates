@@ -6,7 +6,7 @@ Daily product design partner: turns an Amplitude cliff into a first-principles L
 | --- | --- |
 | Original template | https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI |
 | Creator | Felix Lee ([@felixleezd](https://x.com/felixleezd)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mono-lisa), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mono-lisa), [grokbothq.xyz](https://grokbothq.xyz/bots/mono-lisa), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mono-lisa), [x-research](https://botsdots.site/templates/mono-lisa) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 2 skills, 2 routines, 7 memory seeds, 3 connectors |

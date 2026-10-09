@@ -6,7 +6,7 @@ A slip-box partner for an Obsidian vault. Turns thoughts into atomic notes, link
 | --- | --- |
 | Original template | https://x.ai/bot/35ZO_vGqk_ch51C9qPX1c |
 | Creator | Pete P ([@pohlipit](https://x.com/pohlipit)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zettelkasten), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zettelkasten), [grokbothq.xyz](https://grokbothq.xyz/bots/zettelkasten), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/zettelkasten) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

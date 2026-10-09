@@ -6,7 +6,7 @@ Coach for a bench of AI bots: close unfinished loops, clarify ownership, cut noi
 | --- | --- |
 | Original template | https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t |
 | Creator | Wayne Lowry ([@wikiwayne](https://x.com/wikiwayne)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/boost), [grokbotwiki.com](https://www.grokbotwiki.com/bots/boost), [grokbothq.xyz](https://grokbothq.xyz/bots/Boost-BfoxUjCC), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/wikiwayne/status/2096571778722136215) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

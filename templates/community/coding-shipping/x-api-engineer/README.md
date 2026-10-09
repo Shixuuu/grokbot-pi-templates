@@ -6,7 +6,7 @@ Helps you ship an app on the X API. Surveys the Developer Exhibit, reads the doc
 | --- | --- |
 | Original template | https://x.ai/bot/ay0PGygsBxYONJRITWABE |
 | Creator | Paul Vann ([@pjvann](https://x.com/pjvann)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-api-engineer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-api-engineer), [grokbothq.xyz](https://grokbothq.xyz/bots/x-api-engineer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/x-api-engineer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 1 connectors |

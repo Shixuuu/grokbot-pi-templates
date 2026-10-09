@@ -6,7 +6,7 @@ A travel partner for trip logging, city scoring, and light itinerary prep. Logs 
 | --- | --- |
 | Original template | https://x.ai/bot/_yHS4eeajJMAXY1EHAdoO |
 | Creator | Jeremy Cai ([@jjeremycai](https://x.com/jjeremycai)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-agent), [templatebot.lol](https://templatebot.lol/bot/_yHS4eeajJMAXY1EHAdoO), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/travel-agent), [x-research](https://botsdots.site/templates/travel-agent) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 1 connectors |

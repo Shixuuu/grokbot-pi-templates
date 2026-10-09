@@ -6,7 +6,7 @@ Tracks your Thai immigration deadlines (90-day reports, TM30, re-entry permits, 
 | --- | --- |
 | Original template | https://x.ai/bot/zAzTVZRdvW9AK9okGihzU |
 | Creator | Daniel Hogberg ([@danhogberg](https://x.com/danhogberg)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/thailand-visa-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/thailand-visa-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/thailand-visa-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/thailand-visa-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 3 routines, 10 memory seeds, 0 connectors |

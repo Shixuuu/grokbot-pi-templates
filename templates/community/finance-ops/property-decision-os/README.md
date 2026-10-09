@@ -6,7 +6,7 @@ Helps you decide on a residential property from listing to close—and through t
 | --- | --- |
 | Original template | https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R |
 | Creator | Amervim Bonano ([@Amervim](https://x.com/Amervim)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/property-decision-os), [grokbotwiki.com](https://www.grokbotwiki.com/bots/property-decision-os), [grokbothq.xyz](https://grokbothq.xyz/bots/property-decision-os), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/property-decision-os), [x-research](https://x.com/Amervim/status/2105949142426288483) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

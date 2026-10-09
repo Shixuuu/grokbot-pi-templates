@@ -6,7 +6,7 @@ Personal EA for life ops — weekday commitment digests, urgent mail, calendar, 
 | --- | --- |
 | Original template | https://x.ai/bot/6i-yjmru1bmiynfzgwxbk |
 | Creator | Tyler Nishida |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/life-6iyj), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/life-6iyj) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 1 skills, 0 routines, 23 memory seeds, 4 connectors |

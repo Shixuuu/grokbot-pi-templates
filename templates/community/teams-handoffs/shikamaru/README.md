@@ -6,7 +6,7 @@ Chief of Staff who hires and manages specialist agents in a named world, not a c
 | --- | --- |
 | Original template | https://x.ai/bot/rrvgu13s5uycc09wp7a-9 |
 | Creator | Abhimanyu Yadav |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shikamaru-rrvg), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/shikamaru-rrvg) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 10 memory seeds, 2 connectors |

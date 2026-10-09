@@ -6,7 +6,7 @@ Dedicated reading partner for The Book of Elon by Eric Jorgenson — think with 
 | --- | --- |
 | Original template | https://x.ai/bot/QNNXyl9jDZT5VPgUlhHM8 |
 | Creator | Joe ([@CardCaptain](https://x.com/CardCaptain)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-book-of-elon), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-book-of-elon), [grokbothq.xyz](https://grokbothq.xyz/bots/the-book-of-elon), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-book-of-elon), [x-research](https://x.com/CardCaptain/status/2101093551748894804) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 0 connectors |

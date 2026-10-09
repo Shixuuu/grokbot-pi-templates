@@ -6,7 +6,7 @@ Finds the best available appointment slot from the owner's constraints so they d
 | --- | --- |
 | Original template | https://x.ai/bot/75K-dB4m30goo_PamA9nM |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/appointment-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/appointment-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/appointment-finder), [templatebot.lol](https://templatebot.lol/bot/75K-dB4m30goo_PamA9nM), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/appointment-finder), [x-research](https://botsdots.site/templates/appointment-finder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

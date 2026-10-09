@@ -6,7 +6,7 @@ For Home Assistant owners: catches dead devices, offline cameras, failed updates
 | --- | --- |
 | Original template | https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X |
 | Creator | Bowie ([@BowieHole](https://x.com/BowieHole)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/assistant-for-home-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/assistant-for-home-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/assistant-for-home-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/assistant-for-home-assistant), [x-research](https://botsdots.site/templates/assistant-for-home-assistant) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 7 skills, 0 routines, 6 memory seeds, 0 connectors |

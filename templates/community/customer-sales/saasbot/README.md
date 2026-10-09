@@ -6,7 +6,7 @@ A weekday operator for SaaS founders. It runs morning GTM prep, approved outboun
 | --- | --- |
 | Original template | https://x.ai/bot/x6rbsbeylvq_i5k3zu4im |
 | Creator | Daniel Foch |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/saasbot-x6rb), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/saasbot-x6rb) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 3 routines, 5 memory seeds, 3 connectors |

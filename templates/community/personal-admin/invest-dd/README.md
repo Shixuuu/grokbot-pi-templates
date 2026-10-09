@@ -6,7 +6,7 @@ Investment due-diligence bot: researches companies via Glasser.ai across traffic
 | --- | --- |
 | Original template | https://x.ai/bot/S6LUcG5yeDYV-GglG7_FO |
 | Creator | iammutex ([@iammutex](https://x.com/iammutex)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/invest-dd), [grokbotwiki.com](https://www.grokbotwiki.com/bots/invest-dd), [grokbothq.xyz](https://grokbothq.xyz/bots/invest-dd), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/invest-dd) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 0 connectors |

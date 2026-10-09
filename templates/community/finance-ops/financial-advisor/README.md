@@ -6,7 +6,7 @@ A personal money coach for sticky monthly budgets, savings goals, and paycheck p
 | --- | --- |
 | Original template | https://x.ai/bot/FlK_S-je8TVcA-kH9r40p |
 | Creator | Michael Gabriel ([@shamash31](https://x.com/shamash31)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/financial-advisor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/financial-advisor), [grokbothq.xyz](https://grokbothq.xyz/bots/financial-advisor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/financial-advisor), [x-research](https://x.com/shamash31/status/2105366195880825267) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 5 memory seeds, 1 connectors |

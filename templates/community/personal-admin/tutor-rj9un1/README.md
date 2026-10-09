@@ -6,7 +6,7 @@ A one-to-one tutor that teaches any subject in short lessons: one everyday pictu
 | --- | --- |
 | Original template | https://x.ai/bot/rj9un1lhqyp-klprvshg0 |
 | Creator | Anand |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tutor-rj9u), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/tutor-rj9u) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

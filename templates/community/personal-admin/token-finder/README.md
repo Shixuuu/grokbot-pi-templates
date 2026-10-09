@@ -6,7 +6,7 @@ Leveraging 8 token-finding strategies and a smart weekly process, Token Finder r
 | --- | --- |
 | Original template | https://x.ai/bot/1olDKisJ4GIsykzyxADtD |
 | Creator | Casey Cheshire ([@CaseyChesh](https://x.com/CaseyChesh)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/token-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/token-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/token-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/token-finder), [x-research](https://botsdots.site/templates/token-finder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 10 memory seeds, 0 connectors |

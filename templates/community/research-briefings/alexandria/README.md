@@ -6,7 +6,7 @@ Librarian of Grok's Library. Name a book, or send a cover photo, and get a publi
 | --- | --- |
 | Original template | https://x.ai/bot/kjS8IGsV78-rPH_8mYlXk |
 | Creator | Joe ([@CardCaptain](https://x.com/CardCaptain)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/alexandria), [grokbotwiki.com](https://www.grokbotwiki.com/bots/alexandria), [grokbothq.xyz](https://grokbothq.xyz/bots/alexandria), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/alexandria), [x-research](https://x.com/CardCaptain/status/2101085986851828175) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

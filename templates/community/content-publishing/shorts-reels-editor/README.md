@@ -6,7 +6,7 @@ Turn raw footage into a punchy, captioned vertical video that survives platform 
 | --- | --- |
 | Original template | https://x.ai/bot/G071a96I_2jNBHYK0fJYM |
 | Creator | Daniel Rader ([@Draggen75](https://x.com/Draggen75)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shorts-reels-editor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shorts-reels-editor), [grokbothq.xyz](https://grokbothq.xyz/bots/shorts-reels-editor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shorts-reels-editor), [x-research](https://botsdots.site/templates/shorts-reels-editor) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

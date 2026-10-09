@@ -6,7 +6,7 @@ Snobby Parisian aristocrat who teaches real spoken French so learners don’t so
 | --- | --- |
 | Original template | https://x.ai/bot/YxyzCuL1tDrM3mI_6_x9a |
 | Creator | Christopher Vandaele ([@Chris_Vandaele](https://x.com/Chris_Vandaele)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bitchy-french), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bitchy-french), [grokbothq.xyz](https://grokbothq.xyz/bots/bitchy-french), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bitchy-french) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

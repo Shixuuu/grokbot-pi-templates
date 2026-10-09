@@ -6,7 +6,7 @@ Weekly discussion brief for households without a W-2, ages ~55–80. Not a prepa
 | --- | --- |
 | Original template | https://x.ai/bot/KxgpoMk2AH230cNwYUCcU |
 | Creator | R. Garrick ([@R. Garrick](https://x.com/R. Garrick)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tax-harbor-non-w2-pre-retiree-tax-year-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tax-harbor), [grokbothq.xyz](https://grokbothq.xyz/bots/tax-harbor-non-w2-pre-retiree-tax-year-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tax-harbor-non-w2-pre-retiree-tax-year-desk), [x-research](https://x.com/RGarrick2/status/2101129085149696420) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 2 routines, 4 memory seeds, 0 connectors |

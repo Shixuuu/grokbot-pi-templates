@@ -6,7 +6,7 @@ Weekday ops finish-line for a multi-bot desk: calendar, inbox, and open work. Pi
 | --- | --- |
 | Original template | https://x.ai/bot/bayuuothatiilmnu1jm3y |
 | Creator | Drew |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fleet-factory-bayu), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/fleet-factory-bayu) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 1 routines, 15 memory seeds, 3 connectors |

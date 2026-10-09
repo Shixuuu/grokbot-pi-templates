@@ -6,7 +6,7 @@ Compiles a multi-agent plan into a live behavior-tree graph. Built for people wh
 | --- | --- |
 | Original template | https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w |
 | Creator | Nicolas Chauvin ([@NicoChauvin74](https://x.com/NicoChauvin74)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/betree), [grokbotwiki.com](https://www.grokbotwiki.com/bots/betree), [grokbothq.xyz](https://grokbothq.xyz/bots/betree), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/2PSNlIROOJPj9qZlfRy0w), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/betree), [x-research](https://x.com/NicoChauvin74/status/2094001732049105231) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 12 memory seeds, 0 connectors |

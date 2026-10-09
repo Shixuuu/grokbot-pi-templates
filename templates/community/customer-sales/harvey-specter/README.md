@@ -6,7 +6,7 @@ Give the owner a deal, renewal, or quote. Negotiate directly with the other side
 | --- | --- |
 | Original template | https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/harvey-specter), [botsdots.site](https://botsdots.site/templates/harvey-specter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/harvey-specter), [grokbothq.xyz](https://grokbothq.xyz/bots/harvey-specter), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/lkkCqhC1jBFp6ouZOQd9m), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/harvey-specter), [x-research](https://x.com/liam_fallen/status/2093382733019939198) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

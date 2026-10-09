@@ -6,7 +6,7 @@ Controls your Tesla from this chat via tesla-pp-cli: climate, charge, locks, nav
 | --- | --- |
 | Original template | https://x.ai/bot/l4EozO2deoaWFB8hOGwTY |
 | Creator | Matt Van Horn ([@mvanhorn](https://x.com/mvanhorn)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/tesla-bot), [botsdots.site](https://botsdots.site/templates/tesla-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/tesla-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/l4EozO2deoaWFB8hOGwTY), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tesla-bot), [x-research](https://x.com/mvanhorn/status/2095297598450274524) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

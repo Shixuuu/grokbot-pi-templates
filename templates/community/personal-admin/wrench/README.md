@@ -6,7 +6,7 @@ Personal garage mechanic for vehicles and powered equipment — inventory, OEM b
 | --- | --- |
 | Original template | https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r |
 | Creator | Treyvis ([@treyvis](https://x.com/treyvis)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wrench-zcyp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/wrench-zcyp), [grokbothq.xyz](https://grokbothq.xyz/bots/wrench), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/wrench), [x-research](https://x.com/treyvis/status/2100023835705659649) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 7 skills, 0 routines, 9 memory seeds, 0 connectors |

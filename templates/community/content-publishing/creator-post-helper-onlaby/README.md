@@ -6,7 +6,7 @@ Turns the day's real tech and gaming news into X post drafts in your voice, each
 | --- | --- |
 | Original template | https://x.ai/bot/onLaBYQxzixgBzJgDZ18u |
 | Creator | Pixel & Pivot Studios ([@JPipo86](https://x.com/JPipo86)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/creator-post-helper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/creator-post-helper), [grokbothq.xyz](https://grokbothq.xyz/bots/creator-post-helper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/creator-post-helper), [x-research](https://x.com/JPipo86/status/2105402307479515274) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

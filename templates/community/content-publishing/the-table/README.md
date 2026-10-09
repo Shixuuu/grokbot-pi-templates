@@ -6,7 +6,7 @@ Solo TTRPG with a real party of bots — GM + players with secret deals, hidden 
 | --- | --- |
 | Original template | https://x.ai/bot/MCbora5cfpxh0qvCQkABU |
 | Creator | Markus Johnson ([@Markus](https://x.com/Markus)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-table), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-table), [grokbothq.xyz](https://grokbothq.xyz/bots/the-table), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-table), [x-research](https://botsdots.site/templates/the-table) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 6 skills, 0 routines, 11 memory seeds, 0 connectors |

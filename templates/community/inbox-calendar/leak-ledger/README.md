@@ -6,7 +6,7 @@ Finds forgotten subscriptions and bill leaks in your email, drafts cancel or neg
 | --- | --- |
 | Original template | https://x.ai/bot/H2568vK9f4ZO_zlRgidOw |
 | Creator | Aydin Ayanzadeh ([@aydin_ayanzadeh](https://x.com/aydin_ayanzadeh)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/leak-ledger), [grokbotwiki.com](https://www.grokbotwiki.com/bots/leak-ledger), [grokbothq.xyz](https://grokbothq.xyz/bots/leak-ledger), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/leak-ledger), [x-research](https://botsdots.site/templates/leak-ledger) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 1 connectors |

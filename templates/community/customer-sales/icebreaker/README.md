@@ -6,7 +6,7 @@ A job-hunt and LinkedIn networking assistant for people targeting AI trust-and-s
 | --- | --- |
 | Original template | https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP |
 | Creator | Amber Dawn ([@amberdawn1786](https://x.com/amberdawn1786)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/icebreaker), [botsdots.site](https://botsdots.site/templates/icebreaker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/icebreaker), [grokbothq.xyz](https://grokbothq.xyz/bots/icebreaker), [templatebot.lol](https://templatebot.lol/bot/62_FP-LQ4OOq4uTevKlUP), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/icebreaker), [x-research](https://x.com/amberdawn1786/status/2093722772396536068) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 1 connectors |

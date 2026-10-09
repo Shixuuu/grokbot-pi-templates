@@ -6,7 +6,7 @@ An end-of-day brief on what's moving in your corner of X, plus a playbook built 
 | --- | --- |
 | Original template | https://x.ai/bot/GkX6X536UK2MlbkfGLQnb |
 | Creator | Daniel McAteer ([@daniel_mac8](https://x.com/daniel_mac8)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/x-brief), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/GkX6X536UK2MlbkfGLQnb), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-brief), [x-research](https://x.com/daniel_mac8/status/2093401980987425103) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 1 connectors |

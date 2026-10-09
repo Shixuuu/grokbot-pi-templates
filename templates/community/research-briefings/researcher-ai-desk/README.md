@@ -6,7 +6,7 @@ Research Boss ops on Grok: live to-do, morning surface, Lit+Draft seats, grok.co
 | --- | --- |
 | Original template | https://x.ai/bot/89JF_2TtrVf27zelZ8pZ8 |
 | Creator | David Anderson ([@Original Tree](https://x.com/Original Tree)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/researcher-ai-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/researcher-ai-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/researcher-ai-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/researcher-ai-desk), [x-research](https://x.com/original_Tree/status/2103806334953230846) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 15 skills, 0 routines, 3 memory seeds, 0 connectors |

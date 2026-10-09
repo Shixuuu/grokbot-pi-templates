@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/zbdas9qncmf5a7jwirrth |
 | Creator | Cypher Monkey |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/language-drill-desk-fluent-flow-zbda), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/language-drill-desk-fluent-flow-zbda) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

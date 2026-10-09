@@ -6,7 +6,7 @@ Owns training, sleep, nutrition, and recovery with simple systems that stick. Lo
 | --- | --- |
 | Original template | https://x.ai/bot/JzTaCh9Lxw4iqzv4cL85w |
 | Creator | Andrew Kittridge ([@Andrew Kittridge](https://x.com/Andrew Kittridge)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/health), [grokbotwiki.com](https://www.grokbotwiki.com/bots/health), [grokbothq.xyz](https://grokbothq.xyz/bots/health), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/health) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 5 memory seeds, 0 connectors |

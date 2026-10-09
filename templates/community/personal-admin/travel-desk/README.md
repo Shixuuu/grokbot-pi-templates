@@ -6,7 +6,7 @@ Work-travel desk that actually enjoys the logistics — bag-inclusive flights, h
 | --- | --- |
 | Original template | https://x.ai/bot/CfeptLkV_zsiL-nhOKSUu |
 | Creator | ladybarrelmaker ([@ladybarrelmaker](https://x.com/ladybarrelmaker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/travel-desk), [botsdots.site](https://botsdots.site/templates/travel-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/travel-desk), [x-research](https://x.com/ladybarrelmaker/status/2102768720841941101) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 1 connectors |

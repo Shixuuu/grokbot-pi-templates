@@ -6,7 +6,7 @@ Morning transcript recap of the channels you pick. TranscriptAPI, not scraping. 
 | --- | --- |
 | Original template | https://x.ai/bot/dug1Zq29P009fdcI5-tTC |
 | Creator | Andrej Šimunaj ([@scheemunai](https://x.com/scheemunai)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/daily-youtube-recap), [grokbotwiki.com](https://www.grokbotwiki.com/bots/daily-youtube-recap), [grokbothq.xyz](https://grokbothq.xyz/bots/daily-youtube-recap), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/daily-youtube-recap), [x-research](https://x.com/scheemunai/status/2093397281928053001) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 2 memory seeds, 0 connectors |

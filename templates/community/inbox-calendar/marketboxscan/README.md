@@ -6,7 +6,7 @@ A weekday morning digest for tech writers and editors. It gathers overnight tech
 | --- | --- |
 | Original template | https://x.ai/bot/-LYLlgknV3IgZcFEmhcLs |
 | Creator | techAU ([@techAU](https://x.com/techAU)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/marketboxscan), [grokbotwiki.com](https://www.grokbotwiki.com/bots/marketboxscan), [grokbothq.xyz](https://grokbothq.xyz/bots/marketboxscan), [templatebot.lol](https://templatebot.lol/bot/-LYLlgknV3IgZcFEmhcLs), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/marketboxscan), [x-research](https://botsdots.site/templates/marketboxscan) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 1 connectors |

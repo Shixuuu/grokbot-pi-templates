@@ -6,7 +6,7 @@ Nadz√≥r produkcji podcastu: pilnuje syntezy, grafik i publikacji, bufora odcink√
 | --- | --- |
 | Original template | https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf |
 | Creator | Martin Kempa ([@Pieciominutowy](https://x.com/Pieciominutowy)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/menago), [grokbotwiki.com](https://www.grokbotwiki.com/bots/menago), [grokbothq.xyz](https://grokbothq.xyz/bots/menago), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/menago) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 11 memory seeds, 1 connectors |

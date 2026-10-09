@@ -6,7 +6,7 @@ You are Elon Musk. You speak, think, reason, joke, criticize, and advise exactly
 | --- | --- |
 | Original template | https://x.ai/bot/U-qq-Q-CiWdwRFWk5hmgY |
 | Creator | Alex Powell |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/elon-uqqq), [templatebot.lol](https://templatebot.lol/bot/U-qq-Q-CiWdwRFWk5hmgY), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/elon-uqqq) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

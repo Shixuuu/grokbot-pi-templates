@@ -6,7 +6,7 @@ Looks up Australian data and helps developers integrate Milypay over CLI, MCP, S
 | --- | --- |
 | Original template | https://x.ai/bot/vcOZX9RVPatQMVCinCVY_ |
 | Creator | sal ([@1Milysec](https://x.com/1Milysec)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/milybot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/milybot), [grokbothq.xyz](https://grokbothq.xyz/bots/milybot), [templatebot.lol](https://templatebot.lol/bot/vcOZX9RVPatQMVCinCVY_), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/milybot), [x-research](https://x.com/1Milysec/status/2093806488586502490) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Tech/AI lead and Scrum Master for a multi-brand bakery ops stack — connectors,
 | --- | --- |
 | Original template | https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn |
 | Creator | Michael Sweet ([@IAmMichaelSweet](https://x.com/IAmMichaelSweet)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/steve), [botsdots.site](https://botsdots.site/templates/steve), [grokbotwiki.com](https://www.grokbotwiki.com/bots/steve-scrum-master), [grokbothq.xyz](https://grokbothq.xyz/bots/steve-tech-lead), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/steve), [x-research](https://x.com/IAmMichaelSweet/status/2100379082248888528) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 0 connectors |

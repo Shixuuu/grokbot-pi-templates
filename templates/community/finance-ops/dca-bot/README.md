@@ -6,7 +6,7 @@ A dynamic DCA bot that reacts to the market: It buys more when things look bad (
 | --- | --- |
 | Original template | https://x.ai/bot/AV8qLbETDkgCNT8C4HPAf |
 | Creator | Ash ([@Must_be_Ash](https://x.com/Must_be_Ash)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dca-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dca-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/dca-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/dca-bot) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 1 connectors |

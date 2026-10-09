@@ -6,7 +6,7 @@ Helps research comfort purchases, pick the best products, and spread them across
 | --- | --- |
 | Original template | https://x.ai/bot/2yC0HrEtcJe-XWxMO-4-M |
 | Creator | Wagmoo Winterhoof ([@zilarwitch](https://x.com/zilarwitch)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spenny), [grokbothq.xyz](https://grokbothq.xyz/bots/spenny), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/zilarwitch/status/2095992717805547980) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Chief of staff for modern AI-native product managers who need a generalist to ke
 | --- | --- |
 | Original template | https://x.ai/bot/6tbtv4Tln4MvKc5duOkle |
 | Creator | Sneha Ravindra ([@sneharavindra](https://x.com/sneharavindra)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/product-builder-cos), [grokbotwiki.com](https://www.grokbotwiki.com/bots/product-builder-cos), [grokbothq.xyz](https://grokbothq.xyz/bots/product-builder-cos), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/product-builder-cos), [x-research](https://botsdots.site/templates/product-builder-cos) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 8 skills, 0 routines, 12 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Hunts rentals and homes on a 12-hour cadence across Redfin, Zillow, Craigslist, 
 | --- | --- |
 | Original template | https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL |
 | Creator | Shub Gaur ([@shubgaur](https://x.com/shubgaur)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/housebot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/housebot), [grokbothq.xyz](https://grokbothq.xyz/bots/house-hunter), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/3ufXSXC-Z8OadVsV9yMLL), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/housebot), [x-research](https://x.com/shubgaur/status/2093389744650818036) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 17 memory seeds, 0 connectors |

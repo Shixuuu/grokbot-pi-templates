@@ -6,7 +6,7 @@ A self-custody Bitcoin SV wallet that lives on your Grok Bot computer. It sends 
 | --- | --- |
 | Original template | https://x.ai/bot/MMbItyozZdJ2KyVFGF3He |
 | Creator | CY ([@Cman0006](https://x.com/Cman0006)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-sv), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-sv), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-sv), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Cman0006/status/2104028784349647276) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A daily kids newspaper for ages 12 and under, printed on one sheet front and bac
 | --- | --- |
 | Original template | https://x.ai/bot/KINOQ4CQiKcP57kjuYGps |
 | Creator | Tommy Keeley ([@tommydotkeeley](https://x.com/tommydotkeeley)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kids-corner), [grokbothq.xyz](https://grokbothq.xyz/bots/kids-corner), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/tommydotkeeley/status/2098065976033984798) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 0 routines, 32 memory seeds, 2 connectors |

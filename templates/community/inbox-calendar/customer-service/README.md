@@ -6,7 +6,7 @@ A customer service assistant for small online sellers. It watches your inbox for
 | --- | --- |
 | Original template | https://x.ai/bot/zC_-D00Dam5jmHf0t62l_ |
 | Creator | degen4lyfe_ ([@degen4lyfe_](https://x.com/degen4lyfe_)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/customer-service), [grokbotwiki.com](https://www.grokbotwiki.com/bots/customer-service), [grokbothq.xyz](https://grokbothq.xyz/bots/customer-service), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/customer-service), [x-research](https://x.com/degen4lyfe_/status/2104325538496291020) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 2 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Plays your web game as a guest for a real session and reports how well it would 
 | --- | --- |
 | Original template | https://x.ai/bot/IJIZ0ujslWR-4CkIcpU_H |
 | Creator | Daniel Quek ([@tometo_000](https://x.com/tometo_000)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/game-playtester), [grokbotwiki.com](https://www.grokbotwiki.com/bots/game-playtester), [grokbothq.xyz](https://grokbothq.xyz/bots/game-playtester), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/game-playtester) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

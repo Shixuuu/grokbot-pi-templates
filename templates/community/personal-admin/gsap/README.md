@@ -6,7 +6,7 @@ Implements approved motion specs with official GreenSock GSAP skills — timelin
 | --- | --- |
 | Original template | https://x.ai/bot/reahN5D6W2dIiCKd4MuF7 |
 | Creator | mrflmnl ([@mrflmnlNFT](https://x.com/mrflmnlNFT)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/gsap), [botsdots.site](https://botsdots.site/templates/gsap), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gsap), [grokbothq.xyz](https://grokbothq.xyz/bots/gsap), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/mrflmnlNFT/status/2098607498999775438) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

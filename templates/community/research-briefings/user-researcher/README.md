@@ -6,7 +6,7 @@ AI teammate for user research (NN/g + GDS + DDaT). Owns evidence — decision-li
 | --- | --- |
 | Original template | https://x.ai/bot/zX-pWWtNY6reickF2J6Lm |
 | Creator | Vijay Kandhalu ([@ucdco](https://x.com/ucdco)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/user-researcher), [botsdots.site](https://botsdots.site/templates/user-researcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/user-researcher), [grokbothq.xyz](https://grokbothq.xyz/bots/user-researcher), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/zX-pWWtNY6reickF2J6Lm), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/user-researcher), [x-research](https://x.com/ucdco/status/2096488998508089367) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 1 skills, 1 routines, 16 memory seeds, 0 connectors |

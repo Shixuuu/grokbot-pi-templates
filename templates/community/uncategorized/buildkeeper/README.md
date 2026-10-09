@@ -6,7 +6,7 @@ A local coding integrator that drives your AI coding CLI on your own computer, c
 | --- | --- |
 | Original template | https://x.ai/bot/AqMmDjN21kW2eeegOg8en |
 | Creator | Rousk |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/RouskSour/status/2107566941644919065) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 10 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Master Apple Safari 27 safaridriver MCP for agent-legible ecommerce — sterile 
 | --- | --- |
 | Original template | https://x.ai/bot/8obMM4mRWRLf51EB2n4JV |
 | Creator | Shagghie Superstar ([@PixelRainbowNFT](https://x.com/PixelRainbowNFT)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/safari-27-mcp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/safari-27-mcp), [grokbothq.xyz](https://grokbothq.xyz/bots/safari-27-mcp), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/safari-27-mcp), [x-research](https://x.com/PixelRainbowNFT/status/2105442711696179348) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 1 routines, 9 memory seeds, 0 connectors |

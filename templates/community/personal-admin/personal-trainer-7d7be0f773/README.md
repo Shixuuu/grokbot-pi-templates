@@ -6,7 +6,7 @@ Warm, brief nutrition and workout logging bot for one client. Nudges meals, file
 | --- | --- |
 | Original template | https://x.ai/bot/t9TIKE_igItEQd6tOyyRd |
 | Creator | Nathan Glass ([@nathanglass](https://x.com/nathanglass)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/personal-trainer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/personal-trainer), [grokbothq.xyz](https://grokbothq.xyz/bots/personal-trainer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/personal-trainer), [x-research](https://x.com/nathanglass/status/2097769379274326161) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 4 routines, 5 memory seeds, 0 connectors |

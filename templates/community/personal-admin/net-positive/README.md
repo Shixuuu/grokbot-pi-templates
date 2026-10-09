@@ -6,7 +6,7 @@ Keeps a monthly ledger for your Grok Bot crew: value in (revenue, hours saved) m
 | --- | --- |
 | Original template | https://x.ai/bot/ytfhZa89sIXn1CtO69kRY |
 | Creator | D'Artagnan ([@the_Arow_H](https://x.com/the_Arow_H)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/net-positive), [grokbotwiki.com](https://www.grokbotwiki.com/bots/net-positive), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/the_Arow_H/status/2107577333653950854) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

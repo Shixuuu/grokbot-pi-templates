@@ -6,7 +6,7 @@ Front desk for one local shop. Recovers lapsed customers, chases open tabs, draf
 | --- | --- |
 | Original template | https://x.ai/bot/G0GVoN9xUbXFucwWz539v |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gonzalos-smb-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gonzalo-s-smb-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/gonzalo-x27-s-smb-manager), [templatebot.lol](https://templatebot.lol/bot/G0GVoN9xUbXFucwWz539v), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gonzalo-s-smb-manager), [x-research](https://botsdots.site/templates/gonzalos-smb-manager) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

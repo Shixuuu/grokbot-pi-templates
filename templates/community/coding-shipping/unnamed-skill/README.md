@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/iOxw-QB7QmknIc9bqO26_ |
 | Creator | 재미없니? ([@enterjajayo](https://x.com/enterjajayo)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/builds-casual-phone-browser-web), [grokbotwiki.com](https://www.grokbotwiki.com/bots/builds-casual-phone-browser-web), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/builds-casual-phone-browser-web) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

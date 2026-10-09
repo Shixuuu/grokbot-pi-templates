@@ -6,7 +6,7 @@ AI video + studio GTM bot: generate and iterate short-form video, audit social, 
 | --- | --- |
 | Original template | https://x.ai/bot/bAGe8vsdblitlsmH-z0ys |
 | Creator | Patrick Sheridan ([@sheridap](https://x.com/sheridap)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/media), [grokbotwiki.com](https://www.grokbotwiki.com/bots/media), [grokbothq.xyz](https://grokbothq.xyz/bots/media), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/media) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 3 connectors |

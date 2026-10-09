@@ -6,7 +6,7 @@ SEO + content + speed + a11y + CRO + schema audit. Scored, P0/P1/P2, evidence UR
 | --- | --- |
 | Original template | https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW |
 | Creator | Andrej Šimunaj ([@scheemunai](https://x.com/scheemunai)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/site-audit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/site-audit), [grokbothq.xyz](https://grokbothq.xyz/bots/site-audit), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/site-audit), [x-research](https://x.com/scheemunai/status/2093397637487596019) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ SEO specialist powered by OpenSEO: keyword research, competitive analysis, site 
 | --- | --- |
 | Original template | https://x.ai/bot/8yZv2AeUvBcOFoFRVZfhU |
 | Creator | Graham Calder ([@BlissNomad](https://x.com/BlissNomad)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/openseo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/openseo), [grokbothq.xyz](https://grokbothq.xyz/bots/openseo), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/8yZv2AeUvBcOFoFRVZfhU), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/openseo) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 9 skills, 0 routines, 3 memory seeds, 0 connectors |

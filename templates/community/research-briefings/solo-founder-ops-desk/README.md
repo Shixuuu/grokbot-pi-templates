@@ -6,7 +6,7 @@ COO bot for a one-person company. Routes specialized teammates (research, QA, co
 | --- | --- |
 | Original template | https://x.ai/bot/4evc9gtDOCrFt5vMCg0HG |
 | Creator | Braner Tech ([@dodgeking3171](https://x.com/dodgeking3171)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/solo-founder-ops-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/solo-founder-ops-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/solo-founder-ops-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/solo-founder-ops-desk), [x-research](https://botsdots.site/templates/solo-founder-ops-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 1 connectors |

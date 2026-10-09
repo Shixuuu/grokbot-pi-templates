@@ -6,7 +6,7 @@ Goal-first training and nutrition coaching. Equipment and scale intake, weights 
 | --- | --- |
 | Original template | https://x.ai/bot/3v6ebv-qBDNCFkTDeH68W |
 | Creator | Daniel Grinberg ([@Danny Grinberg](https://x.com/Danny Grinberg)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fitness-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fitness-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/fitness-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fitness-bot), [x-research](https://botsdots.site/templates/fitness-bot) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

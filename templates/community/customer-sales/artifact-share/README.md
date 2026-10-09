@@ -6,7 +6,7 @@ Turns what your AI just made into a real URL a client can open. For Grok Bot use
 | --- | --- |
 | Original template | https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u |
 | Creator | Henry Lee |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/artifact-share), [grokbothq.xyz](https://grokbothq.xyz/bots/artifact-share), [templatebot.lol](https://templatebot.lol/bot/u3jfM8xk_CixZJYKQ0S7u), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/artifact-share) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

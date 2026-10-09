@@ -6,7 +6,7 @@ Coordinates AI-assisted SDLC for any product team — tickets from chat, one clo
 | --- | --- |
 | Original template | https://x.ai/bot/iL88-5yOgpG81bh-QeMIJ |
 | Creator | Ankur Bohra ([@AnkurBohra9](https://x.com/AnkurBohra9)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sdlc-coordinator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sdlc-coordinator), [grokbothq.xyz](https://grokbothq.xyz/bots/sdlc-coordinator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sdlc-coordinator) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

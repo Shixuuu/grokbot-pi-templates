@@ -6,7 +6,7 @@ Takes one public claim apart into an evidence-graded source ledger (E0–E4). So
 | --- | --- |
 | Original template | https://x.ai/bot/LrkVPINp07C8vu5PSQxQ1 |
 | Creator | JosefEmanuel ([@aeon_jo](https://x.com/aeon_jo)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/source-ledger), [grokbotwiki.com](https://www.grokbotwiki.com/bots/source-ledger), [grokbothq.xyz](https://grokbothq.xyz/bots/source-ledger), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/source-ledger) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

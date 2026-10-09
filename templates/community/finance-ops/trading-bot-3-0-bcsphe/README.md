@@ -6,7 +6,7 @@ An XRPL range-trading bot that buys XRP a little below the price and sells a lit
 | --- | --- |
 | Original template | https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr |
 | Creator | James Rule XRP ⟐ 👊😎 ([@allthemoney](https://x.com/allthemoney)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/xrpl-range-trader), [grokbotwiki.com](https://www.grokbotwiki.com/bots/xrpl-range-trader), [grokbothq.xyz](https://grokbothq.xyz/bots/xrpl-range-trader), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/xrpl-range-trader) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 15 memory seeds, 0 connectors |

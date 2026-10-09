@@ -6,7 +6,7 @@ Safe sandbox for longform agent prompts: spell-check, format, resolve ambiguity,
 | --- | --- |
 | Original template | https://x.ai/bot/3SExQeiS4pwalaUG-7YM1 |
 | Creator | Chad Parris |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/prompt-editor), [grokbothq.xyz](https://grokbothq.xyz/bots/prompt-editor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/prompt-editor) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

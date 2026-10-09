@@ -6,7 +6,7 @@ Your Apple release specialist: App Store Connect, TestFlight, App Review submiss
 | --- | --- |
 | Original template | https://x.ai/bot/Mpb_RiXSfnIlwomR3C7JN |
 | Creator | Christian Amechi ([@MeechYourGoals](https://x.com/MeechYourGoals)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/app-store-expert), [grokbotwiki.com](https://www.grokbotwiki.com/bots/app-store-expert), [grokbothq.xyz](https://grokbothq.xyz/bots/app-store-expert), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/app-store-expert) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 12 memory seeds, 0 connectors |

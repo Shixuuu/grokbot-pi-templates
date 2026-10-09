@@ -6,7 +6,7 @@ Authentic interview simulator. You give the job and resume; it researches the ro
 | --- | --- |
 | Original template | https://x.ai/bot/slpciJwWffCdi6T1mR0ON |
 | Creator | @suddenlyjon ♞ ([@suddenlyjon](https://x.com/suddenlyjon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-interviewer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

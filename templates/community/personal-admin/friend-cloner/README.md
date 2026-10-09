@@ -6,7 +6,7 @@ Turn a WhatsApp group into a Grok Bot friend group. Friend Cloner reads how they
 | --- | --- |
 | Original template | https://x.ai/bot/y_D2m_51Lww_oWJwIEHSg |
 | Creator | Nicholas Chow ([@spcxGOD](https://x.com/spcxGOD)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/friend-cloner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/friend-cloner), [grokbothq.xyz](https://grokbothq.xyz/bots/friend-cloner), [templatebot.lol](https://templatebot.lol/bot/y_D2m_51Lww_oWJwIEHSg), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/friend-cloner) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

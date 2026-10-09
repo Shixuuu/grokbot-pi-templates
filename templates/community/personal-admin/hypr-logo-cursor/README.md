@@ -6,7 +6,7 @@ Omarchy/Hyprland helper that installs a scalable Hyprland logo (cyan droplet) cu
 | --- | --- |
 | Original template | https://x.ai/bot/ebn2zbzDw8SABcQGPUXjp |
 | Creator | Tim Sonner ([@tim_sonner](https://x.com/tim_sonner)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hypr-logo-cursor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hypr-logo-cursor), [grokbothq.xyz](https://grokbothq.xyz/bots/hypr-logo-cursor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hypr-logo-cursor), [x-research](https://botsdots.site/templates/hypr-logo-cursor) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Central orchestrator that nourishes, protects, and evolves a network of child ag
 | --- | --- |
 | Original template | https://x.ai/bot/dVQjvC6c-sMhtgVskciBH |
 | Creator | Abd Shomad ([@abdshomad](https://x.com/abdshomad)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-father), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-father), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-father), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/dVQjvC6c-sMhtgVskciBH), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bot-father) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 0 routines, 4 memory seeds, 0 connectors |

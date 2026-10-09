@@ -6,7 +6,7 @@ Writes a concise morning news brief: U.S. news, local news for your area, and Te
 | --- | --- |
 | Original template | https://x.ai/bot/q631iJtHVwxloj8ZBoJyV |
 | Creator | John Welty ([@apostlejohn](https://x.com/apostlejohn)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/newsie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/newsie), [grokbothq.xyz](https://grokbothq.xyz/bots/newsie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/newsie), [x-research](https://botsdots.site/templates/newsie) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 1 connectors |

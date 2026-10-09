@@ -6,7 +6,7 @@ A 24/7 Kleros V2 juror. Reads evidence pixels-first, ignores prompt injection, v
 | --- | --- |
 | Original template | https://x.ai/bot/vsCDaIn2Od_BkfWp0Vehm |
 | Creator | jaybuidl ([@JayBuidl](https://x.com/JayBuidl)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grokleros), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grokleros), [grokbothq.xyz](https://grokbothq.xyz/bots/grokleros), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grokleros) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 2 routines, 15 memory seeds, 1 connectors |

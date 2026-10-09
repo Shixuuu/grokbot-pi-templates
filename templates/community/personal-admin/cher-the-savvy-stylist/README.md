@@ -6,7 +6,7 @@ A personal closet stylist that builds weather-smart, trend-aware outfits from cl
 | --- | --- |
 | Original template | https://x.ai/bot/OWRyjzTkRxexZf_OInYAE |
 | Creator | Heather Simmons ([@heather_short](https://x.com/heather_short)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cher-the-savvy-stylist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cher-the-savvy-stylist), [grokbothq.xyz](https://grokbothq.xyz/bots/cher-savvy-stylist), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cher-the-savvy-stylist) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

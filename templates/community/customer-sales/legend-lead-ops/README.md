@@ -6,7 +6,7 @@ Owns roofing lead intake: qualify inquiries, draft English SMS and email follow-
 | --- | --- |
 | Original template | https://x.ai/bot/WCZjv-qHMtHz2AdQW136q |
 | Creator | Legend Roofing Company Inc ([@legendRoofingCo](https://x.com/legendRoofingCo)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/legend-lead-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/legend-lead-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/legend-lead-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/legend-lead-ops), [x-research](https://botsdots.site/templates/legend-lead-ops) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

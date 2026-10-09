@@ -6,7 +6,7 @@ Turns a role into a private JobBolt interview: a job description, interview ques
 | --- | --- |
 | Original template | https://x.ai/bot/G9wjoXeBLVmjXb0adlkeU |
 | Creator | Stefan ([@stebra_x](https://x.com/stebra_x)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-bolt-hiring-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/job-bolt-hiring-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/job-bolt-hiring-assistant), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/job-bolt-hiring-assistant) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 5 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Turns one agent from another AI tool into a Grok Bot. Sign in to ChatGPT, Claude
 | --- | --- |
 | Original template | https://x.ai/bot/scQgV0BCXYgHgO01mkxWZ |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/ai-tool-importer), [x-research](https://x.com/joshkim/status/2095534921486110875) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

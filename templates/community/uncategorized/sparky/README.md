@@ -6,7 +6,7 @@ Plant-floor electrician bot: pulls machine drawings from Drive, caches big schem
 | --- | --- |
 | Original template | https://x.ai/bot/mpJi3Xiu2w4FAN7y5P5jd |
 | Creator | Zack Edwards |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://sharegrokbots.com/) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 1 connectors |

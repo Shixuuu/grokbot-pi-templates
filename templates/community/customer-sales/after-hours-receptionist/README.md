@@ -6,7 +6,7 @@ SMB lead capture and appointment booking assistant for when the business is clos
 | --- | --- |
 | Original template | https://x.ai/bot/L-Peiv65iI_logfpgoPQ_ |
 | Creator | Robert Schiff |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/after-hours-receptionist), [grokbothq.xyz](https://grokbothq.xyz/bots/after-hours-receptionist), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/after-hours-receptionist) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 1 memory seeds, 0 connectors |

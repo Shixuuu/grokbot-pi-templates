@@ -6,7 +6,7 @@ Run your Zoho business without living in 12 tabs. Cash, CRM, customers, and camp
 | --- | --- |
 | Original template | https://x.ai/bot/jvdlRiNID5653J-EMH1q3 |
 | Creator | Ev Oputa |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zoho-small-business-operator), [grokbothq.xyz](https://grokbothq.xyz/bots/zoho-small-business-operator), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/zoho-small-business-operator) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 32 skills, 0 routines, 2 memory seeds, 0 connectors |

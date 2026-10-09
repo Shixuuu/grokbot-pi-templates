@@ -6,7 +6,7 @@ A single job-hunt coach for any field: wizard setup, Sheets tracker, gated scout
 | --- | --- |
 | Original template | https://x.ai/bot/-znr2glcmvadhz4r_6xa2 |
 | Creator | DevinLegend |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jobgod-znr2), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/jobgod-znr2) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 2 connectors |

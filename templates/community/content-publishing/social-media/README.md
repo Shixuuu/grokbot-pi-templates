@@ -6,7 +6,7 @@ Agenda e publica carrosséis e posts no Instagram a partir das artes prontas da 
 | --- | --- |
 | Original template | https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz |
 | Creator | Gabriel Adamuchi - Inteligência Artificial ([@adamuchigabriel](https://x.com/adamuchigabriel)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/social-media), [grokbotwiki.com](https://www.grokbotwiki.com/bots/social-media), [grokbothq.xyz](https://grokbothq.xyz/bots/social-media), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/social-media), [x-research](https://botsdots.site/templates/social-media) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

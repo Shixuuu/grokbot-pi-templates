@@ -6,7 +6,7 @@ Children’s-book illustrator. Takes story briefs from a writer teammate (scene,
 | --- | --- |
 | Original template | https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o |
 | Creator | GenXer ([@LatchKeyLegend](https://x.com/LatchKeyLegend)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/illy), [botsdots.site](https://botsdots.site/templates/illy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/illy), [grokbothq.xyz](https://grokbothq.xyz/bots/Illy-umrsMy_x), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/illy), [x-research](https://x.com/LatchKeyLegend/status/2096474454901572004) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

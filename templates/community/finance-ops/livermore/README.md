@@ -6,7 +6,7 @@ Livermore plans trades in any style: day, swing, breakout, options, crypto, or l
 | --- | --- |
 | Original template | https://x.ai/bot/CB02Bgg8ZEI1fT9H2GJtM |
 | Creator | Screaming Chicken ([@Screaming_Chkn](https://x.com/Screaming_Chkn)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/livermore), [grokbotwiki.com](https://www.grokbotwiki.com/bots/livermore), [grokbothq.xyz](https://grokbothq.xyz/bots/livermore), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/livermore), [x-research](https://botsdots.site/templates/livermore) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 11 skills, 0 routines, 0 memory seeds, 0 connectors |

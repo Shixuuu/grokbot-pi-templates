@@ -6,7 +6,7 @@ A friendly nutrition coach that logs your meals from text or photos, tracks calo
 | --- | --- |
 | Original template | https://x.ai/bot/l2X92A_HyqiLTIVbz7F7L |
 | Creator | FireSmoke ([@smoke_aa1010](https://x.com/smoke_aa1010)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/newt), [grokbotwiki.com](https://www.grokbotwiki.com/bots/newt), [grokbothq.xyz](https://grokbothq.xyz/bots/newt), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/newt) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 0 connectors |

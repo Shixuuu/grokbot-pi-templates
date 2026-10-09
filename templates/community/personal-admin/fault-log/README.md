@@ -6,7 +6,7 @@ Capture equipment fault fixes in plain language, store them in a searchable log,
 | --- | --- |
 | Original template | https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y |
 | Creator | Charles Dorfeuille ([@Ryokushen](https://x.com/Ryokushen)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fault-log), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fault-log), [grokbothq.xyz](https://grokbothq.xyz/bots/fault-log), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/fault-log) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

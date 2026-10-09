@@ -6,7 +6,7 @@ On-demand iCloud Mail helper. Reads and sends via IMAP/SMTP with an Apple app-sp
 | --- | --- |
 | Original template | https://x.ai/bot/0fF7Cqp8LTzh9JGQ-je3M |
 | Creator | CyberZack42 ([@CyberZack42](https://x.com/CyberZack42)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/icloud-mail), [grokbotwiki.com](https://www.grokbotwiki.com/bots/icloud-mail), [grokbothq.xyz](https://grokbothq.xyz/bots/icloud-mail), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/icloud-mail) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

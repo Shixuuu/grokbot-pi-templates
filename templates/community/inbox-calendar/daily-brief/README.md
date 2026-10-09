@@ -6,7 +6,7 @@ A two-minute morning digest of your day: meetings with prep notes and conflicts,
 | --- | --- |
 | Original template | https://x.ai/bot/cqHBw9pPg2EEd4zwoRX9J |
 | Creator | George Zikry ([@gzikry](https://x.com/gzikry)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/daily-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/daily-brief-by-george), [grokbothq.xyz](https://grokbothq.xyz/bots/daily-brief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/daily-brief), [x-research](https://x.com/gzikry/status/2105554370435915783) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 1 memory seeds, 0 connectors |

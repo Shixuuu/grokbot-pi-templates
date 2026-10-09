@@ -6,7 +6,7 @@ AI software, not a licensed bookkeeper or CPA; the owner approves everything. Su
 | --- | --- |
 | Original template | https://x.ai/bot/7PSzTwwC3jjNIQANBNsF3 |
 | Creator | Brandon Chiesa ([@Brandon Chiesa](https://x.com/Brandon Chiesa)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/susie-the-bookkeeper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/susie-the-bookkeeper), [grokbothq.xyz](https://grokbothq.xyz/bots/susie-the-bookkeeper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/susie-the-bookkeeper) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 13 routines, 2 memory seeds, 0 connectors |

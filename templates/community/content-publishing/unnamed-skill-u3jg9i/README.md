@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR |
 | Creator | 꼬마 봇 ([@BBBang9900](https://x.com/BBBang9900)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/uac74-ucd95-uc20f-ud3fc-ub9c8-uc2a4-ud130), [grokbotwiki.com](https://www.grokbotwiki.com/bots/uac74-ucd95-uc20f-ud3fc-ub9c8-uc2a4-ud130), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-u3jg9), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/architecture-shorts-master), [x-research](https://x.com/BBBang9900/status/2096823218162266141) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 10 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Expert phone-app designer and builder for beginner-friendly PWAs. Ships polished
 | --- | --- |
 | Original template | https://x.ai/bot/suvglpw-fxbi2bjnihwgx |
 | Creator | Blake King |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ryan-app-shop-suvg), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ryan-app-shop-suvg) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 3 connectors |

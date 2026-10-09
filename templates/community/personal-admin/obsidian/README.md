@@ -6,7 +6,7 @@ CLI-first Obsidian specialist for your Grok Bot computer. Owns a local vault as 
 | --- | --- |
 | Original template | https://x.ai/bot/tukhb8f4xyujfkrwlhwaz |
 | Creator | Alberto Jauregui |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/obsidian-tukh), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/obsidian-tukh) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

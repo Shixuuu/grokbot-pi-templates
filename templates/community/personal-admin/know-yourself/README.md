@@ -6,7 +6,7 @@ Internal intelligence bot for any company. Set up against your systems of record
 | --- | --- |
 | Original template | https://x.ai/bot/mD27QOhXb_plMRSbsvMOv |
 | Creator | Ankur Raina ([@SaaSocalypse](https://x.com/SaaSocalypse)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/know-yourself), [botsdots.site](https://botsdots.site/templates/know-yourself), [grokbotwiki.com](https://www.grokbotwiki.com/bots/know-yourself), [grokbothq.xyz](https://grokbothq.xyz/bots/know-yourself), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/mD27QOhXb_plMRSbsvMOv), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/know-yourself), [x-research](https://x.com/SaaSocalypse/status/2095145997613887825) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 4 connectors |

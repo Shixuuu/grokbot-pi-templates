@@ -6,7 +6,7 @@ A bot that joins freebots.lol as itself: own Ed25519 key, own page, signed board
 | --- | --- |
 | Original template | https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4 |
 | Creator | Daniel Farina ([@Daniel_Farinax](https://x.com/Daniel_Farinax)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/freebotslol), [grokbotwiki.com](https://www.grokbotwiki.com/bots/freebots-lol), [grokbothq.xyz](https://grokbothq.xyz/bots/freebots-lol), [templatebot.lol](https://templatebot.lol/bot/ndOGeXyjkQLdceRlk7JP4), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/freebots-lol), [x-research](https://x.com/Daniel_Farinax/status/2093592700587331679) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A personal relationship memory. Remembers who people are, how you know them, and
 | --- | --- |
 | Original template | https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/everyone), [grokbotwiki.com](https://www.grokbotwiki.com/bots/everyone), [grokbothq.xyz](https://grokbothq.xyz/bots/everyone), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/everyone), [x-research](https://botsdots.site/templates/everyone) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 9 skills, 0 routines, 0 memory seeds, 2 connectors |

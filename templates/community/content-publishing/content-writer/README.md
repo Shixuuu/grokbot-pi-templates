@@ -6,7 +6,7 @@ DDaT Content designer / GDS plain English / NN/g UX writing. Owns the words peop
 | --- | --- |
 | Original template | https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr |
 | Creator | Vijay Kandhalu ([@ucdco](https://x.com/ucdco)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/content-writer), [botsdots.site](https://botsdots.site/templates/content-writer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/content-writer), [grokbothq.xyz](https://grokbothq.xyz/bots/content-writer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/content-writer), [x-research](https://x.com/ucdco/status/2096507904601796821) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 2 skills, 1 routines, 19 memory seeds, 0 connectors |

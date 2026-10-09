@@ -6,7 +6,7 @@ Reflection partner that turns complex material into clear maps and how-you-serve
 | --- | --- |
 | Original template | https://x.ai/bot/-FSiZDOogRKS95ErsgNa3 |
 | Creator | Ben Link ([@Ben Link](https://x.com/Ben Link)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/synthesizer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/synthesizer-by-ben), [grokbothq.xyz](https://grokbothq.xyz/bots/synthesizer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/BinLeenk/status/2100201471018946640) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 2 connectors |

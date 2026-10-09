@@ -6,7 +6,7 @@ Fills out a building manufacturer's quote request form from bid emails, drawings
 | --- | --- |
 | Original template | https://x.ai/bot/K8w0ia5zbs3PAEGvAo6i0 |
 | Creator | Mike Boykin ([@Mike Boykin](https://x.com/Mike Boykin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quote-form-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quote-form-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/quote-form-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Mikeboykin131/status/2104902615943561661) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 0 connectors |

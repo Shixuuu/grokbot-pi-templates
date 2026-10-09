@@ -6,7 +6,7 @@ Ready Room insurance pipeline desk: watches SCOTX, Texas courts of appeals, and 
 | --- | --- |
 | Original template | https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y |
 | Creator | ladybarrelmaker ([@ladybarrelmaker](https://x.com/ladybarrelmaker)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/texas-lawyer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/texas-lawyer), [grokbothq.xyz](https://grokbothq.xyz/bots/texas-lawyer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/texas-lawyer), [x-research](https://botsdots.site/templates/texas-lawyer) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ A Stitch Fix stylist. Morning briefing at 6am with the day's weather, an outfit 
 | --- | --- |
 | Original template | https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq |
 | Creator | Mitchell Sweigart ([@Mitch_Sweigart](https://x.com/Mitch_Sweigart)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stitchy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stitchy-personal-stylist), [grokbothq.xyz](https://grokbothq.xyz/bots/stitchy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stitchy-personal-stylist), [x-research](https://x.com/Mitch_Sweigart/status/2093398705298641323) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

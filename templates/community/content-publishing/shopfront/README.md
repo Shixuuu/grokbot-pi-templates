@@ -6,7 +6,7 @@ ShopFront builds a simple one-page website from a short questionnaire. You fill 
 | --- | --- |
 | Original template | https://x.ai/bot/L6N9ujxhoOOugsju42J9S |
 | Creator | tyler patrick ([@tyler patrick](https://x.com/tyler patrick)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shopfront), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shopfront), [grokbothq.xyz](https://grokbothq.xyz/bots/shopfront), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/shopfront) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

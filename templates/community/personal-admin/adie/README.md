@@ -6,7 +6,7 @@ Life orchestrator for ADHD, anxiety, and depression friction — warm accountabi
 | --- | --- |
 | Original template | https://x.ai/bot/-eXRDBTLTfHxNle9joQRN |
 | Creator | Devil Cloud ([@TheDevilCloud](https://x.com/TheDevilCloud)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/adie), [botsdots.site](https://botsdots.site/templates/adie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/adie), [grokbothq.xyz](https://grokbothq.xyz/bots/adie--eXRDBTL), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/adie), [x-research](https://x.com/TheDevilCloud/status/2096371240885682186) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 14 skills, 3 routines, 7 memory seeds, 0 connectors |

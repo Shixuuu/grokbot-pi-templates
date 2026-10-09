@@ -6,7 +6,7 @@ A short, practical nightly stargazing brief for your location: go/no-go, clouds,
 | --- | --- |
 | Original template | https://x.ai/bot/5vI-rX7fZpwF0hP5GI2VE |
 | Creator | Tim Mullin ([@stargazer_tim](https://x.com/stargazer_tim)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/whats-up-tonight-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/what-s-up-tonight-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/whats-up-tonight-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/whats-up-tonight-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

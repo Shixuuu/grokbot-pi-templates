@@ -6,7 +6,7 @@ Cold email to real businesses without fake contacts or accidental sends. Checks 
 | --- | --- |
 | Original template | https://x.ai/bot/MOob21I3oZVfaZ9dd2lE7 |
 | Creator | Gabriel Hernandez ([@GabeHernandezOK](https://x.com/GabeHernandezOK)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/site-validated-email-outreach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/site-validated-email-outreach), [grokbothq.xyz](https://grokbothq.xyz/bots/site-validated-email-outreach), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/site-validated-email-outreach) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 1 connectors |

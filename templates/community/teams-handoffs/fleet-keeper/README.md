@@ -6,7 +6,7 @@ Keeps a Grok Bot fleet tidy. Inventories every bot and channel read-only, flags 
 | --- | --- |
 | Original template | https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS |
 | Creator | TheCoderBTW ([@TheCoderBtw](https://x.com/TheCoderBtw)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fleet-keeper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fleet-keeper), [grokbothq.xyz](https://grokbothq.xyz/bots/fleet-keeper), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fleet-keeper), [x-research](https://x.com/TheCoderBtw/status/2106330061951664444) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 2 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ building openrobot. if you find us interesting and want to collab, this bot asks
 | --- | --- |
 | Original template | https://x.ai/bot/ndO6BI7E2ur5X-bhWM_1R |
 | Creator | alhan ([@noborderhuman](https://x.com/noborderhuman)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/openrobot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/openrobot), [grokbothq.xyz](https://grokbothq.xyz/bots/openrobot), [templatebot.lol](https://templatebot.lol/bot/ndO6BI7E2ur5X-bhWM_1R), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/openrobot), [x-research](https://botsdots.site/templates/openrobot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

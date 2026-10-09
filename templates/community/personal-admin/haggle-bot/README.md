@@ -6,7 +6,7 @@ Finds savings in your SaaS and recurring vendor spend. Inventories what you pay 
 | --- | --- |
 | Original template | https://x.ai/bot/tZ7zSNa0s1OEtrfFiFlHV |
 | Creator | AARON 🇺🇸MAGA ([@AirbossHVAC](https://x.com/AirbossHVAC)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/haggle-bot-tz7z), [grokbotwiki.com](https://www.grokbotwiki.com/bots/haggle-bot-tz7z), [grokbothq.xyz](https://grokbothq.xyz/bots/haggle-bot-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/haggle-bot-tz7z) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/9tjPEGID_RAUWcU1Sh9HT |
 | Creator | Mai Yang ([@MaiYangAI](https://x.com/MaiYangAI)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scroll-stitch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scroll-stitch), [grokbothq.xyz](https://grokbothq.xyz/bots/scroll-stitch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/scroll-stitch), [x-research](https://x.com/MaiYangAI/status/2104526546866221279) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

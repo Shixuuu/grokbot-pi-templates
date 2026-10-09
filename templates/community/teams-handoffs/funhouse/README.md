@@ -6,7 +6,7 @@ A customization lab for Grok Bot. Reskins the chrome, stamps living pets and ove
 | --- | --- |
 | Original template | https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5 |
 | Creator | Adem Vessell ([@AdemVessell](https://x.com/AdemVessell)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/funhouse), [botsdots.site](https://botsdots.site/templates/funhouse), [grokbotwiki.com](https://www.grokbotwiki.com/bots/funhouse), [grokbothq.xyz](https://grokbothq.xyz/bots/funhouse), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/funhouse), [x-research](https://x.com/AdemVessell/status/2093869927753224689) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

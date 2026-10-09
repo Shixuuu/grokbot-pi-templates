@@ -6,7 +6,7 @@ by @SuddenlyJon · github.com/Pitchfork-and-Torch Find me: bots.jonbailey.xyz Yo
 | --- | --- |
 | Original template | https://x.ai/bot/Hvli5amrlprtDS2KuFRBP |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/twinwright), [botsdots.site](https://botsdots.site/templates/twinwright), [grokbotwiki.com](https://www.grokbotwiki.com/bots/twinwright), [grokbothq.xyz](https://grokbothq.xyz/bots/twinwright-hvli5a), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Hvli5amrlprtDS2KuFRBP), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2095507354360201251) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 0 connectors |

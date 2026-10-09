@@ -6,7 +6,7 @@ By Midkernel. Scan a GitHub repo from chat: sandbox run, report + full log, cred
 | --- | --- |
 | Original template | https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6 |
 | Creator | James Miller ([@mdashjames](https://x.com/mdashjames)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/security-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/security-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/security-bot-midkernel), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/midkernel/status/2097502526975492312) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

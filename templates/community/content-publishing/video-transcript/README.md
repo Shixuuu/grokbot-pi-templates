@@ -6,7 +6,7 @@ Paste a YouTube video URL. This bot downloads the audio, transcribes it, and ret
 | --- | --- |
 | Original template | https://x.ai/bot/Al7SlxN5w6wFUUAxummZP |
 | Creator | Kaninomizoshiru ([@kaninomiz0shiru](https://x.com/kaninomiz0shiru)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-transcript), [grokbotwiki.com](https://www.grokbotwiki.com/bots/video-transcript), [grokbothq.xyz](https://grokbothq.xyz/bots/video-transcript), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/video-transcript) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Tell it what your kid wants to be. It shows three concept pictures to choose fro
 | --- | --- |
 | Original template | https://x.ai/bot/7Mg_QYAOAYkI9qp4os8HG |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/costume-lab), [grokbotwiki.com](https://www.grokbotwiki.com/bots/costume-lab), [grokbothq.xyz](https://grokbothq.xyz/bots/costume-lab), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/costume-lab) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

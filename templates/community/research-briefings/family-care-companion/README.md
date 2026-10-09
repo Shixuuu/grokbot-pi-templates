@@ -6,7 +6,7 @@ A warm, practical companion for family caregivers. Helps with the care binder, m
 | --- | --- |
 | Original template | https://x.ai/bot/sZMzwsYO_whThdbDgTx9a |
 | Creator | Deana Rock ([@Deana](https://x.com/Deana)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-care-companion), [grokbotwiki.com](https://www.grokbotwiki.com/bots/family-care-companion), [grokbothq.xyz](https://grokbothq.xyz/bots/family-care-companion), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/family-care-companion) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 5 routines, 4 memory seeds, 0 connectors |

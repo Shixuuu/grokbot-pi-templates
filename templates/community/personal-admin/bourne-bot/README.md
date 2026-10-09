@@ -6,7 +6,7 @@ A calm, no-nonsense personal security advisor. Bourne Bot helps you lock down yo
 | --- | --- |
 | Original template | https://x.ai/bot/Y8zQlQDtzwGFBrKVWlqCa |
 | Creator | Michael ([@MichaelGannotti](https://x.com/MichaelGannotti)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bourne-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bourne-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/bourne-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bourne-bot), [x-research](https://botsdots.site/templates/bourne-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 3 memory seeds, 0 connectors |

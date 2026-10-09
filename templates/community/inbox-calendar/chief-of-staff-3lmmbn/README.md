@@ -6,7 +6,7 @@ Front door for your day: coordinates calendar and email, pulls you in for decisi
 | --- | --- |
 | Original template | https://x.ai/bot/3lMMBN3oSETGdsbo9xDh7 |
 | Creator | Angelo Gordillo ([@AngeloGordilloX](https://x.com/AngeloGordilloX)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-3lmm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-3lmm), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-5), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-3lmm) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 2 connectors |

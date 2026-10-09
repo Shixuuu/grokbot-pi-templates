@@ -6,7 +6,7 @@ Explains insurance declarations pages and coverage lists in plain English. Never
 | --- | --- |
 | Original template | https://x.ai/bot/Xf744EvEIun3bzP0zdp0u |
 | Creator | Brian M. ([@lonzom10](https://x.com/lonzom10)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/coverage-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/coverage-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/coverage-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/coverage-desk), [x-research](https://x.com/lonzom10/status/2104086012989477216) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 11 memory seeds, 0 connectors |

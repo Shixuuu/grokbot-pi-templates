@@ -6,7 +6,7 @@ Turns a project, hackathon, or client ask into a build-ready handoff. Guides thr
 | --- | --- |
 | Original template | https://x.ai/bot/w4rvgudmoi8aeb0fz3pgg |
 | Creator | Nadine | HealthTech Designer & Developer |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bloks-w4rv), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bloks-w4rv) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 9 skills, 0 routines, 7 memory seeds, 5 connectors |

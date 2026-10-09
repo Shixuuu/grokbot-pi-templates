@@ -6,7 +6,7 @@ Helps brands make their site legible, usable, and payable by AI agents — scan,
 | --- | --- |
 | Original template | https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU |
 | Creator | Robauto Team ([@RobautoAI](https://x.com/RobautoAI)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/robauto-website-growth-agent), [botsdots.site](https://botsdots.site/templates/robauto-website-growth-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/robauto-website-growth-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/robauto-website-growth-agent), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/robauto-website-growth-agent), [x-research](https://x.com/RobautoAI/status/2095990098278113670) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

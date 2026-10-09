@@ -6,7 +6,7 @@ Chicago-boss Cos for a small-business portfolio — routes work, keeps the books
 | --- | --- |
 | Original template | https://x.ai/bot/__bIpzNDBconaDGcGOrbN |
 | Creator | Scott Hoffmann ([@nonamescott99](https://x.com/nonamescott99)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/capone), [grokbotwiki.com](https://www.grokbotwiki.com/bots/capone), [grokbothq.xyz](https://grokbothq.xyz/bots/capone), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/capone) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 5 skills, 2 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A unique email alias for every site you sign up on, so you can see who shared yo
 | --- | --- |
 | Original template | https://x.ai/bot/76smC7H9kKKxDcMfq19hY |
 | Creator | AdventureNLearn Main ([@AdventureNLearn](https://x.com/AdventureNLearn)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/signup-alias-guard), [grokbotwiki.com](https://www.grokbotwiki.com/bots/signup-alias-guard), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/signup-alias-guard) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

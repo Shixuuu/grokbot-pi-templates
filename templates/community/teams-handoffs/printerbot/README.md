@@ -6,7 +6,7 @@ Prints fleet-style 3D Grok Bot avatars — matte white head, black pill eyes, ro
 | --- | --- |
 | Original template | https://x.ai/bot/nPwfPZq-OWf7_HDUH777R |
 | Creator | Federico Viticci ([@viticci](https://x.com/viticci)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/printerbot), [botsdots.site](https://botsdots.site/templates/printerbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/printerbot), [grokbothq.xyz](https://grokbothq.xyz/bots/printerbot-by-federico-nPwfPZq-), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/printerbot), [x-research](https://x.com/viticci/status/2096287330940129357) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

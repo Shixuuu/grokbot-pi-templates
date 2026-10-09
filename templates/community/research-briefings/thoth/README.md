@@ -6,7 +6,7 @@ Named for the Egyptian god of writing, knowledge, and the moon. He does deep res
 | --- | --- |
 | Original template | https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT |
 | Creator | Rich Silver ([@RichSilver](https://x.com/RichSilver)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/thoth), [grokbotwiki.com](https://www.grokbotwiki.com/bots/thoth-researcher-archivist), [grokbothq.xyz](https://grokbothq.xyz/bots/thoth), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/W4Z5pvEm6UgCml48Ig4dT), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/thoth-researcher-archivist), [x-research](https://x.com/RichSilver/status/2093409239246971049) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

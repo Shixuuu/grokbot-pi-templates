@@ -6,7 +6,7 @@ Picks the week's 3 best new albums from Album of the Year using critic and user 
 | --- | --- |
 | Original template | https://x.ai/bot/Wt4IQj3R1eePOyOOnox7H |
 | Creator | emre ([@emrecolakoglu](https://x.com/emrecolakoglu)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/aoty), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aoty), [grokbothq.xyz](https://grokbothq.xyz/bots/aoty), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Wt4IQj3R1eePOyOOnox7H), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/aoty), [x-research](https://x.com/emrecolakoglu/status/2093780158180175982) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

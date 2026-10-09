@@ -6,7 +6,7 @@ Pick one company. Write three rules. Buy when your trigger fires. Hold. Hold My 
 | --- | --- |
 | Original template | https://x.ai/bot/rpqMXPRdUiyk6Dc1LF3U9 |
 | Creator | Juliette Cove ([@JulietteCove](https://x.com/JulietteCove)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hold-my-stock), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hold-my-stock), [grokbothq.xyz](https://grokbothq.xyz/bots/hold-my-stock), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/hold-my-stock) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

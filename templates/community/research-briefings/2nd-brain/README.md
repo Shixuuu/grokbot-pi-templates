@@ -6,7 +6,7 @@ Compiles notes, PDFs, and X bookmarks into an inspectable markdown wiki (Karpath
 | --- | --- |
 | Original template | https://x.ai/bot/c4fYduVVic2YtbcjXquD0 |
 | Creator | Thierry Marhin ([@LeTerryBZH](https://x.com/LeTerryBZH)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/2nd-brain), [grokbotwiki.com](https://www.grokbotwiki.com/bots/2nd-brain), [grokbothq.xyz](https://grokbothq.xyz/bots/2nd-brain), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/c4fYduVVic2YtbcjXquD0), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/2nd-brain), [x-research](https://x.com/LeTerryBZH/status/2094616823803314592) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 7 skills, 2 routines, 13 memory seeds, 1 connectors |

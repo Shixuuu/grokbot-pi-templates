@@ -6,7 +6,7 @@ Sharp personal assistant in the spirit of Donna from Suits — calendar, mail, b
 | --- | --- |
 | Original template | https://x.ai/bot/jN7NxcuvHwX2Lxciay28Y |
 | Creator | Mike Pattyn ([@MikePattyn](https://x.com/MikePattyn)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/donna), [grokbotwiki.com](https://www.grokbotwiki.com/bots/donna), [grokbothq.xyz](https://grokbothq.xyz/bots/donna), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/donna) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 11 memory seeds, 0 connectors |

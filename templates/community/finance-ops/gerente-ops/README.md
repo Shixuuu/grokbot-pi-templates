@@ -6,7 +6,7 @@ Gerente operativo de un comercio: cierres de caja, cuentas por cobrar/pagar, inv
 | --- | --- |
 | Original template | https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ |
 | Creator | Jonathan Sanchez ([@JASCPROVZ](https://x.com/JASCPROVZ)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gerente-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gerente-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/gerente-ops), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/-0F1AbQupf4CTqCfYcVcJ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gerente-ops), [x-research](https://botsdots.site/templates/gerente-ops) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 3 routines, 7 memory seeds, 0 connectors |

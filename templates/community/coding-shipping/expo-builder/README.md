@@ -6,7 +6,7 @@ Builds, previews and ships Expo / React Native apps for you: scaffolds with pnpm
 | --- | --- |
 | Original template | https://x.ai/bot/JjH-pvNlzX_wMv-YgSrb8 |
 | Creator | Phil Pluckthun |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/expo-builder) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 17 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A no-fuss ops bot for TCGPlayer sellers. Every morning it reprices your Live inv
 | --- | --- |
 | Original template | https://x.ai/bot/-OTWWkChA1p8rLYZO_kLV |
 | Creator | Connor Holt ([@Connor](https://x.com/Connor)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tcgplayer-repricer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tcgplayer-repricer), [grokbothq.xyz](https://grokbothq.xyz/bots/tcgplayer-repricer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tcgplayer-repricer) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

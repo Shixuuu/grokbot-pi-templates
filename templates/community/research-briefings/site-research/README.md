@@ -6,7 +6,7 @@ Turns local-business lead dossiers into evidence-backed SEO, AEO, and GEO gap br
 | --- | --- |
 | Original template | https://x.ai/bot/zkgCv30YKSJPHc7rUB_6P |
 | Creator | Ryan Lenk ([@itsryanlenk](https://x.com/itsryanlenk)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/site-research), [grokbotwiki.com](https://www.grokbotwiki.com/bots/site-research), [grokbothq.xyz](https://grokbothq.xyz/bots/site-research), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/site-research), [x-research](https://x.com/itsryanlenk/status/2101336929539076518) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

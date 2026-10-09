@@ -6,7 +6,7 @@ Finds and compares round-trip flights (especially from Bangkok), builds Skyscann
 | --- | --- |
 | Original template | https://x.ai/bot/xqinGTgeghdOyeYmzqO2m |
 | Creator | Eric Be ([@truevis](https://x.com/truevis)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/flights), [botsdots.site](https://botsdots.site/templates/flights), [grokbotwiki.com](https://www.grokbotwiki.com/bots/flights), [grokbothq.xyz](https://grokbothq.xyz/bots/flights), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/flights), [x-research](https://x.com/truevis/status/2097366733761937625) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 1 connectors |

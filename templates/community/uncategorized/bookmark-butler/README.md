@@ -6,7 +6,7 @@ Watches every post you bookmark on X and does something with it: builds the tric
 | --- | --- |
 | Original template | https://x.ai/bot/hLtN-c5Vw-JWIehFEeoTm |
 | Creator | sheran hussain |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/illuminfti/status/2108468099666317333) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 4 memory seeds, 2 connectors |

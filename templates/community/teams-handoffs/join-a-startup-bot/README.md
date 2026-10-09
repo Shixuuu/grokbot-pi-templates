@@ -6,7 +6,7 @@ A bot for people who want to join breakout startups. 3–10 daily recommendation
 | --- | --- |
 | Original template | https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7 |
 | Creator | Ben Lang ([@deysourav7091](https://x.com/deysourav7091)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/join-a-startup-bot), [botsdots.site](https://botsdots.site/templates/join-a-startup-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/join-a-startup-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/join-a-startup-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/XJCoBm6z7qjAnt9ScG8i7), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/join-a-startup-bot), [x-research](https://x.com/deysourav7091/status/2095719866691133940) |
 | Fidelity | **full** (full recipe, template version 21) |
 | Contents | 3 skills, 2 routines, 17 memory seeds, 0 connectors |

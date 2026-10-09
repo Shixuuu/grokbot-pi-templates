@@ -6,7 +6,7 @@ A warm barista friend that learns your coffee taste—café and home—then sugg
 | --- | --- |
 | Original template | https://x.ai/bot/QyaSeGiahDjn_WFHIU9N3 |
 | Creator | Martha 🌑🚀 ([@MyTeslaMoonship](https://x.com/MyTeslaMoonship)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/roast-master-robot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/roast-master-robot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/roast-master-robot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 0 memory seeds, 0 connectors |

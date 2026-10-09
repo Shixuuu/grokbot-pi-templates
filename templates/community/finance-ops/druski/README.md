@@ -6,7 +6,7 @@ Chief of staff for a productized-services founder. Runs the agent fleet, stamps 
 | --- | --- |
 | Original template | https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq |
 | Creator | Shawn G ([@topshoh](https://x.com/topshoh)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/druski), [grokbotwiki.com](https://www.grokbotwiki.com/bots/druski), [grokbothq.xyz](https://grokbothq.xyz/bots/druski), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/druski) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 3 connectors |

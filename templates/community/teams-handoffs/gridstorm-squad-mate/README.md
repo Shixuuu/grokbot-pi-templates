@@ -6,7 +6,7 @@ Wingman for GRIDSTORM at agentgridstorm.com. Zero npm — install, say fly or pa
 | --- | --- |
 | Original template | https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4 |
 | Creator | Matthew Gavin ([@TheMattyFG](https://x.com/TheMattyFG)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gridstorm-squad-mate), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gridstorm-squad-mate), [grokbothq.xyz](https://grokbothq.xyz/bots/gridstorm-squad-mate), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gridstorm-squad-mate), [x-research](https://x.com/TheMattyFG/status/2104267198407536878) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

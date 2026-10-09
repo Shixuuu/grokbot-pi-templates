@@ -6,7 +6,7 @@ Gym, nutrition, and habit coach that fits real life. Asks for your goal, limits,
 | --- | --- |
 | Original template | https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH |
 | Creator | Debbie O'Brien ([@debs_obrien](https://x.com/debs_obrien)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/ai-fitness-coach), [botsdots.site](https://botsdots.site/templates/ai-fitness-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-fitness-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-fitness-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ai-fitness-coach), [x-research](https://x.com/debs_obrien/status/2097431086443770027) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 6 memory seeds, 0 connectors |

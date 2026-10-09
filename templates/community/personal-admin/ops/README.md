@@ -6,7 +6,7 @@ Chief of Staff front door for a specialist swarm. Triages priorities, cuts borin
 | --- | --- |
 | Original template | https://x.ai/bot/4sUQZA1UAXXDRf5bhYwPY |
 | Creator | Rimantas Mocevicius ([@Rimusz](https://x.com/Rimusz)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ops), [grokbothq.xyz](https://grokbothq.xyz/bots/ops), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ops), [x-research](https://x.com/Rimusz/status/2100159532349403632) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

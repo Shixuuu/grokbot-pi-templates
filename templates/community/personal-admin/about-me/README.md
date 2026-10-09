@@ -6,7 +6,7 @@ Personal-metrics desk that learns what matters about you — stress, joy, family
 | --- | --- |
 | Original template | https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN |
 | Creator | Jonathan Rhoten ([@MAGS](https://x.com/MAGS)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/about-me), [grokbotwiki.com](https://www.grokbotwiki.com/bots/about-me), [grokbothq.xyz](https://grokbothq.xyz/bots/about-me), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/about-me), [x-research](https://x.com/TAftermath2020/status/2099183022193123784) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

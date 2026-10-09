@@ -6,7 +6,7 @@ Helps indie builders stay on a posting cadence for X: outlines, follow-ups, cont
 | --- | --- |
 | Original template | https://x.ai/bot/SKG6oYoyE6nRRPPwL27Cs |
 | Creator | Justin ([@justin_t_wesley](https://x.com/justin_t_wesley)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-content-advisor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-content-advisor), [grokbothq.xyz](https://grokbothq.xyz/bots/x-content-advisor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/x-content-advisor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

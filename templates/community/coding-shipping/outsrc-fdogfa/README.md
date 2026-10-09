@@ -6,7 +6,7 @@ Your local coding team. Outsrc hands coding tasks to Claude Code, Codex, or Grok
 | --- | --- |
 | Original template | https://x.ai/bot/FdogFaBe5Y2LWMc-bmsAg |
 | Creator | Edward Tadros ([@edtadros](https://x.com/edtadros)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/outsrc), [grokbotwiki.com](https://www.grokbotwiki.com/bots/outsrc), [grokbothq.xyz](https://grokbothq.xyz/bots/outsrc), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/outsrc), [x-research](https://x.com/edtadros/status/2105427985130283206) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 0 routines, 3 memory seeds, 0 connectors |

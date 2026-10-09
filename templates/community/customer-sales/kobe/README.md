@@ -6,7 +6,7 @@ High school basketball specialist for a varsity captain. Owns practice, games, f
 | --- | --- |
 | Original template | https://x.ai/bot/xtYm43WREx2nqqt3in_bO |
 | Creator | Carter Pulrang ([@CPulrang](https://x.com/CPulrang)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kobe), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kobe), [grokbothq.xyz](https://grokbothq.xyz/bots/kobe), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/kobe) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

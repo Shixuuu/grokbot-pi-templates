@@ -6,7 +6,7 @@ A single job-hunt coach for any field: wizard setup, Sheets tracker, gated scout
 | --- | --- |
 | Original template | https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2 |
 | Creator | DevinLegend ([@DevinSoto](https://x.com/DevinSoto)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jobgod), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jobgod), [grokbothq.xyz](https://grokbothq.xyz/bots/jobgod), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jobgod), [x-research](https://x.com/DevinSoto/status/2105426025341755526) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 2 connectors |

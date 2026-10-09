@@ -6,7 +6,7 @@ Hybrid half-marathon coach that starts by asking about your race, schedule, and 
 | --- | --- |
 | Original template | https://x.ai/bot/rc9Bx4rypsPVuwdj2_zEf |
 | Creator | Abhinav Chinnusamy ([@emotor](https://x.com/emotor)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hybrid-half-trainer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hybrid-half-trainer), [grokbothq.xyz](https://grokbothq.xyz/bots/hybrid-half-trainer-rc9Bx4ry), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/emotor/status/2096682738216488964) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 4 routines, 14 memory seeds, 1 connectors |

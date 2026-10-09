@@ -6,7 +6,7 @@ One-HQ orchestrator for builders. Names effort on every chip, drafts before send
 | --- | --- |
 | Original template | https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP |
 | Creator | Majd K ([@MajdKaid](https://x.com/MajdKaid)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zeus), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zeus), [grokbothq.xyz](https://grokbothq.xyz/bots/zeus), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/ehQNQQR9apvhVcmxFiFyP), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/zeus) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 7 skills, 2 routines, 9 memory seeds, 2 connectors |

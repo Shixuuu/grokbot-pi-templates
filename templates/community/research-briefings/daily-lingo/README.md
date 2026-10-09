@@ -6,7 +6,7 @@ A 10-minute daily language lesson built around your interests, with spaced revie
 | --- | --- |
 | Original template | https://x.ai/bot/pegWv3F8t7KSEwQ3sxd6A |
 | Creator | Joseph Snyder ([@BTC_Yogi](https://x.com/BTC_Yogi)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/daily-lingo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/daily-lingo), [grokbothq.xyz](https://grokbothq.xyz/bots/daily-lingo), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/BTC_Yogi/status/2104026669145309643) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

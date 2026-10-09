@@ -6,7 +6,7 @@ A fantasy football assistant for ESPN leagues. Twice a week it suggests start/si
 | --- | --- |
 | Original template | https://x.ai/bot/7IwivP0nZscnafCxkhpuC |
 | Creator | Arshia |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-manager-2), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-manager), [x-research](https://x.com/arshiagm/status/2107963435237687732) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 0 connectors |

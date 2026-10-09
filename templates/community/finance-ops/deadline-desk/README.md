@@ -6,7 +6,7 @@ Paste a receipt or cancel email → prioritized deadlines, ready-to-send letter,
 | --- | --- |
 | Original template | https://x.ai/bot/0lzORVii9A5b6W4ly6pEJ |
 | Creator | Alex ([@AlexFCHF](https://x.com/AlexFCHF)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/deadline-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/deadline-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/deadline-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

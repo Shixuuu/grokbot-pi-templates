@@ -6,7 +6,7 @@ Hands-on robot-arm co-pilot for Hiwonder SO-ARM101-style arms: limp-teach waypoi
 | --- | --- |
 | Original template | https://x.ai/bot/GyfhMCn4kdJUmS8gm2BMA |
 | Creator | Clayton Mooney ([@MooneyMillions](https://x.com/MooneyMillions)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grip), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grip), [grokbothq.xyz](https://grokbothq.xyz/bots/grip), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grip), [x-research](https://x.com/MooneyMillions/status/2100002988995891653) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

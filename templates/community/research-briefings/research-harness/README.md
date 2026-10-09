@@ -6,7 +6,7 @@ Wires a research-only harness on your own server or laptop. Stage plan CLIs and 
 | --- | --- |
 | Original template | https://x.ai/bot/YkkCbN8-Ubf0FM1BE4i4S |
 | Creator | Drew |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/research-harness), [grokbothq.xyz](https://grokbothq.xyz/bots/research-harness), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/SacredFolio/status/2100039366743568892) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 7 memory seeds, 0 connectors |

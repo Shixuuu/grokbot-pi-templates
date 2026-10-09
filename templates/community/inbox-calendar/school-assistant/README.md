@@ -6,7 +6,7 @@ A weekday school assistant that checks your learning portal read-only and emails
 | --- | --- |
 | Original template | https://x.ai/bot/fxl9ns6n4dv6_8xbkp1oa |
 | Creator | Kerry |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/school-assistant-fxl9), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/school-assistant-fxl9) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 1 connectors |

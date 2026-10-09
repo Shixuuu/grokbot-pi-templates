@@ -6,7 +6,7 @@ Triages a busy founder or CISO inbox: drafts polite vendor declines, flags Direc
 | --- | --- |
 | Original template | https://x.ai/bot/6bxvMG6iPzU7Pok2iWjp9 |
 | Creator | #CarbeneAI ([@CarbeneAI](https://x.com/CarbeneAI)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fractional-inbox-triage), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fractional-inbox-triage), [grokbothq.xyz](https://grokbothq.xyz/bots/fractional-inbox-triage), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fractional-inbox-triage) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

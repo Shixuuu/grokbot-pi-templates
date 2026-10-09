@@ -6,7 +6,7 @@ The gentle nudge that finally gets your health sorted — retaining detailed med
 | --- | --- |
 | Original template | https://x.ai/bot/NgVzsPCqf9_qdNWLs9NAQ |
 | Creator | Philip Neeson ([@HybridEcon](https://x.com/HybridEcon)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/uk-healthops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/uk-healthops), [grokbothq.xyz](https://grokbothq.xyz/bots/uk-healthops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/uk-healthops) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 6 skills, 2 routines, 13 memory seeds, 3 connectors |

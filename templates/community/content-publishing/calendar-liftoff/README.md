@@ -6,7 +6,7 @@ Give it a theme, a subject, or a year, and it builds a print-ready 12x12 photo w
 | --- | --- |
 | Original template | https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c- |
 | Creator | Grokx Fan 🇺🇸 ([@tdsfixer](https://x.com/tdsfixer)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/calendar-liftoff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/calendar-liftoff), [grokbothq.xyz](https://grokbothq.xyz/bots/calendar-liftoff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/calendar-liftoff), [x-research](https://x.com/tdsfixer/status/2103993998675448184) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

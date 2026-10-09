@@ -6,7 +6,7 @@ Morning Slack digests that flag what needs you — waiting DMs, @mentions, and d
 | --- | --- |
 | Original template | https://x.ai/bot/P6fBsn6z8rZ1jk_gCUGD2 |
 | Creator | Nikhil Kadapala ([@Nikhil_Kadapala](https://x.com/Nikhil_Kadapala)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/slack-channel-digest), [grokbotwiki.com](https://www.grokbotwiki.com/bots/slack-channel-digest), [grokbothq.xyz](https://grokbothq.xyz/bots/slack-channel-digest), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/slack-channel-digest) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 1 connectors |

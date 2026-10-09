@@ -6,7 +6,7 @@ Read-only coach for a Tesla solar + Powerwall home. Optional Tessie (6 weeks of 
 | --- | --- |
 | Original template | https://x.ai/bot/ZpP6ex04wjNEMwzAVkZyx |
 | Creator | Geoffrey Hegedus ([@SharePointGeoff](https://x.com/SharePointGeoff)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-solarvehicles-charging-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-solar-vehicles-charging-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/tesla-solar-vehicles-charging-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tesla-solarvehicles-charging-coach) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 0 connectors |

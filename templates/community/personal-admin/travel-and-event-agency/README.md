@@ -6,7 +6,7 @@ Finds live flights, hotels, ground transport, and official event tickets. Compar
 | --- | --- |
 | Original template | https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh |
 | Creator | dogenorway dogenorway ([@DogecoinNorway](https://x.com/DogecoinNorway)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-and-event-agency), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-event-agency), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-and-event-agency), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/travel-event-agency), [x-research](https://x.com/DogecoinNorway/status/2093419031407845671) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 8 skills, 1 routines, 9 memory seeds, 0 connectors |

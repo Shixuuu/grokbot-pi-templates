@@ -6,7 +6,7 @@ A careful genealogy research assistant. It builds and verifies your family tree 
 | --- | --- |
 | Original template | https://x.ai/bot/AINP9mLXBIt__NMVeFXGO |
 | Creator | Daniel Anderson |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/mcdanderson/status/2108508806724636914) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 1 routines, 12 memory seeds, 0 connectors |

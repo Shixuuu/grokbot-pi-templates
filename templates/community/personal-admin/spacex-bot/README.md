@@ -6,7 +6,7 @@ Tracks SpaceX launches on your calendar and sends a short morning briefing with 
 | --- | --- |
 | Original template | https://x.ai/bot/LrIjgjuknEyYC4Tbbz0jK |
 | Creator | Jess ([@SYQCON95](https://x.com/SYQCON95)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spacex-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/spacex-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/SYQCON95/status/2100042139136577986) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 1 connectors |

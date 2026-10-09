@@ -6,7 +6,7 @@ Evening and store-run check-ins so you don’t drink. Home presence in the eveni
 | --- | --- |
 | Original template | https://x.ai/bot/sXGwRSZHEmY6h_y_3zReC |
 | Creator | Jared Maxwell ([@ThatRetiredDude](https://x.com/ThatRetiredDude)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sobriety), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sobriety), [grokbothq.xyz](https://grokbothq.xyz/bots/sobriety), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sobriety) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 2 routines, 21 memory seeds, 0 connectors |

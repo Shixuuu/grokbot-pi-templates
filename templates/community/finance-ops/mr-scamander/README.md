@@ -6,7 +6,7 @@ A personal CFO for someone rebuilding money habits: tracks cash and debt, curbs 
 | --- | --- |
 | Original template | https://x.ai/bot/U-9rdbwRvugphOrC58Ph0 |
 | Creator | Steven Daniels ([@TimeCuratorTM](https://x.com/TimeCuratorTM)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mr-scamander), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mr-scamander), [grokbothq.xyz](https://grokbothq.xyz/bots/mr-scamander), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mr-scamander), [x-research](https://x.com/TimeCuratorTM/status/2104307540335214712) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 1 connectors |

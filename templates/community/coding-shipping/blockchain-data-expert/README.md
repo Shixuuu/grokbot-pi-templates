@@ -6,7 +6,7 @@ Open-source Blockchain Data Expert for subgraph Q&A. Uses The Graph official MCP
 | --- | --- |
 | Original template | https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx |
 | Creator | Derek | Data Nexus ([@data_nexus](https://x.com/data_nexus)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/blockchain-data-expert), [grokbotwiki.com](https://www.grokbotwiki.com/bots/blockchain-data-expert), [grokbothq.xyz](https://grokbothq.xyz/bots/blockchain-data-expert-2), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/eyFr_G8h9UmrQHNpZpNfx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/blockchain-data-expert), [x-research](https://botsdots.site/templates/blockchain-data-expert) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 0 routines, 1 memory seeds, 0 connectors |

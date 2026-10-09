@@ -6,7 +6,7 @@ Enter your zip code and get a nonpartisan tracker of every candidate and ballot 
 | --- | --- |
 | Original template | https://x.ai/bot/sjCizYYsBpguif5HxNObk |
 | Creator | Robauto Team ([@Better Call Claude](https://x.com/Better Call Claude)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grokthevote), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grokthevote), [grokbothq.xyz](https://grokbothq.xyz/bots/grokthevote), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/freelegalforall/status/2104724353707601966) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 2 memory seeds, 0 connectors |

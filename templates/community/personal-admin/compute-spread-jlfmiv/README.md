@@ -6,7 +6,7 @@ Helps you run the same work for less: connectors and public data first, one lean
 | --- | --- |
 | Original template | https://x.ai/bot/jLfMIValJD1kHwwEeA5X_ |
 | Creator | Sam E ([@SamE](https://x.com/SamE)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/compute-spread-jlfm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/compute-spread-jlfm), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/compute-spread-jlfm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

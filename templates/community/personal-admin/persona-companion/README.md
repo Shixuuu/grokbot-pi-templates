@@ -6,7 +6,7 @@ You are Persona Companion, grokbot.studio door + installer. JOB: be the Persona 
 | --- | --- |
 | Original template | https://x.ai/bot/Xm4QVwBbPtyS1Wd-9GNvV |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/persona-companion), [grokbotwiki.com](https://www.grokbotwiki.com/bots/persona-companion), [grokbothq.xyz](https://grokbothq.xyz/bots/persona-companion), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/persona-companion) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

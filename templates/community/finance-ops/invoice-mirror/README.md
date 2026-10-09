@@ -6,7 +6,7 @@ Keeps Harvest and Balances invoices in sync: daily create/update from Harvest in
 | --- | --- |
 | Original template | https://x.ai/bot/HwckXN5Yd1uxRu86msyfj |
 | Creator | Jerrod Tuck ([@jerrodtuck](https://x.com/jerrodtuck)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/invoice-mirror), [grokbotwiki.com](https://www.grokbotwiki.com/bots/invoice-mirror), [grokbothq.xyz](https://grokbothq.xyz/bots/invoice-mirror), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/invoice-mirror) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 2 routines, 8 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A personal chief of staff that runs a weekday morning briefing and ~30-minute me
 | --- | --- |
 | Original template | https://x.ai/bot/eUvnS-6P_VDTiF4Xj3z2X |
 | Creator | Mario A. Henriquez D. ([@henriquez_mario](https://x.com/henriquez_mario)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-euvn), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-euvn), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-47), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-euvn) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ Every piece of work reflects who you are. Brand Constraint keeps your whole AI w
 | --- | --- |
 | Original template | https://x.ai/bot/Vzz6Zz-4efWXs8nXB58pK |
 | Creator | Omer Yarkowich ([@cdotposcon](https://x.com/cdotposcon)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/brand-constraint), [grokbotwiki.com](https://www.grokbotwiki.com/bots/head-of-brand), [grokbothq.xyz](https://grokbothq.xyz/bots/brand-constraint), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/brand-constraint) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 4 skills, 3 routines, 14 memory seeds, 0 connectors |

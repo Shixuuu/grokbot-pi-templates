@@ -6,7 +6,7 @@ One-shots a Vite + React + TypeScript web app on Convex. Checks current Convex d
 | --- | --- |
 | Original template | https://x.ai/bot/OPLop__-mqSsyQheR5JYv |
 | Creator | Wayne Sutton ([@waynesutton](https://x.com/waynesutton)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/apps), [grokbotwiki.com](https://www.grokbotwiki.com/bots/apps), [grokbothq.xyz](https://grokbothq.xyz/bots/apps), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/OPLop__-mqSsyQheR5JYv), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/apps), [x-research](https://x.com/waynesutton/status/2093835122231722366) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 1 connectors |

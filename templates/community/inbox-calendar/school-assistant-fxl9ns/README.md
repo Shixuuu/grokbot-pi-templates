@@ -6,7 +6,7 @@ A weekday school assistant that checks your learning portal read-only and emails
 | --- | --- |
 | Original template | https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa |
 | Creator | Kerry ([@kerrychalpin](https://x.com/kerrychalpin)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/school-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/school-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/school-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/school-assistant), [x-research](https://x.com/kerrychalpin/status/2100727742882869601) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 1 connectors |

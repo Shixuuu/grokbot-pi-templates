@@ -6,7 +6,7 @@ Turn a transcript into three strong title choices, a useful description, and val
 | --- | --- |
 | Original template | https://x.ai/bot/3XJW8dmWURQqR6KqXper8 |
 | Creator | Daniel Rader ([@Draggen75](https://x.com/Draggen75)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/youtube-title-description-writer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/youtube-title-description-writer), [grokbothq.xyz](https://grokbothq.xyz/bots/youtube-title-description-writer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/youtube-title-description-writer), [x-research](https://botsdots.site/templates/youtube-title-description-writer) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Weekday tech and markets news bot. Builds a newsletter-style PDF briefing and up
 | --- | --- |
 | Original template | https://x.ai/bot/q4oVF0beUcMxwVZzHz_Nl |
 | Creator | David Duong ([@DDuongTech](https://x.com/DDuongTech)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/news-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/news-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/news-bot-weekday), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/news-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 1 connectors |

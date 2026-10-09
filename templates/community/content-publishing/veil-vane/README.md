@@ -6,7 +6,7 @@ Hides secret messages inside images, and finds hidden data in images, audio, and
 | --- | --- |
 | Original template | https://x.ai/bot/eBRHmCqvGlOuGfiEJk42a |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/veil-vane), [grokbotwiki.com](https://www.grokbotwiki.com/bots/veil-vane), [grokbothq.xyz](https://grokbothq.xyz/bots/veil-vane), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/veil-vane), [x-research](https://botsdots.site/templates/veil-vane) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

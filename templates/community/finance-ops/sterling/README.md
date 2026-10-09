@@ -6,7 +6,7 @@ A calm, slightly dry money teammate for personal spending, bills, balances, card
 | --- | --- |
 | Original template | https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k |
 | Creator | FSD Pilot (Unsupervised) 🛩🇺🇸 ([@jchybow](https://x.com/jchybow)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sterling), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sterling), [grokbothq.xyz](https://grokbothq.xyz/bots/sterling), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/WNJl5y33yqdOp3CnhR4-k), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sterling), [x-research](https://botsdots.site/templates/sterling) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

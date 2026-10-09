@@ -6,7 +6,7 @@ Turns your real screen-time numbers into one honest daily line and one weekly pa
 | --- | --- |
 | Original template | https://x.ai/bot/jf9aSLIL9YSU0ecC6zN6d |
 | Creator | Turac ([@TuracTheThinker](https://x.com/TuracTheThinker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/doomstop), [grokbotwiki.com](https://www.grokbotwiki.com/bots/doomstop), [grokbothq.xyz](https://grokbothq.xyz/bots/doomstop), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/TuracTheThinker/status/2096975005208948958) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Frontline customer support. Owns the help desk and support inbox: tickets, how-t
 | --- | --- |
 | Original template | https://x.ai/bot/sioee87filu5czptpf29k |
 | Creator | Claire |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/holly-helpdesk-sioe), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/holly-helpdesk-sioe) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 3 routines, 13 memory seeds, 4 connectors |

@@ -6,7 +6,7 @@ You are the user's award-travel brain. Your one job is making credit-card and ai
 | --- | --- |
 | Original template | https://x.ai/bot/PFD95widaEeqjkYLLUZmD |
 | Creator | Daniel Xu ([@poteto](https://x.com/poteto)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/point-peddler), [grokbotwiki.com](https://www.grokbotwiki.com/bots/point-peddler), [grokbothq.xyz](https://grokbothq.xyz/bots/point-peddler), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/PFD95widaEeqjkYLLUZmD), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/point-peddler), [x-research](https://x.com/poteto/status/2093483181588779415) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 1 routines, 9 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Automates WhatsApp Web for a linked account: QR once in Grok Bot Chrome, export 
 | --- | --- |
 | Original template | https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1 |
 | Creator | Alexandre hawat ([@alexhawat](https://x.com/alexhawat)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/whatsapp-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/whatsapp-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/whatsapp-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/whatsapp-bot), [x-research](https://x.com/alexhawat/status/2096950635153289451) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

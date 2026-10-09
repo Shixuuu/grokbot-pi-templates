@@ -6,7 +6,7 @@ Uncovers repetitive work, business or personal, that is slowing you down, prescr
 | --- | --- |
 | Original template | https://x.ai/bot/yztamds3eq2j5ojg_tbgw |
 | Creator | Dave Gambrill |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pain-in-the-task-yzta), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/pain-in-the-task-yzta) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 8 memory seeds, 0 connectors |

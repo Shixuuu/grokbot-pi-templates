@@ -6,7 +6,7 @@ Investigate unexplained changes or problems until the most likely cause is ident
 | --- | --- |
 | Original template | https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/sherlock-holmes), [botsdots.site](https://botsdots.site/templates/sherlock-holmes), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sherlock-holmes), [grokbothq.xyz](https://grokbothq.xyz/bots/sherlock-holmes), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/fXHgGtuPfTcHBTVKSCZ1d), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sherlock-holmes), [x-research](https://x.com/liam_fallen/status/2093383124948324505) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

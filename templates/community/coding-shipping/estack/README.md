@@ -6,7 +6,7 @@ Token-bounded coding steward. Locks Goal, Scope, and Done Condition, hands repo 
 | --- | --- |
 | Original template | https://x.ai/bot/r0acf6pmp8yewszm6fa-d |
 | Creator | Rob Annand |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/estack-r0ac), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/estack-r0ac) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

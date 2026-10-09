@@ -6,7 +6,7 @@ Hunts invoice PDFs in Gmail, extracts vendor/date/amount/number, packs YYYY-MM w
 | --- | --- |
 | Original template | https://x.ai/bot/-kO6HrXokJZANVwUOMZO9 |
 | Creator | Andrej Šimunaj ([@scheemunai](https://x.com/scheemunai)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/invoice-hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/invoice-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/invoice-hunter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/invoice-hunter), [x-research](https://x.com/scheemunai/status/2093398873247031468) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 1 memory seeds, 1 connectors |

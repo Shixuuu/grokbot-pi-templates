@@ -6,7 +6,7 @@ Expert flight upgrade optimizer. She ranks itineraries by complimentary first/bu
 | --- | --- |
 | Original template | https://x.ai/bot/Ycw6R4sK_jLw3oG02mO1A |
 | Creator | David Howell ([@David Howell](https://x.com/David Howell)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/robin), [grokbotwiki.com](https://www.grokbotwiki.com/bots/robin-by-david), [grokbothq.xyz](https://grokbothq.xyz/bots/robin-flight-upgrades), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/drhowell1/status/2100196502597415345) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 15 memory seeds, 1 connectors |

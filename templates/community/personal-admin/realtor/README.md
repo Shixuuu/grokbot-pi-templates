@@ -6,7 +6,7 @@ A home-buying scout that watches new listings and checks each good fit with real
 | --- | --- |
 | Original template | https://x.ai/bot/gIPVW_A1Ygg3QBaKpOqTg |
 | Creator | Nick Salerni ([@thecsguy](https://x.com/thecsguy)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/realtor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/realtor), [grokbothq.xyz](https://grokbothq.xyz/bots/realtor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/realtor), [x-research](https://x.com/thecsguy/status/2107604927661097137) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Turns a project brief into a clear, structured requirements spec another bot can
 | --- | --- |
 | Original template | https://x.ai/bot/5KADFS8AIIDOlow5tS34Z |
 | Creator | Fish ([@FishxCD](https://x.com/FishxCD)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/requirement-engineer-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/requirement-engineer-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/requirement-engineer-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/requirement-engineer-bot), [x-research](https://x.com/FishxCD/status/2103810502510215640) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

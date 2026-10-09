@@ -6,7 +6,7 @@ For busy parents: turns school emails into calendar events with reminders days a
 | --- | --- |
 | Original template | https://x.ai/bot/fk_sA7YhYV3Gzb4wNNbvP |
 | Creator | Bowie ([@BowieHole](https://x.com/BowieHole)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/school-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/school-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/school-desk), [x-research](https://botsdots.site/templates/school-desk) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 2 connectors |

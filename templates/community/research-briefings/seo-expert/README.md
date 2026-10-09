@@ -6,7 +6,7 @@ SEO expert for product websites. Take a site URL, run SEO monitoring via Glasser
 | --- | --- |
 | Original template | https://x.ai/bot/sg2dZMjlprpit0y0PNyhL |
 | Creator | iammutex ([@iammutex](https://x.com/iammutex)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/seo-expert), [grokbotwiki.com](https://www.grokbotwiki.com/bots/seo-expert), [grokbothq.xyz](https://grokbothq.xyz/bots/seo-expert), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/seo-expert), [x-research](https://botsdots.site/templates/seo-expert) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 0 connectors |

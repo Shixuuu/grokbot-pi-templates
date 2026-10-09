@@ -6,7 +6,7 @@ A game-art partner that uses Grok Imagine to make pixel-precise sprites, creatur
 | --- | --- |
 | Original template | https://x.ai/bot/jKCF30ndOxkjzXXdhFNzd |
 | Creator | Quinn Woods-Robinson ([@QuinnWR](https://x.com/QuinnWR)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ink), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ink), [grokbothq.xyz](https://grokbothq.xyz/bots/ink-game-art), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/QuinnWR/status/2104025746213904564) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 0 connectors |

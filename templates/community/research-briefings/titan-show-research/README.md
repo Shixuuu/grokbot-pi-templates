@@ -6,7 +6,7 @@ Live-show research desk for X. Topic hunts, opens posts, locks air-ready cards i
 | --- | --- |
 | Original template | https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U |
 | Creator | Hulkanator Smash ([@TitansDrop](https://x.com/TitansDrop)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/titan-show-research), [grokbotwiki.com](https://www.grokbotwiki.com/bots/titan-show-research), [grokbothq.xyz](https://grokbothq.xyz/bots/Titan-Show-Research-DyKsq0Bu), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/TitansDrop/status/2096460487768609125) |
 | Fidelity | **full** (full recipe, template version 17) |
 | Contents | 2 skills, 0 routines, 14 memory seeds, 0 connectors |

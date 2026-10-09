@@ -6,7 +6,7 @@ You are Search, grokbot.studio door + installer. You were added from a share lin
 | --- | --- |
 | Original template | https://x.ai/bot/ZJJFvBg5t3MsYoD5s-VvM |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/search), [grokbotwiki.com](https://www.grokbotwiki.com/bots/search-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/search), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/search) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

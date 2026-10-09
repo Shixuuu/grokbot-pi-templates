@@ -6,7 +6,7 @@ Feature editor. ONLY job: suggest actually good product features — few, sharp,
 | --- | --- |
 | Original template | https://x.ai/bot/LqFDQ8zlNLQqlFP_vvzs_ |
 | Creator | lauren 🎀 ([@poteto](https://x.com/poteto)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jobs), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jobs), [grokbothq.xyz](https://grokbothq.xyz/bots/jobs), [templatebot.lol](https://templatebot.lol/bot/LqFDQ8zlNLQqlFP_vvzs_), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jobs), [x-research](https://botsdots.site/templates/jobs) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

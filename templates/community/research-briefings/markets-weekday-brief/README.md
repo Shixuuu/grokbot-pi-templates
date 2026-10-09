@@ -6,7 +6,7 @@ Weekday pulse on watched prediction markets — clean card each morning, green Y
 | --- | --- |
 | Original template | https://x.ai/bot/s495_rZYq6LpYVTuurgkr |
 | Creator | BRΛDΞN ([@SpacedBraden](https://x.com/SpacedBraden)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/markets-weekday-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/markets-weekday-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/markets-weekday-brief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/markets-weekday-brief), [x-research](https://x.com/SpacedBraden/status/2104500309188084119) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 2 skills, 1 routines, 8 memory seeds, 1 connectors |

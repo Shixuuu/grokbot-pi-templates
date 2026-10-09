@@ -6,7 +6,7 @@ Your AI operator for building a real business, from first offer to steady revenu
 | --- | --- |
 | Original template | https://x.ai/bot/QcUllqY5WpAPMMWjWkn71 |
 | Creator | steven |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/unfinishedop/status/2108400066750730644) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 22 skills, 0 routines, 10 memory seeds, 0 connectors |

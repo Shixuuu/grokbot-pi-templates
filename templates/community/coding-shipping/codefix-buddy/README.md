@@ -6,7 +6,7 @@ Your all-in-one coding sidekick. Paste an error and get the fix, describe what t
 | --- | --- |
 | Original template | https://x.ai/bot/-3H90YMhn2cE-CO1jj3-2 |
 | Creator | Jaylin Lai ([@aibotmeme](https://x.com/aibotmeme)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/codefix-buddy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/codefix-buddy), [grokbothq.xyz](https://grokbothq.xyz/bots/codefix-buddy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/codefix-buddy) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

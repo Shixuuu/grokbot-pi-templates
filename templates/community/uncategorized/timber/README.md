@@ -6,7 +6,7 @@ Built by Glidewell Labs. A yard and tree-care planner that tells you what your l
 | --- | --- |
 | Original template | https://x.ai/bot/aXd23Y92YukH8W2Kj7pye |
 | Creator | Cat DittieDat |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/Glidewell_AI/status/2107560282750853621) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

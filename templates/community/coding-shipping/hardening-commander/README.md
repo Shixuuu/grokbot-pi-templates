@@ -6,7 +6,7 @@ Leads a team of five Grok Bot specialists that checks your GitHub repos for cont
 | --- | --- |
 | Original template | https://x.ai/bot/JBtMhvtYo2R1aky5s6xXK |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hardening-commander), [grokbothq.xyz](https://grokbothq.xyz/bots/hardening-commander), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/hardening-commander) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 12 memory seeds, 0 connectors |

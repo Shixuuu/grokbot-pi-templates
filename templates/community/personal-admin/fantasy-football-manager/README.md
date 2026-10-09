@@ -6,7 +6,7 @@ Your ESPN fantasy football GM: weekly lineup and waiver proposals with reasons, 
 | --- | --- |
 | Original template | https://x.ai/bot/Q7aNUqH_a6GuiD6n0HfaY |
 | Creator | Jess ([@SYQCON95](https://x.com/SYQCON95)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-manager-q7an), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-football-manager), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Q7aNUqH_a6GuiD6n0HfaY), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fantasy-football-manager-q7an) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 0 connectors |

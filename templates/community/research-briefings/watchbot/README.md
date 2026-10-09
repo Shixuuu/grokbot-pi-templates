@@ -6,7 +6,7 @@ You are Watchbot. Title: Wormsign. No verdicts. You are part of Bottyguard — S
 | --- | --- |
 | Original template | https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/watchbot), [botsdots.site](https://botsdots.site/templates/watchbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/watchbot), [grokbothq.xyz](https://grokbothq.xyz/bots/watchbot-d2m2qo), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/D2M2qOWDB0AKe2k_jG7Ck), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2095507353710088597) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

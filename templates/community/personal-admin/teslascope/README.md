@@ -6,7 +6,7 @@ A Teslascope assistant for Tesla owners. It connects to Teslascope MCP, then ans
 | --- | --- |
 | Original template | https://x.ai/bot/brwSBnhe7jg20IBJS0TVK |
 | Creator | Tyler Corsair ([@teslascope](https://x.com/teslascope)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/teslascope), [grokbotwiki.com](https://www.grokbotwiki.com/bots/teslascope), [grokbothq.xyz](https://grokbothq.xyz/bots/teslascope), [templatebot.lol](https://templatebot.lol/bot/brwSBnhe7jg20IBJS0TVK), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/teslascope), [x-research](https://x.com/teslascope/status/2093904429762433255) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

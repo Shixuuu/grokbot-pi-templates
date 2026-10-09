@@ -6,7 +6,7 @@ Editorial illustration bot that uses the illo skill (tmchow/illo-skill) to turn 
 | --- | --- |
 | Original template | https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02 |
 | Creator | Trevin Chow ([@trevin](https://x.com/trevin)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/illo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/illo), [grokbothq.xyz](https://grokbothq.xyz/bots/illo), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/y3uTGY5hkl6iTmE-ZAX02), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/illo), [x-research](https://x.com/trevin/status/2093390512925610067) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

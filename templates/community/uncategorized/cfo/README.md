@@ -6,7 +6,7 @@ Watches token usage across your Grok Bot army, flags tasks that look expensive, 
 | --- | --- |
 | Original template | https://x.ai/bot/_eLwi7ul7T9Bs_fXvB4Ha |
 | Creator | Davor Babić |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/davorb89/status/2107556388767687150) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 0 connectors |

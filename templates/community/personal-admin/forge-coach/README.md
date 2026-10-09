@@ -6,7 +6,7 @@ Answer a few quick questions about your age, fitness, health, gear, and space. G
 | --- | --- |
 | Original template | https://x.ai/bot/ZBDynmT5k_WrRqQwoxdrI |
 | Creator | Coffee and Grit ([@CoffeeNGrit](https://x.com/CoffeeNGrit)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/forge-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/forge-coach), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/CoffeeNGrit/status/2104045388210508129) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

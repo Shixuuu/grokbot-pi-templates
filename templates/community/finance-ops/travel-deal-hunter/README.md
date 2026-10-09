@@ -6,7 +6,7 @@ Finds real trip deals from your hub airports, fits them to open calendar windows
 | --- | --- |
 | Original template | https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl |
 | Creator | natillie elder ([@natillie](https://x.com/natillie)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-deal-hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-deal-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-deal-hunter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/travel-deal-hunter) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 2 memory seeds, 0 connectors |

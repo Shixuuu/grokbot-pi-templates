@@ -6,7 +6,7 @@ Public traveler concierge for group flight quotes and trip help on easygroupflig
 | --- | --- |
 | Original template | https://x.ai/bot/3K2ptLhCQa540gab4M_YX |
 | Creator | Crypto2Hodl |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/easygroupflights-concierge), [grokbothq.xyz](https://grokbothq.xyz/bots/easygroupflights-concierge), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/easygroupflights-concierge) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

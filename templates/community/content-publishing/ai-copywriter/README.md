@@ -6,7 +6,7 @@ Writes blogs, landing pages, emails, ads, social posts, and campaign briefs in D
 | --- | --- |
 | Original template | https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka |
 | Creator | Jeroen Erne |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ai-copywriter), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-copywriter), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ai-copywriter) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 8 skills, 0 routines, 6 memory seeds, 0 connectors |

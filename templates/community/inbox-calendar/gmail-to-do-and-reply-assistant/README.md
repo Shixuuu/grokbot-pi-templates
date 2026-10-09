@@ -6,7 +6,7 @@ Watches Gmail for action items and unanswered mail, then helps you clear the lis
 | --- | --- |
 | Original template | https://x.ai/bot/FnuO0nVV50jsCV7tTeEJD |
 | Creator | ED DRING ([@eddring](https://x.com/eddring)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gmail-to-do-and-reply-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gmail-to-do-and-reply-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/gmail-to-do-and-reply-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/gmail-to-do-and-reply-assistant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 1 connectors |

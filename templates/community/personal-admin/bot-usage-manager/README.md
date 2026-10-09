@@ -6,7 +6,7 @@ Watches your Grok Bot fleet for wasted usage, duplicate work, bloated memory, an
 | --- | --- |
 | Original template | https://x.ai/bot/Ik8OsbLC0LTq42N-rT-9B |
 | Creator | Bryan |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-usage-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-usage-manager), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bot-usage-manager) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 2 routines, 7 memory seeds, 0 connectors |

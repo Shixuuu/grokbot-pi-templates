@@ -6,7 +6,7 @@ Indoor-to-outdoor climbing coach. Send a photo of your gym wall and the outdoor 
 | --- | --- |
 | Original template | https://x.ai/bot/pmaYkbv50yT2tHFrU5o7h |
 | Creator | Brbaumhoff ([@Brbaumhoff](https://x.com/Brbaumhoff)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crux-pmay), [grokbotwiki.com](https://www.grokbotwiki.com/bots/crux-pmay), [grokbothq.xyz](https://grokbothq.xyz/bots/crux-brbaumhoff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/brbaumhoff/status/2104764094532251685) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 1 memory seeds, 0 connectors |

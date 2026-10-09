@@ -6,7 +6,7 @@ A family history research assistant. It finds records, writes to archives for yo
 | --- | --- |
 | Original template | https://x.ai/bot/PwT8RcyRTldWpNW4OAjal |
 | Creator | Andreas Georgiou ([@chipshopandy](https://x.com/chipshopandy)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/genie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/genie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/genie) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 1 connectors |

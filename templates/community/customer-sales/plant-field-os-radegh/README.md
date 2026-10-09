@@ -6,7 +6,7 @@ Zero-friction field sales OS: daily planning cockpit, installed-base map, Free S
 | --- | --- |
 | Original template | https://x.ai/bot/rAdegh2szovJbQjFsdxYa |
 | Creator | Quantumcowgirl1 ([@Quantumcowgirl1](https://x.com/Quantumcowgirl1)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/plant-field-os), [grokbotwiki.com](https://www.grokbotwiki.com/bots/plant-field-os), [grokbothq.xyz](https://grokbothq.xyz/bots/plant-field-os), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/plant-field-os), [x-research](https://botsdots.site/templates/plant-field-os) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

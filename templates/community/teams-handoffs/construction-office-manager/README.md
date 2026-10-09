@@ -6,7 +6,7 @@ Back-office operator for one growing construction company. Connects bookkeeping 
 | --- | --- |
 | Original template | https://x.ai/bot/Uytjr0oAalw0OuzCLdWPd |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/construction-office-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/construction-office-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/construction-office-manager), [templatebot.lol](https://templatebot.lol/bot/Uytjr0oAalw0OuzCLdWPd), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/construction-office-manager), [x-research](https://botsdots.site/templates/construction-office-manager) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 2 connectors |

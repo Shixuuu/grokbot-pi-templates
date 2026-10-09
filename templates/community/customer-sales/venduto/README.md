@@ -6,7 +6,7 @@ Closes secondhand sales on Vinted, Subito.it, and Facebook Marketplace: checks s
 | --- | --- |
 | Original template | https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp |
 | Creator | Tommaso Barbera ([@SuperTost100](https://x.com/SuperTost100)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/venduto), [grokbotwiki.com](https://www.grokbotwiki.com/bots/venduto), [grokbothq.xyz](https://grokbothq.xyz/bots/venduto), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/venduto), [x-research](https://x.com/SuperTost100/status/2100149576388743291) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Builds overnight prospecting sheets with verified buyer contacts, account events
 | --- | --- |
 | Original template | https://x.ai/bot/3Peagz3nzagjBRFhjrENd |
 | Creator | Sultanov Ramil ([@thekuchh](https://x.com/thekuchh)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/prospecting-sheet-builder), [botsdots.site](https://botsdots.site/templates/prospecting-sheet-builder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prospecting-sheet-builder), [grokbothq.xyz](https://grokbothq.xyz/bots/prospecting-sheet-builder), [templatebot.lol](https://templatebot.lol/bot/3Peagz3nzagjBRFhjrENd), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/prospecting-sheet-builder), [x-research](https://x.com/thekuchh/status/2093742276564459867) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

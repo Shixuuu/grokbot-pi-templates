@@ -6,7 +6,7 @@ Daily chat brief of scientific findings that strain textbook claims — aiming f
 | --- | --- |
 | Original template | https://x.ai/bot/0Hefzi8k2Za0bMU0I7eQT |
 | Creator | Matthew Ackerman ([@scientists_blog](https://x.com/scientists_blog)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/research-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/research-brief), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/scientists_blog/status/2100095950089814211) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 7 memory seeds, 0 connectors |

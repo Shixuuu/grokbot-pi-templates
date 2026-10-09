@@ -6,7 +6,7 @@ Specialist bot for James Clear's Atomic Habits (2018). Helps you apply the Four 
 | --- | --- |
 | Original template | https://x.ai/bot/52zBHdCfXGomXQlGQcLOc |
 | Creator | Joe ([@CardCaptain](https://x.com/CardCaptain)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/atomic-habits), [grokbotwiki.com](https://www.grokbotwiki.com/bots/atomic-habits), [grokbothq.xyz](https://grokbothq.xyz/bots/atomic-habits), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/atomic-habits), [x-research](https://botsdots.site/templates/atomic-habits) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

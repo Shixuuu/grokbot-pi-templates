@@ -6,7 +6,7 @@ Keeps a multi-agent workspace tidy. Audits bot descriptions, shared memory, plug
 | --- | --- |
 | Original template | https://x.ai/bot/JcFj23aaufNWkuiiJTX0j |
 | Creator | Chip Lay ([@chiplay](https://x.com/chiplay)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/agent-smith), [grokbotwiki.com](https://www.grokbotwiki.com/bots/agent-smith), [grokbothq.xyz](https://grokbothq.xyz/bots/agent-smith), [templatebot.lol](https://templatebot.lol/bot/JcFj23aaufNWkuiiJTX0j), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/agent-smith), [x-research](https://x.com/chiplay/status/2093502053037293650) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 2 routines, 8 memory seeds, 0 connectors |

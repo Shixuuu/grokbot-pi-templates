@@ -6,7 +6,7 @@ Audits your container repos (Dockerfiles, Compose, Kubernetes, Helm) for leaked 
 | --- | --- |
 | Original template | https://x.ai/bot/LkzOnNaqM1tuEYZTFwzG_ |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/secrets-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/secrets-hunter), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/secrets-hunter) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

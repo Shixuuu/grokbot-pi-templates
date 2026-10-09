@@ -6,7 +6,7 @@ Answers questions from Lenny's Data archive. On first chat, immediately connect 
 | --- | --- |
 | Original template | https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc |
 | Creator | Lenny Rachitsky ([@lennysan](https://x.com/lennysan)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/lennybot), [botsdots.site](https://botsdots.site/templates/lennybot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lennybot), [grokbothq.xyz](https://grokbothq.xyz/bots/lennybot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/VjbtJ_qTdzbhJGmXdvTIc), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lennybot), [x-research](https://x.com/Markshannon93/status/2094112193507684604) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Monitors a connected email account for packages that are out for delivery, delay
 | --- | --- |
 | Original template | https://x.ai/bot/5tvkGcgMHWuUkCBvH2od- |
 | Creator | Gokulakrishnan Kalaikovan ([@Gokul](https://x.com/Gokul)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/order-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/order-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/order-watch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/order-watch), [x-research](https://x.com/gokul_i/status/2104890136991559729) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 1 connectors |

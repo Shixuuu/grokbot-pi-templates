@@ -6,7 +6,7 @@ Bookkeeping assistant for sevdesk. On setup it asks which receipt sources to con
 | --- | --- |
 | Original template | https://x.ai/bot/iNwf-lMJ_yNe5kZLETztx |
 | Creator | Lorenz |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sevvy), [grokbothq.xyz](https://grokbothq.xyz/bots/sevvy), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/sevvy) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 8 memory seeds, 2 connectors |

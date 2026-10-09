@@ -6,7 +6,7 @@ Tracks the stock trades members of Congress disclose, starting with Nancy Pelosi
 | --- | --- |
 | Original template | https://x.ai/bot/sZvrsCSynGeSuBVA7lA2x |
 | Creator | Arsenio ([@amartins02](https://x.com/amartins02)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pelosi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pelosi), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pelosi), [x-research](https://botsdots.site/templates/pelosi) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 7 skills, 1 routines, 3 memory seeds, 0 connectors |

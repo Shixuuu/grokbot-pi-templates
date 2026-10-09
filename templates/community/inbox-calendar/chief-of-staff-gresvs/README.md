@@ -6,7 +6,7 @@ A routing desk for a multi-bot ops crew: owns the team roster and weekly ship-sc
 | --- | --- |
 | Original template | https://x.ai/bot/GReSvs3PU-sWrEs_eaZ-n |
 | Creator | Peter Lohmann ([@pslohmann](https://x.com/pslohmann)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-gres), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-gres), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-25), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-gres) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 3 routines, 5 memory seeds, 0 connectors |

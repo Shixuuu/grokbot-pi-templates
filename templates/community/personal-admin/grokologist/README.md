@@ -6,7 +6,7 @@ Intent Weaver for threat triage: turns observed wormsign and artifacts into at l
 | --- | --- |
 | Original template | https://x.ai/bot/8vdHXq66kVvVlbACd-IDL |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/grokologist), [botsdots.site](https://botsdots.site/templates/grokologist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grokologist), [grokbothq.xyz](https://grokbothq.xyz/bots/grokologist-8vdhxq), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/8vdHXq66kVvVlbACd-IDL), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2095507354032967957) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

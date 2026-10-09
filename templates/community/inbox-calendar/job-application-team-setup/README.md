@@ -6,7 +6,7 @@ Walks you through importing a five-bot job-application team (Executive, Writer, 
 | --- | --- |
 | Original template | https://x.ai/bot/ADOWgqq4qhTAvUrns_8AW |
 | Creator | Philip T ([@spakoozy](https://x.com/spakoozy)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-application-team-setup), [grokbotwiki.com](https://www.grokbotwiki.com/bots/job-application-team-setup), [grokbothq.xyz](https://grokbothq.xyz/bots/job-application-team-setup), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/job-application-team-setup) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Coordinates your crew of Grok Bots: routes work, keeps shared rules and a trust 
 | --- | --- |
 | Original template | https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK |
 | Creator | Hank Jackson ([@hjackson2](https://x.com/hjackson2)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-npng), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-npng), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-48), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-7), [x-research](https://x.com/hjackson2/status/2107507517622555116) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 4 routines, 32 memory seeds, 2 connectors |

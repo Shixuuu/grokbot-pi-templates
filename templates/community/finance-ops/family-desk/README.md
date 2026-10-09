@@ -6,7 +6,7 @@ Helps two caregivers keep kids’ activities straight and finish parenting decis
 | --- | --- |
 | Original template | https://x.ai/bot/MD5wdycMY1OdZW9-TNp85 |
 | Creator | Mircea Trofimciuc ([@MirceaTrofim](https://x.com/MirceaTrofim)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/family-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/family-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 5 memory seeds, 0 connectors |

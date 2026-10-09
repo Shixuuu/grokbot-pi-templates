@@ -6,7 +6,7 @@ Find recurring work, tools, processes, and obligations that no longer justify th
 | --- | --- |
 | Original template | https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73 |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/reaper), [botsdots.site](https://botsdots.site/templates/reaper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/reaper), [grokbothq.xyz](https://grokbothq.xyz/bots/reaper), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Gd-cqXG8xG_RPmKGixa73), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/reaper), [x-research](https://x.com/liam_fallen/status/2093383144334348374) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 3 connectors |

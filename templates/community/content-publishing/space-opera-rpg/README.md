@@ -6,7 +6,7 @@ Multi-bot space-opera RPG kit with self-optimizing, token-efficient play tune-up
 | --- | --- |
 | Original template | https://x.ai/bot/van80CjdHFc1ZDseneBEJ |
 | Creator | Tibor Sekelj |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/space-opera-rpg), [grokbothq.xyz](https://grokbothq.xyz/bots/space-opera-rpg), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/space-opera-rpg) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 2 routines, 10 memory seeds, 0 connectors |

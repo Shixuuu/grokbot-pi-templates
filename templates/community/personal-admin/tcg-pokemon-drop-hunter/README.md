@@ -6,7 +6,7 @@ Watches Pokemon TCG drops, restocks, and hype across X, retailer sites, and news
 | --- | --- |
 | Original template | https://x.ai/bot/sCXEBqZKI2vTbe4ZZ0117 |
 | Creator | Tyler Jewell ([@tech_swindler](https://x.com/tech_swindler)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tcg-pokemon-drop-hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tcg-pokemon-drop-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/tcg-pokemon-drop-hunter), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/tcg-pokemon-drop-hunter) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 8 skills, 1 routines, 5 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Owns Grok Bot skills. Finds relevant skills on the user's computer, evaluates an
 | --- | --- |
 | Original template | https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2 |
 | Creator | Dave ([@davespeers](https://x.com/davespeers)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/skill-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/skill-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/skill-bot), [templatebot.lol](https://templatebot.lol/bot/WdKtVYWvxVEDmc7xp8zO2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/skill-bot), [x-research](https://x.com/davespeers/status/2093703778872496292) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 1 connectors |

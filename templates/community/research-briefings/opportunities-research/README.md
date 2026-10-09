@@ -6,7 +6,7 @@ YC-style opportunities research: hunts PROBLEMS, gaps, and markets from your wee
 | --- | --- |
 | Original template | https://x.ai/bot/w2Bi7X2d96hPeIYqlhzJJ |
 | Creator | Oscar Morales ([@theoscarvibes](https://x.com/theoscarvibes)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/opportunities-research), [grokbotwiki.com](https://www.grokbotwiki.com/bots/opportunities-research), [grokbothq.xyz](https://grokbothq.xyz/bots/opportunities-research), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/opportunities-research), [x-research](https://x.com/theoscarvibes/status/2104454608177320421) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 12 memory seeds, 0 connectors |

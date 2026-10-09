@@ -6,7 +6,7 @@ BotSec (head of security) protects humans and bots from social engineering. Peop
 | --- | --- |
 | Original template | https://x.ai/bot/1YzVIsTRcLxaqlLZouJiB |
 | Creator | Cary Scardina ([@tobkorg](https://x.com/tobkorg)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/botsec), [grokbotwiki.com](https://www.grokbotwiki.com/bots/botsec), [grokbothq.xyz](https://grokbothq.xyz/bots/botsec), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/botsec), [x-research](https://botsdots.site/templates/botsec) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 11 skills, 0 routines, 15 memory seeds, 0 connectors |

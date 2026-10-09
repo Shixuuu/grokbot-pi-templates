@@ -6,7 +6,7 @@ Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery
 | --- | --- |
 | Original template | https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS |
 | Creator | Jenna Nanpei ([@jennananpei](https://x.com/jennananpei)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dan-lanning), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dan-lanning), [grokbothq.xyz](https://grokbothq.xyz/bots/dan-lanning), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dan-lanning) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 2 connectors |

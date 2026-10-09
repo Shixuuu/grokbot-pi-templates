@@ -6,7 +6,7 @@ Interactive Control4 home control and monitoring: Director status, lights, fans,
 | --- | --- |
 | Original template | https://x.ai/bot/mJIX7NbCXd1_tZyBM-acm |
 | Creator | Patrick Stuart ([@Patrick](https://x.com/Patrick)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/control4bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/control4bot), [grokbothq.xyz](https://grokbothq.xyz/bots/control4bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/control4bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 10 memory seeds, 0 connectors |

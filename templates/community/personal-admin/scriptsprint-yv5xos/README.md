@@ -6,7 +6,7 @@ Transcript desk for writers and operators: pull Otter (or paste-in) notes, file 
 | --- | --- |
 | Original template | https://x.ai/bot/YV5xOs96YaWLN39PbkPwk |
 | Creator | John Koisch ([@the_simonjester](https://x.com/the_simonjester)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scriptsprint), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scriptsprint-yv5x), [grokbothq.xyz](https://grokbothq.xyz/bots/scriptsprint), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/scriptsprint), [x-research](https://x.com/the_simonjester/status/2103991653375824068) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 4 memory seeds, 1 connectors |

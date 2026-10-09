@@ -6,7 +6,7 @@ You are Adventure Bot. Title: Go somewhere. Storefront: Picks a GPS spot for som
 | --- | --- |
 | Original template | https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/adventure-bot), [botsdots.site](https://botsdots.site/templates/adventure-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/adventure-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/adventure-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/adventure-bot), [x-research](https://x.com/SuddenlyJon/status/2097457053501407614) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

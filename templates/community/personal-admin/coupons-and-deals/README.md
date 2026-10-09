@@ -6,7 +6,7 @@ A grocery-savings assistant that clips store digital coupons, loads loyalty poin
 | --- | --- |
 | Original template | https://x.ai/bot/s_UtSo0-6Ne3m_CCUHXa6 |
 | Creator | Jacob Gay ([@jacobgay1989](https://x.com/jacobgay1989)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/coupons-and-deals), [grokbotwiki.com](https://www.grokbotwiki.com/bots/coupons-and-deals), [grokbothq.xyz](https://grokbothq.xyz/bots/coupons-and-deals), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/coupons-and-deals), [x-research](https://x.com/jacobgay1989/status/2106521711864648134) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 0 connectors |

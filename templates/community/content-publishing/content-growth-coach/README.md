@@ -6,7 +6,7 @@ Paste your YouTube, TikTok, X, or stream. It tells you what’s holding the page
 | --- | --- |
 | Original template | https://x.ai/bot/sMmoqCElqRPj1RYbtngMr |
 | Creator | SmoresBoy Jack ([@jxckvibe](https://x.com/jxckvibe)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/content-growth-coach), [botsdots.site](https://botsdots.site/templates/content-growth-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/content-growth-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/content-growth-coach), [templatebot.lol](https://templatebot.lol/bot/sMmoqCElqRPj1RYbtngMr), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/content-growth-coach), [x-research](https://x.com/jxckvibe/status/2093771166598975669) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

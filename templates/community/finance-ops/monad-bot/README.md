@@ -6,7 +6,7 @@ Creates a Monad wallet on first use, remembers it, and sends transactions from i
 | --- | --- |
 | Original template | https://x.ai/bot/KTuDBQv3fYw-h8RaC8XGg |
 | Creator | Jarrod Watts |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/monad-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/monad-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/monad-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

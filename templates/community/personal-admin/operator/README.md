@@ -6,7 +6,7 @@ A calm operator for a small business. Keeps the day moving and only brings you t
 | --- | --- |
 | Original template | https://x.ai/bot/VRju--X8VRlzTySAh-WTd |
 | Creator | Mark Cassara ([@Mark Cassara](https://x.com/Mark Cassara)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/operator-vrju), [grokbotwiki.com](https://www.grokbotwiki.com/bots/operator-vrju), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/operator-2), [x-research](https://botsdots.site/templates/operator-vrju) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 2 connectors |

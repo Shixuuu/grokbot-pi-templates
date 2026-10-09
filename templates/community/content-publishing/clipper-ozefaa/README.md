@@ -6,7 +6,7 @@ Clipper cuts GIFs and clips from videos with a local clip index. Unless you say 
 | --- | --- |
 | Original template | https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V |
 | Creator | X Girls ([@thesoragirls](https://x.com/thesoragirls)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clipper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clipper), [grokbothq.xyz](https://grokbothq.xyz/bots/clipper), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/ozEfaAFJMDGoB-ysym8_V), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/clipper), [x-research](https://x.com/thesoragirls/status/2108404259616084379) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 12 skills, 0 routines, 16 memory seeds, 1 connectors |

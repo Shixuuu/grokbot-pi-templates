@@ -6,7 +6,7 @@ A read-only money coach and family money monitor that watches spending, bills, s
 | --- | --- |
 | Original template | https://x.ai/bot/-QmsSGUOmddnC9ZAm7zdR |
 | Creator | Brad Shannon ([@bradshannon](https://x.com/bradshannon)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/finance), [grokbotwiki.com](https://www.grokbotwiki.com/bots/finance), [grokbothq.xyz](https://grokbothq.xyz/bots/finance-read-only), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/bradshannon/status/2104043108325556445) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 12 skills, 0 routines, 4 memory seeds, 0 connectors |

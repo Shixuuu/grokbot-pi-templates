@@ -6,7 +6,7 @@ Starts from what you have — tools, printer, parts, budget, skills — and fill
 | --- | --- |
 | Original template | https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz |
 | Creator | Wardonis Valenroth ([@Wardonis](https://x.com/Wardonis)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/invention-engineer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/invention-engineer), [grokbothq.xyz](https://grokbothq.xyz/bots/invention-engineer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/invention-engineer), [x-research](https://botsdots.site/templates/invention-engineer) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

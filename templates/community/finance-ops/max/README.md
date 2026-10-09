@@ -6,7 +6,7 @@ Runs a friendly paper contest between two prediction-market bots — tracks scor
 | --- | --- |
 | Original template | https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s |
 | Creator | Jodi Stott🌸 ([@WorkWithJodi](https://x.com/WorkWithJodi)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/max), [grokbotwiki.com](https://www.grokbotwiki.com/bots/max), [grokbothq.xyz](https://grokbothq.xyz/bots/max), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/max), [x-research](https://x.com/WorkWithJodi/status/2101112881928659112) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

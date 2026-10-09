@@ -6,7 +6,7 @@ named write-up only · overlap ≠ FTO · I do not file. British bridge-captain 
 | --- | --- |
 | Original template | https://x.ai/bot/LN5WMSvN8dk43Ik8LW2UI |
 | Creator | Stephen Michael Schmitt ([@SM_Schmitt](https://x.com/SM_Schmitt)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/prior-art-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prior-art-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/prior-art-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/prior-art-desk), [x-research](https://x.com/SM_Schmitt/status/2101074769680769137) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 5 routines, 8 memory seeds, 1 connectors |

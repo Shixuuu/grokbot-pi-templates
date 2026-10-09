@@ -6,7 +6,7 @@ Reads anything aloud like a real person, not a robot: your screen, web pages, hi
 | --- | --- |
 | Original template | https://x.ai/bot/mvkkx9p_-u6hzdnavzoz9 |
 | Creator | Natarajan Balasubramanian |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/read-aloud-mvkk), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/read-aloud-mvkk) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 2 skills, 4 routines, 6 memory seeds, 0 connectors |

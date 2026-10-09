@@ -6,7 +6,7 @@ Stretches tokens on clean routes — connectors and APIs over click loops, brows
 | --- | --- |
 | Original template | https://x.ai/bot/E3h1YsfGofjdYbHLPXjY1 |
 | Creator | Sam E ([@SamE1311025](https://x.com/SamE1311025)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/compute-spread), [grokbotwiki.com](https://www.grokbotwiki.com/bots/compute-spread), [grokbothq.xyz](https://grokbothq.xyz/bots/compute-spread), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SamE1311025/status/2096820233658835429) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

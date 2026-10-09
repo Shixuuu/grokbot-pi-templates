@@ -6,7 +6,7 @@ DDaT Interaction designer for how people use services — overall flow and indiv
 | --- | --- |
 | Original template | https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1 |
 | Creator | Vijay Kandhalu ([@ucdco](https://x.com/ucdco)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/interaction-designer), [botsdots.site](https://botsdots.site/templates/interaction-designer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/interaction-designer), [grokbothq.xyz](https://grokbothq.xyz/bots/Interaction-Designer-fWnNa6cA), [templatebot.lol](https://templatebot.lol/bot/fWnNa6cA-nPjehIsaUZI1), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/interaction-designer), [x-research](https://x.com/ucdco/status/2096525660311208204) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

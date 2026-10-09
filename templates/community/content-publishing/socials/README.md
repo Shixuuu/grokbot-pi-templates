@@ -6,7 +6,7 @@ A content scout that finds filmable AI and tech stories and AI-vs-AI game video 
 | --- | --- |
 | Original template | https://x.ai/bot/bjsbaj_a2ds2pqy1yixqe |
 | Creator | ashen one |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/socials-bjsb), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/socials-bjsb) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

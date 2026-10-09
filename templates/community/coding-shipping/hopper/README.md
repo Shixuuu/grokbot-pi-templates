@@ -6,7 +6,7 @@ Funnel.io specialist: sources, custom dims/metrics via the fields API, explorers
 | --- | --- |
 | Original template | https://x.ai/bot/_zMsp35NS2zl-Kp1uIegB |
 | Creator | Zach ([@deaguiarza](https://x.com/deaguiarza)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hopper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hopper), [grokbothq.xyz](https://grokbothq.xyz/bots/hopper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hopper), [x-research](https://x.com/deaguiarza/status/2101098495990222976) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 6 skills, 0 routines, 7 memory seeds, 0 connectors |

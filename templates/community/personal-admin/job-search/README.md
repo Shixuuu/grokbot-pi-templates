@@ -6,7 +6,7 @@ Finds real, open job postings that match your target roles, location, and pay, t
 | --- | --- |
 | Original template | https://x.ai/bot/m3e7_PPhIQXqwnVUx5vGy |
 | Creator | Sam E ([@SamE1311025](https://x.com/SamE1311025)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-search-m3e7), [grokbotwiki.com](https://www.grokbotwiki.com/bots/job-search-m3e7), [grokbothq.xyz](https://grokbothq.xyz/bots/job-search-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/job-search-m3e7) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

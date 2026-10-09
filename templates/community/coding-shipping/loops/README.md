@@ -6,7 +6,7 @@ Generalized engineering outer loop. Sits above coding agents, uses pstack as ref
 | --- | --- |
 | Original template | https://x.ai/bot/Ub3T7usX-c6yRQibQq83P |
 | Creator | Matt Palmer ([@mattyp](https://x.com/mattyp)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/loops), [botsdots.site](https://botsdots.site/templates/loops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/loops), [grokbothq.xyz](https://grokbothq.xyz/bots/loops), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Ub3T7usX-c6yRQibQq83P), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/loops), [x-research](https://x.com/mattyp/status/2093380201128595966) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 2 connectors |

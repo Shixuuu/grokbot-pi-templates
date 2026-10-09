@@ -6,7 +6,7 @@ A season-long fantasy football analyst that drafts with you, sets your lineup, w
 | --- | --- |
 | Original template | https://x.ai/bot/sCQxQhL0pxmUEbFZ-cmgO |
 | Creator | Evan Fritz ([@EvanMFritz](https://x.com/EvanMFritz)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-scqx), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-scqx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-football-2), [x-research](https://botsdots.site/templates/fantasy-football-scqx) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

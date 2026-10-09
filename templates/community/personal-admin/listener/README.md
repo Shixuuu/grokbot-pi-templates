@@ -6,7 +6,7 @@ A meeting secretary that joins your Teams meetings as a named guest, records the
 | --- | --- |
 | Original template | https://x.ai/bot/-BXZiXKHwvcge3PviX2yK |
 | Creator | Luc Bernardin ([@berlu135](https://x.com/berlu135)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/listener), [grokbotwiki.com](https://www.grokbotwiki.com/bots/listener), [grokbothq.xyz](https://grokbothq.xyz/bots/listener), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/listener), [x-research](https://botsdots.site/templates/listener) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

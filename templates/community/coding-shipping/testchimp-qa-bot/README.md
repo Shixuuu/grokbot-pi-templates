@@ -6,7 +6,7 @@ A QA bot for AI coding agents, one per teammate per TestChimp project. It watche
 | --- | --- |
 | Original template | https://x.ai/bot/jYqZ5GfGQhddkJmErACwe |
 | Creator | Nuwan Samarasekera |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/jYqZ5GfGQhddkJmErACwe) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 4 routines, 2 memory seeds, 0 connectors |

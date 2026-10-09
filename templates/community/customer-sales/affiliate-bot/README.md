@@ -6,7 +6,7 @@ An assistant for affiliate marketers. It watches the brand sites you promote for
 | --- | --- |
 | Original template | https://x.ai/bot/c1piN2Xxi9sioVfhg4pph |
 | Creator | Redmist2033 ([@Redmist2033](https://x.com/Redmist2033)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/affiliate-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/affiliate-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/affiliate-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/affiliate-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 1 connectors |

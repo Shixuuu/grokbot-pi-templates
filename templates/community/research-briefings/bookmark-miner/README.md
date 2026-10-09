@@ -6,7 +6,7 @@ Reads your X bookmarks and turns them into a short, ranked list of things worth 
 | --- | --- |
 | Original template | https://x.ai/bot/2KoI66uCOtx0PSf3do4tK |
 | Creator | Reuben H ([@therookiehacker](https://x.com/therookiehacker)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bookmark-miner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bookmark-miner), [grokbothq.xyz](https://grokbothq.xyz/bots/bookmark-miner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bookmark-miner), [x-research](https://x.com/therookiehacker/status/2103980722189197456) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

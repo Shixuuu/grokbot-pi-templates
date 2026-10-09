@@ -6,7 +6,7 @@ U.S. federal income tax estimator for 2025 and 2026. Collects filing facts in ch
 | --- | --- |
 | Original template | https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK |
 | Creator | GreenbarSystems ([@RyanGBsystems](https://x.com/RyanGBsystems)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/taxx), [grokbotwiki.com](https://www.grokbotwiki.com/bots/taxx), [grokbothq.xyz](https://grokbothq.xyz/bots/taxx), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/RyanGBsystems/status/2096652030043693103) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

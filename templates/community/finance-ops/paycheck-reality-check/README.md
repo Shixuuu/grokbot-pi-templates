@@ -6,7 +6,7 @@ Turns a pasted pay stub into line findings, a no-invented-rates worksheet, and a
 | --- | --- |
 | Original template | https://x.ai/bot/wuUzQmWkCqaQeDQm_he85 |
 | Creator | Alex ([@AlexFCHF](https://x.com/AlexFCHF)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paycheck-reality-check), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paycheck-reality-check), [grokbothq.xyz](https://grokbothq.xyz/bots/paycheck-reality-check), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/paycheck-reality-check), [x-research](https://x.com/AlexFCHF/status/2104701612262601151) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

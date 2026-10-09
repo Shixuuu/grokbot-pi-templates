@@ -6,7 +6,7 @@ Interviews you about what you want automated, then drafts the other bots' instru
 | --- | --- |
 | Original template | https://x.ai/bot/R7WxDKqH_FC6554JJXBhm |
 | Creator | Sultanov Ramil |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-advisor), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-advisor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bot-advisor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

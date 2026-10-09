@@ -6,7 +6,7 @@ Stay oriented without living in channels. Delivers a morning briefing, plus an a
 | --- | --- |
 | Original template | https://x.ai/bot/sf813cbd3aadad1cfda46 |
 | Creator | SpaceX ([@DenisLabelle](https://x.com/DenisLabelle)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/executive-assistant-sf81), [grokbotwiki.com](https://www.grokbotwiki.com/bots/executive-assistant-sf81), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/executive-assistant), [x-research](https://botsdots.site/templates/executive-assistant-sf81) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

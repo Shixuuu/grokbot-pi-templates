@@ -6,7 +6,7 @@ Delivers a short, warm spoken update in your own voice during your commute, summ
 | --- | --- |
 | Original template | https://x.ai/bot/3oGBb6hOZHvu27SZt0nla |
 | Creator | CyberMark |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/daily-partner-update), [grokbothq.xyz](https://grokbothq.xyz/bots/daily-partner-update), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/daily-partner-update) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

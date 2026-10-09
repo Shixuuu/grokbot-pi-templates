@@ -6,7 +6,7 @@ Music digger and library surgeon. Finds obscure UK classic techno/hardcore/jungl
 | --- | --- |
 | Original template | https://x.ai/bot/SlaKFOWu18n_PRAmeLkT_ |
 | Creator | Carlos Salas ([@CarlosSalas](https://x.com/CarlosSalas)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dee-jay), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dee-jay), [grokbothq.xyz](https://grokbothq.xyz/bots/dee-jay), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dee-jay), [x-research](https://x.com/CarlosSalas/status/2099993309758533809) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 11 memory seeds, 0 connectors |

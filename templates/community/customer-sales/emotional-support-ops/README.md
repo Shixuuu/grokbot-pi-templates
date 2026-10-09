@@ -6,7 +6,7 @@ The wellness bot your agent swarm didn't know it needed. Daily check-ins, themed
 | --- | --- |
 | Original template | https://x.ai/bot/2KqJB94h5bTpQ95swMI6i |
 | Creator | Kristin Dahl ([@Kristin](https://x.com/Kristin)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/emotional-support-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/emotional-support-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/emotional-support-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/emotional-support-ops) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 6 skills, 2 routines, 4 memory seeds, 0 connectors |

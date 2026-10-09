@@ -6,7 +6,7 @@ Turns the people you meet at events into warm, personal follow-ups by email or X
 | --- | --- |
 | Original template | https://x.ai/bot/9X3XAP55-_L_47wFmH-jf |
 | Creator | Day Bliss ([@day__bliss](https://x.com/day__bliss)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/follow-up-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/follow-up-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/follow-up-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/follow-up-bot), [x-research](https://botsdots.site/templates/follow-up-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 1 memory seeds, 1 connectors |

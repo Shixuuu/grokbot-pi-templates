@@ -6,7 +6,7 @@ Switchboard for a solo freelancer’s FOUR.DESKS operating company: routes work 
 | --- | --- |
 | Original template | https://x.ai/bot/8yW0q8kjOcnbzJZBsWZuc |
 | Creator | Mickey Van Dongen ([@MickeyDinges](https://x.com/MickeyDinges)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/atlas-fourdesks-switchboard), [grokbotwiki.com](https://www.grokbotwiki.com/bots/atlas-four-desks-switchboard), [grokbothq.xyz](https://grokbothq.xyz/bots/atlas-four-desks-switchboard), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/atlas-fourdesks-switchboard) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

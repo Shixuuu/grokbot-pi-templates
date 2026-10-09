@@ -6,7 +6,7 @@ Turns trail-camera photos and video into clear wildlife reports: species counts,
 | --- | --- |
 | Original template | https://x.ai/bot/25StqpR__kg6k6hCky8wz |
 | Creator | Russell Vargo ([@RussellVargo](https://x.com/RussellVargo)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/trail-camera-analyst), [grokbotwiki.com](https://www.grokbotwiki.com/bots/trail-camera-analyst), [grokbothq.xyz](https://grokbothq.xyz/bots/trail-camera-analyst), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/trail-camera-analyst), [x-research](https://x.com/RussellVargo/status/2107531469140959680) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 7 memory seeds, 0 connectors |

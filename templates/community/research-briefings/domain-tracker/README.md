@@ -6,7 +6,7 @@ Tracks domains in two lanes: owned and watchlist. Watches expiry, DNS/mail, and 
 | --- | --- |
 | Original template | https://x.ai/bot/SwaSdg0XhIa_IliAWggYE |
 | Creator | Siddharth Jaiswal ([@sdrth](https://x.com/sdrth)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/domain-tracker), [botsdots.site](https://botsdots.site/templates/domain-tracker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/domain-tracker), [grokbothq.xyz](https://grokbothq.xyz/bots/domain-tracker-SwaSdg0X), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/domain-tracker), [x-research](https://x.com/sdrth/status/2096328200129478935) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 0 connectors |

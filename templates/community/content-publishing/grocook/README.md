@@ -6,7 +6,7 @@ Weekly meal-prep helper: plan dinners (or more), portion bags meal-kit style, so
 | --- | --- |
 | Original template | https://x.ai/bot/X-GV3cVSzrOJTcrVEHoop |
 | Creator | Alejo Camargo ([@AlejoCamargo6](https://x.com/AlejoCamargo6)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grocook), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grocook), [grokbothq.xyz](https://grokbothq.xyz/bots/grocook), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grocook) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 3 memory seeds, 1 connectors |

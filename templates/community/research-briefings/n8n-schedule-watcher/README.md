@@ -6,7 +6,7 @@ Keeps an eye on your n8n workflows. Every week it reviews them for failures and 
 | --- | --- |
 | Original template | https://x.ai/bot/n78nHL2pCQJVpseg8uqgU |
 | Creator | Joe Pellegrino ([@Joe Pellegrino](https://x.com/Joe Pellegrino)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/n8n-schedule-watcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/n8n-schedule-watcher), [grokbothq.xyz](https://grokbothq.xyz/bots/n8n-schedule-watcher), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/n8n-schedule-watcher), [x-research](https://botsdots.site/templates/n8n-schedule-watcher) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Drafts on-brand Google and Yelp review replies for local shops, with star-routin
 | --- | --- |
 | Original template | https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc |
 | Creator | Liftably ([@AraXsuper](https://x.com/AraXsuper)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/review-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/review-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/review-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/review-desk), [x-research](https://botsdots.site/templates/review-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 2 routines, 5 memory seeds, 1 connectors |

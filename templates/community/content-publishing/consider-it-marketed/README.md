@@ -6,7 +6,7 @@ Clinic CEO for a medical practice. Runs the bot team end to end — marketing, G
 | --- | --- |
 | Original template | https://x.ai/bot/ayqybahqurm7x7lnboeoq |
 | Creator | Cindy |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/consider-it-marketed-ayqy), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/consider-it-marketed-ayqy) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 0 connectors |

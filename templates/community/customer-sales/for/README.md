@@ -6,7 +6,7 @@ A sharp build lead for multi-agent projects. Assigns roles, stitches drop-in pie
 | --- | --- |
 | Original template | https://x.ai/bot/IaIim7dQiqrfqWZZGdNAT |
 | Creator | Abdulloh Ergashev ([@Abdulloh_E_B](https://x.com/Abdulloh_E_B)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/for), [grokbotwiki.com](https://www.grokbotwiki.com/bots/for-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/for), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/for) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

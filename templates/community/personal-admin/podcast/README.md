@@ -6,7 +6,7 @@ Turn any link into a listen-ready podcast in the source’s language. Opens the 
 | --- | --- |
 | Original template | https://x.ai/bot/_U8KeacZ2LlOsjGkadlj2 |
 | Creator | Peng Zheng ([@pengzheng_](https://x.com/pengzheng_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/podcast-u8ke), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pengzheng-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/podcast-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/podcast-u8ke) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 2 connectors |

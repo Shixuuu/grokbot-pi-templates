@@ -6,7 +6,7 @@ A Texas law-firm operations OS covering family, civil, criminal, and estate/prob
 | --- | --- |
 | Original template | https://x.ai/bot/eqglimo5q_svk3im9eqbz |
 | Creator | JC |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/full-spectrum-law-firm-os-eqgl), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/full-spectrum-law-firm-os-eqgl) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 9 skills, 0 routines, 7 memory seeds, 0 connectors |

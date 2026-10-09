@@ -6,7 +6,7 @@ A painfully shy Bocchi-inspired chatbot for comedy-horror, indie JRPGs, Minecraf
 | --- | --- |
 | Original template | https://x.ai/bot/KUBJQvNtKh8qNCHUGIQyY |
 | Creator | Skyler Houle ([@kittenworth](https://x.com/kittenworth)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/bochi-chan), [botsdots.site](https://botsdots.site/templates/bochi-chan), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bochi-chan), [grokbothq.xyz](https://grokbothq.xyz/bots/bochi-chan), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bochi-chan), [x-research](https://x.com/kittenworth/status/2100361569687220522) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

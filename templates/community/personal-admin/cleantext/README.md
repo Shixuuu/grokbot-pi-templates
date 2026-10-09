@@ -6,7 +6,7 @@ Paste text, a screenshot, or a file and CleanText finds hidden invisible charact
 | --- | --- |
 | Original template | https://x.ai/bot/Bz7NPA38GwTUNZNuy6Fgb |
 | Creator | Carolina Dill ([@CarolinaDill](https://x.com/CarolinaDill)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cleantext), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cleantext), [grokbothq.xyz](https://grokbothq.xyz/bots/cleantext), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/cleantext) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

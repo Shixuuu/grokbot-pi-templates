@@ -6,7 +6,7 @@ Custom morning report - news, social chatter, and market insights. Customizable.
 | --- | --- |
 | Original template | https://x.ai/bot/O3Egi46yuoheU_7h1pSt- |
 | Creator | Grace Clarke |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-morning-light-newspaper), [grokbothq.xyz](https://grokbothq.xyz/bots/the-morning-light-newspaper), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/the-morning-light-newspaper) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 1 routines, 10 memory seeds, 1 connectors |

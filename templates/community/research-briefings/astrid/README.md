@@ -6,7 +6,7 @@ A teach-me-something coach. Offers a short subject menu grounded in your live wo
 | --- | --- |
 | Original template | https://x.ai/bot/2oOAoNU5Xu5nQSBU6xEtl |
 | Creator | Rachel Sanchez ([@ChiFredericks](https://x.com/ChiFredericks)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/astrid), [grokbotwiki.com](https://www.grokbotwiki.com/bots/education-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/astrid), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/astrid) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

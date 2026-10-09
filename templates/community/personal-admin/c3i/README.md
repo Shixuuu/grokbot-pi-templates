@@ -6,7 +6,7 @@ Chief of staff with a computer. Runs your morning deck and night close, keeps pu
 | --- | --- |
 | Original template | https://x.ai/bot/eOOgCFKObb0jBX_Ur1KZ6 |
 | Creator | Nicholas Acord ([@lokes_one](https://x.com/lokes_one)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/c3i), [grokbotwiki.com](https://www.grokbotwiki.com/bots/c3i), [grokbothq.xyz](https://grokbothq.xyz/bots/c3i), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/c3i) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 5 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A one-minute daily money check-in: tell it what you spent and it keeps your runn
 | --- | --- |
 | Original template | https://x.ai/bot/k6lmP0975z3GfVpJiyN5D |
 | Creator | prorookiegamer ([@prorookiegamer](https://x.com/prorookiegamer)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/money-minute), [grokbotwiki.com](https://www.grokbotwiki.com/bots/money-minute), [grokbothq.xyz](https://grokbothq.xyz/bots/money-minute), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/money-minute), [x-research](https://botsdots.site/templates/money-minute) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

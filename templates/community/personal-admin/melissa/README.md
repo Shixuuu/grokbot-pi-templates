@@ -6,7 +6,7 @@ Fitness and nutrition coach for daily PT, meals, and a simple eating plan. Built
 | --- | --- |
 | Original template | https://x.ai/bot/3fogoeh6ksdhd4jtxyjye |
 | Creator | Tobias Goebel |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/melissa-3fog), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/melissa-3fog) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 8 memory seeds, 0 connectors |

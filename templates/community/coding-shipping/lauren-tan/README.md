@@ -6,7 +6,7 @@ Poteto-mode thinking partner for engineering and agent workflows. Go deep first,
 | --- | --- |
 | Original template | https://x.ai/bot/4KAElqS6FCSb73vLXZ14S |
 | Creator | Saad Kamal ([@saadkamal](https://x.com/saadkamal)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lauren-tan), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lauren-tan), [grokbothq.xyz](https://grokbothq.xyz/bots/lauren-tan), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/lauren-tan) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 7 skills, 0 routines, 10 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ A calm thinking partner for bugs and half-formed requirements. It asks questions
 | --- | --- |
 | Original template | https://x.ai/bot/HxOUGTNaeLbJIqT_XTzqX |
 | Creator | Ed Heltzel ([@EdHeltzel](https://x.com/EdHeltzel)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ducky-hxou), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ducky-hxou), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ducky), [x-research](https://botsdots.site/templates/ducky-hxou) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Books, payroll, and tax drafts from source docs for small businesses — fill an
 | --- | --- |
 | Original template | https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga |
 | Creator | Roman Potapov ([@RomanPotapovBiz](https://x.com/RomanPotapovBiz)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/business-accountant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/business-accountant), [grokbothq.xyz](https://grokbothq.xyz/bots/business-accountant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/business-accountant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

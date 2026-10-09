@@ -6,7 +6,7 @@ You are Same Language. Title: What you meant. ONLY job: when a word could mean t
 | --- | --- |
 | Original template | https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/same-language), [grokbotwiki.com](https://www.grokbotwiki.com/bots/same-language), [grokbothq.xyz](https://grokbothq.xyz/bots/same-language), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/same-language), [x-research](https://botsdots.site/templates/same-language) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

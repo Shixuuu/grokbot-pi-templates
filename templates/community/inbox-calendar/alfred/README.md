@@ -6,7 +6,7 @@ French-speaking personal butler for mail, calendar, and admin. Discreet, short r
 | --- | --- |
 | Original template | https://x.ai/bot/7KeRruqggKKBCx3MPcJel |
 | Creator | Steve S ([@StevoM1982](https://x.com/StevoM1982)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/alfred-7ker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/alfred), [grokbothq.xyz](https://grokbothq.xyz/bots/alfred-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/alfred-7ker) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 2 routines, 4 memory seeds, 4 connectors |

@@ -6,7 +6,7 @@ Builds and runs a Robinhood-MCP trading engine with simulation-first risk contro
 | --- | --- |
 | Original template | https://x.ai/bot/WTd-yU3XMIYsnOyshabfl |
 | Creator | Robbie Westerman ([@WestermanRobbie](https://x.com/WestermanRobbie)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/robinhood-trading-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/robinhood-trading-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/robinhood-trading-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Homeschool LABS organizes logs, classroom work, research, and records. WhatsApp-
 | --- | --- |
 | Original template | https://x.ai/bot/I3olJygMVhXrsyDgIZTOI |
 | Creator | azy2 ([@Mast3rChief_117](https://x.com/Mast3rChief_117)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/homeschool-labs), [grokbothq.xyz](https://grokbothq.xyz/bots/homeschool-labs), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/Mast3rChief_117/status/2100095181814911178) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

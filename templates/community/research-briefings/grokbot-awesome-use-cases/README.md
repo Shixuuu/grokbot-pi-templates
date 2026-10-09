@@ -6,7 +6,7 @@ Daily morning recs from grokbot.dev/agent. News first, max 5, cites URLs. Never 
 | --- | --- |
 | Original template | https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj |
 | Creator | Andrej Šimunaj ([@scheemunai](https://x.com/scheemunai)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grokbot-awesome-use-cases), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-use-case-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/grokbot-awesome-use-cases), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-use-case-scout), [x-research](https://x.com/scheemunai/status/2093397994263515578) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 0 memory seeds, 0 connectors |

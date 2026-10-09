@@ -6,7 +6,7 @@ Takes recent public headlines and shows two serious good-faith readings of each 
 | --- | --- |
 | Original template | https://x.ai/bot/vKZRklu07uF34Ut9XzMxt |
 | Creator | Brian ([@BrianRoemmele](https://x.com/BrianRoemmele)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/news-honestly), [grokbotwiki.com](https://www.grokbotwiki.com/bots/news-honestly), [grokbothq.xyz](https://grokbothq.xyz/bots/news-honestly), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/news-honestly), [x-research](https://x.com/BrianRoemmele/status/2105082628420632647) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

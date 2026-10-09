@@ -6,7 +6,7 @@ Weekday scan of your sent mail for unanswered outbound threads: short status plu
 | --- | --- |
 | Original template | https://x.ai/bot/ylBNvuYu7IDolbSmmKHUU |
 | Creator | Mike Mosley ([@DoonerDesigns_](https://x.com/DoonerDesigns_)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/follow-up-nudge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/meeting-prep-ylbn), [grokbothq.xyz](https://grokbothq.xyz/bots/follow-up-nudge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/DoonerDesigns_/status/2104008674658459670) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

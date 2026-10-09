@@ -6,7 +6,7 @@ Marie Kondo for a Mac. Screenshots into month folders, Downloads sorted, Gmail n
 | --- | --- |
 | Original template | https://x.ai/bot/Kki8WwXYkmKYfr1IY2ABA |
 | Creator | vandy meares |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/Kki8WwXYkmKYfr1IY2ABA) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 1 connectors |

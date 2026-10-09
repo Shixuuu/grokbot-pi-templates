@@ -6,7 +6,7 @@ Sorts your messages into Reply, Delegate, Schedule, and FYI lanes with quoted as
 | --- | --- |
 | Original template | https://x.ai/bot/sorr-1islctx7u4yibg3y |
 | Creator | Cypher Monkey |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inbox-triage-desk-sorr), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/inbox-triage-desk-sorr) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

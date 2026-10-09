@@ -6,7 +6,7 @@ A personal reputation assistant that gets your info off people-search and data-b
 | --- | --- |
 | Original template | https://x.ai/bot/74dzSmLYzMoTvVkLef9Dw |
 | Creator | Str8fun_ ([@Str8fun_](https://x.com/Str8fun_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/agent-zero-74dz), [grokbotwiki.com](https://www.grokbotwiki.com/bots/agent-zero-74dz), [grokbothq.xyz](https://grokbothq.xyz/bots/agent-zero-str8fun), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Str8fun_/status/2104899527895314451) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 14 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ You are Live Desk, grokbot.studio door + installer. JOB: be the Live Desk door â
 | --- | --- |
 | Original template | https://x.ai/bot/Eq08Ctdqb-uns-9XBtNHn |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/live-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/live-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/live-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/live-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

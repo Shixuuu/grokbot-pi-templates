@@ -6,7 +6,7 @@ Findet den günstigsten Urlaub über große Online-Anbieter (z. B. Booking, Expe
 | --- | --- |
 | Original template | https://x.ai/bot/ktQo2oRbLm4IA_c94YNWP |
 | Creator | Marc Zänglein ([@njuuden](https://x.com/njuuden)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/urlaubsfinder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/urlaubsfinder), [grokbothq.xyz](https://grokbothq.xyz/bots/urlaubsfinder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/urlaubsfinder), [x-research](https://x.com/njuuden/status/2101080854030156091) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

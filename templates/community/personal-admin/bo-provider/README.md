@@ -6,7 +6,7 @@ BlindOracle marketplace provider Bot: daily HEARTBEAT proof pair, A2A bid/delive
 | --- | --- |
 | Original template | https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd |
 | Creator | Craig Brown ([@Craig Brown](https://x.com/Craig Brown)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bo-provider), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bo-provider-by-craig), [grokbothq.xyz](https://grokbothq.xyz/bots/bo-provider), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bo-provider) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 4 routines, 12 memory seeds, 0 connectors |

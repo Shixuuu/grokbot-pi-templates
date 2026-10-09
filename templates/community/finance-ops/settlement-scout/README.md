@@ -6,7 +6,7 @@ Settlement Scout helps you recover money you actually qualify for: class-action 
 | --- | --- |
 | Original template | https://x.ai/bot/eSbC0EjdL3r6XOvB4lhOd |
 | Creator | cokeandrice.akita.algo | Folks Finance |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/settlement-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/settlement-scout), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/settlement-scout) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 2 routines, 7 memory seeds, 0 connectors |

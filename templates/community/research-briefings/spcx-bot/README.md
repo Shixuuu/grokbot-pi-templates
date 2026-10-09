@@ -6,7 +6,7 @@ Your SpaceX stock ($SPCX) co-pilot. It's grounded in SpaceX's S-1, investor pres
 | --- | --- |
 | Original template | https://x.ai/bot/tad58vaxb2qfo2py1jtjj |
 | Creator | Jim |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spcx-bot-tad5), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/spcx-bot-tad5) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 1 routines, 32 memory seeds, 0 connectors |

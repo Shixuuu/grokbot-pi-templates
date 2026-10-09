@@ -6,7 +6,7 @@ Drop a YouTube, Instagram, TikTok, or X link — get a clean transcript (plain t
 | --- | --- |
 | Original template | https://x.ai/bot/wC622hEnAgGY5AHK9z205 |
 | Creator | habib khan ([@reachhabib](https://x.com/reachhabib)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/video-transcriber), [botsdots.site](https://botsdots.site/templates/video-transcriber), [grokbotwiki.com](https://www.grokbotwiki.com/bots/video-transcriber), [grokbothq.xyz](https://grokbothq.xyz/bots/video-transcriber), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/video-transcriber), [x-research](https://x.com/reachhabib/status/2097039920986274043) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 1 routines, 8 memory seeds, 0 connectors |

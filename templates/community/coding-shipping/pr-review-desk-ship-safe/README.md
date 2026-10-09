@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/5tp4v8_z22sur9bij_9wa |
 | Creator | Cypher Monkey |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pr-review-desk-ship-safe-5tp4), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/pr-review-desk-ship-safe-5tp4) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

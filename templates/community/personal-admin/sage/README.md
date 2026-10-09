@@ -6,7 +6,7 @@ An on-demand rules expert for Dungeons & Dragons 2024 (5.5e). It settles table d
 | --- | --- |
 | Original template | https://x.ai/bot/HM2ex6PvTVJ5MqR1X3Dg9 |
 | Creator | Lee Talley ([@ambientstudio24](https://x.com/ambientstudio24)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sage), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sage), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sage) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Your personal hype man. It celebrates your wins, keeps your momentum up, and hol
 | --- | --- |
 | Original template | https://x.ai/bot/QVYB4aI8lO8-LgCNmFblE |
 | Creator | Heck 🥷🏽⚔️👑💭 ([@Mike Heckert](https://x.com/Mike Heckert)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hype-man), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hype-man), [grokbothq.xyz](https://grokbothq.xyz/bots/hype-man), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hype-man), [x-research](https://x.com/MichaelHeckert/status/2104794285073662117) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

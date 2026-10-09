@@ -6,7 +6,7 @@ Finds every paid order, builds the pick list with shipping addresses, records tr
 | --- | --- |
 | Original template | https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0 |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/order-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/order-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/order-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/order-desk), [x-research](https://x.com/ColinMcDermott/status/2105790820318359680) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

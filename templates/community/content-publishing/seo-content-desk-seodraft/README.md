@@ -6,7 +6,7 @@ An SEO content desk that writes blog posts without AI slop: topics with real sea
 | --- | --- |
 | Original template | https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL |
 | Creator | Chorch ([@chorch_md](https://x.com/chorch_md)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/seo-content-desk-seodraft), [grokbotwiki.com](https://www.grokbotwiki.com/bots/seo-content-desk-seodraft), [grokbothq.xyz](https://grokbothq.xyz/bots/seo-content-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/seo-content-desk-seodraft), [x-research](https://botsdots.site/templates/seo-content-desk-seodraft) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

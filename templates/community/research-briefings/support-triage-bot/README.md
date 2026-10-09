@@ -6,7 +6,7 @@ Triage customer support into Linear: retitle in-app feedback, file factual ticke
 | --- | --- |
 | Original template | https://x.ai/bot/CIU6taZ7CkhsJZlCK9ps9 |
 | Creator | Stephen Nielsen ([@IamSt3ph3n](https://x.com/IamSt3ph3n)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/support-triage-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/support-triage-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/support-triage-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/support-triage-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 6 memory seeds, 3 connectors |

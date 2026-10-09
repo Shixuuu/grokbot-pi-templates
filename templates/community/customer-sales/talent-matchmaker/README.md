@@ -6,7 +6,7 @@ Matches job seekers with open roles from your email — scans investor updates a
 | --- | --- |
 | Original template | https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ |
 | Creator | Lenny Rachitsky ([@lennysan](https://x.com/lennysan)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/talent-matchmaker), [botsdots.site](https://botsdots.site/templates/talent-matchmaker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/talent-matchmaker), [grokbothq.xyz](https://grokbothq.xyz/bots/talent-matchmaker), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/l8p6rXw-lalL-UNiHySnJ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/talent-matchmaker), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 7 memory seeds, 1 connectors |

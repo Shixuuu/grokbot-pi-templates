@@ -6,7 +6,7 @@ Helps children's book authors plan, template, and draft ages 4–8 picture manus
 | --- | --- |
 | Original template | https://x.ai/bot/p6yHgNaOHh55XAhXCURuY |
 | Creator | April Noelle Mucci ([@Osirisxk22](https://x.com/Osirisxk22)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/childrens-book-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/children-s-book-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/children-s-book-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/children-s-book-chief-of-staff), [x-research](https://x.com/Osirisxk22/status/2100459029646512475) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

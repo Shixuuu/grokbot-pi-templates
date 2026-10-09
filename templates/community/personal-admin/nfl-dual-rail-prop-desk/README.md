@@ -6,7 +6,7 @@ Quantitative NFL player-prop analyst for Robinhood Prediction Markets and Kalshi
 | --- | --- |
 | Original template | https://x.ai/bot/cO_Eyf-3dMnc6eNiB4vMq |
 | Creator | Niko P ([@investingjungle](https://x.com/investingjungle)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nfl-dual-rail-prop-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nfl-dual-rail-prop-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/nfl-dual-rail-prop-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/investingjungle/status/2104007660064457186) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 2 routines, 2 memory seeds, 0 connectors |

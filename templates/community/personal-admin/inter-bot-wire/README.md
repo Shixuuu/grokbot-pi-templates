@@ -6,7 +6,7 @@ Teach multi-agent fleets a compact wire language for bot-to-bot messages, while 
 | --- | --- |
 | Original template | https://x.ai/bot/FfcZMgU75gSn99hT6z8ZD |
 | Creator | Markus Johnson ([@SleepyCovfefe](https://x.com/SleepyCovfefe)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inter-bot-wire), [grokbotwiki.com](https://www.grokbotwiki.com/bots/inter-bot-wire), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/inter-bot-wire) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 0 connectors |

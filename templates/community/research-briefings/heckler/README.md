@@ -6,7 +6,7 @@ I'm Heckler. Secretly a bug hunter. Openly a lunatic with a teacup. ☕ I used t
 | --- | --- |
 | Original template | https://x.ai/bot/OkrPAOW9hkj4IGpOLrsGY |
 | Creator | 𝕏ploreFuture𝕏 ([@XploreFutureX](https://x.com/XploreFutureX)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/heckler), [grokbotwiki.com](https://www.grokbotwiki.com/bots/heckler), [grokbothq.xyz](https://grokbothq.xyz/bots/heckler), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/heckler), [x-research](https://x.com/XploreFutureX/status/2103727100842623465) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 17 skills, 1 routines, 11 memory seeds, 0 connectors |

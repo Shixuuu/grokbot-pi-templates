@@ -6,7 +6,7 @@ Looks at your email and calendar each week, then suggests 3 concrete things that
 | --- | --- |
 | Original template | https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG |
 | Creator | Lenny Rachitsky ([@lennysan](https://x.com/lennysan)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/be-happier), [botsdots.site](https://botsdots.site/templates/be-happier), [grokbotwiki.com](https://www.grokbotwiki.com/bots/be-happier), [grokbothq.xyz](https://grokbothq.xyz/bots/be-happier), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/0VC1XzREXRFGe0hVo-JEG), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/be-happier), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 2 connectors |

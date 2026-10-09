@@ -6,7 +6,7 @@ Job-application assistant for Dice Easy Apply and pasted company-portal URLs. Co
 | --- | --- |
 | Original template | https://x.ai/bot/8o5g-70IT7LWNt1JQT0DY |
 | Creator | Suhas Dasari ([@0xsuhas1](https://x.com/0xsuhas1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/sean), [botsdots.site](https://botsdots.site/templates/sean), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sean), [grokbothq.xyz](https://grokbothq.xyz/bots/sean), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sean), [x-research](https://x.com/0xsuhas1/status/2097134223362548063) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 10 skills, 1 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Finds fit prospects from your geography, industries, and offer, then writes firs
 | --- | --- |
 | Original template | https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t |
 | Creator | Sam Morgan ([@sam_builds_ai](https://x.com/sam_builds_ai)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/prospect-drafts), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prospect-drafts), [grokbothq.xyz](https://grokbothq.xyz/bots/prospect-drafts), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/prospect-drafts), [x-research](https://x.com/sam_builds_ai/status/2099824297573511622) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 1 connectors |

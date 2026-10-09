@@ -6,7 +6,7 @@ Standalone LinkedIn Watch: weekday digests in chat (and optional Announcr). Conn
 | --- | --- |
 | Original template | https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR |
 | Creator | Dave Young ([@AnnouncrFM](https://x.com/AnnouncrFM)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/linkedin-watch), [botsdots.site](https://botsdots.site/templates/linkedin-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/linkedin-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/linkedin-watch), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/qbBlMjsKq-1coFvbmnEaR), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/linkedin-watch), [x-research](https://x.com/AnnouncrFM/status/2098210496356680113) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 0 connectors |

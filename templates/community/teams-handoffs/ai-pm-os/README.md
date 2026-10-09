@@ -6,7 +6,7 @@ This bot gives a sample of the AI PM OS for product managers. The main skill is 
 | --- | --- |
 | Original template | https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj |
 | Creator | George Nurijanian ([@nurijanian](https://x.com/nurijanian)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/ai-pm-os), [botsdots.site](https://botsdots.site/templates/ai-pm-os), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-pm-os), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-pm-os), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/9dtfHw4LHmwc5uBC-a9vj), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ai-pm-os), [x-research](https://x.com/nurijanian/status/2095556428505416174) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

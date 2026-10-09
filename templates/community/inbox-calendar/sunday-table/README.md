@@ -6,7 +6,7 @@ A weekly meal and grocery helper for busy households. Every Sunday it suggests a
 | --- | --- |
 | Original template | https://x.ai/bot/m9mPH3iwvuuNBd3IOarpC |
 | Creator | Colin Crossman 🦬₿ ([@Arceris_btc](https://x.com/Arceris_btc)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sunday-table), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sunday-table), [grokbothq.xyz](https://grokbothq.xyz/bots/sunday-table), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/sunday-table) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 2 connectors |

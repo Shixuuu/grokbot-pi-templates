@@ -6,7 +6,7 @@ A witty, warm AI companion that remembers you. It banters, tells jokes, and has 
 | --- | --- |
 | Original template | https://x.ai/bot/RTQ5cLf2WeWJPyjD8YSWr |
 | Creator | david eden ([@goonieai](https://x.com/goonieai)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/goonie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/goonie), [grokbothq.xyz](https://grokbothq.xyz/bots/goonie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/goonieai/status/2102902383114379743) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 9 skills, 0 routines, 4 memory seeds, 0 connectors |

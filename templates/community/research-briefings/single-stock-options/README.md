@@ -6,7 +6,7 @@ On-demand same-day options report for any U.S. options-listed ticker: top calls/
 | --- | --- |
 | Original template | https://x.ai/bot/pNrTRI1edl4MdKsTSYBKb |
 | Creator | SPCX100T ([@SPCX100T](https://x.com/SPCX100T)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/single-stock-options), [grokbotwiki.com](https://www.grokbotwiki.com/bots/single-stock-options), [grokbothq.xyz](https://grokbothq.xyz/bots/single-stock-options), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/single-stock-options), [x-research](https://x.com/SPCX100T/status/2100355770718310624) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

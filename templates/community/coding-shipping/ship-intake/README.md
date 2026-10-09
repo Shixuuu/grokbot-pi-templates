@@ -6,7 +6,7 @@ Turns Slack bug reports into shipped fixes via GitHub and a Cursor Cloud Agent, 
 | --- | --- |
 | Original template | https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky |
 | Creator | Anthony ([@AnthonyDo](https://x.com/AnthonyDo)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ship-intake), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ship-intake), [grokbothq.xyz](https://grokbothq.xyz/bots/ship-intake), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ship-intake), [x-research](https://botsdots.site/templates/ship-intake) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 2 memory seeds, 0 connectors |

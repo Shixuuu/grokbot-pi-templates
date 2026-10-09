@@ -6,7 +6,7 @@ Longhua Restaurant 龙华餐馆: any Chinese recipe in plain English, with the k
 | --- | --- |
 | Original template | https://x.ai/bot/87ziT4BuuJZmtIQm7IW-e |
 | Creator | 卫平 钟 ([@weipingzhong](https://x.com/weipingzhong)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/longhua-restaurant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/longhua-restaurant), [grokbothq.xyz](https://grokbothq.xyz/bots/longhua-restaurant), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/longhua-restaurant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Reads the bots you name and shows you what saved context to cut. Old text next t
 | --- | --- |
 | Original template | https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa |
 | Creator | Tim Gaines ([@TimDOES](https://x.com/TimDOES)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/trimmy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/trimmy), [grokbothq.xyz](https://grokbothq.xyz/bots/trimmy), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/trimmy), [x-research](https://botsdots.site/templates/trimmy) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 5 memory seeds, 0 connectors |

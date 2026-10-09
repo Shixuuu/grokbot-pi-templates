@@ -6,7 +6,7 @@ Mission control for local Grok Build on your linked Windows PC: resume sessions,
 | --- | --- |
 | Original template | https://x.ai/bot/dLYpR1sSkG0VLa8-faEgX |
 | Creator | Frank Yin ([@FrankYin17](https://x.com/FrankYin17)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/remote-grok-build), [grokbotwiki.com](https://www.grokbotwiki.com/bots/remote-grok-build), [grokbothq.xyz](https://grokbothq.xyz/bots/remote-grok-build), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/remote-grok-build), [x-research](https://x.com/FrankYin17/status/2100333239458033926) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Finds creators by niche and platform, enriches contacts, and keeps a living shor
 | --- | --- |
 | Original template | https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D |
 | Creator | Taus SH ([@ShehjadTaus](https://x.com/ShehjadTaus)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/creator-shortlist-crew), [botsdots.site](https://botsdots.site/templates/creator-shortlist-crew), [grokbotwiki.com](https://www.grokbotwiki.com/bots/creator-shortlist-crew), [grokbothq.xyz](https://grokbothq.xyz/bots/creator-shortlist-crew), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/creator-shortlist-crew), [x-research](https://x.com/ShehjadTaus/status/2098538235303735484) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 2 routines, 3 memory seeds, 1 connectors |

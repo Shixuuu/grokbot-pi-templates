@@ -6,7 +6,7 @@ Writes hooks and full spoken scripts for Reels, Shorts, TikTok, and long-form Yo
 | --- | --- |
 | Original template | https://x.ai/bot/Hj01jL8dJIkTGPWS3VcMM |
 | Creator | Jeroen Erne |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-script-writer), [grokbothq.xyz](https://grokbothq.xyz/bots/video-script-writer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/video-script-writer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

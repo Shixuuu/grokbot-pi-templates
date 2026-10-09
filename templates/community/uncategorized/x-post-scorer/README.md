@@ -6,7 +6,7 @@ Paste a draft or drop a link to a live X post and get a score out of 10 for hook
 | --- | --- |
 | Original template | https://x.ai/bot/Onn5fkAfkSacQgleFIIK- |
 | Creator | Thomas Ferriere |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/Tferriere/status/2108428464399532509) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

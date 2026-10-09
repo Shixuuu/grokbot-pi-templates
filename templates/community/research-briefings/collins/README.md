@@ -6,7 +6,7 @@ A daily catechism drill from Hercules Collins's An Orthodox Catechism (1680). Se
 | --- | --- |
 | Original template | https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3 |
 | Creator | Zach Miller ([@zachmllr](https://x.com/zachmllr)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/collins), [grokbotwiki.com](https://www.grokbotwiki.com/bots/collins), [grokbothq.xyz](https://grokbothq.xyz/bots/collins), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/D6lddHs6lfM0k7Cj3P6j3), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/collins), [x-research](https://botsdots.site/templates/collins) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Weekly waiver targets, start/sit calls, and trade reads for your fantasy footbal
 | --- | --- |
 | Original template | https://x.ai/bot/dm-9k4LHCw5SgKMskSWuM |
 | Creator | George Zikry ([@gzikry](https://x.com/gzikry)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-football-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fantasy-football-coach) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 2 routines, 1 memory seeds, 0 connectors |

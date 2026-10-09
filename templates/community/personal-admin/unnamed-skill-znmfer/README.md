@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/znMFERdq0zEC74735Szxm |
 | Creator | Brandon Chung ([@brandonchung75](https://x.com/brandonchung75)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/toss-securities-open-api-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/toss-securities-open-api-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/by-brandon-znMFERdq), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Shoshkin/status/2096238673440153637) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

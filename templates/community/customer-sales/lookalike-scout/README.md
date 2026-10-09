@@ -6,7 +6,7 @@ Turns one seed company into lookalike accounts and verified decision-makers for 
 | --- | --- |
 | Original template | https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI |
 | Creator | Taus SH ([@ShehjadTaus](https://x.com/ShehjadTaus)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/lookalike-scout), [botsdots.site](https://botsdots.site/templates/lookalike-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lookalike-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/lookalike-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lookalike-scout), [x-research](https://x.com/ShehjadTaus/status/2098538235303735484) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 2 routines, 3 memory seeds, 1 connectors |

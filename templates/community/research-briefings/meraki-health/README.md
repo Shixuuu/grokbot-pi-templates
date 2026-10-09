@@ -6,7 +6,7 @@ Read-only health checks, quiet monitoring and weekly digests for your Cisco Mera
 | --- | --- |
 | Original template | https://x.ai/bot/6jV9JYRKSoq4aaV-r-JvT |
 | Creator | Lee Van ([@iamleevg](https://x.com/iamleevg)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/meraki-health), [grokbotwiki.com](https://www.grokbotwiki.com/bots/meraki-health), [grokbothq.xyz](https://grokbothq.xyz/bots/meraki-health), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/iamleevg/status/2104040572373614717) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

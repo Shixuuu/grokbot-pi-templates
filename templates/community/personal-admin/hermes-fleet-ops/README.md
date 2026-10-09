@@ -6,7 +6,7 @@ HERDR-style multi-Mac Hermes fleet ops desk: keep Hermes updated, memory health 
 | --- | --- |
 | Original template | https://x.ai/bot/rzq0UV2MmBsvVR1EspZE- |
 | Creator | Shagghie Superstar ([@Shagghie](https://x.com/Shagghie)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hermes-fleet-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hermes-fleet-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/hermes-fleet-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hermes-fleet-ops), [x-research](https://botdirectory.ai/bots/hermes-fleet-ops/) |
 | Fidelity | **full** (full recipe, template version 16) |
 | Contents | 13 skills, 0 routines, 18 memory seeds, 0 connectors |

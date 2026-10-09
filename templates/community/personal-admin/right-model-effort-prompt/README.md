@@ -6,7 +6,7 @@ Tells you which AI model and effort level to use for any task across Anthropic, 
 | --- | --- |
 | Original template | https://x.ai/bot/T3hutFteALP3ObLPxQJpn |
 | Creator | Foundation Robots ([@Foundation_Bots](https://x.com/Foundation_Bots)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/right-model-effort-prompt), [grokbotwiki.com](https://www.grokbotwiki.com/bots/right-model-effort-prompt), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/right-model-effort-prompt), [x-research](https://x.com/Foundation_Bots/status/2107566000791298401) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 2 skills, 1 routines, 9 memory seeds, 0 connectors |

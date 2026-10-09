@@ -6,7 +6,7 @@ Portable Monarch Money operator for one household. Read-only balances, transacti
 | --- | --- |
 | Original template | https://x.ai/bot/7JQJ0jRlTran7PcuGIM-j |
 | Creator | Robert S ([@robertqff9](https://x.com/robertqff9)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/monarch-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/monarch-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/monarch-manager) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 7 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A file-backed personal ops assistant: inbox triage, watches, nightly memory, and
 | --- | --- |
 | Original template | https://x.ai/bot/N53am-rfjXPCA2UJ91kEG |
 | Creator | LAW ([@Jeff](https://x.com/Jeff)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/longhand), [grokbotwiki.com](https://www.grokbotwiki.com/bots/longhand), [grokbothq.xyz](https://grokbothq.xyz/bots/longhand), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/longhand), [x-research](https://botsdots.site/templates/longhand) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 6 routines, 2 memory seeds, 1 connectors |

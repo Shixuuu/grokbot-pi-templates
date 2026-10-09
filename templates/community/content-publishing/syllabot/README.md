@@ -6,7 +6,7 @@ Syllabot helps you build and manage courses on Kajabi. A user-built tool, not an
 | --- | --- |
 | Original template | https://x.ai/bot/uLaiAPTZzDV7vfptofUov |
 | Creator | Dave Gambrill ([@gambrill](https://x.com/gambrill)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/syllabot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/syllabot), [grokbothq.xyz](https://grokbothq.xyz/bots/syllabot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/syllabot), [x-research](https://botsdots.site/templates/syllabot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 11 memory seeds, 0 connectors |

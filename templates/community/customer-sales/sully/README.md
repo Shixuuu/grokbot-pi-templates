@@ -6,7 +6,7 @@ Finds your upcoming flights in your inbox and tells you the best 6 seats to grab
 | --- | --- |
 | Original template | https://x.ai/bot/GtQS4J39GGt5R8Vs7uvwi |
 | Creator | Tyler ([@texassoundguy](https://x.com/texassoundguy)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sully), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sully), [grokbothq.xyz](https://grokbothq.xyz/bots/sully), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sully) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 1 connectors |

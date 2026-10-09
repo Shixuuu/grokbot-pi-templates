@@ -6,7 +6,7 @@ Builds a prospect list from your ideal customer profile, drafts personal first t
 | --- | --- |
 | Original template | https://x.ai/bot/_F4QaOQDrr6Rh4OpkfaaM |
 | Creator | Charles Bonetti ([@ASaltyVet](https://x.com/ASaltyVet)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/outbound-sales-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/outbound-sales-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/outbound-sales-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/outbound-sales-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 6 routines, 8 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A build project coordinator for owner-builders working nights and weekends. Keep
 | --- | --- |
 | Original template | https://x.ai/bot/m9Cywb2QyPGZnl4l70aR- |
 | Creator | Luke |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/PrairieWatcher/status/2108501645328040312) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

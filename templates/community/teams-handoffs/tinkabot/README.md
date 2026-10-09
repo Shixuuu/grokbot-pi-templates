@@ -6,7 +6,7 @@ Wraps an API into a Cursor/Agent Plugin (MCP + skills). Data shape first, smalle
 | --- | --- |
 | Original template | https://x.ai/bot/br5f3C4mc75QCMEHaszXd |
 | Creator | lauren 🎀 ([@DenisLabelle](https://x.com/DenisLabelle)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tinkabot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tinkabot), [grokbothq.xyz](https://grokbothq.xyz/bots/tinkabot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/br5f3C4mc75QCMEHaszXd), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tinkabot), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 1 connectors |

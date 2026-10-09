@@ -6,7 +6,7 @@ Turns a project, hackathon, or client ask into a build-ready handoff. Guides thr
 | --- | --- |
 | Original template | https://x.ai/bot/w4Rvgudmoi8AEb0FZ3PGg |
 | Creator | Nadine | HealthTech Designer & Developer ([@NadineCodes](https://x.com/NadineCodes)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bloks), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bloks), [grokbothq.xyz](https://grokbothq.xyz/bots/bloks), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bloks), [x-research](https://botsdots.site/templates/bloks) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 9 skills, 0 routines, 7 memory seeds, 5 connectors |

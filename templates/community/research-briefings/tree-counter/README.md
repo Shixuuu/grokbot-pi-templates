@@ -6,7 +6,7 @@ Counts street trees from Google Street View and compares them to city inventory 
 | --- | --- |
 | Original template | https://x.ai/bot/GUoroKpfPq-CLL_206JzT |
 | Creator | wreinhardt ([@wreinhardt](https://x.com/wreinhardt)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tree-counter), [grokbothq.xyz](https://grokbothq.xyz/bots/tree-counter), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/tree-counter) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

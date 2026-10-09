@@ -6,7 +6,7 @@ Scans your watchlist for 9 EMA pullback setups and writes a finished order ticke
 | --- | --- |
 | Original template | https://x.ai/bot/QgvPQkHy3RwHJ7pPcKdPG |
 | Creator | Right Wing Inkorporated ([@rightwingink1](https://x.com/rightwingink1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/9-ema-grok-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/9-ema-pullback), [grokbothq.xyz](https://grokbothq.xyz/bots/9-ema-grok-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/9-ema-grok-bot), [x-research](https://x.com/rightwingink1/status/2104280077555179887) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

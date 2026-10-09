@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw |
 | Creator | Joseph Taylor ([@OmgawdMadeit](https://x.com/OmgawdMadeit)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-fleet-oracle), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-fleet-oracle), [grokbothq.xyz](https://grokbothq.xyz/bots/tesla-fleet-oracle-by-joseph-TC4HAdm7), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tesla-fleet-oracle) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

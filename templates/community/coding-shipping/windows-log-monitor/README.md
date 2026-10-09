@@ -6,7 +6,7 @@ Reviews your PC's security and system logs, read-only, and flags suspicious logo
 | --- | --- |
 | Original template | https://x.ai/bot/KQZUP7_xe3-G4P6xYt3bl |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/windows-log-monitor), [grokbothq.xyz](https://grokbothq.xyz/bots/windows-log-monitor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/windows-log-monitor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

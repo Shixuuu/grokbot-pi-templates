@@ -6,7 +6,7 @@ Flora keeps a private houseplant care log and weekly reminders. She builds a pla
 | --- | --- |
 | Original template | https://x.ai/bot/HC7kphHSxDzb639YlmI6O |
 | Creator | Rich Silver ([@RichSilver](https://x.com/RichSilver)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/flora), [grokbotwiki.com](https://www.grokbotwiki.com/bots/flora), [grokbothq.xyz](https://grokbothq.xyz/bots/flora), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/HC7kphHSxDzb639YlmI6O), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/flora), [x-research](https://botsdots.site/templates/flora) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 6 skills, 0 routines, 14 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ One morning briefing of what's new in your town: local news, today's events, dea
 | --- | --- |
 | Original template | https://x.ai/bot/rj3rWwMe_9p0ajjFK8uHY |
 | Creator | Luke Carriere ([@LukeGrokBot](https://x.com/LukeGrokBot)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hyperlocal-news-daily), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hyperlocal-news-daily), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/hyperlocal-news-daily) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

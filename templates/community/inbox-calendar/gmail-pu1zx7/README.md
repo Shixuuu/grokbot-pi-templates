@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT |
 | Creator | UNSER Tomy ([@Tomoya_MovieEdt](https://x.com/Tomoya_MovieEdt)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gmail-pu1z), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gmail-pu1z), [grokbothq.xyz](https://grokbothq.xyz/bots/gmail-morning-sort-jp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gmail-morning-sorter), [x-research](https://botsdots.site/templates/gmail-pu1z) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 1 connectors |

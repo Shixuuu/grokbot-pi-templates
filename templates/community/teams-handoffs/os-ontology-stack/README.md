@@ -6,7 +6,7 @@ An operational model of your organization that finds and resolves bottlenecks ac
 | --- | --- |
 | Original template | https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD |
 | Creator | Damiano Redemagni ([@damianoredem](https://x.com/damianoredem)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/os-ontology-stack), [grokbotwiki.com](https://www.grokbotwiki.com/bots/os-ontology-stack), [grokbothq.xyz](https://grokbothq.xyz/bots/os-ontology-stack), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/os-ontology-stack), [x-research](https://botsdots.site/templates/os-ontology-stack) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 11 skills, 6 routines, 7 memory seeds, 14 connectors |

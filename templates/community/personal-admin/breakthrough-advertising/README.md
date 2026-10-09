@@ -6,7 +6,7 @@ Helps you write ads and campaigns that grab attention and sell. Tell it your pro
 | --- | --- |
 | Original template | https://x.ai/bot/NZkRCKrLi2JqqjKKjaJ2O |
 | Creator | Joe ([@CardCaptain](https://x.com/CardCaptain)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/breakthrough-advertising), [grokbotwiki.com](https://www.grokbotwiki.com/bots/breakthrough-advertising), [grokbothq.xyz](https://grokbothq.xyz/bots/breakthrough-advertising), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/breakthrough-advertising), [x-research](https://botsdots.site/templates/breakthrough-advertising) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

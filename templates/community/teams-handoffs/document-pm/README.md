@@ -6,7 +6,7 @@ The Document closer of a Discover–Define–Design–Document product loop. Kee
 | --- | --- |
 | Original template | https://x.ai/bot/xheAbAQYQT4esSGc8B3xX |
 | Creator | Ash Naik ([@ashvinn](https://x.com/ashvinn)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/document-pm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/document-pm), [grokbothq.xyz](https://grokbothq.xyz/bots/document-pm), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/document-pm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

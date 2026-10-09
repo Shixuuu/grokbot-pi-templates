@@ -6,7 +6,7 @@ Coaches an FTC robotics skills program: training guides, knowledge quizzes, ment
 | --- | --- |
 | Original template | https://x.ai/bot/VmDWjRQam_YHnmwvQ9iuY |
 | Creator | Nick Zircher |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/VmDWjRQam_YHnmwvQ9iuY) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 13 memory seeds, 1 connectors |

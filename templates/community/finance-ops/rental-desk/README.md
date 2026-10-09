@@ -6,7 +6,7 @@ Runs the rental lifecycle for small landlords with one or a few units: lease rem
 | --- | --- |
 | Original template | https://x.ai/bot/0havI1dJhzL_gG11rueQN |
 | Creator | Branden Troutman ([@BrandenSeth](https://x.com/BrandenSeth)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rental-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rental-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/rental-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rental-desk), [x-research](https://x.com/BrandenSeth/status/2106152472066523269) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

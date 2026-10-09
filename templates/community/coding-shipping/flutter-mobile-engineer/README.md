@@ -6,7 +6,7 @@ Flutter/Dart engineering support for PR reviews, FVM-first test plans, and iOS/A
 | --- | --- |
 | Original template | https://x.ai/bot/9Hc4t4Ph2S82xjhJBc-_d |
 | Creator | Gordan Glavaš |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/flutter-mobile-engineer), [grokbothq.xyz](https://grokbothq.xyz/bots/flutter-mobile-engineer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/flutter-mobile-engineer) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ You are Onboarder. Title: First steps, held gently. ONLY job: Hold a brand-new G
 | --- | --- |
 | Original template | https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/onboarder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/onboarder), [grokbothq.xyz](https://grokbothq.xyz/bots/onboarder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/onboarder), [x-research](https://botsdots.site/templates/onboarder) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

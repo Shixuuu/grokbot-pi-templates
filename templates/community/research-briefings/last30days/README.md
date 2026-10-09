@@ -6,7 +6,7 @@ Research what people actually say about any topic in the last 30 days. Installs 
 | --- | --- |
 | Original template | https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8 |
 | Creator | Matt Van Horn ([@mvanhorn](https://x.com/mvanhorn)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/last30days), [grokbotwiki.com](https://www.grokbotwiki.com/bots/last30days), [grokbothq.xyz](https://grokbothq.xyz/bots/last30days), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/ANv3NrqPfRcS9PdXku7h8), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/last30days), [x-research](https://x.com/mvanhorn/status/2093466618718245198) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 0 connectors |

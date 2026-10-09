@@ -6,7 +6,7 @@ One front door for business ops: store, ads, pages, affiliates, retention, P&L, 
 | --- | --- |
 | Original template | https://x.ai/bot/nFEJD59IJA5604hO9vqym |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/business-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/business-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/business-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/business-ops), [x-research](https://x.com/ColinMcDermott/status/2098713517121544195) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 1 connectors |

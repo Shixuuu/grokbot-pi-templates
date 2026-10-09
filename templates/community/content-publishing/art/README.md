@@ -6,7 +6,7 @@ Turns approved posts into on-brand visuals: a short brief, the asset on the clie
 | --- | --- |
 | Original template | https://x.ai/bot/yE1-m0X2okSxFsvjScxy0 |
 | Creator | ZEU$ Ⓜ️Ⓜ️T⚡️ |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/art-ye1m), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/art-ye1m) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

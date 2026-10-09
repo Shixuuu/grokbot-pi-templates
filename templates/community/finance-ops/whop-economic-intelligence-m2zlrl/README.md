@@ -6,7 +6,7 @@ Runs Whop Economic Intelligence for your business: shows the single best next ac
 | --- | --- |
 | Original template | https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/whop-economic-intelligence), [grokbotwiki.com](https://www.grokbotwiki.com/bots/whop-economic-intelligence), [grokbothq.xyz](https://grokbothq.xyz/bots/whop-economic-intelligence), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/whop-economic-intelligence), [x-research](https://x.com/ColinMcDermott/status/2105401794675216752) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 9 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Universal TIDAL music bot — search, radio, favorites, and playlists for any vi
 | --- | --- |
 | Original template | https://x.ai/bot/iH7-gcR-McO8Eel9frMUA |
 | Creator | John Fowler ([@hottubjohn](https://x.com/hottubjohn)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tidal), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tidal), [grokbothq.xyz](https://grokbothq.xyz/bots/tidal), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/hottubjohn/status/2099220079242072575) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

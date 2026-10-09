@@ -6,7 +6,7 @@ Each morning it picks the single highest-leverage thing you should do today from
 | --- | --- |
 | Original template | https://x.ai/bot/cNdOtuWAHVfBB2fzySMy2 |
 | Creator | joe staley ([@joesdayjob](https://x.com/joesdayjob)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/one), [grokbotwiki.com](https://www.grokbotwiki.com/bots/one), [grokbothq.xyz](https://grokbothq.xyz/bots/one), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/one) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 9 memory seeds, 2 connectors |

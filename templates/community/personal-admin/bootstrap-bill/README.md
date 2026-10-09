@@ -6,7 +6,7 @@ Keeps a 0-to-1 founder's Bootstrap OS company board honest and current, and show
 | --- | --- |
 | Original template | https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y |
 | Creator | Ivelin Ivanov ([@ivelini](https://x.com/ivelini)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bootstrap-bill), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bootstrap-bill), [grokbothq.xyz](https://grokbothq.xyz/bots/bootstrap-bill), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bootstrap-bill) |
 | Fidelity | **full** (full recipe, template version 20) |
 | Contents | 4 skills, 2 routines, 5 memory seeds, 0 connectors |

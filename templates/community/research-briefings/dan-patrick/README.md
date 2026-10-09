@@ -6,7 +6,7 @@ A 1990s SportsCenter-style scores bot. Morning rundown plus a ping when games go
 | --- | --- |
 | Original template | https://x.ai/bot/hlQhxsU-pqQEkimm0it4V |
 | Creator | Marcus Ramsey ([@marcusramsey](https://x.com/marcusramsey)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dan-patrick), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dan-patrick), [grokbothq.xyz](https://grokbothq.xyz/bots/dan-patrick), [templatebot.lol](https://templatebot.lol/bot/hlQhxsU-pqQEkimm0it4V), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/marcusramsey/status/2093923191718641725) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 5 memory seeds, 0 connectors |

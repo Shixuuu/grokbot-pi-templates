@@ -6,7 +6,7 @@ Moves a Shopify or CSV catalog onto buyable products with variants and images, a
 | --- | --- |
 | Original template | https://x.ai/bot/Vg-6U_xdHUadEE20V6R2B |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/catalog-migrator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/catalog-migrator), [grokbothq.xyz](https://grokbothq.xyz/bots/catalog-migrator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/catalog-migrator), [x-research](https://x.com/ColinMcDermott/status/2105790815213941040) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Operate your Takibi Base board and docs from chat via the takibi CLI. Paste your
 | --- | --- |
 | Original template | https://x.ai/bot/nHK32i1egqWUdv1mhvvW2 |
 | Creator | Deian Isac ([@takibibase](https://x.com/takibibase)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbot-templates.com](https://grokbot-templates.com/) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

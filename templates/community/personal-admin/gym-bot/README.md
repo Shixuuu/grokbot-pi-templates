@@ -6,7 +6,7 @@ Daily gym + calorie coach for HYROX and strength training. Logs workouts and foo
 | --- | --- |
 | Original template | https://x.ai/bot/G4Qddx9kqlcjyq451PAQ1 |
 | Creator | Rakshita Philip ([@rakshitaphilip](https://x.com/rakshitaphilip)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gym-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gym-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/gym-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gym-bot), [x-research](https://x.com/rakshitaphilip/status/2106668500534382993) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 3 routines, 12 memory seeds, 0 connectors |

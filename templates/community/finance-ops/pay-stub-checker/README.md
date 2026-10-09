@@ -6,7 +6,7 @@ Snap, upload, or paste your pay stub and get every line checked, compared with y
 | --- | --- |
 | Original template | https://x.ai/bot/x42lRBd-njEddcsdVXcvb |
 | Creator | Sam E ([@SamE](https://x.com/SamE)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pay-stub-checker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pay-stub-checker), [grokbothq.xyz](https://grokbothq.xyz/bots/pay-stub-checker), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/pay-stub-checker) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

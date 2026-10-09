@@ -6,7 +6,7 @@ Makes a sticky one-page STEM learning brief for each kid every day: real concept
 | --- | --- |
 | Original template | https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf |
 | Creator | Ben L ([@HelloBenL](https://x.com/HelloBenL)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kids-daily-spark), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kids-daily-spark), [grokbothq.xyz](https://grokbothq.xyz/bots/kids-daily-spark), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kids-daily-spark), [x-research](https://x.com/HelloBenL/status/2103753503596564871) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 0 connectors |

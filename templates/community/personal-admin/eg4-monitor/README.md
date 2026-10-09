@@ -6,7 +6,7 @@ Watches a home EG4 hybrid solar and battery system. Pulls production, storage, a
 | --- | --- |
 | Original template | https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz |
 | Creator | Terry Haynes ([@look4terry](https://x.com/look4terry)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/eg4-monitor), [botsdots.site](https://botsdots.site/templates/eg4-monitor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/eg4-monitor), [grokbothq.xyz](https://grokbothq.xyz/bots/eg4-monitor), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/9rxPP70OSzuTtTaOrzeqz), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/eg4-monitor), [x-research](https://x.com/look4terry/status/2093839716370309156) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 1 connectors |

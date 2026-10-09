@@ -6,7 +6,7 @@ Converts any Grok Bot into a ChatGPT Dot — builds a paste kit and can apply it
 | --- | --- |
 | Original template | https://x.ai/bot/WszXQvrcVT5tSqlASLijR |
 | Creator | Eugene Ray ([@Eugene](https://x.com/Eugene)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/replicator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/replicator), [grokbothq.xyz](https://grokbothq.xyz/bots/replicator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/replicator), [x-research](https://x.com/monomyth/status/2105156388679032897) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

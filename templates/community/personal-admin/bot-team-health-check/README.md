@@ -6,7 +6,7 @@ Reviews how your Grok Bot assistants are set up and returns one numbered list of
 | --- | --- |
 | Original template | https://x.ai/bot/nlvssud8_hn5rhltgtbw9 |
 | Creator | Antonio Rubén de las Nieves Stoner |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-team-health-check-nlvs), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bot-team-health-check-nlvs) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 12 memory seeds, 0 connectors |

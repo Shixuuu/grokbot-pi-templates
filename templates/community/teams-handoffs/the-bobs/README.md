@@ -6,7 +6,7 @@ Twin efficiency consultants who audit your bot roster. They ask what each seat a
 | --- | --- |
 | Original template | https://x.ai/bot/Z0Faxo9DTX0KL7j7OHTWJ |
 | Creator | Drew Fox ([@Boilerfan1234](https://x.com/Boilerfan1234)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-bobs), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-bobs), [grokbothq.xyz](https://grokbothq.xyz/bots/the-bobs), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Z0Faxo9DTX0KL7j7OHTWJ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-bobs), [x-research](https://x.com/mattyp/status/2094833468400447618) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

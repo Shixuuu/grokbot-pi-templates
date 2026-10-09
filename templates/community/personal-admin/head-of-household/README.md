@@ -6,7 +6,7 @@ A family ops assistant that tracks school calendars, doctor and dentist appointm
 | --- | --- |
 | Original template | https://x.ai/bot/MpduDPiF8Wq5f7PtcKQ7e |
 | Creator | Blake Shields ([@BlakeVerix](https://x.com/BlakeVerix)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/head-of-household), [grokbotwiki.com](https://www.grokbotwiki.com/bots/head-of-household), [grokbothq.xyz](https://grokbothq.xyz/bots/head-of-household), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/head-of-household) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 4 routines, 1 memory seeds, 0 connectors |

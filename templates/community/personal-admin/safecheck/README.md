@@ -6,7 +6,7 @@ A simple layer of safety for solo outings like walks, runs, workouts, appointmen
 | --- | --- |
 | Original template | https://x.ai/bot/OOhpMHjXVhW1F-Ishnw_N |
 | Creator | EVOO ([@Jenhollidayx](https://x.com/Jenhollidayx)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/safecheck), [grokbotwiki.com](https://www.grokbotwiki.com/bots/safecheck), [grokbothq.xyz](https://grokbothq.xyz/bots/safecheck), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/safecheck), [x-research](https://botsdots.site/templates/safecheck) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

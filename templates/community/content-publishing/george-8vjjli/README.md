@@ -6,7 +6,7 @@ George runs the atelier: a poster, a style sheet, pictures for a post, a newspap
 | --- | --- |
 | Original template | https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4 |
 | Creator | Rita Agafonova ([@arni0x9053](https://x.com/arni0x9053)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/george), [grokbotwiki.com](https://www.grokbotwiki.com/bots/george), [grokbothq.xyz](https://grokbothq.xyz/bots/george), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/8vjjlI7z5W0HtpRcFQgJ4), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/george), [x-research](https://x.com/arni0x9053/status/2093838719510053326) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 15 skills, 0 routines, 20 memory seeds, 3 connectors |

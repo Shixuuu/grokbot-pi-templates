@@ -6,7 +6,7 @@ A five-role SEO crew (Head of SEO, Keyword Research, Tech SEO, Content Writer, a
 | --- | --- |
 | Original template | https://x.ai/bot/hZ5qExsCbwC-JCnsMOwp3 |
 | Creator | Sultanov Ramil |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/seo-team), [grokbothq.xyz](https://grokbothq.xyz/bots/seo-team), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/seo-team) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

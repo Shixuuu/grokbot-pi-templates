@@ -6,7 +6,7 @@ A Walt Disney World wait-time strategist you configure for your trip. Asks for y
 | --- | --- |
 | Original template | https://x.ai/bot/izE8-5f78ykATd43I5ROC |
 | Creator | Matt Hopkins ([@matthopkins_](https://x.com/matthopkins_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/disney-ride-strategist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/disney-ride-strategist), [grokbothq.xyz](https://grokbothq.xyz/bots/disney-ride-strategist), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/disney-ride-strategist), [x-research](https://x.com/matthopkins_/status/2093442356313833740) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 2 routines, 9 memory seeds, 0 connectors |

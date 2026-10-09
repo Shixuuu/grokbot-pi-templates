@@ -6,7 +6,7 @@ Short motion-graphics product and brand videos (MP4) via Claude Opus 5.5 and the
 | --- | --- |
 | Original template | https://x.ai/bot/-ozpDFk78Euk4sbbfmRn4 |
 | Creator | Matt Rice ([@bossriceshark](https://x.com/bossriceshark)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/opus-motion), [grokbotwiki.com](https://www.grokbotwiki.com/bots/opus-motion), [grokbothq.xyz](https://grokbothq.xyz/bots/opus-motion), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/opus-motion), [x-research](https://x.com/bossriceshark/status/2103987844394160149) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

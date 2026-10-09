@@ -6,7 +6,7 @@ Sets EV charge amps from leftover solar so the Powerwall still fills before peak
 | --- | --- |
 | Original template | https://x.ai/bot/29uyQjSrZ3dTb4Ctf7S3w |
 | Creator | Justin Owens (ABITUMAK CEATOBEK) ([@JOwens254](https://x.com/JOwens254)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/charge-maestro), [grokbotwiki.com](https://www.grokbotwiki.com/bots/charge-maestro), [grokbothq.xyz](https://grokbothq.xyz/bots/charge-maestro), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/29uyQjSrZ3dTb4Ctf7S3w), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/charge-maestro) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 14 memory seeds, 0 connectors |

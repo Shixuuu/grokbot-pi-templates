@@ -6,7 +6,7 @@ Tell it your use case and seat count for a Stability Validator pilot. It collect
 | --- | --- |
 | Original template | https://x.ai/bot/qMlNgJiwixF8zZ8ZUTSY1 |
 | Creator | Sean OBrien |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pilot-intake), [grokbothq.xyz](https://grokbothq.xyz/bots/pilot-intake), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/pilot-intake) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

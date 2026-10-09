@@ -6,7 +6,7 @@ Helps you grow on X with profile audits, soft-promo drafts, experiment tracking,
 | --- | --- |
 | Original template | https://x.ai/bot/aWkHxIeIU-Pqr7hDtl3Up |
 | Creator | Fish ([@FishxCD](https://x.com/FishxCD)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bigger-fish-x-grower-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bigger-fish-x-grower-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/bigger-fish-x-grower), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bigger-fish-x-grower-bot) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 5 skills, 0 routines, 3 memory seeds, 1 connectors |

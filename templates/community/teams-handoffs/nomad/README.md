@@ -6,7 +6,7 @@ Keeps an agent fleet portable. Live inventory of bots, connectors, skills, routi
 | --- | --- |
 | Original template | https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3 |
 | Creator | Pedro Anibarro ([@PedroAnibarro](https://x.com/PedroAnibarro)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/nomad), [botsdots.site](https://botsdots.site/templates/nomad), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nomad), [grokbothq.xyz](https://grokbothq.xyz/bots/nomad), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/nomad), [x-research](https://x.com/PedroAnibarro/status/2095095116142666116) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 0 connectors |

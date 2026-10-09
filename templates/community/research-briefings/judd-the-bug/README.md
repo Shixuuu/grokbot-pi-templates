@@ -6,7 +6,7 @@ Sentry research specialist. Investigates across MCP, the new sentry CLI, and the
 | --- | --- |
 | Original template | https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL |
 | Creator | Sergiy Dybskiy ([@sergical](https://x.com/sergical)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/judd-the-bug), [grokbotwiki.com](https://www.grokbotwiki.com/bots/judd-the-bug), [grokbothq.xyz](https://grokbothq.xyz/bots/judd-the-bug), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/judd-the-bug), [x-research](https://x.com/sergical/status/2098110240050798804) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 1 connectors |

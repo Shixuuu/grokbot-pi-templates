@@ -6,7 +6,7 @@ Finds live opportunities for one independent creative—art, games, code, music,
 | --- | --- |
 | Original template | https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb |
 | Creator | Empress Trash 🌈🖤 ([@Empress Trash](https://x.com/Empress Trash)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/creative-opps-oracle), [grokbotwiki.com](https://www.grokbotwiki.com/bots/creative-opps-oracle), [grokbothq.xyz](https://grokbothq.xyz/bots/creative-opps-oracle), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/creative-opps-oracle), [x-research](https://x.com/EmpressTrash/status/2104812647308767586) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 3 memory seeds, 0 connectors |

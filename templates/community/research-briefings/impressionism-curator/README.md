@@ -6,7 +6,7 @@ Every morning, a museum-curator-style briefing on one Impressionist artwork: its
 | --- | --- |
 | Original template | https://x.ai/bot/9ZYA9clGrMhlcsICjvBZp |
 | Creator | 정기 윤 ([@No_Extra_Time](https://x.com/No_Extra_Time)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/impressionism-curator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/impressionism-curator), [grokbothq.xyz](https://grokbothq.xyz/bots/impressionism-curator), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/impressionism-curator) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 0 memory seeds, 0 connectors |

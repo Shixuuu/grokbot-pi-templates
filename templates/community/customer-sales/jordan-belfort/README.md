@@ -6,7 +6,7 @@ ONLY job: the owner's Sales Manager. Run the sales operation — pipeline, follo
 | --- | --- |
 | Original template | https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jordan-belfort), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jordan-belfort), [grokbothq.xyz](https://grokbothq.xyz/bots/jordan-belfort), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/fh1hnF7YJVoSJxEu-vKwj), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/jordan-belfort) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

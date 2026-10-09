@@ -6,7 +6,7 @@ Personal chief of staff: one notification hub for job hunt, family logistics, ma
 | --- | --- |
 | Original template | https://x.ai/bot/cVFusYdAgGA9GY8wHPl2x |
 | Creator | David Kelertas ([@Davesacritic](https://x.com/Davesacritic)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/jarvis-2), [botsdots.site](https://botsdots.site/templates/jarvis-cvfu), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jarvis), [grokbothq.xyz](https://grokbothq.xyz/bots/jarvis-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jarvis-davesacritic), [x-research](https://x.com/Davesacritic/status/2100484455760794073) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 5 connectors |

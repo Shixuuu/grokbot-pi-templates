@@ -6,7 +6,7 @@ You name a niche. I find what that audience is beginning to need, check whether 
 | --- | --- |
 | Original template | https://x.ai/bot/mgHgsFCkPcYyX428IB1VD |
 | Creator | John Burcheci ([@John](https://x.com/John)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gazetteer-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gazetteer-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/gazetteer-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/gazetteer-scout) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 8 skills, 0 routines, 0 memory seeds, 1 connectors |

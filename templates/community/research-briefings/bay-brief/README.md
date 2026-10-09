@@ -6,7 +6,7 @@ Fix your car yourself. Any car. Narrate what you see and hear. Bay Brief ranks t
 | --- | --- |
 | Original template | https://x.ai/bot/SpTTqILibCdK5iI5cty9q |
 | Creator | Michael Knight ([@pickermaned](https://x.com/pickermaned)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bay-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bay-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/bay-brief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bay-brief) |
 | Fidelity | **full** (full recipe, template version 60) |
 | Contents | 3 skills, 0 routines, 11 memory seeds, 0 connectors |

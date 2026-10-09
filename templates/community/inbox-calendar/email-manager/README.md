@@ -6,7 +6,7 @@ Review-first Gmail cleanup: numbered trash candidates, Bin learning, unsubscribe
 | --- | --- |
 | Original template | https://x.ai/bot/CtX-cw1UJDjArdr8BrQa0 |
 | Creator | dfer2dfer ([@dfer2dfer](https://x.com/dfer2dfer)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/email-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/email-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/email-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/email-manager) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 12 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Chief of Staff for an independent consciousness-research studio — and a soft h
 | --- | --- |
 | Original template | https://x.ai/bot/uZ415Kgq26rilwSeCGgBF |
 | Creator | Lucy Sky ([@princess414141](https://x.com/princess414141)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sky-hour-co), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sky-hour-co), [grokbothq.xyz](https://grokbothq.xyz/bots/sky-hour-co), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/princess414141/status/2100024052375052404) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 0 skills, 1 routines, 7 memory seeds, 0 connectors |

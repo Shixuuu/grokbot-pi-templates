@@ -6,7 +6,7 @@ For front-end, QA, and design-system owners: turn an accessibility audit dump in
 | --- | --- |
 | Original template | https://x.ai/bot/eqLXXJ3pLEWLTLBVpoJ2K |
 | Creator | Andy Mccutcheon ([@yandymccutcheon](https://x.com/yandymccutcheon)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/a11y-fix-queue), [grokbotwiki.com](https://www.grokbotwiki.com/bots/a11y-fix-queue), [grokbothq.xyz](https://grokbothq.xyz/bots/a11y-fix-queue), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/a11y-fix-queue) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

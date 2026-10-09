@@ -6,7 +6,7 @@ Tracks SpaceX launches end to end — upcoming schedule, countdown windows, scru
 | --- | --- |
 | Original template | https://x.ai/bot/l7bhF020vKEQ-Gh7lTWSJ |
 | Creator | WasAcop ([@WasAcop](https://x.com/WasAcop)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/space-x-launch-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/space-x-launch-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/space-x-launch-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/space-x-launch-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

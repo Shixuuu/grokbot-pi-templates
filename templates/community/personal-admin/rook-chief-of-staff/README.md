@@ -6,7 +6,7 @@ A personal chief of staff for busy solo founders, students, and creators. Rook r
 | --- | --- |
 | Original template | https://x.ai/bot/XA4E-6164Df_AcWlT2G2W |
 | Creator | Sarah Brundige ([@SpaceCowgirlTX](https://x.com/SpaceCowgirlTX)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rook-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rook-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/rook-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rook-chief-of-staff), [x-research](https://x.com/SpaceCowgirlTX/status/2103937637707125184) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 3 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Chefe de gabinete em português: coordena outros bots, estima prazo, age no modo
 | --- | --- |
 | Original template | https://x.ai/bot/EK086K-pdFSZiwJsMvqIq |
 | Creator | Phillipe Alves ([@SianJoao65515](https://x.com/SianJoao65515)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-boot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-boot), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-boot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SianJoao65515/status/2100714432808575150) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

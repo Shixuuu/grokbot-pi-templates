@@ -6,7 +6,7 @@ A writing desk for killing AI slop. Mark a draft, Save, and get a rewrite that f
 | --- | --- |
 | Original template | https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz |
 | Creator | Bill French ([@bfrench](https://x.com/bfrench)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/steer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/steer), [grokbothq.xyz](https://grokbothq.xyz/bots/steer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/mhzjt-Pa01Ds8EJ0zJrcz), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/steer), [x-research](https://botsdots.site/templates/steer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

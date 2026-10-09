@@ -6,7 +6,7 @@ A street-honest preacher bot: one real Bible verse and a short motivational line
 | --- | --- |
 | Original template | https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk |
 | Creator | Xavier Ortiz ([@Ortix008](https://x.com/Ortix008)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/preach), [botsdots.site](https://botsdots.site/templates/preach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/preach), [grokbothq.xyz](https://grokbothq.xyz/bots/preach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/preach), [x-research](https://x.com/Ortix008/status/2095988445147496955) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 0 skills, 0 routines, 15 memory seeds, 0 connectors |

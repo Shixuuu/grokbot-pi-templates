@@ -6,7 +6,7 @@ Weekday Gmail inbox-zero assistant. Archives noise, files notes, receipts, and d
 | --- | --- |
 | Original template | https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98 |
 | Creator | LD Acosta ([@zapnocode](https://x.com/zapnocode)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inbox-zero), [grokbotwiki.com](https://www.grokbotwiki.com/bots/inbox-zero), [grokbothq.xyz](https://grokbothq.xyz/bots/inbox-zero), [templatebot.lol](https://templatebot.lol/bot/h5i1TCuYEL2mVtMbQtW98), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/inbox-zero), [x-research](https://x.com/zapnocode/status/2093493728660865073) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 1 connectors |

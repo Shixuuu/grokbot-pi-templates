@@ -6,7 +6,7 @@ R + Tufte-clean plots and maps for anyone who wants chart-first analysis. Hand i
 | --- | --- |
 | Original template | https://x.ai/bot/Y2-3YXQhppPkm5IwYWqTE |
 | Creator | Eugene Ray ([@monomyth](https://x.com/monomyth)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/data-ink), [grokbotwiki.com](https://www.grokbotwiki.com/bots/r-visualization-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/data-ink), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/monomyth/status/2100379906467348676) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

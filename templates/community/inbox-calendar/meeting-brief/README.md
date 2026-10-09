@@ -6,7 +6,7 @@ Walk into every call prepared — source-linked attendees, agenda, and open loop
 | --- | --- |
 | Original template | https://x.ai/bot/JN9e1WggIKVWhCEZrySlj |
 | Creator | Komil Jon Ataev ([@Limok_igit](https://x.com/Limok_igit)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/meeting-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/meeting-brief), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/meeting-brief), [x-research](https://x.com/Limok_igit/status/2107639415656911299) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 1 routines, 2 memory seeds, 0 connectors |

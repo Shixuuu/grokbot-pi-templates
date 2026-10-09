@@ -6,7 +6,7 @@ A close-the-day desk. Nightly scan of email, Slack, LinkedIn, and X DMs; if some
 | --- | --- |
 | Original template | https://x.ai/bot/ykmzezybk-bqylyqbm3kq |
 | Creator | Filippo Fonseca |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dispatch-ykmz), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/dispatch-ykmz) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 1 memory seeds, 3 connectors |

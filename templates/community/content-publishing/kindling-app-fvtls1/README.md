@@ -6,7 +6,7 @@ A creative partner for habit-app launches. Helps kindle ideas into polished Inst
 | --- | --- |
 | Original template | https://x.ai/bot/fvTls162MvFivomK3REQf |
 | Creator | John Hooper ([@gohooper](https://x.com/gohooper)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kindling-app), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kindling-app), [grokbothq.xyz](https://grokbothq.xyz/bots/kindling-app), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kindling-app), [x-research](https://x.com/gohooper/status/2101164679099744523) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

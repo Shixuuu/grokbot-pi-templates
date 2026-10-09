@@ -6,7 +6,7 @@ CEO hub bot for a multi-agent freelance company: filters specialist updates into
 | --- | --- |
 | Original template | https://x.ai/bot/F2L8KOuzoN-xKchOZQ4pJ |
 | Creator | Tilen Poje ([@tilenpoje](https://x.com/tilenpoje)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/captain-william-diego), [grokbotwiki.com](https://www.grokbotwiki.com/bots/captain-william-diego), [grokbothq.xyz](https://grokbothq.xyz/bots/captain-william-diego), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/captain-william-diego), [x-research](https://x.com/tilenpoje/status/2101242782216056910) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Talk to your Grok Bot through any Echo. Groklexa sets up a private Alexa skill t
 | --- | --- |
 | Original template | https://x.ai/bot/0u4Um4pAjcNAsOOepM3jl |
 | Creator | Ryan T |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/ryanthawks/status/2108421038816063724) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

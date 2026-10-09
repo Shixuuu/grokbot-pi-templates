@@ -6,7 +6,7 @@ Find people complaining about your competitors or asking for alternatives on X a
 | --- | --- |
 | Original template | https://x.ai/bot/Drkj_nrZJES2BKVsa0DAb |
 | Creator | Luis ([@luismbat](https://x.com/luismbat)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/competitor-complaints), [grokbotwiki.com](https://www.grokbotwiki.com/bots/competitor-complaints), [grokbothq.xyz](https://grokbothq.xyz/bots/competitor-complaints), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Drkj_nrZJES2BKVsa0DAb), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/competitor-complaints) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 2 connectors |

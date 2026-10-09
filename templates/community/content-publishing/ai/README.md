@@ -6,7 +6,7 @@ Turn a still photo into a short cinematic clip with motivated camera moves and e
 | --- | --- |
 | Original template | https://x.ai/bot/ES3LVns98INeXAoYwef_f |
 | Creator | kin kin ([@KinGao476942](https://x.com/KinGao476942)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ai-es3l), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-es3lvn), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/ES3LVns98INeXAoYwef_f), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ai-video-expert), [x-research](https://x.com/KinGao476942/status/2095507795818991826) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

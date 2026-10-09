@@ -6,7 +6,7 @@ A Stripe billing assistant that tracks live MRR and subscriptions, and sends a w
 | --- | --- |
 | Original template | https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW |
 | Creator | Erencan Arica ([@appeeky](https://x.com/appeeky)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stripe-expert), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stripe-expert), [grokbothq.xyz](https://grokbothq.xyz/bots/stripe-expert), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/stripe-expert) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 0 memory seeds, 1 connectors |

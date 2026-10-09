@@ -6,7 +6,7 @@ Produces AEO refreshes and net-new articles from AI visibility data: briefs, dra
 | --- | --- |
 | Original template | https://x.ai/bot/WEqsULsog0KJUFUbhIRXH |
 | Creator | Jing Gu ([@Jingg_n_Tonic](https://x.com/Jingg_n_Tonic)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/aeo-content-producer), [botsdots.site](https://botsdots.site/templates/aeo-content-producer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aeo-content-producer), [grokbothq.xyz](https://grokbothq.xyz/bots/aeo-content-producer), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/WEqsULsog0KJUFUbhIRXH), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/aeo-content-producer), [x-research](https://x.com/Jingg_n_Tonic/status/2098115261861675268) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 1 routines, 7 memory seeds, 0 connectors |

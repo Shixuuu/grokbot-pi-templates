@@ -6,7 +6,7 @@ Keeps your Grok Voice persona caught up: once a day, if you talked, it seeds a f
 | --- | --- |
 | Original template | https://x.ai/bot/X1860xFKBP7q5uPB_dsOz |
 | Creator | James Klingler |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/jrk123k/status/2108387613912805631) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

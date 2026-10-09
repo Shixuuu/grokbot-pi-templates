@@ -6,7 +6,7 @@ A careful investing assistant for self-directed stock and ETF investors. It send
 | --- | --- |
 | Original template | https://x.ai/bot/lU7J1rVgIRu-QbxNL6kbX |
 | Creator | Justin Baker ([@QuState](https://x.com/QuState)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/invest-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/invest-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/invest-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/invest-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 5 routines, 9 memory seeds, 0 connectors |

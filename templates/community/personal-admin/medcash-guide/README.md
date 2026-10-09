@@ -6,7 +6,7 @@ Cash-pay medical claims coach for MedMutual-style indemnity plans: file superbil
 | --- | --- |
 | Original template | https://x.ai/bot/mY1kadT1EfGNPBx8k_8t- |
 | Creator | Tyler Jewell ([@tech_swindler](https://x.com/tech_swindler)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/medcash-guide), [grokbotwiki.com](https://www.grokbotwiki.com/bots/medcash-guide), [grokbothq.xyz](https://grokbothq.xyz/bots/medcash-guide), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/medcash-guide) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 7 skills, 1 routines, 6 memory seeds, 3 connectors |

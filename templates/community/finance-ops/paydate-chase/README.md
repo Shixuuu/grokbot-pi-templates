@@ -6,7 +6,7 @@ For freelancers and agency owners: track client “I’ll pay by …” promises
 | --- | --- |
 | Original template | https://x.ai/bot/QKd4byLZMI9Amf9dRlDP1 |
 | Creator | Skip Rogers ([@GRogersJr71](https://x.com/GRogersJr71)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paydate-chase), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paydate-chase), [grokbothq.xyz](https://grokbothq.xyz/bots/paydate-chase), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/paydate-chase) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 0 memory seeds, 1 connectors |

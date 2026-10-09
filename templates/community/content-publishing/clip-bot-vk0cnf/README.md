@@ -6,7 +6,7 @@ Cuts captioned social clips from YouTube interviews and podcasts. Built for crea
 | --- | --- |
 | Original template | https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M |
 | Creator | Lon Harris ([@ThisWeeknAI](https://x.com/ThisWeeknAI)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clip-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clip-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/clip-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Vk0cnF2c364QxNv-Xip1M), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/clip-bot), [x-research](https://x.com/ThisWeeknAI/status/2093465404303720846) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

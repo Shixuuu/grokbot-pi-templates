@@ -6,7 +6,7 @@ Weekday Articles of the Day: finds free full-text articles shared on X from majo
 | --- | --- |
 | Original template | https://x.ai/bot/R2duZdd4Ah0P8uCToacmc |
 | Creator | Jeremy Lichtman ([@Jamilly44833887](https://x.com/Jamilly44833887)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/articles-of-the-day), [grokbotwiki.com](https://www.grokbotwiki.com/bots/articles-of-the-day), [grokbothq.xyz](https://grokbothq.xyz/bots/articles-of-the-day), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/articles-of-the-day) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 1 connectors |

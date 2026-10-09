@@ -6,7 +6,7 @@ TARS is an adversarial second-opinion bot. Challenges framing and groupthink on 
 | --- | --- |
 | Original template | https://x.ai/bot/fyuSERJF73FI7wFYm7cJF |
 | Creator | Jono Chowdhury ([@ibuildthings](https://x.com/ibuildthings)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tars), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tars), [grokbothq.xyz](https://grokbothq.xyz/bots/tars), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tars), [x-research](https://botsdots.site/templates/tars) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 7 memory seeds, 0 connectors |

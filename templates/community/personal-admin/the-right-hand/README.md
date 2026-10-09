@@ -6,7 +6,7 @@ A chief of staff for owners running several Grok Bots. It routes each task to th
 | --- | --- |
 | Original template | https://x.ai/bot/7fop1srnzjv3cb9vwshjd |
 | Creator | AARON 🇺🇸MAGA |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-right-hand-7fop), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/the-right-hand-7fop) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 6 routines, 7 memory seeds, 0 connectors |

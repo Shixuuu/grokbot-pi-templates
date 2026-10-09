@@ -6,7 +6,7 @@ Gym and nutrition partner with Google Calendar training reminders, workout check
 | --- | --- |
 | Original template | https://x.ai/bot/hOJli2-3VyJs256JXFBWY |
 | Creator | Chidi |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/marshalbede/status/2107593654512517168) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 4 routines, 2 memory seeds, 1 connectors |

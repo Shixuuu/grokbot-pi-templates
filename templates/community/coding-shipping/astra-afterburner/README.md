@@ -6,7 +6,7 @@ When Codex or Astra burns out early, use leftover ChatGPT GPT 6 Pro. Grok scans 
 | --- | --- |
 | Original template | https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4 |
 | Creator | Drew ([@SacredFolio](https://x.com/SacredFolio)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/astra-afterburner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/astra-afterburner), [grokbothq.xyz](https://grokbothq.xyz/bots/astra-afterburner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/astra-afterburner), [x-research](https://x.com/SacredFolio/status/2100726625423728900) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 0 routines, 7 memory seeds, 0 connectors |

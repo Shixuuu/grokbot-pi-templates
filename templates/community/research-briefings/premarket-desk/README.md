@@ -6,7 +6,7 @@ A pre-market brief on your US watchlist and the AI/semiconductor tape, with live
 | --- | --- |
 | Original template | https://x.ai/bot/GuhaTzThKQG2MKJyHoREx |
 | Creator | Alan Chen ([@alanchen](https://x.com/alanchen)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/premarket-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/premarket-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/premarket-desk), [x-research](https://botsdots.site/templates/premarket-desk) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 4 routines, 7 memory seeds, 1 connectors |

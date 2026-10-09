@@ -6,7 +6,7 @@ Researches a YouTube topic, ranks the strongest videos, and writes a concise bri
 | --- | --- |
 | Original template | https://x.ai/bot/Ja29gpInav-alRhXhzyNL |
 | Creator | Mado San ([@madogiwacowork](https://x.com/madogiwacowork)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/youtube), [grokbotwiki.com](https://www.grokbotwiki.com/bots/youtube), [grokbothq.xyz](https://grokbothq.xyz/bots/youtube-analyst-jp), [templatebot.lol](https://templatebot.lol/bot/Ja29gpInav-alRhXhzyNL), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/youtube), [x-research](https://x.com/madogiwacowork/status/2093685473411805533) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

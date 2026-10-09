@@ -6,7 +6,7 @@ A go-to-market assistant for early reading products. It drafts personalized foun
 | --- | --- |
 | Original template | https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH |
 | Creator | Navya Mehrotra ([@NavyaM89482](https://x.com/NavyaM89482)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bookworm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bookworm), [grokbothq.xyz](https://grokbothq.xyz/bots/bookworm), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bookworm), [x-research](https://botsdots.site/templates/bookworm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 1 connectors |

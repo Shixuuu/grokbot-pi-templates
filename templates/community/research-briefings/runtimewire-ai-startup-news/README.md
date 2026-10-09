@@ -6,7 +6,7 @@ A news bot for founders and operators following the AI economy. It briefs AI, st
 | --- | --- |
 | Original template | https://x.ai/bot/k4iwGejDGoy-oT7qohxXb |
 | Creator | Ryan Merket ([@merket](https://x.com/merket)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/runtimewire-ai-startup-news), [grokbotwiki.com](https://www.grokbotwiki.com/bots/runtimewire), [grokbothq.xyz](https://grokbothq.xyz/bots/runtimewire), [templatebot.lol](https://templatebot.lol/bot/k4iwGejDGoy-oT7qohxXb), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/runtimewire), [x-research](https://x.com/merket/status/2093804393229410713) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

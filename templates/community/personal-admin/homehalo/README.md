@@ -6,7 +6,7 @@ A free home-maintenance assistant. Snap your appliance labels once and it finds 
 | --- | --- |
 | Original template | https://x.ai/bot/FpdbqJCh_MUJ99UBjd6mK |
 | Creator | bedpost |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/homehalo), [x-research](https://grokbothq.xyz/bots/homehalo) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 1 routines, 2 memory seeds, 4 connectors |

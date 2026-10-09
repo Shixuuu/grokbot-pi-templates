@@ -6,7 +6,7 @@ Find money that should be the owner's but is missed, wasted, owed, or unclaimed.
 | --- | --- |
 | Original template | https://x.ai/bot/gCWYD009F66A3XDEYdZgf |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/bounty-hunter), [botsdots.site](https://botsdots.site/templates/bounty-hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bounty-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/bounty-hunter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bounty-hunter), [x-research](https://x.com/liam_fallen/status/2093383127162925558) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 0 memory seeds, 2 connectors |

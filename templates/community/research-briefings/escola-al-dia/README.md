@@ -6,7 +6,7 @@ Escola al Dia (TokApp + correu): resumeix TokApp i, si vols, el correu de l'esco
 | --- | --- |
 | Original template | https://x.ai/bot/pY08FtAuc9QGwrtZL3wHz |
 | Creator | Marc Güell Segarra ([@mguellsegarra](https://x.com/mguellsegarra)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/escola-al-dia), [grokbotwiki.com](https://www.grokbotwiki.com/bots/escola-al-dia), [grokbothq.xyz](https://grokbothq.xyz/bots/escola-al-dia), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/escola-al-dia), [x-research](https://botsdots.site/templates/escola-al-dia) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 2 skills, 2 routines, 3 memory seeds, 0 connectors |

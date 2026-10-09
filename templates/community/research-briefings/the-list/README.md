@@ -6,7 +6,7 @@ GrokBotGod bot catalog in your chat: three-line drops from our starter list and 
 | --- | --- |
 | Original template | https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq |
 | Creator | GrokBotGod God ([@GrokBotGod](https://x.com/GrokBotGod)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-list-4mog), [grokbothq.xyz](https://grokbothq.xyz/bots/the-list-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [x-research](https://grokbothq.xyz/bots/the-list-2) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 3 skills, 0 routines, 1 memory seeds, 0 connectors |

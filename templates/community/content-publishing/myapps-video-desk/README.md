@@ -6,7 +6,7 @@ Generates photoreal short video clips in a MyApps (api.myapps.ai) playground via
 | --- | --- |
 | Original template | https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK |
 | Creator | Epic Tech AI ([@Sm0ken42O](https://x.com/Sm0ken42O)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/myapps-video-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/myapps-video-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/MyApps-Video-Desk-vcQOLdM6), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Sm0ken42O/status/2096428725315244308) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

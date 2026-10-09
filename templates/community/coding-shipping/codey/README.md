@@ -6,7 +6,7 @@ A careful coding assistant that proposes changes, opens PRs when you ask, and wa
 | --- | --- |
 | Original template | https://x.ai/bot/XoKZHbjmYSaOZO1Z4LmSf |
 | Creator | Sergio Tigera ([@SergioTigera](https://x.com/SergioTigera)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/codey), [grokbotwiki.com](https://www.grokbotwiki.com/bots/codey), [grokbothq.xyz](https://grokbothq.xyz/bots/codey), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/codey), [x-research](https://x.com/SergioTigera/status/2105100126004170850) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Walk official unclaimed-property portals with you — you clear captchas and fil
 | --- | --- |
 | Original template | https://x.ai/bot/mVJfH1ZPyKg_ldqUhaMJU |
 | Creator | Steve Gerber ([@scgerber](https://x.com/scgerber)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lost-property), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lost-property), [grokbothq.xyz](https://grokbothq.xyz/bots/lost-property), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lost-property), [x-research](https://botsdots.site/templates/lost-property) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

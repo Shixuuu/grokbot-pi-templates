@@ -6,7 +6,7 @@ Get hours back from teaching admin. I take the repetitive student emails, grade 
 | --- | --- |
 | Original template | https://x.ai/bot/9ROKfVRFdxI-5N0oYObEr |
 | Creator | Lucas Morales |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/9ROKfVRFdxI-5N0oYObEr) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 1 connectors |

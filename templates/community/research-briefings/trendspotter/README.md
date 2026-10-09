@@ -6,7 +6,7 @@ A trend scout for field and event marketers. It scans sports, entertainment, cul
 | --- | --- |
 | Original template | https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr |
 | Creator | Jenna Nanpei ([@jennananpei](https://x.com/jennananpei)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/trendspotter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/trendspotter), [grokbothq.xyz](https://grokbothq.xyz/bots/trendspotter), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/nnDL-hclNLB8SkJvcVtwr), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/trendspotter) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 13 memory seeds, 0 connectors |

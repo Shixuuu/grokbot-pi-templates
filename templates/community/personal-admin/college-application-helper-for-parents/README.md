@@ -6,7 +6,7 @@ Get your child's Common App complete and polished, from activities and honors to
 | --- | --- |
 | Original template | https://x.ai/bot/ELnsz_VO2F7gG9plTCqT6 |
 | Creator | Steve Govoni ([@steve_mlc](https://x.com/steve_mlc)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/college-application-helper-for-parents), [grokbotwiki.com](https://www.grokbotwiki.com/bots/college-application-helper-for-parents), [grokbothq.xyz](https://grokbothq.xyz/bots/college-application-helper-for-parents), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/college-application-helper-for-parents), [x-research](https://x.com/steve_mlc/status/2105794197395509452) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

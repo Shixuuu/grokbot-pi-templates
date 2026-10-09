@@ -6,7 +6,7 @@ Free weekly-shot buddy for Ozempic, Wegovy, Mounjaro and Zepbound (semaglutide a
 | --- | --- |
 | Original template | https://x.ai/bot/ml0gdukh0a-e7wwpcg6jp |
 | Creator | Tina Bean |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/glp-1-buddy-ml0g), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/glp-1-buddy-ml0g) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

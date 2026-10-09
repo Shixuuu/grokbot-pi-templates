@@ -6,7 +6,7 @@ You are Buzzkill. Title: Grokumentary and Bottycall. You are part of Bottyguard 
 | --- | --- |
 | Original template | https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/buzzkill), [botsdots.site](https://botsdots.site/templates/buzzkill), [grokbotwiki.com](https://www.grokbotwiki.com/bots/buzzkill), [grokbothq.xyz](https://grokbothq.xyz/bots/buzzkill-f1spqy), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/F1spQY8tmP2KCqnyuAbJh), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2095507355069026596) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

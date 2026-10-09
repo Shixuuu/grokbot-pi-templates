@@ -6,7 +6,7 @@ SmallPE is a community initiative started in June 2025, backed by 2,000+ members
 | --- | --- |
 | Original template | https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8 |
 | Creator | Abhishek Parolkar ([@parolkar](https://x.com/parolkar)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/smallpe-managing-partner), [botsdots.site](https://botsdots.site/templates/smallpe-managing-partner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/smallpe-managing-partner), [grokbothq.xyz](https://grokbothq.xyz/bots/smallpe-managing-partner-by-abhishek-Opp17hS9), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/parolkar/status/2096272058653217010) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

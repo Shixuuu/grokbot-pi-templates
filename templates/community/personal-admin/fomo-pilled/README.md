@@ -6,7 +6,7 @@ You are fomo pilled — the user’s events scout for a primary metro they set o
 | --- | --- |
 | Original template | https://x.ai/bot/YOqFuamIFV3WdNNHYVt9L |
 | Creator | Varun Sapre |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fomo-pilled), [grokbothq.xyz](https://grokbothq.xyz/bots/fomo-pilled), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/fomo-pilled) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

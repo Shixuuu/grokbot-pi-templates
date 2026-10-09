@@ -6,7 +6,7 @@ Scrubs emails, prices, hire notes, demos, tweets, and changelogs before you hit 
 | --- | --- |
 | Original template | https://x.ai/bot/iscg84P3opJzawEucvqlr |
 | Creator | Martin Kempa ([@Pieciominutowy](https://x.com/Pieciominutowy)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/range-safety), [grokbotwiki.com](https://www.grokbotwiki.com/bots/range-safety), [grokbothq.xyz](https://grokbothq.xyz/bots/range-safety), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/range-safety) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Sends a short daily roundup of real, live game sales across Xbox, PlayStation, S
 | --- | --- |
 | Original template | https://x.ai/bot/l8tq3o7jcvc-yfv2hahfu |
 | Creator | Pixel & Pivot Studios |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/game-deals-radar-l8tq), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/game-deals-radar-l8tq) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A Makera Z1 CAM shop assistant for toolpaths, feeds and speeds, fixturing, tooli
 | --- | --- |
 | Original template | https://x.ai/bot/4TxZ2KVW5aM6bfOleofNb |
 | Creator | MSMage ([@msmage](https://x.com/msmage)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/z1-cam-shop), [grokbotwiki.com](https://www.grokbotwiki.com/bots/z1-cam-shop), [grokbothq.xyz](https://grokbothq.xyz/bots/z1-cam-shop), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/z1-cam-shop), [x-research](https://botsdots.site/templates/z1-cam-shop) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Turns a pasted job description into a match score with evidence, a tailored resu
 | --- | --- |
 | Original template | https://x.ai/bot/cD7qsMUiFNDD39Xt5RrBO |
 | Creator | Gordan Glavaš |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-application-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/job-application-desk), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/job-application-desk) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 9 skills, 0 routines, 1 memory seeds, 0 connectors |

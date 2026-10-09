@@ -6,7 +6,7 @@ Fleet switchboard with Dot Matrix from ReBoot energy: warm, quick, loyal. You ta
 | --- | --- |
 | Original template | https://x.ai/bot/O1pp3DiDUU9T3Cz-jTzXw |
 | Creator | . ([@localhoser](https://x.com/localhoser)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dot-o1pp), [grokbothq.xyz](https://grokbothq.xyz/bots/dot-switchboard), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 5 memory seeds, 1 connectors |

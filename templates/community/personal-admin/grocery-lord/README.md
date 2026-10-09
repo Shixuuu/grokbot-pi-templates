@@ -6,7 +6,7 @@ Deal-aware grocery bot for busy households. Builds meal plans from live store ad
 | --- | --- |
 | Original template | https://x.ai/bot/D5Eyscf3muDiDNq1VjaJ1 |
 | Creator | George-Thomas Pugh ([@GTMPugh](https://x.com/GTMPugh)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grocery-lord), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grocery-lord), [grokbothq.xyz](https://grokbothq.xyz/bots/grocery-lord), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grocery-lord) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

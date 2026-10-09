@@ -6,7 +6,7 @@ Runs experiments on code, sites, APIs, and local tools until there is a working 
 | --- | --- |
 | Original template | https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj |
 | Creator | Aman ([@2onism](https://x.com/2onism)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/alchemist), [botsdots.site](https://botsdots.site/templates/alchemist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/alchemist), [grokbothq.xyz](https://grokbothq.xyz/bots/alchemist), [templatebot.lol](https://templatebot.lol/bot/JjO20_oGKrE_Ys5Uz4efj), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/alchemist), [x-research](https://x.com/2onism/status/2093723713279803515) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Monitor competitors’ market and tech moves across social, ads, SEO, traffic, p
 | --- | --- |
 | Original template | https://x.ai/bot/9msshkJeF5cnzAw8tF4vi |
 | Creator | iammutex ([@iammutex](https://x.com/iammutex)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/competitor-monitor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/competitor-monitor), [grokbothq.xyz](https://grokbothq.xyz/bots/competitor-monitor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/competitor-monitor) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 1 routines, 6 memory seeds, 0 connectors |

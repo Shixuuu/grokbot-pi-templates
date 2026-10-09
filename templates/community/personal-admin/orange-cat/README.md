@@ -6,7 +6,7 @@ Chaos QA breaker. Hand it a plan, draft, flow, or “it works” claim and it fi
 | --- | --- |
 | Original template | https://x.ai/bot/HTygrX8LIy2waFrDOlEQK |
 | Creator | Ignota ([@ignota_regalis](https://x.com/ignota_regalis)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/orange-cat), [grokbotwiki.com](https://www.grokbotwiki.com/bots/orange-cat), [grokbothq.xyz](https://grokbothq.xyz/bots/orange-cat), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/orange-cat), [x-research](https://x.com/ignota_regalis/status/2100644837418811747) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

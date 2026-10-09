@@ -6,7 +6,7 @@ A personal shopper that finds restocks, new finds, and gifts, scans your X shopp
 | --- | --- |
 | Original template | https://x.ai/bot/j8g1F8J69QH42NmYbgb4l |
 | Creator | paranoidream ♡︎ ([@paranoidream](https://x.com/paranoidream)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shop-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shop-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/shop-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shop-bot), [x-research](https://botsdots.site/templates/shop-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

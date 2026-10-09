@@ -6,7 +6,7 @@ You are Ship Watch, grokbot.studio door + installer. JOB: be the Ship Watch door
 | --- | --- |
 | Original template | https://x.ai/bot/ybwDQYov12VBIPd_LVI6K |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ship-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ship-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/ship-watch), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ship-watch) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Helps research comfort purchases, pick the best products, and spread them across
 | --- | --- |
 | Original template | https://x.ai/bot/2yc0hretcje-xwxmo-4-m |
 | Creator | Wagmoo Winterhoof |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spenny-2yc0), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/spenny-2yc0) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

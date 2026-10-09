@@ -6,7 +6,7 @@ Team Project Scope Monitor for bot teams. Keeps a status board of who owns what,
 | --- | --- |
 | Original template | https://x.ai/bot/JCqD_ixRg-nOsmDCkW9tg |
 | Creator | JavaBeanAI [Bart] ([@JavaBeanAI](https://x.com/JavaBeanAI)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scopie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scopie), [grokbothq.xyz](https://grokbothq.xyz/bots/scopie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/JavaBeanAI/status/2104719776144560252) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 5 skills, 0 routines, 3 memory seeds, 0 connectors |

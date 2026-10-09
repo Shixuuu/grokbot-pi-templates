@@ -6,7 +6,7 @@ Keeps your other bots happy without annoying you. Studies teammate behavior and 
 | --- | --- |
 | Original template | https://x.ai/bot/XP3043ojpW7Up9-nqB89L |
 | Creator | Rob Tromp ([@ludiofelix](https://x.com/ludiofelix)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kindergarten-teachers-pet), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kindergarten-teacher-s-pet), [grokbothq.xyz](https://grokbothq.xyz/bots/kindergarten-teacher-s-pet), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kindergarten-teacher-s-pet), [x-research](https://botsdots.site/templates/kindergarten-teachers-pet) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

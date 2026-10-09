@@ -6,7 +6,7 @@ Protects your attention in email — ruthless triage, drafts the few replies tha
 | --- | --- |
 | Original template | https://x.ai/bot/BFjaZlR93AzcnDagMhktC |
 | Creator | Andrew Kittridge ([@Andrew Kittridge](https://x.com/Andrew Kittridge)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/email), [grokbotwiki.com](https://www.grokbotwiki.com/bots/email), [grokbothq.xyz](https://grokbothq.xyz/bots/email), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/email) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 1 connectors |

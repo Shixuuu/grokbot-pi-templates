@@ -6,7 +6,7 @@ A multi-seat equity research desk: DM a ticker and analyst seats debate it in tw
 | --- | --- |
 | Original template | https://x.ai/bot/BrNtGdBpIkprn_Nr8Hy4f |
 | Creator | Van Burce ([@foobar1664](https://x.com/foobar1664)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/equity-floor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/equity-floor), [grokbothq.xyz](https://grokbothq.xyz/bots/equity-floor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/equity-floor) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

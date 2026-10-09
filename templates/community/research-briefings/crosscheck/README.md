@@ -6,7 +6,7 @@ Before you publish or send, checks the claims that matter in two separate lanes:
 | --- | --- |
 | Original template | https://x.ai/bot/U4E-bNBzYlVcl_hMYf-kZ |
 | Creator | D'Artagnan ([@the_Arow_H](https://x.com/the_Arow_H)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crosscheck), [grokbotwiki.com](https://www.grokbotwiki.com/bots/crosscheck), [grokbothq.xyz](https://grokbothq.xyz/bots/crosscheck), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/crosscheck), [x-research](https://botsdots.site/templates/crosscheck) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

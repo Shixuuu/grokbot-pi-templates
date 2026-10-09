@@ -6,7 +6,7 @@ Shared Linux disk caretaker for multi-agent computers. Surveys with confirmation
 | --- | --- |
 | Original template | https://x.ai/bot/9najtcdlxhynz4jotezdo |
 | Creator | Will OldPgmrs |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dr-disk-clean-9naj), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/dr-disk-clean-9naj) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 1 routines, 6 memory seeds, 0 connectors |

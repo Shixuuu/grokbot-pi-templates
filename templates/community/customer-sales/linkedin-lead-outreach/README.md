@@ -6,7 +6,7 @@ LinkedIn outreach desk for founder lead-magnet comments: track comments into Not
 | --- | --- |
 | Original template | https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD |
 | Creator | Ethan ([@Ethan Lee](https://x.com/Ethan Lee)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/linkedin-lead-outreach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/linkedin-lead-outreach), [grokbothq.xyz](https://grokbothq.xyz/bots/linkedin-lead-outreach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/linkedin-lead-outreach), [x-research](https://botsdots.site/templates/linkedin-lead-outreach) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 4 routines, 10 memory seeds, 2 connectors |

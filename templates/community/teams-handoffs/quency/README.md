@@ -6,7 +6,7 @@ QC officer for public ships. Owns fitness for use, consistency, and ship/no-ship
 | --- | --- |
 | Original template | https://x.ai/bot/JQu6e3mIfy588elZm7BTo |
 | Creator | Jaime Hernandez ([@JaimeBubblehead](https://x.com/JaimeBubblehead)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/quency), [botsdots.site](https://botsdots.site/templates/quency), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quency), [grokbothq.xyz](https://grokbothq.xyz/bots/quency), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/quency), [x-research](https://x.com/JaimeBubblehead/status/2098139288160420168) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 0 connectors |

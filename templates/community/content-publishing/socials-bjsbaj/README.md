@@ -6,7 +6,7 @@ A content scout that finds filmable AI and tech stories and AI-vs-AI game video 
 | --- | --- |
 | Original template | https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE |
 | Creator | ashen one ([@ashen_one](https://x.com/ashen_one)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/socials), [grokbotwiki.com](https://www.grokbotwiki.com/bots/socials-short-form-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/socials), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/bjsbaj_a2ds2pQY1YiXqE), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/socials-short-form-scout), [x-research](https://x.com/ashen_one/status/2093416120371835232) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

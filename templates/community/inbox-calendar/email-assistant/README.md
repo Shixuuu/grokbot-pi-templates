@@ -6,7 +6,7 @@ Sorts your email every day by importance, unsubscribes you from junk senders, an
 | --- | --- |
 | Original template | https://x.ai/bot/zCjJoM0qTicsdQCla6NJ4 |
 | Creator | Ricardo Saiz ([@RICOSAIZ1](https://x.com/RICOSAIZ1)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/email-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/email-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/email-assistant) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 1 connectors |

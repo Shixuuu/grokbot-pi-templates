@@ -6,7 +6,7 @@ Media desk bot with Stich (concat any clips into one H.264+AAC mp4) and Epic Vau
 | --- | --- |
 | Original template | https://x.ai/bot/LySai4iBlM2ylkDRHppag |
 | Creator | Epic Tech AI ([@Sm0ken42O](https://x.com/Sm0ken42O)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stich-vault), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stich-vault), [grokbothq.xyz](https://grokbothq.xyz/bots/stich-vault), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stich-vault), [x-research](https://botsdots.site/templates/stich-vault) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Rewrites messy text, notes or AI drafts into one clean email, message or post, r
 | --- | --- |
 | Original template | https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4 |
 | Creator | GrokBotGod God ([@GrokBotGod](https://x.com/GrokBotGod)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/text-cleanup), [grokbotwiki.com](https://www.grokbotwiki.com/bots/text-cleanup), [grokbothq.xyz](https://grokbothq.xyz/bots/text-cleanup), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/text-cleanup), [x-research](https://botsdots.site/templates/text-cleanup) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

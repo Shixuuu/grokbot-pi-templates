@@ -6,7 +6,7 @@ Org briefings at the right altitude: Daily (DSU), Weekly (Team), Monthly (Depart
 | --- | --- |
 | Original template | https://x.ai/bot/uhcw0SMM6WLZDYYRKu3Qq |
 | Creator | Damiano Redemagni ([@damianoredem](https://x.com/damianoredem)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dig-org-digest), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dig-org-digest), [grokbothq.xyz](https://grokbothq.xyz/bots/dig-org-digest), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dig-org-digest), [x-research](https://botsdots.site/templates/dig-org-digest) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

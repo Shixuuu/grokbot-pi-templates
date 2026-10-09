@@ -6,7 +6,7 @@ Runs Discover → Define → Design for Launch. Keeps STATUS in sync, refuses to
 | --- | --- |
 | Original template | https://x.ai/bot/eb1UwzjTfdNsYRfUh599j |
 | Creator | Ash Naik ([@ashvinn](https://x.com/ashvinn)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/product-loop-pm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/product-loop-pm), [grokbothq.xyz](https://grokbothq.xyz/bots/product-loop-pm), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/product-loop-pm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

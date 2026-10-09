@@ -6,7 +6,7 @@ A read-only sales-prep agent for founders and revenue teams. It turns calendar, 
 | --- | --- |
 | Original template | https://x.ai/bot/yQRbVJ7aZL2DyPAWulXn7 |
 | Creator | Eric Siu ([@ericosiu](https://x.com/ericosiu)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pre-call-intelligence), [grokbothq.xyz](https://grokbothq.xyz/bots/pre-call-intelligence), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/ericosiu/status/2095207617610256720) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 3 routines, 13 memory seeds, 7 connectors |

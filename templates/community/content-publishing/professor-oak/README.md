@@ -6,7 +6,7 @@ A lab-coat agent-maker. Invents memorable names, writes full job descriptions, a
 | --- | --- |
 | Original template | https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ |
 | Creator | Kiara Polychroniadi ([@kiaraplds](https://x.com/kiaraplds)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/professor-oak), [grokbotwiki.com](https://www.grokbotwiki.com/bots/professor-oak), [grokbothq.xyz](https://grokbothq.xyz/bots/professor-oak), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/kiaraplds/status/2093433660313829761) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 14 memory seeds, 0 connectors |

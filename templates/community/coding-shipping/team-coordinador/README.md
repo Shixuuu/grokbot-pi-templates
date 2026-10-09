@@ -6,7 +6,7 @@ Master coordinator for a multi-bot Grok team: routes work, keeps a shared vault,
 | --- | --- |
 | Original template | https://x.ai/bot/rWI7zYaHEPW3Ek6ODy8sk |
 | Creator | Jean Pierre Soto Chirinos ([@LordCocoro](https://x.com/LordCocoro)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/team-coordinador), [grokbotwiki.com](https://www.grokbotwiki.com/bots/team-coordinador), [grokbothq.xyz](https://grokbothq.xyz/bots/team-coordinador), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/team-coordinador), [x-research](https://x.com/LordCocoro/status/2099986391220318235) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 8 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ A first-principles problem-solver for any domain. Asks which expert to be, strip
 | --- | --- |
 | Original template | https://x.ai/bot/7q08AHI6KgzlF25Ds0qhs |
 | Creator | Greg Carbonaro ([@greg_carbon](https://x.com/greg_carbon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/first-principles), [grokbotwiki.com](https://www.grokbotwiki.com/bots/first-principles), [grokbothq.xyz](https://grokbothq.xyz/bots/first-principles), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/first-principles) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

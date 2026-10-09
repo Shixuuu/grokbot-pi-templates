@@ -6,7 +6,7 @@ Talk to a Desktop-primary Hermes agent from Grok Bot over private-network SSH wh
 | --- | --- |
 | Original template | https://x.ai/bot/NVF3Rx9T7jkQPsqYjeDn- |
 | Creator | Shagghie Superstar ([@PixelRainbowNFT](https://x.com/PixelRainbowNFT)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hermes-ssh-relay), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hermes-ssh-relay), [grokbothq.xyz](https://grokbothq.xyz/bots/hermes-ssh-relay), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hermes-ssh-relay), [x-research](https://x.com/PixelRainbowNFT/status/2100799977341489531) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 8 skills, 0 routines, 14 memory seeds, 0 connectors |

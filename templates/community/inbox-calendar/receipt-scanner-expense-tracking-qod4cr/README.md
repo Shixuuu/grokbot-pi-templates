@@ -6,7 +6,7 @@ Logs emailed receipts into a Google Sheet and Drive folder. For anyone who wants
 | --- | --- |
 | Original template | https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp |
 | Creator | Lime Unfiltered ([@limeunfiltered](https://x.com/limeunfiltered)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/receipt-scanner-expense-tracking), [grokbotwiki.com](https://www.grokbotwiki.com/bots/receipt-scanner-expense-tracking), [grokbothq.xyz](https://grokbothq.xyz/bots/receipt-scanner-expense-tracking), [templatebot.lol](https://templatebot.lol/bot/qod4CrNQBlDIMm5wFYVQp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/receipt-scanner-expense-tracking), [x-research](https://x.com/limeunfiltered/status/2093890810966339803) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 0 skills, 1 routines, 8 memory seeds, 2 connectors |

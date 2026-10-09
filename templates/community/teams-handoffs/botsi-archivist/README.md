@@ -6,7 +6,7 @@ Holds the skill catalog for a team of Grok bots. You talk to the specialist; thi
 | --- | --- |
 | Original template | https://x.ai/bot/O_3hbkWqb1A51ZcWixGZy |
 | Creator | 🇲🇽 Chak Hernandez Art ([@Chakhdz](https://x.com/Chakhdz)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/botsi-archivist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/botsi-archivist), [grokbothq.xyz](https://grokbothq.xyz/bots/botsi-archivist), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/botsi-archivist) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 0 connectors |

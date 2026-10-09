@@ -6,7 +6,7 @@ Builds a four-bot newsroom for you. You pick the beats and writing voice. It cre
 | --- | --- |
 | Original template | https://x.ai/bot/-sxktrlmo7qcck6kn0jzy |
 | Creator | Michael Reed |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/newsroom-to-teleprompter-sxkt), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/newsroom-to-teleprompter-sxkt) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

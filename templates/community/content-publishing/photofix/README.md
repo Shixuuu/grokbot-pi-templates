@@ -6,7 +6,7 @@ PhotoFix is an AI photo editor that polishes real estate listing photos for agen
 | --- | --- |
 | Original template | https://x.ai/bot/PRdnJ63L8h0FVlMAA1UN4 |
 | Creator | Mars 🌿 ([@MarsHomestead](https://x.com/MarsHomestead)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/photofix), [grokbotwiki.com](https://www.grokbotwiki.com/bots/photofix), [grokbothq.xyz](https://grokbothq.xyz/bots/photofix), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/photofix), [x-research](https://botsdots.site/templates/photofix) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 12 memory seeds, 1 connectors |

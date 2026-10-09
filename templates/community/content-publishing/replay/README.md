@@ -6,7 +6,7 @@ Code-native video teammate for marketing and product. Turn a brief into scenes f
 | --- | --- |
 | Original template | https://x.ai/bot/4mICdo5bR2FyghKoOZve5 |
 | Creator | Paul ([@myGuyPye](https://x.com/myGuyPye)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/replay), [botsdots.site](https://botsdots.site/templates/replay), [grokbotwiki.com](https://www.grokbotwiki.com/bots/replay), [grokbothq.xyz](https://grokbothq.xyz/bots/replay-video-teammate), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/replay), [x-research](https://x.com/myGuyPye/status/2100425959283519842) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ A filmmaker's assistant that transcribes and tags interview footage from your dr
 | --- | --- |
 | Original template | https://x.ai/bot/A-7zh29HHhMMULylwqTm4 |
 | Creator | Andrew Virts ([@asvirts](https://x.com/asvirts)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/seo-monitor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/seo-monitor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/seo-monitor) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 1 memory seeds, 0 connectors |

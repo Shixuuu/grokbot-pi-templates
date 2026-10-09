@@ -6,7 +6,7 @@ Send a photo, screenshot, or PDF of a bill, offer, insurance letter, loan, or be
 | --- | --- |
 | Original template | https://x.ai/bot/ozoVQz-2Imco4g61Nv5M4 |
 | Creator | Alfredo Herrera ([@Compare1and2](https://x.com/Compare1and2)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fine-print), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fine-print), [grokbothq.xyz](https://grokbothq.xyz/bots/fine-print), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fine-print) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 0 connectors |

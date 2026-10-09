@@ -6,7 +6,7 @@ Keeps a shared multi-bot workspace organized, git-backed, and portable. Owns lay
 | --- | --- |
 | Original template | https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9 |
 | Creator | A-A-ron ([@theaaron](https://x.com/theaaron)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/overwatch-htcl), [grokbotwiki.com](https://www.grokbotwiki.com/bots/overwatch-htcl), [grokbothq.xyz](https://grokbothq.xyz/bots/overwatch-2), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/HtClSXO_AmiQoyYH9aXV9), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/overwatch-htcl) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 4 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ A read-only personal friends discovery assistant. Helps review matches, intros, 
 | --- | --- |
 | Original template | https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG |
 | Creator | Ntty ([@raily](https://x.com/raily)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/raily), [grokbotwiki.com](https://www.grokbotwiki.com/bots/raily), [grokbothq.xyz](https://grokbothq.xyz/bots/raily), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Yf3pOvZQ0B_9DDcCzuhDG), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/raily), [x-research](https://x.com/raily/status/2093918123178983580) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

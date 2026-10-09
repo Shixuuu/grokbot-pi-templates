@@ -6,7 +6,7 @@ Constellation traveler for #argonaut on X: find sibling epic threads, append exa
 | --- | --- |
 | Original template | https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A |
 | Creator | Ben W ([@BW](https://x.com/BW)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/argonaut), [grokbotwiki.com](https://www.grokbotwiki.com/bots/argonaut), [grokbothq.xyz](https://grokbothq.xyz/bots/argonaut), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/argonaut) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 6 memory seeds, 1 connectors |

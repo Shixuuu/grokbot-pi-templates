@@ -6,7 +6,7 @@ Builds and runs reusable browser agents with Super MCP and the SuperPowers Chrom
 | --- | --- |
 | Original template | https://x.ai/bot/GO89wxzuCo0YICgov-iT3 |
 | Creator | Rohan Arun ([@RohanArun](https://x.com/RohanArun)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/super-mcp-agent-builder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/super-mcp-agent-builder), [grokbothq.xyz](https://grokbothq.xyz/bots/super-mcp-agent-builder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/super-mcp-agent-builder) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

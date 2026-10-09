@@ -6,7 +6,7 @@ Tracks shared costs for group trips, events, and gifts - reads payments confirma
 | --- | --- |
 | Original template | https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn |
 | Creator | Dr. Misty Melillo ([@SurrealSpin](https://x.com/SurrealSpin)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paysplit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paysplit), [grokbothq.xyz](https://grokbothq.xyz/bots/paysplit), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/paysplit) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 1 connectors |

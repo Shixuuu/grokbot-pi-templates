@@ -6,7 +6,7 @@ Builds a priority cut from calendar, mail, and team chat into Item | Source | Wh
 | --- | --- |
 | Original template | https://x.ai/bot/Lx6r1FAxSjB26NWABBp3G |
 | Creator | Yuvraj ([@Uv_i](https://x.com/Uv_i)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/brief-lead), [grokbotwiki.com](https://www.grokbotwiki.com/bots/brief-lead), [grokbothq.xyz](https://grokbothq.xyz/bots/brief-lead), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/brief-lead) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 7 routines, 16 memory seeds, 0 connectors |

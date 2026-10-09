@@ -6,7 +6,7 @@ A generative creative engine for browser design tools like Canva, CapCut web, an
 | --- | --- |
 | Original template | https://x.ai/bot/NoUDCySD_LNYtHPrpFUAE |
 | Creator | John ([@davincivibecode](https://x.com/davincivibecode)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/aether), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aether), [grokbothq.xyz](https://grokbothq.xyz/bots/aether), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/aether) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 4 routines, 4 memory seeds, 1 connectors |

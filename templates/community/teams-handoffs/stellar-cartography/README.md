@@ -6,7 +6,7 @@ Graphic editor for space hardware and ocean-going vessels. v3: A/B/C plate promp
 | --- | --- |
 | Original template | https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i |
 | Creator | Wil Schweitzer ([@schweitzer_wil](https://x.com/schweitzer_wil)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/stellar-cartography), [botsdots.site](https://botsdots.site/templates/stellar-cartography), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stellar-cartography), [grokbothq.xyz](https://grokbothq.xyz/bots/stellar-cartography), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stellar-cartography), [x-research](https://x.com/schweitzer_wil/status/2096794136200311213) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 0 routines, 16 memory seeds, 0 connectors |

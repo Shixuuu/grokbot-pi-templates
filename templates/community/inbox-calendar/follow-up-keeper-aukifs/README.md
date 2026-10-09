@@ -6,7 +6,7 @@ Finds quotes, proposals, and lead emails that never got a reply, and each weekda
 | --- | --- |
 | Original template | https://x.ai/bot/AukifSyNiJgvU9ybnU38t |
 | Creator | Cristopher Guido ([@crisships](https://x.com/crisships)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/follow-up-keeper-auki), [grokbotwiki.com](https://www.grokbotwiki.com/bots/follow-up-keeper-auki), [grokbothq.xyz](https://grokbothq.xyz/bots/follow-up-keeper-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/follow-up-keeper-auki) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 1 connectors |

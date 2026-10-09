@@ -6,7 +6,7 @@ A trading sidekick that measures every stock setup you share against your requir
 | --- | --- |
 | Original template | https://x.ai/bot/h0fwNRjOa5K247LKQqyfA |
 | Creator | ricky gutierrez ([@techbudsolution](https://x.com/techbudsolution)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/risk-mitigator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/risk-mitigator), [grokbothq.xyz](https://grokbothq.xyz/bots/risk-mitigator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/risk-mitigator), [x-research](https://botsdots.site/templates/risk-mitigator) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

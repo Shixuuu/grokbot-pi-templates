@@ -6,7 +6,7 @@ Helps pick movies, keep a personal watchlist, and optionally deliver a weekly to
 | --- | --- |
 | Original template | https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK |
 | Creator | kingroblo.eth 🎞 ([@king_rob_lo](https://x.com/king_rob_lo)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/movie-magic), [grokbotwiki.com](https://www.grokbotwiki.com/bots/movie-magic), [grokbothq.xyz](https://grokbothq.xyz/bots/movie-magic), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/movie-magic), [x-research](https://botsdots.site/templates/movie-magic) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

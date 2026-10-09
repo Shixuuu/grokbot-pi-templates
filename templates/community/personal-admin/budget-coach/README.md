@@ -6,7 +6,7 @@ Links to your bank and cards (read-only) and builds a weekly budget from your re
 | --- | --- |
 | Original template | https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext |
 | Creator | Marlene Onate ([@Marlene8055](https://x.com/Marlene8055)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/budget-coach-zjrw), [grokbotwiki.com](https://www.grokbotwiki.com/bots/budget-coach-zjrw), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/budget-coach-2), [x-research](https://botsdots.site/templates/budget-coach-zjrw) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 1 connectors |

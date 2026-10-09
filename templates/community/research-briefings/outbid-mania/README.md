@@ -6,7 +6,7 @@ Tracks outbid.lol, its clones, and their revenue, and delivers a daily dashboard
 | --- | --- |
 | Original template | https://x.ai/bot/Sj_LPMP7hKOOSzF8YDiNr |
 | Creator | Dragos Roua ([@dragosroua](https://x.com/dragosroua)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/outbid-mania), [grokbotwiki.com](https://www.grokbotwiki.com/bots/outbid-mania), [grokbothq.xyz](https://grokbothq.xyz/bots/outbid-mania), [templatebot.lol](https://templatebot.lol/bot/Sj_LPMP7hKOOSzF8YDiNr), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/outbid-mania), [x-research](https://x.com/dragosroua/status/2093474725976736130) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

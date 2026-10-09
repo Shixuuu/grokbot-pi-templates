@@ -6,7 +6,7 @@ Watches a family member’s Google Maps Location share and alerts an orchestrato
 | --- | --- |
 | Original template | https://x.ai/bot/518qV18_NL99vPVeqNTEL |
 | Creator | Barclay ([@Barclay53012457](https://x.com/Barclay53012457)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/track-parents), [grokbotwiki.com](https://www.grokbotwiki.com/bots/track-parents), [grokbothq.xyz](https://grokbothq.xyz/bots/track-parents), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/track-parents) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

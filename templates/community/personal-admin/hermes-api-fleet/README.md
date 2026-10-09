@@ -6,7 +6,7 @@ Talk to your Hermes Agents over the native HTTP :8642 API across a private Tails
 | --- | --- |
 | Original template | https://x.ai/bot/5KLpaL-JIM2q629kbTh5L |
 | Creator | Shagghie Superstar |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hermes-api-fleet), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hermes-api-fleet), [grokbothq.xyz](https://grokbothq.xyz/bots/hermes-api-fleet), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botdirectory.ai/bots/hermes-api-fleet/) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 10 skills, 0 routines, 11 memory seeds, 0 connectors |

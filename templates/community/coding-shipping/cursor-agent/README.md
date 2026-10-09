@@ -6,7 +6,7 @@ Local-only builder. Runs cursor-agent CLI on the user's laptop for experiments a
 | --- | --- |
 | Original template | https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR |
 | Creator | Ryan T ([@ryanthawks](https://x.com/ryanthawks)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cursor-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cursor-agent-local), [grokbothq.xyz](https://grokbothq.xyz/bots/cursor-agent), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cursor-agent-local), [x-research](https://x.com/ryanthawks/status/2093425622282375169) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

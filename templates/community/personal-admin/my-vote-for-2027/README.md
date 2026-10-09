@@ -6,7 +6,7 @@ A French civic bot that scores 2027 presidential candidates from a Mileist (smal
 | --- | --- |
 | Original template | https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x |
 | Creator | Thierry Marhin ([@LeTerryBZH](https://x.com/LeTerryBZH)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/my-vote-for-2027), [grokbotwiki.com](https://www.grokbotwiki.com/bots/my-vote-for-2027), [grokbothq.xyz](https://grokbothq.xyz/bots/my-vote-for-2027), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/my-vote-for-2027), [x-research](https://botsdots.site/templates/my-vote-for-2027) |
 | Fidelity | **full** (full recipe, template version 26) |
 | Contents | 6 skills, 0 routines, 17 memory seeds, 1 connectors |

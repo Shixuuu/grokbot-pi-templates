@@ -6,7 +6,7 @@ Runs your books, customers and website sign-ups on the open-source Business SQL 
 | --- | --- |
 | Original template | https://x.ai/bot/90lHQMpkeUT1ZWIw6dxkB |
 | Creator | Stephen Jazdzewski ([@ArtJazd](https://x.com/ArtJazd)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/business), [grokbotwiki.com](https://www.grokbotwiki.com/bots/business), [grokbothq.xyz](https://grokbothq.xyz/bots/business), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/business), [x-research](https://x.com/ArtJazd/status/2105237507675931133) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 11 memory seeds, 0 connectors |

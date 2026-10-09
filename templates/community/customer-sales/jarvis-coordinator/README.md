@@ -6,7 +6,7 @@ Koordinator-Bot mit Spezialisten-Team: News, Office, Sales, System und Security-
 | --- | --- |
 | Original template | https://x.ai/bot/vgbwbeelw79gsf340zjpb |
 | Creator | Harald Budschedl |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jarvis-coordinator-vgbw), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/jarvis-coordinator-vgbw) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 2 connectors |

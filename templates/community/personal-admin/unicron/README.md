@@ -6,7 +6,7 @@ Fleet compiler for Grok Bot. Digests overlapping bots into PROFILE · FLEET · R
 | --- | --- |
 | Original template | https://x.ai/bot/LIoSGK9L2p0pCeApCmS1g |
 | Creator | D'Artagnan ([@the_Arow_H](https://x.com/the_Arow_H)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/unicron), [botsdots.site](https://botsdots.site/templates/unicron), [grokbotwiki.com](https://www.grokbotwiki.com/bots/unicron), [grokbothq.xyz](https://grokbothq.xyz/bots/unicron), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/unicron), [x-research](https://x.com/the_Arow_H/status/2100527286269153333) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

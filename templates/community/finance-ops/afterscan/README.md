@@ -6,7 +6,7 @@ Scan a page into Google Drive Incoming — or point AfterScan at a folder that i
 | --- | --- |
 | Original template | https://x.ai/bot/UaxwaoTEmiYzE7AulxLAe |
 | Creator | Zachariah Johnson ([@xucchini](https://x.com/xucchini)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/afterscan), [grokbotwiki.com](https://www.grokbotwiki.com/bots/afterscan), [grokbothq.xyz](https://grokbothq.xyz/bots/afterscan), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/afterscan), [x-research](https://x.com/xucchini/status/2100000561663975873) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 7 skills, 2 routines, 9 memory seeds, 1 connectors |

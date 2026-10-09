@@ -6,7 +6,7 @@ Asistente gaming: builds, guías y meta de los juegos que juegas, más borradore
 | --- | --- |
 | Original template | https://x.ai/bot/w0wamvGSIRi9if0ggIhJd |
 | Creator | Mer ([@merliac84](https://x.com/merliac84)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/codigogamer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/c-digo-gamer), [grokbothq.xyz](https://grokbothq.xyz/bots/co-digo-gamer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/c-digo-gamer), [x-research](https://x.com/merliac84/status/2099900934595711158) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 1 connectors |

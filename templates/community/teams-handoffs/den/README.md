@@ -6,7 +6,7 @@ Adam's family-bot relay (from @Adamdesgns). ONLY job: sit between dad and the fa
 | --- | --- |
 | Original template | https://x.ai/bot/0aEcF7mtG_zsDWXEUeOGx |
 | Creator | lauren 🎀 ([@poteto](https://x.com/poteto)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/den), [botsdots.site](https://botsdots.site/templates/den), [grokbotwiki.com](https://www.grokbotwiki.com/bots/den), [grokbothq.xyz](https://grokbothq.xyz/bots/den), [templatebot.lol](https://templatebot.lol/bot/0aEcF7mtG_zsDWXEUeOGx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/den), [x-research](https://x.com/poteto/status/2093528015900930387) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

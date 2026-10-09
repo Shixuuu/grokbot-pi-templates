@@ -6,7 +6,7 @@ King Lear's Fool, for your court. A sharp jester who tells jokes, roasts the hus
 | --- | --- |
 | Original template | https://x.ai/bot/MDcAPLzRIgI0dqTwWV40O |
 | Creator | slatts.base.eth ([@EvSlatts](https://x.com/EvSlatts)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/the-fool), [botsdots.site](https://botsdots.site/templates/the-fool), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-fool), [grokbothq.xyz](https://grokbothq.xyz/bots/the-fool-mdcapl), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/MDcAPLzRIgI0dqTwWV40O), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/EvSlatts/status/2095501464823124325) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A job-hunt operator for engineers who want remote or relocate roles soon. It sho
 | --- | --- |
 | Original template | https://x.ai/bot/dLeJIzJYRqPkou3t9dEJN |
 | Creator | Ashish P |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/dLeJIzJYRqPkou3t9dEJN) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 14 memory seeds, 3 connectors |

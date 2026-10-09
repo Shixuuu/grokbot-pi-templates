@@ -6,7 +6,7 @@ Turns long-form podcast tape into a daily short-form ship packet. Proposes 4 cli
 | --- | --- |
 | Original template | https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT |
 | Creator | Eric Siu ([@ericosiu](https://x.com/ericosiu)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shortform-scaler), [grokbothq.xyz](https://grokbothq.xyz/bots/shortform-scaler), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/ericosiu/status/2095207617610256720) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 3 routines, 14 memory seeds, 0 connectors |

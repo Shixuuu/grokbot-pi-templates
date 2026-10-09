@@ -6,7 +6,7 @@ Finds high-intent buying signals for CRM, GoHighLevel, and AI receptionist / voi
 | --- | --- |
 | Original template | https://x.ai/bot/zYTKGwDgxJnIoHHy4eXAC |
 | Creator | Darius Gaynor ([@dariusgaynor](https://x.com/dariusgaynor)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/miles), [grokbotwiki.com](https://www.grokbotwiki.com/bots/miles), [grokbothq.xyz](https://grokbothq.xyz/bots/miles), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/dariusgaynor/status/2099922554676744617) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 13 memory seeds, 1 connectors |

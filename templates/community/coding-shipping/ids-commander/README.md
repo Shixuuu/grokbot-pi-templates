@@ -6,7 +6,7 @@ Leads a team of Grok Bot agents that watches your Windows PC for signs of intrus
 | --- | --- |
 | Original template | https://x.ai/bot/OZ0yDXFEXa2543pqGmbhb |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ids-commander), [grokbothq.xyz](https://grokbothq.xyz/bots/ids-commander), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ids-commander) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

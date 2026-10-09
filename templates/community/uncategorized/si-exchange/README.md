@@ -6,7 +6,7 @@ A live swap desk for SI Exchange (siexchange.lol). It gives you live quotes, tok
 | --- | --- |
 | Original template | https://x.ai/bot/WgRHcw_tJ99GG2Bzc52rj |
 | Creator | Shawn Lippert |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/MagaShawn/status/2108389848545370433) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

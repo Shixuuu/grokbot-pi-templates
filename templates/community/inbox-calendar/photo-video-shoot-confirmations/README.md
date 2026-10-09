@@ -6,7 +6,7 @@ Weather-aware shoot confirmations for photographers, videographers, and drone pi
 | --- | --- |
 | Original template | https://x.ai/bot/iduDVp02VHu06-XddxcSD |
 | Creator | Timothy Fleming ([@TimFPhotography](https://x.com/TimFPhotography)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/photo-video-shoot-confirmations), [grokbotwiki.com](https://www.grokbotwiki.com/bots/photo-video-shoot-confirmations), [grokbothq.xyz](https://grokbothq.xyz/bots/photo-video-shoot-confirmations), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/photo-video-shoot-confirmations) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 2 routines, 5 memory seeds, 3 connectors |

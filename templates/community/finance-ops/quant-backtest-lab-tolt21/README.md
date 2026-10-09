@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/TolT21zChD6bYj0ZEA7pE |
 | Creator | jack hu ([@jackhu_bangzhu](https://x.com/jackhu_bangzhu)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quant-backtest-lab), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quant-backtest-lab), [grokbothq.xyz](https://grokbothq.xyz/bots/quant-backtest-lab), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/quant-backtest-lab), [x-research](https://x.com/jackhu_bangzhu/status/2103739894090829964) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

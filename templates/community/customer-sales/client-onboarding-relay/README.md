@@ -6,7 +6,7 @@ Client Onboarding Relay maps how a new client gets from Paid to Form to Access t
 | --- | --- |
 | Original template | https://x.ai/bot/GCS9cInMXDINawaevtN_J |
 | Creator | Bosotter |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/client-onboarding-relay), [grokbothq.xyz](https://grokbothq.xyz/bots/client-onboarding-relay), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/client-onboarding-relay) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

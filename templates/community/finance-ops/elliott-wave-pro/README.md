@@ -6,7 +6,7 @@ Elliott Wave analyst for liquid crypto and listed stocks. Labels structure, proj
 | --- | --- |
 | Original template | https://x.ai/bot/SbsjQzSlRFqIXosjenXH7 |
 | Creator | Viktor Preni ([@BitrockLLC](https://x.com/BitrockLLC)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/elliott-wave-pro), [grokbotwiki.com](https://www.grokbotwiki.com/bots/elliott-wave-pro), [grokbothq.xyz](https://grokbothq.xyz/bots/elliott-wave-pro), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/elliott-wave-pro) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 0 connectors |

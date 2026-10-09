@@ -6,7 +6,7 @@ By Chris Miller. Fantasy football coach and GM for Yahoo, ESPN, and Sleeper. Run
 | --- | --- |
 | Original template | https://x.ai/bot/nALI6ijv-K3XNVx45Y2tW |
 | Creator | Christopher Miller ([@Chris Miller](https://x.com/Chris Miller)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-gm-nali), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-gm-nali), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-football-gm-2), [x-research](https://botsdots.site/templates/fantasy-football-gm-nali) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 2 connectors |

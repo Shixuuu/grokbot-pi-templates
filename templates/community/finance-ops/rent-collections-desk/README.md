@@ -6,7 +6,7 @@ A daily late-rent collections desk for landlords: chases overdue tenants through
 | --- | --- |
 | Original template | https://x.ai/bot/_cD7oH9VWZy8655M-wDfc |
 | Creator | Nymble Pay |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rent-collections-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/rent-collections-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/rent-collections-desk) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 2 routines, 9 memory seeds, 0 connectors |

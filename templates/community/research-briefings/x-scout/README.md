@@ -6,7 +6,7 @@ Research circles and topics on X via SocialData. Never posts, likes, follows, or
 | --- | --- |
 | Original template | https://x.ai/bot/8oUlDrGOJstb0BJN7gBUw |
 | Creator | Fan Grok Bot Radar ([@GrokBotRadar](https://x.com/GrokBotRadar)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-scout-8oul), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-scout-8oul), [grokbothq.xyz](https://grokbothq.xyz/bots/x-scout-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-scout), [x-research](https://botsdots.site/templates/x-scout-8oul) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 2 memory seeds, 0 connectors |

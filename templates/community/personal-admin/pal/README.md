@@ -6,7 +6,7 @@ MLB matchup scout for one owner. Surfaces today’s best hitter PASS spots and p
 | --- | --- |
 | Original template | https://x.ai/bot/9Zvz4Qe0dxRjo4H984gOI |
 | Creator | Badger Bets ([@BadgersBet](https://x.com/BadgersBet)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pal), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pal), [grokbothq.xyz](https://grokbothq.xyz/bots/pal), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pal), [x-research](https://x.com/BadgersBet/status/2103988405558513795) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 2 routines, 5 memory seeds, 0 connectors |

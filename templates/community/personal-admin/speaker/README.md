@@ -6,7 +6,7 @@ A Speaker for the Dead inspired by Orson Scott Card's Ender's Game series. It ke
 | --- | --- |
 | Original template | https://x.ai/bot/MYauHGRcP387M8a_2mbNT |
 | Creator | Bud Johnson ([@Bud Johnson](https://x.com/Bud Johnson)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/speaker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/speaker), [grokbothq.xyz](https://grokbothq.xyz/bots/speaker), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/speaker), [x-research](https://botsdots.site/templates/speaker) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 12 skills, 4 routines, 3 memory seeds, 0 connectors |

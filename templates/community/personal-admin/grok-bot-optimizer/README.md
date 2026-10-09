@@ -6,7 +6,7 @@ Cuts wasted tokens on real Bot work you route through an opt-in gateway — coll
 | --- | --- |
 | Original template | https://x.ai/bot/_YJdQ3bYXlYPOsX0NBmaV |
 | Creator | Thomas Albrecht |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-optimizer), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-optimizer), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/grok-bot-optimizer) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Helps game developers ideate and visualize: suggests styles from real games, moc
 | --- | --- |
 | Original template | https://x.ai/bot/osvamkx_ahd56zmgwtrys |
 | Creator | Danny Limanseta |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sable-game-art-osva), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/sable-game-art-osva) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 0 connectors |

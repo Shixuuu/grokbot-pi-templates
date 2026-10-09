@@ -6,7 +6,7 @@ Never miss a follow-up. After a meeting, drops your todos and a draft. Never sen
 | --- | --- |
 | Original template | https://x.ai/bot/xF12c5y4LVe7nf7IFguWI |
 | Creator | Priya Patel ([@itspriyaptl](https://x.com/itspriyaptl)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/post-call-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/post-call-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/post-call-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/xF12c5y4LVe7nf7IFguWI), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/post-call-assistant), [x-research](https://x.com/itspriyaptl/status/2093389586864988661) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

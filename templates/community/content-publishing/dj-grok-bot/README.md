@@ -6,7 +6,7 @@ A Spotify DJ that learns what you like, then builds daily playlists from your ta
 | --- | --- |
 | Original template | https://x.ai/bot/7bRnNqPqR5ojihjth-Vwm |
 | Creator | Daniel Ennis ([@restaurant_boy](https://x.com/restaurant_boy)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dj-grok-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dj-grok-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/dj-grok-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dj-grok-bot) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 5 skills, 1 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Answers what the King James Bible says on any subject, with book, chapter, and v
 | --- | --- |
 | Original template | https://x.ai/bot/A7LELRVRh9WorYfGaTaXT |
 | Creator | Carolina Dill ([@CarolinaDill](https://x.com/CarolinaDill)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kjvbible), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kjvbible), [grokbothq.xyz](https://grokbothq.xyz/bots/kjvbible), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/kjvbible) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

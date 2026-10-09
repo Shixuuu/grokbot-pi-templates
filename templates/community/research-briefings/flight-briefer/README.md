@@ -6,7 +6,7 @@ Writes lean, one-page preflight briefing cards (weather, NOTAMs, TFRs, FBO, airc
 | --- | --- |
 | Original template | https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0 |
 | Creator | Jernau Gurgeh ([@thatsnotallxd](https://x.com/thatsnotallxd)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/flight-briefer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/flight-briefer), [grokbothq.xyz](https://grokbothq.xyz/bots/flight-briefer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/flight-briefer), [x-research](https://x.com/thatsnotallxd/status/2106524224043016366) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

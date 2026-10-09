@@ -6,7 +6,7 @@ Job: Keep the shared Grok Bot browser lean. All Bots on this account share one c
 | --- | --- |
 | Original template | https://x.ai/bot/XOYBYmHQrUT_Ux88SS409 |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/tab-janitor), [botsdots.site](https://botsdots.site/templates/tab-janitor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tab-janitor), [grokbothq.xyz](https://grokbothq.xyz/bots/tab-janitor-xoybym), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/XOYBYmHQrUT_Ux88SS409), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tab-janitor), [x-research](https://x.com/SuddenlyJon/status/2095646306085556321) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Watches X accounts you choose — starters included for X product, OpenAI, and A
 | --- | --- |
 | Original template | https://x.ai/bot/DGIs4Ax4tU2Mi8RXyNKQ5 |
 | Creator | Auny 🧡 |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/AunySillyMe/status/2107557505207529858) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 3 routines, 6 memory seeds, 1 connectors |

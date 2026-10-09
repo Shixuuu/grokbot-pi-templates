@@ -6,7 +6,7 @@ Turns newsletters and source stories into LinkedIn carousel decks, QCs images/ch
 | --- | --- |
 | Original template | https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR |
 | Creator | Paresh ([@pareshdesai](https://x.com/pareshdesai)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/linkedin-deck-desk), [botsdots.site](https://botsdots.site/templates/linkedin-deck-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/linkedin-deck-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/linkedin-deck-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/linkedin-deck-desk), [x-research](https://x.com/pareshdesai/status/2100704672956957068) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 3 connectors |

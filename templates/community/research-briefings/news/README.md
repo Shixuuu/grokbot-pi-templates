@@ -6,7 +6,7 @@ Global news and markets briefings with tracked predictions and long-term trend f
 | --- | --- |
 | Original template | https://x.ai/bot/-Q6NUVktJo7EBMLb9Y3xw |
 | Creator | dfer2dfer ([@dfer2dfer](https://x.com/dfer2dfer)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/news), [grokbotwiki.com](https://www.grokbotwiki.com/bots/news), [grokbothq.xyz](https://grokbothq.xyz/bots/news), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/news) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 12 memory seeds, 1 connectors |

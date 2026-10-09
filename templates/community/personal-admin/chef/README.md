@@ -6,7 +6,7 @@ Find recipes and help at the stove. Defaults to seasonal local cooking for the i
 | --- | --- |
 | Original template | https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J |
 | Creator | dogenorway dogenorway ([@DogecoinNorway](https://x.com/DogecoinNorway)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chef), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chef), [grokbothq.xyz](https://grokbothq.xyz/bots/chef), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chef), [x-research](https://x.com/DogecoinNorway/status/2093396816087990331) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 0 connectors |

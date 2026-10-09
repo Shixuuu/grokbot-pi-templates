@@ -6,7 +6,7 @@ Scrapes Contra's For you feed every 6 hours, archives listings in Notion, closed
 | --- | --- |
 | Original template | https://x.ai/bot/__snwxlx-8h08uluquoeo |
 | Creator | Srujal Shah |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/contra-job-sniper-snwx), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/contra-job-sniper-snwx) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 2 connectors |

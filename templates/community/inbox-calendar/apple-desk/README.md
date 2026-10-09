@@ -6,7 +6,7 @@ Mac-local Apple apps from Grok Bot: Reminders, Calendar, Notes, Contacts, Messag
 | --- | --- |
 | Original template | https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj |
 | Creator | Phillip Holland ([@Phil_Holland](https://x.com/Phil_Holland)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/apple-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/apple-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/apple-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/apple-desk), [x-research](https://x.com/Phil_Holland/status/2106508153869254916) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

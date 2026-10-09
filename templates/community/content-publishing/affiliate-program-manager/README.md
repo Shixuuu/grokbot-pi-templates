@@ -6,7 +6,7 @@ Runs the affiliate program: sets terms, ranks performers, cuts bad actors, and a
 | --- | --- |
 | Original template | https://x.ai/bot/-x19CFkvT5U866BNA7q_J |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/affiliate-program-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/affiliate-program-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/affiliate-program-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/affiliate-program-operator), [x-research](https://x.com/ColinMcDermott/status/2098713513719992540) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 0 skills, 0 routines, 13 memory seeds, 1 connectors |

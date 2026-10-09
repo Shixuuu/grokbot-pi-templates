@@ -6,7 +6,7 @@ Public house-starter Chief of Staff. Routes work to seats, keeps house board + a
 | --- | --- |
 | Original template | https://x.ai/bot/uT5Zg-fOrmIxowsqoMXzD |
 | Creator | Blaze🔥 ([@Blaze0x1](https://x.com/Blaze0x1)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/house-starter-cos), [grokbotwiki.com](https://www.grokbotwiki.com/bots/house-starter-cos), [grokbothq.xyz](https://grokbothq.xyz/bots/house-starter-cos), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/house-starter-cos) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

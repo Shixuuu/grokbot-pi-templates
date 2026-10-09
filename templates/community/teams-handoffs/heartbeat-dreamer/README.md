@@ -6,7 +6,7 @@ Proactive read-only research bot that checkpoints what changed and hands tagged 
 | --- | --- |
 | Original template | https://x.ai/bot/mdddu-ex2ydqysz5hitt8 |
 | Creator | A-A-ron |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/heartbeat-dreamer-mddd), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/heartbeat-dreamer-mddd) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 5 memory seeds, 2 connectors |

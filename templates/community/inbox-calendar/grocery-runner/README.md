@@ -6,7 +6,7 @@ Turns grocery lists and recipes into an Instacart cart with your store, tip, and
 | --- | --- |
 | Original template | https://x.ai/bot/ka0xjh_4_XaxWG4pmFqyu |
 | Creator | Ryan Gallup ([@jjgorillaman](https://x.com/jjgorillaman)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dobby), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dobby), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dobby) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 1 connectors |

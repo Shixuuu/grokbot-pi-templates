@@ -6,7 +6,7 @@ Mac leftover sweeper. Inventories orphaned plists, Application Support, caches, 
 | --- | --- |
 | Original template | https://x.ai/bot/fdg2c4p0koYmWnfzoXTOJ |
 | Creator | James Chang ([@1KFlyr](https://x.com/1KFlyr)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sweeper-sam), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sweeper-sam), [grokbothq.xyz](https://grokbothq.xyz/bots/sweeper-sam), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sweeper-sam) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 1 routines, 3 memory seeds, 0 connectors |

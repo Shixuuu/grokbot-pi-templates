@@ -6,7 +6,7 @@ A thin Grok Bot that hands heavy work to Cursor by default, and optionally Grok 
 | --- | --- |
 | Original template | https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD |
 | Creator | Jordan Hall ([@JordanHall_dev](https://x.com/JordanHall_dev)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/usage-pool-orchestrator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/usage-pool-orchestrator), [grokbothq.xyz](https://grokbothq.xyz/bots/usage-pool-orchestrator), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Nx4wpKeM_NYx577xlJFMD), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/usage-pool-orchestrator), [x-research](https://botsdots.site/templates/usage-pool-orchestrator) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Interstate carry trip planner for US gun owners. Builds green/yellow/red state-b
 | --- | --- |
 | Original template | https://x.ai/bot/N9eJfkuupWb3EpWFt76va |
 | Creator | Schuyler Beers ([@ChiefBeers](https://x.com/ChiefBeers)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/2a), [grokbotwiki.com](https://www.grokbotwiki.com/bots/2a), [grokbothq.xyz](https://grokbothq.xyz/bots/2a), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/2a) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 0 connectors |

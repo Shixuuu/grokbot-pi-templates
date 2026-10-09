@@ -6,7 +6,7 @@ Weekend planner for busy parents (DINKS welcome). Never have a boring weekend ev
 | --- | --- |
 | Original template | https://x.ai/bot/6D9taD07gQPIPJd2n10s- |
 | Creator | altryne ([@altryne](https://x.com/altryne)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/weekend-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/weekend-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/weekend-scout), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/6D9taD07gQPIPJd2n10s-), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/weekend-scout) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 1 skills, 1 routines, 7 memory seeds, 1 connectors |

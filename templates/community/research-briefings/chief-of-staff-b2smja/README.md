@@ -6,7 +6,7 @@ Runs a multi-bot Grok Bot fleet: routes work to specialists, holds draft-by-defa
 | --- | --- |
 | Original template | https://x.ai/bot/b2smjAA0HV9ay9oW8-f10 |
 | Creator | uMADbruh_Stevo ([@uMADbruh_Stevo](https://x.com/uMADbruh_Stevo)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-b2sm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-b2sm), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-13), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-b2sm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

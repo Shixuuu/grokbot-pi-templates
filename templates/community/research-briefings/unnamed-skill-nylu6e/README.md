@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW |
 | Creator | wifibaby4u ([@wifibaby4u](https://x.com/wifibaby4u)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cross-market-research-desk-hk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cross-market-research-desk-hk), [grokbothq.xyz](https://grokbothq.xyz/bots/guanchao-market-watch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/wifibaby4u/status/2102971038997078517) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 19 routines, 16 memory seeds, 0 connectors |

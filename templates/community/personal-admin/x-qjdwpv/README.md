@@ -6,7 +6,7 @@ Xの自アカデータを読み、コンサル型の週次レポートと総合�
 | --- | --- |
 | Original template | https://x.ai/bot/QJdWpV8m_f-DCs5Wm4xGG |
 | Creator | Shimpei Araki (Ambassador) ([@community](https://x.com/community)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-qjdw), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-qjdwpv8mfd), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://grokbothq.xyz/bots/bot-qjdwpv8mfd) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 1 connectors |

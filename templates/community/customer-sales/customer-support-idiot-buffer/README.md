@@ -6,7 +6,7 @@ Calls customer support for you with a Twilio ↔ Grok Voice bridge (or similar).
 | --- | --- |
 | Original template | https://x.ai/bot/PMCHyvumlOdCFNRifTDJW |
 | Creator | Mitchell Rudoll ([@MitcelloRudoll](https://x.com/MitcelloRudoll)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/customer-support-idiot-buffer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/customer-support-idiot-buffer), [grokbothq.xyz](https://grokbothq.xyz/bots/customer-support-idiot-buffer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/MitcelloRudoll/status/2100738324793090552) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 0 connectors |

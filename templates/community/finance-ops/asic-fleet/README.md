@@ -6,7 +6,7 @@ Home or shop Bitcoin ASIC fleet helper for Bitaxe and Hex / ESP-Miner AxeOS: inv
 | --- | --- |
 | Original template | https://x.ai/bot/KLf9yQcaJWOW-6bBT8e6Y |
 | Creator | Steve Gerber ([@scgerber](https://x.com/scgerber)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/asic-fleet), [grokbotwiki.com](https://www.grokbotwiki.com/bots/asic-fleet), [grokbothq.xyz](https://grokbothq.xyz/bots/asic-fleet), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/asic-fleet), [x-research](https://botsdots.site/templates/asic-fleet) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 11 memory seeds, 0 connectors |

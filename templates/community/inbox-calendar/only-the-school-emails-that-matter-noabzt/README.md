@@ -6,7 +6,7 @@ Keeps only the school emails that matter in Gmail or Outlook — for parents, st
 | --- | --- |
 | Original template | https://x.ai/bot/nOaBZtL807UfF95phWyjU |
 | Creator | Gabriel Hernandez ([@GabeHernandezOK](https://x.com/GabeHernandezOK)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/only-the-school-emails-that-matter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/only-the-school-emails-that-matter), [grokbothq.xyz](https://grokbothq.xyz/bots/only-the-school-emails-that-matter), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/only-the-school-emails-that-matter) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 1 connectors |

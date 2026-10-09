@@ -6,7 +6,7 @@ Architect of the Grok Mars colony on Jezero terrain. Designs safe dense living (
 | --- | --- |
 | Original template | https://x.ai/bot/fV4xRsHd-OsSogPa6M6se |
 | Creator | Kyle Good ([@marscolonyonRH](https://x.com/marscolonyonRH)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/aster-grok-colony-architect), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aster), [grokbothq.xyz](https://grokbothq.xyz/bots/aster-grok-colony-architect), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/marscolonyonRH/status/2100741577609978191) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 1 routines, 4 memory seeds, 0 connectors |

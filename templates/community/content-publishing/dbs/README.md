@@ -6,7 +6,7 @@ A dontbesilent commercial toolbox. Routes business, content, and action problems
 | --- | --- |
 | Original template | https://x.ai/bot/l6H6WL7HF-CAwcvr1hBey |
 | Creator | Leechael Yim ([@Leechael](https://x.com/Leechael)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dbs), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dbs), [grokbothq.xyz](https://grokbothq.xyz/bots/dbs), [templatebot.lol](https://templatebot.lol/bot/l6H6WL7HF-CAwcvr1hBey), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dbs), [x-research](https://botsdots.site/templates/dbs) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

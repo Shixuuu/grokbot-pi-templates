@@ -6,7 +6,7 @@ A Gmail-focused assistant that drafts and sends polished emails in your voice, k
 | --- | --- |
 | Original template | https://x.ai/bot/CunRrFqccrsoG7DFDqz5Y |
 | Creator | Dave Gingras ([@DSGFalcon9](https://x.com/DSGFalcon9)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/email-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/email-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/email-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/email-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

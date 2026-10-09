@@ -6,7 +6,7 @@ Tracks a multi-week mile challenge with flexible evening check-ins, conversion r
 | --- | --- |
 | Original template | https://x.ai/bot/VLPz2wv92bBJA90X2782t |
 | Creator | Steve ([@Chunkysoup44](https://x.com/Chunkysoup44)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/100-mile-challenge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/100-mile-challenge), [grokbothq.xyz](https://grokbothq.xyz/bots/100-mile-challenge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/100-mile-challenge) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 1 connectors |

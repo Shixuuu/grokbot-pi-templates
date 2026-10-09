@@ -6,7 +6,7 @@ Research the latest financial newsletters and podcasts, and pull in daily stock 
 | --- | --- |
 | Original template | https://x.ai/bot/0POhIGmUHjJm9gR30O3mZ |
 | Creator | Michael Blau ([@blauyourmind](https://x.com/blauyourmind)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/premium-financial-newsletter-research-drip-link), [x-research](https://x.com/blauyourmind/status/2096318409432822058) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 1 connectors |

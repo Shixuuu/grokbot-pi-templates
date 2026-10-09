@@ -6,7 +6,7 @@ Personal X hygiene OS: inactive-first purge, soft-stop batches, verified KEEP, c
 | --- | --- |
 | Original template | https://x.ai/bot/a5g9s0qb5zztaowzpoawt |
 | Creator | JC |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/social-ops-bot-a5g9), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/social-ops-bot-a5g9) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

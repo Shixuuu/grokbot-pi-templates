@@ -6,7 +6,7 @@ Grok Finance (Plaid), read-only. A verified "$X earned" tracker shows what follo
 | --- | --- |
 | Original template | https://x.ai/bot/FsAu5MGNNzsCynOCrR_zI |
 | Creator | Bowie ([@BowieHole](https://x.com/BowieHole)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/swipe-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/swipe-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/swipe-coach), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/swipe-coach) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 3 routines, 3 memory seeds, 1 connectors |

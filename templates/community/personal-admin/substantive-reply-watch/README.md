@@ -6,7 +6,7 @@ Lean X reply watch for creators. Surfaces only new substantive replies that need
 | --- | --- |
 | Original template | https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC |
 | Creator | Tom Finnell ([@d2fl](https://x.com/d2fl)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/substantive-reply-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/d2fl-template), [grokbothq.xyz](https://grokbothq.xyz/bots/substantive-reply-watch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/d2fl/status/2100633262955897013) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

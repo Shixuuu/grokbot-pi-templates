@@ -6,7 +6,7 @@ Finds real, date-checked local events within the drive time you choose from any 
 | --- | --- |
 | Original template | https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz |
 | Creator | Frederick Su ([@FrederickPaiSu](https://x.com/FrederickPaiSu)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/aaron-event-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aaron-event-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/aaron-event-finder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/aaron-event-finder), [x-research](https://botsdots.site/templates/aaron-event-finder) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 6 skills, 0 routines, 3 memory seeds, 0 connectors |

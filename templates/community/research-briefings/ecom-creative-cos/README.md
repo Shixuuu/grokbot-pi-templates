@@ -6,7 +6,7 @@ Chief of Staff for ecom creative ops — Drive listing files by SKU, Higgsfield 
 | --- | --- |
 | Original template | https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt |
 | Creator | Shalom Serraf ([@ShalomNFT](https://x.com/ShalomNFT)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ecom-creative-cos), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ecom-creative-cos), [grokbothq.xyz](https://grokbothq.xyz/bots/ecom-creative-cos), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ecom-creative-cos) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Defensive briefings on X accounts that DM you, or on a public follower or follow
 | --- | --- |
 | Original template | https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP |
 | Creator | GreenbarSystems ([@RyanGBsystems](https://x.com/RyanGBsystems)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/maskoff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/maskoff), [grokbothq.xyz](https://grokbothq.xyz/bots/maskoff), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/39x_3B9P5HBl-MpK1xGzP), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/maskoff), [x-research](https://x.com/RyanGBsystems/status/2094897077335802276) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 2 routines, 3 memory seeds, 0 connectors |

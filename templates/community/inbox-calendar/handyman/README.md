@@ -6,7 +6,7 @@ A household maintenance tracker that remembers your filter size, logs when each 
 | --- | --- |
 | Original template | https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI |
 | Creator | Dylan Mitchell ([@dkmitc](https://x.com/dkmitc)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/handyman), [grokbotwiki.com](https://www.grokbotwiki.com/bots/handyman), [grokbothq.xyz](https://grokbothq.xyz/bots/handyman), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/handyman), [x-research](https://x.com/dkmitc/status/2103988834253820025) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 6 routines, 3 memory seeds, 2 connectors |

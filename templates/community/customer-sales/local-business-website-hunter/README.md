@@ -6,7 +6,7 @@ Finds active local businesses with no website, builds each a demo site from its 
 | --- | --- |
 | Original template | https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG |
 | Creator | Kevin Milo |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/local-business-website-hunter) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 1 connectors |

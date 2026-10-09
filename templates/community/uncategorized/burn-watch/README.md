@@ -6,7 +6,7 @@ Usage CFO for Grok Bot. Soft/Hard burn stops, % estimates, cheap paths, fleet ov
 | --- | --- |
 | Original template | https://x.ai/bot/lkvHvaZoGSoOz-zHZ0XDn |
 | Creator | Calix Build |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/CaliLumberJack/status/2107559514123977205) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 5 skills, 0 routines, 4 memory seeds, 0 connectors |

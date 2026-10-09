@@ -6,7 +6,7 @@ Chief of Staff front door for real work: morning briefs, dual-sign quality gates
 | --- | --- |
 | Original template | https://x.ai/bot/w3TZCehmbfZesYLz-mOym |
 | Creator | Sebastian Nikolaus ([@OHB_Honeybadger](https://x.com/OHB_Honeybadger)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nero-ceo-spot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nero-ceo-spot), [grokbothq.xyz](https://grokbothq.xyz/bots/nero-ceo-spot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/nero-ceo-spot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 6 skills, 3 routines, 4 memory seeds, 2 connectors |

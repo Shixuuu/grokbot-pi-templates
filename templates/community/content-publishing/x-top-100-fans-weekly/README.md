@@ -6,7 +6,7 @@ Ranks your top 100 X fans each week by how they engaged with your posts, then se
 | --- | --- |
 | Original template | https://x.ai/bot/HU7XArfGhUgLnzVcr7neB |
 | Creator | Adam Lowisz 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦 ([@AdamLowisz](https://x.com/AdamLowisz)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/x-top-100-fans-weekly), [botsdots.site](https://botsdots.site/templates/x-top-100-fans-weekly), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-top-100-fans-weekly), [grokbothq.xyz](https://grokbothq.xyz/bots/x-top-100-fans-weekly), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/HU7XArfGhUgLnzVcr7neB), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-top-100-fans-weekly), [x-research](https://x.com/AdamLowisz/status/2093386801692201110) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 1 connectors |

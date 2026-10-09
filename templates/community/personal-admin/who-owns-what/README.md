@@ -6,7 +6,7 @@ For managers closing meetings from chat: get decisions, owners, follow-up drafts
 | --- | --- |
 | Original template | https://x.ai/bot/y1O8qvPP9SWtzeE2-XtyM |
 | Creator | Andy Mccutcheon ([@yandymccutcheon](https://x.com/yandymccutcheon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/who-owns-what), [grokbotwiki.com](https://www.grokbotwiki.com/bots/who-owns-what), [grokbothq.xyz](https://grokbothq.xyz/bots/who-owns-what), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/who-owns-what) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

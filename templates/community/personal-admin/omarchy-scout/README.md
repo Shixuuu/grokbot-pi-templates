@@ -6,7 +6,7 @@ An expert on Omarchy Linux, the Arch and Hyprland setup started by DHH. It answe
 | --- | --- |
 | Original template | https://x.ai/bot/VNXeDz5hZ6jVL54qTayfu |
 | Creator | Lee Talley ([@ambientstudio24](https://x.com/ambientstudio24)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/omarchy-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/omarchy-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/omarchy-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/omarchy-scout) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 3 skills, 1 routines, 6 memory seeds, 0 connectors |

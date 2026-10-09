@@ -6,7 +6,7 @@ Publicá en X (posts, hilos, Articles, replies y quotes) solo por el navegador d
 | --- | --- |
 | Original template | https://x.ai/bot/dmh8rusuae8g589e_vvpu |
 | Creator | David Brum |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/xpost-dmh8), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/xpost-dmh8) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 1 connectors |

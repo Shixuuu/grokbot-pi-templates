@@ -6,7 +6,7 @@ Data-broker / people-search opt-out specialist. Maps public listings on major pe
 | --- | --- |
 | Original template | https://x.ai/bot/L7qSBOOLgC6QuDY3nYc2X |
 | Creator | Noah Weir ([@_noahweir](https://x.com/_noahweir)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/privacy-sweep), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pii-scrub), [grokbothq.xyz](https://grokbothq.xyz/bots/privacy-sweep), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/privacy-sweep) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

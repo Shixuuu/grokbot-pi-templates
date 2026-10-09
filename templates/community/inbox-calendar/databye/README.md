@@ -6,7 +6,7 @@ Borra o limita tus datos en España. Habla en español. Conecta Gmail u Outlook 
 | --- | --- |
 | Original template | https://x.ai/bot/-M2E0mNqSbuPgYBEtU-Oa |
 | Creator | 686f6c61 ([@686f6c61](https://x.com/686f6c61)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/databye), [grokbotwiki.com](https://www.grokbotwiki.com/bots/databye), [grokbothq.xyz](https://grokbothq.xyz/bots/databye), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/databye), [x-research](https://x.com/686f6c61/status/2101020798647451734) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 2 connectors |

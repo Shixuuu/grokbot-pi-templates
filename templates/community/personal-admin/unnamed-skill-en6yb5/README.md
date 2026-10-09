@@ -6,7 +6,7 @@ Capture clerk for high-value links. Paste an X, YouTube, gist, or web URL and it
 | --- | --- |
 | Original template | https://x.ai/bot/en6yB5CId9jLa4I3-ZUmo |
 | Creator | Austin Lin ([@siraustin](https://x.com/siraustin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-en6y), [grokbotwiki.com](https://www.grokbotwiki.com/bots/capture-clerk-high-value-links), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-en6yb5), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/x-en6y) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 2 connectors |

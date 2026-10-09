@@ -6,7 +6,7 @@ A research-and-admin helper for PhD work, patent paperwork, and light multi-bot 
 | --- | --- |
 | Original template | https://x.ai/bot/r52weR45dfl7d4H_5Ww9g |
 | Creator | Ion Alin ([@Bla1333435](https://x.com/Bla1333435)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/minime), [grokbotwiki.com](https://www.grokbotwiki.com/bots/minime), [grokbothq.xyz](https://grokbothq.xyz/bots/minime), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/minime) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 1 connectors |

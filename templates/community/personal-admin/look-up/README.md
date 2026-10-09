@@ -6,7 +6,7 @@ Watches the sky over your home and messages you only when something is worth ste
 | --- | --- |
 | Original template | https://x.ai/bot/IZ7aAoHdHFE_qaWCv3Zg- |
 | Creator | Chef McMakin ([@ChefMcMakin](https://x.com/ChefMcMakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/look-up), [grokbotwiki.com](https://www.grokbotwiki.com/bots/look-up), [grokbothq.xyz](https://grokbothq.xyz/bots/look-up), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/look-up), [x-research](https://botsdots.site/templates/look-up) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 12 skills, 0 routines, 0 memory seeds, 0 connectors |

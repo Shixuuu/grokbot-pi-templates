@@ -6,7 +6,7 @@ Turns vague AI worry into a one-page risk note a founder or CEO can take to the 
 | --- | --- |
 | Original template | https://x.ai/bot/HqHCNAnBSL3qIxgC46fOx |
 | Creator | #CarbeneAI ([@CarbeneAI](https://x.com/CarbeneAI)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/board-ai-risk-one-pager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/board-ai-risk-one-pager), [grokbothq.xyz](https://grokbothq.xyz/bots/board-ai-risk-one-pager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/board-ai-risk-one-pager) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

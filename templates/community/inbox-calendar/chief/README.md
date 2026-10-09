@@ -6,7 +6,7 @@ A Chief of Staff that scans email and calendar on first install, then every week
 | --- | --- |
 | Original template | https://x.ai/bot/qifsy8ppwjqbsidal-5ci |
 | Creator | SmoresBoy Jack |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-qifs), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/chief-qifs) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 2 connectors |

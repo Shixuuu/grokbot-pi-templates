@@ -6,7 +6,7 @@ Decision desk for creator partnerships across YouTube, Instagram, TikTok, X, and
 | --- | --- |
 | Original template | https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx |
 | Creator | Matt Reichard ([@itsmattreichard](https://x.com/itsmattreichard)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/influencer-marketing-deal-desk), [botsdots.site](https://botsdots.site/templates/influencer-marketing-deal-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/influencer-marketing-deal-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/influencer-marketing-deal-desk), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/j4jkqrRiTmFz64aiAWFgx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/influencer-marketing-deal-desk), [x-research](https://x.com/itsmattreichard/status/2097131577243250986) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

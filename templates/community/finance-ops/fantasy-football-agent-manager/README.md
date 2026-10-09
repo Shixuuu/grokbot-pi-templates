@@ -6,7 +6,7 @@ Front-door GM for a multi-league fantasy football shop. Fans work to specialist 
 | --- | --- |
 | Original template | https://x.ai/bot/vjLDDwWJYW6S8SxSRxSy7 |
 | Creator | Eric ([@androiydai](https://x.com/androiydai)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-agent-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-agent-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-football-agent-manager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fantasy-football-agent-manager) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 9 skills, 0 routines, 9 memory seeds, 0 connectors |

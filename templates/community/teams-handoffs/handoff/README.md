@@ -6,7 +6,7 @@ Turns mid-project context into one clear next move — biggest task, three steps
 | --- | --- |
 | Original template | https://x.ai/bot/cyivuykkle--pvvmehhho |
 | Creator | Tool Share |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/handoff-cyiv), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/handoff-cyiv) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

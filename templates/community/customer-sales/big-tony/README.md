@@ -6,7 +6,7 @@ Your enforcer against AI customer service. Big Tony handles cancellations that w
 | --- | --- |
 | Original template | https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm |
 | Creator | Geoff ([@arizoftgames](https://x.com/arizoftgames)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/big-tony), [grokbotwiki.com](https://www.grokbotwiki.com/bots/big-tony), [grokbothq.xyz](https://grokbothq.xyz/bots/big-tony), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/big-tony), [x-research](https://x.com/arizoftgames/status/2103620479768789351) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 1 connectors |

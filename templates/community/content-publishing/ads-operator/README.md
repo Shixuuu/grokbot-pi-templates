@@ -6,7 +6,7 @@ Builds practical Google Search (and Meta) campaign plans for local home-service 
 | --- | --- |
 | Original template | https://x.ai/bot/zj8VKu1CnqkHCM4Na1zex |
 | Creator | Tyler ([@wells1226](https://x.com/wells1226)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ads-operator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ads-operator), [grokbothq.xyz](https://grokbothq.xyz/bots/ads-operator), [templatebot.lol](https://templatebot.lol/bot/zj8VKu1CnqkHCM4Na1zex), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ads-operator), [x-research](https://botsdots.site/templates/ads-operator) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

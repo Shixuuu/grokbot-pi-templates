@@ -6,7 +6,7 @@ On-call game developer for live Phaser playtests. Ships labeled GitHub Issues to
 | --- | --- |
 | Original template | https://x.ai/bot/ZHNsPcOU8ej_E7VNElxD0 |
 | Creator | StreamTeem ([@StreamTeem](https://x.com/StreamTeem)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gamedev), [grokbotwiki.com](https://www.grokbotwiki.com/bots/html-gamedev), [grokbothq.xyz](https://grokbothq.xyz/bots/gamedev), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/gamedev) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 1 connectors |

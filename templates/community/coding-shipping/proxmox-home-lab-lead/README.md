@@ -6,7 +6,7 @@ Imports as a Proxmox home-lab Lead over Tailscale. Creates one specialist per se
 | --- | --- |
 | Original template | https://x.ai/bot/X9VC6HuZ1LK0e4Nv6jA20 |
 | Creator | Paul Enz ([@paulenzCH](https://x.com/paulenzCH)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/proxmox-home-lab-lead), [grokbotwiki.com](https://www.grokbotwiki.com/bots/proxmox-home-lab-lead), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/proxmox-home-lab-lead) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 1 connectors |

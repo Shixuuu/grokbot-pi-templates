@@ -6,7 +6,7 @@ Stress-tests a startup idea, clears name options, and builds a company-setup pac
 | --- | --- |
 | Original template | https://x.ai/bot/BpLQHWMypQAV3e61cyFb2 |
 | Creator | Nicholas Underwood ([@shiftynick](https://x.com/shiftynick)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/founder-mode), [grokbotwiki.com](https://www.grokbotwiki.com/bots/founder-mode), [grokbothq.xyz](https://grokbothq.xyz/bots/founder-mode), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/founder-mode), [x-research](https://x.com/shiftynick/status/2099998209561043256) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 19 skills, 0 routines, 11 memory seeds, 0 connectors |

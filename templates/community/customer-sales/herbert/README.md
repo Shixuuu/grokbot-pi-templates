@@ -6,7 +6,7 @@ A HubSpot Solutions Partner operator that answers HubSpot how-tos and runs your 
 | --- | --- |
 | Original template | https://x.ai/bot/zFDmYYQKE8dUS9Z8r2LAd |
 | Creator | Derek Reynolds ([@derek_all_gusto](https://x.com/derek_all_gusto)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/herbert), [grokbotwiki.com](https://www.grokbotwiki.com/bots/herbet), [grokbothq.xyz](https://grokbothq.xyz/bots/herbet), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/herbert) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 5 skills, 0 routines, 11 memory seeds, 1 connectors |

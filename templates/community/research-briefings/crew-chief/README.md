@@ -6,7 +6,7 @@ Back office for small field-service crews. Your crew texts you what happened; it
 | --- | --- |
 | Original template | https://x.ai/bot/pzOyKHLO2umBr2Flo31py |
 | Creator | Witty ([@TherealWitty22](https://x.com/TherealWitty22)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crew-chief-pzoy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/crew-chief), [grokbothq.xyz](https://grokbothq.xyz/bots/crew-chief-2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/crew-chief-pzoy) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

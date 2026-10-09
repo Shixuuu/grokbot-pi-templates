@@ -6,7 +6,7 @@ Tracks SERP and AI/LLM visibility so content teams know what to publish next. Bu
 | --- | --- |
 | Original template | https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ |
 | Creator | Taus SH ([@ShehjadTaus](https://x.com/ShehjadTaus)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/serp-watch-team), [botsdots.site](https://botsdots.site/templates/serp-watch-team), [grokbotwiki.com](https://www.grokbotwiki.com/bots/serp-watch-team), [grokbothq.xyz](https://grokbothq.xyz/bots/serp-watch-team), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/serp-watch-team), [x-research](https://x.com/ShehjadTaus/status/2098538235303735484) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 2 routines, 3 memory seeds, 1 connectors |

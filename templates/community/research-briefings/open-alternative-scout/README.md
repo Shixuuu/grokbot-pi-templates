@@ -6,7 +6,7 @@ Finds fast-rising software products and prepares independent open-source alterna
 | --- | --- |
 | Original template | https://x.ai/bot/N7-cgHvWrQs6ZF-wBjAGG |
 | Creator | Victor Motricala ([@VictorMotricala](https://x.com/VictorMotricala)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/open-alternative-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/open-alternative-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/open-alternative-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/VictorMotricala/status/2102428609621160188) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 0 connectors |

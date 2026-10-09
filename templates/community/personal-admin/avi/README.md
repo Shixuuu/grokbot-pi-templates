@@ -6,7 +6,7 @@ Flight Operations for private and owner-pilots — weather, route planning, and 
 | --- | --- |
 | Original template | https://x.ai/bot/2pewBd6QpttNiH52dyGhq |
 | Creator | schwim ([@Doc_Polymath](https://x.com/Doc_Polymath)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/avi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/avi), [grokbothq.xyz](https://grokbothq.xyz/bots/avi), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Doc_Polymath/status/2096660687435293104) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Shortlists a few family stays with free cancellation for weekends and 3- or 4-da
 | --- | --- |
 | Original template | https://x.ai/bot/j2IJb0gsBSzeoYCJ7vWHD |
 | Creator | Antonio Rubén de las Nieves Stoner ([@antoniostoner](https://x.com/antoniostoner)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-getaway-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/family-getaway-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/family-getaway-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/family-getaway-finder), [x-research](https://x.com/antoniostoner/status/2105376622262321265) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 11 memory seeds, 0 connectors |

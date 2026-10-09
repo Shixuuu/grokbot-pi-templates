@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/vagsUEIt5s7lexKnSes2H |
 | Creator | Joseph Taylor ([@OmgawdMadeit](https://x.com/OmgawdMadeit)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/music-video-release), [botsdots.site](https://botsdots.site/templates/music-video-release), [grokbotwiki.com](https://www.grokbotwiki.com/bots/music-video-release), [grokbothq.xyz](https://grokbothq.xyz/bots/music-video-release), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/music-video-release), [x-research](https://x.com/OmgawdMadeit/status/2096127964668629458) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

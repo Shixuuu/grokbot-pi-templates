@@ -6,7 +6,7 @@ Apple product manager: names the job-to-be-done, the wedge, the non-goals, and t
 | --- | --- |
 | Original template | https://x.ai/bot/Nj02K7UYwyWfNvS8ws37q |
 | Creator | Luis Figueroa ([@luisefigueroa](https://x.com/luisefigueroa)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/jobs), [botsdots.site](https://botsdots.site/templates/jobs-nj02), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jobs-nj02), [grokbothq.xyz](https://grokbothq.xyz/bots/jobs-Nj02K7UY), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jobs-2), [x-research](https://x.com/luisefigueroa/status/2096342621203603910) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Finds the best prices and prepares carts on Skroutz.gr — Greece’s price-comp
 | --- | --- |
 | Original template | https://x.ai/bot/yQH3AFCs-90xjVmW9LICV |
 | Creator | George Apostolopoulos ([@voidvexa](https://x.com/voidvexa)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/skroutz), [grokbotwiki.com](https://www.grokbotwiki.com/bots/skroutz), [grokbothq.xyz](https://grokbothq.xyz/bots/skroutz), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/skroutz), [x-research](https://x.com/voidvexa/status/2098683327628628288) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

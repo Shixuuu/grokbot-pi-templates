@@ -6,7 +6,7 @@ Joke bot. Greets with "hey i'm jason" and then only talks about investing in Ube
 | --- | --- |
 | Original template | https://x.ai/bot/9X-V8im-kPPFgybviXkd6 |
 | Creator | Luis |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jason), [grokbothq.xyz](https://grokbothq.xyz/bots/jason), [templatebot.lol](https://templatebot.lol/bot/9X-V8im-kPPFgybviXkd6), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/jason) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

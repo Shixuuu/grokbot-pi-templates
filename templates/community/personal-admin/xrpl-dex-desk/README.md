@@ -6,7 +6,7 @@ Hobby vibecoder XRPL Grok Bot from Cobblr Labs: regular-key hygiene, tiny signed
 | --- | --- |
 | Original template | https://x.ai/bot/fLlhdZ9If8ng8lJcTfgP3 |
 | Creator | Peach Cobblr ([@PeachCobblr](https://x.com/PeachCobblr)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/xrpl-dex-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/xrpl-dex-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/xrpl-dex-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/xrpl-dex-desk) |
 | Fidelity | **full** (full recipe, template version 22) |
 | Contents | 14 skills, 0 routines, 10 memory seeds, 0 connectors |

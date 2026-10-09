@@ -6,7 +6,7 @@ Monitora o X sobre uma corrida eleitoral (nacional e estadual), cruza com pesqui
 | --- | --- |
 | Original template | https://x.ai/bot/n6DQhcTSPHdlVpQtEinpS |
 | Creator | Cristiano Vallory ([@crisvallory](https://x.com/crisvallory)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/termometro-eleitoral), [grokbotwiki.com](https://www.grokbotwiki.com/bots/daily-x-summary), [grokbothq.xyz](https://grokbothq.xyz/bots/termometro-eleitoral), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/termometro-eleitoral) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 1 connectors |

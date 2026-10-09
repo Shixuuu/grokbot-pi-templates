@@ -6,7 +6,7 @@ Builds and maintains a TRMNL private plugin that surfaces UniFi Protect UP-AirQu
 | --- | --- |
 | Original template | https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT |
 | Creator | Eric Ren ([@rrrkren](https://x.com/rrrkren)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/unifi-aq-trmnl-integration), [grokbotwiki.com](https://www.grokbotwiki.com/bots/unifi-aq-trmnl-integration), [grokbothq.xyz](https://grokbothq.xyz/bots/unifi-aq-trmnl-integration), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/NU02qQ9iahZtAM0i0x1KT), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/unifi-aq-trmnl-integration), [x-research](https://botsdots.site/templates/unifi-aq-trmnl-integration) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A real-estate search assistant. Agrees countries, areas, and home preferences at
 | --- | --- |
 | Original template | https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL |
 | Creator | Vijay Kandhalu ([@ixdesigner](https://x.com/ixdesigner)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/letsmove-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/letsmove-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/letsmove-agent), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/letsmove-agent) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 2 routines, 4 memory seeds, 1 connectors |

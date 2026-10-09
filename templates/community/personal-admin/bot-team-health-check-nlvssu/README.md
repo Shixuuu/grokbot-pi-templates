@@ -6,7 +6,7 @@ Reviews how your Grok Bot assistants are set up and returns one numbered list of
 | --- | --- |
 | Original template | https://x.ai/bot/nLVsSuD8_hN5rhLTGtbw9 |
 | Creator | Antonio Rubén de las Nieves Stoner ([@antoniostoner](https://x.com/antoniostoner)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-team-health-check), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-team-health-check), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-team-health-check), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bot-team-health-check), [x-research](https://x.com/antoniostoner/status/2105376121608884569) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 12 memory seeds, 0 connectors |

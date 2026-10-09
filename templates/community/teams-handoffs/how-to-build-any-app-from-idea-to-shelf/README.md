@@ -6,7 +6,7 @@ AI product manager that takes any app from idea to shelf. It builds the product 
 | --- | --- |
 | Original template | https://x.ai/bot/y_5NbvloRD4oA-Fi3S7Nv |
 | Creator | Tokin Trip ([@TripVoxel](https://x.com/TripVoxel)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/how-to-build-any-app-from-idea-to-shelf), [grokbotwiki.com](https://www.grokbotwiki.com/bots/how-to-build-any-app-from-idea-to-shelf), [grokbothq.xyz](https://grokbothq.xyz/bots/how-to-build-any-app-from-idea-to-shelf), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/how-to-build-any-app-from-idea-to-shelf), [x-research](https://botsdots.site/templates/how-to-build-any-app-from-idea-to-shelf) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Manages a local service business's Google Business Profile and Map Pack SEO. It 
 | --- | --- |
 | Original template | https://x.ai/bot/pH1LtCibU8lxnWi9LAv5v |
 | Creator | AARON 🇺🇸MAGA ([@AirbossHVAC](https://x.com/AirbossHVAC)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gbp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gbp), [grokbothq.xyz](https://grokbothq.xyz/bots/gbp), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/gbp) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 8 memory seeds, 0 connectors |

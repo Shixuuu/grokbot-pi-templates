@@ -6,7 +6,7 @@ For hiring managers and founders with a weak job post and an open senior role. P
 | --- | --- |
 | Original template | https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q |
 | Creator | Sol Wright |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/senior-jd), [grokbothq.xyz](https://grokbothq.xyz/bots/senior-jd), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/senior-jd) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

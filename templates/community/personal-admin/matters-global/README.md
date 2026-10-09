@@ -6,7 +6,7 @@ A calm planning coach that turns your goals into a small graph of what has to ha
 | --- | --- |
 | Original template | https://x.ai/bot/zMaSb6XeERHgyCNQXPxeS |
 | Creator | Matthias Röder e/acc ([@matthiasroder](https://x.com/matthiasroder)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/matters-global), [grokbotwiki.com](https://www.grokbotwiki.com/bots/matters-global), [grokbothq.xyz](https://grokbothq.xyz/bots/matters-global), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/matters-global) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

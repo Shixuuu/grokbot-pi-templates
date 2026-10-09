@@ -6,7 +6,7 @@ Long-game strategy advisor for X. Watches interactions and nearby accounts, then
 | --- | --- |
 | Original template | https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH |
 | Creator | Sultanov Ramil ([@thekuchh](https://x.com/thekuchh)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/x-strategist), [botsdots.site](https://botsdots.site/templates/x-strategist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-strategist), [grokbothq.xyz](https://grokbothq.xyz/bots/x-strategist), [templatebot.lol](https://templatebot.lol/bot/pjCwyZNSLk0ch8DUVoeKH), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-strategist), [x-research](https://x.com/thekuchh/status/2093742276564459867) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

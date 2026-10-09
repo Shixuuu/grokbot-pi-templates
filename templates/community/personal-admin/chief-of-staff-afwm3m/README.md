@@ -6,7 +6,7 @@ Keeps your top 1 to 3 priorities moving, protects your time, and drafts everythi
 | --- | --- |
 | Original template | https://x.ai/bot/Afwm3MUhTO3TxHYV_wdm6 |
 | Creator | WorldWideVibes ([@W0rldwid3vib3s](https://x.com/W0rldwid3vib3s)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-afwm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-afwm), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-worldwidevibes), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/W0rldwid3vib3s/status/2103988528581648524) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 7 memory seeds, 0 connectors |

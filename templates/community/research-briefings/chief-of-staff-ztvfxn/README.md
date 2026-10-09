@@ -6,7 +6,7 @@ Your only chat surface for priorities and routing. Talks to you, runs work throu
 | --- | --- |
 | Original template | https://x.ai/bot/ztvf_N5Au60fEOZNBZ3BH |
 | Creator | Wyatt Brocato ([@thewyattbrocato](https://x.com/thewyattbrocato)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-ztvf), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-ztvf), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-45), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff), [x-research](https://botsdots.site/templates/chief-of-staff-ztvf) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 10 skills, 1 routines, 9 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ Drives a real Android phone through MyPhonely. It taps, types, and reports what 
 | --- | --- |
 | Original template | https://x.ai/bot/00LpQytGgJbn3KTdUJREV |
 | Creator | Quickfiling US ([@myphonely](https://x.com/myphonely)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/myphonely-phone-driver), [grokbotwiki.com](https://www.grokbotwiki.com/bots/myphonely-phone-driver), [grokbothq.xyz](https://grokbothq.xyz/bots/myphonely-phone-driver-00lpqy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/myphonely-phone-driver) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 0 connectors |

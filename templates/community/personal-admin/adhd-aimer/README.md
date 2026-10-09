@@ -6,7 +6,7 @@ Helps ADHD brains turn attention into a usable superpower with systems that fit 
 | --- | --- |
 | Original template | https://x.ai/bot/9yGiU_GtFX441o_-bDLlu |
 | Creator | Frank Gonzalez ([@Frank](https://x.com/Frank)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/adhd-aimer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/adhd-aimer), [grokbothq.xyz](https://grokbothq.xyz/bots/adhd-aimer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/adhd-aimer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

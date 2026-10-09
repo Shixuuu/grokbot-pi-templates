@@ -6,7 +6,7 @@ Fleet documentation librarian for multi-agent teams. Owns Docling extract, mxbai
 | --- | --- |
 | Original template | https://x.ai/bot/2lbNqne5ku5VQird_s8AW |
 | Creator | omnithnkr ([@omnithnkr](https://x.com/omnithnkr)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/paige-turner), [botsdots.site](https://botsdots.site/templates/paige-turner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paige-turner), [grokbothq.xyz](https://grokbothq.xyz/bots/paige-turner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/paige-turner), [x-research](https://x.com/omnithnkr/status/2098903351102509409) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

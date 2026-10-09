@@ -6,7 +6,7 @@ Accounts-receivable reconciliation for small businesses. Paste bank deposits and
 | --- | --- |
 | Original template | https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h |
 | Creator | Robert Schiff |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/invoicematch-recon-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/invoicematch-recon-bot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/invoicematch-recon-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

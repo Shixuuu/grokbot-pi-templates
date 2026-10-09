@@ -6,7 +6,7 @@ Runs Private-first YouTube music publishing: Studio packaging, Ask-first Public 
 | --- | --- |
 | Original template | https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8 |
 | Creator | Eric Chez ([@EricChez](https://x.com/EricChez)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/youtube-soft-pass-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/youtube-soft-pass-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/youtube-soft-pass-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/youtube-soft-pass-ops), [x-research](https://x.com/EricChez/status/2100186088606503068) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ bounces an idea as vitamin, painkiller, or mixed. if it hurts, scores whether an
 | --- | --- |
 | Original template | https://x.ai/bot/2euxntVrddHyA3c2hyxiZ |
 | Creator | Rinas ([@onerinas](https://x.com/onerinas)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/dosebot), [botsdots.site](https://botsdots.site/templates/dosebot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dosebot), [grokbothq.xyz](https://grokbothq.xyz/bots/dosebot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/2euxntVrddHyA3c2hyxiZ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dosebot), [x-research](https://x.com/onerinas/status/2095221346578186249) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Drafts sharp, accurate comedy memes aimed at AARP age-bait marketing. Draft-only
 | --- | --- |
 | Original template | https://x.ai/bot/izlQpnudtxbmDRKr7GvRs |
 | Creator | AdventureNLearn Main ([@AdventureNLearn](https://x.com/AdventureNLearn)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/im-not-old-yet), [grokbotwiki.com](https://www.grokbotwiki.com/bots/i-m-not-old-yet), [grokbothq.xyz](https://grokbothq.xyz/bots/im-not-old-yet), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/i-m-not-old-yet), [x-research](https://x.com/AdventureNLearn/status/2097741271456776259) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

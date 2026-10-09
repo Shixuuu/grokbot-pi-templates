@@ -6,7 +6,7 @@ Every morning it gives you one best-guess date for the next Starship launch from
 | --- | --- |
 | Original template | https://x.ai/bot/CdqN7HvSWhkRBiqy2dDc1 |
 | Creator | Art King ([@Art](https://x.com/Art)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/starship-launch-guess), [grokbothq.xyz](https://grokbothq.xyz/bots/starship-launch-guess), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/starship-launch-guess) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 0 connectors |

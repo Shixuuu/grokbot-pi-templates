@@ -6,7 +6,7 @@ Finds real, verified quotes from anyone you name. Checks primary sources and rep
 | --- | --- |
 | Original template | https://x.ai/bot/XRIQWqAANS7fBiN0PygzI |
 | Creator | Ian Hathaway ([@MichaelDispigna](https://x.com/MichaelDispigna)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quote-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quote-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/quote-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/quote-finder), [x-research](https://x.com/MichaelDispigna/status/2105064965405131136) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

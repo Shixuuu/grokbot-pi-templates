@@ -6,7 +6,7 @@ Walks a public page, essay, or playable preview as someone who has never heard o
 | --- | --- |
 | Original template | https://x.ai/bot/ipysf9lwljzzfuq-bjnmg |
 | Creator | @42Constellation | The Book of 42 |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/curious-first-time-reader-ipys), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/curious-first-time-reader-ipys) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 1 memory seeds, 0 connectors |

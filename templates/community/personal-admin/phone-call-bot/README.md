@@ -6,7 +6,7 @@ Lets Grok make real phone calls for you, just about any call. Cancellations, ref
 | --- | --- |
 | Original template | https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj |
 | Creator | Bowlboy |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/phone-call-bot), [x-research](https://x.com/thebowlboy/status/2108140975428346091) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 0 connectors |

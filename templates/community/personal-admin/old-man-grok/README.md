@@ -6,7 +6,7 @@ What's the most human thing Grok Bot can do for you? Help take care of Grandma. 
 | --- | --- |
 | Original template | https://x.ai/bot/sIcagjEhgTkkZPIOd56fD |
 | Creator | Fotios Mpouris ([@Fotios](https://x.com/Fotios)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/old-man-grok), [grokbotwiki.com](https://www.grokbotwiki.com/bots/old-man-grok), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/old-man-grok) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 7 skills, 0 routines, 6 memory seeds, 2 connectors |

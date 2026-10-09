@@ -6,7 +6,7 @@ Chief Everything Officer for a multi-bot startup crew. Orchestrates engineering,
 | --- | --- |
 | Original template | https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt |
 | Creator | Enes Özkan ([@enesteve_](https://x.com/enesteve_)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/fastart-ceo-bot), [botsdots.site](https://botsdots.site/templates/fastart-ceo-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fastart-ceo-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/fastart-ceo-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fastart-ceo-bot), [x-research](https://x.com/enesteve_/status/2103208562159735031) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 1 connectors |

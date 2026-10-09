@@ -6,7 +6,7 @@ Set up routines on your favorite podcasts or YouTube channels that cut ads, add 
 | --- | --- |
 | Original template | https://x.ai/bot/l4oe6CObIVQLANlBxZEla |
 | Creator | David Altizer ([@David](https://x.com/David)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tape-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tape-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/tape-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tape-bot), [x-research](https://botsdots.site/templates/tape-bot) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 3 routines, 5 memory seeds, 1 connectors |

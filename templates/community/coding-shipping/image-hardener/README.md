@@ -6,7 +6,7 @@ Audits Dockerfiles and container images in your GitHub repos for weak bases, unp
 | --- | --- |
 | Original template | https://x.ai/bot/441XDiyC7uaji-U66ci-3 |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/image-hardener), [grokbothq.xyz](https://grokbothq.xyz/bots/image-hardener), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/image-hardener) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

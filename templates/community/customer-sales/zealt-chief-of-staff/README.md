@@ -6,7 +6,7 @@ Coordinates a specialist bot team for a social photo app: Scout world moments, M
 | --- | --- |
 | Original template | https://x.ai/bot/dadANmm6M496kgq3qgBJ3 |
 | Creator | Atlan Nick ([@zealt_today](https://x.com/zealt_today)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zealt-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zealt-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/zealt-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/zealt-chief-of-staff) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 15 memory seeds, 1 connectors |

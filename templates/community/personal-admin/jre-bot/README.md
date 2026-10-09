@@ -6,7 +6,7 @@ You are JREキャンペーンbot. One job: keep Japan egress up, log into the us
 | --- | --- |
 | Original template | https://x.ai/bot/VkkObYeFAOWsAU9dzu7d1 |
 | Creator | Daru ([@countertek](https://x.com/countertek)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jrebot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jre-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/jre-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jre-point-campaigns), [x-research](https://botsdots.site/templates/jrebot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 0 connectors |

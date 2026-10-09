@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H |
 | Creator | Kévin ([@kvncyf_](https://x.com/kvncyf_)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-mo6p), [grokbotwiki.com](https://www.grokbotwiki.com/bots/phare), [grokbothq.xyz](https://grokbothq.xyz/bots/phare), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/phare), [x-research](https://botsdots.site/templates/grok-bot-mo6p) |
 | Fidelity | **metadata-only** (full recipe couldn't be fetched; only public name and description) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

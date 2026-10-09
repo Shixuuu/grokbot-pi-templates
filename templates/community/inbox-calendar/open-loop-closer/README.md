@@ -6,7 +6,7 @@ Finds VIP hangs where you went silent on work Slack or email, then drafts a past
 | --- | --- |
 | Original template | https://x.ai/bot/OnZxELs_59ZvE4_-jTMaV |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/open-loop-closer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/open-loop-closer), [grokbothq.xyz](https://grokbothq.xyz/bots/open-loop-closer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/open-loop-closer), [x-research](https://x.com/scottxmetcalf/status/2101003029650780556) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 2 connectors |

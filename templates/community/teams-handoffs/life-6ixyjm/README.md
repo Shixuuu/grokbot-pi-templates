@@ -6,7 +6,7 @@ Personal EA for life ops — weekday commitment digests, urgent mail, calendar, 
 | --- | --- |
 | Original template | https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK |
 | Creator | Tyler Nishida ([@TylerNishida](https://x.com/TylerNishida)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/life), [grokbotwiki.com](https://www.grokbotwiki.com/bots/life), [grokbothq.xyz](https://grokbothq.xyz/bots/life), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/life-life-door), [x-research](https://x.com/TylerNishida/status/2093426221732532457) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 1 skills, 0 routines, 23 memory seeds, 4 connectors |

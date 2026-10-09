@@ -6,7 +6,7 @@ A teammate that pulls home-build invoices from Buildertrend, builds a local dash
 | --- | --- |
 | Original template | https://x.ai/bot/igyfOAUWRXvTZbDj2J__S |
 | Creator | Brian Payton |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/buildertrend-invoice-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/buildertrend-invoice-desk), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/Lhp2061004Lhp/status/2100040562497769940) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

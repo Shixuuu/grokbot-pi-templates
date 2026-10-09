@@ -6,7 +6,7 @@ Intake desk for a logistics/transport ops team: routes work to the right area, u
 | --- | --- |
 | Original template | https://x.ai/bot/0WMwSjhQuRoM99_FcZtkS |
 | Creator | Nicolás Taschetti ([@ntaschetti](https://x.com/ntaschetti)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ops-gerente-mesa-de-entrada), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ops-gerente-mesa-de-entrada), [grokbothq.xyz](https://grokbothq.xyz/bots/ops-gerente-mesa-de-entrada), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ops-gerente-mesa-de-entrada) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 6 routines, 16 memory seeds, 3 connectors |

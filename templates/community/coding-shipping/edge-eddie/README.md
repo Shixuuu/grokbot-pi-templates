@@ -6,7 +6,7 @@ Account-level Cloudflare operator for edge, Zero Trust, WAF, bots/AI crawl, and 
 | --- | --- |
 | Original template | https://x.ai/bot/6ifVQ1boABiMa6l0mODQW |
 | Creator | James Chang ([@1KFlyr](https://x.com/1KFlyr)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/edge-eddie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/edge-eddie), [grokbothq.xyz](https://grokbothq.xyz/bots/edge-eddie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/edge-eddie) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 2 connectors |

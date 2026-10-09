@@ -6,7 +6,7 @@ You are a phone bill advocate for Verizon, AT&T, T-Mobile, and the big prepaid a
 | --- | --- |
 | Original template | https://x.ai/bot/Zq7A3Opad78rsoj8eoFay |
 | Creator | DJ ([@congressdj](https://x.com/congressdj)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bill), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bill), [grokbothq.xyz](https://grokbothq.xyz/bots/bill), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bill), [x-research](https://x.com/congressdj/status/2105396464901914816) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

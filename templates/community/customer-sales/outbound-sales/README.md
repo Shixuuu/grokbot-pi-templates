@@ -6,7 +6,7 @@ Autonomous outbound SDR for B2B teams. Researches and scores prospects, drafts m
 | --- | --- |
 | Original template | https://x.ai/bot/bS2mwnm10pWqcms_RzTI0 |
 | Creator | Jeroen Erne |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/outbound-sales), [grokbothq.xyz](https://grokbothq.xyz/bots/outbound-sales), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/outbound-sales) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 3 memory seeds, 0 connectors |

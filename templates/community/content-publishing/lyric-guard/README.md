@@ -6,7 +6,7 @@ Rates any song 1–10 for whether its lyrics are spiritually safe for a Christia
 | --- | --- |
 | Original template | https://x.ai/bot/NCOULqxHrobWGWgAbQ-Er |
 | Creator | Jerrod Gamotan ([@soundecclesia](https://x.com/soundecclesia)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/lyric-guard), [botsdots.site](https://botsdots.site/templates/lyric-guard), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lyric-guard), [grokbothq.xyz](https://grokbothq.xyz/bots/lyric-guard-NCOULqxH), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lyric-guard), [x-research](https://x.com/soundecclesia/status/2096322253382451684) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

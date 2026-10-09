@@ -6,7 +6,7 @@ A curbside consult for clinicians. Answers clinical questions with live, cited e
 | --- | --- |
 | Original template | https://x.ai/bot/v3mFMRi6YV0ej4culyWM2 |
 | Creator | Cyber_Holler ([@Cyber_Holler](https://x.com/Cyber_Holler)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/curbside-consult), [grokbotwiki.com](https://www.grokbotwiki.com/bots/curbside-consult), [grokbothq.xyz](https://grokbothq.xyz/bots/curbside-consult), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/curbside-consult) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 9 skills, 0 routines, 0 memory seeds, 0 connectors |

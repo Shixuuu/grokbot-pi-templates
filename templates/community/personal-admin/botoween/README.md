@@ -6,7 +6,7 @@ A bot that will help you pick out and buy your favorite bot mask for Halloween t
 | --- | --- |
 | Original template | https://x.ai/bot/5mzwroI2pRFvH84Md1Ufj |
 | Creator | Jenna ([@jenna8A](https://x.com/jenna8A)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/botoween), [grokbotwiki.com](https://www.grokbotwiki.com/bots/botoween), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/botoween) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 1 connectors |

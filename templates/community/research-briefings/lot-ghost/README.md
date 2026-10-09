@@ -6,7 +6,7 @@ Whimsical Phish/jam show companion — live setlists, Skinnys, fandom takes, lab
 | --- | --- |
 | Original template | https://x.ai/bot/4iGFTf2xQ0UKp4mSgSnkI |
 | Creator | Bradley Zellman ([@bradszellman](https://x.com/bradszellman)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/lot-ghost), [botsdots.site](https://botsdots.site/templates/lot-ghost), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lot-ghost), [grokbothq.xyz](https://grokbothq.xyz/bots/lot-ghost-4iGFTf2x), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lot-ghost), [x-research](https://x.com/bradszellman/status/2096348292321882619) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 9 skills, 0 routines, 8 memory seeds, 0 connectors |

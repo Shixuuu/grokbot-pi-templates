@@ -6,7 +6,7 @@ Ranks your top 500 X fans each month by who liked your posts most, flags who is 
 | --- | --- |
 | Original template | https://x.ai/bot/xzeatgwjnrvgscllcd9ox |
 | Creator | Adam Lowisz 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦 |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-top-500-fans-xzea), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/x-top-500-fans-xzea) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 1 connectors |

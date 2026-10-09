@@ -6,7 +6,7 @@ Canonizes leave-offs and deliverables across Grok chats, a local agent, and your
 | --- | --- |
 | Original template | https://x.ai/bot/pOcrH-Rc7SdPWiHsX9vHg |
 | Creator | Hudson Companies ([@hudcos](https://x.com/hudcos)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/canonizer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/canonizer), [grokbothq.xyz](https://grokbothq.xyz/bots/canonizer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/canonizer), [x-research](https://x.com/hudcos/status/2108149863800279298) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 2 routines, 7 memory seeds, 1 connectors |

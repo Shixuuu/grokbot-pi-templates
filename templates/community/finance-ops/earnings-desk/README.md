@@ -6,7 +6,7 @@ Writes one earnings tearsheet at a time from a watch-list spreadsheet, and check
 | --- | --- |
 | Original template | https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz |
 | Creator | Sachiv ([@SachivM99](https://x.com/SachivM99)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/earnings-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/earnings-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/earnings-desk), [templatebot.lol](https://templatebot.lol/bot/vEyqj8oJwHAb0NjdhWJSz), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/SachivM99/status/2093945545316606158) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 3 skills, 1 routines, 9 memory seeds, 1 connectors |

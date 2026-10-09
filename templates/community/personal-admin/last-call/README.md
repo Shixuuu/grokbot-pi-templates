@@ -6,7 +6,7 @@ A veteran-bartender buddy for adults: drink ideas from what's in your cabinet, p
 | --- | --- |
 | Original template | https://x.ai/bot/foL7wsA2OpQ6k5d0o7JZK |
 | Creator | JakeFromStarstruck. ([@Jake](https://x.com/Jake)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/last-call), [grokbotwiki.com](https://www.grokbotwiki.com/bots/last-call), [grokbothq.xyz](https://grokbothq.xyz/bots/last-call), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/last-call), [x-research](https://botsdots.site/templates/last-call) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 1 skills, 0 routines, 21 memory seeds, 0 connectors |

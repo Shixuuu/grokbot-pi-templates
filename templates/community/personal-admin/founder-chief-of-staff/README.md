@@ -6,7 +6,7 @@ Chief of Staff for shipping Wardrobe Atelier — an app testing a product idea. 
 | --- | --- |
 | Original template | https://x.ai/bot/W350IEIZT0ut-X-l-jyaG |
 | Creator | Calista Chen ([@clstachn](https://x.com/clstachn)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/founder-chief-of-staff-w350), [grokbothq.xyz](https://grokbothq.xyz/bots/founder-chief-of-staff), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/clstachn/status/2100105397344305457) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 10 memory seeds, 5 connectors |

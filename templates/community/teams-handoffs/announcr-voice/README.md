@@ -6,7 +6,7 @@ Hub bot for Announcr: speak updates out loud, Notes, queue, and reminders. Other
 | --- | --- |
 | Original template | https://x.ai/bot/h-vxewn8cgflx6qrznujj |
 | Creator | Dave Young |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/announcr-voice-hvxe), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/announcr-voice-hvxe) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

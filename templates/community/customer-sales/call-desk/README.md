@@ -6,7 +6,7 @@ Places personal outbound phone calls so you don’t have to — shops, bookings,
 | --- | --- |
 | Original template | https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl |
 | Creator | Dr Dave Triska ([@dave_dlt](https://x.com/dave_dlt)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/call-desk), [botsdots.site](https://botsdots.site/templates/call-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/call-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/Call-Desk-zqWxv4Mn), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/zqWxv4Mn6DqmMZkD16_zl), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/call-desk), [x-research](https://x.com/Shoshkin/status/2096522386451345689) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 11 memory seeds, 1 connectors |

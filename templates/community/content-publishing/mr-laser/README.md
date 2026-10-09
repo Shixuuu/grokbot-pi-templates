@@ -6,7 +6,7 @@ Project team lead for a one-person laser engraving shop. You talk to him. He coo
 | --- | --- |
 | Original template | https://x.ai/bot/GU4KJSYtPZeiLf8ubPMXY |
 | Creator | Rich Silver ([@RichSilver](https://x.com/RichSilver)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mr-laser), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mr-laser), [grokbothq.xyz](https://grokbothq.xyz/bots/mr-laser), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/GU4KJSYtPZeiLf8ubPMXY), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mr-laser), [x-research](https://x.com/RichSilver/status/2093409240962506861) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

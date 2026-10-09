@@ -6,7 +6,7 @@ Orchestrates a roster of specialist Grok Bots. Routes work, packages attention b
 | --- | --- |
 | Original template | https://x.ai/bot/N92u9t1nHlL_gtgk2nAeN |
 | Creator | Andrew Kittridge |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-agents), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jarvis-andrew), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-agents), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/chief-of-agents) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 2 routines, 3 memory seeds, 0 connectors |

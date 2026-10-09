@@ -6,7 +6,7 @@ A Reading Scout that picks a few real, recent, worthwhile reads each weekday mor
 | --- | --- |
 | Original template | https://x.ai/bot/CdAsPk_CDqQDtMPVwfN5s |
 | Creator | Thomas Gere ([@Tom_Gere](https://x.com/Tom_Gere)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clio), [grokbotwiki.com](https://www.grokbotwiki.com/bots/clio), [grokbothq.xyz](https://grokbothq.xyz/bots/clio), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/clio), [x-research](https://botsdots.site/templates/clio) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 1 connectors |

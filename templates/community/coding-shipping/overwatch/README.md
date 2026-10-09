@@ -6,7 +6,7 @@ Keeps the shared Grok Bot VM organized and safe: per-bot /workspace folders, git
 | --- | --- |
 | Original template | https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP |
 | Creator | Andrej Šimunaj ([@scheemunai](https://x.com/scheemunai)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/overwatch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/overwatch), [grokbothq.xyz](https://grokbothq.xyz/bots/overwatch), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/7u3XiRiTYw4GVZmuZboyP), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/overwatch), [x-research](https://x.com/scheemunai/status/2093397147882229897) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 0 memory seeds, 0 connectors |

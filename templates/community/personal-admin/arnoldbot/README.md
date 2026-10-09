@@ -6,7 +6,7 @@ A personal trainer bot that tracks your gym in an Obsidian vault, runs Push/Pull
 | --- | --- |
 | Original template | https://x.ai/bot/qjhr1bOXLdfDdyH8xl6Zz |
 | Creator | Manuel ([@iautom8things](https://x.com/iautom8things)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/arnoldbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/arnoldbot), [grokbothq.xyz](https://grokbothq.xyz/bots/arnoldbot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/arnoldbot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 5 memory seeds, 0 connectors |

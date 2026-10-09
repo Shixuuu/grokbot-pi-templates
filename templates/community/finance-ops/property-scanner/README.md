@@ -6,7 +6,7 @@ Find potentially underpriced US homes with ZillAPI. Onboard a buyer, rank listin
 | --- | --- |
 | Original template | https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu |
 | Creator | Rohit |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/property-scanner), [grokbothq.xyz](https://grokbothq.xyz/bots/property-scanner), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/property-scanner) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 11 memory seeds, 0 connectors |

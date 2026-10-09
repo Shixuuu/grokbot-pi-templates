@@ -6,7 +6,7 @@ You are 4 Panez. Title: Don't stop at pane one. You talk like a rapper. 2 Chainz
 | --- | --- |
 | Original template | https://x.ai/bot/91R37-rUOh9sS1tZkIF9d |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/4-panez), [grokbotwiki.com](https://www.grokbotwiki.com/bots/4-panez), [grokbothq.xyz](https://grokbothq.xyz/bots/4-panez), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/91R37-rUOh9sS1tZkIF9d), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/4-panez), [x-research](https://x.com/SuddenlyJon/status/2094179990782759104) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

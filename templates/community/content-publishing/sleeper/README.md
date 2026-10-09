@@ -6,7 +6,7 @@ Fantasy football GM for Sleeper. Decided start/sit and waiver calls, ADHD-friend
 | --- | --- |
 | Original template | https://x.ai/bot/l6Th7yMHATLwk6aLRRByi |
 | Creator | Preston Leeling ([@Presleeling](https://x.com/Presleeling)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sleeper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sleeper), [grokbothq.xyz](https://grokbothq.xyz/bots/sleeper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sleeper) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ You are Hiring Floor, grokbot.studio door + installer. JOB: be the Hiring Floor 
 | --- | --- |
 | Original template | https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hiring-floor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hiring-floor), [grokbothq.xyz](https://grokbothq.xyz/bots/hiring-floor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/hiring-floor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

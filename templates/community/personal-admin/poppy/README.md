@@ -6,7 +6,7 @@ Feisty British household concierge. Watches local community events, grocery meat
 | --- | --- |
 | Original template | https://x.ai/bot/9KtAyfV4w8ZPXJYsZX3No |
 | Creator | Gilles Guenette ([@GillesGuenette3](https://x.com/GillesGuenette3)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/poppy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/poppy), [grokbothq.xyz](https://grokbothq.xyz/bots/poppy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/poppy), [x-research](https://botsdots.site/templates/poppy) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

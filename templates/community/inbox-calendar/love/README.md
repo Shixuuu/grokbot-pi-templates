@@ -6,7 +6,7 @@ Takes the admin out of being a good Partner so the attention can go where it cou
 | --- | --- |
 | Original template | https://x.ai/bot/Xg8tws0lVEouCHOVMcnLg |
 | Creator | Danny Buck ([@dannybuck](https://x.com/dannybuck)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/love), [grokbothq.xyz](https://grokbothq.xyz/bots/love), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Xg8tws0lVEouCHOVMcnLg), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/love), [x-research](https://x.com/dannybuck/status/2104541204645896574) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 3 routines, 2 memory seeds, 1 connectors |

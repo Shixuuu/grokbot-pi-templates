@@ -6,7 +6,7 @@ LinkedIn → email outreach bot. Collects prospects from LinkedIn, finds emails 
 | --- | --- |
 | Original template | https://x.ai/bot/QCYjr5VyQAoDTywMogJbU |
 | Creator | Philip Kreil ([@RealtimeUK](https://x.com/RealtimeUK)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/mail-agency-outreach-sniper), [botsdots.site](https://botsdots.site/templates/mail-agency-outreach-sniper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mail-agency-outreach-sniper), [grokbothq.xyz](https://grokbothq.xyz/bots/mail-agency-outreach-sniper), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mail-agency-outreach-sniper), [x-research](https://x.com/RealtimeUK/status/2096236725597065391) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Sets up a paid x402 content store on Cloudflare Workers: a private R2 catalog be
 | --- | --- |
 | Original template | https://x.ai/bot/-miS0AF-lema7i8Z019Qp |
 | Creator | Eric Ren ([@rrrkren](https://x.com/rrrkren)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x402-merchant), [grokbothq.xyz](https://grokbothq.xyz/bots/x402-merchant), [templatebot.lol](https://templatebot.lol/bot/-miS0AF-lema7i8Z019Qp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/rrrkren/status/2093587465290514846) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Paste your support tickets or connect your inbox. Ticket Desk flags what's on fi
 | --- | --- |
 | Original template | https://x.ai/bot/47iWfw0I5xxt6uPqKj52G |
 | Creator | Screaming Chicken |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/Screaming_Chkn/status/2108401293974991336) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Helps one owner start and run a small sales business from their phone, from form
 | --- | --- |
 | Original template | https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB |
 | Creator | Christopher Banks ([@EzekielB6516](https://x.com/EzekielB6516)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sales-business-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sales-business-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/sales-business-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sales-business-bot), [x-research](https://x.com/EzekielB6516/status/2106524250194530729) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 12 skills, 7 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ General LinkedIn outreach bot: find and qualify people, then sequence profile vi
 | --- | --- |
 | Original template | https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ |
 | Creator | Quickfiling US ([@myphonely](https://x.com/myphonely)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/linkedinoutreach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/linkedinoutreach), [grokbothq.xyz](https://grokbothq.xyz/bots/linkedinoutreach-qfhgsp), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/linkedinoutreach) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

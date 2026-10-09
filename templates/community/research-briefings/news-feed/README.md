@@ -6,7 +6,7 @@ Watches the X accounts and RSS feeds you choose and posts a short, deduplicated 
 | --- | --- |
 | Original template | https://x.ai/bot/ERa5jibQitS0Q9xDpEpeL |
 | Creator | Avid |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/news-feed), [x-research](https://x.com/Av1dlive/status/2108155052615782427) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

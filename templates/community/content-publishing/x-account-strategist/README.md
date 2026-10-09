@@ -6,7 +6,7 @@ For founders, operators, and business leaders who need distribution and a real n
 | --- | --- |
 | Original template | https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp |
 | Creator | Ashish P ([@inqusit](https://x.com/inqusit)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-account-strategist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-account-strategist), [grokbothq.xyz](https://grokbothq.xyz/bots/x-account-strategist), [templatebot.lol](https://templatebot.lol/bot/pZshXLsm2c1MYfWf1ngYp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/x-account-strategist) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 1 connectors |

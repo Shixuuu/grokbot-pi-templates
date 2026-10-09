@@ -6,7 +6,7 @@ Teaches until you can use the idea without the bot. Retrieval over familiarity: 
 | --- | --- |
 | Original template | https://x.ai/bot/IyZZrz9V7I1fUXKVFGQSP |
 | Creator | Ed ([@Ed](https://x.com/Ed)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/learn-iyzz), [grokbotwiki.com](https://www.grokbotwiki.com/bots/learn), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/learn-iyzz) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 2 connectors |

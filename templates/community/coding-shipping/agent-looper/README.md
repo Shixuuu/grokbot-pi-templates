@@ -6,7 +6,7 @@ You say what to build and how to know it's done. It keeps a coding agent working
 | --- | --- |
 | Original template | https://x.ai/bot/AETdGbRRNWfckrRGv22LD |
 | Creator | dancingteeth dancingteeth ([@dancingteeth](https://x.com/dancingteeth)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/agent-looper), [botsdots.site](https://botsdots.site/templates/agent-looper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/agent-looper), [grokbothq.xyz](https://grokbothq.xyz/bots/agent-looper), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/AETdGbRRNWfckrRGv22LD), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/agent-looper), [x-research](https://x.com/dancingteeth/status/2093868415542845628) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 4 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Your weekday command center for email and calendar: sharp morning digests, confl
 | --- | --- |
 | Original template | https://x.ai/bot/fEF3XuiyCp32zSG0FkEDR |
 | Creator | sandra pinilla ([@spmtoscana](https://x.com/spmtoscana)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/iris), [grokbotwiki.com](https://www.grokbotwiki.com/bots/iris), [grokbothq.xyz](https://grokbothq.xyz/bots/iris), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/iris) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 3 connectors |

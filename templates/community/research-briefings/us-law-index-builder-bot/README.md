@@ -6,7 +6,7 @@ Builds a private, non-commercial educational library of US primary law from offi
 | --- | --- |
 | Original template | https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c |
 | Creator | EchoField Visuals ([@EchoFieldVisual](https://x.com/EchoFieldVisual)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/us-law-index-builder-bot), [botsdots.site](https://botsdots.site/templates/us-law-index-builder-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/us-law-index-builder-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/US-Law-Index-Builder-Bot-G2eeD6pM), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Shoshkin/status/2096426490346774938) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

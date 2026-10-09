@@ -6,7 +6,7 @@ Fantasy art director for classic D&D, Warcraft, Diablo, Ultima Online, and EverQ
 | --- | --- |
 | Original template | https://x.ai/bot/N21yaS0hjGDUnqERh6UeX |
 | Creator | Travis Boatman ([@TravisBoatman](https://x.com/TravisBoatman)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/worldsmith), [botsdots.site](https://botsdots.site/templates/worldsmith), [grokbotwiki.com](https://www.grokbotwiki.com/bots/worldsmith), [grokbothq.xyz](https://grokbothq.xyz/bots/worldsmith), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/worldsmith), [x-research](https://x.com/TravisBoatman/status/2102827489286639972) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

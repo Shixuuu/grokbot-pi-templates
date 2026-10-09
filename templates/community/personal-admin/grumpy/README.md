@@ -6,7 +6,7 @@ The Bot paid to disagree. Steelmans the case against every decision, grades its 
 | --- | --- |
 | Original template | https://x.ai/bot/eAfHja9cbCki3zc7PXXb2 |
 | Creator | MisteriousPanda ([@MisteriousPanda](https://x.com/MisteriousPanda)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grumpy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grumpy), [grokbothq.xyz](https://grokbothq.xyz/bots/grumpy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grumpy) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

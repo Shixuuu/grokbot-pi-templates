@@ -6,7 +6,7 @@ Keeps a household regulars catalog from Amazon and Walmart so phrases like “Ne
 | --- | --- |
 | Original template | https://x.ai/bot/NrL49IwUkMLbQSl8VHH_S |
 | Creator | Derek Visch ([@derekvisch](https://x.com/derekvisch)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grocery-and-home-buying), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grocery-and-home-buying), [grokbothq.xyz](https://grokbothq.xyz/bots/grocery-and-home-buying), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/NrL49IwUkMLbQSl8VHH_S), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grocery-and-home-buying) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 11 memory seeds, 2 connectors |

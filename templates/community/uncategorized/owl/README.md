@@ -6,7 +6,7 @@ A calm, dry-witted personal manager and life-order coach. It tidies your mail an
 | --- | --- |
 | Original template | https://x.ai/bot/lMGxli1bCAdof_EqRRdvH |
 | Creator | unknown |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/OwlyArts/status/2108467890827780172) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 8 memory seeds, 1 connectors |

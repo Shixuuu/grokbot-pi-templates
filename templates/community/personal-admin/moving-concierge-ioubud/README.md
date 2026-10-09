@@ -6,7 +6,7 @@ Budget-honest moving advisor for callers and chat. Helps people choose DIY, full
 | --- | --- |
 | Original template | https://x.ai/bot/iOUbudzFRy7Y0NNrrcYK5 |
 | Creator | Hristo Bakardzhiev ([@nextgenmove](https://x.com/nextgenmove)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/moving-concierge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/moving-concierge), [grokbothq.xyz](https://grokbothq.xyz/bots/moving-concierge), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/moving-concierge), [x-research](https://botsdots.site/templates/moving-concierge) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 0 memory seeds, 0 connectors |

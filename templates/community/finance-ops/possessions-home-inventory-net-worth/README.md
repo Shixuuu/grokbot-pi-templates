@@ -6,7 +6,7 @@ Builds a home inventory from room photos, receipts, or purchase emails, then tra
 | --- | --- |
 | Original template | https://x.ai/bot/_atzrqvyezmus8qsanarg |
 | Creator | Bill Mitchell |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/possessions-atzr), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/possessions-atzr) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 9 skills, 1 routines, 3 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Brief matinal en français sur SpaceX/Starship, xAI/Grok Bot, et architecture or
 | --- | --- |
 | Original template | https://x.ai/bot/EkX7yjLCie8Phae6Fh4nE |
 | Creator | V.Y@n ([@VYCanisMajori](https://x.com/VYCanisMajori)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/orbit-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/orbit-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/orbit-brief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/orbit-brief), [x-research](https://botsdots.site/templates/orbit-brief) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 0 connectors |

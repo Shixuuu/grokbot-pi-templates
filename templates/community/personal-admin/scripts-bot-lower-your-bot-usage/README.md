@@ -6,7 +6,7 @@ Lower your bot usage by turning repeatable work into scripts instead of browser 
 | --- | --- |
 | Original template | https://x.ai/bot/qCZzibwAQitTCyRNvrcnU |
 | Creator | Joris Dominicus Adam Paardekooper Overman ([@jorispaarde](https://x.com/jorispaarde)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scripts-bot-lower-your-bot-usage), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scripts-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/scripts-bot-lower-your-bot-usage), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/scripts-bot-lower-your-bot-usage) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 2 routines, 7 memory seeds, 1 connectors |

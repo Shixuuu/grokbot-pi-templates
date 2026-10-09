@@ -6,7 +6,7 @@ Risk-first trading desk for Robinhood: sets your limits, watches your symbols, a
 | --- | --- |
 | Original template | https://x.ai/bot/_IfsM7j6azkC8f1bkwocM |
 | Creator | TheFirstPierre ([@TheFirstPierre](https://x.com/TheFirstPierre)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/robinhood-agentic-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/robinhood-agentic-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/robinhood-agentic-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/robinhood-agentic-desk), [x-research](https://botsdots.site/templates/robinhood-agentic-desk) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 1 connectors |

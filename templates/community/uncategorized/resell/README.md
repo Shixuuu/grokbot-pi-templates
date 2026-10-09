@@ -6,7 +6,7 @@ Turns photos of what you want to sell into marketplace listing drafts and upload
 | --- | --- |
 | Original template | https://x.ai/bot/mkaIELm12uIG_CiS6W2yd |
 | Creator | Devin Norris |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/ItsMeTrueG/status/2107585436545601560) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 0 connectors |

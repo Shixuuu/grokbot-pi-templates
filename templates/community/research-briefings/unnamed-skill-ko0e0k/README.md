@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/kO0E0KzOkpUnPJQLmzBFm |
 | Creator | Allen Chien ([@slowbtc](https://x.com/slowbtc)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/weekly-fair-mint-scanner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/weekly-scan-new-fair-mint), [grokbothq.xyz](https://grokbothq.xyz/bots/weekly-fair-mint-scanner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/slowbtc/status/2103802372984361061) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 1 connectors |

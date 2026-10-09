@@ -6,7 +6,7 @@ Deletes named Grok Bots from the Grok Bot desktop app after you confirm. For peo
 | --- | --- |
 | Original template | https://x.ai/bot/o0yoY_AhWPpIySJR5TaM- |
 | Creator | Andrew Davis ([@rightish19](https://x.com/rightish19)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/shane-hunter), [botsdots.site](https://botsdots.site/templates/shane-hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shane-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/shane-hunter), [templatebot.lol](https://templatebot.lol/bot/o0yoY_AhWPpIySJR5TaM-), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shane-hunter), [x-research](https://x.com/rightish19/status/2093761406545834296) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

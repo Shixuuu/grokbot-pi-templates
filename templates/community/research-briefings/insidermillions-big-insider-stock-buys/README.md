@@ -6,7 +6,7 @@ Brief digest of $1M+ officer and director stock buys. Not financial advice.
 | --- | --- |
 | Original template | https://x.ai/bot/yaix3I-36pEloG1XpLVOb |
 | Creator | Rajit Marwah ([@rmarwah](https://x.com/rmarwah)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/insidermillions-big-insider-stock-buys), [grokbotwiki.com](https://www.grokbotwiki.com/bots/insidermillions), [grokbothq.xyz](https://grokbothq.xyz/bots/insidermillions-big-insider-stock-buys), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/rmarwah/status/2097559669338456090) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 2 routines, 10 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Manifest Assignment on Grok Bot → Founding Colonist ID + Welcome letter → 15
 | --- | --- |
 | Original template | https://x.ai/bot/5ipOVRs7oa1x39dHY46R6 |
 | Creator | Gavin McNicol ([@gavin_mcnicol](https://x.com/gavin_mcnicol)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/occupationmars), [grokbotwiki.com](https://www.grokbotwiki.com/bots/occupationmars), [grokbothq.xyz](https://grokbothq.xyz/bots/occupationmars), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/occupationmars), [x-research](https://botsdots.site/templates/occupationmars) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 5 skills, 0 routines, 7 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ ONLY job: the owner's Procurement Manager. Own buying: software, services, contr
 | --- | --- |
 | Original template | https://x.ai/bot/tbuow4aHucVEAgNbF7qzU |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tony-montana), [grokbothq.xyz](https://grokbothq.xyz/bots/tony-montana), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/liam_fallen/status/2094782525256212626) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

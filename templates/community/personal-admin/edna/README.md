@@ -6,7 +6,7 @@ Closet-first wardrobe lead: daily primary outfit plus an alternate from what you
 | --- | --- |
 | Original template | https://x.ai/bot/-xN7D6OrK7kEqV0rBJNh9 |
 | Creator | DJ ([@congressdj](https://x.com/congressdj)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/edna), [grokbothq.xyz](https://grokbothq.xyz/bots/edna), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/edna), [x-research](https://x.com/congressdj/status/2106497719623700698) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ An outer-loop assistant for stills and clips. It gathers brand and references, w
 | --- | --- |
 | Original template | https://x.ai/bot/phPQtGzCZOynABubl0pwx |
 | Creator | Matt Palmer ([@mattyp](https://x.com/mattyp)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/image-gen-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/image-gen-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/image-gen-bot), [templatebot.lol](https://templatebot.lol/bot/phPQtGzCZOynABubl0pwx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 0 connectors |

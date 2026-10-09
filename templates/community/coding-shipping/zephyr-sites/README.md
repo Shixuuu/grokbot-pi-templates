@@ -6,7 +6,7 @@ Build, publish, update, and roll back static websites with Zephyr Cloud. Connect
 | --- | --- |
 | Original template | https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK |
 | Creator | Zackary Chapple ([@ZephyrCloudIO](https://x.com/ZephyrCloudIO)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zephyr-sites), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zephyr-sites), [grokbothq.xyz](https://grokbothq.xyz/bots/zephyr-sites), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/zephyr-sites), [x-research](https://botsdots.site/templates/zephyr-sites) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Your local coding team. Outsrc hands coding tasks to Claude Code, Codex, or Grok
 | --- | --- |
 | Original template | https://x.ai/bot/fdogfabe5y2lwmc-bmsag |
 | Creator | Edward Tadros |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/outsrc-fdog), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/outsrc-fdog) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 0 routines, 3 memory seeds, 0 connectors |

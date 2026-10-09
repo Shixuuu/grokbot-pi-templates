@@ -6,7 +6,7 @@ Local-first agricultural sourcing officer. Finds, qualifies, and ranks real grow
 | --- | --- |
 | Original template | https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh |
 | Creator | Blaze Drinkwine ([@BlazeDrinkwine](https://x.com/BlazeDrinkwine)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ag-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ag-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/ag-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ag-bot), [x-research](https://x.com/BlazeDrinkwine/status/2100778715823149078) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

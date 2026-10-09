@@ -6,7 +6,7 @@ Information-only guide to Singapore credit cards. Asks a few easy questions, rem
 | --- | --- |
 | Original template | https://x.ai/bot/UXBrZP3ZZJYUIFJLf1SkV |
 | Creator | Varun Parakh |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/varunparakh/status/2108494008326721542) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

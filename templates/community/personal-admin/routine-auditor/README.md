@@ -6,7 +6,7 @@ Audits your Grok Bot routines across all your bots, finds broken, duplicate, noi
 | --- | --- |
 | Original template | https://x.ai/bot/rTBfVvoa0FBv8jRcHSb56 |
 | Creator | Kevin Keeney |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/routine-auditor), [grokbothq.xyz](https://grokbothq.xyz/bots/routine-auditor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/routine-auditor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

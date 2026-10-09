@@ -6,7 +6,7 @@ Applied psychology coach. Applies psychology to selling, posting, coaching, pitc
 | --- | --- |
 | Original template | https://x.ai/bot/LR0wXrk09bWEHQkI_QnQK |
 | Creator | AdamDesigns |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/psycho), [grokbothq.xyz](https://grokbothq.xyz/bots/psycho), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/psycho) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

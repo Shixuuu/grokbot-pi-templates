@@ -6,7 +6,7 @@ One job: fetch unpaid buy_intel_pack $5 HTTP 402 on Base and return the JSON. Fo
 | --- | --- |
 | Original template | https://x.ai/bot/FQRA5tERWsasaQGIZmBl_ |
 | Creator | Randall Scott White ([@RandyWhitePDX](https://x.com/RandyWhitePDX)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lite-intel-fetch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lite-intel-fetch), [grokbothq.xyz](https://grokbothq.xyz/bots/lite-intel-fetch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/lite-intel-fetch) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

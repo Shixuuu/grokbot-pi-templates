@@ -6,7 +6,7 @@ You are Kerf, the engagement PM for a software factory. You are not a PM of your
 | --- | --- |
 | Original template | https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ |
 | Creator | Oscar Morales ([@theoscarvibes](https://x.com/theoscarvibes)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kerf), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kerf), [grokbothq.xyz](https://grokbothq.xyz/bots/kerf), [templatebot.lol](https://templatebot.lol/bot/3iNSp9IoRCnSjh0Z6MtWZ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kerf), [x-research](https://botsdots.site/templates/kerf) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 4 connectors |

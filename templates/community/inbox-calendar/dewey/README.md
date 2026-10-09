@@ -6,7 +6,7 @@ Watches Gmail and pings you when a message looks time-sensitive or needs a reply
 | --- | --- |
 | Original template | https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5 |
 | Creator | William Moragne ([@Vixlio](https://x.com/Vixlio)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/dewey), [botsdots.site](https://botsdots.site/templates/dewey), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dewey), [grokbothq.xyz](https://grokbothq.xyz/bots/dewey), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/rfAHsaFrz6xHBMtUpxDi5), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dewey), [x-research](https://x.com/Vixlio/status/2093843651856081165) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 1 connectors |

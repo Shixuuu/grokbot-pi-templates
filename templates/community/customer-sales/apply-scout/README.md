@@ -6,7 +6,7 @@ Find jobs and get hired with custom-tailored resumes for each position. Scores f
 | --- | --- |
 | Original template | https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S |
 | Creator | lmdev ([@lmdev](https://x.com/lmdev)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/apply-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/apply-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/apply-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/apply-scout) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 6 skills, 1 routines, 13 memory seeds, 1 connectors |

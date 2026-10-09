@@ -6,7 +6,7 @@ Finds fit businesses, sends partner links, follows up, and tracks referral earni
 | --- | --- |
 | Original template | https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/partner-referral-outreach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/partner-referral-outreach), [grokbothq.xyz](https://grokbothq.xyz/bots/partner-referral-outreach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/partner-referral-outreach), [x-research](https://x.com/ColinMcDermott/status/2098713515267625255) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 0 skills, 0 routines, 12 memory seeds, 1 connectors |

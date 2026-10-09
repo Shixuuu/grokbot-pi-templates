@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/KohlZdYO9sLAqEmLG7oko |
 | Creator | 꼬마 봇 ([@BBBang9900](https://x.com/BBBang9900)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/plans-ships-evidence-backed-ebooks), [grokbotwiki.com](https://www.grokbotwiki.com/bots/plans-ships-evidence-backed-ebooks), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-10), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/BBBang9900/status/2096618016574414860) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 0 connectors |

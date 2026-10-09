@@ -6,7 +6,7 @@ Every morning, finds your cheapest and most-discounted nonstop short trips from 
 | --- | --- |
 | Original template | https://x.ai/bot/yXrklU1viS9roHs9d25-a |
 | Creator | Luke Carriere ([@Luke Carriere](https://x.com/Luke Carriere)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/airfare-deals), [grokbotwiki.com](https://www.grokbotwiki.com/bots/airfare-deals), [grokbothq.xyz](https://grokbothq.xyz/bots/airfare-deals), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/LukeGrokBot/status/2104715868525498852) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

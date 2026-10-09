@@ -6,7 +6,7 @@ Review Reply Desk for any brand. Triages Google, Yelp, App Store, Facebook, and 
 | --- | --- |
 | Original template | https://x.ai/bot/X5cK6m629FLf9OO5osZ8Y |
 | Creator | JavaBeanAI [Bart] ([@JavaBeanAI](https://x.com/JavaBeanAI)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/reva), [grokbotwiki.com](https://www.grokbotwiki.com/bots/reva), [grokbothq.xyz](https://grokbothq.xyz/bots/reva), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/JavaBeanAI/status/2104721949813293239) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 0 connectors |

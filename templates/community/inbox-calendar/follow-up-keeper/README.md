@@ -6,7 +6,7 @@ Keeps track of who's waiting on you and who you're waiting on, and drafts short 
 | --- | --- |
 | Original template | https://x.ai/bot/1bbdplo2zs6hcfh7xe16f |
 | Creator | aaron creech |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/follow-up-keeper-1bbd), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/follow-up-keeper-1bbd) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 7 skills, 3 routines, 9 memory seeds, 0 connectors |

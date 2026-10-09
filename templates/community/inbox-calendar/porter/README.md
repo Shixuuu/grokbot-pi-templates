@@ -6,7 +6,7 @@ Files dumps and inbox notes into your Obsidian vault—door, frontmatter, and pa
 | --- | --- |
 | Original template | https://x.ai/bot/sy364bgoJN8Rb5vZo4Abo |
 | Creator | John Koisch ([@the_simonjester](https://x.com/the_simonjester)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/porter-sy36), [grokbotwiki.com](https://www.grokbotwiki.com/bots/porter-sy36), [grokbothq.xyz](https://grokbothq.xyz/bots/porter-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/porter-2), [x-research](https://x.com/the_simonjester/status/2103992665268441124) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

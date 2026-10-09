@@ -6,7 +6,7 @@ Turns a messy recipe page or a fridge list into a clean, photo-forward PDF. Past
 | --- | --- |
 | Original template | https://x.ai/bot/Um9BXSFVNtJjxl6KJTCUv |
 | Creator | Alex ElChehimi ([@alex_chehimi](https://x.com/alex_chehimi)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/recipe-cleaner), [botsdots.site](https://botsdots.site/templates/recipe-cleaner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/recipe-cleaner), [grokbothq.xyz](https://grokbothq.xyz/bots/recipe-cleaner), [templatebot.lol](https://templatebot.lol/bot/Um9BXSFVNtJjxl6KJTCUv), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/alex_chehimi/status/2093684409475977654) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Download Orange Web Design Bot! Previous link fails. It helps with Vercel + Clou
 | --- | --- |
 | Original template | https://x.ai/bot/ZQbeC5vIV2F8jCLVzxZAg |
 | Creator | Dominic Bryant ([@Dominicyoungix](https://x.com/Dominicyoungix)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/failed-link), [grokbotwiki.com](https://www.grokbotwiki.com/bots/failed-link), [grokbothq.xyz](https://grokbothq.xyz/bots/failed-link), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/failed-link) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

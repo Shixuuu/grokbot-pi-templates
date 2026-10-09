@@ -6,7 +6,7 @@ Finds canceled delivery orders and error charges in your own merchant portals an
 | --- | --- |
 | Original template | https://x.ai/bot/wB9H7OSiHYPlRgyCTM5Iq |
 | Creator | Patty Shack ([@pattyshack](https://x.com/pattyshack)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/restaurant-cancelederrors-order-recovery), [grokbotwiki.com](https://www.grokbotwiki.com/bots/restaurant-canceled-errors-order-recovery), [grokbothq.xyz](https://grokbothq.xyz/bots/restaurant-canceled-errors-order-recovery), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/restaurant-canceled-errors-order-recovery), [x-research](https://x.com/pattyshack/status/2101396887219908999) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Your daily Tesla & SpaceX news desk and TSLA options analyst for X. It brings ve
 | --- | --- |
 | Original template | https://x.ai/bot/g5J-pr8mBUjLbY2LktOl1 |
 | Creator | Matt Lee ([@LeeMatt17631](https://x.com/LeeMatt17631)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-bot-g5jp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-bot-g5jp), [grokbothq.xyz](https://grokbothq.xyz/bots/tesla-bot-matt-lee), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tesla-bot-g5jp) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 2 routines, 9 memory seeds, 0 connectors |

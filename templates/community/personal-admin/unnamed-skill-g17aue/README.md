@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/g17AUEbD0Oo-5b1HDpuQB |
 | Creator | 꼬마 봇 ([@BBBang9900](https://x.com/BBBang9900)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/validates-demand-makes-digital-goods), [grokbotwiki.com](https://www.grokbotwiki.com/bots/validates-demand-makes-digital-goods), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-g17auebd0oo-5b1hdpuqb), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/validates-demand-makes-digital-goods) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 0 connectors |

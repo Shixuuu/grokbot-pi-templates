@@ -6,7 +6,7 @@ Finds hands-on creative workshops, cultural crafts, and hidden-gem classes near 
 | --- | --- |
 | Original template | https://x.ai/bot/_V9NG3Es7w7am2Kpb6lWg |
 | Creator | Nataly Vidales ([@vidales_nataly](https://x.com/vidales_nataly)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/creative-studio-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/creative-studio-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/creative-studio-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/creative-studio-scout), [x-research](https://x.com/vidales_nataly/status/2104308780720914826) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

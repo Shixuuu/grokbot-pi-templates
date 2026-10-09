@@ -6,7 +6,7 @@ Design partner for a U.S. citizen dividend + sovereign wealth package: locked $5
 | --- | --- |
 | Original template | https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_ |
 | Creator | Alec Snelling ([@AlecSnelling](https://x.com/AlecSnelling)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nessie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nessie), [grokbothq.xyz](https://grokbothq.xyz/bots/nessie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/nessie), [x-research](https://botsdots.site/templates/nessie) |
 | Fidelity | **full** (full recipe, template version 18) |
 | Contents | 4 skills, 1 routines, 21 memory seeds, 0 connectors |

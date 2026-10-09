@@ -6,7 +6,7 @@ Public System One decision layer for Grok Bot. Takes unstructured state plus Cho
 | --- | --- |
 | Original template | https://x.ai/bot/of2iJ-g4hgWF1v9_tNBDY |
 | Creator | Mario Pulice ([@kleosrr](https://x.com/kleosrr)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jevbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jevbot), [grokbothq.xyz](https://grokbothq.xyz/bots/jevbot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/kleosrr/status/2100740598139383975) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 4 memory seeds, 0 connectors |

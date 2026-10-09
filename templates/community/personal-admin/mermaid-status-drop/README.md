@@ -6,7 +6,7 @@ One-shot drop: installs the mermaid open-tasks skill into your Grok Bot account 
 | --- | --- |
 | Original template | https://x.ai/bot/TXG6WrWp8Dp0-GQq558In |
 | Creator | Lukas Weichselbaum ([@weichselbauml](https://x.com/weichselbauml)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mermaid-status-drop), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mermaid-status-drop), [grokbothq.xyz](https://grokbothq.xyz/bots/mermaid-status-drop), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/mermaid-status-drop) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

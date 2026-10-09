@@ -6,7 +6,7 @@ Is this a good price? Verified US tech deals, price history & coupons – powere
 | --- | --- |
 | Original template | https://x.ai/bot/9AsX0Exx7P4m2IwZXJ4tp |
 | Creator | Marc Majewski ([@moneydeals123](https://x.com/moneydeals123)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/us-tech-deals-price-checker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/us-tech-deals-price-checker), [grokbothq.xyz](https://grokbothq.xyz/bots/us-tech-deals-price-checker), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/us-tech-deals-price-checker), [x-research](https://botsdots.site/templates/us-tech-deals-price-checker) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

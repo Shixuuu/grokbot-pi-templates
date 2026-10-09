@@ -6,7 +6,7 @@ Send it a crypto ticker or coin name and it returns a full research package: sou
 | --- | --- |
 | Original template | https://x.ai/bot/TSgExceGHVJN9U2E4-_23 |
 | Creator | Joe Navarro ([@JRNavarro75](https://x.com/JRNavarro75)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crypto-buddy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/crypto-buddy), [grokbothq.xyz](https://grokbothq.xyz/bots/crypto-buddy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/crypto-buddy), [x-research](https://x.com/JRNavarro75/status/2104903749026435552) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

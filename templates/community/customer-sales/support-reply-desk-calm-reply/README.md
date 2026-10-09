@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/8g9eqsrncfnxhzbuktby- |
 | Creator | Cypher Monkey |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/support-reply-desk-calm-reply), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/support-reply-desk-calm-reply) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

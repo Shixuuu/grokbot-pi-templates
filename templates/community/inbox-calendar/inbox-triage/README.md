@@ -6,7 +6,7 @@ A morning email assistant that sorts Gmail, iCloud, or Outlook into what needs y
 | --- | --- |
 | Original template | https://x.ai/bot/_Rk119iD1k18cSxDoV8CC |
 | Creator | Brian ([@frogman263](https://x.com/frogman263)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inbox-triage-rk11), [grokbotwiki.com](https://www.grokbotwiki.com/bots/inbox-triage-rk11), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/inbox-triage-rk11) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

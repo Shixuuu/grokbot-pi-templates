@@ -6,7 +6,7 @@ Careful janitor for your Grok Bot computer. Inventories leftover files from dele
 | --- | --- |
 | Original template | https://x.ai/bot/e9A5Krbs1RSm7HCv0IwQz |
 | Creator | GenXer ([@LatchKeyLegend](https://x.com/LatchKeyLegend)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/sweeper), [botsdots.site](https://botsdots.site/templates/sweeper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sweeper), [grokbothq.xyz](https://grokbothq.xyz/bots/sweeper-e9A5Krbs), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sweeper), [x-research](https://x.com/LatchKeyLegend/status/2096731060390261048) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

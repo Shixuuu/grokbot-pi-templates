@@ -6,7 +6,7 @@ Draft-only freelance counter-offer desk. Paste an agency or portal offer and get
 | --- | --- |
 | Original template | https://x.ai/bot/ChuFYfELJdp6iA-5ImjFU |
 | Creator | Basho Parks ([@IslandMountain_](https://x.com/IslandMountain_)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/termlock), [grokbotwiki.com](https://www.grokbotwiki.com/bots/termlock), [grokbothq.xyz](https://grokbothq.xyz/bots/termlock), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/IslandMountain_/status/2097082655762481446) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 0 memory seeds, 1 connectors |

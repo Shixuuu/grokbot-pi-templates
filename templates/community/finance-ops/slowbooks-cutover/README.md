@@ -6,7 +6,7 @@ Migrate one QuickBooks Desktop company into SlowBooks via Conductor (read-only),
 | --- | --- |
 | Original template | https://x.ai/bot/ipwtpugwcq-y24b4losbh |
 | Creator | Justin Schnettler |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/slowbooks-cutover-ipwt), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/slowbooks-cutover-ipwt) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

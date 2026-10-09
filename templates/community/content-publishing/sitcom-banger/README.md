@@ -6,7 +6,7 @@ Turns a story, link, or thought into a short sitcom-style video clip. For anyone
 | --- | --- |
 | Original template | https://x.ai/bot/h4suD8jA37Wsb7tS4giUO |
 | Creator | altryne ([@altryne](https://x.com/altryne)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sitcom-banger), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cold-open), [grokbothq.xyz](https://grokbothq.xyz/bots/sitcom-banger), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/h4suD8jA37Wsb7tS4giUO), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cold-open), [x-research](https://x.com/altryne/status/2093459037484622297) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 17 memory seeds, 1 connectors |

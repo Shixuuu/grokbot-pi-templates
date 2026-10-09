@@ -6,7 +6,7 @@ Maps plain-English laundry to real LG ThinQ washer and dryer cycles, then starts
 | --- | --- |
 | Original template | https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7 |
 | Creator | Bryan Wilson ([@Bwilson](https://x.com/Bwilson)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/lg-laundry-specialist), [botsdots.site](https://botsdots.site/templates/lg-laundry-specialist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lg-laundry-specialist), [grokbothq.xyz](https://grokbothq.xyz/bots/lg-laundry-specialist), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/TNPSVnX4Dm-adBvHJbng7), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lg-laundry-specialist), [x-research](https://x.com/Bwilson/status/2097121334748643683) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Shortlists a few family stays with free cancellation for weekends and 3- or 4-da
 | --- | --- |
 | Original template | https://x.ai/bot/j2ijb0gsbszeoycj7vwhd |
 | Creator | Antonio Rubén de las Nieves Stoner |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/family-getaway-finder-j2ij), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/family-getaway-finder-j2ij) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 11 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Learns your voice from your own posts, keeps a weekly content calendar, and draf
 | --- | --- |
 | Original template | https://x.ai/bot/IIpqei3mrbiDeXL-cuhQo |
 | Creator | Charles Bonetti ([@ASaltyVet](https://x.com/ASaltyVet)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/social-media-manager-iipq), [grokbotwiki.com](https://www.grokbotwiki.com/bots/social-media-manager-iipq), [grokbothq.xyz](https://grokbothq.xyz/bots/social-media-manager), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/social-media-manager-iipq) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 6 routines, 6 memory seeds, 0 connectors |

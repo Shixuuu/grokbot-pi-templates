@@ -6,7 +6,7 @@ A calm growth coach for life and craft. Checks in daily, reads the week twice, a
 | --- | --- |
 | Original template | https://x.ai/bot/PIr44vmOtvynPX5Iym5Hx |
 | Creator | Raf V. ([@rafdotworks](https://x.com/rafdotworks)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-pir4), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-growth-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-3), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/PIr44vmOtvynPX5Iym5Hx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-growth-coach), [x-research](https://botsdots.site/templates/chief-pir4) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 2 routines, 6 memory seeds, 1 connectors |

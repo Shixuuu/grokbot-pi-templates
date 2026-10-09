@@ -6,7 +6,7 @@ Studio website admin: ship site changes to Cloudflare Pages, run launch QA, and 
 | --- | --- |
 | Original template | https://x.ai/bot/4aS9dM8j1YjtteDqPdjHh |
 | Creator | David Brum ([@bdvd_25](https://x.com/bdvd_25)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/web-admin), [grokbotwiki.com](https://www.grokbotwiki.com/bots/web-admin), [grokbothq.xyz](https://grokbothq.xyz/bots/web-admin), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/web-admin), [x-research](https://x.com/bdvd_25/status/2100971371337498841) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 3 connectors |

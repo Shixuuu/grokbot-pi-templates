@@ -6,7 +6,7 @@ A Chief of Staff that scans email and calendar on first install, then every week
 | --- | --- |
 | Original template | https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI |
 | Creator | SmoresBoy Jack ([@jxckvibe](https://x.com/jxckvibe)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-2), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/QIfSY8pPwjqBSIdal-5CI), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief), [x-research](https://x.com/Grok_Hub_IO/status/2093836040310292959) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 2 connectors |

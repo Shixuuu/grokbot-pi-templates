@@ -6,7 +6,7 @@ A Kalshi prediction-market research and trading assistant. It scans markets on a
 | --- | --- |
 | Original template | https://x.ai/bot/Opkg9YD0R9Ck1n9NGaB2f |
 | Creator | Justin Baker ([@QuState](https://x.com/QuState)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kalshi-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kalshi-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/kalshi-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/kalshi-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 9 memory seeds, 0 connectors |

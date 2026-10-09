@@ -6,7 +6,7 @@ Drop a plan, take, or draft → instant Strong / Weak / Fix, a paste-ready rewri
 | --- | --- |
 | Original template | https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj |
 | Creator | Sarah Brundige ([@SpaceCowgirlTX](https://x.com/SpaceCowgirlTX)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sui-generis), [grokbotwiki.com](https://www.grokbotwiki.com/bots/secondopinion), [grokbothq.xyz](https://grokbothq.xyz/bots/sui-generis), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/secondopinion), [x-research](https://x.com/nasben82/status/2099999458519912657) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

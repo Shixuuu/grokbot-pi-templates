@@ -6,7 +6,7 @@ DG1.com is a global all-in-one AI web, e-commerce, and marketing platform that e
 | --- | --- |
 | Original template | https://x.ai/bot/_ax4LmP0WeHz09cVh2ece |
 | Creator | Gregor Zebic ([@GregorZebicX](https://x.com/GregorZebicX)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dg1-admin), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dg1-admin), [grokbothq.xyz](https://grokbothq.xyz/bots/dg1-admin), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/dg1-admin) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 52 skills, 0 routines, 14 memory seeds, 0 connectors |

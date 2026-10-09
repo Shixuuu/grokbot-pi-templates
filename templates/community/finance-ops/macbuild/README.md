@@ -6,7 +6,7 @@ Engineering assistant for day-to-day coding, PRs, builds, and tech help. Built f
 | --- | --- |
 | Original template | https://x.ai/bot/8sA76Cs0vZMy9ROtq8Rn2 |
 | Creator | Shawn McKee ([@shawnmckee](https://x.com/shawnmckee)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/macbuild), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lifestyle-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/macbuild), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/macbuild) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Finds near-term product and service opportunities you can sell or ship, then str
 | --- | --- |
 | Original template | https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU |
 | Creator | saikrishna uppaluri ([@krish1403](https://x.com/krish1403)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/idea-crucible), [grokbotwiki.com](https://www.grokbotwiki.com/bots/idea-crucible), [grokbothq.xyz](https://grokbothq.xyz/bots/idea-crucible), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/idea-crucible), [x-research](https://botsdots.site/templates/idea-crucible) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

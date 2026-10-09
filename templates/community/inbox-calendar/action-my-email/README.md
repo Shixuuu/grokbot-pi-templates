@@ -6,7 +6,7 @@ Triage bot for people drowning in multiple Gmail inboxes. Sifts connected accoun
 | --- | --- |
 | Original template | https://x.ai/bot/CjkBywhqRcaruj2i658xU |
 | Creator | Elizabeth ([@Crystal74063093](https://x.com/Crystal74063093)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/action-my-email), [grokbotwiki.com](https://www.grokbotwiki.com/bots/action-my-email), [grokbothq.xyz](https://grokbothq.xyz/bots/action-my-email), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/action-my-email) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 2 connectors |

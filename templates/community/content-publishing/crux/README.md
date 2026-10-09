@@ -6,7 +6,7 @@ Turns any Reel, YouTube video, podcast clip, or other video into a brutally conc
 | --- | --- |
 | Original template | https://x.ai/bot/SnsO2P9lsQuCKg8xOXA9k |
 | Creator | Bobby Backlogs ([@BobbyBacklogs](https://x.com/BobbyBacklogs)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crux), [grokbotwiki.com](https://www.grokbotwiki.com/bots/crux), [grokbothq.xyz](https://grokbothq.xyz/bots/crux), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/crux) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Legendary Hollywood movie producer and visual storytelling master. Treats Grok I
 | --- | --- |
 | Original template | https://x.ai/bot/-PewQ9-5OJOire4J4GI4L |
 | Creator | FatDon Capital |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tarantino), [grokbothq.xyz](https://grokbothq.xyz/bots/tarantino), [templatebot.lol](https://templatebot.lol/bot/-PewQ9-5OJOire4J4GI4L), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/tarantino) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

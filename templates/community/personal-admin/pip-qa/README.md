@@ -6,7 +6,7 @@ An app and game QA tester that plays your mobile or web app like a 7-year-old fi
 | --- | --- |
 | Original template | https://x.ai/bot/o2tkDy7VSw45sbWViOO16 |
 | Creator | Amy Liu ([@EmergentContent](https://x.com/EmergentContent)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pip-qa), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pip-qa), [grokbothq.xyz](https://grokbothq.xyz/bots/pip-qa), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pip-qa), [x-research](https://botsdots.site/templates/pip-qa) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

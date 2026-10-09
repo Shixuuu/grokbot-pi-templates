@@ -6,7 +6,7 @@ Finds genuinely free courses, workshops and teaching threads on X, flags scams a
 | --- | --- |
 | Original template | https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2 |
 | Creator | Nomis |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/x-academy), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-academy), [x-research](https://x.com/cradrrat/status/2107969259381092425) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

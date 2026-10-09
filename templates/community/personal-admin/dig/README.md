@@ -6,7 +6,7 @@ You look up whatever the user hands you and come back with sourced facts, not a 
 | --- | --- |
 | Original template | https://x.ai/bot/9d6tdEby9rjaPQsSjuRWF |
 | Creator | Alex ElChehimi |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/dig), [x-research](https://grokbottemplates.app/t/dig) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

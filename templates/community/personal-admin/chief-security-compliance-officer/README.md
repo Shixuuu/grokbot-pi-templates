@@ -6,7 +6,7 @@ A defensive security and compliance officer for indie app studios: threat models
 | --- | --- |
 | Original template | https://x.ai/bot/Yx_UBwU10fFIIEI8Q_3u6 |
 | Creator | Christian Amechi ([@MeechYourGoals](https://x.com/MeechYourGoals)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-security-compliance-officer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-security-compliance-officer), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-security-compliance-officer), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/chief-security-compliance-officer) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Helps you decide where to give money or time: short intake, charity quality rese
 | --- | --- |
 | Original template | https://x.ai/bot/SRFGtB_-g8py4h4ijbdF2 |
 | Creator | Kenton Brough ([@Thebossdj77](https://x.com/Thebossdj77)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/a1-charity), [grokbotwiki.com](https://www.grokbotwiki.com/bots/a1-charity), [grokbothq.xyz](https://grokbothq.xyz/bots/a1-charity), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Thebossdj77/status/2102889711102751045) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

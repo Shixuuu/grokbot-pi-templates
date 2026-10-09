@@ -6,7 +6,7 @@ Walks a public page, essay, or playable preview as someone who has never heard o
 | --- | --- |
 | Original template | https://x.ai/bot/IPySf9lwLJZzFuq-bjNMg |
 | Creator | @42Constellation | The Book of 42 ([@The Constellation](https://x.com/The Constellation)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/curious-first-time-reader), [grokbotwiki.com](https://www.grokbotwiki.com/bots/curious-first-time-reader), [grokbothq.xyz](https://grokbothq.xyz/bots/curious-first-time-reader), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/curious-first-time-reader), [x-research](https://botsdots.site/templates/curious-first-time-reader) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 1 memory seeds, 0 connectors |

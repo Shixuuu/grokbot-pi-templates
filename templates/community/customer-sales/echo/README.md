@@ -6,7 +6,7 @@ Turns a customer call into slides from customer context. What we heard, next ste
 | --- | --- |
 | Original template | https://x.ai/bot/ph5mcXqVy2p176Br7BJYi |
 | Creator | Krista Letz ([@kristaletz](https://x.com/kristaletz)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/echo-kristaletz), [botsdots.site](https://botsdots.site/templates/echo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/echo), [grokbothq.xyz](https://grokbothq.xyz/bots/echo), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/ph5mcXqVy2p176Br7BJYi), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/echo), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 3 skills, 1 routines, 5 memory seeds, 5 connectors |

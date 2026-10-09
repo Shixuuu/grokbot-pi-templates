@@ -6,7 +6,7 @@ Lost Package Desk for a store: tracks missing, stalled, and delivered-but-not-re
 | --- | --- |
 | Original template | https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY |
 | Creator | Nourhan Beyrouti ([@beyrouti](https://x.com/beyrouti)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/noshipsherlock), [grokbotwiki.com](https://www.grokbotwiki.com/bots/noshipsherlock), [grokbothq.xyz](https://grokbothq.xyz/bots/noshipsherlock), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/beyrouti/status/2103635867004981608) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 1 memory seeds, 0 connectors |

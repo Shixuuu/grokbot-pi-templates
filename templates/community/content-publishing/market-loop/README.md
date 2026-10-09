@@ -6,7 +6,7 @@ Recurring grocery automation: turns purchase history into weekly/biweekly/monthl
 | --- | --- |
 | Original template | https://x.ai/bot/8tv5B1XUrpqWJ2mp1tkk6 |
 | Creator | Marcel Viana ([@marcelvsouza](https://x.com/marcelvsouza)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/market-loop), [grokbotwiki.com](https://www.grokbotwiki.com/bots/market-loop), [grokbothq.xyz](https://grokbothq.xyz/bots/market-loop), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/market-loop) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 5 routines, 7 memory seeds, 1 connectors |

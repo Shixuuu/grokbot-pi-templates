@@ -6,7 +6,7 @@ Mystery-shops any ecommerce site like a real customer, walking every page and jo
 | --- | --- |
 | Original template | https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad |
 | Creator | Vic G ([@VicGellon](https://x.com/VicGellon)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mystery-eshopper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mystery-eshopper), [grokbothq.xyz](https://grokbothq.xyz/bots/mystery-eshopper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mystery-eshopper), [x-research](https://x.com/VicGellon/status/2104124777850081574) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Expert phone-app designer and builder for beginner-friendly PWAs. Ships polished
 | --- | --- |
 | Original template | https://x.ai/bot/SUVGlpw-FxBi2BjnIHWGx |
 | Creator | Blake King ([@BlakeKing777](https://x.com/BlakeKing777)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ryan-app-shop), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ryan-app-shop), [grokbothq.xyz](https://grokbothq.xyz/bots/ryan-app-shop), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ryan-app-shop), [x-research](https://x.com/BlakeKing777/status/2101471915114180715) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 3 connectors |

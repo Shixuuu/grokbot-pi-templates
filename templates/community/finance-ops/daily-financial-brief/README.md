@@ -6,7 +6,7 @@ A morning money brief: your linked accounts, market and sector moves, then tech,
 | --- | --- |
 | Original template | https://x.ai/bot/s2YEW2exxqk-BhcWfGziz |
 | Creator | swetha_lochte ([@swetha_lochte](https://x.com/swetha_lochte)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/daily-financial-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/daily-financial-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/daily-financial-brief), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/daily-financial-brief), [x-research](https://botsdots.site/templates/daily-financial-brief) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 0 connectors |

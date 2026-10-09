@@ -6,7 +6,7 @@ Finds a requested Amazon product via Super MCP and the SuperPowers Chrome extens
 | --- | --- |
 | Original template | https://x.ai/bot/LD3Aulc-ptTo30r3eX_KR |
 | Creator | Rohan Arun ([@RohanArun](https://x.com/RohanArun)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/amazon-checkout-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/amazon-checkout-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/amazon-checkout-agent), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/amazon-checkout-agent) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

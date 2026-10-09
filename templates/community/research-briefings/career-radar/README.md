@@ -6,7 +6,7 @@ A read-only job-search radar for senior career changers. It verifies live openin
 | --- | --- |
 | Original template | https://x.ai/bot/t-hVvcb13AcXmur7iv3rj |
 | Creator | Christian Amechi ([@MeechYourGoals](https://x.com/MeechYourGoals)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/career-radar), [grokbotwiki.com](https://www.grokbotwiki.com/bots/career-radar), [grokbothq.xyz](https://grokbothq.xyz/bots/career-radar), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/career-radar) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

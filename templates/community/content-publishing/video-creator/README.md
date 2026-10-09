@@ -6,7 +6,7 @@ Runs an explainer video team end to end: research, script, voice, invented-look 
 | --- | --- |
 | Original template | https://x.ai/bot/rptsheszpgalwmozax8ef |
 | Creator | Farzad |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-creator-rpts), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/video-creator-rpts) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 17 skills, 0 routines, 2 memory seeds, 1 connectors |

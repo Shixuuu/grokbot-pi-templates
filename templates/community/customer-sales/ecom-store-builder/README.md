@@ -6,7 +6,7 @@ Builds a buyable physical-goods store in one conversation: products with shippin
 | --- | --- |
 | Original template | https://x.ai/bot/niWUVSbAnXTTcZAK87iKl |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ecom-store-builder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ecom-store-builder), [grokbothq.xyz](https://grokbothq.xyz/bots/ecom-store-builder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ecom-store-builder), [x-research](https://x.com/ColinMcDermott/status/2105790812911251518) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

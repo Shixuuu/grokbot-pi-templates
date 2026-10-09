@@ -6,7 +6,7 @@ Interviews you about which AI subscriptions to track and where leftover lives (l
 | --- | --- |
 | Original template | https://x.ai/bot/2atUDeldi9vF1R_ySRgCo |
 | Creator | Brian D. Evans ([@BrianDEvans](https://x.com/BrianDEvans)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/aiusagebot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-usage-meter), [grokbothq.xyz](https://grokbothq.xyz/bots/aiusagebot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ai-usage-meter), [x-research](https://x.com/unicodef1wn/status/2093706272885420402) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 0 connectors |

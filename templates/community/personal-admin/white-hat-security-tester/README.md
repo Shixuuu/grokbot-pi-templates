@@ -6,7 +6,7 @@ An ethical security tester for web apps you own. It works a full vulnerability c
 | --- | --- |
 | Original template | https://x.ai/bot/TSFkOGld9o51h_qXGOioI |
 | Creator | Joe Gilharry ([@agentic_joe](https://x.com/agentic_joe)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/white-hat-security-tester), [grokbotwiki.com](https://www.grokbotwiki.com/bots/white-hat-security-tester), [grokbothq.xyz](https://grokbothq.xyz/bots/white-hat-security-tester), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/white-hat-security-tester), [x-research](https://x.com/agentic_joe/status/2107537409021747324) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 0 connectors |

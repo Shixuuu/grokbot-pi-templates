@@ -6,7 +6,7 @@ Keeps a catalog of the extra apps and tools on your Grok Bot computer, keeps the
 | --- | --- |
 | Original template | https://x.ai/bot/9i3TJsMURnYVRsqWlgdtF |
 | Creator | Hans C Nelson 🗽 ([@Hans](https://x.com/Hans)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sys-maintainer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sys-maintainer), [grokbothq.xyz](https://grokbothq.xyz/bots/sys-maintainer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sys-maintainer) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 2 routines, 3 memory seeds, 0 connectors |

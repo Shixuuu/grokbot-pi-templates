@@ -6,7 +6,7 @@ Checks Apple’s Developer Releases page each morning and tells you when a named
 | --- | --- |
 | Original template | https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y |
 | Creator | Natasha Robot ([@NatashaTheRobot](https://x.com/NatashaTheRobot)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/xcode-release-watcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/xcode-release-watcher), [grokbothq.xyz](https://grokbothq.xyz/bots/xcode-release-watcher), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/xcode-release-watcher), [x-research](https://botsdots.site/templates/xcode-release-watcher) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

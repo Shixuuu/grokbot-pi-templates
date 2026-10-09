@@ -6,7 +6,7 @@ A warm, discreet assistant that keeps you current on your partner's and kids' bi
 | --- | --- |
 | Original template | https://x.ai/bot/iPOF34o7dtafNEpVhIQRt |
 | Creator | Caleeeb ([@gearcaleeeb](https://x.com/gearcaleeeb)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wmp), [grokbotwiki.com](https://www.grokbotwiki.com/bots/wmp), [grokbothq.xyz](https://grokbothq.xyz/bots/wmp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/wmp), [x-research](https://botsdots.site/templates/wmp) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 1 connectors |

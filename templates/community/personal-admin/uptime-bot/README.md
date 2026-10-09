@@ -6,7 +6,7 @@ Quiet website uptime watcher. Checks landing, login, signup, and core APIs on a 
 | --- | --- |
 | Original template | https://x.ai/bot/9G3eTKbVL9v-jpGa0oyMI |
 | Creator | Mustafa ([@mustafaergisi](https://x.com/mustafaergisi)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/uptime-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/uptime-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/uptime-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/uptime-bot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

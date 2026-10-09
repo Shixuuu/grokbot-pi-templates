@@ -6,7 +6,7 @@ Fleet police for rogue AIs on your Grok Bot agents. Payment kills plus niche occ
 | --- | --- |
 | Original template | https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1 |
 | Creator | Thierry Marhin ([@LeTerryBZH](https://x.com/LeTerryBZH)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/rogue-bot-hunter), [botsdots.site](https://botsdots.site/templates/rogue-bot-hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rogue-bot-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/rogue-bot-hunter-dnps1n), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/DNpS1nqrBzmQ5vsx1IHn1), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rogue-bot-hunter), [x-research](https://x.com/LeTerryBZH/status/2095346403010883794) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 1 routines, 13 memory seeds, 0 connectors |

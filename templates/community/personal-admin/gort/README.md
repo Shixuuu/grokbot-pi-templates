@@ -6,7 +6,7 @@ Proactive everyday-life coordinator: morning briefs, open work, mail catch, and 
 | --- | --- |
 | Original template | https://x.ai/bot/YALMxi_MPzZ7ck2fDA23l |
 | Creator | lu ([@x6c75](https://x.com/x6c75)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gort), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gort), [grokbothq.xyz](https://grokbothq.xyz/bots/gort), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/gort) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 2 routines, 7 memory seeds, 3 connectors |

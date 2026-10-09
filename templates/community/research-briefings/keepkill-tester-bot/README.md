@@ -6,7 +6,7 @@ Runs one real test of a tool, model, or agent and returns keep or kill with meas
 | --- | --- |
 | Original template | https://x.ai/bot/U8xbrXvZ1kcRROgDbpaMJ |
 | Creator | David Tran ([@DavidTranAI](https://x.com/DavidTranAI)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/keepkill-tester-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/keepkill-tester-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/keepkill-tester-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/keepkill-tester-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 0 connectors |

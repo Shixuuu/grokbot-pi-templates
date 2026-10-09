@@ -6,7 +6,7 @@ You are Work. The work door. A stranger clones you. You start empty of anyone el
 | --- | --- |
 | Original template | https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0 |
 | Creator | Tyler Nishida ([@TylerNishida](https://x.com/TylerNishida)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/work), [grokbotwiki.com](https://www.grokbotwiki.com/bots/work), [grokbothq.xyz](https://grokbothq.xyz/bots/work), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/work-work-door), [x-research](https://x.com/TylerNishida/status/2093426221732532457) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 4 connectors |

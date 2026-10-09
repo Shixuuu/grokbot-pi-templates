@@ -6,7 +6,7 @@ Tracks which of your Grok Bot agents are active, idle, or duplicated, and sends 
 | --- | --- |
 | Original template | https://x.ai/bot/pAV9F663FH06L-uIKVJd- |
 | Creator | Mac ([@Cultureofsports](https://x.com/Cultureofsports)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/robin-hood-bot-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/robin-hood), [grokbothq.xyz](https://grokbothq.xyz/bots/robin-hood-bot-manager), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/robin-hood-bot-manager), [x-research](https://botsdots.site/templates/robin-hood-bot-manager) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

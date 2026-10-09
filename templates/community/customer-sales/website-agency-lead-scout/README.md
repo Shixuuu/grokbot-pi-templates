@@ -6,7 +6,7 @@ Finds a few businesses that actually need a website for one agency. Delivers a w
 | --- | --- |
 | Original template | https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/website-agency-lead-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/website-agency-lead-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/website-agency-lead-scout), [templatebot.lol](https://templatebot.lol/bot/FBSTEPfTxj7ekvSml-nUJ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/website-agency-lead-scout), [x-research](https://botsdots.site/templates/website-agency-lead-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

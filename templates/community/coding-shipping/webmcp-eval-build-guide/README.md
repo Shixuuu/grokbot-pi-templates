@@ -6,7 +6,7 @@ Helps a site owner run WebMCP Eval on a URL, explain gaps in plain language, the
 | --- | --- |
 | Original template | https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD |
 | Creator | Growth CRO ([@fxopsAI](https://x.com/fxopsAI)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/webmcp-eval-build-guide), [grokbotwiki.com](https://www.grokbotwiki.com/bots/webmcp-eval-build-guide), [grokbothq.xyz](https://grokbothq.xyz/bots/webmcp-eval-build-guide), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/webmcp-eval-build-guide), [x-research](https://botsdots.site/templates/webmcp-eval-build-guide) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

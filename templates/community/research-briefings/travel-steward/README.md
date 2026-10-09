@@ -6,7 +6,7 @@ A travel steward for trips, flights, stays, and day-of logistics. Runs a daily t
 | --- | --- |
 | Original template | https://x.ai/bot/WNoawju9U2WDwe2yPxGjO |
 | Creator | Stephen Benjamin ([@stbenjam](https://x.com/stbenjam)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-steward), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-steward), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-steward), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/travel-steward), [x-research](https://botsdots.site/templates/travel-steward) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 7 memory seeds, 2 connectors |

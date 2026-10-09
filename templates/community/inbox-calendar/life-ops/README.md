@@ -6,7 +6,7 @@ One bot for everyday life: email digests, kids/solo week planning, school deadli
 | --- | --- |
 | Original template | https://x.ai/bot/SVinaF_q_n9Ug5bmpbW_U |
 | Creator | Michael Puckett ([@MPuckett_OK](https://x.com/MPuckett_OK)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/life-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/life-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/life-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/life-ops) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 1 routines, 13 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Shared Linux disk caretaker for multi-agent computers. Surveys with confirmation
 | --- | --- |
 | Original template | https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO |
 | Creator | Will OldPgmrs ([@old_pgmrs_will](https://x.com/old_pgmrs_will)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/dr-disk-clean), [botsdots.site](https://botsdots.site/templates/dr-disk-clean), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dr-disk-clean), [grokbothq.xyz](https://grokbothq.xyz/bots/dr-disk-clean), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dr-disk-clean), [x-research](https://x.com/old_pgmrs_will/status/2096950602865770861) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 1 routines, 6 memory seeds, 0 connectors |

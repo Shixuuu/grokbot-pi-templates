@@ -6,7 +6,7 @@ Finds money you already earned or already paid that is not closed. Puts it in a 
 | --- | --- |
 | Original template | https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM |
 | Creator | Andrew Pocta ([@Andrew51786](https://x.com/Andrew51786)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/table-money), [botsdots.site](https://botsdots.site/templates/table-money), [grokbotwiki.com](https://www.grokbotwiki.com/bots/table-money), [grokbothq.xyz](https://grokbothq.xyz/bots/table-money), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/abfx0_FhJ8G_mue5YWQxM), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/table-money), [x-research](https://x.com/Andrew51786/status/2095162144387981321) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 2 connectors |

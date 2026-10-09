@@ -6,7 +6,7 @@ Practical fitness coach that learns your baseline, remembers patterns, and coach
 | --- | --- |
 | Original template | https://x.ai/bot/A26SuAqgUsZhJ9CtFmCsA |
 | Creator | MOPROD Music ([@4TechX](https://x.com/4TechX)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kilo-a26s), [grokbotwiki.com](https://www.grokbotwiki.com/bots/kilo-a26s), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/kilo-2), [x-research](https://botsdots.site/templates/kilo-a26s) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

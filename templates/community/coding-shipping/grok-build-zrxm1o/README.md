@@ -6,7 +6,7 @@ Runs the real Grok Build CLI for apps, code, and deep research at maximum effort
 | --- | --- |
 | Original template | https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL |
 | Creator | Teslaconomics ([@Teslaconomics](https://x.com/Teslaconomics)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/grok-build), [botsdots.site](https://botsdots.site/templates/grok-build-zrxm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-build-zrxm), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-build), [templatebot.lol](https://templatebot.lol/bot/ZRxm1O9tmizOhriV7GiWL), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 0 connectors |

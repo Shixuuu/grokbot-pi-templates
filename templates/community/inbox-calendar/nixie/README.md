@@ -6,7 +6,7 @@ Gmail cleanup clerk for expert witnesses and busy professionals: trash promo noi
 | --- | --- |
 | Original template | https://x.ai/bot/V4vVQ5UtqQKMTQ7pg3Ihc |
 | Creator | Bruce F. Webster ([@bfwebster](https://x.com/bfwebster)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nixie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nixie), [grokbothq.xyz](https://grokbothq.xyz/bots/nixie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/nixie) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 9 memory seeds, 1 connectors |

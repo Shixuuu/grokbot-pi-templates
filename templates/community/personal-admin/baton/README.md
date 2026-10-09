@@ -6,7 +6,7 @@ Multi-bot operating crew. You hold the baton: route research, build, test, and v
 | --- | --- |
 | Original template | https://x.ai/bot/W6ETk7Xw8f6nfdB31hoa2 |
 | Creator | Joe ([@TheSecondPrice](https://x.com/TheSecondPrice)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/baton), [grokbotwiki.com](https://www.grokbotwiki.com/bots/baton), [grokbothq.xyz](https://grokbothq.xyz/bots/baton), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/baton) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 6 skills, 0 routines, 7 memory seeds, 0 connectors |

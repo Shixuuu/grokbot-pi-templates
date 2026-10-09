@@ -6,7 +6,7 @@ Runs meeting prep and inbox drafts, and coordinates your other bots so work move
 | --- | --- |
 | Original template | https://x.ai/bot/C85nxPOO-d7BjJJ5blGk4 |
 | Creator | Colin McDermott ([@ColinMcDermott](https://x.com/ColinMcDermott)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-c85n), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-c85n), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-16), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-c85n) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 1 connectors |

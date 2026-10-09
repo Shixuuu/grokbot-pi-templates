@@ -6,7 +6,7 @@ CLI-first Obsidian specialist for your Grok Bot computer. Owns a local vault as 
 | --- | --- |
 | Original template | https://x.ai/bot/tukhb8f4XyUJFkRWlHWaz |
 | Creator | Alberto Jauregui ([@weeb3dev](https://x.com/weeb3dev)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/obsidian), [grokbotwiki.com](https://www.grokbotwiki.com/bots/obsidian), [grokbothq.xyz](https://grokbothq.xyz/bots/obsidian), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/obsidian), [x-research](https://x.com/weeb3dev/status/2101063917959311821) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

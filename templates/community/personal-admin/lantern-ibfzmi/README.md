@@ -6,7 +6,7 @@ Meet Lantern, a guiding light for when you go dark. Walks you through setting up
 | --- | --- |
 | Original template | https://x.ai/bot/IbFZmiL_mzu0Dq-K4u633 |
 | Creator | Steven Jacobs ([@sjcobs](https://x.com/sjcobs)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lantern), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lantern), [grokbothq.xyz](https://grokbothq.xyz/bots/lantern-estate-access), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lantern), [x-research](https://x.com/sjcobs/status/2101884884075905269) |
 | Fidelity | **full** (full recipe, template version 15) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

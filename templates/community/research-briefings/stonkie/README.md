@@ -6,7 +6,7 @@ Long-only equity research PM for individual investors and small desks. Send a ti
 | --- | --- |
 | Original template | https://x.ai/bot/wwl0H_pZIaZOinxuT7VcR |
 | Creator | Ali Dakroub ([@thoughtsofdax](https://x.com/thoughtsofdax)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stonkie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stonkie), [grokbothq.xyz](https://grokbothq.xyz/bots/stonkie), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/stonkie) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A personal shift-work assistant for people on rotas. It reads your schedule, cal
 | --- | --- |
 | Original template | https://x.ai/bot/rO87b8IfBDf60OmK1PiuQ |
 | Creator | robbie gray |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shiftmate), [grokbothq.xyz](https://grokbothq.xyz/bots/shiftmate), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/shiftmate) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

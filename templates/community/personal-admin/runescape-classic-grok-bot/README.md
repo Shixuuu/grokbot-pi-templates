@@ -6,7 +6,7 @@ RuneScape Classic beginner companion. Teaches Level 1 play (move, equip, bank, a
 | --- | --- |
 | Original template | https://x.ai/bot/0JrDm0jPnwX5i6nzl689d |
 | Creator | TerpGPT ([@TerpGPT](https://x.com/TerpGPT)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/runescape-classic-grok-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/runescape-classic-grok-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/runescape-classic-grok-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/runescape-classic-grok-bot), [x-research](https://x.com/TerpGPT/status/2105209356233105526) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

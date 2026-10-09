@@ -6,7 +6,7 @@ Expedition sponsorship intern for adventure photographers: multi-inbox gear/PFC 
 | --- | --- |
 | Original template | https://x.ai/bot/-0bgFr7-a5pUPscGVqAe3 |
 | Creator | Kai Mai ([@kaiphotojawn](https://x.com/kaiphotojawn)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/adventure-photography-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ama-dablam-sponsorship-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/adventure-photography-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/kaiphotojawn/status/2100660693909242234) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 6 memory seeds, 1 connectors |

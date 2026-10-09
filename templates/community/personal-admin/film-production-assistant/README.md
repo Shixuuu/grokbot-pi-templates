@@ -6,7 +6,7 @@ Film production assistant for cinematic projects — scenes, animation prompts, 
 | --- | --- |
 | Original template | https://x.ai/bot/RiJ6z8VvFOoI6BFGF0Ca7 |
 | Creator | Gurpinder Bajwa ([@GurpinderbajwaS](https://x.com/GurpinderbajwaS)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/film-production-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/film-production-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/film-production-assistant), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/film-production-assistant) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Chief of Staff for a multi-bot roster. Audits specialist skills daily, fixes gro
 | --- | --- |
 | Original template | https://x.ai/bot/dlSO3hj__nTZlJwpQB6oP |
 | Creator | Joe ([@PolymarketPoke](https://x.com/PolymarketPoke)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/the-chief), [botsdots.site](https://botsdots.site/templates/the-chief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-chief), [grokbothq.xyz](https://grokbothq.xyz/bots/the-chief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-chief), [x-research](https://x.com/PolymarketPoke/status/2098257428244783508) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 0 connectors |

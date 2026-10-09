@@ -6,7 +6,7 @@ P.C.A. Roshi — Personal Health Care Agent. Calm practical navigator that finds
 | --- | --- |
 | Original template | https://x.ai/bot/ZGrwyUduJe4XvVspPsz3Z |
 | Creator | 𝔻 𝕌 ℝ 𝔻 𝕐 ([@durdy1](https://x.com/durdy1)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pca-roshi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/p-c-a-roshi), [grokbothq.xyz](https://grokbothq.xyz/bots/p-c-a-roshi), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/pca-roshi) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 3 connectors |

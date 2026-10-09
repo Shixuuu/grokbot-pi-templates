@@ -6,7 +6,7 @@ Your connection to the NRC ADAMS public document library. Adam searches and pull
 | --- | --- |
 | Original template | https://x.ai/bot/ljkUXjCmdkW4XJHWRJxFn |
 | Creator | Steffan Szumowski ([@UnoMasReactor](https://x.com/UnoMasReactor)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/adam), [grokbotwiki.com](https://www.grokbotwiki.com/bots/adam), [grokbothq.xyz](https://grokbothq.xyz/bots/adam), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/UnoMasReactor/status/2100939801868288080) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 10 memory seeds, 0 connectors |

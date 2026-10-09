@@ -6,7 +6,7 @@ A daily social desk for one brand. Learns voice from the owner's X profile and r
 | --- | --- |
 | Original template | https://x.ai/bot/F7rovUv9EumNAoj9vEAWm |
 | Creator | Josh Kim ([@joshkim](https://x.com/joshkim)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dadprotech-brand-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dadprotech-brand-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/dadprotech-brand-manager), [templatebot.lol](https://templatebot.lol/bot/F7rovUv9EumNAoj9vEAWm), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dadprotech-brand-manager), [x-research](https://botsdots.site/templates/dadprotech-brand-manager) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Keeps Chrome cookies in sync for a fleet of Grok Bots that browse signed-in site
 | --- | --- |
 | Original template | https://x.ai/bot/55t0IuxxlT7BWffNVOKai |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cookie-monster), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cookie-monster), [grokbothq.xyz](https://grokbothq.xyz/bots/cookie-monster), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/55t0IuxxlT7BWffNVOKai), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cookie-monster), [x-research](https://botsdots.site/templates/cookie-monster) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

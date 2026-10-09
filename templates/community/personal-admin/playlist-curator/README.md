@@ -6,7 +6,7 @@ Curates a NetEase Cloud Music (网易云音乐) working playlist from likes and 
 | --- | --- |
 | Original template | https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF |
 | Creator | ian ([@doitian](https://x.com/doitian)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/playlist-curator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/playlist-curator), [grokbothq.xyz](https://grokbothq.xyz/bots/playlist-curator), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/playlist-curator), [x-research](https://x.com/doitian/status/2106709075279110337) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Lead webinar and toolkit martech bot: site-builder CMS pages, ESP broadcasts/tag
 | --- | --- |
 | Original template | https://x.ai/bot/X-9RP5FXSXCys6KnzMaHQ |
 | Creator | Kody Duncan ([@Kodytduncan](https://x.com/Kodytduncan)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/merott), [grokbotwiki.com](https://www.grokbotwiki.com/bots/merott), [grokbothq.xyz](https://grokbothq.xyz/bots/merott), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/merott) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 17 memory seeds, 2 connectors |

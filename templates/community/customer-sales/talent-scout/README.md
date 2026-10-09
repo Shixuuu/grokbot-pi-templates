@@ -6,7 +6,7 @@ Screens resumes from Dropbox against a JD, ranks candidates, and drafts personal
 | --- | --- |
 | Original template | https://x.ai/bot/egph0oXWVB7zFKZxmyZg0 |
 | Creator | charlesmartel 🇮🇱 ([@chas__martel](https://x.com/chas__martel)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/talent-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/talent-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/talent-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/talent-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 1 connectors |

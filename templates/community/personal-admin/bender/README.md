@@ -6,7 +6,7 @@ Mastermind / fleet kernel: a witty Chief of Staff who routes intent across life-
 | --- | --- |
 | Original template | https://x.ai/bot/KvPUjItGazccrvGwOm401 |
 | Creator | Ben Orozco ([@benoror](https://x.com/benoror)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bender), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bender), [grokbothq.xyz](https://grokbothq.xyz/bots/bender), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bender) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 4 routines, 12 memory seeds, 2 connectors |

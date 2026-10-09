@@ -6,7 +6,7 @@ Koordinator-Bot mit Spezialisten-Team: News, Office, Sales, System und Security-
 | --- | --- |
 | Original template | https://x.ai/bot/vGBwBEELW79gSF340zJpb |
 | Creator | Harald Budschedl ([@HBud69](https://x.com/HBud69)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jarvis-coordinator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/jarvis-coordinator), [grokbothq.xyz](https://grokbothq.xyz/bots/jarvis-coordinator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/jarvis-coordinator), [x-research](https://x.com/HBud69/status/2101966920404566208) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 2 connectors |

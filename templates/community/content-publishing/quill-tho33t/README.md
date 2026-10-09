@@ -6,7 +6,7 @@ Craft pass for Obsidian notes—voice punch-up, continuity, or depth read on wri
 | --- | --- |
 | Original template | https://x.ai/bot/tHo33t3IaAhpxds5IpNbD |
 | Creator | John Koisch ([@the_simonjester](https://x.com/the_simonjester)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quill), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quill), [grokbothq.xyz](https://grokbothq.xyz/bots/quill), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/quill), [x-research](https://x.com/the_simonjester/status/2103992041734811919) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

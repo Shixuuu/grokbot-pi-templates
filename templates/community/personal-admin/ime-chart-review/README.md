@@ -6,7 +6,7 @@ Reviews and summarizes medical reports and charts for pain and personal-injury p
 | --- | --- |
 | Original template | https://x.ai/bot/jYajAanyKBO7aTMQ3zxUL |
 | Creator | Emily Kurokawa ([@emilykuro2](https://x.com/emilykuro2)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ime-chart-review), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ime-chart-review), [grokbothq.xyz](https://grokbothq.xyz/bots/ime-chart-review), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ime-chart-review) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Make the user confront what they would have to delay, drop, or sacrifice when th
 | --- | --- |
 | Original template | https://x.ai/bot/T5FSfM91XA6gMgh2rX56K |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/gatekeeper), [botsdots.site](https://botsdots.site/templates/gatekeeper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gatekeeper), [grokbothq.xyz](https://grokbothq.xyz/bots/gatekeeper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/gatekeeper), [x-research](https://x.com/liam_fallen/status/2093383132137279825) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 3 connectors |

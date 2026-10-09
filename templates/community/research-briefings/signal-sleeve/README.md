@@ -6,7 +6,7 @@ Turns one paid research subscription (22V, 42 Macro, Fundstrat, or any email/Dri
 | --- | --- |
 | Original template | https://x.ai/bot/mrKPFB6yT13jZZITaCDEV |
 | Creator | Jonny.buffett_va ([@JonnyBuffettVA](https://x.com/JonnyBuffettVA)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/signal-sleeve), [grokbotwiki.com](https://www.grokbotwiki.com/bots/signal-sleeve), [grokbothq.xyz](https://grokbothq.xyz/bots/signal-sleeve), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/JonnyBuffettVA/status/2104873495482040743) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 7 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A pstack advisor for planning and PR review, written in the voice of Lauren Tan'
 | --- | --- |
 | Original template | https://x.ai/bot/LLo2lExIUZY2rKFsYuPh9 |
 | Creator | Stephen Brouhard ([@ssbrouhard](https://x.com/ssbrouhard)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/distilled-lauren-tan), [grokbotwiki.com](https://www.grokbotwiki.com/bots/distilled-lauren-tan), [grokbothq.xyz](https://grokbothq.xyz/bots/distilled-lauren-tan), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/distilled-lauren-tan) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 16 memory seeds, 0 connectors |

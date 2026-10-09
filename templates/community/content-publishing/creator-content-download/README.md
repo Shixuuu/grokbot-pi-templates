@@ -6,7 +6,7 @@ Paste social post links and this bot downloads them as hard files, uploads those
 | --- | --- |
 | Original template | https://x.ai/bot/u1m_h-MM1Z7AyPXILn639 |
 | Creator | Mike McConnon |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/creator-content-download), [grokbothq.xyz](https://grokbothq.xyz/bots/creator-content-download), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/creator-content-download) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 2 connectors |

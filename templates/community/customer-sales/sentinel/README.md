@@ -6,7 +6,7 @@ Compliance officer for insurance marketing copy. Reviews outbound emails, site p
 | --- | --- |
 | Original template | https://x.ai/bot/NAFAT-NGrQ7-zLccn4qg1 |
 | Creator | Gregory Sloan, CLU, ChFC |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sentinel-nafa), [grokbothq.xyz](https://grokbothq.xyz/bots/sentinel-insurance-copy), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/sentinel-nafa) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

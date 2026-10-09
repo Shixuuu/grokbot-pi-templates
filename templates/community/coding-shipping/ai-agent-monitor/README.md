@@ -6,7 +6,7 @@ Watches the AI-agent layer on your PC: MCP server configs, agent rules files, AI
 | --- | --- |
 | Original template | https://x.ai/bot/vyJij4Ld7g4egW8CAxA2f |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ai-agent-monitor), [grokbothq.xyz](https://grokbothq.xyz/bots/ai-agent-monitor), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ai-agent-monitor) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

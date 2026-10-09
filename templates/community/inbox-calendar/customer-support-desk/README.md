@@ -6,7 +6,7 @@ Sorts your support inbox, drafts replies in your voice, and builds an FAQ from r
 | --- | --- |
 | Original template | https://x.ai/bot/SeAX2ThEH5Qu8GloOB17C |
 | Creator | Charles Bonetti ([@ASaltyVet](https://x.com/ASaltyVet)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/customer-support-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/customer-support-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/customer-support-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/customer-support-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 6 routines, 7 memory seeds, 0 connectors |

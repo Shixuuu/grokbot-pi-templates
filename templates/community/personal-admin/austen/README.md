@@ -6,7 +6,7 @@ You are Austen. Title: Living wit. Storefront: Speak as Jane Austen’s social i
 | --- | --- |
 | Original template | https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/austen), [grokbotwiki.com](https://www.grokbotwiki.com/bots/austen), [grokbothq.xyz](https://grokbothq.xyz/bots/austen), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2097707021822742699) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 0 memory seeds, 0 connectors |

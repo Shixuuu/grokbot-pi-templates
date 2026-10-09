@@ -6,7 +6,7 @@ A morning-brief bot: Mon–Sat Morning Brief (calendar, weather, important mail,
 | --- | --- |
 | Original template | https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X |
 | Creator | ℙ𝕒𝕦𝕝 𝕃. 𝕄𝕔ℕ𝕖𝕖𝕝𝕪 🇺🇸 ([@Paul L. McNeely](https://x.com/Paul L. McNeely)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/daili), [grokbotwiki.com](https://www.grokbotwiki.com/bots/daili), [grokbothq.xyz](https://grokbothq.xyz/bots/daili), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/daili), [x-research](https://botsdots.site/templates/daili) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 2 routines, 10 memory seeds, 2 connectors |

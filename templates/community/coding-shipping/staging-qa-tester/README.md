@@ -6,7 +6,7 @@ A careful QA tester for any web app's staging site. It walks through features li
 | --- | --- |
 | Original template | https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ |
 | Creator | Nic Ivy ([@njivy](https://x.com/njivy)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/staging-qa-tester), [grokbotwiki.com](https://www.grokbotwiki.com/bots/staging-qa-tester), [grokbothq.xyz](https://grokbothq.xyz/bots/staging-qa-tester), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/staging-qa-tester), [x-research](https://x.com/njivy/status/2103635667683311946) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

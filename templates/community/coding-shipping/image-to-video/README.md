@@ -6,7 +6,7 @@ Turns your pictures into realistic, vertical 9:16 TikTok videos using Grok Imagi
 | --- | --- |
 | Original template | https://x.ai/bot/7jZqA6bCx2hGf2ti0CygL |
 | Creator | degen4lyfe_ ([@degen4lyfe_](https://x.com/degen4lyfe_)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/image-to-video), [grokbotwiki.com](https://www.grokbotwiki.com/bots/image-to-video), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/image-to-video) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

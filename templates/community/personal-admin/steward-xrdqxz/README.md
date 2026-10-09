@@ -6,7 +6,7 @@ Your primary coordinator for a personal multi-bot setup: CRM and calendar throug
 | --- | --- |
 | Original template | https://x.ai/bot/XrDqxz9-QvCKazAQACQxh |
 | Creator | Greg Duewall ([@GregDuewall](https://x.com/GregDuewall)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/steward-xrdq), [grokbotwiki.com](https://www.grokbotwiki.com/bots/steward-greg), [grokbothq.xyz](https://grokbothq.xyz/bots/steward-personal-coordinator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/steward-greg), [x-research](https://x.com/GregDuewall/status/2100001256093675830) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 17 memory seeds, 5 connectors |

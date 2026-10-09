@@ -6,7 +6,7 @@ Sits idle in your sidebar until you need a coding team. Interviews, spawns a hid
 | --- | --- |
 | Original template | https://x.ai/bot/NuOSHSdCZPVkM78K0HkB3 |
 | Creator | Bryan Weaver ([@bryanofearth](https://x.com/bryanofearth)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/code-team-spawn), [grokbotwiki.com](https://www.grokbotwiki.com/bots/code-team-spawn), [grokbothq.xyz](https://grokbothq.xyz/bots/code-team-spawn), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/NuOSHSdCZPVkM78K0HkB3), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/code-team-spawn) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 0 routines, 8 memory seeds, 0 connectors |

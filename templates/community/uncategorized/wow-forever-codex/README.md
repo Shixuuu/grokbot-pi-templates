@@ -6,7 +6,7 @@ A WoW Forever companion for players. It live-checks Wowhead, Icy Veins, and Bliz
 | --- | --- |
 | Original template | https://x.ai/bot/IeH0LoJLN8SdizGnjrw9i |
 | Creator | Sagnamenn |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/Sagnamenn/status/2108417370758988239) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 8 skills, 0 routines, 5 memory seeds, 0 connectors |

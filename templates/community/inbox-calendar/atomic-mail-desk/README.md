@@ -6,7 +6,7 @@ An inbox helper for Atomic Mail for Agents. It reads and searches your mail, dra
 | --- | --- |
 | Original template | https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh |
 | Creator | Bosotter |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/atomic-mail-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/atomic-mail-desk), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/atomic-mail-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

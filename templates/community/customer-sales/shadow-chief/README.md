@@ -6,7 +6,7 @@ Apps growth chief for indie App Store builders: sales/reviews briefs, ASO propos
 | --- | --- |
 | Original template | https://x.ai/bot/sNh9WUT_7BY83jm1w3GJh |
 | Creator | Robert Corbin ([@Shadowfetch](https://x.com/Shadowfetch)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/shadow-chief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shadow-chief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/shadow-chief) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 8 skills, 2 routines, 10 memory seeds, 3 connectors |

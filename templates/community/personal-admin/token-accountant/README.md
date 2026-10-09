@@ -6,7 +6,7 @@ Warns you once at 25, 50, 75, and 90% on the Cursor Models, Other Models, and Gr
 | --- | --- |
 | Original template | https://x.ai/bot/EQYrGNoU4R2bgpsltxI2B |
 | Creator | @suddenlyjon ♞ ([@suddenlyjon](https://x.com/suddenlyjon)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/token-accountant-eqyr), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

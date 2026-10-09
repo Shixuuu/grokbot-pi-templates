@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ |
 | Creator | Koichi Mori ([@もりこ](https://x.com/もりこ)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/audits-another-bot-s-instructions), [grokbotwiki.com](https://www.grokbotwiki.com/bots/audits-another-bot-s-instructions), [grokbothq.xyz](https://grokbothq.xyz/bots/prompt-auditor-jp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/prompt-auditor-bot), [x-research](https://botsdots.site/templates/audits-another-bot-s-instructions) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

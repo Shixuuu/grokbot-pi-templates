@@ -6,7 +6,7 @@ Workshop foreman for people stuck in tutorial hell. Inventories what they have c
 | --- | --- |
 | Original template | https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE |
 | Creator | Sultanov Ramil ([@thekuchh](https://x.com/thekuchh)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/doing-gap), [grokbotwiki.com](https://www.grokbotwiki.com/bots/doing-gap), [grokbothq.xyz](https://grokbothq.xyz/bots/doing-gap), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/9WPtKWMppOYW9wwGPwOaE), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/doing-gap), [x-research](https://botsdots.site/templates/doing-gap) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

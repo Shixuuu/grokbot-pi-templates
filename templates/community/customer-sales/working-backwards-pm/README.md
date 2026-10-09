@@ -6,7 +6,7 @@ Start from the customer — not from features. Five customer questions, then a P
 | --- | --- |
 | Original template | https://x.ai/bot/maxOL0-n_PSVuwi5mpZgP |
 | Creator | Patricia Juárez Muñoz ([@ccsakuweb](https://x.com/ccsakuweb)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/working-backwards-pm), [grokbothq.xyz](https://grokbothq.xyz/bots/working-backwards-pm), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/ccsakuweb/status/2105262161186500726) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 2 skills, 0 routines, 14 memory seeds, 2 connectors |

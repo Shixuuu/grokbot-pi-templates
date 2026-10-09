@@ -6,7 +6,7 @@ Weekday after-school recap of a student’s missing work and grades, plus day-be
 | --- | --- |
 | Original template | https://x.ai/bot/BUwa-zYgc9_ScRyfGAns_ |
 | Creator | chicho ([@guichaves1989](https://x.com/guichaves1989)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/homework-checker-buwa), [grokbotwiki.com](https://www.grokbotwiki.com/bots/homework-checker-buwa), [grokbothq.xyz](https://grokbothq.xyz/bots/homework-checker-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/homework-checker-buwa) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 5 routines, 13 memory seeds, 1 connectors |

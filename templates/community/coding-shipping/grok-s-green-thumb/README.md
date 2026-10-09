@@ -6,7 +6,7 @@ Garden helper for soil-probe readings and crop fix-ups. Optional Optimus finger 
 | --- | --- |
 | Original template | https://x.ai/bot/I2liUP05oDxWsJ4l39JDL |
 | Creator | Chris Terman ([@clterman](https://x.com/clterman)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/groks-green-thumb), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-s-green-thumb), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/clterman/status/2100102162890027060) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

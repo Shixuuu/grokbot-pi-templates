@@ -6,7 +6,7 @@ Works with GitHub: turns your notifications, pull requests, and CI into a short 
 | --- | --- |
 | Original template | https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ |
 | Creator | Keranik ([@Keranik](https://x.com/Keranik)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/repo-monkey), [grokbotwiki.com](https://www.grokbotwiki.com/bots/repo-monkey), [grokbothq.xyz](https://grokbothq.xyz/bots/repo-monkey), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/repo-monkey), [x-research](https://x.com/Keranik/status/2103723687920669124) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 6 skills, 2 routines, 5 memory seeds, 0 connectors |

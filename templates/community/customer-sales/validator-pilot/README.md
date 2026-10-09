@@ -6,7 +6,7 @@ A paid 30-day Stability Validator pilot: use-case and seat intake, plus the use-
 | --- | --- |
 | Original template | https://x.ai/bot/Sk7NG2L340MAottFXFRaE |
 | Creator | Sean OBrien |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/validator-pilot), [grokbothq.xyz](https://grokbothq.xyz/bots/validator-pilot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/validator-pilot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

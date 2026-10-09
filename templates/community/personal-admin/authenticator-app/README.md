@@ -6,7 +6,7 @@ Generates a fresh 6-digit login code when you ask. Another bot gets a code only 
 | --- | --- |
 | Original template | https://x.ai/bot/etB2IDpbLPT-ZW4IIewQK |
 | Creator | Andrew Lam ([@refreshinga](https://x.com/refreshinga)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/authenticator-app), [grokbotwiki.com](https://www.grokbotwiki.com/bots/authenticator-app), [grokbothq.xyz](https://grokbothq.xyz/bots/authenticator-app), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/authenticator-app), [x-research](https://botsdots.site/templates/authenticator-app) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

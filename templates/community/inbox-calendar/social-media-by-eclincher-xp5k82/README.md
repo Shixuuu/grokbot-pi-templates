@@ -6,7 +6,7 @@ Your social media AI agent - schedule and publish posts, receive and reply to ev
 | --- | --- |
 | Original template | https://x.ai/bot/Xp5k82r21UvTani1ndv-b |
 | Creator | Tal Mikaelovich ([@eclincher](https://x.com/eclincher)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/social-media-eclincher), [botsdots.site](https://botsdots.site/templates/social-media-xp5k), [grokbotwiki.com](https://www.grokbotwiki.com/bots/social-media-by-eclincher), [grokbothq.xyz](https://grokbothq.xyz/bots/social-media-by-eclincher), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/social-media-by-eclincher), [x-research](https://x.com/eclincher/status/2097462985090547884) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

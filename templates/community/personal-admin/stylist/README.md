@@ -6,7 +6,7 @@ A personal stylist for adults. Send one full-length photo of just you and get an
 | --- | --- |
 | Original template | https://x.ai/bot/hezLDB16uwnU8khOu3L84 |
 | Creator | prorookiegamer ([@prorookiegamer](https://x.com/prorookiegamer)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stylist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stylist), [grokbothq.xyz](https://grokbothq.xyz/bots/stylist), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stylist), [x-research](https://x.com/prorookiegamer/status/2106493242879713746) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

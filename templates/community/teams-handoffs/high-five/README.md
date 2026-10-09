@@ -6,7 +6,7 @@ Onboarding wizard for small teams where each person has their own Grok Bot. Lead
 | --- | --- |
 | Original template | https://x.ai/bot/7pdRsSeKkooXL_2rk8M09 |
 | Creator | Cecelia Alyssa ([@Cecelia7777](https://x.com/Cecelia7777)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/high-five), [grokbotwiki.com](https://www.grokbotwiki.com/bots/high-five), [grokbothq.xyz](https://grokbothq.xyz/bots/high-five), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/high-five), [x-research](https://botsdots.site/templates/high-five) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 4 skills, 0 routines, 10 memory seeds, 5 connectors |

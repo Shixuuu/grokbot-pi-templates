@@ -6,7 +6,7 @@ Coordinates a specialized agent fleet to grow revenue through legitimate sales r
 | --- | --- |
 | Original template | https://x.ai/bot/Mz3Q4s3wGqOQd4dhGeG_F |
 | Creator | Joseph Taylor ([@OmgawdMadeit](https://x.com/OmgawdMadeit)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cash-fleet-operator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cash-fleet-operator), [grokbothq.xyz](https://grokbothq.xyz/bots/cash-fleet-operator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cash-fleet-operator), [x-research](https://x.com/OmgawdMadeit/status/2100094545014731085) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 7 skills, 1 routines, 11 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ A rigorous math-research partner for proofs, heat-flow / Λ upper bounds, and ho
 | --- | --- |
 | Original template | https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK |
 | Creator | Nathan Meeks ([@NathanAMeeks](https://x.com/NathanAMeeks)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/math-researcher), [grokbotwiki.com](https://www.grokbotwiki.com/bots/math-researcher), [grokbothq.xyz](https://grokbothq.xyz/bots/math-researcher), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/math-researcher), [x-research](https://x.com/NathanAMeeks/status/2104140368635994382) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 2 routines, 7 memory seeds, 0 connectors |

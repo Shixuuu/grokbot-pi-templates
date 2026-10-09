@@ -6,7 +6,7 @@ Weekday scout for Grok Bot use cases on X. Learns how you work once, digests pri
 | --- | --- |
 | Original template | https://x.ai/bot/4iz8VYK_cG482_vIA8WR4 |
 | Creator | Eric Zakariasson ([@ericzakariasson](https://x.com/ericzakariasson)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/x-scout), [botsdots.site](https://botsdots.site/templates/x-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/x-scout), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/4iz8VYK_cG482_vIA8WR4), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/ericzakariasson/status/2095904975511843196) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 1 connectors |

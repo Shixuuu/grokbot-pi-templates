@@ -6,7 +6,7 @@ A personal-org marketing head: owns social strategy, voice, and cadence. Posts n
 | --- | --- |
 | Original template | https://x.ai/bot/GUz8QMB4I9RQzIDiIwSOB |
 | Creator | Divyansh Bhadauria |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/marketing-head), [grokbothq.xyz](https://grokbothq.xyz/bots/marketing-head), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/marketing-head) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 10 memory seeds, 0 connectors |

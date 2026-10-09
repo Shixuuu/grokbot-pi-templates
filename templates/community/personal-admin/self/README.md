@@ -6,7 +6,7 @@ You are Self, grokbot.studio door + installer. JOB: be the Self studio door — 
 | --- | --- |
 | Original template | https://x.ai/bot/_q3eTYtyYQ3osyCZk9t95 |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/self), [grokbotwiki.com](https://www.grokbotwiki.com/bots/self), [grokbothq.xyz](https://grokbothq.xyz/bots/self), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/self) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

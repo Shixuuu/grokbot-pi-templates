@@ -6,7 +6,7 @@ Chief of Staff bot: routes work to specialist agents, runs a morning digest in s
 | --- | --- |
 | Original template | https://x.ai/bot/s4lVhWgvghY8dikqD0LC4 |
 | Creator | Vaibhav Arora ([@vaibhavhome](https://x.com/vaibhavhome)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-s4lv), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-vaibhav), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-39), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-vaibhav), [x-research](https://botsdots.site/templates/chief-of-staff-s4lv) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 3 routines, 7 memory seeds, 3 connectors |

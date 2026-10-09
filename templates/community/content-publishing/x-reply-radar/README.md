@@ -6,7 +6,7 @@ Finds hot X posts in your niches and drafts short replies so you can grow withou
 | --- | --- |
 | Original template | https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc |
 | Creator | Sam Morgan ([@sam_builds_ai](https://x.com/sam_builds_ai)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-reply-radar), [grokbotwiki.com](https://www.grokbotwiki.com/bots/reply-radar), [grokbothq.xyz](https://grokbothq.xyz/bots/x-reply-radar), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/lJYaUExPBMZfLWfZEFVGc), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/reply-radar), [x-research](https://x.com/sam_builds_ai/status/2099463729796755818) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 1 connectors |

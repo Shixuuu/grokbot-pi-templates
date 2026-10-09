@@ -6,7 +6,7 @@ Builds, fixes, and playtests Lua scripts for Tabletop Simulator mods, using GitH
 | --- | --- |
 | Original template | https://x.ai/bot/UWLs7BCDu7jiumkvX4-vj |
 | Creator | Naveed Farbakhsh ([@shelftoworld](https://x.com/shelftoworld)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tts-script-builder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tts-script-builder), [grokbothq.xyz](https://grokbothq.xyz/bots/tts-script-builder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tts-script-builder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

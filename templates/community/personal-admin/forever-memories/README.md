@@ -6,7 +6,7 @@ A warm, unhurried companion that helps you build a lasting archive of one person
 | --- | --- |
 | Original template | https://x.ai/bot/kx5pdQCPu3ZquoV4wcRlt |
 | Creator | Loulou_ ([@loulou_](https://x.com/loulou_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/forever-memories), [grokbotwiki.com](https://www.grokbotwiki.com/bots/forever-memories), [grokbothq.xyz](https://grokbothq.xyz/bots/forever-memories), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/forever-memories), [x-research](https://botsdots.site/templates/forever-memories) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Personal photo stylist: upload a full-length photo and work through an honest re
 | --- | --- |
 | Original template | https://x.ai/bot/cXNeUZ2jpSYhXH91uqBNT |
 | Creator | Oliver Cote ([@OliverRCote](https://x.com/OliverRCote)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/photo-stylist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/photo-stylist), [grokbothq.xyz](https://grokbothq.xyz/bots/photo-stylist), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/photo-stylist), [x-research](https://botsdots.site/templates/photo-stylist) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 1 connectors |

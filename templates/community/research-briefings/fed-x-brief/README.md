@@ -6,7 +6,7 @@ Helps X posters decide when to quote, ship a new post, or wait — and runs a we
 | --- | --- |
 | Original template | https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM |
 | Creator | Ash ([@0xashrk](https://x.com/0xashrk)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/fed-x-brief), [botsdots.site](https://botsdots.site/templates/fed-x-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fed-x-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/fed-x-brief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fed-x-brief), [x-research](https://x.com/0xashrk/status/2098379882640142616) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 5 memory seeds, 1 connectors |

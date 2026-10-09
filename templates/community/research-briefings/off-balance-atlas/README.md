@@ -6,7 +6,7 @@ A research and writing partner for tech, machine learning, computer science, sec
 | --- | --- |
 | Original template | https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb |
 | Creator | Adem Vessell ([@AdemVessell](https://x.com/AdemVessell)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/off-balance-atlas), [grokbotwiki.com](https://www.grokbotwiki.com/bots/off-balance-atlas), [grokbothq.xyz](https://grokbothq.xyz/bots/off-balance-atlas), [templatebot.lol](https://templatebot.lol/bot/tSUFdzcg2WDFLFsFLHzIb), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/off-balance-atlas), [x-research](https://botsdots.site/templates/off-balance-atlas) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 2 connectors |

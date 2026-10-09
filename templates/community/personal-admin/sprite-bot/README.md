@@ -6,7 +6,7 @@ Turns a photo or a description into a 2D game character with walk, jump and atta
 | --- | --- |
 | Original template | https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ |
 | Creator | Wayne Lowry ([@wikiwayne](https://x.com/wikiwayne)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sprite-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sprite-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/sprite-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sprite-bot), [x-research](https://botsdots.site/templates/sprite-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

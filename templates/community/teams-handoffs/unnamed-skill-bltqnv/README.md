@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD |
 | Creator | 翔 石島 ([@x_stone_island](https://x.com/x_stone_island)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/audits-other-bots-names-blurbs), [grokbotwiki.com](https://www.grokbotwiki.com/bots/audits-other-bots-names-blurbs), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-wo2sodyd), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bot-maintenance-auditor), [x-research](https://botsdots.site/templates/audits-other-bots-names-blurbs) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 0 connectors |

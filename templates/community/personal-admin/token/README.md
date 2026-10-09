@@ -6,7 +6,7 @@ Cuts Grok Bot and Cursor token spend with persona char budgets, harness audits, 
 | --- | --- |
 | Original template | https://x.ai/bot/2Nk6nQTahTex1e5gHS_LU |
 | Creator | Solomon ([@jsk333](https://x.com/jsk333)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/token), [botsdots.site](https://botsdots.site/templates/token), [grokbotwiki.com](https://www.grokbotwiki.com/bots/token), [grokbothq.xyz](https://grokbothq.xyz/bots/token), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/token), [x-research](https://x.com/jsk333/status/2096004080309039288) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A writing and publishing chief of staff. Tightens essays and posts in your voice
 | --- | --- |
 | Original template | https://x.ai/bot/LpJYvZec__H1ud4VJD9YO |
 | Creator | Brass Silver ([@Brass](https://x.com/Brass)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-lpjy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-lpjy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-lpjy) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 7 skills, 0 routines, 7 memory seeds, 0 connectors |

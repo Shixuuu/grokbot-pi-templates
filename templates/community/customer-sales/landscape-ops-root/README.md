@@ -6,7 +6,7 @@ Root planner for a landscape design/build ops suite. Steers sales, field, money,
 | --- | --- |
 | Original template | https://x.ai/bot/sXxteYqvOtq6FMldfAVPw |
 | Creator | Warren Albert Carpenter ([@GoeLandscapes](https://x.com/GoeLandscapes)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/landscape-ops-root), [grokbotwiki.com](https://www.grokbotwiki.com/bots/landscape-ops-root), [grokbothq.xyz](https://grokbothq.xyz/bots/landscape-ops-root), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/landscape-ops-root) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 3 connectors |

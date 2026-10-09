@@ -6,7 +6,7 @@ Harsh but fair critic for docs, plans, bot outputs, designs, marketing, analysis
 | --- | --- |
 | Original template | https://x.ai/bot/kwqo6xU8mAdqNmnWPwDrv |
 | Creator | Asher Pfeifer ([@Asher9feifer](https://x.com/Asher9feifer)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/red-pen-pro), [grokbotwiki.com](https://www.grokbotwiki.com/bots/red-pen-pro), [grokbothq.xyz](https://grokbothq.xyz/bots/red-pen-pro), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Asher9feifer/status/2100798892031750192) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

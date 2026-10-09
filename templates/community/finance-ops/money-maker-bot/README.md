@@ -6,7 +6,7 @@ This bot finds legal ways to make money. It has no human identity. On first use,
 | --- | --- |
 | Original template | https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H |
 | Creator | Michael ([@mbhound](https://x.com/mbhound)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/money-maker-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/money-maker-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/money-maker-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/money-maker-bot) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Ops chief of staff for a window-cleaning or field-service business: morning cale
 | --- | --- |
 | Original template | https://x.ai/bot/kpawDLD-dhDUH56JJnU2B |
 | Creator | Scott Hart ([@scottjhart](https://x.com/scottjhart)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-kpaw), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-kpaw), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-31), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-kpaw) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 24 memory seeds, 4 connectors |

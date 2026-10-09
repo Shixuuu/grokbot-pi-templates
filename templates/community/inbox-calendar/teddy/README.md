@@ -6,7 +6,7 @@ Your AI chief of staff. Teddy triages your inbox, runs your calendar, tracks you
 | --- | --- |
 | Original template | https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB |
 | Creator | Procount ([@Jack Locke](https://x.com/Jack Locke)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/teddy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/teddy), [grokbothq.xyz](https://grokbothq.xyz/bots/teddy), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/teddy), [x-research](https://x.com/JackLocke/status/2103805162578231363) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 2 connectors |

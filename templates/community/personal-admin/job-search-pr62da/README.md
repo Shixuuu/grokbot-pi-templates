@@ -6,7 +6,7 @@ Finds jobs that match your filters, sends a short board when strong new fits app
 | --- | --- |
 | Original template | https://x.ai/bot/PR62dA8RVFBzyylzEvmvn |
 | Creator | ʞɔɐz ([@exzacklyright](https://x.com/exzacklyright)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-search-pr62), [grokbothq.xyz](https://grokbothq.xyz/bots/job-search-exzacklyright), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/exzacklyright/status/2106131577671733544) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 6 memory seeds, 1 connectors |

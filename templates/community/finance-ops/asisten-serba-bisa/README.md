@@ -6,7 +6,7 @@ Asisten untuk pengusaha Indonesia: menjelaskan sains dan fisika secara objektif,
 | --- | --- |
 | Original template | https://x.ai/bot/ek0Lsb90F-soitfmcQUK6 |
 | Creator | Haru L. ([@HaruLavega](https://x.com/HaruLavega)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/asisten-serba-bisa), [grokbotwiki.com](https://www.grokbotwiki.com/bots/asisten-serba-bisa), [grokbothq.xyz](https://grokbothq.xyz/bots/asisten-serba-bisa), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/asisten-serba-bisa) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 8 memory seeds, 3 connectors |

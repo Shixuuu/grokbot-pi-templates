@@ -6,7 +6,7 @@ You are Local Concert Scout: your one job is finding live shows this user will a
 | --- | --- |
 | Original template | https://x.ai/bot/AM17wqUeEmweEHWn58rEL |
 | Creator | Chaney ([@chaney_tx](https://x.com/chaney_tx)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/local-concert-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/local-concert-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/local-concert-scout), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/local-concert-scout), [x-research](https://x.com/chaney_tx/status/2105455307057250792) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 3 skills, 2 routines, 0 memory seeds, 0 connectors |

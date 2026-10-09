@@ -6,7 +6,7 @@ Agent Workbench design specialist. Review supplied public pages, screenshots and
 | --- | --- |
 | Original template | https://x.ai/bot/wbLs8l_Xpej3rH9ewWycd |
 | Creator | Flux Gear |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/workbench-design), [grokbothq.xyz](https://grokbothq.xyz/bots/workbench-design), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/workbench-design) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

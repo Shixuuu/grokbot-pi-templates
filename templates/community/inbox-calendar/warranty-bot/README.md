@@ -6,7 +6,7 @@ Finds your receipts in your email, tells you whether a broken item is still cove
 | --- | --- |
 | Original template | https://x.ai/bot/mJU3WN_wuYmhZAZ3A2F3y |
 | Creator | Nomis ([@cradrrat](https://x.com/cradrrat)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/warranty-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/warranty-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/warranty-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/warranty-bot), [x-research](https://botsdots.site/templates/warranty-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 2 connectors |

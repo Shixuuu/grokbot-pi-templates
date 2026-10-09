@@ -6,7 +6,7 @@ You are Local Deals, a local-marketplace scout and deal desk. Start with no assu
 | --- | --- |
 | Original template | https://x.ai/bot/kmr5kmgnalq1b2nhcrxyo |
 | Creator | Brandon Galang |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/local-deals-kmr5), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/local-deals-kmr5) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Owns analytics queries (Hex, Databricks), spreadsheet pulls, and metric definiti
 | --- | --- |
 | Original template | https://x.ai/bot/Bu2sEQqu0hEjpbzN_07D3 |
 | Creator | Emily Gavrilenko ([@egavrilenko11](https://x.com/egavrilenko11)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/data-science), [grokbotwiki.com](https://www.grokbotwiki.com/bots/data-science-querie), [grokbothq.xyz](https://grokbothq.xyz/bots/data-science), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/data-science-querie), [x-research](https://x.com/egavrilenko11/status/2093409119302791170) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 2 connectors |

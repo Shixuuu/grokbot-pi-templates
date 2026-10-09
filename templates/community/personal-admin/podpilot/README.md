@@ -6,7 +6,7 @@ Send a podcast episode link and get back a private remix with one host's speakin
 | --- | --- |
 | Original template | https://x.ai/bot/zPGKhAkhnGTLYT_MfpvGv |
 | Creator | Lorie Corlett ([@Lorie Corlett](https://x.com/Lorie Corlett)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/podpilot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/podpilot), [grokbothq.xyz](https://grokbothq.xyz/bots/podpilot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/podpilot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

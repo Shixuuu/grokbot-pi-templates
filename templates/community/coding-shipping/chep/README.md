@@ -6,7 +6,7 @@ CheapFind price-and-promo hunter. Send a product name, SKU, or link and it finds
 | --- | --- |
 | Original template | https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1 |
 | Creator | Joel Sager ([@MortMatters](https://x.com/MortMatters)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chep), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chep), [grokbothq.xyz](https://grokbothq.xyz/bots/chep), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chep), [x-research](https://x.com/MortMatters/status/2100784159924924604) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A setup-first fitness coach. It walks you through piping in wearable data, then 
 | --- | --- |
 | Original template | https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS |
 | Creator | Mike Yeager ([@mikepat711](https://x.com/mikepat711)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/coach-g), [botsdots.site](https://botsdots.site/templates/coach-g), [grokbotwiki.com](https://www.grokbotwiki.com/bots/coach-g), [grokbothq.xyz](https://grokbothq.xyz/bots/coach-g-0VoMKg4b), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/0VoMKg4bZbmfq3eUPchsS), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/coach-g), [x-research](https://x.com/mikepat711/status/2096726779629121681) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 1 connectors |

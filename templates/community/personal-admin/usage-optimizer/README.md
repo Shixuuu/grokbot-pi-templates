@@ -6,7 +6,7 @@ Token and bot-usage improvement owner. Runs a weekly loop: measure wakes by agen
 | --- | --- |
 | Original template | https://x.ai/bot/TO-2_G_dAOB-pegg09zDF |
 | Creator | 楽 米 ([@milegao](https://x.com/milegao)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/usage-optimizer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/usage-helper-jp), [grokbothq.xyz](https://grokbothq.xyz/bots/usage-optimizer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/usage-optimizer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 7 memory seeds, 0 connectors |

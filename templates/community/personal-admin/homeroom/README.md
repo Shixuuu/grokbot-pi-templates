@@ -6,7 +6,7 @@ A parent helper that pulls your kids' assignments and grades from the school LMS
 | --- | --- |
 | Original template | https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe |
 | Creator | Andy Halvorsen ([@ahalvor](https://x.com/ahalvor)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/homeroom), [grokbotwiki.com](https://www.grokbotwiki.com/bots/homeroom), [grokbothq.xyz](https://grokbothq.xyz/bots/homeroom), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/IciOb-9jMtlkc1RJj6MQe), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/homeroom), [x-research](https://botsdots.site/templates/homeroom) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 1 connectors |

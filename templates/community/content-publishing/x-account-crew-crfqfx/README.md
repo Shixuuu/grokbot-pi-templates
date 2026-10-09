@@ -6,7 +6,7 @@ A five-role X content crew for creators and founders: idea scout, hook writer, c
 | --- | --- |
 | Original template | https://x.ai/bot/CrFqfXIZibJ5DwLuJ89sp |
 | Creator | Sultanov Ramil ([@thekuchh](https://x.com/thekuchh)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/x-account-crew-crfqfxiz), [botsdots.site](https://botsdots.site/templates/x-account-crew), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-account-crew), [grokbothq.xyz](https://grokbothq.xyz/bots/x-account-crew), [templatebot.lol](https://templatebot.lol/bot/CrFqfXIZibJ5DwLuJ89sp), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-account-crew), [x-research](https://x.com/thekuchh/status/2093742276564459867) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

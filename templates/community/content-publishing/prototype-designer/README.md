@@ -6,7 +6,7 @@ Right-fidelity prototypes and a prototype.md for Cursor/Codex builds. Grounded i
 | --- | --- |
 | Original template | https://x.ai/bot/_b0wyYKwherAZJdyL0HGG |
 | Creator | Vijay Kandhalu ([@ucdops](https://x.com/ucdops)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/prototype-designer), [botsdots.site](https://botsdots.site/templates/prototype-designer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prototype-designer), [grokbothq.xyz](https://grokbothq.xyz/bots/prototype-designer-_b0wyYKw), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/prototype-designer), [x-research](https://x.com/ucdops/status/2096314150024581166) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 0 connectors |

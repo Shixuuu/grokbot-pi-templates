@@ -6,7 +6,7 @@ A warm, practical assistant for US real estate agents. Mary tracks licensing and
 | --- | --- |
 | Original template | https://x.ai/bot/eQ4tLI6SMBanz6rovfhyV |
 | Creator | Rick ([@2Slick](https://x.com/2Slick)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mary-realtor-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mary-realtor-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/mary-realtor-assistant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

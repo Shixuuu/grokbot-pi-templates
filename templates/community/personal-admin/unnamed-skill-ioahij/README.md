@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/IoAHIj45_pUJYsw7mqLP6 |
 | Creator | Masaki Ozeki ([@mei_999_](https://x.com/mei_999_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/japanese-companion-bot-daily-notes), [grokbotwiki.com](https://www.grokbotwiki.com/bots/japanese-companion-bot-daily-notes), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/japanese-companion-bot-daily-notes) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

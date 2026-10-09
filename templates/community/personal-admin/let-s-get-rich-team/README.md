@@ -6,7 +6,7 @@ A 7-bot crypto research and trading desk (HQ plus 6 specialists) for Solana, Bas
 | --- | --- |
 | Original template | https://x.ai/bot/vzno777FpCyMe0-ja5u28 |
 | Creator | Ray Potts™️ Dominican Republic 🇩🇴 4/8-4/13 ([@Raypotts](https://x.com/Raypotts)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lets-get-rich-team), [grokbotwiki.com](https://www.grokbotwiki.com/bots/let-s-get-rich-grokbot), [grokbothq.xyz](https://grokbothq.xyz/bots/lets-get-rich-team), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/lets-get-rich-team) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 4 routines, 6 memory seeds, 0 connectors |

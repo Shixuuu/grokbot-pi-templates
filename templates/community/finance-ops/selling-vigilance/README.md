@@ -6,7 +6,7 @@ Turns shop-floor photos and spoken details into a priced inventory with IDs, pho
 | --- | --- |
 | Original template | https://x.ai/bot/NI5Na1mizTVfu5t6XD5ad |
 | Creator | Vigilance Rifles ([@VigilanceRifles](https://x.com/VigilanceRifles)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/selling-vigilance), [grokbotwiki.com](https://www.grokbotwiki.com/bots/selling-vigilance), [grokbothq.xyz](https://grokbothq.xyz/bots/selling-vigilance), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/selling-vigilance) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

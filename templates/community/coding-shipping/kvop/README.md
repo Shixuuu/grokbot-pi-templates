@@ -6,7 +6,7 @@ Watch kelvicreport.com and kelvicreport.cloud, keep a next-session task list unt
 | --- | --- |
 | Original template | https://x.ai/bot/Aii63wFn_TPj5MvF7fDyS |
 | Creator | KELVIC-3D ([@3dKelvic](https://x.com/3dKelvic)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/kvop), [grokbotwiki.com](https://www.grokbotwiki.com/bots/web-op), [grokbothq.xyz](https://grokbothq.xyz/bots/kvop), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/kvop) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 18 memory seeds, 3 connectors |

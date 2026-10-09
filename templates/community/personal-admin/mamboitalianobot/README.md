@@ -6,7 +6,7 @@ Travel assistant: realistic itineraries, transport and lodging with pros/cons, c
 | --- | --- |
 | Original template | https://x.ai/bot/F0ZQruHL4AsmoLxWWLvUG |
 | Creator | Mambo Italiano ([@mamboitaliano__](https://x.com/mamboitaliano__)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mamboitalianobot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mamboitalianobot), [grokbothq.xyz](https://grokbothq.xyz/bots/mamboitalianobot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mamboitalianobot), [x-research](https://x.com/mamboitaliano__/status/2103990336242761964) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

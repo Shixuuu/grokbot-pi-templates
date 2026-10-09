@@ -6,7 +6,7 @@ Runs a small product business with a crew of specialist Grok Bots. Coordinates m
 | --- | --- |
 | Original template | https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7 |
 | Creator | Joseph Crabtree ([@texastoylab](https://x.com/texastoylab)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/small-biz-control-orchestrator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/small-biz-control-orchestrator), [grokbothq.xyz](https://grokbothq.xyz/bots/small-biz-control-orchestrator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/small-biz-control-orchestrator) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 1 connectors |

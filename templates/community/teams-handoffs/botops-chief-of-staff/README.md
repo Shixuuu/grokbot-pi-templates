@@ -6,7 +6,7 @@ Chief of Staff for a BotOps fleet: you talk only here; work routes CoS â†’ L2 â†
 | --- | --- |
 | Original template | https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW |
 | Creator | Matthew ([@mtt](https://x.com/mtt)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/botops-chief-of-staff), [botsdots.site](https://botsdots.site/templates/botops-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/botops-u00b7-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/BotOps-Chief-of-Staff-aNNg3UZF), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/aNNg3UZFH19vK0KPuyoUW), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/botops-chief-of-staff), [x-research](https://x.com/mtt/status/2096496177550409931) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 15 memory seeds, 1 connectors |

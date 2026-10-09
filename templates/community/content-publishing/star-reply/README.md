@@ -6,7 +6,7 @@ For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who rep
 | --- | --- |
 | Original template | https://x.ai/bot/SxlztEUtDeUXOiP26dyDb |
 | Creator | Sol Wright |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/star-reply), [grokbothq.xyz](https://grokbothq.xyz/bots/star-reply), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/star-reply) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

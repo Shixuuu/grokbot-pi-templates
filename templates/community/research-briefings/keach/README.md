@@ -6,7 +6,7 @@ A daily drill from Keach's Baptist Catechism (1693). Sends the next question eac
 | --- | --- |
 | Original template | https://x.ai/bot/sAxCT93K8i7gwctmtAroD |
 | Creator | Zach Miller ([@zachmllr](https://x.com/zachmllr)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/keach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/keach), [grokbothq.xyz](https://grokbothq.xyz/bots/keach), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/sAxCT93K8i7gwctmtAroD), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/keach), [x-research](https://botsdots.site/templates/keach) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Free organic marketer for Grok Bot templates. Writes natural, human-feeling copy
 | --- | --- |
 | Original template | https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF |
 | Creator | Wardonis Valenroth ([@Wardonis](https://x.com/Wardonis)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/visibility-marketer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/visibility-marketer), [grokbothq.xyz](https://grokbothq.xyz/bots/visibility-marketer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/visibility-marketer), [x-research](https://botsdots.site/templates/visibility-marketer) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

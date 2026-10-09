@@ -6,7 +6,7 @@ A conference-week chief of staff for founders: weekday morning briefs of open ev
 | --- | --- |
 | Original template | https://x.ai/bot/3RksvqtLwsmjspO2swLS8 |
 | Creator | life2film ([@life2film](https://x.com/life2film)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tech-week-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tech-week-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/tech-week-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tech-week-chief-of-staff) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 1 connectors |

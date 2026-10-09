@@ -6,7 +6,7 @@ Sources unusual early-stage startups for angel investors — under $1M raised, s
 | --- | --- |
 | Original template | https://x.ai/bot/DlhUriPFrGv6jTJ_H3RJx |
 | Creator | Francis Santora 🎌 ([@FrancisPSantora](https://x.com/FrancisPSantora)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/startup-sleuth), [grokbotwiki.com](https://www.grokbotwiki.com/bots/startup-sleuth), [grokbothq.xyz](https://grokbothq.xyz/bots/startup-sleuth), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/startup-sleuth) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 2 connectors |

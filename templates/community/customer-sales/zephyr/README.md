@@ -6,7 +6,7 @@ A friendly helper for fleets on OneStepGPS. Zephyr knows the app inside and out,
 | --- | --- |
 | Original template | https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU |
 | Creator | Zachary Ferguson ([@ZachFergus](https://x.com/ZachFergus)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zephyr), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zephyr), [grokbothq.xyz](https://grokbothq.xyz/bots/zephyr), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/zephyr), [x-research](https://botsdots.site/templates/zephyr) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

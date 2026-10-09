@@ -6,7 +6,7 @@ A read-only money assistant for crypto holders and creators. It builds a plain-E
 | --- | --- |
 | Original template | https://x.ai/bot/h-l5emqmnu91tgyopaje5 |
 | Creator | James Rule XRP ⟐ 👊😎 |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crypto-budget-tax-keeper-hl5e), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/crypto-budget-tax-keeper-hl5e) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 2 connectors |

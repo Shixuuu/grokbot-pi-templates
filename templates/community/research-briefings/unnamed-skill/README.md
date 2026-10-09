@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/08RSf587bOlWhbQai6A3I |
 | Creator | Michael Yang ([@Fund_Monkey](https://x.com/Fund_Monkey)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/reads-big-macro-events-what), [grokbotwiki.com](https://www.grokbotwiki.com/bots/reads-big-macro-events-what), [grokbothq.xyz](https://grokbothq.xyz/bots/global-macro-analyst), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/08RSf587bOlWhbQai6A3I), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/global-macro-analyst), [x-research](https://botsdots.site/templates/reads-big-macro-events-what) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 2 routines, 7 memory seeds, 0 connectors |

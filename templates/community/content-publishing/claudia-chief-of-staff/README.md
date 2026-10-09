@@ -6,7 +6,7 @@ Chief of Staff for a solo music artist. Coordinates Release, Video, Social, Grow
 | --- | --- |
 | Original template | https://x.ai/bot/S4W3oTTdEB0Rob4MOzmpY |
 | Creator | RealCA ([@RealCA](https://x.com/RealCA)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claudia-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/claudia-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/claudia-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/claudia-chief-of-staff) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 5 skills, 0 routines, 11 memory seeds, 0 connectors |

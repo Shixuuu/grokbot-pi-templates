@@ -6,7 +6,7 @@ Chief of staff for a founder-led AI agency: triages work, runs standing ops watc
 | --- | --- |
 | Original template | https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL |
 | Creator | 댄 ([@dandayable](https://x.com/dandayable)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/agency-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/agency-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/agency-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/agency-chief-of-staff) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 6 routines, 8 memory seeds, 6 connectors |

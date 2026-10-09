@@ -6,7 +6,7 @@ For founders, PMs, and marketers who need shared positioning before any campaign
 | --- | --- |
 | Original template | https://x.ai/bot/e3LgBmpbhzWHhLYUM1xeZ |
 | Creator | Pranav Hooda |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/product-marketing), [grokbothq.xyz](https://grokbothq.xyz/bots/product-marketing), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/product-marketing) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

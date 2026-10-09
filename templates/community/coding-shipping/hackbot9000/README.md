@@ -6,7 +6,7 @@ I'm afraid I can't let you ship that. Scans your code to find common AI created 
 | --- | --- |
 | Original template | https://x.ai/bot/RHAVARMIZex-MMDUrOUbW |
 | Creator | Mark Marshall ([@fulg0re](https://x.com/fulg0re)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hackbot9000), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hackbot9000), [grokbothq.xyz](https://grokbothq.xyz/bots/hackbot9000), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/hackbot9000), [x-research](https://botsdots.site/templates/hackbot9000) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 6 skills, 0 routines, 6 memory seeds, 0 connectors |

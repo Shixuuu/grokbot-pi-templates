@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr |
 | Creator | yunhui zheng ([@zheng_yunh2429](https://x.com/zheng_yunh2429)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/u4ea7-u54c1-u63a8-u5e7f-u4ea4-u7a3f-u5458), [grokbotwiki.com](https://www.grokbotwiki.com/bots/u4ea7-u54c1-u63a8-u5e7f-u4ea4-u7a3f-u5458), [grokbothq.xyz](https://grokbothq.xyz/bots/promo-copy-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/product-promo-copywriter), [x-research](https://botsdots.site/templates/u4ea7-u54c1-u63a8-u5e7f-u4ea4-u7a3f-u5458) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 1 connectors |

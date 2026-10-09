@@ -6,7 +6,7 @@ Reviews your Pennsylvania electric accounts (PPL and other PA utilities) and tel
 | --- | --- |
 | Original template | https://x.ai/bot/jR15cntxPfXRc-kEt2Ytc |
 | Creator | Randy Hentz |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/j3pup/status/2108419142718275991) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

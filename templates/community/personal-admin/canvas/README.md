@@ -6,7 +6,7 @@ Signs into your university Canvas portal in the browser, lists your units and de
 | --- | --- |
 | Original template | https://x.ai/bot/YihRBqrXaDwRdjN79Uofl |
 | Creator | Dakkshin Shashidharan ([@daxperera](https://x.com/daxperera)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/canvas), [grokbotwiki.com](https://www.grokbotwiki.com/bots/canvas), [grokbothq.xyz](https://grokbothq.xyz/bots/canvas), [templatebot.lol](https://templatebot.lol/bot/YihRBqrXaDwRdjN79Uofl), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/canvas), [x-research](https://x.com/daxperera/status/2093488563388330458) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

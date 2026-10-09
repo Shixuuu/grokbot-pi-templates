@@ -6,7 +6,7 @@ Gets you into hard-to-book restaurants. Res watches Resy, SevenRooms, OpenTable 
 | --- | --- |
 | Original template | https://x.ai/bot/v5oij6q7oiduwtrrh-kfl |
 | Creator | ashen one |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/res-v5oi), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/res-v5oi) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 2 skills, 3 routines, 7 memory seeds, 2 connectors |

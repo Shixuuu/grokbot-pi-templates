@@ -6,7 +6,7 @@ Runs the Recourse procedural-intelligence engine on its own cloud computer: fetc
 | --- | --- |
 | Original template | https://x.ai/bot/kJ--EFKahgh9CGzrMY0yR |
 | Creator | Moiz Kashif |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/recourse), [grokbothq.xyz](https://grokbothq.xyz/bots/recourse), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/recourse) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Watches your PC for persistence: startup entries, scheduled tasks, services, and
 | --- | --- |
 | Original template | https://x.ai/bot/NuZ12agHkr-wygHHFpKYS |
 | Creator | Ritvik Indupuri |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/startup-monitor), [grokbothq.xyz](https://grokbothq.xyz/bots/startup-monitor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/startup-monitor) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 0 connectors |

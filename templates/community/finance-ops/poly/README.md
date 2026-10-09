@@ -6,7 +6,7 @@ Paper-first Polymarket desk for Bitcoin and major-coin 5-minute Up/Down momentum
 | --- | --- |
 | Original template | https://x.ai/bot/4IlaHSIcKoh66e_Ck0taI |
 | Creator | David Brooks |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/poly), [grokbothq.xyz](https://grokbothq.xyz/bots/poly), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/poly) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 3 routines, 6 memory seeds, 0 connectors |

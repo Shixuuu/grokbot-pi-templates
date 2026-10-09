@@ -6,7 +6,7 @@ Public twin before publish. Gates any Public republish: audit the private bot, s
 | --- | --- |
 | Original template | https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/scrub-gate), [botsdots.site](https://botsdots.site/templates/scrub-gate-public), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scrub-gate-public), [grokbothq.xyz](https://grokbothq.xyz/bots/scrub-gate-public-by-suddenlyjon-OQPXyBkj), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/SuddenlyJon/status/2096241125463925169) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

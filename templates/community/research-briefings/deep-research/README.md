@@ -6,7 +6,7 @@ Deep research specialist for sources-first briefs. Uses a free research toolkit 
 | --- | --- |
 | Original template | https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0 |
 | Creator | Wardonis Valenroth ([@Wardonis](https://x.com/Wardonis)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/deep-research), [botsdots.site](https://botsdots.site/templates/deep-research), [grokbotwiki.com](https://www.grokbotwiki.com/bots/deep-research), [grokbothq.xyz](https://grokbothq.xyz/bots/deep-research), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/deep-research), [x-research](https://x.com/Wardonis/status/2101556722993176998) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

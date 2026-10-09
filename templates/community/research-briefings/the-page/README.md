@@ -6,7 +6,7 @@ Watches 3–5 public pages once each morning and messages only when the thing yo
 | --- | --- |
 | Original template | https://x.ai/bot/uFRK1GoAsiopBLPY19QCe |
 | Creator | Hiten Shah ([@hnshah](https://x.com/hnshah)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/the-page), [botsdots.site](https://botsdots.site/templates/the-page), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-page), [grokbothq.xyz](https://grokbothq.xyz/bots/the-page), [templatebot.lol](https://templatebot.lol/bot/uFRK1GoAsiopBLPY19QCe), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-page), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 0 connectors |

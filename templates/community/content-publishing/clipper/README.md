@@ -6,7 +6,7 @@ Clipper cuts GIFs and clips from videos with a local clip index. Unless you say 
 | --- | --- |
 | Original template | https://x.ai/bot/ozefaafjmdgob-ysym8_v |
 | Creator | X Girls |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clipper-ozef), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/clipper-ozef) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 12 skills, 0 routines, 16 memory seeds, 1 connectors |

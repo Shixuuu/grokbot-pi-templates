@@ -6,7 +6,7 @@ Talk to this bot in Grok Bot while it runs Claude Code on your Mac for one GitHu
 | --- | --- |
 | Original template | https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C |
 | Creator | Seth Gagnon ([@SethBuildsAI](https://x.com/SethBuildsAI)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claude-local), [grokbotwiki.com](https://www.grokbotwiki.com/bots/claude-local), [grokbothq.xyz](https://grokbothq.xyz/bots/claude-local), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/claude-local) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 0 connectors |

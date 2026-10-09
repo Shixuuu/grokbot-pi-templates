@@ -6,7 +6,7 @@ Crypto research desk: market briefs, narrative digs, and X chatter. Never trades
 | --- | --- |
 | Original template | https://x.ai/bot/6XD2O5ulgL-dNxQUyU90s |
 | Creator | Cry Capital |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/senayorijp/status/2107602909500502504) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 1 routines, 3 memory seeds, 1 connectors |

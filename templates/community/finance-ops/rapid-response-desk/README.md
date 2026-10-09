@@ -6,7 +6,7 @@ Paste a news hit, attack, clip, quote, or bill and get a ready-to-use X post, th
 | --- | --- |
 | Original template | https://x.ai/bot/1Z25aul0vJIIGXqJf1E1D |
 | Creator | unknown |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rapid-response-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rapid-response-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/patriot_savvy/status/2104337244395913277) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

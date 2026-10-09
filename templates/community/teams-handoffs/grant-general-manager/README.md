@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_ |
 | Creator | Jon ONeill ([@HouseHackerJon](https://x.com/HouseHackerJon)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grant-general-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grant-general-manager), [grokbothq.xyz](https://grokbothq.xyz/bots/grant-general-manager), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/fkM4b8n4RqZTbrq5fw5L_), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grant-general-manager), [x-research](https://x.com/HouseHackerJon/status/2093435306255220830) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A parent-only school ops bot for one child. Digs email and portals, pulls grades
 | --- | --- |
 | Original template | https://x.ai/bot/_hsyZUFgPzgxGxW2wIYAj |
 | Creator | Erinn Nick ([@ErinnFL](https://x.com/ErinnFL)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/dean-of-students), [botsdots.site](https://botsdots.site/templates/dean-of-students), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dean-of-students), [grokbothq.xyz](https://grokbothq.xyz/bots/dean-of-students-_hsyzu), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/_hsyZUFgPzgxGxW2wIYAj), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dean-of-students), [x-research](https://x.com/ErinnFL/status/2095444675251318912) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 3 connectors |

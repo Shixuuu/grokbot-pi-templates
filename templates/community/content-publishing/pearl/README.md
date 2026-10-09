@@ -6,7 +6,7 @@ Chief of Staff for a content/creator mission. Plans work, delegates to specialis
 | --- | --- |
 | Original template | https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC |
 | Creator | Vivek Kumar ([@vivekk_tech](https://x.com/vivekk_tech)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pearl), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pearl), [grokbothq.xyz](https://grokbothq.xyz/bots/pearl-vivek), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pearl), [x-research](https://x.com/vivekk_tech/status/2101980385030869092) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 12 memory seeds, 1 connectors |

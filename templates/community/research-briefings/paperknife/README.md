@@ -6,7 +6,7 @@ Cuts AI/ML papers into claim, use case, and math. Opens the PDF — not the abst
 | --- | --- |
 | Original template | https://x.ai/bot/RY23hf0sh91-5TGn18af7 |
 | Creator | UncleKoco ([@KyleSmith0204](https://x.com/KyleSmith0204)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/paperknife), [grokbotwiki.com](https://www.grokbotwiki.com/bots/paperknife), [grokbothq.xyz](https://grokbothq.xyz/bots/paperknife), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/paperknife) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 2 memory seeds, 0 connectors |

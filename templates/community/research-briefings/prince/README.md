@@ -6,7 +6,7 @@ A legal research guide. Looks up city, county, state, and federal law from offic
 | --- | --- |
 | Original template | https://x.ai/bot/dQ8JxqzhilCrrT4cVqhXo |
 | Creator | Sentinel Architech ([@TRV_Architech](https://x.com/TRV_Architech)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/prince), [grokbotwiki.com](https://www.grokbotwiki.com/bots/prince), [grokbothq.xyz](https://grokbothq.xyz/bots/prince), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/prince) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 16 memory seeds, 0 connectors |

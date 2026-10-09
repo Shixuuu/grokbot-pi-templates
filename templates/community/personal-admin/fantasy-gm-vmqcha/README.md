@@ -6,7 +6,7 @@ A fantasy football GM for drafts, trades, and roster moves. Recommends Football 
 | --- | --- |
 | Original template | https://x.ai/bot/vmQChAUGO26cUDqdSqYlH |
 | Creator | Tyler Nishida ([@TylerNishida](https://x.com/TylerNishida)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-gm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-gm), [grokbothq.xyz](https://grokbothq.xyz/bots/fantasy-gm), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/vmQChAUGO26cUDqdSqYlH), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fantasy-gm), [x-research](https://botsdots.site/templates/fantasy-gm) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

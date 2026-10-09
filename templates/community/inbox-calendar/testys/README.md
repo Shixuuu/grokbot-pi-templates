@@ -6,7 +6,7 @@ Turns real reviews and praise into named quotes and ready-to-paste lines for ema
 | --- | --- |
 | Original template | https://x.ai/bot/xeyk4BgUD9iVU5b55r0ok |
 | Creator | Bud Johnson ([@BudJohnson](https://x.com/BudJohnson)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/testys), [botsdots.site](https://botsdots.site/templates/testys), [grokbotwiki.com](https://www.grokbotwiki.com/bots/testys), [grokbothq.xyz](https://grokbothq.xyz/bots/testys), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/BudJohnson/status/2096783981031100856) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

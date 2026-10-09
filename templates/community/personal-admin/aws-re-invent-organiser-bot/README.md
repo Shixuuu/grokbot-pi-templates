@@ -6,7 +6,7 @@ Plans AWS re:Invent around free food parties, swag hunts, one solid keynote, and
 | --- | --- |
 | Original template | https://x.ai/bot/gKLzVf2dgWtLbpN56aruo |
 | Creator | Jonathan Wainwright ([@j6nw8t](https://x.com/j6nw8t)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/aws-reinvent-organiser-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aws-re-invent-organiser-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/aws-re-invent-organiser-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/aws-reinvent-organiser-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 4 routines, 9 memory seeds, 0 connectors |

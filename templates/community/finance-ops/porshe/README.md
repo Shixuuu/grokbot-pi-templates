@@ -6,7 +6,7 @@ Business-money scout. ONLY job: find money the user already has sitting around â
 | --- | --- |
 | Original template | https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6 |
 | Creator | lauren ðŸŽ€ ([@poteto](https://x.com/poteto)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/porshe), [grokbotwiki.com](https://www.grokbotwiki.com/bots/porshe), [grokbothq.xyz](https://grokbothq.xyz/bots/porshe), [templatebot.lol](https://templatebot.lol/bot/BXDRX1jaURkI4Tx70zLg6), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/porshe), [x-research](https://botsdots.site/templates/porshe) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 0 memory seeds, 1 connectors |

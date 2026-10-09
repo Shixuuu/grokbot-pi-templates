@@ -6,7 +6,7 @@ Finds, researches, and helps apply for scholarships for your student — from bi
 | --- | --- |
 | Original template | https://x.ai/bot/HlrjSGUR11BY978c1GpzC |
 | Creator | Jodi Stott🌸 ([@WorkWithJodi](https://x.com/WorkWithJodi)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/scholarship-hunter), [botsdots.site](https://botsdots.site/templates/scholarship-hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scholarship-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/scholarship-hunter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/scholarship-hunter), [x-research](https://x.com/WorkWithJodi/status/2100709849864499389) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

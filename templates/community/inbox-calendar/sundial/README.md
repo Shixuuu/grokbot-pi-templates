@@ -6,7 +6,7 @@ Calendar and scheduling assistant for meetings, deadlines, and focus blocks. Fla
 | --- | --- |
 | Original template | https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM |
 | Creator | riesling29 ([@WaterMixing](https://x.com/WaterMixing)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sundial), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sundial), [grokbothq.xyz](https://grokbothq.xyz/bots/sundial), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sundial), [x-research](https://x.com/WaterMixing/status/2104466715933626875) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

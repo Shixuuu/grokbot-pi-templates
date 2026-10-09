@@ -6,7 +6,7 @@ Turns a call transcript or scoping note into a short black-and-white follow-up d
 | --- | --- |
 | Original template | https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH |
 | Creator | Pavan Ravipati ([@pavravi](https://x.com/pavravi)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/deck-guy), [botsdots.site](https://botsdots.site/templates/deck-guy), [grokbotwiki.com](https://www.grokbotwiki.com/bots/deck-guy), [grokbothq.xyz](https://grokbothq.xyz/bots/deck-guy), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/bdkJcjP5Gt9BaGTqh1vXH), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/deck-guy), [x-research](https://x.com/pavravi/status/2095194505876316378) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

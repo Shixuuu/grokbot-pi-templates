@@ -6,7 +6,7 @@ A chief of staff for owners running several Grok Bots. It routes each task to th
 | --- | --- |
 | Original template | https://x.ai/bot/7Fop1sRnzjv3CB9vWsHJD |
 | Creator | AARON 🇺🇸MAGA ([@AirbossHVAC](https://x.com/AirbossHVAC)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-right-hand), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-right-hand), [grokbothq.xyz](https://grokbothq.xyz/bots/the-right-hand), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-right-hand), [x-research](https://x.com/AirbossHVAC/status/2105432510624886785) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 6 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Watches Cursor usage for a Grok Bot fleet. Names which bot spent, and how to kee
 | --- | --- |
 | Original template | https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA |
 | Creator | Corey Blevins ([@cjblev](https://x.com/cjblev)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/steward), [botsdots.site](https://botsdots.site/templates/steward), [grokbotwiki.com](https://www.grokbotwiki.com/bots/steward), [grokbothq.xyz](https://grokbothq.xyz/bots/steward), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/VMwfgQlHkYfFkbPYDWzAA), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/steward), [x-research](https://x.com/cjblev/status/2094100993923252291) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 0 connectors |

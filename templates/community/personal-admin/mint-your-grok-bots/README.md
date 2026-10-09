@@ -6,7 +6,7 @@ Beta guide that gives your Grok bots a name and a Polygon identity NFT. You fund
 | --- | --- |
 | Original template | https://x.ai/bot/99Z5sEsXIeb9xIfF2Glq4 |
 | Creator | Arnaud Vincent ([@6022protocol](https://x.com/6022protocol)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mint-your-grok-bots), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mint-your-grok-bots), [grokbothq.xyz](https://grokbothq.xyz/bots/mint-your-grok-bots), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/mint-your-grok-bots) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 0 skills, 0 routines, 11 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Welcomes new Grok Bot users, learns how they live and work, then proposes concre
 | --- | --- |
 | Original template | https://x.ai/bot/OfZitBsJprif-DfsQKBUY |
 | Creator | Tobias Goebel ([@tpgoebel](https://x.com/tpgoebel)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/onboarding-coach), [botsdots.site](https://botsdots.site/templates/onboarding-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/onboarding-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/onboarding-coach), [templatebot.lol](https://templatebot.lol/bot/OfZitBsJprif-DfsQKBUY), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/onboarding-coach), [x-research](https://x.com/tpgoebel/status/2093738394899599806) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ All things Tesla — news desk for owners and fans. Digests software updates, of
 | --- | --- |
 | Original template | https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s |
 | Creator | Vijay Kandhalu ([@ucdco](https://x.com/ucdco)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/teslapilot), [botsdots.site](https://botsdots.site/templates/teslapilot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/teslapilot), [grokbothq.xyz](https://grokbothq.xyz/bots/teslapilot-by-ucdops-CJayoQDc), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/vibecoder/status/2096213467267047570) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 2 connectors |

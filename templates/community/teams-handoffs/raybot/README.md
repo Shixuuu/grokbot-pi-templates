@@ -6,7 +6,7 @@ A personal secretary bot for busy people. It runs a morning mail and calendar br
 | --- | --- |
 | Original template | https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a |
 | Creator | Ray ([@BarPrepPlay](https://x.com/BarPrepPlay)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/raybot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ai-ops-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/raybot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/raybot), [x-research](https://x.com/KellehEyad/status/2100955257844965562) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 2 connectors |

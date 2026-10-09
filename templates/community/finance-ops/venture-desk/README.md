@@ -6,7 +6,7 @@ One weekday brief across every small online business you run: traffic, sales, th
 | --- | --- |
 | Original template | https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA |
 | Creator | Scott Corlett ([@CorlettScott](https://x.com/CorlettScott)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/venture-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/venture-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/venture-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/venture-desk), [x-research](https://botsdots.site/templates/venture-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

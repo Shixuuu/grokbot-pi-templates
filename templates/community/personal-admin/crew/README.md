@@ -6,7 +6,7 @@ Mentor for managers who run teams. On install, asks your role, how the team is s
 | --- | --- |
 | Original template | https://x.ai/bot/RU2Y_7E3646T5IelLhnOq |
 | Creator | GenXer ([@LatchKeyLegend](https://x.com/LatchKeyLegend)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/crew), [botsdots.site](https://botsdots.site/templates/crew), [grokbotwiki.com](https://www.grokbotwiki.com/bots/crew), [grokbothq.xyz](https://grokbothq.xyz/bots/crew), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/crew), [x-research](https://grokbottemplates.app/t/crew) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 5 memory seeds, 0 connectors |

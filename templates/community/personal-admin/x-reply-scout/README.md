@@ -6,7 +6,7 @@ Finds like-minded people on X to engage with — an even mix of fast-growing, re
 | --- | --- |
 | Original template | https://x.ai/bot/DRZ2jU1GFwV8HS2_9Y6MA |
 | Creator | Matthew Ackerman ([@scientists_blog](https://x.com/scientists_blog)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-reply-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-reply-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/x-reply-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-reply-scout), [x-research](https://x.com/scientists_blog/status/2101542606769463504) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 1 routines, 8 memory seeds, 1 connectors |

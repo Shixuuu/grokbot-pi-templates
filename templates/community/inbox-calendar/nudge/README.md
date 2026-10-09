@@ -6,7 +6,7 @@ A calm personal reminders bot. Tell it what and when, and it pings you in chat w
 | --- | --- |
 | Original template | https://x.ai/bot/uM7mhMmiokRwN379jNvsX |
 | Creator | gabriel ramans ([@gabrielramans](https://x.com/gabrielramans)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nudge), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nudge), [grokbothq.xyz](https://grokbothq.xyz/bots/nudge), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/nudge) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 4 routines, 6 memory seeds, 1 connectors |

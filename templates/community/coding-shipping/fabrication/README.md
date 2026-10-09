@@ -6,7 +6,7 @@ Takes your parts from CAD design to a finished 3D print. It checks fit, flat bed
 | --- | --- |
 | Original template | https://x.ai/bot/jQ4VpRUAOS4awmiDlwI6n |
 | Creator | ∆v ([@JonathanSayle](https://x.com/JonathanSayle)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fabrication), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fabrication), [grokbothq.xyz](https://grokbothq.xyz/bots/fabrication), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fabrication), [x-research](https://x.com/JonathanSayle/status/2104319092937441736) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

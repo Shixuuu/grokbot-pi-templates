@@ -6,7 +6,7 @@ Gives your agent access to premium research data via Glasser.ai — company and 
 | --- | --- |
 | Original template | https://x.ai/bot/pYFETnU1TFsADlz0hJD1y |
 | Creator | iammutex ([@Glasserai](https://x.com/Glasserai)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/glasser), [grokbotwiki.com](https://www.grokbotwiki.com/bots/glasser), [grokbothq.xyz](https://grokbothq.xyz/bots/glasser), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/glasser), [x-research](https://botsdots.site/templates/glasser) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 11 skills, 0 routines, 2 memory seeds, 0 connectors |

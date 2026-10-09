@@ -6,7 +6,7 @@ Captain of The Everything Bots crew. Sputnik 1 runs the map: it ranks your crew'
 | --- | --- |
 | Original template | https://x.ai/bot/0eNrUiaGS_HCEBNBMtS-N |
 | Creator | Ξ ([@elizrdrake](https://x.com/elizrdrake)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sputnik-1), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sputnik-1), [grokbothq.xyz](https://grokbothq.xyz/bots/sputnik-1), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/sputnik-1) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ An iOS app developer that builds Swift and SwiftUI apps from design to TestFligh
 | --- | --- |
 | Original template | https://x.ai/bot/RIPO6abjI60-ZXRFAj9hG |
 | Creator | Jaime Hernandez ([@JaimeBubblehead](https://x.com/JaimeBubblehead)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ios-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ios-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/ios-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ios-bot), [x-research](https://x.com/JaimeBubblehead/status/2106522522565128529) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 2 memory seeds, 8 connectors |

@@ -6,7 +6,7 @@ Connect your IMDb and get brief, personalized movie and TV picks you haven't see
 | --- | --- |
 | Original template | https://x.ai/bot/2enfujV0827J75BYMrCeI |
 | Creator | Zach Rottmann ([@Zach](https://x.com/Zach)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/movie-picker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/movie-picker), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/movie-picker) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

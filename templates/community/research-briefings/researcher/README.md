@@ -6,7 +6,7 @@ A research lead for a small personal bot org. Spawns topic heads for big ongoing
 | --- | --- |
 | Original template | https://x.ai/bot/iri8Z5mxwAWTHJgZUr6nb |
 | Creator | Divyansh Bhadauria |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/researcher-iri8), [grokbothq.xyz](https://grokbothq.xyz/bots/researcher-divyansh), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/researcher-iri8) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 8 memory seeds, 0 connectors |

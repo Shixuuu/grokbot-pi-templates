@@ -6,7 +6,7 @@ A small-business chief of staff for Grok Bot. Routes work across specialist bots
 | --- | --- |
 | Original template | https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4 |
 | Creator | EdibleAnus ([@TheEdibleAnus](https://x.com/TheEdibleAnus)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-ykfn), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-ykfn), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-42), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/smallbiz-chief-of-staff), [x-research](https://botsdots.site/templates/chief-of-staff-ykfn) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

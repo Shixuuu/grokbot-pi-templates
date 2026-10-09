@@ -6,7 +6,7 @@ Verifies coupons and compares deals by real cart prices. Shows receipts — pric
 | --- | --- |
 | Original template | https://x.ai/bot/LB1eE-TpCI5usMRe76izh |
 | Creator | Wyatt Brocato ([@thewyattbrocato](https://x.com/thewyattbrocato)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/deal-finder-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/deal-finder-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/deal-finder-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/deal-finder-ops), [x-research](https://botsdots.site/templates/deal-finder-ops) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

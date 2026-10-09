@@ -6,7 +6,7 @@ A hive-mind catalog of real AI bots, tools, and products that serve Grok Bot use
 | --- | --- |
 | Original template | https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o |
 | Creator | Jaime Hernandez ([@JaimeBubblehead](https://x.com/JaimeBubblehead)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/bot-portal), [botsdots.site](https://botsdots.site/templates/bot-portal), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-portal), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-portal), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/5R5NbvHIoJOSd3l3qto3o), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bot-portal), [x-research](https://x.com/JaimeBubblehead/status/2098160562991505909) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

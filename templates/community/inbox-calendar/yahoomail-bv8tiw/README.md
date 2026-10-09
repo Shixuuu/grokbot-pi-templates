@@ -6,7 +6,7 @@ Clears and files your Yahoo Mail inbox on request: trash, trash plus filter, or 
 | --- | --- |
 | Original template | https://x.ai/bot/BV8TiWwvtXEp3miBJUWaq |
 | Creator | Carolina Dill ([@community](https://x.com/community)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/yahoomail-bv8t), [grokbothq.xyz](https://grokbothq.xyz/bots/yahoomail-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://grokbothq.xyz/bots/yahoomail-2) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 2 memory seeds, 0 connectors |

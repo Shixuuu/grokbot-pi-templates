@@ -6,7 +6,7 @@ Sets up isolated Claude Code and optional Codex seats on this bot’s computer a
 | --- | --- |
 | Original template | https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa |
 | Creator | Miguel Pieras ([@mpieras](https://x.com/mpieras)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/farm), [botsdots.site](https://botsdots.site/templates/farm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/farm), [grokbothq.xyz](https://grokbothq.xyz/bots/farm), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/x3Iv-2J4mfxJY6JFlgwNa), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/farm), [x-research](https://x.com/mpieras/status/2095120187389263968) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

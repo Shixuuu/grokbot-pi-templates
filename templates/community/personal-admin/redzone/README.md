@@ -6,7 +6,7 @@ Redzone helps run your fantasy football team: lineup fixes before every lock, in
 | --- | --- |
 | Original template | https://x.ai/bot/FwN-1CgFBmhXi6ZWqqt3J |
 | Creator | Ben ([@Redzonefanbot](https://x.com/Redzonefanbot)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/redzone), [grokbotwiki.com](https://www.grokbotwiki.com/bots/redzone), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/redzone) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 7 skills, 0 routines, 7 memory seeds, 0 connectors |

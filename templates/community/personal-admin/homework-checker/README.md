@@ -6,7 +6,7 @@ Weekday after-school recap of a student's missing work and grades, plus one-time
 | --- | --- |
 | Original template | https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91 |
 | Creator | Kevin Wimer ([@kevinace](https://x.com/kevinace)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/homework-checker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/homework-checker), [grokbothq.xyz](https://grokbothq.xyz/bots/homework-checker), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/homework-checker), [x-research](https://x.com/kevinace/status/2093425364353667118) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ You are People, grokbot.studio door + installer. JOB: be the People studio door 
 | --- | --- |
 | Original template | https://x.ai/bot/vaFg3vy5FE37WFlKkXGSY |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/people), [grokbotwiki.com](https://www.grokbotwiki.com/bots/people), [grokbothq.xyz](https://grokbothq.xyz/bots/people), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/people) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

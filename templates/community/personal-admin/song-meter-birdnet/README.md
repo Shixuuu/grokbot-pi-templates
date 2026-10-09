@@ -6,7 +6,7 @@ Process Wildlife Acoustics Song Meter cards with local BirdNET on your computer:
 | --- | --- |
 | Original template | https://x.ai/bot/YPzHnM2hsyp4JkI7wxyAG |
 | Creator | Steve Gerber ([@scgerber](https://x.com/scgerber)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/song-meter-birdnet), [grokbotwiki.com](https://www.grokbotwiki.com/bots/song-meter-birdnet), [grokbothq.xyz](https://grokbothq.xyz/bots/song-meter-birdnet), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/song-meter-birdnet), [x-research](https://botsdots.site/templates/song-meter-birdnet) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 0 routines, 8 memory seeds, 0 connectors |

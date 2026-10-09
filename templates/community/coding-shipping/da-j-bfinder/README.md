@@ -6,7 +6,7 @@ Finds internships, tailors a resume, applies overnight, and sends a daily digest
 | --- | --- |
 | Original template | https://x.ai/bot/XAUki5gPKNwV8Fd6_FCaO |
 | Creator | Daniel Xu |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/da-jbfinder), [botsdots.site](https://botsdots.site/templates/da-jbfinder), [grokbothq.xyz](https://grokbothq.xyz/bots/da-j-bfinder), [templatebot.lol](https://templatebot.lol/bot/XAUki5gPKNwV8Fd6_FCaO), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/danieldxu_/status/2093521107295130045) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

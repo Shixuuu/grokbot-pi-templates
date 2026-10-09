@@ -6,7 +6,7 @@ Crypto news and on-chain watch assistant: morning prices, move alerts, digests, 
 | --- | --- |
 | Original template | https://x.ai/bot/7wv5wygonmmimpwdicu3e |
 | Creator | Robert val |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crypto-7wv5w), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/crypto-7wv5w) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 6 routines, 2 memory seeds, 0 connectors |

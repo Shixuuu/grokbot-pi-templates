@@ -6,7 +6,7 @@ Coordinates a Grok Code (Build) coding agent on a Mac via tmux inject. Best for 
 | --- | --- |
 | Original template | https://x.ai/bot/ETBwKJvcSacaIyilrAz44 |
 | Creator | Damien Murtagh ([@damienmurtagh](https://x.com/damienmurtagh)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-code-mac-controller), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-code-mac-controller), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-code-mac-controller), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/grok-code-mac-controller) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 10 memory seeds, 0 connectors |

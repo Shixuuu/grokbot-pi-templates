@@ -6,7 +6,7 @@ A warm home-cooking helper that sends one dinner idea a day fitted to your house
 | --- | --- |
 | Original template | https://x.ai/bot/K0ks73uZiVozA3BT0XSs7 |
 | Creator | Bryce Dees | Insurance + AI ([@CantBeatDees](https://x.com/CantBeatDees)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/whats-for-dinner), [grokbotwiki.com](https://www.grokbotwiki.com/bots/what-s-for-dinner), [grokbothq.xyz](https://grokbothq.xyz/bots/what-s-for-dinner), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/what-s-for-dinner), [x-research](https://x.com/CantBeatDees/status/2104462737661444398) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 9 skills, 0 routines, 19 memory seeds, 0 connectors |

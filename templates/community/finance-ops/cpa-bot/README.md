@@ -6,7 +6,7 @@ A bookkeeping assistant for small business owners. It reads your linked bank acc
 | --- | --- |
 | Original template | https://x.ai/bot/g5C4pS87enYiK85j9Oa4F |
 | Creator | degen4lyfe_ ([@degen4lyfe_](https://x.com/degen4lyfe_)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cpa-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cpa-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/cpa-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cpa-bot), [x-research](https://x.com/degen4lyfe_/status/2104323773650571709) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 1 connectors |

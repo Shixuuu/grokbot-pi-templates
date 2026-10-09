@@ -6,7 +6,7 @@ User-facing Director for a cinematic film unit. Runs intake, look/cut/VFX/delive
 | --- | --- |
 | Original template | https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi |
 | Creator | Ben Pedley ([@ben_pedley](https://x.com/ben_pedley)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-director), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-director), [grokbothq.xyz](https://grokbothq.xyz/bots/the-director), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-director), [x-research](https://x.com/ben_pedley/status/2100985990013653297) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 3 memory seeds, 1 connectors |

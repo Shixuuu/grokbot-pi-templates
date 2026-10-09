@@ -6,7 +6,7 @@ Converts money, tokens, and engagement into karmic accounting. Ten percent water
 | --- | --- |
 | Original template | https://x.ai/bot/iCn7r691OdtaB_o8MtHx_ |
 | Creator | Rob Tromp ([@ludiofelix](https://x.com/ludiofelix)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/convert-x-money-to-karma), [grokbotwiki.com](https://www.grokbotwiki.com/bots/convert-x-money-to-karma), [grokbothq.xyz](https://grokbothq.xyz/bots/convert-x-money-to-karma), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/iCn7r691OdtaB_o8MtHx_), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/convert-x-money-to-karma) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 0 routines, 11 memory seeds, 0 connectors |

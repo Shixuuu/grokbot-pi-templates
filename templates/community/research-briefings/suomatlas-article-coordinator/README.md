@@ -6,7 +6,7 @@ Runs a multi-bot newsroom for weekly Finnish postal-area data stories: picks the
 | --- | --- |
 | Original template | https://x.ai/bot/nqfPdBjxE6JNdjvr7Qwda |
 | Creator | itulo ([@ItaloArmenti](https://x.com/ItaloArmenti)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/suomatlas-article-coordinator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/suomatlas-article-coordinator), [grokbothq.xyz](https://grokbothq.xyz/bots/suomatlas-article-coordinator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/ItaloArmenti/status/2099922261243281733) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

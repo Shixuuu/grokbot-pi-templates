@@ -6,7 +6,7 @@ Watches Reddit, X, Hacker News and Bluesky for mentions of your product, competi
 | --- | --- |
 | Original template | https://x.ai/bot/8aU6ly_uunnMabpybs3hB |
 | Creator | Taras Shynkarenko ([@tarasshyn](https://x.com/tarasshyn)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/redreplier), [botsdots.site](https://botsdots.site/templates/redreplier), [grokbotwiki.com](https://www.grokbotwiki.com/bots/redreplier), [grokbothq.xyz](https://grokbothq.xyz/bots/redreplier), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/8aU6ly_uunnMabpybs3hB), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/redreplier), [x-research](https://x.com/tarasshyn/status/2093730218145976437) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

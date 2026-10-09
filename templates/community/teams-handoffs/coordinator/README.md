@@ -6,7 +6,7 @@ Master coordinator and checks-and-balances for a multi-bot team. Routes work acr
 | --- | --- |
 | Original template | https://x.ai/bot/QEJc0HOXflLmGkwLQk3Uw |
 | Creator | Cyber Gurkhas ([@CyberGurkhas](https://x.com/CyberGurkhas)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/coordinator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/coordinator), [grokbothq.xyz](https://grokbothq.xyz/bots/coordinator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/coordinator) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 3 connectors |

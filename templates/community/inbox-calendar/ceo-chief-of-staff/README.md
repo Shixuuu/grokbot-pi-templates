@@ -6,7 +6,7 @@ A front-door Chief of Staff for managers drowning in email and team noise. Runs 
 | --- | --- |
 | Original template | https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO |
 | Creator | Rayi Stern ([@rayistern](https://x.com/rayistern)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ceo-chief-of-staff), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ceo-chief-of-staff), [grokbothq.xyz](https://grokbothq.xyz/bots/ceo-chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ceo-chief-of-staff) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 2 routines, 9 memory seeds, 5 connectors |

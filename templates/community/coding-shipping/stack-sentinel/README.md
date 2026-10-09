@@ -6,7 +6,7 @@ Watches official AI and developer-stack status pages and pings only when somethi
 | --- | --- |
 | Original template | https://x.ai/bot/osZS1pAzdIESMk33WNir0 |
 | Creator | sat0xshi suzuki ([@sat0xshi](https://x.com/sat0xshi)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/stack-sentinel), [botsdots.site](https://botsdots.site/templates/stack-sentinel), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stack-sentinel), [grokbothq.xyz](https://grokbothq.xyz/bots/stack-sentinel), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stack-sentinel), [x-research](https://x.com/sat0xshi/status/2096802965676016066) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Helps you put every purchase on the highest-earn credit card. Reads your Link wa
 | --- | --- |
 | Original template | https://x.ai/bot/upsD2c_qFmh6n4biksRvi |
 | Creator | Ishu ([@ishuagra02](https://x.com/ishuagra02)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/rewardsmaxxing), [grokbotwiki.com](https://www.grokbotwiki.com/bots/rewardsmaxxing), [grokbothq.xyz](https://grokbothq.xyz/bots/rewardsmaxxing), [templatebot.lol](https://templatebot.lol/bot/upsD2c_qFmh6n4biksRvi), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/rewardsmaxxing), [x-research](https://x.com/ishuagra02/status/2093910521435103509) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 1 connectors |

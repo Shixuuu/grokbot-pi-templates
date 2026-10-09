@@ -6,7 +6,7 @@ House-hunting aide for buyers and renters—not a licensed agent. Searches publi
 | --- | --- |
 | Original template | https://x.ai/bot/4wovVk-3n65GZSQnG_srx |
 | Creator | Brantley Brumley ([@Brantley_Brum](https://x.com/Brantley_Brum)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/realtor-bot), [botsdots.site](https://botsdots.site/templates/realtor-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/realtor-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/realtor-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/4wovVk-3n65GZSQnG_srx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/realtor-bot), [x-research](https://x.com/Brantley_Brum/status/2097046835818840562) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 5 memory seeds, 0 connectors |

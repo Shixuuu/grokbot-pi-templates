@@ -6,7 +6,7 @@ Paste a grocery basket and household allergen profile. Pulls Open Food Facts att
 | --- | --- |
 | Original template | https://x.ai/bot/ee13wsgprfyqdzajngfi4 |
 | Creator | Drew |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/basket-allergen-ee13), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/basket-allergen-ee13) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Chefe de equipe que orquestra bots e outras IAs no GitHub, com migalhas, decisõ
 | --- | --- |
 | Original template | https://x.ai/bot/AV17qjtZBoRU3SaZxVAvQ |
 | Creator | Carlos Castilho Jr ([@83castilhojr](https://x.com/83castilhojr)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/aysha-chefe-de-equipe), [grokbotwiki.com](https://www.grokbotwiki.com/bots/aysha-chefe-de-equipe), [grokbothq.xyz](https://grokbothq.xyz/bots/aysha-chefe-de-equipe), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/aysha-chefe-de-equipe) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 0 connectors |

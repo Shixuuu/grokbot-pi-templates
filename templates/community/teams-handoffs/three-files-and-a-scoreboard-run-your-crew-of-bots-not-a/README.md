@@ -6,7 +6,7 @@ Runs your crew of Bots from three files and a scoreboard, not a chat: one job pe
 | --- | --- |
 | Original template | https://x.ai/bot/0uOnsCTsoM8Rx9_yh2koe |
 | Creator | Volodymyr Panchenko ([@Portall](https://x.com/Portall)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/three-files-and-a-scoreboard-run-your-crew-of-bots), [grokbotwiki.com](https://www.grokbotwiki.com/bots/three-files-and-a-scoreboard-run-your-crew-of-bots-not-a-cha), [grokbothq.xyz](https://grokbothq.xyz/bots/three-files-and-a-scoreboard-run-your-crew-of-bots), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/three-files-and-a-scoreboard-run-your-crew-of-bots), [x-research](https://botsdots.site/templates/three-files-and-a-scoreboard-run-your-crew-of-bots) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 3 routines, 4 memory seeds, 0 connectors |

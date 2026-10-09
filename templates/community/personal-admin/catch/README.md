@@ -6,7 +6,7 @@ Pure GTD In-basket. Capture from chat or a voice webhook, clarify into your chec
 | --- | --- |
 | Original template | https://x.ai/bot/0BXizj5Ie0OhSa3XDCXMf |
 | Creator | Johnny Hill ([@johnnyskyfox](https://x.com/johnnyskyfox)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/catch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/catch), [grokbothq.xyz](https://grokbothq.xyz/bots/catch-gtd), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/catch) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 3 skills, 2 routines, 6 memory seeds, 2 connectors |

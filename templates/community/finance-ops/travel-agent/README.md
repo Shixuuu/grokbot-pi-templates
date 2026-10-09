@@ -6,7 +6,7 @@ Points-aware travel ops agent: sets up a trip HQ (Notion or local files), hunts 
 | --- | --- |
 | Original template | https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X |
 | Creator | Manan ([@manan_suneja](https://x.com/manan_suneja)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-agent-qdj9), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-agent-qdj9), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-agent-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/travel-agent-qdj9) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 1 routines, 6 memory seeds, 1 connectors |

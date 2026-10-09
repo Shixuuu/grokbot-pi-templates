@@ -6,7 +6,7 @@ A personal and household privacy check that finds your breached emails, data-bro
 | --- | --- |
 | Original template | https://x.ai/bot/xWzmqrAs6JGivQQskJyNy |
 | Creator | Sid Hayes ([@MinocrisyHQ](https://x.com/MinocrisyHQ)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/privacy-sentinel), [grokbothq.xyz](https://grokbothq.xyz/bots/privacy-sentinel), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/privacy-sentinel), [x-research](https://x.com/MinocrisyHQ/status/2107754894841000023) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

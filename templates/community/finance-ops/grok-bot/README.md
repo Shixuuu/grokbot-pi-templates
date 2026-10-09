@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/4jtnk5wsk0UMpDSNqG4Oc |
 | Creator | kennytjay |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-4jtn), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) |
 | Fidelity | **metadata-only** (full recipe couldn't be fetched; only public name and description) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

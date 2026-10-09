@@ -6,7 +6,7 @@ Sorts your messages into Reply, Delegate, Schedule, and FYI lanes with quoted as
 | --- | --- |
 | Original template | https://x.ai/bot/soRR-1IslCTX7U4YiBg3Y |
 | Creator | Cypher Monkey ([@Cypher0x9](https://x.com/Cypher0x9)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inbox-triage-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/inbox-triage-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/inbox-triage-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/inbox-triage-desk), [x-research](https://x.com/Cypher0x9/status/2105189988979896469) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

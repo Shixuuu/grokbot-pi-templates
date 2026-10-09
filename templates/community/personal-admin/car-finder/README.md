@@ -6,7 +6,7 @@ Finds used sedans and small SUVs near you: local listings, out-the-door budget m
 | --- | --- |
 | Original template | https://x.ai/bot/kT9NWT76KzlpOns_iLDAz |
 | Creator | Drew Bedard ([@DrewBedard](https://x.com/DrewBedard)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/car-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/car-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/car-finder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/car-finder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/2pbiwrtpclt7kdq3nngxy |
 | Creator | Cypher Monkey |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/competitive-landscape-desk-edge-finder-2pbi), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/competitive-landscape-desk-edge-finder-2pbi) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

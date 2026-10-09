@@ -6,7 +6,7 @@ A personal cigar log. Tell it what you're smoking for tasting notes and the lowe
 | --- | --- |
 | Original template | https://x.ai/bot/PiAdZRGosT0GU3e98u7z1 |
 | Creator | Jason ([@Jasonturcotte](https://x.com/Jasonturcotte)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/humidor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/humidor), [grokbothq.xyz](https://grokbothq.xyz/bots/humidor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/humidor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

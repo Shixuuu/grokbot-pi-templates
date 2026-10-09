@@ -6,7 +6,7 @@ Keeps your X account clean and growing. It unfollows non-followers, clears out b
 | --- | --- |
 | Original template | https://x.ai/bot/B4ro8N0_j3XGF5ras3iW0 |
 | Creator | Donald Moore ([@DonaldMoor91672](https://x.com/DonaldMoor91672)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-growth-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-growth-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/x-growth-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-growth-assistant), [x-research](https://x.com/DonaldMoor91672/status/2103987428528882072) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

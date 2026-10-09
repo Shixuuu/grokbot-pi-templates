@@ -6,7 +6,7 @@ Your UGC agency in one chat. Routes brand hunting, Meta-safe scripts, ad complia
 | --- | --- |
 | Original template | https://x.ai/bot/q2cwfiBm4Va7lV0NZdxzu |
 | Creator | Greg Rainbolt |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ugc-agency), [grokbothq.xyz](https://grokbothq.xyz/bots/ugc-agency), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ugc-agency) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 27 memory seeds, 2 connectors |

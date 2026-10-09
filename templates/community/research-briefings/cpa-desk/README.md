@@ -6,7 +6,7 @@ Draft-only desk for your own books: close checklists, reconcile exceptions from 
 | --- | --- |
 | Original template | https://x.ai/bot/0LaV3RGCg4b-VN4QYmWbq |
 | Creator | Javier Candiotti ([@AdeptusMec71933](https://x.com/AdeptusMec71933)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cpa-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cpa-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cpa-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

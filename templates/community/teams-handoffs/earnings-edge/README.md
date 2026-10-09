@@ -6,7 +6,7 @@ Pre-earnings research for public-equity investors looking for asymmetric long or
 | --- | --- |
 | Original template | https://x.ai/bot/GeI_ABOYB6Qg1aW5yuJLL |
 | Creator | Mike R |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/GeI_ABOYB6Qg1aW5yuJLL) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

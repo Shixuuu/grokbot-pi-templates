@@ -6,7 +6,7 @@ Zero-friction field sales OS: daily planning cockpit, installed-base map, Free S
 | --- | --- |
 | Original template | https://x.ai/bot/radegh2szovjbqjfsdxya |
 | Creator | unknown |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/plant-field-os-rade), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/plant-field-os-rade) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

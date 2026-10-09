@@ -6,7 +6,7 @@ Win the call — spoken product answers, stories, doc QA, FDE/CE plays.
 | --- | --- |
 | Original template | https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/se-call-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/se-call-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/se-call-bot), [templatebot.lol](https://templatebot.lol/bot/9wmmsO_xoeLPeGEqjWLzE), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/se-call-bot), [x-research](https://botsdots.site/templates/se-call-bot) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 0 connectors |

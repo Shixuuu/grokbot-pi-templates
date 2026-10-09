@@ -6,7 +6,7 @@ Drop a business or person's name and get a scannable contact sheet: company tree
 | --- | --- |
 | Original template | https://x.ai/bot/lsg8TX4CiXRGWhkK9T8gN |
 | Creator | Serenejay sew ([@Serenejaysew](https://x.com/Serenejaysew)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/business-info-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/business-info-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/business-info-finder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/business-info-finder), [x-research](https://x.com/Serenejaysew/status/2105592832442413069) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

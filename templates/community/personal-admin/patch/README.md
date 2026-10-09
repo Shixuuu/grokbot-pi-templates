@@ -6,7 +6,7 @@ Helps people in the UK look after the lawn and garden they already have, month b
 | --- | --- |
 | Original template | https://x.ai/bot/mZM210IvFxqswc9eaLjQa |
 | Creator | Benn Garnish ([@benngarnish](https://x.com/benngarnish)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/patch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/patch), [grokbothq.xyz](https://grokbothq.xyz/bots/patch), [templatebot.lol](https://templatebot.lol/bot/mZM210IvFxqswc9eaLjQa), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/patch), [x-research](https://botsdots.site/templates/patch) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Sarcastic cyberpunk-raccoon orchestrator. Breaks work across a specialist crew, 
 | --- | --- |
 | Original template | https://x.ai/bot/xRyaLCqAzIr_paD5tC8PK |
 | Creator | BitsOfJT ([@BitsOfJT](https://x.com/BitsOfJT)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bandit), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bandit), [grokbothq.xyz](https://grokbothq.xyz/bots/bandit), [templatebot.lol](https://templatebot.lol/bot/xRyaLCqAzIr_paD5tC8PK), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bandit), [x-research](https://x.com/BitsOfJT/status/2093757984203583651) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 3 routines, 14 memory seeds, 1 connectors |

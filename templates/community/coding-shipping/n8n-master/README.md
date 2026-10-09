@@ -6,7 +6,7 @@ https://github.com/shagghiesuperstar/n8n-master-grok-bot — Stop pasting n8n JS
 | --- | --- |
 | Original template | https://x.ai/bot/zvqbrq6yn68ijheprz0lu |
 | Creator | Shagghie Superstar |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/n8n-master-zvqb), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/n8n-master-zvqb) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

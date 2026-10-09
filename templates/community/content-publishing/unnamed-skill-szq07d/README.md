@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT |
 | Creator | 24K ([@gold24k9999](https://x.com/gold24k9999)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/checks-japanese-grammar-keigo-readability), [grokbotwiki.com](https://www.grokbotwiki.com/bots/checks-japanese-grammar-keigo-readability), [grokbothq.xyz](https://grokbothq.xyz/bots/japanese-check), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/gold24k9999/status/2099428518111400150) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

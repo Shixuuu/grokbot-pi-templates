@@ -6,7 +6,7 @@ Monta o esqueleto Problema → Solução → Resultado de um case de automação
 | --- | --- |
 | Original template | https://x.ai/bot/_7yFKwQCYR_mi_oVmKOEN |
 | Creator | Paulo Pierrondi ([@paulopierrondi](https://x.com/paulopierrondi)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/case-skeleton), [grokbotwiki.com](https://www.grokbotwiki.com/bots/case-skeleton), [grokbothq.xyz](https://grokbothq.xyz/bots/case-skeleton), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/case-skeleton) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

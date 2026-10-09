@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S |
 | Creator | 铁柱AGI |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-p6eyp9), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-p6eyp9), [templatebot.lol](https://templatebot.lol/bot/p6eYp9BM2aFxQSOtzQX3S), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bot-p6eyp9) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

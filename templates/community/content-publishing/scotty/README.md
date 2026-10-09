@@ -6,7 +6,7 @@ A product strategist for solo creators and small teams. It plans what to ship ne
 | --- | --- |
 | Original template | https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6 |
 | Creator | Terry West ([@DeepRiverRadio](https://x.com/DeepRiverRadio)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scotty), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scotty), [grokbothq.xyz](https://grokbothq.xyz/bots/scotty), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/scotty), [x-research](https://x.com/DeepRiverRadio/status/2105064247646626088) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

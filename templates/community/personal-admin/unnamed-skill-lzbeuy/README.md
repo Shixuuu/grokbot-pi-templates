@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/LzbEuYYioxCKhdpdIc7d8 |
 | Creator | Oviya Kapoor ([@lubo0923](https://x.com/lubo0923)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/reviews-agent-memory-topic-shows), [grokbotwiki.com](https://www.grokbotwiki.com/bots/reviews-agent-memory-topic-shows), [grokbothq.xyz](https://grokbothq.xyz/bots/memory-cleanup), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/reviews-agent-memory-topic-shows) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

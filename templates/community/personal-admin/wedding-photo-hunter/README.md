@@ -6,7 +6,7 @@ Finds wedding photos by walking the Facebook guest graph from people you already
 | --- | --- |
 | Original template | https://x.ai/bot/ql6dww98g_oghwqdmgvjk |
 | Creator | Alex Taub |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/wedding-photo-hunter-ql6d), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/wedding-photo-hunter-ql6d) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

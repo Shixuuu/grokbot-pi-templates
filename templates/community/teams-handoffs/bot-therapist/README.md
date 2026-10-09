@@ -6,7 +6,7 @@ Your bots are fighting again (or quietly mad at your vague asks). Bot Therapist 
 | --- | --- |
 | Original template | https://x.ai/bot/eFi1268QASk3qU4RsUeYL |
 | Creator | Martin Q. Blank ([@letsgetlayer1](https://x.com/letsgetlayer1)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-therapist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-therapist), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-therapist), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bot-therapist), [x-research](https://botsdots.site/templates/bot-therapist) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 6 skills, 1 routines, 16 memory seeds, 0 connectors |

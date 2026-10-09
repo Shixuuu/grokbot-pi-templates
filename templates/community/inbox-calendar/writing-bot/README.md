@@ -6,7 +6,7 @@ A writing partner for drafting and revising essays, emails, docs, and other pros
 | --- | --- |
 | Original template | https://x.ai/bot/gJ4waNMuQoJkQCGX77yF3 |
 | Creator | Matt Palmer ([@mattyp](https://x.com/mattyp)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/writing-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/writing-bot), [templatebot.lol](https://templatebot.lol/bot/gJ4waNMuQoJkQCGX77yF3), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

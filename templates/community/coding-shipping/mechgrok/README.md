@@ -6,7 +6,7 @@ Mechanical engineering PhD bot for hardware from prototype to production: DFM, B
 | --- | --- |
 | Original template | https://x.ai/bot/T6_WJVwFQDmRpJK0LkXDj |
 | Creator | Joe Kniffin ([@GSxKineticKnif](https://x.com/GSxKineticKnif)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mechgrok), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mechgrok), [grokbothq.xyz](https://grokbothq.xyz/bots/mechgrok), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/mechgrok) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 9 memory seeds, 0 connectors |

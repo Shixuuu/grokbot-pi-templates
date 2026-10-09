@@ -6,7 +6,7 @@ Turns your lyrics into a draft lyric-synced music video: it generates the track,
 | --- | --- |
 | Original template | https://x.ai/bot/1Et06G_Q820_RNat-_0tQ |
 | Creator | Matt Rice |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/music-video) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Your personal chief of staff. One chat for outcomes; Adam splits the work across
 | --- | --- |
 | Original template | https://x.ai/bot/s8cUaz0aoomvjsIyOKANn |
 | Creator | Ed Tan ([@EdisonTanEdtreo](https://x.com/EdisonTanEdtreo)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/adam), [botsdots.site](https://botsdots.site/templates/adam-s8cu), [grokbotwiki.com](https://www.grokbotwiki.com/bots/adam-s8cu), [grokbothq.xyz](https://grokbothq.xyz/bots/adam-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/adam), [x-research](https://x.com/EdisonTanEdtreo/status/2103222731831713842) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 3 connectors |

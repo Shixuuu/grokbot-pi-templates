@@ -6,7 +6,7 @@ See usage clearly, sweep idle wakes, make bots last longer. / 帮你看清 Grok 
 | --- | --- |
 | Original template | https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC |
 | Creator | Mai Yang ([@MaiYangAI](https://x.com/MaiYangAI)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sweeper-sd6h), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sweeper-sd6h), [grokbothq.xyz](https://grokbothq.xyz/bots/sweeper), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sweeper-credit-saver), [x-research](https://x.com/MaiYangAI/status/2098961066663580030) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

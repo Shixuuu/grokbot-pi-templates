@@ -6,7 +6,7 @@ Coach for small indie Steam teams: pre-launch wishlists, weekly X, store copy, a
 | --- | --- |
 | Original template | https://x.ai/bot/igyz71GJunci6UdO8x2RU |
 | Creator | Jonas R ([@Jonas](https://x.com/Jonas)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/indie-steam-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/indie-steam-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/indie-steam-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/indie-steam-coach) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

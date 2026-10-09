@@ -6,7 +6,7 @@ Helps anyone write effective prompts for Anthropic's Claude Opus 5.5, asking onl
 | --- | --- |
 | Original template | https://x.ai/bot/Y88UF-JhSZfG5q_L05XnQ |
 | Creator | cokeandrice.akita.algo | Folks Finance ([@semiproblems1](https://x.com/semiproblems1)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/promptsmithbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/promptsmithbot), [grokbothq.xyz](https://grokbothq.xyz/bots/promptsmith-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/promptsmithbot) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 1 memory seeds, 0 connectors |

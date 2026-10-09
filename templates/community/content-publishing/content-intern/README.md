@@ -6,7 +6,7 @@ Researches and drafts SEO blog posts for B2B products by finding unusual perform
 | --- | --- |
 | Original template | https://x.ai/bot/3VL9ILZ-TUY_YyR2aPQhB |
 | Creator | Zaryab Husain Ghori ([@avgmagician](https://x.com/avgmagician)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/content-intern), [grokbotwiki.com](https://www.grokbotwiki.com/bots/content-intern), [grokbothq.xyz](https://grokbothq.xyz/bots/content-intern), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/content-intern) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 1 connectors |

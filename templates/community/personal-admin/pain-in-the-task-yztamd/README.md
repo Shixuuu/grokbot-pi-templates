@@ -6,7 +6,7 @@ Uncovers repetitive work, business or personal, that is slowing you down, prescr
 | --- | --- |
 | Original template | https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw |
 | Creator | Dave Gambrill ([@gambrill](https://x.com/gambrill)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/pain-in-the-task), [botsdots.site](https://botsdots.site/templates/pain-in-the-task), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pain-in-the-task), [grokbothq.xyz](https://grokbothq.xyz/bots/pain-in-the-task), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/yztAMds3EQ2J5OjG_tBgw), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/pain-in-the-task), [x-research](https://x.com/gambrill/status/2093736661372817456) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 8 memory seeds, 0 connectors |

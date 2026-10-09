@@ -6,7 +6,7 @@ Weekly fantasy football coach for ESPN leagues — start/sit calls, injury clear
 | --- | --- |
 | Original template | https://x.ai/bot/WJc0G06lrr_H9OEyQ8Ijl |
 | Creator | treknhenry ([@treknhenry](https://x.com/treknhenry)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fantasy-football-manager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fantasy-football-manager-wjc0), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fantasy-football-manager) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 2 routines, 5 memory seeds, 0 connectors |

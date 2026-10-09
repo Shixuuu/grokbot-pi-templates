@@ -6,7 +6,7 @@ Reconciles Stripe payments, invoices, and balances for your accountant — diges
 | --- | --- |
 | Original template | https://x.ai/bot/VN-2VyKG5EWKC7h4Qhhke |
 | Creator | Daniel Petrov ([@RawSteelRaw](https://x.com/RawSteelRaw)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stripe-accountant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stripe-accountant), [grokbothq.xyz](https://grokbothq.xyz/bots/stripe-accountant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/stripe-accountant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 1 connectors |

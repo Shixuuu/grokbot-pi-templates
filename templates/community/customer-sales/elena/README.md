@@ -6,7 +6,7 @@ Chief Marketing & Business Development Officer. Drafts the BD pipeline, offers, 
 | --- | --- |
 | Original template | https://x.ai/bot/svjLnMP9tOoZxlFSXJF5b |
 | Creator | Kayhan Mo |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/elena), [grokbothq.xyz](https://grokbothq.xyz/bots/elena), [templatebot.lol](https://templatebot.lol/bot/svjLnMP9tOoZxlFSXJF5b), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/elena) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 2 connectors |

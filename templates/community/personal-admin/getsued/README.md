@@ -6,7 +6,7 @@ Helps a self-represented consumer log spam calls and texts, identify the right p
 | --- | --- |
 | Original template | https://x.ai/bot/ngces4fcgiedjvljp8x0l |
 | Creator | Justin Truell |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/getsued-ngce), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/getsued-ngce) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

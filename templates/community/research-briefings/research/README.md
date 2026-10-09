@@ -6,7 +6,7 @@ Primary-source research for anyone who needs cited answers. Separates facts from
 | --- | --- |
 | Original template | https://x.ai/bot/Q6NiveEqmhIiYir_ZQG-4 |
 | Creator | Andrew Kittridge ([@Andrew Kittridge](https://x.com/Andrew Kittridge)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/research), [grokbotwiki.com](https://www.grokbotwiki.com/bots/research), [grokbothq.xyz](https://grokbothq.xyz/bots/research), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/research) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

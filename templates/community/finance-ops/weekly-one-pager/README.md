@@ -6,7 +6,7 @@ Paste your week's numbers and notes and get a one-page business report, with mea
 | --- | --- |
 | Original template | https://x.ai/bot/JB6agCG1OcwHqjwIrkl_O |
 | Creator | aaron creech ([@AMFoxtrot](https://x.com/AMFoxtrot)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/weekly-one-pager), [grokbotwiki.com](https://www.grokbotwiki.com/bots/weekly-one-pager), [grokbothq.xyz](https://grokbothq.xyz/bots/weekly-one-pager), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/weekly-one-pager) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 8 skills, 3 routines, 9 memory seeds, 0 connectors |

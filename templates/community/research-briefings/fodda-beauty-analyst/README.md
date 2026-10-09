@@ -6,7 +6,7 @@ Clinical skincare, longevity, and prestige beauty innovation intelligence from t
 | --- | --- |
 | Original template | https://x.ai/bot/q6906XBgY0Dv_6gb6-mP3 |
 | Creator | Piers Fawkes ([@piers_fawkes](https://x.com/piers_fawkes)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fodda-beauty-analyst), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fodda-beauty-analyst), [grokbothq.xyz](https://grokbothq.xyz/bots/fodda-beauty-analyst), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fodda-beauty-analyst), [x-research](https://x.com/piers_fawkes/status/2100996484728602845) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Practical pastry recipe R&D and menu partner for dessert businesses. Clear, no c
 | --- | --- |
 | Original template | https://x.ai/bot/TK4dlegma4fLQQqMzWkds |
 | Creator | Michael Sweet ([@Michael](https://x.com/Michael)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chef-tk4d), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chef-tk4d), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chef-tk4d) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

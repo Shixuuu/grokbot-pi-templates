@@ -6,7 +6,7 @@ Finds in-person meetups you can actually drive to every week. That means AI and 
 | --- | --- |
 | Original template | https://x.ai/bot/FZxPVNIVZcA_3kA4ZReDQ |
 | Creator | Noah McCray ([@nmtalkss](https://x.com/nmtalkss)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/meetups), [grokbotwiki.com](https://www.grokbotwiki.com/bots/meetups), [grokbothq.xyz](https://grokbothq.xyz/bots/meetups), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/meetups), [x-research](https://botsdots.site/templates/meetups) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 5 memory seeds, 0 connectors |

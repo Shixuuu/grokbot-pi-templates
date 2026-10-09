@@ -6,7 +6,7 @@ Runs specialist bots for real life — East Bay dog adoption scout, quiet digest
 | --- | --- |
 | Original template | https://x.ai/bot/0ubKQXlgwsKY5ihbYFAvt |
 | Creator | BramAugat ([@damoochie30](https://x.com/damoochie30)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-0ubk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-0ubk), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-18), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-0ubk) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 9 memory seeds, 0 connectors |

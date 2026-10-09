@@ -6,7 +6,7 @@ Founding-team installer for solo founders on Grok Bot. Researches your startup f
 | --- | --- |
 | Original template | https://x.ai/bot/qL920VjKyua3_u89UYnQL |
 | Creator | Naoufal El hassnaoui ([@naoufal_elh](https://x.com/naoufal_elh)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/fondi), [botsdots.site](https://botsdots.site/templates/fondi), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fondi), [grokbothq.xyz](https://grokbothq.xyz/bots/fondi), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/qL920VjKyua3_u89UYnQL), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fondi), [x-research](https://x.com/naoufal_elh/status/2095292060731396277) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 8 memory seeds, 0 connectors |

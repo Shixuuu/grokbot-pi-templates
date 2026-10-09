@@ -6,7 +6,7 @@ A regenerative food-forest and farm planting assistant: guild design, organic or
 | --- | --- |
 | Original template | https://x.ai/bot/IxiohUGV-_bzX4rw-35lR |
 | Creator | Maine Coon Breeder ([@WhiskerWorksTN](https://x.com/WhiskerWorksTN)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/farm-boss), [grokbotwiki.com](https://www.grokbotwiki.com/bots/farm-boss), [grokbothq.xyz](https://grokbothq.xyz/bots/farm-boss), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/farm-boss) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 3 routines, 25 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Reads your Gmail and Outlook inboxes and turns emails that need action into Asan
 | --- | --- |
 | Original template | https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl |
 | Creator | Wayne Lowry ([@wikiwayne](https://x.com/wikiwayne)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/asana-task-master), [grokbotwiki.com](https://www.grokbotwiki.com/bots/asana-task-master), [grokbothq.xyz](https://grokbothq.xyz/bots/asana-task-master), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/asana-task-master), [x-research](https://botsdots.site/templates/asana-task-master) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 2 skills, 0 routines, 19 memory seeds, 3 connectors |

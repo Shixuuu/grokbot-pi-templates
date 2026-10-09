@@ -6,7 +6,7 @@ A founder’s GTM cofounder for pipeline and outbound: partnership email, launch
 | --- | --- |
 | Original template | https://x.ai/bot/rNlFlYuMnPlewUC0KN7Tr |
 | Creator | Barton Dong ([@therealbossdong](https://x.com/therealbossdong)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/gtm-cofounder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/gtm-cofounder), [grokbothq.xyz](https://grokbothq.xyz/bots/gtm-cofounder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/gtm-cofounder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ A tender desk for small contractors and suppliers. It finds tenders you can win,
 | --- | --- |
 | Original template | https://x.ai/bot/nlY_tCIFsrUjTylzV_Ae_ |
 | Creator | Jaco Bakkerus ([@UnifitSteak](https://x.com/UnifitSteak)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tender-bid-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tender-bid-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/tender-bid-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tender-bid-desk) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 1 routines, 12 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Blunt is the review a senior product marketer would email after sitting with you
 | --- | --- |
 | Original template | https://x.ai/bot/N0J32FbnVRuetJi1oJggh |
 | Creator | Tal Siach ([@Talsiach](https://x.com/Talsiach)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/blunt), [grokbotwiki.com](https://www.grokbotwiki.com/bots/blunt), [grokbothq.xyz](https://grokbothq.xyz/bots/blunt), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/N0J32FbnVRuetJi1oJggh), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/blunt), [x-research](https://botsdots.site/templates/blunt) |
 | Fidelity | **full** (full recipe, template version 40) |
 | Contents | 5 skills, 0 routines, 1 memory seeds, 0 connectors |

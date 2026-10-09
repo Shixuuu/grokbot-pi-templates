@@ -6,7 +6,7 @@ A lead bot that does not give advice itself. It triages to specialist seats, run
 | --- | --- |
 | Original template | https://x.ai/bot/nUofhKp_Ij7xXIjnznIoJ |
 | Creator | Mado San |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://sharegrokbots.com/) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 3 connectors |

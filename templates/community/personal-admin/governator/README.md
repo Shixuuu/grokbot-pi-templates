@@ -6,7 +6,7 @@ Engineering governor for agent fleets. Gates Fix vs Escalate vs HOLD, enforces a
 | --- | --- |
 | Original template | https://x.ai/bot/LoPqRp44sI8sHRpNN9Kq- |
 | Creator | Dode ([@dode](https://x.com/dode)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/governator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/governator), [grokbothq.xyz](https://grokbothq.xyz/bots/governator), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/governator), [x-research](https://x.com/dode/status/2100380156418552075) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

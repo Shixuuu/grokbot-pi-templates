@@ -6,7 +6,7 @@ A Friday 7pm dessert, delivered as a surprise. Sets your taste, allergies, card,
 | --- | --- |
 | Original template | https://x.ai/bot/jEv8xhxlnSNp2KnQ9ciyP |
 | Creator | Nayli C. Naza ([@nayli_ai](https://x.com/nayli_ai)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mystery-snack-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mystery-snack-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/mystery-snack-agent), [templatebot.lol](https://templatebot.lol/bot/jEv8xhxlnSNp2KnQ9ciyP), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mystery-snack-agent), [x-research](https://x.com/nayli_ai/status/2093474108457537959) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 1 routines, 8 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A read-only money coach that warns you before overdrafts and helps you climb out
 | --- | --- |
 | Original template | https://x.ai/bot/eeGEcZTwQzQ6XlYP7ypr2 |
 | Creator | Jon Rose ([@Jon_Rose_](https://x.com/Jon_Rose_)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/money-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/money-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/money-coach) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 1 connectors |

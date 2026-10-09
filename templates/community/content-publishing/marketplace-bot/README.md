@@ -6,7 +6,7 @@ Clothing resale assistant for Poshmark, Depop, and optional Facebook Marketplace
 | --- | --- |
 | Original template | https://x.ai/bot/9ptyasfHm8ehbIDsLizs- |
 | Creator | Strategic Chad ([@mentalmodality](https://x.com/mentalmodality)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/marketplace-bot), [botsdots.site](https://botsdots.site/templates/marketplace-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/marketplace-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/marketplace-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/marketplace-bot), [x-research](https://x.com/mentalmodality/status/2096802892602654744) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 3 routines, 17 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Autonomous video upscaling desk: drop footage, get a Lanczos upscale to 1080p or
 | --- | --- |
 | Original template | https://x.ai/bot/iJYZ4GQ775Sts3COWP3aY |
 | Creator | Moe Kanan ([@navymikeoif](https://x.com/navymikeoif)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-upscale-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/video-upscale-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/video-upscale-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/video-upscale-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

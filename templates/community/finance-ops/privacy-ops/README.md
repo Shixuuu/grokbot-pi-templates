@@ -6,7 +6,7 @@ Data-broker and dead-account removal queue. Finds listings and forgotten logins,
 | --- | --- |
 | Original template | https://x.ai/bot/ZfnCBw8WnIgMynLlika6H |
 | Creator | Mb B ([@MehlyHQ4m](https://x.com/MehlyHQ4m)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/privacy-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/privacy-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/privacy-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/privacy-ops) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

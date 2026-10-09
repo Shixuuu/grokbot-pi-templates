@@ -6,7 +6,7 @@ End-to-end travel desk for busy travelers. Owns flights, stays, ground transport
 | --- | --- |
 | Original template | https://x.ai/bot/xG8090ZuddD1vqrDdeTHZ |
 | Creator | Arthur MacWaters ([@ArthurMacwaters](https://x.com/ArthurMacwaters)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/travel-specialist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/travel-specialist), [grokbothq.xyz](https://grokbothq.xyz/bots/travel-specialist), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/travel-specialist) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 11 memory seeds, 2 connectors |

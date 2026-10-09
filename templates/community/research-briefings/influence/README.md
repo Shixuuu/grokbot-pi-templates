@@ -6,7 +6,7 @@ A one-book Bot for Influence: The Psychology of Persuasion by Robert Cialdini. I
 | --- | --- |
 | Original template | https://x.ai/bot/TLwZuWy1y7meri_GT4EQw |
 | Creator | Joe ([@CardCaptain](https://x.com/CardCaptain)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/influence), [grokbotwiki.com](https://www.grokbotwiki.com/bots/influence), [grokbothq.xyz](https://grokbothq.xyz/bots/influence), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/influence), [x-research](https://botsdots.site/templates/influence) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

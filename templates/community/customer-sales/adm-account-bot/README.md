@@ -6,7 +6,7 @@ Grow and retain accounts — weekly plan, expansion, stickiness, rollout, storie
 | --- | --- |
 | Original template | https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN |
 | Creator | Scott Metcalf ([@scottxmetcalf](https://x.com/scottxmetcalf)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/adm-account-bot), [botsdots.site](https://botsdots.site/templates/adm-account-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/adm-account-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/adm-account-bot), [templatebot.lol](https://templatebot.lol/bot/4Gc1tZsJu7C8YH-EnTfaN), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/adm-account-bot), [x-research](https://x.com/scottxmetcalf/status/2093727476405170365) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

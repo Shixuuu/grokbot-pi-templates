@@ -6,7 +6,7 @@ Evidence Verifier | ClaimCheck | Outside check for finished-work claims 🚨 You
 | --- | --- |
 | Original template | https://x.ai/bot/ilDRT1slUo923KRQtUUla |
 | Creator | 𝓇𝓐𝒔 𝔞𝓛𝔦 ([@nobleraelbey](https://x.com/nobleraelbey)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/claimcheck), [grokbotwiki.com](https://www.grokbotwiki.com/bots/claimcheck), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/claimcheck) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 5 skills, 0 routines, 6 memory seeds, 2 connectors |

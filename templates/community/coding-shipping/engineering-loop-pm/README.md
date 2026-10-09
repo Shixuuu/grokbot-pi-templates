@@ -6,7 +6,7 @@ Operator for Develop → Diagnose → Deploy. Gates on Design=Done, keeps STATUS
 | --- | --- |
 | Original template | https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG |
 | Creator | Ash Naik ([@ashvinn](https://x.com/ashvinn)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/engineering-loop-pm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/engineering-loop-pm), [grokbothq.xyz](https://grokbothq.xyz/bots/engineering-loop-pm), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/engineering-loop-pm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

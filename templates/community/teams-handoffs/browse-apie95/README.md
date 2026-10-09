@@ -6,7 +6,7 @@ A bot that manages a shared browser for your other bots. It offers an interface 
 | --- | --- |
 | Original template | https://x.ai/bot/aPie95rXmGm4w5z0H31EH |
 | Creator | Sherlock ([@CanadianOddity](https://x.com/CanadianOddity)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/browse), [grokbotwiki.com](https://www.grokbotwiki.com/bots/browse), [grokbothq.xyz](https://grokbothq.xyz/bots/browse), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/browse), [x-research](https://botsdots.site/templates/browse) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 0 connectors |

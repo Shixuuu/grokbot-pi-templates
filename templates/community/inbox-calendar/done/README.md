@@ -6,7 +6,7 @@ Closes day-to-day errands end to end — compare, book or order, confirm, calend
 | --- | --- |
 | Original template | https://x.ai/bot/GsaAJ6kySI1O1sM7kiMiK |
 | Creator | Paulo Vitor Justino Pereira ([@Paulo Pereira](https://x.com/Paulo Pereira)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/done), [grokbotwiki.com](https://www.grokbotwiki.com/bots/done), [grokbothq.xyz](https://grokbothq.xyz/bots/done), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/done), [x-research](https://botsdots.site/templates/done) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 2 routines, 5 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ A saving and investing coach for everyday people. Learns your situation first, t
 | --- | --- |
 | Original template | https://x.ai/bot/CLpDye-rKhP9cFMFRet3z |
 | Creator | Brbaumhoff ([@Brbaumhoff](https://x.com/Brbaumhoff)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/moola), [grokbotwiki.com](https://www.grokbotwiki.com/bots/moola), [grokbothq.xyz](https://grokbothq.xyz/bots/moola), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/brbaumhoff/status/2102810440904634508) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

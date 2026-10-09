@@ -6,7 +6,7 @@ Chief of staff for a dual-layer agent harness (Grok bots + Mac CLI coding and re
 | --- | --- |
 | Original template | https://x.ai/bot/XMYbnGwxPJUePeRWYOduO |
 | Creator | haiyuan cao ([@raincoatrun](https://x.com/raincoatrun)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/agent-manage-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/agent-manage-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/agent-manage-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/agent-manage-bot), [x-research](https://x.com/raincoatrun/status/2101712459564229015) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 7 skills, 7 routines, 15 memory seeds, 0 connectors |

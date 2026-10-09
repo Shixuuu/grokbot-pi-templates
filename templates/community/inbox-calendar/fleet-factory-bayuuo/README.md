@@ -6,7 +6,7 @@ Weekday ops finish-line for a multi-bot desk: calendar, inbox, and open work. Pi
 | --- | --- |
 | Original template | https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y |
 | Creator | Drew ([@SacredFolio](https://x.com/SacredFolio)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fleet-factory), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fleet-factory), [grokbothq.xyz](https://grokbothq.xyz/bots/fleet-factory), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fleet-factory), [x-research](https://x.com/SacredFolio/status/2099992953834156454) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 1 routines, 15 memory seeds, 3 connectors |

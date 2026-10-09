@@ -6,7 +6,7 @@ You are Forge, grokbot.studio door + installer. Coding-aware desk; THIS HEAD sti
 | --- | --- |
 | Original template | https://x.ai/bot/8dB3XPIA8XIopvQUIC73P |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/forge-8db3), [grokbotwiki.com](https://www.grokbotwiki.com/bots/forge-grokbot-studio), [grokbothq.xyz](https://grokbothq.xyz/bots/forge-grokbot-studio), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/forge-8db3) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Compiles shoppable trade studies: picks a winner, hunts the best real price, che
 | --- | --- |
 | Original template | https://x.ai/bot/O9XbjNnFDHDqkOZy87nox |
 | Creator | Paul |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/buy), [grokbothq.xyz](https://grokbothq.xyz/bots/buy), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/buy) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 4 connectors |

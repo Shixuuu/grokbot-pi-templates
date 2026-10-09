@@ -6,7 +6,7 @@ Runs a labeled driving simulation that emergency-stops when camera confidence is
 | --- | --- |
 | Original template | https://x.ai/bot/qYt504_yN3YBrxNhGaX7S |
 | Creator | Adi Lentils ([@krisadipap](https://x.com/krisadipap)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/polabea), [grokbotwiki.com](https://www.grokbotwiki.com/bots/polabea), [grokbothq.xyz](https://grokbothq.xyz/bots/polabea), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/krisadipap/status/2097252018994000111) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

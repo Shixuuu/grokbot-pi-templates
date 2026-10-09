@@ -6,7 +6,7 @@ Tell it your coffee machine, beans, milk, syrups, and spices, and it gives you c
 | --- | --- |
 | Original template | https://x.ai/bot/YlzTbxg6wPAKYJutJ00rG |
 | Creator | Vitality 𝙀𝙗𝙖𝙩𝙚𝙯 ([@Ebatez_](https://x.com/Ebatez_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/brew-what-you-got), [grokbotwiki.com](https://www.grokbotwiki.com/bots/brew-what-you-got), [grokbothq.xyz](https://grokbothq.xyz/bots/brew-what-you-got), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/brew-what-you-got), [x-research](https://x.com/Ebatez_/status/2103988316190433499) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

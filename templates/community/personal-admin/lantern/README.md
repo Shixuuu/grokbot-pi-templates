@@ -6,7 +6,7 @@ Meet Lantern, a guiding light for when you go dark. Walks you through setting up
 | --- | --- |
 | Original template | https://x.ai/bot/ibfzmil_mzu0dq-k4u633 |
 | Creator | Steven Jacobs |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lantern-ibfz), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/lantern-ibfz) |
 | Fidelity | **full** (full recipe, template version 15) |
 | Contents | 1 skills, 1 routines, 1 memory seeds, 0 connectors |

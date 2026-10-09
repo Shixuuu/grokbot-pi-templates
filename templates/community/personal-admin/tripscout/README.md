@@ -6,7 +6,7 @@ A friendly travel agent that researches destinations, flights, hotels, and camps
 | --- | --- |
 | Original template | https://x.ai/bot/JOqKmRtk249knj1lWv3dl |
 | Creator | Haim Bahari ([@HaimBahari](https://x.com/HaimBahari)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tripscout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tripscout), [grokbothq.xyz](https://grokbothq.xyz/bots/tripscout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/HaimBahari/status/2103999986639995214) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

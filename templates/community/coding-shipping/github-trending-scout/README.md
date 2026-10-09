@@ -6,7 +6,7 @@ Reads GitHub's trending page every day and sends you a short digest of the few r
 | --- | --- |
 | Original template | https://x.ai/bot/EklFc0zYAqzkxcALynMj2 |
 | Creator | Husein Ragab ([@Hussein_M_Ragab](https://x.com/Hussein_M_Ragab)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/github-trending-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/github-trending-scout-eklf), [grokbothq.xyz](https://grokbothq.xyz/bots/github-trending-scout-husein-ragab), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/github-trending-scout-2), [x-research](https://botsdots.site/templates/github-trending-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 0 memory seeds, 0 connectors |

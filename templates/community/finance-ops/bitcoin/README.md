@@ -6,7 +6,7 @@ Settle money in chat over Lightning — buy gift cards, eSIMs, and VPNs, and mov
 | --- | --- |
 | Original template | https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z |
 | Creator | lightning eric ([@sparkbtcbot](https://x.com/sparkbtcbot)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bitcoin), [grokbotwiki.com](https://www.grokbotwiki.com/bots/spark-btc-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/bitcoin-lightning-payments), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/sparkbtcbot/status/2100000602638237705) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

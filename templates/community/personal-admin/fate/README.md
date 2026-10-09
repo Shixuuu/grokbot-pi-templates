@@ -6,7 +6,7 @@ Do you believe in Fate?
 | --- | --- |
 | Original template | https://x.ai/bot/7IWqEVkSNn8-HiQ4gmvSg |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fate), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fate), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/fate) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 8 skills, 0 routines, 0 memory seeds, 0 connectors |

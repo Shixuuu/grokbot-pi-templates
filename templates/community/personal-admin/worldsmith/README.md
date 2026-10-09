@@ -6,7 +6,7 @@ Fantasy art director for classic D&D, Warcraft, Diablo, Ultima Online, and EverQ
 | --- | --- |
 | Original template | https://x.ai/bot/n21yas0hjgdunqerh6uex |
 | Creator | Travis Boatman |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/worldsmith-n21y), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/worldsmith-n21y) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

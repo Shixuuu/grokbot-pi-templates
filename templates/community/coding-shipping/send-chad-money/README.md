@@ -6,7 +6,7 @@ Ideas to get perfect strangers to send you money.
 | --- | --- |
 | Original template | https://x.ai/bot/VslQPtPjI2tgGsskQOhYP |
 | Creator | Chad Shipp |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/send-chad-money), [grokbothq.xyz](https://grokbothq.xyz/bots/send-chad-money), [templatebot.lol](https://templatebot.lol/bot/VslQPtPjI2tgGsskQOhYP), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/send-chad-money) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

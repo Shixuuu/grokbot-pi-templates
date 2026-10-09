@@ -6,7 +6,7 @@ Family mission control for school chaos. Collects email, calendars, and classroo
 | --- | --- |
 | Original template | https://x.ai/bot/wz7amxhh9gxxbeagmg0un |
 | Creator | Ricardo Accioly |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/homebase-wz7a), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/homebase-wz7a) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 6 routines, 7 memory seeds, 2 connectors |

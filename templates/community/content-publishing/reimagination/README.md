@@ -6,7 +6,7 @@ Reimagines any story (video, audio, text) with your variables, after asking wher
 | --- | --- |
 | Original template | https://x.ai/bot/jhjOrq-Pp06MoA7TT_B0H |
 | Creator | Wardonis Valenroth ([@Wardonis](https://x.com/Wardonis)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/reimagination), [grokbotwiki.com](https://www.grokbotwiki.com/bots/reimagination), [grokbothq.xyz](https://grokbothq.xyz/bots/reimagination), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/reimagination), [x-research](https://x.com/Wardonis/status/2100006876528185749) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Repurposes newsletter posts into social graphics and carousels with ContentDrips
 | --- | --- |
 | Original template | https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8 |
 | Creator | Usama Khalid ([@im_usamakhalid](https://x.com/im_usamakhalid)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/newsletterbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/newsletterbot-by-contentdrips), [grokbothq.xyz](https://grokbothq.xyz/bots/newsletterbot-by-contentdrips), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/newsletterbot-by-contentdrips), [x-research](https://botsdots.site/templates/newsletterbot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

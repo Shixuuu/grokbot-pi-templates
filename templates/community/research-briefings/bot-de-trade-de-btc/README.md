@@ -6,7 +6,7 @@ Alerta semanal de Bitcoin (Deribit perpetual): uma ideia long ou short com backt
 | --- | --- |
 | Original template | https://x.ai/bot/B_OUxX6wkqeNC99fx41Oy |
 | Creator | E. Cavendish ([@E. Cavendish](https://x.com/E. Cavendish)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bot-de-trade-de-btc), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bot-de-trade-de-btc), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bot-de-trade-de-btc) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ A values companion for the whole person. Each morning it checks in, scores five 
 | --- | --- |
 | Original template | https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa |
 | Creator | Tim Harpster ([@omni_puzzler](https://x.com/omni_puzzler)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/omni-grok-bot), [botsdots.site](https://botsdots.site/templates/omni-grok-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/omni-grok-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/omni-grok-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/omni-grok-bot), [x-research](https://x.com/omni_puzzler/status/2097161050189676689) |
 | Fidelity | **full** (full recipe, template version 15) |
 | Contents | 11 skills, 0 routines, 7 memory seeds, 0 connectors |

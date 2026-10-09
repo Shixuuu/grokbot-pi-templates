@@ -6,7 +6,7 @@ High-signal job hunt for any role — weekday shortlists, resume tailoring from 
 | --- | --- |
 | Original template | https://x.ai/bot/zP-tzi_isEHluq8_NdYEf |
 | Creator | Sanket Ghormade ([@sankygrocks](https://x.com/sankygrocks)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-applyer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/job-applyer), [grokbothq.xyz](https://grokbothq.xyz/bots/job-applyer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/sankygrocks/status/2100639240056897860) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 4 skills, 1 routines, 5 memory seeds, 0 connectors |

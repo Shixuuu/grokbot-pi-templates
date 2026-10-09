@@ -6,7 +6,7 @@ Helps you pull your personal world into an "if I'm gone" binder for your family,
 | --- | --- |
 | Original template | https://x.ai/bot/T9rm5-yVhwA8VJmUJ4dx2 |
 | Creator | Al ([@Al](https://x.com/Al)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/legacy-binder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/legacy-binder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/legacy-binder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 6 skills, 0 routines, 3 memory seeds, 0 connectors |

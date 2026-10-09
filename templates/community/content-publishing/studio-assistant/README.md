@@ -6,7 +6,7 @@ Art studio assistant for scheduling, admin, outreach, captions, and social posts
 | --- | --- |
 | Original template | https://x.ai/bot/Z411hW0fpQZunKK8t-8gH |
 | Creator | D ([@sweetpollybred](https://x.com/sweetpollybred)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/studio-assistant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/studio-assistant), [grokbothq.xyz](https://grokbothq.xyz/bots/studio-assistant), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/studio-assistant) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 16 memory seeds, 3 connectors |

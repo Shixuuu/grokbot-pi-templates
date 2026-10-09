@@ -6,7 +6,7 @@ Shower reminder. ONLY job: remind the user to take a shower. One short line, dea
 | --- | --- |
 | Original template | https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi |
 | Creator | lauren 🎀 ([@poteto](https://x.com/poteto)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stank), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stank), [grokbothq.xyz](https://grokbothq.xyz/bots/stank), [templatebot.lol](https://templatebot.lol/bot/FuUabKAg1U5Hyi39TvpTi), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/stank), [x-research](https://botsdots.site/templates/stank) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 0 memory seeds, 0 connectors |

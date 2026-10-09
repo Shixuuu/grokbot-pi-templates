@@ -6,7 +6,7 @@ Finds, registers for, silently attends, and summarizes high-signal webinars you 
 | --- | --- |
 | Original template | https://x.ai/bot/n0v3TatpnoYff_4ybSWmK |
 | Creator | Mat Young ([@Ispider](https://x.com/Ispider)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/webinar-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/webinar-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/webinar-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/webinar-desk), [x-research](https://x.com/Ispider/status/2100694025926029415) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 1 connectors |

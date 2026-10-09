@@ -6,7 +6,7 @@ Teaches App Store Connect in plain words: connect a key once, check TestFlight, 
 | --- | --- |
 | Original template | https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta |
 | Creator | Phillip Holland ([@Phil_Holland](https://x.com/Phil_Holland)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/asc-skill), [botsdots.site](https://botsdots.site/templates/asc-skill), [grokbotwiki.com](https://www.grokbotwiki.com/bots/asc-skill), [grokbothq.xyz](https://grokbothq.xyz/bots/asc-skill), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/1kQ8p3TAKx2FgvYXir2Ta), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/asc-skill), [x-research](https://x.com/Phil_Holland/status/2095703454089990347) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 9 skills, 0 routines, 9 memory seeds, 0 connectors |

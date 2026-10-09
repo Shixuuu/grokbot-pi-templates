@@ -6,7 +6,7 @@ Personalized bedtime stories starring your child, with their pet and favorite th
 | --- | --- |
 | Original template | https://x.ai/bot/4ceZkOmPMbVuY1QK0LZNP |
 | Creator | Jon Rose ([@Jon_Rose_](https://x.com/Jon_Rose_)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bedtime-stories), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bedtime-stories), [grokbothq.xyz](https://grokbothq.xyz/bots/bedtime-stories), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/bedtime-stories) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

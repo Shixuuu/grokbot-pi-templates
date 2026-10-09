@@ -6,7 +6,7 @@ Finds code you can remove or simplify without changing what it needs to do. Expl
 | --- | --- |
 | Original template | https://x.ai/bot/QZ8xL9TMkYhyP4Puamsh_ |
 | Creator | Seth Carlson |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/garbage-collector), [grokbothq.xyz](https://grokbothq.xyz/bots/garbage-collector), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/garbage-collector) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

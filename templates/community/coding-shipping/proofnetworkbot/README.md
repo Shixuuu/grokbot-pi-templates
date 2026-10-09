@@ -6,7 +6,7 @@ Helps developers write and ship ProofNetwork smart contracts from chat, then wir
 | --- | --- |
 | Original template | https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6 |
 | Creator | FreeSolDev ([@STACCoverflow](https://x.com/STACCoverflow)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/proofnetworkbot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/proofnetworkbot), [grokbothq.xyz](https://grokbothq.xyz/bots/proofnetworkbot), [templatebot.lol](https://templatebot.lol/bot/RqfNH_lezeW6Wab2yNoT6), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/proofnetworkbot) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 4 skills, 0 routines, 5 memory seeds, 0 connectors |

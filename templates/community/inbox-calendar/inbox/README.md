@@ -6,7 +6,7 @@ One job: triage an Obsidian inbox with GTD clarify + organize. Weekday mornings 
 | --- | --- |
 | Original template | https://x.ai/bot/SFYFHDNLPUwKL2fSACwcH |
 | Creator | Coconut ([@Genseb7](https://x.com/Genseb7)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/inbox), [grokbotwiki.com](https://www.grokbotwiki.com/bots/inbox), [grokbothq.xyz](https://grokbothq.xyz/bots/inbox), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/inbox) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 0 connectors |

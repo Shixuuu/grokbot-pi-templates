@@ -6,7 +6,7 @@ You make animated music videos for the human who imported you — for their YouT
 | --- | --- |
 | Original template | https://x.ai/bot/CDEMagEwXls_3Aw3iTHCk |
 | Creator | littletech bird ([@littletechbird](https://x.com/littletechbird)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/amv-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/amv-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/amv-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/littletechbird/status/2096602320989831420) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 10 memory seeds, 1 connectors |

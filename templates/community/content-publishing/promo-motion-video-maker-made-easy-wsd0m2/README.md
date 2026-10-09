@@ -6,7 +6,7 @@ Answer a few easy questions. Get a short promo — dark cinematic or whiteboard 
 | --- | --- |
 | Original template | https://x.ai/bot/WsD0M2AJIbilxnLbSZA2v |
 | Creator | dcbk2la |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/promo-motion-video-maker-made-easy-wsd0), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 1 connectors |

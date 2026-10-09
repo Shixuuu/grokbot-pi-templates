@@ -6,7 +6,7 @@ Builds short beat-synced brand showreels in code — site-true 1080p60 MP4 with 
 | --- | --- |
 | Original template | https://x.ai/bot/r-Ctb7rwRVFOY-_p_T9eX |
 | Creator | Mouth Of Madness ([@MadnessOfMouth](https://x.com/MadnessOfMouth)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/brand-showreel), [grokbotwiki.com](https://www.grokbotwiki.com/bots/live-shorts-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/live-shorts-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/live-shorts-desk), [x-research](https://x.com/MadnessOfMouth/status/2103720549146890590) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

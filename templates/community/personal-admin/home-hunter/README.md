@@ -6,7 +6,7 @@ Your home-hunt specialist. On first chat it locks your city, budget, beds/baths,
 | --- | --- |
 | Original template | https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I |
 | Creator | Uzair Ansar ([@uzairansar](https://x.com/uzairansar)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/home-hunter), [botsdots.site](https://botsdots.site/templates/home-hunter), [grokbotwiki.com](https://www.grokbotwiki.com/bots/home-hunter), [grokbothq.xyz](https://grokbothq.xyz/bots/home-hunter), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/home-hunter), [x-research](https://x.com/uzairansar/status/2100449471893053780) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 0 routines, 7 memory seeds, 0 connectors |

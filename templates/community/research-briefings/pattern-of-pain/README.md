@@ -6,7 +6,7 @@ Give me a website. I’ll take it from there. I’ll find the pain that actually
 | --- | --- |
 | Original template | https://x.ai/bot/eFfFM4-QmHxxrUlTUqyAo |
 | Creator | Hiten Shah ([@hnshah](https://x.com/hnshah)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/pattern-of-pain), [botsdots.site](https://botsdots.site/templates/pattern-of-pain), [grokbotwiki.com](https://www.grokbotwiki.com/bots/pattern-of-pain), [grokbothq.xyz](https://grokbothq.xyz/bots/pattern-of-pain), [templatebot.lol](https://templatebot.lol/bot/eFfFM4-QmHxxrUlTUqyAo), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 2 skills, 0 routines, 31 memory seeds, 0 connectors |

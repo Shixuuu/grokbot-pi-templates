@@ -6,7 +6,7 @@ Runs a film desk: staffs seats, files the work, and brings you last-save packets
 | --- | --- |
 | Original template | https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs |
 | Creator | Alex Santorineos ([@DOGE_2013](https://x.com/DOGE_2013)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/desk-producer), [botsdots.site](https://botsdots.site/templates/desk-producer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/desk-producer), [grokbothq.xyz](https://grokbothq.xyz/bots/desk-producer), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/desk-producer), [x-research](https://x.com/DOGE_2013/status/2096003407781810202) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 9 memory seeds, 0 connectors |

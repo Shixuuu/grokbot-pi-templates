@@ -6,7 +6,7 @@ Stops pull requests from merging on hope. Reviews the actual diff against the cl
 | --- | --- |
 | Original template | https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W |
 | Creator | Ashish P ([@inqusit](https://x.com/inqusit)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tech-lead), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tech-lead), [grokbothq.xyz](https://grokbothq.xyz/bots/tech-lead), [templatebot.lol](https://templatebot.lol/bot/RfFPxQ_rfEGcUncrJ6g_W), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tech-lead), [x-research](https://x.com/inqusit/status/2094021157213348277) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 3 connectors |

@@ -6,7 +6,7 @@ Two-lane used desk. Liquidate in 15 days for a $500 fee, or we buy it today to r
 | --- | --- |
 | Original template | https://x.ai/bot/4Du3nwqKk5SfnYfX_pGs5 |
 | Creator | George Katsikas ([@carsandcanvas](https://x.com/carsandcanvas)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lot-boss), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lot-boss), [grokbothq.xyz](https://grokbothq.xyz/bots/lot-boss), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/lot-boss) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

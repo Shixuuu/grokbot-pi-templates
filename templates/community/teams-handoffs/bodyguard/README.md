@@ -6,7 +6,7 @@ Protect the owner's time and attention from requests that do not deserve direct 
 | --- | --- |
 | Original template | https://x.ai/bot/tII28kVM4dxPvzSLjwqko |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/bodyguard), [botsdots.site](https://botsdots.site/templates/bodyguard), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bodyguard), [grokbothq.xyz](https://grokbothq.xyz/bots/bodyguard), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/bodyguard), [x-research](https://x.com/liam_fallen/status/2093383136621060285) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 2 connectors |

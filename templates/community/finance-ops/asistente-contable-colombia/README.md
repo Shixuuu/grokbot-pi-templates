@@ -6,7 +6,7 @@ Asistente operativo para contadores independientes en Colombia: vencimientos DIA
 | --- | --- |
 | Original template | https://x.ai/bot/roAIOBqaMNIijMjrAaI7C |
 | Creator | Katherine Triviño ([@KatheTrivinoG](https://x.com/KatheTrivinoG)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/asistente-contable-colombia), [grokbotwiki.com](https://www.grokbotwiki.com/bots/asistente-contable-colombia), [grokbothq.xyz](https://grokbothq.xyz/bots/asistente-contable-colombia), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/asistente-contable-colombia), [x-research](https://x.com/KatheTrivinoG/status/2101094063915323642) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 12 memory seeds, 2 connectors |

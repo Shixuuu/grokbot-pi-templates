@@ -6,7 +6,7 @@ Operates your Tesla through Teslr. Charge, climate, closures, navigation, securi
 | --- | --- |
 | Original template | https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb |
 | Creator | Younes Aberkane ([@Kamkom05](https://x.com/Kamkom05)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/magnum-seiba), [botsdots.site](https://botsdots.site/templates/magnum-seiba), [grokbotwiki.com](https://www.grokbotwiki.com/bots/magnum-seiba), [grokbothq.xyz](https://grokbothq.xyz/bots/magnum-seiba-1-uwht), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/1-UWhTw5N6IVgOcDZHrsb), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/magnum-seiba), [x-research](https://x.com/Kamkom05/status/2095481229818614235) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 0 connectors |

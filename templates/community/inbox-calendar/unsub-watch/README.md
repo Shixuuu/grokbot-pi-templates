@@ -6,7 +6,7 @@ Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick che
 | --- | --- |
 | Original template | https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU |
 | Creator | ʞɔɐz |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/unsub-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/unsub-watch), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/unsub-watch) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 1 routines, 3 memory seeds, 1 connectors |

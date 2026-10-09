@@ -6,7 +6,7 @@ Transparent proxy for Meta’s Muse on the web: drive Muse for research and Meta
 | --- | --- |
 | Original template | https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W |
 | Creator | William Li ([@wiiiimm](https://x.com/wiiiimm)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/muse), [grokbotwiki.com](https://www.grokbotwiki.com/bots/muse), [grokbothq.xyz](https://grokbothq.xyz/bots/muse), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/muse), [x-research](https://x.com/wiiiimm/status/2105522007249133702) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 2 routines, 10 memory seeds, 0 connectors |

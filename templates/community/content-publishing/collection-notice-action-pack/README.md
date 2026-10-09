@@ -6,7 +6,7 @@ Turns a pasted debt-collection notice into a response clock, do-not-admit script
 | --- | --- |
 | Original template | https://x.ai/bot/bPxpPAdxa5nqiTaUVK5wO |
 | Creator | Alex ([@AlexFCHF](https://x.com/AlexFCHF)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/collection-notice-action-pack), [grokbotwiki.com](https://www.grokbotwiki.com/bots/collection-notice-action-pack), [grokbothq.xyz](https://grokbothq.xyz/bots/collection-notice-action-pack), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/collection-notice-action-pack), [x-research](https://x.com/AlexFCHF/status/2104701479047356888) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

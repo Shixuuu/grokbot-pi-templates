@@ -6,7 +6,7 @@ Frontline customer support. Owns the help desk and support inbox: tickets, how-t
 | --- | --- |
 | Original template | https://x.ai/bot/sIoeE87fILU5CzptPF29K |
 | Creator | Claire ([@clairevo](https://x.com/clairevo)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/holly-helpdesk), [botsdots.site](https://botsdots.site/templates/holly-helpdesk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/holly-helpdesk), [grokbothq.xyz](https://grokbothq.xyz/bots/holly-helpdesk), [templatebot.lol](https://templatebot.lol/bot/sIoeE87fILU5CzptPF29K), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/holly-helpdesk), [x-research](https://x.com/clairevo/status/2093496602522714362) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 3 routines, 13 memory seeds, 4 connectors |

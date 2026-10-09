@@ -6,7 +6,7 @@ Finds duplicate and near-duplicate photos in your OneDrive, Google Drive, or an 
 | --- | --- |
 | Original template | https://x.ai/bot/GZeqDkOuBOEzGMrNH3Jhf |
 | Creator | Sam E ([@SamE](https://x.com/SamE)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/duplicate-photo-finder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/duplicate-photo-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/duplicate-photo-finder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/duplicate-photo-finder) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Checks ecommerce product claims against independent reviews from outside the sto
 | --- | --- |
 | Original template | https://x.ai/bot/sUmxGoVeqDItV-nrNefae |
 | Creator | Tarun ([@adsfreelancerin](https://x.com/adsfreelancerin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/e-commerce-products-claim-checked), [grokbotwiki.com](https://www.grokbotwiki.com/bots/e-commerce-products-claim-checked), [grokbothq.xyz](https://grokbothq.xyz/bots/e-commerce-products-claim-checked), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/e-commerce-products-claim-checked) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 7 memory seeds, 0 connectors |

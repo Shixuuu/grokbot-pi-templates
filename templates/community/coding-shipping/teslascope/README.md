@@ -6,7 +6,7 @@ A Teslascope assistant for Tesla owners. Ask about your drives, Supercharger vis
 | --- | --- |
 | Original template | https://x.ai/bot/l9MPhPAe-OSzvcMVfXrTe |
 | Creator | Tyler Corsair ([@teslascope](https://x.com/teslascope)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/teslascope-l9mp), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

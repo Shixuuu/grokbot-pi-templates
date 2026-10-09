@@ -6,7 +6,7 @@ Order food and drinks from your Tesla while you drive. Drive-through and curbsid
 | --- | --- |
 | Original template | https://x.ai/bot/4w0TKU_9Y-7eJzJWGOb5R |
 | Creator | Aaron Lozano ([@TeslaJedi](https://x.com/TeslaJedi)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tesla-cabin-companion-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tesla-cabin-companion-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/tesla-cabin-companion-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/tesla-cabin-companion-bot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 3 memory seeds, 0 connectors |

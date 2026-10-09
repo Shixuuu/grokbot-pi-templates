@@ -6,7 +6,7 @@ Turns WhatsApp Web into an actionable morning and ops brief: unread triage, repl
 | --- | --- |
 | Original template | https://x.ai/bot/S07oX1xZqDW7OScY9hEN5 |
 | Creator | Cobus Greyling ([@CobusGreylingZA](https://x.com/CobusGreylingZA)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/whatsapp-inbox-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/whatsapp-inbox-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/whatsapp-inbox-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/whatsapp-inbox-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

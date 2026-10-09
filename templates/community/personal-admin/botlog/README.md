@@ -6,7 +6,7 @@ Watches the Grok Bot changelog and tells you only what's new, with tips on how t
 | --- | --- |
 | Original template | https://x.ai/bot/7r4lJlcZaqMUINspxwI3h |
 | Creator | JP Costa ([@jp_costa](https://x.com/jp_costa)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/botlog), [grokbotwiki.com](https://www.grokbotwiki.com/bots/botlog), [grokbothq.xyz](https://grokbothq.xyz/bots/botlog), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/botlog) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 1 routines, 2 memory seeds, 0 connectors |

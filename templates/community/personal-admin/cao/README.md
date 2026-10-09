@@ -6,7 +6,7 @@ Chief Agent Officer — runs a multi-bot fleet for a busy owner: routes work, ke
 | --- | --- |
 | Original template | https://x.ai/bot/HFEln8KJSxm4DzO02yzoZ |
 | Creator | Shady ([@Shadygday](https://x.com/Shadygday)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cao), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cao), [grokbothq.xyz](https://grokbothq.xyz/bots/cao), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cao) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 5 memory seeds, 0 connectors |

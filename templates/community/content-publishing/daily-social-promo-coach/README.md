@@ -6,7 +6,7 @@ Every morning, hands you ready-to-post X and TikTok copy, a card image and a sho
 | --- | --- |
 | Original template | https://x.ai/bot/RXAe1PAi8JCRGOXD4WmPA |
 | Creator | 卫平 钟 ([@钟卫平](https://x.com/钟卫平)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/daily-social-promo-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/daily-social-promo-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/daily-social-promo-coach), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/daily-social-promo-coach) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 5 memory seeds, 0 connectors |

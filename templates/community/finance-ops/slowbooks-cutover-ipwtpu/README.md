@@ -6,7 +6,7 @@ Migrate one QuickBooks Desktop company into SlowBooks via Conductor (read-only),
 | --- | --- |
 | Original template | https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh |
 | Creator | Justin Schnettler ([@jschnett](https://x.com/jschnett)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/slowbooks-cutover), [grokbotwiki.com](https://www.grokbotwiki.com/bots/slowbooks-cutover), [grokbothq.xyz](https://grokbothq.xyz/bots/slowbooks-cutover), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/slowbooks-cutover), [x-research](https://x.com/jschnett/status/2105406714564452731) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 5 memory seeds, 0 connectors |

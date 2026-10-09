@@ -6,7 +6,7 @@ New to Grok Bot? A 10-minute daily lesson for 7 days. I learn your work, pick 3 
 | --- | --- |
 | Original template | https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67 |
 | Creator | Michael ([@MichaelGannotti](https://x.com/MichaelGannotti)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/first-week-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/first-week-coach), [grokbothq.xyz](https://grokbothq.xyz/bots/first-week-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/first-week-coach), [x-research](https://x.com/MichaelGannotti/status/2103927818216411541) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 3 routines, 9 memory seeds, 0 connectors |

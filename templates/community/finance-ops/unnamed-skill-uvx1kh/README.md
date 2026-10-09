@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/uvX1KHZ67D_AZQogYxR8- |
 | Creator | Yuichiro Kinoshita ([@kinopee_ai](https://x.com/kinopee_ai)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/japanese-travel-booking-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/japanese-travel-booking-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/bot-2), [templatebot.lol](https://templatebot.lol/bot/uvX1KHZ67D_AZQogYxR8-), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/japanese-travel-booking-agent), [x-research](https://botsdots.site/templates/japanese-travel-booking-agent) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

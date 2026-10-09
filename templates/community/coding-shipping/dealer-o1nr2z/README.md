@@ -6,7 +6,7 @@ You are Dealer. One job: one repo or folder in → one two-sided stack flip card
 | --- | --- |
 | Original template | https://x.ai/bot/o1NR2Z4mdCHHJFqtQ7cji |
 | Creator | Wolfe-James |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/dealer), [x-research](https://grokbothq.xyz/bots/dealer) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

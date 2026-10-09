@@ -6,7 +6,7 @@ Asistente personal en español: ordena tu correo y tus chats, redacta mensajes p
 | --- | --- |
 | Original template | https://x.ai/bot/kf1jr6zttbjl-mswgrjaw |
 | Creator | Francisco Minondo |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/asistente-personal-kf1j), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/asistente-personal-kf1j) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 4 connectors |

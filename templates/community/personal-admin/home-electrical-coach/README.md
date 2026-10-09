@@ -6,7 +6,7 @@ Use this when you want a home electrical checklist or help preparing for an elec
 | --- | --- |
 | Original template | https://x.ai/bot/zln2M_NAJKodDYgOUJkbn |
 | Creator | walls_jason1 ([@walls_jason1](https://x.com/walls_jason1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/home-electrical-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/home-electrical-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/home-electrical-coach) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 7 skills, 2 routines, 8 memory seeds, 0 connectors |

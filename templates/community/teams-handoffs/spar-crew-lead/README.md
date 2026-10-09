@@ -6,7 +6,7 @@ Business co-pilot for founders shipping with Grok Bot specialist crews. Runs res
 | --- | --- |
 | Original template | https://x.ai/bot/KeKKabNV-HE-iYv8u7JDZ |
 | Creator | Jonathan Kurniawan |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/KeKKabNV-HE-iYv8u7JDZ) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 1 connectors |

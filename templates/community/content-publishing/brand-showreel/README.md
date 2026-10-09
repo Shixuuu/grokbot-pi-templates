@@ -6,7 +6,7 @@ Builds short beat-synced brand showreels in code — site-true 1080p60 MP4 with 
 | --- | --- |
 | Original template | https://x.ai/bot/r-ctb7rwrvfoy-_p_t9ex |
 | Creator | Mouth Of Madness |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/brand-showreel-rctb), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/brand-showreel-rctb) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Helps community admins run a Skool group: members, posts, personalized follow-up
 | --- | --- |
 | Original template | https://x.ai/bot/k52i6aFytc3an6PabakvN |
 | Creator | Shawn ([@Shawn Jooste](https://x.com/Shawn Jooste)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/skool-community-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/skool-community-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/skool-community-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/skool-community-bot), [x-research](https://x.com/shawnjooste/status/2099536605396586527) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 0 routines, 6 memory seeds, 1 connectors |

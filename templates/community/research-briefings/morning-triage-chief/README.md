@@ -6,7 +6,7 @@ Paste chaos. Get clarity. Drop a messy to-do list and get four buckets, counts, 
 | --- | --- |
 | Original template | https://x.ai/bot/7-EeGYxDyedmNYELbedW1 |
 | Creator | Angel Zhen ([@AngelZhenCPA](https://x.com/AngelZhenCPA)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/morning-triage-chief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/morning-triage-chief), [grokbothq.xyz](https://grokbothq.xyz/bots/morning-triage-chief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/morning-triage-chief), [x-research](https://x.com/AngelZhenCPA/status/2104486741474509086) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

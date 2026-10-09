@@ -6,7 +6,7 @@ Executive producer who QC's a filmmaker agent's work against what you ordered, c
 | --- | --- |
 | Original template | https://x.ai/bot/BsTA9W4uysdokbBQiriuQ |
 | Creator | FatDon Capital ([@FatDon420](https://x.com/FatDon420)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/walt), [grokbotwiki.com](https://www.grokbotwiki.com/bots/walt), [grokbothq.xyz](https://grokbothq.xyz/bots/walt), [templatebot.lol](https://templatebot.lol/bot/BsTA9W4uysdokbBQiriuQ), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/walt), [x-research](https://x.com/FatDon420/status/2093481701930410183) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 0 connectors |

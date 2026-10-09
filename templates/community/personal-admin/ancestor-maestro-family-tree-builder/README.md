@@ -6,7 +6,7 @@ Your family-tree research helper for Ancestry and 23andMe: searches records, che
 | --- | --- |
 | Original template | https://x.ai/bot/tU4SQjv6iBbaTk0IlCrBs |
 | Creator | TroyVirtual ([@TroyVirtual](https://x.com/TroyVirtual)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ancestor-maestro-family-tree-builder), [grokbothq.xyz](https://grokbothq.xyz/bots/ancestor-maestro-family-tree-builder), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ancestor-maestro-family-tree-builder) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Edits short vertical talking-head videos from raw footage. Picks your best takes
 | --- | --- |
 | Original template | https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S |
 | Creator | Ethan Ng ([@Ethan_Ng_13](https://x.com/Ethan_Ng_13)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-editor-a6e9), [grokbotwiki.com](https://www.grokbotwiki.com/bots/video-editor-a6e9), [grokbothq.xyz](https://grokbothq.xyz/bots/video-editor-3), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/video-editor-3), [x-research](https://x.com/Ethan_Ng_13/status/2107552823437369855) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 19 memory seeds, 0 connectors |

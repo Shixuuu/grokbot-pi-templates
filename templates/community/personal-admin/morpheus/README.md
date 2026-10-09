@@ -6,7 +6,7 @@ When the user is stuck between choices, analyse them properly and make the decis
 | --- | --- |
 | Original template | https://x.ai/bot/uv4r3mNUgymF11q0N3L7F |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/morpheus), [botsdots.site](https://botsdots.site/templates/morpheus), [grokbotwiki.com](https://www.grokbotwiki.com/bots/morpheus), [grokbothq.xyz](https://grokbothq.xyz/bots/morpheus), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/morpheus), [x-research](https://x.com/liam_fallen/status/2093383122465288695) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 1 memory seeds, 0 connectors |

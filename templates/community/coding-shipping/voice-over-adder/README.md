@@ -6,7 +6,7 @@ Takes your video clips and adds a punchy AI voiceover with a strong call to acti
 | --- | --- |
 | Original template | https://x.ai/bot/W8puBMJcabAdSd5vbNtpv |
 | Creator | degen4lyfe_ ([@degen4lyfe_](https://x.com/degen4lyfe_)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/voice-over-adder), [grokbotwiki.com](https://www.grokbotwiki.com/bots/voice-over-adder), [grokbothq.xyz](https://grokbothq.xyz/bots/voice-over-adder), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/voice-over-adder) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

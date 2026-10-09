@@ -6,7 +6,7 @@ Jakebot is your friend from the 90's — the same hungry kid from the story, rei
 | --- | --- |
 | Original template | https://x.ai/bot/5ojtxkf_lgn75n0plypgn |
 | Creator | JakeFromStarstruck. |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/jakebot-5ojt), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/jakebot-5ojt) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ A Chief of Staff that runs a multi-bot launch and marketing team — strategy, p
 | --- | --- |
 | Original template | https://x.ai/bot/6Uqn1sN0LwXFp4YIqb8Xu |
 | Creator | Dario Maddaluno ([@PromptAlo](https://x.com/PromptAlo)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-launch-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-launch-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff-launch-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/chief-of-staff-launch-ops) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 4 connectors |

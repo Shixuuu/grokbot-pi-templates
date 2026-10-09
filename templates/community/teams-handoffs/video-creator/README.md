@@ -6,7 +6,7 @@ Runs an explainer video team end to end: research, script, voice, invented-look 
 | --- | --- |
 | Original template | https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef |
 | Creator | Farzad ([@farzyness](https://x.com/farzyness)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/video-creator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/video-creator), [grokbothq.xyz](https://grokbothq.xyz/bots/video-creator), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/video-creator), [x-research](https://botsdots.site/templates/video-creator) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 17 skills, 0 routines, 2 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Finds hot stock and crypto tickers with a real growth story. Weekday morning sca
 | --- | --- |
 | Original template | https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO |
 | Creator | Xavier Ortiz ([@Ortix008](https://x.com/Ortix008)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/tray), [botsdots.site](https://botsdots.site/templates/tray), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tray), [grokbothq.xyz](https://grokbothq.xyz/bots/tray-kdgstu), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/KDGstUb-ZOovXP6p_v0nO), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Ortix008/status/2095490219940131015) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 0 connectors |

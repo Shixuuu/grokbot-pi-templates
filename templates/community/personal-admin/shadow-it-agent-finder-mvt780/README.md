@@ -6,7 +6,7 @@ Finds shadow AI agents already running in your company and turns them into an ow
 | --- | --- |
 | Original template | https://x.ai/bot/MVT780CFW0OvKV64K1dMy |
 | Creator | #CarbeneAI ([@CarbeneAI](https://x.com/CarbeneAI)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/shadow-it-agent-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/shadow-it-agent-finder-2), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://grokbothq.xyz/bots/shadow-it-agent-finder-2) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

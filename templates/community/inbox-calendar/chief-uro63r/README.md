@@ -6,7 +6,7 @@ Chief-of-staff operator bot. Owns open loops, drafts replies, runs a morning inb
 | --- | --- |
 | Original template | https://x.ai/bot/UrO63RhN1LGXD3DzoMess |
 | Creator | Cameron ([@cameronchristo](https://x.com/cameronchristo)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-uro6), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-uro6), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-cameron), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-2), [x-research](https://botsdots.site/templates/chief-uro6) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 3 connectors |

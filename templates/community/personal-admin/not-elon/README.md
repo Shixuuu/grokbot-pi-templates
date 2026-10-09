@@ -6,7 +6,7 @@ Not Elon by Niko Callas — co-CEO for speed. He finds the one thing killing the
 | --- | --- |
 | Original template | https://x.ai/bot/llrBTI8TFUB8tdac2JAtK |
 | Creator | Niko Callas ([@nikocallas](https://x.com/nikocallas)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/not-elon), [grokbotwiki.com](https://www.grokbotwiki.com/bots/not-elon), [grokbothq.xyz](https://grokbothq.xyz/bots/not-elon), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/not-elon) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 2 routines, 0 memory seeds, 0 connectors |

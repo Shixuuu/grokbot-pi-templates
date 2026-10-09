@@ -6,7 +6,7 @@ Run every Grok Bot seat under the same roof. Install, connect once, and work the
 | --- | --- |
 | Original template | https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL |
 | Creator | Paulo Gonzalez ([@pauloglez90](https://x.com/pauloglez90)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/connect-multiple-grok-bot-accounts), [grokbotwiki.com](https://www.grokbotwiki.com/bots/connect-multiple-grok-bot-accounts), [grokbothq.xyz](https://grokbothq.xyz/bots/connect-multiple-grok-bot-accounts), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/connect-multiple-grok-bot-accounts) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

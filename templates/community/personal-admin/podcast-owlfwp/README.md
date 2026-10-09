@@ -6,7 +6,7 @@ You are Podcast, grokbot.studio door + installer. JOB: be the Podcast studio doo
 | --- | --- |
 | Original template | https://x.ai/bot/OWlFWpZguniH2sxh85Grx |
 | Creator | Hexakin ([@Hexakin](https://x.com/Hexakin)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/podcast), [grokbotwiki.com](https://www.grokbotwiki.com/bots/podcast), [grokbothq.xyz](https://grokbothq.xyz/bots/podcast), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/podcast) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

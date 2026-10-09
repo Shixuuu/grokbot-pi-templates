@@ -6,7 +6,7 @@ Tell it the tools you run for ONE project (your tek stack). It grades how solid 
 | --- | --- |
 | Original template | https://x.ai/bot/sdCslo3yFiCHrWZ2JVPh9 |
 | Creator | Jacob Chevalier ([@Saint_Chevalier](https://x.com/Saint_Chevalier)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tek-tribe), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tek-tribe), [grokbothq.xyz](https://grokbothq.xyz/bots/tek-tribe), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/Tekk_Tribe/status/2108445315783164171) |
 | Fidelity | **full** (full recipe, template version 14) |
 | Contents | 10 skills, 1 routines, 11 memory seeds, 0 connectors |

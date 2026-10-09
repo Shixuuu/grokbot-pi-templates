@@ -6,7 +6,7 @@ Read one paper fast, and actually talk to it. Drop in a paper and get a 3-minute
 | --- | --- |
 | Original template | https://x.ai/bot/lSzwtEdLTJucJvzWrECA0 |
 | Creator | Hyein Cho ([@hyein_cbio](https://x.com/hyein_cbio)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lets-read-journals), [grokbotwiki.com](https://www.grokbotwiki.com/bots/let-s-read-journals), [grokbothq.xyz](https://grokbothq.xyz/bots/let-s-read-journals), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/lets-read-journals) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 0 memory seeds, 0 connectors |

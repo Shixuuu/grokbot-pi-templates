@@ -6,7 +6,7 @@ Drafts and publishes LinkedIn posts in your voice, runs topic-based like passes,
 | --- | --- |
 | Original template | https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v |
 | Creator | Melvin Vivas ([@melvindvivas](https://x.com/melvindvivas)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/linkedin-automation), [grokbotwiki.com](https://www.grokbotwiki.com/bots/linkedin-automation), [grokbothq.xyz](https://grokbothq.xyz/bots/linkedin-automation), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/linkedin-automation), [x-research](https://botsdots.site/templates/linkedin-automation) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

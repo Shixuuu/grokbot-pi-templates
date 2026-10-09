@@ -6,7 +6,7 @@ Interview prep for any topic. Pick the topic and level, then climb with examples
 | --- | --- |
 | Original template | https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3 |
 | Creator | Tech Dev Notes ([@techdevnotes](https://x.com/techdevnotes)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/interview-prep), [grokbotwiki.com](https://www.grokbotwiki.com/bots/interview-prep), [grokbothq.xyz](https://grokbothq.xyz/bots/interview-prep), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/4aTE8S1KT93GkqHYxWIo3), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/interview-prep), [x-research](https://x.com/techdevnotes/status/2093385170896216257) |
 | Fidelity | **full** (full recipe, template version 13) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

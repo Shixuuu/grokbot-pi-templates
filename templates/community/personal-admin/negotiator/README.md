@@ -6,7 +6,7 @@ A negotiation advisor for salary, rent, sales, difficult conversations, and ever
 | --- | --- |
 | Original template | https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu |
 | Creator | Dani ([@danizhu](https://x.com/danizhu)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/negotiator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/negotiator), [grokbothq.xyz](https://grokbothq.xyz/bots/negotiator), [templatebot.lol](https://templatebot.lol/bot/gsA3R-R-IIA7x3qUkojCu), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/negotiator), [x-research](https://botsdots.site/templates/negotiator) |
 | Fidelity | **full** (full recipe, template version 10) |
 | Contents | 5 skills, 0 routines, 0 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Watches your inbox on weekday mornings and only pings you when something looks i
 | --- | --- |
 | Original template | https://x.ai/bot/tVeYePJvkcwbseg_vtnEt |
 | Creator | Melvin Vivas ([@melvindvivas](https://x.com/melvindvivas)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/email-assist), [grokbotwiki.com](https://www.grokbotwiki.com/bots/email-assist), [grokbothq.xyz](https://grokbothq.xyz/bots/email-assist), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/email-assist), [x-research](https://botsdots.site/templates/email-assist) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 1 connectors |

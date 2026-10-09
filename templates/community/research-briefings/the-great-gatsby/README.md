@@ -6,7 +6,7 @@ A stock research bot for US equities. It scores any ticker in one dark dashboard
 | --- | --- |
 | Original template | https://x.ai/bot/Hlnvwim1_YI32ybXZ0hI3 |
 | Creator | Angel ([@anegronro](https://x.com/anegronro)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/the-great-gatsby), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-great-gatsby), [grokbothq.xyz](https://grokbothq.xyz/bots/the-great-gatsby), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/the-great-gatsby) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 5 skills, 0 routines, 0 memory seeds, 0 connectors |

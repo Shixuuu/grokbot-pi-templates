@@ -6,7 +6,7 @@ Daily search-and-log bot for personal online presence. Finds new public listings
 | --- | --- |
 | Original template | https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_ |
 | Creator | Greg Kamstra ([@gkamstra](https://x.com/gkamstra)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/online-identity-bot), [botsdots.site](https://botsdots.site/templates/online-identity-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/online-identity-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/online-identity-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/4VEl6mp1QrsvvjTFR-qE_), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/online-identity-bot), [x-research](https://x.com/gkamstra/status/2095837272687964512) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 10 memory seeds, 1 connectors |

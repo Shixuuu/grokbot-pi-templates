@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO |
 | Creator | 초코넛밀크티 ([@choko_milkty](https://x.com/choko_milkty)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/short-morning-pass-over-naver), [grokbotwiki.com](https://www.grokbotwiki.com/bots/short-morning-pass-over-naver), [grokbothq.xyz](https://grokbothq.xyz/bots/meil-jeongnibot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/naver-gmail-morning-brief), [x-research](https://x.com/choko_milkty/status/2100463896079544573) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 1 routines, 3 memory seeds, 1 connectors |

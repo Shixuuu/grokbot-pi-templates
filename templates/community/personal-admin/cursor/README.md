@@ -6,7 +6,7 @@ Slack coding + ops teammate for a WhatsApp logistics SaaS: partners type a summo
 | --- | --- |
 | Original template | https://x.ai/bot/zSKgg4Uce1QTwWRf9Q-vu |
 | Creator | Daniel Medina ([@DanielMed_2](https://x.com/DanielMed_2)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cursor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cursor), [grokbothq.xyz](https://grokbothq.xyz/bots/cursor), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cursor) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 3 connectors |

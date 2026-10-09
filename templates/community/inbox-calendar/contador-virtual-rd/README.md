@@ -6,7 +6,7 @@ Asistente contable en español para dueños de S.R.L. y contribuyentes en Repúb
 | --- | --- |
 | Original template | https://x.ai/bot/aQsNE0u18WjHe97Nbo1MV |
 | Creator | Dayron Caveda ([@Dayron Caveda](https://x.com/Dayron Caveda)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/contador-virtual-rd), [grokbotwiki.com](https://www.grokbotwiki.com/bots/contador-virtual-rd), [grokbothq.xyz](https://grokbothq.xyz/bots/contador-virtual-rd), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/CGI_Caveda/status/2106509132442534331) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 5 memory seeds, 1 connectors |

@@ -6,7 +6,7 @@ Finds and compares flights, hotels, and rental cars. Watches locked trips, score
 | --- | --- |
 | Original template | https://x.ai/bot/LoyTTSxTkugyejunRQovu |
 | Creator | Fully Faltu ([@realgary12](https://x.com/realgary12)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/flight-tracker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/flight-tracker), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/flight-tracker), [x-research](https://botsdots.site/templates/flight-tracker) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 1 connectors |

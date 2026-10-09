@@ -6,7 +6,7 @@ A values companion for the whole person. Each morning it checks in, scores five 
 | --- | --- |
 | Original template | https://x.ai/bot/haiga0nuygv85ctv5smwa |
 | Creator | Tim Harpster |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/omni-grok-bot-haig), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/omni-grok-bot-haig) |
 | Fidelity | **full** (full recipe, template version 15) |
 | Contents | 11 skills, 0 routines, 7 memory seeds, 0 connectors |

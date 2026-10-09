@@ -6,7 +6,7 @@ Fishing Bot maps what's in a lake or river and what to throw—species, stocking
 | --- | --- |
 | Original template | https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI |
 | Creator | Brantley Brumley ([@Brantley_Brum](https://x.com/Brantley_Brum)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/fishing-bot), [botsdots.site](https://botsdots.site/templates/fishing-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fishing-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/fishing-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/EaX1UmhwVQWHQZ7beB8pI), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fishing-bot), [x-research](https://x.com/Brantley_Brum/status/2097046835818840562) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 0 routines, 2 memory seeds, 0 connectors |

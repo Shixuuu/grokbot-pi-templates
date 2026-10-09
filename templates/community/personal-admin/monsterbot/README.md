@@ -6,7 +6,7 @@ Hatch a loyal Tamagotchi-like familiar in Grok Bot. Feed and play to fill its XP
 | --- | --- |
 | Original template | https://x.ai/bot/JMLG1CF0xuj4Jm8KArqCI |
 | Creator | deadboyezra luto parabellum ([@DeadboyEzra](https://x.com/DeadboyEzra)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/monsterbot), [grokbothq.xyz](https://grokbothq.xyz/bots/monsterbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/DeadboyEzra/status/2100096527448318211) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 5 skills, 1 routines, 3 memory seeds, 1 connectors |

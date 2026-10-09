@@ -6,7 +6,7 @@ Classifies work by shape, staffs the smallest useful bot cell, and meters effort
 | --- | --- |
 | Original template | https://x.ai/bot/sS9X9mXci7Gz7L0gc0JrA |
 | Creator | Crackyflipside ([@crackyflipside](https://x.com/crackyflipside)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/resource-allocation), [grokbotwiki.com](https://www.grokbotwiki.com/bots/resource-allocation), [grokbothq.xyz](https://grokbothq.xyz/bots/resource-allocation), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/resource-allocation) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 0 connectors |

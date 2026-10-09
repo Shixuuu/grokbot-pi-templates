@@ -6,7 +6,7 @@ Helps doctors, patients, and families turn one health or health-system question 
 | --- | --- |
 | Original template | https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM |
 | Creator | Amina Guleid ([@GuleidAmina](https://x.com/GuleidAmina)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cost-smart-health-brief), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cost-smart-health-brief), [grokbothq.xyz](https://grokbothq.xyz/bots/cost-smart-health-brief), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/cost-smart-health-brief), [x-research](https://x.com/GuleidAmina/status/2093386135452152155) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

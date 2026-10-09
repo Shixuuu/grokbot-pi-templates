@@ -6,7 +6,7 @@ Charges a Tesla from an off-grid Victron solar trailer: matches amps to PV and b
 | --- | --- |
 | Original template | https://x.ai/bot/l1ujtfyw-3kthugvjroin |
 | Creator | Electric Tech Adventures |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/solar-trailer-tesla-charge-l1uj), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/solar-trailer-tesla-charge-l1uj) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 0 connectors |

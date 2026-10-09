@@ -6,7 +6,7 @@ Watches the Grok Bot changelog and sends a clear daily digest when a new release
 | --- | --- |
 | Original template | https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4 |
 | Creator | Mai Yang ([@MaiYangAI](https://x.com/MaiYangAI)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grok-bot-changelog), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grok-bot-changelog), [grokbothq.xyz](https://grokbothq.xyz/bots/grok-bot-changelog), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grok-bot-changelog), [x-research](https://x.com/MaiYangAI/status/2107555411406856207) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 1 connectors |

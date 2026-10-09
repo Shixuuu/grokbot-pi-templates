@@ -6,7 +6,7 @@ A personal relationship CRM that keeps a private contact book and reminds you wh
 | --- | --- |
 | Original template | https://x.ai/bot/rDEpX2aSCERCaVJACxNz7 |
 | Creator | Austin Hoopes ([@Austin H](https://x.com/Austin H)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/vern), [grokbotwiki.com](https://www.grokbotwiki.com/bots/vern), [grokbothq.xyz](https://grokbothq.xyz/bots/vern), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/vern), [x-research](https://x.com/ahoop/status/2103809460972200282) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 0 connectors |

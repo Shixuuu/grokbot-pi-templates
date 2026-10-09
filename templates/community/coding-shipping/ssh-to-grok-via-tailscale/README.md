@@ -6,7 +6,7 @@ Installs Tailscale on Grok Bot's computer so you can SSH in with `ssh box@grok-b
 | --- | --- |
 | Original template | https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA |
 | Creator | Altman Sam ([@app_sail](https://x.com/app_sail)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ssh-to-grok-via-tailscale), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ssh-to-grok-bot-via-tailscale), [grokbothq.xyz](https://grokbothq.xyz/bots/ssh-to-grok-bot-via-tailscale), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ssh-to-grok-bot-via-tailscale), [x-research](https://x.com/app_sail/status/2103886508264653232) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 0 connectors |

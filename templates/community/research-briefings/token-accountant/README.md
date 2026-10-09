@@ -6,7 +6,7 @@ by @SuddenlyJon · github.com/Pitchfork-and-Torch Tracks Cursor Models, Other Mo
 | --- | --- |
 | Original template | https://x.ai/bot/zdnVIfLkNmRwZqqogojuc |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/token-accountant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/token-accountant), [grokbothq.xyz](https://grokbothq.xyz/bots/token-accountant), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/zdnVIfLkNmRwZqqogojuc), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/token-accountant), [x-research](https://botsdots.site/templates/token-accountant) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 1 skills, 3 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Your iOS and Android co-pilot from idea to App Store and Google Play. It specs y
 | --- | --- |
 | Original template | https://x.ai/bot/a3EwtQPjFkXZaPZEMGHgY |
 | Creator | MAKE MONEY ([@imsorryindustry](https://x.com/imsorryindustry)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mobile-app-autopilot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mobile-app-autopilot), [grokbothq.xyz](https://grokbothq.xyz/bots/mobile-app-autopilot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mobile-app-autopilot), [x-research](https://botsdots.site/templates/mobile-app-autopilot) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 11 skills, 0 routines, 7 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Use this when you're studying for a journeyman or master electrician exam and wa
 | --- | --- |
 | Original template | https://x.ai/bot/bsuMYiKB-o8yYOl97b8Ed |
 | Creator | Jason Walls ([@walls_jason1](https://x.com/walls_jason1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/nec-exam-drill-coach), [grokbotwiki.com](https://www.grokbotwiki.com/bots/nec-exam-drill-coach), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/nec-exam-drill-coach) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 13 skills, 2 routines, 5 memory seeds, 0 connectors |

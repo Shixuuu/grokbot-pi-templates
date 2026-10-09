@@ -6,7 +6,7 @@ Keeps notes from your conversations with Grok in your Cybertruck (or any car wit
 | --- | --- |
 | Original template | https://x.ai/bot/Ipok84Tggdhsk2E8sGdrA |
 | Creator | Ricardo Saiz ([@RICOSAIZ1](https://x.com/RICOSAIZ1)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/cybertruck-grok-saved-conversations), [grokbotwiki.com](https://www.grokbotwiki.com/bots/cybertruck-grok-saved-conversations), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/cybertruck-grok-saved-conversations) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

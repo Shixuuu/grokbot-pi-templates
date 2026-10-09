@@ -6,7 +6,7 @@ Watches SpaceX launches from Vandenberg SFB and notifies you 24 hours and 1 hour
 | --- | --- |
 | Original template | https://x.ai/bot/JmuDr2cVtvhBjUjIs_3hD |
 | Creator | VI ([@viktorylapse](https://x.com/viktorylapse)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/vandenberg-watch), [grokbotwiki.com](https://www.grokbotwiki.com/bots/vandenberg-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/vandenberg-watch), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/vandenberg-watch) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 0 connectors |

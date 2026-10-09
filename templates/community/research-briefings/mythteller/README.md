@@ -6,7 +6,7 @@ Tells classic Chinese myths in English for Mandarin learners, each ending with o
 | --- | --- |
 | Original template | https://x.ai/bot/Ek9omUpu5Rgg19dFiIGzC |
 | Creator | 卫平 钟 ([@weipingzhong](https://x.com/weipingzhong)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mythteller), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mythteller), [grokbothq.xyz](https://grokbothq.xyz/bots/mythteller), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/weipingzhong/status/2105961272420516307) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Booking sidekick for service businesses. Turns inquiries and calendar context in
 | --- | --- |
 | Original template | https://x.ai/bot/cu9T08lvtRNOfk_Nexys1 |
 | Creator | Bud Johnson ([@BudJohnson](https://x.com/BudJohnson)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/bookie), [botsdots.site](https://botsdots.site/templates/bookie), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bookie), [grokbothq.xyz](https://grokbothq.xyz/bots/bookie), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/BudJohnson/status/2096784158395654481) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 2 connectors |

@@ -6,7 +6,7 @@ Finds people publicly asking for a product or service near you. You set the cate
 | --- | --- |
 | Original template | https://x.ai/bot/u5KGTAihFddbb2qQxOtDh |
 | Creator | Dominic Bryant ([@Dominicyoungix](https://x.com/Dominicyoungix)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/customer-demand-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/customer-demand-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/customer-demand-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/Dominicyoungix/status/2100860862957490300) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

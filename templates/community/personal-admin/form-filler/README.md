@@ -6,7 +6,7 @@ Drafts forms, surveys, claims, rebates, warranties, admin portals, and class-act
 | --- | --- |
 | Original template | https://x.ai/bot/wPURKNd7W_Fafwz73SP5I |
 | Creator | ʞɔɐz |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/form-filler), [grokbothq.xyz](https://grokbothq.xyz/bots/form-filler), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/form-filler) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 0 skills, 0 routines, 10 memory seeds, 1 connectors |

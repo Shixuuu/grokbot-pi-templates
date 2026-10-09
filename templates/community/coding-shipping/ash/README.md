@@ -6,7 +6,7 @@ A systems lead for small teams that run their own servers. It watches self-hoste
 | --- | --- |
 | Original template | https://x.ai/bot/Bt9VFHIMKmo5Psd039r_0 |
 | Creator | Will Killebrew ([@willebrew](https://x.com/willebrew)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ash), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ash), [grokbothq.xyz](https://grokbothq.xyz/bots/ash), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ash) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 8 memory seeds, 2 connectors |

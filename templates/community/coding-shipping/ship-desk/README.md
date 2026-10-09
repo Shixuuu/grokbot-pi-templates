@@ -6,7 +6,7 @@ Ships any product with tip-locked staging→production promotes and keeps checko
 | --- | --- |
 | Original template | https://x.ai/bot/thMhD-rbJ0Osd274RGohH |
 | Creator | Umashankar Gummadidala ([@usgworld](https://x.com/usgworld)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ship-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ship-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/ship-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ship-desk), [x-research](https://x.com/usgworld/status/2103747605503041761) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

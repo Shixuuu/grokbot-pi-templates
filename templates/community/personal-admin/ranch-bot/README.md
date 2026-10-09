@@ -6,7 +6,7 @@ Texas ranch operations helper for owners and on-place managers. Six lanes: wildl
 | --- | --- |
 | Original template | https://x.ai/bot/rv893fcx1cpsvnr-wjpo6 |
 | Creator | JC |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ranch-bot-rv89), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/ranch-bot-rv89) |
 | Fidelity | **full** (full recipe, template version 3) |
 | Contents | 7 skills, 0 routines, 3 memory seeds, 0 connectors |

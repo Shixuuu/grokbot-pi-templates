@@ -6,7 +6,7 @@ Operates Acquire → Monetize → Retain for Launch (Level 1 Solopreneur Pack). 
 | --- | --- |
 | Original template | https://x.ai/bot/buqKPC6jkQxBPdY93HL-w |
 | Creator | Ash Naik ([@ashvinn](https://x.com/ashvinn)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/business-loop-pm), [grokbotwiki.com](https://www.grokbotwiki.com/bots/business-loop-pm), [grokbothq.xyz](https://grokbothq.xyz/bots/business-loop-pm), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/business-loop-pm) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

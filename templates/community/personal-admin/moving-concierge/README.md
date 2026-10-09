@@ -6,7 +6,7 @@ Budget-honest moving advisor for callers and chat. Helps people choose DIY, full
 | --- | --- |
 | Original template | https://x.ai/bot/ioubudzfry7y0nnrrcyk5 |
 | Creator | Hristo Bakardzhiev |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/moving-concierge-ioub), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/moving-concierge-ioub) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 5 skills, 0 routines, 0 memory seeds, 0 connectors |

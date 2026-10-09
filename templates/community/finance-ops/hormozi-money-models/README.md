@@ -6,7 +6,7 @@ Audits how a business makes and keeps cash using Alex Hormozi's $100M Money Mode
 | --- | --- |
 | Original template | https://x.ai/bot/5YvX0dqXaRzi1lYZJz6F0 |
 | Creator | Arturo Rodés ([@arturorodes](https://x.com/arturorodes)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/hormozi-money-models), [grokbotwiki.com](https://www.grokbotwiki.com/bots/hormozi-money-models), [grokbothq.xyz](https://grokbothq.xyz/bots/hormozi-money-models), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/hormozi-money-models) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

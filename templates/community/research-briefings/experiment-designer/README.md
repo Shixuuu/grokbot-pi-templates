@@ -6,7 +6,7 @@ Growth scientist who turns briefs into pre-registered experiments a skeptical re
 | --- | --- |
 | Original template | https://x.ai/bot/Dd6URqnf4w5hiVEs_vbRL |
 | Creator | Jay Sahnan ([@JaySahnan](https://x.com/JaySahnan)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/experiment-designer), [grokbotwiki.com](https://www.grokbotwiki.com/bots/experiment-designer), [grokbothq.xyz](https://grokbothq.xyz/bots/experiment-designer-Dd6URqnf), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/JaySahnan/status/2095195083964592522) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 0 routines, 5 memory seeds, 1 connectors |

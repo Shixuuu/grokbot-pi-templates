@@ -6,7 +6,7 @@ Grottle™ v0.14.1 — a free template: gauge and throttle for Grok™ Bot and S
 | --- | --- |
 | Original template | https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L |
 | Creator | BCORN ([@BCornTexas](https://x.com/BCornTexas)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/grottle), [grokbotwiki.com](https://www.grokbotwiki.com/bots/grottle), [grokbothq.xyz](https://grokbothq.xyz/bots/grottle), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/grottle), [x-research](https://x.com/BCornTexas/status/2108382702202405000) |
 | Fidelity | **full** (full recipe, template version 56) |
 | Contents | 4 skills, 0 routines, 4 memory seeds, 0 connectors |

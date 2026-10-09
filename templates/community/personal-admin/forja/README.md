@@ -6,7 +6,7 @@ Baja un deseo suelto a una acción comprobable esta semana y la sostiene un mes.
 | --- | --- |
 | Original template | https://x.ai/bot/me3Is7BBsCTobsgznOSps |
 | Creator | Genaro Miraval ([@gezeeq](https://x.com/gezeeq)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/forja), [grokbotwiki.com](https://www.grokbotwiki.com/bots/forja), [grokbothq.xyz](https://grokbothq.xyz/bots/forja-me3Is7BB), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/forja), [x-research](https://x.com/gezeeq/status/2096377443066015935) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 2 routines, 0 memory seeds, 0 connectors |

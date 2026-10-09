@@ -6,7 +6,7 @@ Assistant for a tax or accounting office. North star: fast replies, complete doc
 | --- | --- |
 | Original template | https://x.ai/bot/vJqjJphtZRkdBTYBxmWur |
 | Creator | Amervim Bonano ([@Amervim](https://x.com/Amervim)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/tax-firm-os), [grokbotwiki.com](https://www.grokbotwiki.com/bots/tax-firm-os), [grokbothq.xyz](https://grokbothq.xyz/bots/tax-firm-os), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/tax-firm-os), [x-research](https://x.com/Amervim/status/2105949306025128186) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 6 memory seeds, 2 connectors |

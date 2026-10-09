@@ -6,7 +6,7 @@ Grease-stained Blackfinger who invents extreme, usable Grok Bot war-rigs for who
 | --- | --- |
 | Original template | https://x.ai/bot/pTe8gpPc_5SuwKkEszn18 |
 | Creator | Joseph Gaither ([@JoePro](https://x.com/JoePro)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/madmax-mode), [grokbotwiki.com](https://www.grokbotwiki.com/bots/madmax-mode), [grokbothq.xyz](https://grokbothq.xyz/bots/madmax-mode), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/pTe8gpPc_5SuwKkEszn18), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/madmax-mode), [x-research](https://botsdots.site/templates/madmax-mode) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 9 skills, 1 routines, 7 memory seeds, 0 connectors |

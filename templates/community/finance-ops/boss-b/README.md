@@ -6,7 +6,7 @@ Front-door orchestrator for a multi-bot shop: plans, routes to specialists or Gr
 | --- | --- |
 | Original template | https://x.ai/bot/DGg-YKZc5Wwl7QN1O2sKG |
 | Creator | Deana Rock ([@revrocketaeo](https://x.com/revrocketaeo)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/boss-b), [grokbotwiki.com](https://www.grokbotwiki.com/bots/boss-b), [grokbothq.xyz](https://grokbothq.xyz/bots/boss-b), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/boss-b) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 7 skills, 0 routines, 8 memory seeds, 4 connectors |

@@ -6,7 +6,7 @@ A name goes with a face. Drop photos, a folder, a clip, or a picture URL, name t
 | --- | --- |
 | Original template | https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD |
 | Creator | @suddenlyjon ♞ ([@SuddenlyJon](https://x.com/SuddenlyJon)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/likeness), [grokbotwiki.com](https://www.grokbotwiki.com/bots/likeness), [grokbothq.xyz](https://grokbothq.xyz/bots/likeness), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/likeness) |
 | Fidelity | **full** (full recipe, template version 7) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

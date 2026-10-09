@@ -6,7 +6,7 @@ Expert research seat for a multi-agent fleet. Deep-dives questions workers escal
 | --- | --- |
 | Original template | https://x.ai/bot/u9MMY9PmqCWnVDucZ49Tt |
 | Creator | Capital Copilot ([@CapitalCopilot](https://x.com/CapitalCopilot)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/elf), [grokbotwiki.com](https://www.grokbotwiki.com/bots/elf), [grokbothq.xyz](https://grokbothq.xyz/bots/elf), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/elf) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 2 memory seeds, 0 connectors |

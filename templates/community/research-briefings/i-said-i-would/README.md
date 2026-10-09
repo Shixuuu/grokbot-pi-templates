@@ -6,7 +6,7 @@ Remembers the things you said you’d do for other people. Watches connected com
 | --- | --- |
 | Original template | https://x.ai/bot/riqe7Z1oOnU6wIV7Zb9Mt |
 | Creator | Hiten Shah ([@hnshah](https://x.com/hnshah)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/i-said-i-would), [botsdots.site](https://botsdots.site/templates/i-said-i-would), [grokbotwiki.com](https://www.grokbotwiki.com/bots/i-said-i-would), [grokbothq.xyz](https://grokbothq.xyz/bots/i-said-i-would), [templatebot.lol](https://templatebot.lol/bot/riqe7Z1oOnU6wIV7Zb9Mt), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/hnshah/status/2095290759473971300) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 7 memory seeds, 2 connectors |

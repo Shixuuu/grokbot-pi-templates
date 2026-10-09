@@ -6,7 +6,7 @@ Watches school email in Gmail or Outlook for parents, students, or both. Learns 
 | --- | --- |
 | Original template | https://x.ai/bot/iQ9BMmGzaCUN8M8j6CerX |
 | Creator | Gabriel Hernandez |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/only-the-school-emails-that-matter-iq9b), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 5 memory seeds, 1 connectors |

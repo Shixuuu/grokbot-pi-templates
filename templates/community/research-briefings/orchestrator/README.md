@@ -6,7 +6,7 @@ Runs a multi-bot workforce for a daily trading-day research brief: role cards, r
 | --- | --- |
 | Original template | https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo |
 | Creator | R O ([@keepclmcarryong](https://x.com/keepclmcarryong)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/orchestrator), [grokbotwiki.com](https://www.grokbotwiki.com/bots/orchestrator), [grokbothq.xyz](https://grokbothq.xyz/bots/orchestrator-keepclmcarryong), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/orchestrator), [x-research](https://x.com/keepclmcarryong/status/2101887744880361700) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 5 memory seeds, 1 connectors |

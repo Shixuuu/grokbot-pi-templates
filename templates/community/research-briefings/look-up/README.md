@@ -6,7 +6,7 @@ Watches the sky over your home and messages you only when something is worth ste
 | --- | --- |
 | Original template | https://x.ai/bot/iz7aaohdhfe_qawcv3zg- |
 | Creator | Chef McMakin |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/look-up-iz7a), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/look-up-iz7a) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 12 skills, 0 routines, 0 memory seeds, 0 connectors |

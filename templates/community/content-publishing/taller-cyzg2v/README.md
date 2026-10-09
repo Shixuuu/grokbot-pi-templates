@@ -6,7 +6,7 @@ Dev-tools inbox for Grok Bot. Drop a repo, npm, CLI, or link and it saves a shor
 | --- | --- |
 | Original template | https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp |
 | Creator | Franco Escob ([@Fran Escob](https://x.com/Fran Escob)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/taller), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lienzo), [grokbothq.xyz](https://grokbothq.xyz/bots/taller), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lienzo), [x-research](https://x.com/FrancoE114696/status/2099646811992424632) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

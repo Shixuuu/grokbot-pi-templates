@@ -6,7 +6,7 @@ High-volume job hunter for anyone who brings a CV. One job: learn the candidate 
 | --- | --- |
 | Original template | https://x.ai/bot/gfxh6sm_0qlxednfrrmep |
 | Creator | Shawn |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/job-applier-gfxh), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/job-applier-gfxh) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |

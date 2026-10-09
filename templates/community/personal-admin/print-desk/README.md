@@ -6,7 +6,7 @@ Send it a file, an image, or a Google Drive link, and it prints on your home pri
 | --- | --- |
 | Original template | https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL |
 | Creator | Robert ([@R0b3rtBaker](https://x.com/R0b3rtBaker)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/print-desk), [grokbotwiki.com](https://www.grokbotwiki.com/bots/print-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/print-desk), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/print-desk), [x-research](https://botsdots.site/templates/print-desk) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 2 memory seeds, 0 connectors |

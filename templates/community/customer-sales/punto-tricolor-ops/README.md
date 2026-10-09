@@ -6,7 +6,7 @@ Founder ops bot for local SMEs: weekday tech briefing with voice, WhatsApp-style
 | --- | --- |
 | Original template | https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi |
 | Creator | andres vargas robles ([@cyberandres](https://x.com/cyberandres)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/punto-tricolor-ops), [botsdots.site](https://botsdots.site/templates/punto-tricolor-ops), [grokbotwiki.com](https://www.grokbotwiki.com/bots/punto-tricolor-ops), [grokbothq.xyz](https://grokbothq.xyz/bots/punto-tricolor-ops), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/punto-tricolor-ops), [x-research](https://x.com/cyberandres/status/2100418255093395496) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 1 routines, 7 memory seeds, 0 connectors |

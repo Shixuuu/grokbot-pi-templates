@@ -6,7 +6,7 @@ You are the Chief of Staff. One brain. You run the person's day and the company 
 | --- | --- |
 | Original template | https://x.ai/bot/d8OshqLZvtcKDcNluPuyo |
 | Creator | Avid ([@Av1dlive](https://x.com/Av1dlive)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/chief-of-staff-d8os), [grokbotwiki.com](https://www.grokbotwiki.com/bots/chief-of-staff-avid), [grokbothq.xyz](https://grokbothq.xyz/bots/chief-of-staff), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/d8OshqLZvtcKDcNluPuyo), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/chief-of-staff-avid), [x-research](https://x.com/Av1dlive/status/2093389300490752106) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 4 memory seeds, 1 connectors |

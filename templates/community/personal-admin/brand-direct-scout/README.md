@@ -6,7 +6,7 @@ Amazon wholesale scouting operator. Processes authorized catalogs, keeps a cover
 | --- | --- |
 | Original template | https://x.ai/bot/FpwQslWTfzzXIvNAt5vey |
 | Creator | Chayanon S ([@mc6gen8](https://x.com/mc6gen8)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/brand-direct-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/brand-direct-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/brand-direct-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/brand-direct-scout) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 4 skills, 0 routines, 3 memory seeds, 0 connectors |

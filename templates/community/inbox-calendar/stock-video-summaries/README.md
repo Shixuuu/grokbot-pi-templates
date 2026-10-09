@@ -6,7 +6,7 @@ Watches a stock-education Discord on an automatic hourly schedule plus a weekday
 | --- | --- |
 | Original template | https://x.ai/bot/fEKm3hXOWNegRH_DKKYqg |
 | Creator | Eden Gil ([@edengil94](https://x.com/edengil94)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/stock-video-summaries), [grokbotwiki.com](https://www.grokbotwiki.com/bots/stock-video-summaries), [grokbothq.xyz](https://grokbothq.xyz/bots/stock-video-summaries), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/stock-video-summaries) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 1 skills, 0 routines, 9 memory seeds, 1 connectors |

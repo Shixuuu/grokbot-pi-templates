@@ -6,7 +6,7 @@ A weekly usage auditor for Grok Bot teams. It inventories routines, scores relat
 | --- | --- |
 | Original template | https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2 |
 | Creator | Max ([@maxjean__](https://x.com/maxjean__)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/usage-auditor), [grokbotwiki.com](https://www.grokbotwiki.com/bots/usage-auditor), [grokbothq.xyz](https://grokbothq.xyz/bots/usage-auditor), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/M5vd5Dp9Et4EZQ3Ik3Hn2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/usage-auditor), [x-research](https://botsdots.site/templates/usage-auditor) |
 | Fidelity | **full** (full recipe, template version 17) |
 | Contents | 3 skills, 0 routines, 3 memory seeds, 0 connectors |

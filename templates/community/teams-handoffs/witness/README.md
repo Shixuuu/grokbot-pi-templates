@@ -6,7 +6,7 @@ Remember why important decisions were made so the user never reconstructs the re
 | --- | --- |
 | Original template | https://x.ai/bot/p_0KTQ41WwupGeD-iShbK |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/witness), [botsdots.site](https://botsdots.site/templates/witness), [grokbotwiki.com](https://www.grokbotwiki.com/bots/witness), [grokbothq.xyz](https://grokbothq.xyz/bots/witness), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/p_0KTQ41WwupGeD-iShbK), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/witness), [x-research](https://x.com/liam_fallen/status/2093383141901709505) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 1 routines, 1 memory seeds, 3 connectors |

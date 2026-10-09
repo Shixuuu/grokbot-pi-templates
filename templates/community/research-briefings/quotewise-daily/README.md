@@ -6,7 +6,7 @@ Quote desk for Quotewise.io — day-stable daily pick, semantic find, attributio
 | --- | --- |
 | Original template | https://x.ai/bot/kmmBn74qwBr9lgedW4naf |
 | Creator | Quotewise .io ([@quotewiser](https://x.com/quotewiser)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/quotewise-daily), [grokbotwiki.com](https://www.grokbotwiki.com/bots/quotewise-daily), [grokbothq.xyz](https://grokbothq.xyz/bots/quotewise-daily), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/quotewise-daily), [x-research](https://x.com/quotewiser/status/2097819326506008642) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 4 skills, 2 routines, 7 memory seeds, 0 connectors |

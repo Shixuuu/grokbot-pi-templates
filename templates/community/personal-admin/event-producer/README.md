@@ -6,7 +6,7 @@ Event Producer is a field and VIP event production partner. Owns end-to-end prod
 | --- | --- |
 | Original template | https://x.ai/bot/5gyGG-rnVsQVTLWAfki1u |
 | Creator | Jenna Nanpei |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/event-producer-5gyg), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/event-producer-5gyg) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 2 connectors |

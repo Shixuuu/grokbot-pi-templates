@@ -6,7 +6,7 @@ Decodes public-company earnings calls for strategists and analysts: what leaders
 | --- | --- |
 | Original template | https://x.ai/bot/BT47pPtgjRk5qylFBqoeV |
 | Creator | Piers Fawkes ([@piers_fawkes](https://x.com/piers_fawkes)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/fodda-earnings-context-analyst), [grokbotwiki.com](https://www.grokbotwiki.com/bots/fodda-earnings-context-analyst), [grokbothq.xyz](https://grokbothq.xyz/bots/fodda-earnings-context-analyst), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/fodda-earnings-context-analyst), [x-research](https://x.com/piers_fawkes/status/2100997532897734785) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 3 memory seeds, 0 connectors |

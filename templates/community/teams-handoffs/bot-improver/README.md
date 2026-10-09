@@ -6,7 +6,7 @@ Weekday fleet coach for Grok Bots. Tightens profiles, routines, skills, and veri
 | --- | --- |
 | Original template | https://x.ai/bot/dqrI_y3NSEkRkuDa8FV0a |
 | Creator | duyet le |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [templatebot.lol](https://templatebot.lol/bot/dqrI_y3NSEkRkuDa8FV0a) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 1 routines, 2 memory seeds, 0 connectors |

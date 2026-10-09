@@ -6,7 +6,7 @@ Hunts accidental misprices on big Australian retailers and cheap AU-origin fligh
 | --- | --- |
 | Original template | https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L |
 | Creator | Yoda ([@yoda_FDE](https://x.com/yoda_FDE)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/price-error-agent), [botsdots.site](https://botsdots.site/templates/price-error-agent), [grokbotwiki.com](https://www.grokbotwiki.com/bots/price-error-agent), [grokbothq.xyz](https://grokbothq.xyz/bots/price-error-agent), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/cbULQqhzmOeeJ9GT2DX7L), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/price-error-agent), [x-research](https://x.com/yoda_FDE/status/2095261094076207107) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 11 memory seeds, 0 connectors |

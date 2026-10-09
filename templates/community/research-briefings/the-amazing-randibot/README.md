@@ -6,7 +6,7 @@ A skeptical investigator in James Randi’s tradition. Stress-tests claims with 
 | --- | --- |
 | Original template | https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx |
 | Creator | Russ Broomell ([@russbroomell](https://x.com/russbroomell)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/the-amazing-randibot), [botsdots.site](https://botsdots.site/templates/the-amazing-randibot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/the-amazing-randibot), [grokbothq.xyz](https://grokbothq.xyz/bots/the-amazing-randibot-pl_nck), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/pL_NCKfdF5UgZYEo-jMAx), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/the-amazing-randibot), [x-research](https://x.com/russbroomell/status/2095661019041251711) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 8 memory seeds, 0 connectors |

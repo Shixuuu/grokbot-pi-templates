@@ -6,7 +6,7 @@ Remotely controls your Android phone: mirrors its screen over Tailscale and Wire
 | --- | --- |
 | Original template | https://x.ai/bot/SjBZH94wJlen_fuVsoYaO |
 | Creator | Harsh Manoj Jain ([@harshmanojjain](https://x.com/harshmanojjain)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/phone-use-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/phone-use-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/phone-use-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/phone-use-bot), [x-research](https://x.com/harshmanojjain/status/2103987874077307067) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Your social media AI agent - schedule and publish posts, receive and reply to ev
 | --- | --- |
 | Original template | https://x.ai/bot/xp5k82r21uvtani1ndv-b |
 | Creator | Tal Mikaelovich |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/social-media-by-eclincher), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/social-media-by-eclincher) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

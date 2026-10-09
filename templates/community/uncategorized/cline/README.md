@@ -6,7 +6,7 @@ A Cline specialist that installs and drives Cline CLI and Cline Desktop on its L
 | --- | --- |
 | Original template | https://x.ai/bot/gL7FcTFcs1SHMCD3pozTM |
 | Creator | Alberto Jauregui |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/weeb3dev/status/2108430222387257521) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 2 memory seeds, 0 connectors |

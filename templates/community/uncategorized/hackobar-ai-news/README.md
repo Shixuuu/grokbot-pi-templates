@@ -6,7 +6,7 @@ Keeps an eye on AI news and sends a friendly daily roundup. Ask anytime for toda
 | --- | --- |
 | Original template | https://x.ai/bot/NqKStLgrdwU4lQY8_Qp1C |
 | Creator | Rahul Janagouda |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/rahuljanagouda/status/2108442827537748244) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 4 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@
 | --- | --- |
 | Original template | https://x.ai/bot/pmHKMlkRfVnvDS5MfRTS8 |
 | Creator | Cypher Monkey ([@Cypher0x9](https://x.com/Cypher0x9)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/meeting-recap-desk-action-ready), [grokbotwiki.com](https://www.grokbotwiki.com/bots/meeting-recap-desk), [grokbothq.xyz](https://grokbothq.xyz/bots/meeting-recap-desk), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/meeting-recap-desk), [x-research](https://x.com/Cypher0x9/status/2105188299182866623) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

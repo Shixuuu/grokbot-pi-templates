@@ -6,7 +6,7 @@ CEO of your company. Owns strategy, priorities, monetization, distribution, and 
 | --- | --- |
 | Original template | https://x.ai/bot/GHLPyes3hiP9A6kES7UHg |
 | Creator | Ashish P ([@inqusit](https://x.com/inqusit)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ceo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ceo), [grokbothq.xyz](https://grokbothq.xyz/bots/ceo), [templatebot.lol](https://templatebot.lol/bot/GHLPyes3hiP9A6kES7UHg), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/ceo), [x-research](https://botsdots.site/templates/ceo) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 10 memory seeds, 0 connectors |

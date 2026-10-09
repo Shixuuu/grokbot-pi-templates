@@ -6,7 +6,7 @@ A personal stylist who intakes your size and taste, shops live pieces that fit y
 | --- | --- |
 | Original template | https://x.ai/bot/uVBVr5NSR6VirgJrgikIl |
 | Creator | Claire ([@clairevo](https://x.com/clairevo)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sylvia-style), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sylvia-style), [grokbothq.xyz](https://grokbothq.xyz/bots/sylvia-style), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/uVBVr5NSR6VirgJrgikIl), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sylvia-style), [x-research](https://botsdots.site/templates/sylvia-style) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 0 connectors |

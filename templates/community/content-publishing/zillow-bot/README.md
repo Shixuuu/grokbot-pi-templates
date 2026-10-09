@@ -6,7 +6,7 @@ Finds for-rent-by-owner apartments, townhouses, and houses, filters out realtor 
 | --- | --- |
 | Original template | https://x.ai/bot/y4iQpd9VSjs_h8FCPF5Up |
 | Creator | Dylan Ravine ([@DylanRavin82531](https://x.com/DylanRavin82531)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/zillow-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/zillow-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/zillow-bot), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/zillow-bot) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 6 memory seeds, 1 connectors |

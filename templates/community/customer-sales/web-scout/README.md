@@ -6,7 +6,7 @@ Finds local businesses with missing, dated, or broken websites, confirms the pro
 | --- | --- |
 | Original template | https://x.ai/bot/_MizHdKs_UitKL3zoChMD |
 | Creator | Josh Meyer ([@JoshMeyer](https://x.com/JoshMeyer)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/web-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/web-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/web-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/web-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 3 skills, 0 routines, 0 memory seeds, 1 connectors |

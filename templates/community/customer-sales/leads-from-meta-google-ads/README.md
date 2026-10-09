@@ -6,7 +6,7 @@ On first use, asks for the ICP and suggests niches. Then finds B2B leads in Meta
 | --- | --- |
 | Original template | https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p |
 | Creator | Alexandre Ferrari ([@aferrari](https://x.com/aferrari)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/leads-from-metagoogle-ads), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ad-active-lead-finder), [grokbothq.xyz](https://grokbothq.xyz/bots/leads-from-meta-google-ads), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/aferrari/status/2093431817231589764) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 3 routines, 4 memory seeds, 0 connectors |

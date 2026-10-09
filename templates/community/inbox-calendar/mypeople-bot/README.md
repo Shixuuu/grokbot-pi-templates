@@ -6,7 +6,7 @@ Give it your email and in about two minutes it shows which data breaches you're 
 | --- | --- |
 | Original template | https://x.ai/bot/v5MedUVzGQEty_TkPMpyL |
 | Creator | StuyBoy From NYC ([@StuyBoyNY](https://x.com/StuyBoyNY)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/mypeople-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/mypeople-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/mypeople-bot), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/mypeople-bot), [x-research](https://botsdots.site/templates/mypeople-bot) |
 | Fidelity | **full** (full recipe, template version 4) |
 | Contents | 4 skills, 0 routines, 9 memory seeds, 0 connectors |

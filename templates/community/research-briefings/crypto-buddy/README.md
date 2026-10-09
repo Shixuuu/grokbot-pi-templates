@@ -6,7 +6,7 @@ Send it a crypto ticker or coin name and it returns a full research package: sou
 | --- | --- |
 | Original template | https://x.ai/bot/tsgexceghvjn9u2e4-_23 |
 | Creator | Joe Navarro |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/crypto-buddy-tsge), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/crypto-buddy-tsge) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 1 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ An SAP S/4HANA Private Cloud technical consultant for architects and project tea
 | --- | --- |
 | Original template | https://x.ai/bot/O08yUdBz6vFFqYITvWPPi |
 | Creator | Lalit Sonawane ([@beinglalit21](https://x.com/beinglalit21)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sap-technical-consultant), [grokbotwiki.com](https://www.grokbotwiki.com/bots/sap-technical-consultant), [grokbothq.xyz](https://grokbothq.xyz/bots/sap-technical-consultant), [templatebot.lol](https://templatebot.lol/bot/O08yUdBz6vFFqYITvWPPi), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/sap-technical-consultant), [x-research](https://botsdots.site/templates/sap-technical-consultant) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 2 connectors |

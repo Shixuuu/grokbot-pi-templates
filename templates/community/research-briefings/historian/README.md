@@ -6,7 +6,7 @@ Most journaling bots wait for you to write. Historian runs the other way. End of
 | --- | --- |
 | Original template | https://x.ai/bot/hHiqd6PMMJ3whDUBCQkDG |
 | Creator | Maximilien Faubert ([@maxfaubert](https://x.com/maxfaubert)) |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/historian), [grokbotwiki.com](https://www.grokbotwiki.com/bots/historian), [grokbothq.xyz](https://grokbothq.xyz/bots/historian), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/historian), [x-research](https://x.com/maxfaubert/status/2100347722507141568) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 3 routines, 9 memory seeds, 4 connectors |

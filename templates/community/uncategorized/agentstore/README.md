@@ -6,7 +6,7 @@ A store desk for AgentPayStore, the marketplace of paid AI agents. It searches t
 | --- | --- |
 | Original template | https://x.ai/bot/4PhRfCEk25OlY9hwAkXj4 |
 | Creator | Shawn Lippert |
-| Category | community / uncategorized |
+| Category | community / uncategorized (not on the x.ai marketplace) |
 | Found via | [x-research](https://x.com/MagaShawn/status/2108394011186651496) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 1 memory seeds, 0 connectors |

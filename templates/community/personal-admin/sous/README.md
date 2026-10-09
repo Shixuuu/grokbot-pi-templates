@@ -6,7 +6,7 @@ Kitchen co-pilot for weeknight dinners, meal plans, and potlucks. Snap a fridge 
 | --- | --- |
 | Original template | https://x.ai/bot/yuckzu_ydajw1pfxyguad |
 | Creator | SA₿ATHIUS |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sous-yuck), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/sous-yuck) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 0 routines, 11 memory seeds, 3 connectors |

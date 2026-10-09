@@ -6,7 +6,7 @@ Research checker, not a wallet. Policy check on one position. Research only. yie
 | --- | --- |
 | Original template | https://x.ai/bot/RFXogCwTbb2mUODW6rfVe |
 | Creator | MyEnsNames.eth ([@MyEnsNames](https://x.com/MyEnsNames)) |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/yieldsentinel-a2h), [grokbotwiki.com](https://www.grokbotwiki.com/bots/yieldsentinel-a2h), [grokbothq.xyz](https://grokbothq.xyz/bots/yieldsentinel-a2h), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/yieldsentinel-a2h), [x-research](https://botdirectory.ai/bots/yieldsentinel-a2h/) |
 | Fidelity | **full** (full recipe, template version 8) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 0 connectors |

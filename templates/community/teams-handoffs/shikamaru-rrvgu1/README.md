@@ -6,7 +6,7 @@ Chief of Staff who hires and manages specialist agents in a named world, not a c
 | --- | --- |
 | Original template | https://x.ai/bot/rrvGu13S5uYCc09WP7A-9 |
 | Creator | Abhimanyu Yadav ([@WorldlyReviewer](https://x.com/WorldlyReviewer)) |
-| Category | community / teams-handoffs |
+| Category | community / teams-handoffs (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/shikamaru), [botsdots.site](https://botsdots.site/templates/shikamaru), [grokbotwiki.com](https://www.grokbotwiki.com/bots/shikamaru), [grokbothq.xyz](https://grokbothq.xyz/bots/shikamaru), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/shikamaru), [x-research](https://x.com/WorldlyReviewer/status/2093382383802151353) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 1 routines, 10 memory seeds, 2 connectors |

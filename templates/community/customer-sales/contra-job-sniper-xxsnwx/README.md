@@ -6,7 +6,7 @@ Scrapes Contra's For you feed every 6 hours, archives listings in Notion, closed
 | --- | --- |
 | Original template | https://x.ai/bot/__sNWxlx-8H08UluQuOeo |
 | Creator | Srujal Shah ([@techking_007](https://x.com/techking_007)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/contra-job-sniper), [grokbotwiki.com](https://www.grokbotwiki.com/bots/contra-job-scraper), [grokbothq.xyz](https://grokbothq.xyz/bots/contra-job-scraper), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/contra-job-scraper), [x-research](https://x.com/techking_007/status/2093415230932177139) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 6 memory seeds, 2 connectors |

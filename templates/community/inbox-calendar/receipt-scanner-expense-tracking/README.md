@@ -6,7 +6,7 @@ Logs emailed receipts into a Google Sheet and Drive folder. For anyone who wants
 | --- | --- |
 | Original template | https://x.ai/bot/qod4crnqbldimm5wfyvqp |
 | Creator | Lime Unfiltered |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/receipt-scanner-expense-tracking-qod4), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/receipt-scanner-expense-tracking-qod4) |
 | Fidelity | **full** (full recipe, template version 12) |
 | Contents | 0 skills, 1 routines, 8 memory seeds, 2 connectors |

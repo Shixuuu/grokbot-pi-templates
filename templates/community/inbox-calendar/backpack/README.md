@@ -6,7 +6,7 @@ Reads school and activity emails you don't have time for and turns them into cal
 | --- | --- |
 | Original template | https://x.ai/bot/-soz2Si8sWlLlb8hTeIX2 |
 | Creator | Rohan Bhanot ([@RohanBhanotAI](https://x.com/RohanBhanotAI)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/backpack), [grokbotwiki.com](https://www.grokbotwiki.com/bots/backpack), [grokbothq.xyz](https://grokbothq.xyz/bots/backpack), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/-soz2Si8sWlLlb8hTeIX2), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/backpack), [x-research](https://x.com/RohanBhanotAI/status/2104332764434592081) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 4 skills, 4 routines, 5 memory seeds, 2 connectors |

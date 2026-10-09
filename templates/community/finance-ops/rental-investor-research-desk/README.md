@@ -6,7 +6,7 @@ A research assistant for small rental-property investors. It screens for-sale li
 | --- | --- |
 | Original template | https://x.ai/bot/L7E3Eh2-CBKZbq4EsO6mt |
 | Creator | Tom Faulkner |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [grokbothq.xyz](https://grokbothq.xyz/bots/rental-investor-research-desk), [x-research](https://x.com/west_linux/status/2107963071113122007) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 4 skills, 0 routines, 12 memory seeds, 0 connectors |

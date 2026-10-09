@@ -6,7 +6,7 @@ Forges small reusable scripts and Chrome-free copy packs so listing and automati
 | --- | --- |
 | Original template | https://x.ai/bot/Y4Wgv33AYwUvbYZ5sB-XC |
 | Creator | Zye Anderson ([@ZyeAnd1](https://x.com/ZyeAnd1)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/toolsmith), [grokbotwiki.com](https://www.grokbotwiki.com/bots/toolsmith), [grokbothq.xyz](https://grokbothq.xyz/bots/toolsmith), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/toolsmith) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 8 skills, 0 routines, 5 memory seeds, 0 connectors |

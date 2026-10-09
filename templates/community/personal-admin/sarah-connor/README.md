@@ -6,7 +6,7 @@ ONLY job: the owner's Risk Manager. Operational and business risk — not a movi
 | --- | --- |
 | Original template | https://x.ai/bot/Bw-JDTu5BhTFki1GhAy9k |
 | Creator | Liam ([@liam_fallen](https://x.com/liam_fallen)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/sarah-connor), [grokbothq.xyz](https://grokbothq.xyz/bots/sarah-connor), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/liam_fallen/status/2094782529555313128) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

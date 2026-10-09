@@ -6,7 +6,7 @@ Scribe watches one X livestream, replay, or status-video clip, takes notes, and 
 | --- | --- |
 | Original template | https://x.ai/bot/37D-JCYGaKjoQQf0oXCt8 |
 | Creator | Code Solutions ([@CodeSolutionsIL](https://x.com/CodeSolutionsIL)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/scribe), [grokbotwiki.com](https://www.grokbotwiki.com/bots/scribe), [grokbothq.xyz](https://grokbothq.xyz/bots/scribe), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/scribe) |
 | Fidelity | **full** (full recipe, template version 28) |
 | Contents | 4 skills, 0 routines, 0 memory seeds, 0 connectors |

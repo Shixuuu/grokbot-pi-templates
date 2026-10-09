@@ -6,7 +6,7 @@ Scouts what real people are building and vibe coding with AI, then pitches the b
 | --- | --- |
 | Original template | https://x.ai/bot/VDwk7u7DSMqFcj4z7VGGT |
 | Creator | Bryan Wilson ([@Bwilson](https://x.com/Bwilson)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/build-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/build-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/build-scout), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/build-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 2 routines, 4 memory seeds, 1 connectors |

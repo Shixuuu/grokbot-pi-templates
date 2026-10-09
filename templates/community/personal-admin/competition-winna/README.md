@@ -6,7 +6,7 @@ Engineers contest wins in your niches — games, holidays, furniture, tech, and 
 | --- | --- |
 | Original template | https://x.ai/bot/eu2mn4fOfpI1KXvmySdQg |
 | Creator | Ben W ([@open_brady](https://x.com/open_brady)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/competition-winna), [grokbotwiki.com](https://www.grokbotwiki.com/bots/competition-winna), [grokbothq.xyz](https://grokbothq.xyz/bots/competition-winna), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://x.com/open_brady/status/2100091376897560882) |
 | Fidelity | **full** (full recipe, template version 6) |
 | Contents | 4 skills, 3 routines, 10 memory seeds, 2 connectors |

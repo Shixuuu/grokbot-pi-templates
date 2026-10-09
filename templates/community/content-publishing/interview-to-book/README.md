@@ -6,7 +6,7 @@ Choose a life arc. One question at a time. Turn spoken answers into a printable 
 | --- | --- |
 | Original template | https://x.ai/bot/XuGcpLoS77HdZoupGOlnp |
 | Creator | jack hu ([@jackhu_bangzhu](https://x.com/jackhu_bangzhu)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/interview-to-book), [grokbotwiki.com](https://www.grokbotwiki.com/bots/interview-to-book), [grokbothq.xyz](https://grokbothq.xyz/bots/interview-to-book), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/interview-to-book), [x-research](https://x.com/jackhu_bangzhu/status/2103734020211442101) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 3 skills, 0 routines, 4 memory seeds, 0 connectors |

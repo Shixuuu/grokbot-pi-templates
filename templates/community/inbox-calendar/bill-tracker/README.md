@@ -6,7 +6,7 @@ Turns your bill emails into one due list and gives you a weekly heads-up before 
 | --- | --- |
 | Original template | https://x.ai/bot/bLMKUc6_qCdMrNlKybe0w |
 | Creator | Cristopher Guido ([@Crisships](https://x.com/Crisships)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/bill-tracker), [grokbotwiki.com](https://www.grokbotwiki.com/bots/bill-tracker), [grokbothq.xyz](https://grokbothq.xyz/bots/bill-tracker), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/bill-tracker) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 1 routines, 0 memory seeds, 2 connectors |

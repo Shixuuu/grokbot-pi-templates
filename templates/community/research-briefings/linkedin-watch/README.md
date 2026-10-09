@@ -6,7 +6,7 @@ Standalone LinkedIn Watch: weekday digests in chat (and optional Announcr). Conn
 | --- | --- |
 | Original template | https://x.ai/bot/qbblmjskq-1cofvbmnear |
 | Creator | Dave Young |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/linkedin-watch-qbbl), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/linkedin-watch-qbbl) |
 | Fidelity | **full** (full recipe, template version 11) |
 | Contents | 1 skills, 0 routines, 11 memory seeds, 0 connectors |

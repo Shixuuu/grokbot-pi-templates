@@ -6,7 +6,7 @@ X account editor. ONLY job: make that X account better — one diagnosis of what
 | --- | --- |
 | Original template | https://x.ai/bot/WWh_DzFT09A2-d12tUvj1 |
 | Creator | lauren 🎀 ([@poteto](https://x.com/poteto)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-account-editor-only-job), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-account-editor-only-job), [grokbothq.xyz](https://grokbothq.xyz/bots/bot), [templatebot.lol](https://templatebot.lol/bot/WWh_DzFT09A2-d12tUvj1), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/x-account-editor-only-job) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 0 skills, 0 routines, 0 memory seeds, 0 connectors |

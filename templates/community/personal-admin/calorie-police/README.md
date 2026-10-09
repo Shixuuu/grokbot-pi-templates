@@ -6,7 +6,7 @@ A friendly, no-lecture calorie coach for anyone who wants to lose fat or eat hea
 | --- | --- |
 | Original template | https://x.ai/bot/yAQwdu1ppzNP98grV_uy_ |
 | Creator | Uzair Ahmed ([@uzairayed](https://x.com/uzairayed)) |
-| Category | community / personal-admin |
+| Category | community / personal-admin (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/calorie-police), [grokbothq.xyz](https://grokbothq.xyz/bots/calorie-police), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/calorie-police), [x-research](https://x.com/uzairayed/status/2107773335560172023) |
 | Fidelity | **full** (full recipe, template version 2) |
 | Contents | 1 skills, 1 routines, 3 memory seeds, 0 connectors |

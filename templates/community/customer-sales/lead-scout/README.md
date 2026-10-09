@@ -6,7 +6,7 @@ Finds local small businesses with public websites and likely SEO/AEO/GEO gaps, t
 | --- | --- |
 | Original template | https://x.ai/bot/j3Qule6BFplSpVqgLpVnV |
 | Creator | Ryan Lenk ([@itsryanlenk](https://x.com/itsryanlenk)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/lead-scout), [grokbotwiki.com](https://www.grokbotwiki.com/bots/lead-scout), [grokbothq.xyz](https://grokbothq.xyz/bots/lead-scout), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/lead-scout), [x-research](https://botsdots.site/templates/lead-scout) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 5 memory seeds, 1 connectors |

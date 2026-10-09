@@ -6,7 +6,7 @@ Places outbound Bland AI phone calls when you ask, then reports what happened. O
 | --- | --- |
 | Original template | https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi |
 | Creator | Matt Palmer ([@mattyp](https://x.com/mattyp)) |
-| Category | community / customer-sales |
+| Category | community / customer-sales (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/dial-bot), [grokbotwiki.com](https://www.grokbotwiki.com/bots/dial-bot), [grokbothq.xyz](https://grokbothq.xyz/bots/dial-bot), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/NJXi2SWEuhNxjOjspMMPi), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/dial-bot), [x-research](https://x.com/kloss_xyz/status/2095275894143365498) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 6 memory seeds, 0 connectors |

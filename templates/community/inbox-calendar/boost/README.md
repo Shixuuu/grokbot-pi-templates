@@ -6,7 +6,7 @@ Coach for a multi-bot bench. Closes unfinished loops, clarifies ownership, cuts 
 | --- | --- |
 | Original template | https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva |
 | Creator | Wayne Lowry ([@wikiwayne](https://x.com/wikiwayne)) |
-| Category | community / inbox-calendar |
+| Category | community / inbox-calendar (not on the x.ai marketplace) |
 | Found via | [grokbottemplates.app](https://grokbottemplates.app/t/inbox-to-asana), [botsdots.site](https://botsdots.site/templates/boost), [grokbotwiki.com](https://www.grokbotwiki.com/bots/inbox-to-asana), [grokbothq.xyz](https://grokbothq.xyz/bots/inbox-to-asana), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/Ka18PTTKUNtDDPg0HpYva), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/inbox-to-asana), [x-research](https://x.com/wikiwayne/status/2095991720060014888) |
 | Fidelity | **full** (full recipe, template version 5) |
 | Contents | 1 skills, 0 routines, 4 memory seeds, 0 connectors |

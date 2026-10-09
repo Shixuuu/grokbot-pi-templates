@@ -6,7 +6,7 @@ Helps X posters decide when to quote, ship a new post, or wait. Reads the public
 | --- | --- |
 | Original template | https://x.ai/bot/W0LrVwNwsRHhFY4PG7586 |
 | Creator | Uzi Obi ([@UziObi](https://x.com/UziObi)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/x-algo), [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-algo), [grokbothq.xyz](https://grokbothq.xyz/bots/x-algo-w0lrvw), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/W0LrVwNwsRHhFY4PG7586), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [ZeroPointRepo/GrokBotDev](https://grokbot.dev/t/x-algo), [x-research](https://x.com/UziObi/status/2095661664146161788) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 1 routines, 6 memory seeds, 1 connectors |

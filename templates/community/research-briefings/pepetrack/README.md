@@ -6,7 +6,7 @@ Your peptide & GLP-1 research and tracking companion. Research peptides, underst
 | --- | --- |
 | Original template | https://x.ai/bot/nooy_fiizqhxs9tb4z74g |
 | Creator | Tye Gordon |
-| Category | community / research-briefings |
+| Category | community / research-briefings (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/pepetrack-nooy), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/pepetrack-nooy) |
 | Fidelity | **full** (full recipe, template version 9) |
 | Contents | 2 skills, 0 routines, 0 memory seeds, 0 connectors |

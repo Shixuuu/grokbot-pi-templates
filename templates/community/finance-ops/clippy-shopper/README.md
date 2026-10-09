@@ -6,7 +6,7 @@ Your AI, now a savvy shopper. Clippy finds coupon codes automatically before you
 | --- | --- |
 | Original template | https://x.ai/bot/Z56l38GYvaZtYIgjhDl6- |
 | Creator | Matt Lucero |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/clippy-shopper), [grokbothq.xyz](https://grokbothq.xyz/bots/clippy-shopper), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://botsdots.site/templates/clippy-shopper) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 2 skills, 0 routines, 2 memory seeds, 0 connectors |

@@ -6,7 +6,7 @@ Drop an X username. Get a score, health flags, unfollow watch, and punchy rewrit
 | --- | --- |
 | Original template | https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F |
 | Creator | High Tv ([@Hightv](https://x.com/Hightv)) |
-| Category | community / content-publishing |
+| Category | community / content-publishing (not on the x.ai marketplace) |
 | Found via | [grokbotwiki.com](https://www.grokbotwiki.com/bots/x-high-coach-ee8s), [grokbothq.xyz](https://grokbothq.xyz/bots/x-high-coach-2), [grokbot-templates.com](https://grokbot-templates.com/), [templatebot.lol](https://templatebot.lol/bot/EE8sm1OWmn3sZyaj3st_F), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://grokbothq.xyz/bots/x-high-coach-2) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 1 skills, 0 routines, 3 memory seeds, 0 connectors |

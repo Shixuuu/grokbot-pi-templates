@@ -6,7 +6,7 @@ Weekday pre-market brief for NASDAQ:SPCX (SpaceX). Tracks SEC filings, analyst t
 | --- | --- |
 | Original template | https://x.ai/bot/grZdTeKVtXFVtIYEe6g_H |
 | Creator | Quidnam |
-| Category | community / finance-ops |
+| Category | community / finance-ops (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/spcx-watch), [grokbothq.xyz](https://grokbothq.xyz/bots/spcx-watch), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [x-research](https://x.com/Quidnam/status/2099887054645563412) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 7 memory seeds, 1 connectors |

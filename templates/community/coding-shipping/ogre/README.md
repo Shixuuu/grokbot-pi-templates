@@ -6,7 +6,7 @@ Independent optimizer and security reviewer for a multi-agent engineering crew. 
 | --- | --- |
 | Original template | https://x.ai/bot/P-pKr0GIxVPYzg8xYivNr |
 | Creator | Capital Copilot ([@CapitalCopilot](https://x.com/CapitalCopilot)) |
-| Category | community / coding-shipping |
+| Category | community / coding-shipping (not on the x.ai marketplace) |
 | Found via | [botsdots.site](https://botsdots.site/templates/ogre), [grokbotwiki.com](https://www.grokbotwiki.com/bots/ogre), [grokbothq.xyz](https://grokbothq.xyz/bots/ogre), [grokbot-templates.com](https://grokbot-templates.com/), [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot), [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot), [Maimuzamilhu/awesome-grok-bot-templates](https://github.com/Maimuzamilhu/awesome-grok-bot-templates), [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates), [x-research](https://botsdots.site/templates/ogre) |
 | Fidelity | **full** (full recipe, template version 1) |
 | Contents | 0 skills, 0 routines, 4 memory seeds, 0 connectors |
