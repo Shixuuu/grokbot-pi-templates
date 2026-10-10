@@ -9,13 +9,29 @@ export const SHARE_ID_RE = /x\.ai\/bot\/(?!marketplace\b|guides\b)([A-Za-z0-9_-]
 export function readJson(p, fallback = undefined) {
   try { return JSON.parse(fs.readFileSync(p, "utf8")); } catch (e) { if (fallback !== undefined) return fallback; throw e; }
 }
+// Credentials that template authors pasted into their recipes must never be republished.
+// Applied to every file this repo's scripts write (templates, catalog.json, CATALOG.md, ...).
+const REDACT_RULES = [
+  // grokbot.studio buyer keys sent as an X-Studio-Key header
+  [/(X-Studio-Key\s*[:=]\s*["'`]?)(?!<REDACTED)[A-Za-z0-9+/_=.-]{16,}/gi, "$1<REDACTED: get your own key from grokbot.studio>"],
+  // any other X-...-Key / -Token / -Secret / Api-Key header or Bearer value that looks like a real random credential
+  [/(\b(?:X-[A-Za-z0-9-]*(?:Key|Token|Secret)|Api-Key|apikey|Authorization\s*:\s*Bearer)\s*[:=]?\s*["'`]?)(?!<REDACTED)(?=[A-Za-z0-9+/_=.-]*\d)(?=[A-Za-z0-9+/_=.-]*[A-Za-z])[A-Za-z0-9+/_=.-]{24,}/gi, "$1<REDACTED: use your own credential>"],
+  // well-known token formats
+  [/\b(?:gh[pousr]_[A-Za-z0-9]{36,}|github_pat_[A-Za-z0-9_]{50,}|crsr_[A-Za-z0-9]{20,}|sk-(?:proj-|ant-)?[A-Za-z0-9_-]{32,}|xai-[A-Za-z0-9]{32,}|xox[baprs]-[A-Za-z0-9-]{20,}|(?:AKIA|ASIA)[A-Z0-9]{16}|AIza[0-9A-Za-z_-]{35}|[rs]k_live_[0-9a-zA-Z]{20,})\b/g, "<REDACTED>"],
+  [/-----BEGIN [A-Z ]*PRIVATE KEY-----[\s\S]*?-----END [A-Z ]*PRIVATE KEY-----/g, "<REDACTED PRIVATE KEY>"],
+];
+export function redactSecrets(s) {
+  let out = String(s);
+  for (const [re, rep] of REDACT_RULES) out = out.replace(re, rep);
+  return out;
+}
 export function writeJson(p, v) {
   fs.mkdirSync(path.dirname(p), { recursive: true });
-  fs.writeFileSync(p, JSON.stringify(v, null, 2) + "\n");
+  fs.writeFileSync(p, redactSecrets(JSON.stringify(v, null, 2)) + "\n");
 }
 export function writeText(p, s) {
   fs.mkdirSync(path.dirname(p), { recursive: true });
-  fs.writeFileSync(p, s);
+  fs.writeFileSync(p, redactSecrets(s));
 }
 export async function fetchText(url, { headers = {}, timeoutMs = 60000, retries = 2 } = {}) {
   let lastErr;
