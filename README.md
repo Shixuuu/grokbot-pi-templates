@@ -2,6 +2,8 @@
 
 Every public **Grok Bot template** we could find, converted into a **Pi** package ([`@earendil-works/pi-coding-agent`](https://github.com/earendil-works/pi)).
 
+**Browse and download: <https://shixuuu.github.io/grokbot-pi-templates/>**. Search by name, description or creator, filter by section, category, trading subtag, skills/routines and fidelity, and download any bot as `<slug>.zip` with a `SETUP.md` for **Pi** and **Hermes Agent** (plus a paste-to-your-agent prompt). The site is built from [`site/`](site/) by [`scripts/06-site.mjs`](scripts/06-site.mjs) and deployed by GitHub Actions; zips are assembled in the browser from `raw.githubusercontent.com`, so no template files are duplicated. To install straight into Pi, use the [`pi-grokbot-import`](https://github.com/Shixuuu/pi-grokbot-import) extension (`grokbot install <slug>`, no GitHub login needed).
+
 Three sections:
 
 - **Official**, `templates/official/<slug>/`: exactly the bots listed on the marketplace, https://x.ai/bot/marketplace (all category tabs).
@@ -115,6 +117,7 @@ node scripts/02-enrich.mjs           # public metadata, official marketplace det
 node scripts/03-convert.mjs          # -> templates/, catalog.json
 node scripts/05-validate.mjs --community-sample 30   # Pi resource-load for all + CLI e2e sample
 node scripts/04-index.mjs            # -> CATALOG.md + counts above
+node scripts/06-site.mjs _site       # static site: data/index.json + per-template file manifests (m/*.json); deployed by .github/workflows/pages.yml
 ```
 
 Full recipes come from `GrokBotService/GetGrokBotTemplateImportDetails` and its recipe blob. That API needs a Cursor account session at `~/.pi/agent/grokbot-import/cursor-session.json` (created with `/grokbot-cursor-login` from [pi-grokbot-import](https://github.com/Shixuuu/pi-grokbot-import); a free account works). Without one, `02-enrich` only collects public metadata. Raw recipe blobs and tokens are never committed. `vendor/pi-grokbot-import-src/` is a copy of that converter (v1.2.0); the scripts reuse its API client, slug rules and Pi mapping.

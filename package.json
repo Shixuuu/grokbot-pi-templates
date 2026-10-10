@@ -11,7 +11,8 @@
     "enrich": "node scripts/02-enrich.mjs",
     "convert": "node scripts/03-convert.mjs",
     "index": "node scripts/04-index.mjs",
-    "validate": "node scripts/05-validate.mjs --community-sample 30"
+    "validate": "node scripts/05-validate.mjs --community-sample 30",
+    "site": "node scripts/06-site.mjs _site"
   },
   "dependencies": {
     "yaml": "^2.9.1"
